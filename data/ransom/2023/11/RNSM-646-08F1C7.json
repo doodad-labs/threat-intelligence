@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-08F1C7",
+  "type": "ransomware-incident",
+  "title": "allenovery.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "allenovery.com",
+    "domain": "allenovery.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Allen & Overy is an international legal practice that has a focus on business law such as banking, finance, employment law, and more",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5bc2071845696f0b34cac0817595731c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxszw5vdmvyes5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-08 01:48:00.000000",
+    "disclosedDate": "2023-11-08 02:29:42.961542"
+  }
+}

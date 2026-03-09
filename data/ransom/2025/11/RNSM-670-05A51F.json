@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-670-05A51F",
+  "type": "ransomware-incident",
+  "title": "www.oucru.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.oucru.org",
+    "domain": "oucru.org",
+    "country": "VN",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 120000000000,
+    "description": "Ransom: 500k120gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/06d5c4f7e6dc779dc0ff0504e3b53037.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm91y3j1lm9yz0bkzxztyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-05 19:42:50.162149",
+    "disclosedDate": "2025-11-05 19:43:28.678279"
+  }
+}

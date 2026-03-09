@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-1515E5",
+  "type": "ransomware-incident",
+  "title": "CommScope ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CommScope",
+    "domain": "commscope.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "vicesociety",
+    "name": "vicesociety",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1976, CommScope Holding provides infrastructure solutions for communications networks worldwide. We design, manufacture, install and support the hardware infrastructure and software intelligence that enable our digital society to interact and thrive.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/46a338d2b5a16c71608410ad883bf7b1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tbvnjb3blqhzpy2vzb2npzxr5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-15 18:51:30.159642",
+    "disclosedDate": "2023-04-15 18:51:30.159668"
+  }
+}

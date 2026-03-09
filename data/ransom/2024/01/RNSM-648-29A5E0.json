@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-648-29A5E0",
+  "type": "ransomware-incident",
+  "title": "North American University ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "North American University",
+    "domain": "nau.edu",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "NAU is a private, non-profit, full-service college offering baccalaureate degree programs in three disciplines with several concentrations. We are located in South Houston, a few miles away from the...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d9217c2f2f006fe4aa57b5b67d51982f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9ydgggqw1lcmljyw4gvw5pdmvyc2l0eubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-29 11:58:43.000940",
+    "disclosedDate": "2024-01-29 11:58:43.171917"
+  }
+}

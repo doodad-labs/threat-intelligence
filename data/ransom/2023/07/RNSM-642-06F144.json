@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-642-06F144",
+  "type": "ransomware-incident",
+  "title": "CADENCEBANK.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CADENCEBANK.COM",
+    "domain": "cadencebank.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cadence Bank - Home",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0feru5drujbtksuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-06 23:22:14.492877",
+    "disclosedDate": "2023-07-06 23:22:14.492902"
+  }
+}

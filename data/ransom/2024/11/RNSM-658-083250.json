@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-083250",
+  "type": "ransomware-incident",
+  "title": "liftkits4less.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "liftkits4less.com",
+    "domain": "liftkits4less.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LIFTKITS4LESS.COM is the largest online seller of suspension lift kit systems.clients' data: ID,Name,Email,Group,Phone,ZIP,Country,State/Province...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/767c958398639cc77c43a4cdd20ee707.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bglmdgtpdhm0bgvzcy5jb21ayxb0nzm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-08 16:18:24.767630",
+    "disclosedDate": "2024-11-08 16:18:25.398017"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-674-06C689",
+  "type": "ransomware-incident",
+  "title": "Transsion ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Transsion",
+    "domain": "transsion.com",
+    "country": "CN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ailock",
+    "name": "AiLock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Transsion Holdings is a diversified international telecommunications manufacturing company founded in 2006, specializing in mobility solutions with operations in over 50 countries globally.The data contains git, git-ai, vendor proprietary code, NDA documents, and other internal documents.",
+    "claimed_data_types": [
+      "internal-documents"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjhbnnzaw9uqefptg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-29 02:38:20.000000",
+    "disclosedDate": "2026-03-06 05:51:09.709095"
+  }
+}

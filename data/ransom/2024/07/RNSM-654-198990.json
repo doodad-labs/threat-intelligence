@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-654-198990",
+  "type": "ransomware-incident",
+  "title": "plantmachineworks.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "plantmachineworks.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Plant Machine Works is a 62,000-square-foot, full-service machine shop with turn-key machining and fabrication capabilities and large-scale machining for oversized components that many shops can’t handle.  Our experienced repair shop specializes in...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f856671aabe7c43552e8d3f11f6de2db.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgxhbnrtywnoaw5ld29ya3muy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-17 13:43:00.000000",
+    "disclosedDate": "2024-07-19 09:29:23.417018"
+  }
+}

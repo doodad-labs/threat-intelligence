@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-31D0FA",
+  "type": "ransomware-incident",
+  "title": "Genesis Motors ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Genesis Motors",
+    "domain": "genesismotors.com.au",
+    "country": "AU",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "trigona",
+    "name": "trigona",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Genesis Motors Isuzu UTE, situated in Lilydale, South East Melbourne, Victoria, stands as a premier Isuzu UTE dealership in Australia. Established initially in Ringwood in March 2011, Genesis Motors has rapidly grown under the leadership of Dealer Principal, Sumil Salgadoe, who began his journey with Isuzu UTE Australia in Brisbane in 2008. With a profound belief in the quality and reliability of Isuzu UTE products, Salgadoe ventured to establish Genesis Motors Isuzu UTE, offering the renowned Isuzu D-MAX UTE and Isuzu MU-X SUV. In response to the company's exponential growth in 2016, Genesis Motors expanded its office space, prompting a relocation to Lilydale, Victoria.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8f001d60c0a9c054d8d5b0bbb52d4fc7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2vuzxnpcybnb3rvcnnadhjpz29uyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-29 10:00:00.000000",
+    "disclosedDate": "2024-01-31 09:05:28.683011"
+  }
+}

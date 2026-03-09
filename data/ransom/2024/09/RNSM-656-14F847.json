@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-14F847",
+  "type": "ransomware-incident",
+  "title": "ecbawm.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ecbawm.com",
+    "domain": "ecbawm.com",
+    "country": "JP",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Emery Celli Brinckerhoff Abady Ward & Maazel LLP is a nationally-recognized litigation boutique that focuses on civil rights, commercial, criminal, and ethics matters.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwniyxdtlmnvbubhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-14 05:59:35.360992",
+    "disclosedDate": "2024-09-14 05:59:36.509395"
+  }
+}

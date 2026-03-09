@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-193CBE",
+  "type": "ransomware-incident",
+  "title": "thecsi.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "thecsi.com",
+    "domain": "thecsi.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CSI provides product life cycle management services including, forward logistics (product assembly, packaging and distribution) and reverse logistics (product refurbishment, repair, and engineering) services to major manufacturers and service provide...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cce187a27c9148b454abfba623270e93.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghly3nplmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-19 09:28:00.000000",
+    "disclosedDate": "2023-10-19 10:01:38.270315"
+  }
+}

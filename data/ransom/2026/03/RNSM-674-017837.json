@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-017837",
+  "type": "ransomware-incident",
+  "title": "diesel-electric.co.za ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "diesel-electric.co.za",
+    "domain": "diesel-electric.co.za",
+    "country": "ZA",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Diesel-Electric Group including Bosch Service Dealers, e-CAR Service Centers and Bosch SA togeth...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ea8624b7154fb41c80a9e4d4d2ed6650.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgllc2vslwvszwn0cmljlmnvlnphqgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-26 14:27:00.000000",
+    "disclosedDate": "2026-03-01 13:57:16.046396"
+  }
+}

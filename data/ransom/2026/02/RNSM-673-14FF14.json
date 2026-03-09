@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-14FF14",
+  "type": "ransomware-incident",
+  "title": "ONESUPPORT.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ONESUPPORT.COM",
+    "domain": "onesupport.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ONESUPPORT.COM is a company that offers a variety of technical assistance options to individuals and businesses. Services include troubleshooting and problem-solving for issues relating to internet connectivity, devices, software applications, and more. Their team of professionals provides 24/7 support, aiming to deliver high-quality, user-friendly and efficient solutions based on user needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/54a75d0ed71947595bc1d074151ffc23.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t05fu1vque9svc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-14 10:47:54.126703",
+    "disclosedDate": "2026-02-14 10:48:09.594250"
+  }
+}

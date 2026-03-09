@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-664-29D79F",
+  "type": "ransomware-incident",
+  "title": "Termignoni SpA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Termignoni SpA",
+    "domain": "termignoni.it",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000,
+    "description": "Termignoni SpA designs and creates motorbike exhaust systems for use at the highest levels.We are going to upload about 1,5 GB of corporate data. Lot of personal information (DOB, address, phones, emails, and so on), financial data, client data, contracts and agreements, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvybwlnbm9uasbtcefaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-15 00:00:00.000000",
+    "disclosedDate": "2025-05-29 14:42:12.534981"
+  }
+}

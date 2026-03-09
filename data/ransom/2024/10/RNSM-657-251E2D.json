@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-657-251E2D",
+  "type": "ransomware-incident",
+  "title": "SW Reclaim ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SW Reclaim",
+    "domain": "swreclaim.co.uk",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "$20000",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/627e8d6edc2aa42a8941b692f00ee96e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1cgumvjbgfpbubrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 16:44:48.410534",
+    "disclosedDate": "2024-10-25 16:44:48.832210"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-167F75",
+  "type": "ransomware-incident",
+  "title": "www.aaconsultinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.aaconsultinc.com",
+    "domain": "aaconsultinc.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AA Consult Inc. is a consulting firm specializing in providing innovative business solutions and strategic advisory services. They focus on helping organizations enhance their performance through expert guidance in areas such as management, operations, and technology. The company is committed to delivering tailored strategies that drive growth, efficiency, and competitive advantage for their clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/25b1ce68f9f545a12593680cd51fb248.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmfhy29uc3vsdgluyy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-15 16:39:14.000000",
+    "disclosedDate": "2024-08-16 14:19:06.607408"
+  }
+}

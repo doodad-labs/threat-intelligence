@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-13200C",
+  "type": "ransomware-incident",
+  "title": "greekpeak.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "greekpeak.net",
+    "domain": "greekpeak.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "WELCOME TO GREEK PEAK Greek Peak Mountain Resort, central New York's largest ski resort was founded in 1958 and has remained at the leading edge of the ski industry with fifty-six trails, six chair lifts, two surface lifts, beginners' slope, and terr...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jlzwtwzwfrlm5ldebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-13 07:26:40.439312",
+    "disclosedDate": "2023-02-13 07:26:40.439312"
+  }
+}

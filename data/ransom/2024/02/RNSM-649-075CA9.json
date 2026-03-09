@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-075CA9",
+  "type": "ransomware-incident",
+  "title": "Anderco PTE LTD ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Anderco PTE LTD",
+    "domain": "anderco.com.sg",
+    "country": "SG",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "No. 1 container supplier in Singapore. New & used containers for sale & rental.https://anderco.com.sg/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3adb761020ffcc0e6b513fa6a26d3ea6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw5kzxjjbybqveugtfreqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-07 00:00:00.000000",
+    "disclosedDate": "2024-02-07 02:56:30.198299"
+  }
+}

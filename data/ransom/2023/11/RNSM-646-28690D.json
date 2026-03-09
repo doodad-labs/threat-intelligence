@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-28690D",
+  "type": "ransomware-incident",
+  "title": "First Financial Security ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "First Financial Security",
+    "domain": "firstfinancialsecurity.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "First Financial Security (FFS) is a national brokerage agency that works to equip, train, and support licensed insurance representatives to deliver innovative financial products to households across America.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fe77001aac654cc6d4d99e773e515ba0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmlyc3qgrmluyw5jawfsifnly3vyaxr5qhjhbnnvbwhvdxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-19 00:00:00.000000",
+    "disclosedDate": "2023-11-28 01:14:03.396231"
+  }
+}

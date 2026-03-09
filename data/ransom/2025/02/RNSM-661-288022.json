@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-288022",
+  "type": "ransomware-incident",
+  "title": "plasseramerican.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "plasseramerican.com",
+    "domain": "plasseramerican.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Plasser American Corporation is an eminent manufacturer of heavy machinery and equipment designed for maintenance of way (MOW) on railroads. They offer an extensive range of advanced machines and systems such as track laying machines, tampers, stabilizers, ballast distributing and profiling machinery, and other track maintenance equipment. The company is known for their high-quality products that significantly increase the life-cycle of rail tracks.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgxhc3nlcmftzxjpy2fulmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-04 00:00:00.000000",
+    "disclosedDate": "2025-02-28 18:03:07.012908"
+  }
+}

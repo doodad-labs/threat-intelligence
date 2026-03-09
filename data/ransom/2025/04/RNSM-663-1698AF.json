@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-663-1698AF",
+  "type": "ransomware-incident",
+  "title": "foerster-schwanau.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "foerster-schwanau.de",
+    "domain": "foerster-schwanau.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zm9lcnn0zxitc2nod2fuyxuuzgvac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-16 23:23:19.333417",
+    "disclosedDate": "2025-04-16 23:23:22.410606"
+  }
+}

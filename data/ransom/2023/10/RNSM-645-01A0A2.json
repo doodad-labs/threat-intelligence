@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-01A0A2",
+  "type": "ransomware-incident",
+  "title": "erga.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "erga.com",
+    "domain": "erga.com",
+    "country": "SA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "An architectural and engineering firm based in Lebanon with branches in Saudi Arabia, Qatar & UAE. we provide architecture consultancy.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/517be31b478d7538999b0d126e77737a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxjnys5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-01 22:57:00.000000",
+    "disclosedDate": "2023-10-01 23:41:58.990241"
+  }
+}

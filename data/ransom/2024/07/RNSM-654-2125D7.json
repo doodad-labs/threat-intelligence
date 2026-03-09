@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-2125D7",
+  "type": "ransomware-incident",
+  "title": "Sherbrooke Metals ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sherbrooke Metals",
+    "domain": "sherbrookemetals.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2bfe2c8d6687089b5a237a1b8d7f6e36.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2hlcmjyb29rzsbnzxrhbhnaqnjhaw5daxbozxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-21 19:23:37.462577",
+    "disclosedDate": "2024-07-21 19:23:38.174032"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "RNSM-665-1224A8",
+  "type": "ransomware-incident",
+  "title": "Ha******.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ha******.us",
+    "country": ""
+  },
+  "actor": {
+    "id": "apos",
+    "name": "apos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "we exfiltrate all the data Ha******.us from server SSN, FINANCIAL RECORD, MEDICAL RECORDS,PERSONAL DATA,if ransom not paid we can publish all the data or sale to competitors",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgeqkioqkioudxnayxbvcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-12 09:07:29.690757",
+    "disclosedDate": "2025-06-12 09:07:30.402430"
+  }
+}

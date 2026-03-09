@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-02B535",
+  "type": "ransomware-incident",
+  "title": "White Coffee Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "White Coffee Corporation",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 88400000000,
+    "description": "White Coffee Corporation is a family-owned business with over 85 years of experience, specializing in coffee roasting and co-packing services for beverage brands, hospitality providers, and entrepreneurs. White Coffee corporate office is located in 1835 Steinway Pl, Astoria, New York, 11105, United States and has 90 employees. The total amount of data leakage is 88.40 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b602b93a5c6e7d0d0a8a8a132b01cb97.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2hpdgugq29mzmvlienvcnbvcmf0aw9uqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-30 18:13:23.000000",
+    "disclosedDate": "2025-08-02 09:10:50.238855"
+  }
+}

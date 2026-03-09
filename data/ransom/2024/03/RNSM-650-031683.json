@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-031683",
+  "type": "ransomware-incident",
+  "title": "Stoney Creek Furniture ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Stoney Creek Furniture",
+    "domain": "stoneycreekfurniture.com",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Stoney Creek Furniture, founded in 1969, is a large furniture store offering any furniture, including custom-made furniture. Stoney Creek Furniture corporate office is located in 395 Lewis Rd, Stoney Creek, Ontario, L8E 5N5, Canada and has 72 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/659b952cb04841ac9a4781c1e9296913.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rvbmv5ienyzwvriez1cm5pdhvyzubtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-28 13:03:39.12345",
+    "disclosedDate": "2024-03-03 08:18:06.057384"
+  }
+}

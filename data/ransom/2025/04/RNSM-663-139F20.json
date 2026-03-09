@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-663-139F20",
+  "type": "ransomware-incident",
+  "title": "National Association for Stock Car Auto Racing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "National Association for Stock Car Auto Racing",
+    "country": "US"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1038700000000,
+    "description": "National Association for Stock Car Auto Racing (NASCAR) is the sanctioning body for the No. 1 form of motorsports in the United States and owner of 16 of the nation's major motorsports entertainment facilities. NASCAR corporate office is located in 1 Daytona Blvd, Daytona Beach, Florida, 32114, United States and has 8,734 employees. The total amount of data leakage is 1038.70 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4d34a999f20fc8a4688aa2c78fe50058.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf0aw9uywwgqxnzb2npyxrpb24gzm9yifn0b2nrienhcibbdxrvifjhy2luz0btzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-08 10:55:07.000000",
+    "disclosedDate": "2025-04-13 20:13:47.313536"
+  }
+}

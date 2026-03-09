@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-189430",
+  "type": "ransomware-incident",
+  "title": "autogedal.ro ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "autogedal.ro",
+    "domain": "autogedal.ro",
+    "country": "RO"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AutoGedal, the destination of confidence for passengers of travel, nature and adventure . With a ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5a966e229ba6b2b75198db529bfb55fd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxv0b2dlzgfslnjvqgfwddcz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-07 12:23:42.227078",
+    "disclosedDate": "2025-02-18 17:48:01.875373"
+  }
+}

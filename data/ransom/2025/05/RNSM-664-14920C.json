@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-664-14920C",
+  "type": "ransomware-incident",
+  "title": "Franman ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Franman",
+    "domain": "franman.gr",
+    "country": "GR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15000000000,
+    "description": "Franman provides a wide range of services to the shipping industry, focused on shipbuilding equipment, spare parts, ship repairs, service, consulting and security services.We are going to upload more than 15 GB of corporate data (10gb SQLs). A lot of employees personal information, NDAs, confidentiality agreements, financial data, lots of projects details.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnjhbm1hbkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-13 00:00:00.000000",
+    "disclosedDate": "2025-05-14 13:17:05.910125"
+  }
+}

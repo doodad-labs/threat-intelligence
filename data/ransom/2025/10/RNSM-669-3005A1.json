@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-3005A1",
+  "type": "ransomware-incident",
+  "title": "FA Servers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FA Servers",
+    "domain": "faserver.ca",
+    "country": "SI",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/adb39e434dafc458bfdcd8771d93cdb3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rkegu2vydmvyc0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-30 17:43:57.638800",
+    "disclosedDate": "2025-10-30 17:44:11.281134"
+  }
+}

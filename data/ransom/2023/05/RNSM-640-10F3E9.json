@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-640-10F3E9",
+  "type": "ransomware-incident",
+  "title": "The Mitchell Partnership ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Mitchell Partnership",
+    "domain": "tmptoronto.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Mitchell Partnership Inc is a mechanical building service consulting engineering practice that was founded in Toronto in 1958. Engineers being consulted in the company have no idea that confidential contracts with Mitchell Partnerships are not really confidential as well as personal information of Mitchells' own employees . Obtained documentation is very detailed and will be here soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlie1pdgnozwxsifbhcnruzxjzaglwqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-04 01:02:03.456789",
+    "disclosedDate": "2023-05-10 13:46:55.578441"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-057CBA",
+  "type": "ransomware-incident",
+  "title": "Custom Security Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Custom Security Systems",
+    "domain": "customsecuritysystems.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e88810f075407fca73ccb25a7b5cd5df.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q3vzdg9tifnly3vyaxr5ifn5c3rlbxnaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-05 22:59:03.000000",
+    "disclosedDate": "2024-09-05 23:08:24.122388"
+  }
+}

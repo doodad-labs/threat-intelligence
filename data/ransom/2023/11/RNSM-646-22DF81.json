@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-22DF81",
+  "type": "ransomware-incident",
+  "title": "NESPOLI GROUP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NESPOLI GROUP",
+    "domain": "nespoligroup.de",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "NESPOLI GROUP",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d8bec06174037a3469ae81adfe31cfc6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tkvtue9mssbhuk9vuebhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-22 13:31:04.123456",
+    "disclosedDate": "2023-11-22 14:39:35.680862"
+  }
+}

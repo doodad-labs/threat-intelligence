@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-11AC01",
+  "type": "ransomware-incident",
+  "title": "EMERSON.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EMERSON.COM",
+    "domain": "emerson.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Emerson Global - Emerson",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/78fd8d0f6439391e3f91fd9d80b9758d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ru1fulnpti5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-11 17:58:23.272437",
+    "disclosedDate": "2023-07-11 17:58:23.272465"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-04BE2D",
+  "type": "ransomware-incident",
+  "title": "csucontracting.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "csucontracting.com",
+    "domain": "csucontracting.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[IA generated] CSU Contracting is a company specializing in construction and contracting services. They offer a range of services including general contracting, project management, and design-build solutions. With a focus on quality and customer satisfaction, they handle projects of various sizes and complexities, ensuring timely completion and adherence to client specifications. Their expertise spans residential, commercial, and industrial sectors.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b115087f065d79be9f241e8c47f15b1b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3n1y29udhjhy3rpbmcuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-04 08:24:46.000000",
+    "disclosedDate": "2024-11-04 11:33:26.410254"
+  }
+}

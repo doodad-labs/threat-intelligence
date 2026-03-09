@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-065A6D",
+  "type": "ransomware-incident",
+  "title": "Colucci Law Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Colucci Law Group",
+    "domain": "coluccilawgroup.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Colucci Law Group provides comprehensive legal support in Florida, focusing on areas such as property …",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29sdwnjasbmyxcgr3jvdxbau2lszw50umfuc29tr3jvdxa=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-19 21:28:45.772556",
+    "disclosedDate": "2025-05-06 18:15:59.563838"
+  }
+}

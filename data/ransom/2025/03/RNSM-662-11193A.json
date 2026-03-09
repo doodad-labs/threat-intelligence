@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-11193A",
+  "type": "ransomware-incident",
+  "title": "havenresorts.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "havenresorts.com",
+    "domain": "havenresorts.com",
+    "country": "MX",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Enjoy sanctuary of luxury and sophistication at Haven Riviera Cancun, an adults-only, all-inclusive resort located between Cancun & Riviera Maya.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agf2zw5yzxnvcnrzlmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-11 22:52:39.438047",
+    "disclosedDate": "2025-03-11 22:52:49.762452"
+  }
+}

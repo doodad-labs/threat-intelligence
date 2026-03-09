@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-26A7A4",
+  "type": "ransomware-incident",
+  "title": "Koi Design ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Koi Design",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "Koi Design LLC is a clothing company. The company's line of business includes the wholesale distribution of women's, children's, and infants' clothing and accessories. We are going to share with you 30Gb of their databases of business files, payments information, agreements, projects and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s29pierlc2lnbkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-26 16:18:31.506675",
+    "disclosedDate": "2024-03-26 16:18:31.697078"
+  }
+}

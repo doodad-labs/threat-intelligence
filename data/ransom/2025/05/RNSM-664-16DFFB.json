@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-16DFFB",
+  "type": "ransomware-incident",
+  "title": "HTE Technologies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HTE Technologies",
+    "domain": "htetech.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] HTE Technologies is a company specializing in automation, pneumatics, vacuum, fluid power, robotic parts and repair services to various industries. They offer comprehensive solutions for industrial automation and technology needs. Headquartered in Missouri, USA, the company serves a vast client base in the states of Missouri,Illinois, and Kansas.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9e954a42fd121490dfa82f2b9f1c9080.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sfrfifrly2hub2xvz2llc0bibgfja2xvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-27 00:00:00.000000",
+    "disclosedDate": "2025-05-16 13:41:19.397545"
+  }
+}

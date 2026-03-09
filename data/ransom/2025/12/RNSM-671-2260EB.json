@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-2260EB",
+  "type": "ransomware-incident",
+  "title": "National Biscuit Industries ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "National Biscuit Industries",
+    "domain": "nabilbiscuits.com",
+    "country": "OM",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf0aw9uywwgqmlzy3vpdcbjbmr1c3ryawvzqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-22 17:53:42.596879",
+    "disclosedDate": "2025-12-22 17:54:45.891573"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-095EFD",
+  "type": "ransomware-incident",
+  "title": "Kandeo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kandeo",
+    "domain": "kandeofund.com",
+    "country": "CO"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.kandeofund.com , https://diaphanum.pe/ , https://www.zoominfo.com/c/kandeo/355444055 Kandeo is focused on providing innovative solutions to enhance growth for businesses. Their product offerings are designed to empower companies to achieve brilliance in their operations. The intended clients range from small startups to large corporations seeking to optimize their business strategies. By leveraging advanced technologies, Kandeo aims to drive success and foster sustainable development.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fuzgvvqhrozwdlbnrszw1lbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-09 16:02:26.189717",
+    "disclosedDate": "2025-09-09 16:03:12.041367"
+  }
+}

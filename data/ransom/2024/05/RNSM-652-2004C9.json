@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-2004C9",
+  "type": "ransomware-incident",
+  "title": "Berge Bulk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Berge Bulk",
+    "domain": "bergebulk.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Berge Bulk – one of the world’s leading independent dry bulk owners – has an outstanding reputation for the safe, efficient, and sustainable delivery of commodities around the world. We are a young, dynamic company with a strong commitment to innovative growth and development.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9f29b6fed8191d465c015bdbbaf450e4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvyz2ugqnvsa0byyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-18 00:00:00.000000",
+    "disclosedDate": "2024-05-20 12:21:31.509697"
+  }
+}

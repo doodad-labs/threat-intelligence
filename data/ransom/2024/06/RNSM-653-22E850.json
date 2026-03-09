@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-653-22E850",
+  "type": "ransomware-incident",
+  "title": "D*****S ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "D*****S",
+    "country": "",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "flocker",
+    "name": "flocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "To The Board Of D*****S We have Successfully breached d*****s.com servers your systems are locked, We took backup copy of […]",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0b147e75eed2cef88e3f1b09418424f5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rcoqkioqu0bmbg9ja2vy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-22 00:00:00.000000",
+    "disclosedDate": "2024-06-22 13:26:42.453819"
+  }
+}

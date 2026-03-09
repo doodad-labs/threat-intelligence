@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-309DFD",
+  "type": "ransomware-incident",
+  "title": "Agencia Tributaria AEAT ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Agencia Tributaria AEAT",
+    "domain": "agenciatributaria.es",
+    "country": "ES",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "trinity",
+    "name": "trinity",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 560000000000,
+    "description": "560Gb - Revenue: 38$mln - Publication date: 2024-12-31",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cfaa926e2de4ec65bae51ea42c4e7ef8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwdlbmnpysbucmlidxrhcmlhieffqvradhjpbml0eq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-30 22:27:17.019050",
+    "disclosedDate": "2024-11-30 22:27:17.843042"
+  }
+}

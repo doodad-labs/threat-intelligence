@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-635-240B6E",
+  "type": "ransomware-incident",
+  "title": "aristopharma.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aristopharma.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 750000000000,
+    "description": "1 part of:750GB, Personal folders of key employees, all infrastructure\\personal data\\accounting, etc.Md. Azharul Islam_6581 36gb - Senior Executive,Production at Aristopharma Ltd.  Md. Rubel_10790 4gb - Executive, Production at Aristopharma Ltd...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxjpc3rvcghhcm1hlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-24 10:53:30.434253",
+    "disclosedDate": "2022-12-24 10:53:30.434253"
+  }
+}

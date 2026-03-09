@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-661-248BDC",
+  "type": "ransomware-incident",
+  "title": "Thornton EngineeringAustralia Pty Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Thornton EngineeringAustralia Pty Ltd",
+    "domain": "thorntoneng.com.au",
+    "country": "AU",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 11000000000,
+    "description": "Thornton Engineering provides design and fabrication of structural steel, pressure vessels, heat exchangers, plate and piling steel products for major projects Australia wide. We are ready to upload more than 11 GB of essential corporate documents such as: contact numbers and e-mail addresses of employeesand customers, financial data (audits, payment details, reports), etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghvcm50b24grw5naw5lzxjpbmdbdxn0cmfsaweguhr5iex0zebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-24 00:00:00.000000",
+    "disclosedDate": "2025-02-24 14:23:01.395818"
+  }
+}

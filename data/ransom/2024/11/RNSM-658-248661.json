@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-248661",
+  "type": "ransomware-incident",
+  "title": "Nationwide Legal ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nationwide Legal",
+    "domain": "nationwidelegal.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/40d7a1639266b3c7b084d9ac57ee3db9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf0aw9ud2lkzsbmzwdhbebrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-24 04:07:49.180039",
+    "disclosedDate": "2024-11-24 04:07:50.548314"
+  }
+}

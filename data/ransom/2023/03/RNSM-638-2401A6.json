@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-2401A6",
+  "type": "ransomware-incident",
+  "title": "EMERALDX.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EMERALDX.COM",
+    "domain": "emeraldx.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home Page - Emerald",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3edc24f7c45a64038058da68646d16db.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ru1fukfmrfguq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-24 21:36:20.224226",
+    "disclosedDate": "2023-03-24 21:36:20.224250"
+  }
+}

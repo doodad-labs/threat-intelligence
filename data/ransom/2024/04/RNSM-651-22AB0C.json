@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-651-22AB0C",
+  "type": "ransomware-incident",
+  "title": "Consorci Sanitari Integral ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Consorci Sanitari Integral",
+    "domain": "csi.cat",
+    "country": "ES",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomexx",
+    "name": "ransomexx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 52470000000,
+    "description": "Consorci Sanitari Integral (CSI) is a healthcare consortium based in Catalonia, Spain Leaked data size: 52.47GB.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29uc29yy2kgu2fuaxrhcmkgsw50zwdyywxacmfuc29tzxh4",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-10-11 09:16:00.000000",
+    "disclosedDate": "2024-04-22 12:46:27.819669"
+  }
+}

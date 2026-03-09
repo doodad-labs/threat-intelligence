@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-641-20BCFB",
+  "type": "ransomware-incident",
+  "title": "CBESERVICES.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CBESERVICES.COM",
+    "domain": "cbeservices.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CBE Services - Home Builders in Lake Macquarie",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0jfu0vsvkldrvmuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-20 04:42:48.604241",
+    "disclosedDate": "2023-06-20 04:42:48.604293"
+  }
+}

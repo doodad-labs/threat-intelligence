@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-12CC45",
+  "type": "ransomware-incident",
+  "title": "Innodis Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Innodis Group",
+    "domain": "innodisgroup.com",
+    "country": "MU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Innodis Ltd, a public listed company founded in 1973, averages an annual turnover of almost MUR 4 billion. We are presently one of the largest groups involved in food and non-food production and distribution in Mauritius...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/637cd0f6765b5cbd24c909b21da22630.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5ub2rpcybhcm91cebub2vzy2fwzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-07 00:00:00.000000",
+    "disclosedDate": "2023-07-12 17:06:55.621099"
+  }
+}

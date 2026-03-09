@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-07EBA4",
+  "type": "ransomware-incident",
+  "title": "Transport Lutztulln ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Transport Lutztulln",
+    "domain": "lutztulln.com",
+    "country": "AT",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "orca",
+    "name": "orca",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "​Lutz GmbH, operating under the name Transport Lutz Tulln, is a privately held...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3d9438213459e1353c25a6b8400a695c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjhbnnwb3j0iex1dhp0dwxsbkbvcmnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-07 09:15:41.822341",
+    "disclosedDate": "2025-05-07 09:16:59.477095"
+  }
+}

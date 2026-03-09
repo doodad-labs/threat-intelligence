@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-177E83",
+  "type": "ransomware-incident",
+  "title": "www.chiltonisd.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.chiltonisd.org",
+    "domain": "chiltonisd.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Chilton Independent School District is an educational organization located in Chilton, Texas. It serves the local community by providing K-12 education. The district is committed to fostering a supportive and challenging learning environment, aiming to empower students with the essential skills and knowledge for future success. Chilton ISD emphasizes academic excellence, extracurricular engagement, and community involvement.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/36fe9ded7a8b20b0c7e8ce492c88301a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnoawx0b25pc2qub3jnqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-17 12:49:37.000000",
+    "disclosedDate": "2024-10-17 15:19:39.561530"
+  }
+}

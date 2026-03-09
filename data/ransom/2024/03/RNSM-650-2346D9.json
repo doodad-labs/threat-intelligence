@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-2346D9",
+  "type": "ransomware-incident",
+  "title": "Regina Dental Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Regina Dental Group",
+    "domain": "reginadentalgroup.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Regina Dental Group a group of dental offices located at Normanview Crossing, Grasslands Dental and Southland Mall. Regina Dental Group corporate office is located in 398 Mccarthy Blvd, Regina, Saskatchewan, S4R 6A7, Canada and has 10 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvnaw5hierlbnrhbcbhcm91cebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-23 13:38:45.12345",
+    "disclosedDate": "2024-03-23 19:46:12.400493"
+  }
+}

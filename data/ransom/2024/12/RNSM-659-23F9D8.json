@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-23F9D8",
+  "type": "ransomware-incident",
+  "title": "www.globelink.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.globelink.com.au",
+    "domain": "globelink-slovenia.com",
+    "country": "AU",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 03.01.2025. Globelink International was established in July 1997 as the first true genuine Wholesale NVOCC in Australia, with offices in Sydney and Melbourne together with agents in B            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/666f03e9bf03dc4d94d9c8bba7340725.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmdsb2jlbgluay5jb20uyxvacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-03 00:00:00.000000",
+    "disclosedDate": "2024-12-23 20:54:21.492959"
+  }
+}

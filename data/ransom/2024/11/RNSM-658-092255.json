@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-092255",
+  "type": "ransomware-incident",
+  "title": "bitquail.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bitquail.com",
+    "domain": "bitquail.com",
+    "country": "NL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Bitquail.com is a technology company specializing in cryptocurrency and blockchain solutions. It offers innovative digital asset management tools and trading platforms designed for both individual and institutional investors. The company focuses on enhancing security, efficiency, and user experience in the cryptocurrency space, aiming to simplify access to digital currencies and blockchain technology.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/df82560052bc3fcfd4c9b1c66b06cbc1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yml0cxvhawwuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-05 13:25:59.000000",
+    "disclosedDate": "2024-11-09 22:44:36.830926"
+  }
+}

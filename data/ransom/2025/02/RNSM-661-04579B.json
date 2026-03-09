@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-04579B",
+  "type": "ransomware-incident",
+  "title": "gaheritagefcu.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gaheritagefcu.org",
+    "domain": "gaheritagefcu.org",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Georgia Heritage Federal Credit Union, often abbreviated as GA Heritage FCU, is a community-based financial institution in the United States. Founded in 1940, it offers a variety of financial services to its members. These include checking and savings accounts, credit cards, business services, home and auto loans, and financial education. Known for its focus on community involvement, it maintains a commitment to provide top-quality financial services in a friendly and professional manner.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f3a3c53bda5a9f11c85fcbe2aa9b70e6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2fozxjpdgfnzwzjds5vcmdacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-04 06:20:32.255964",
+    "disclosedDate": "2025-02-04 06:21:57.764220"
+  }
+}

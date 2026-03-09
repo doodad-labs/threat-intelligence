@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-14A148",
+  "type": "ransomware-incident",
+  "title": "mmtransport.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mmtransport.com",
+    "domain": "mmtransport.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "dan0n",
+    "name": "dAn0n",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "M&M Transport Services, Inc. was founded in 1990 by Mark R. Warsofsky and has steadily grown into a nationwide, dedicated transportation provider f or some of the biggest retail, manufacturing, distri...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ef50ea22381dac9d1fe75e0b10c86847.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw10cmfuc3bvcnquy29tqgrbbjbu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-14 00:00:00.000000",
+    "disclosedDate": "2024-08-14 10:05:34.414884"
+  }
+}

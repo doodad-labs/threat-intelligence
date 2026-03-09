@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-20262D",
+  "type": "ransomware-incident",
+  "title": "Iris ID ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Iris ID",
+    "domain": "irisid.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Iris ID Systems develops, markets, sells, and distributes iris recognition technology products worldwide. The company also offers access control, time and attendance, public safety and justice, transportation and immigration, and national identity solutions. Iris ID Systems was founded in 1997 and is based in Cranbury, New Jersey.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a5dc31b95e74f99c4a3c6b3a1c9d6667.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sxjpcybjrebkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-16 11:40:02.378192",
+    "disclosedDate": "2025-04-20 07:26:18.714454"
+  }
+}

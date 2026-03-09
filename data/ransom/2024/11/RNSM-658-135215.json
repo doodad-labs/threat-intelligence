@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-135215",
+  "type": "ransomware-incident",
+  "title": "Schmack ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Schmack",
+    "domain": "schmack-biogas.com",
+    "country": "DE",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Germany - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ad4077cf2d0895367891a3e141e912b5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2nobwfja0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-13 14:18:32.000000",
+    "disclosedDate": "2024-11-13 14:47:54.340058"
+  }
+}

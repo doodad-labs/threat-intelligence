@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-064A9A",
+  "type": "ransomware-incident",
+  "title": "grand-indonesia.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "grand-indonesia.com",
+    "domain": "grand-indonesia.com",
+    "country": "ID",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Grand Indonesia is an integrated multipurpose complex at Thamrin Road in Central Jakarta, Indonesia. The 640,000 m² complex consists of a huge shopping mall, office tower Menara BCA, high end serviced residential tower Kempinski Residences and the fi...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/da819a895420bdbe7ff7bb822447bfd0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jhbmqtaw5kb25lc2lhlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-19 00:00:00.000000",
+    "disclosedDate": "2024-05-06 16:54:28.127992"
+  }
+}

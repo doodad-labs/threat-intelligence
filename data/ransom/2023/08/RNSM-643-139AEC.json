@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-139AEC",
+  "type": "ransomware-incident",
+  "title": "luterkort.se ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "luterkort.se",
+    "domain": "luterkort.se",
+    "country": "SE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "luterkort.se",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b73b54a5dd02190210f4211f98d6682d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bhv0zxjrb3j0lnnlqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-13 08:41:00.000000",
+    "disclosedDate": "2023-08-13 09:57:42.443828"
+  }
+}

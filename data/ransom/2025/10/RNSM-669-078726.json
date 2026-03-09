@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-078726",
+  "type": "ransomware-incident",
+  "title": "BCR Recouvrement ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BCR Recouvrement",
+    "domain": "bcr-recouvrement.com",
+    "country": "FR",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BCR Recouvrement, located at 129 Rue Servient in Lyon, France, is a company specializing in debt recovery and credit management services. Their mission is to help businesses recover unpaid debts from clients, ensuring that companies can maint            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2b27f93feba9738859110cf92949f8fe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qknsifjly291dnjlbwvudebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-04 00:00:00.000000",
+    "disclosedDate": "2025-10-07 15:50:33.793812"
+  }
+}

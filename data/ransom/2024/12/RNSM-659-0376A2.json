@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-0376A2",
+  "type": "ransomware-incident",
+  "title": "www.iscinc93.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.iscinc93.com",
+    "domain": "iscinc93.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ISC, Inc. is a company that specializes in providing information security consulting services. Established in 1993, it offers a range of services including cybersecurity assessments, risk management, compliance consulting, and IT security solutions. ISC, Inc. aims to help organizations protect their data and networks by implementing effective security measures and strategies tailored to meet specific client needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/35810924102b568dde9beb925694a8b9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmlzy2luyzkzlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 00:00:00.000000",
+    "disclosedDate": "2024-12-03 18:44:41.050748"
+  }
+}

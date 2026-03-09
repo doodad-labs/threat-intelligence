@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-657-01F11C",
+  "type": "ransomware-incident",
+  "title": "ShoreMaster ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ShoreMaster",
+    "domain": "shoremaster.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15000000000,
+    "description": "ShoreMaster is a customer-focused, market driven company manufacturing quality products safely and efficiently. We got about 15Gb of data. We will release it soon. Confidential files, agreements,employee files with personal data, lists with SSNs and many other interesting files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2hvcmvnyxn0zxjaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2024-11-26%20shoremaster%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-01 17:34:41.690371",
+    "disclosedDate": "2024-10-01 17:34:42.967463"
+  }
+}

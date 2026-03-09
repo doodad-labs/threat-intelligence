@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-650-27769A",
+  "type": "ransomware-incident",
+  "title": "otrwheel.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "otrwheel.com",
+    "domain": "otrwheel.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "OTR’s product portfolio includes tires, wheels, assemblies, tracks, tubes, ballast and more. Our tire lineup comprises over 1,700 models and 300+ distinctive treads, with bias and radial pneumatic (directional and non-directional); semi-pneumatic; solid (directional and non-directional); non-marking; and airless. The portfolio also includes over 1,000 wheels, with single- and multi-piece versions in steel and aluminum, as well as cast disc units. In total, there are over 100,000 standard items, many of which can be customized for unique applications.SITE: www.otrwheel.com Address : 195 Chatillon Rd NE Ste 4, Rome, Georgia, United StatesALL DATA SIZE: ~700gb 1. Human Resources 2. Engineering 3. Finance 4. Customers 5. Confidential personal documents employees & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e8d93a5820a15bf781801e8cd48ce4a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b3ryd2hlzwwuy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-02 00:00:00.000000",
+    "disclosedDate": "2024-03-27 21:19:54.534477"
+  }
+}

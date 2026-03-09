@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-264A62",
+  "type": "ransomware-incident",
+  "title": "ACLARA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ACLARA.COM",
+    "domain": "aclara.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Aclara Technologies LLC",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1d5bf36857721a81a53507715666c51c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qunmqvjblknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:58:44.312252",
+    "disclosedDate": "2023-07-26 20:58:44.312276"
+  }
+}

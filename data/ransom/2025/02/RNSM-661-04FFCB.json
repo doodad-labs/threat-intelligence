@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-04FFCB",
+  "type": "ransomware-incident",
+  "title": "Professional Computer Co., Ltd. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Professional Computer Co., Ltd.",
+    "domain": "pccth.com",
+    "country": "TH",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: Professional Computer, X-Pans, Propulsion Academy AG",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8b525399db965cc9503d161447a7cac3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjvzmvzc2lvbmfsienvbxb1dgvyienvliwgthrklkbmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-31 00:00:00.000000",
+    "disclosedDate": "2025-02-04 21:18:01.573645"
+  }
+}

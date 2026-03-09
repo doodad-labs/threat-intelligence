@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-265422",
+  "type": "ransomware-incident",
+  "title": "Charlie’s Tax Service ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Charlie’s Tax Service",
+    "domain": "charliestax.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15000000000,
+    "description": "Charlie's Tax Service is an accounting company that provides clients with tax preparation services.We are ready to upload more than 15 GB of private corporate documents including: SSNs, driver licenses, contact numbers and e-mailaddresses of employees and customers etc.",
+    "claimed_data_types": [
+      "phone-numbers",
+      "government-identifiers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hhcmxpzekamxmgvgf4ifnlcnzpy2vaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-04 00:00:00.000000",
+    "disclosedDate": "2024-12-26 20:13:59.938900"
+  }
+}

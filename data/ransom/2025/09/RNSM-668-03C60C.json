@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-03C60C",
+  "type": "ransomware-incident",
+  "title": "www.pure-chemical.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.pure-chemical.com",
+    "domain": "pure-chemical.com",
+    "country": "IN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "5000000 USD",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fd85099875f1570c5aae3ea4236bc7a0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnb1cmuty2hlbwljywwuy29tqgrldm1hbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-03 18:21:03.508142",
+    "disclosedDate": "2025-09-03 18:21:25.329459"
+  }
+}

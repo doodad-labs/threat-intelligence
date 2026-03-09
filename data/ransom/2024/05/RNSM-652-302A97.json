@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-302A97",
+  "type": "ransomware-incident",
+  "title": "UNICRED.COM.AR ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UNICRED.COM.AR",
+    "domain": "unicred.com.ar",
+    "country": "AR",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Unicred - Cooperativa de Credito y Vivienda",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9b4d22c9352fd1530043d6a196fdeadf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vu5jq1jfrc5dt00uqvjay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-30 14:56:33.342091",
+    "disclosedDate": "2024-05-30 14:56:33.342109"
+  }
+}

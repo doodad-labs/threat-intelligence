@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-662-20D650",
+  "type": "ransomware-incident",
+  "title": "Big Horn County School District #4 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Big Horn County School District #4",
+    "domain": "bgh4.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 205700000000,
+    "description": "Big Horn County School District #4 is a public school district based in Basin, Wyoming, United States. The district has 297 students. Big Horn County School District #4 corporate office is located in 416S, 3rd St, Basin, WY, 82410, US. The total amount of data leakage is 205.7 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f30a77658025b6e2619d3084d00b0c4b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmlniehvcm4gq291bnr5ifnjag9vbcbeaxn0cmljdcajnebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-19 21:31:51.000000",
+    "disclosedDate": "2025-03-20 16:08:44.731842"
+  }
+}

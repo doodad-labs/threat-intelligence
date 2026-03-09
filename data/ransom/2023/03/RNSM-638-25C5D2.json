@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-25C5D2",
+  "type": "ransomware-incident",
+  "title": "giga.com.vc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "giga.com.vc",
+    "domain": "giga.com.vc",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 2009, GIGA Atacado is a wholesale network with 11 stores and a Distribution Center in the state of São Paulo, present in the capital and the cities of Barueri, Carapicuíba, Cotia, Jundiaí, Guarulhos, Osasco and Várzea Paulista. It has abou...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ff99d2c94a583fcb3e37429669efb872.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2lnys5jb20udmnabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-25 21:09:00.000000",
+    "disclosedDate": "2023-03-25 23:06:15.396584"
+  }
+}

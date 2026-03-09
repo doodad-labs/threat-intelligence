@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-13B1AC",
+  "type": "ransomware-incident",
+  "title": "CARGLASS.DE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CARGLASS.DE",
+    "domain": "carglass.de",
+    "country": "DE",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] CARGLASS.DE is a German automotive glass repair and replacement company. It offers services such as windshield repair, replacement of shattered or damaged automotive glass, and recalibration of Advanced Driver Assistance Systems (ADAS). Carglass.de has multiple service centers across Germany, provides mobile service options, and is a part of Belron, the world's leading vehicle glass repair and replacement group.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a56edac69d1233169e796bd154d41582.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0fsr0xbu1murevay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-13 19:05:02.286258",
+    "disclosedDate": "2025-11-13 19:05:19.487997"
+  }
+}

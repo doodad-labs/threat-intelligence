@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-25F31D",
+  "type": "ransomware-incident",
+  "title": "sunpetro.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sunpetro.com",
+    "domain": "sunpetro.com",
+    "country": "IN",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SunPetro takes pride in having established itself as India’s second largest private oil producer.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/55f101931458fa1c6a20838a170ea07c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3vucgv0cm8uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-15 00:00:00.000000",
+    "disclosedDate": "2024-05-25 12:49:41.317953"
+  }
+}

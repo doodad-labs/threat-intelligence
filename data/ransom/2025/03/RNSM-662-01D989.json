@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-662-01D989",
+  "type": "ransomware-incident",
+  "title": "The Smeg Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Smeg Group",
+    "domain": "smeg.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Smeg, an acronym of Smalterie Metallurgiche Emiliane Guastalla, is an Italian home appliance manufacturer We present to you a large collection of corporate documents, including a dump of mailboxes of all employees. Company developments and personal data of employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/410caf68c01742814927ae7b37bb899d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifntzwcgr3jvdxbaaw50zxjsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.ilrestodelcarlino.it/reggio-emilia/cronaca/guastalla-attacco-hacker-alla-ditta-smeg-ae6c5ef3",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-01 18:25:42.368624",
+    "disclosedDate": "2025-03-01 18:26:47.708923"
+  }
+}

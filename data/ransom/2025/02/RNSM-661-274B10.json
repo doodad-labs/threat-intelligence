@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-274B10",
+  "type": "ransomware-incident",
+  "title": "NMR.CO.UK ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NMR.CO.UK",
+    "domain": "nmr.co.uk",
+    "country": "GB",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] NMR.co.uk is a central hub for dairy and livestock farmers in the UK, offering a comprehensive range of services related to milk recording, genetic testing, disease testing, farm software, and reproductive management. As a farmer-owned cooperative, they focus on improving productivity, efficiency, and profitability in farming. Their services extend from herd management solutions to payment testing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tk1slknpllvlqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:53:55.975327",
+    "disclosedDate": "2025-02-27 16:54:00.613766"
+  }
+}

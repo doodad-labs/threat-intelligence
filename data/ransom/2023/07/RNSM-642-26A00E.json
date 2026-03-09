@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26A00E",
+  "type": "ransomware-incident",
+  "title": "Continental Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Continental Management",
+    "domain": "continentalmgt.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ALL DATA AVAILABLE FOR DOWNLOADING!!!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6779fde9934f6a4e90d927a183eac3c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29udgluzw50ywwgtwfuywdlbwvudebhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-07-19 23:42:21.000000",
+    "disclosedDate": "2023-07-26 17:05:43.040105"
+  }
+}

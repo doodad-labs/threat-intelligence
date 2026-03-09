@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-10326A",
+  "type": "ransomware-incident",
+  "title": "Vdi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vdi",
+    "domain": "vdi.lt",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "cuba",
+    "name": "cuba",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Užtikrindami oruma darbe mes užtikriname ir pamatines žmogaus teisesValstybines darbo inspekcijos (VDI) misija – orus darbas. Spalio 7-aja minint Diena už oru darba VDI primena, kad tarpusavio pagarba ir saugumas darbe saugo...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bce8f01cd64fc5506e01488ec2ae29a2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmrpqgn1yme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-10 13:47:07.489974",
+    "disclosedDate": "2023-05-10 13:47:07.489995"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-657-16C6C7",
+  "type": "ransomware-incident",
+  "title": "Tankstar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tankstar",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Logistic company https://www.tankstar.com/ We have huge amount of data in our hand.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d4a9f09f777d08be70def5476d7c9a56.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgfua3n0yxjabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-09 12:43:56.361000",
+    "disclosedDate": "2024-10-16 21:07:48.050331"
+  }
+}

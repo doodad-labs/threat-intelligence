@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-674-03B8E1",
+  "type": "ransomware-incident",
+  "title": "Demanor ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Demanor",
+    "domain": "demanor.no",
+    "country": ""
+  },
+  "actor": {
+    "id": "ailock",
+    "name": "AiLock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Demanor AS specializes in providing customized goods lifts and lifting machines tailored to the specific needs and conditions of their clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvtyw5vckbbauxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-03 09:46:49.185545",
+    "disclosedDate": "2026-03-03 09:46:50.729208"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-643-0267E8",
+  "type": "ransomware-incident",
+  "title": "ohiohistory.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ohiohistory.org",
+    "domain": "ohiohistory.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Ohio History Fund was created to support the preservation and sharing of Ohio's heritage by funding local, regional, and statewide projects, programs, and events related to the broad sweep of the state's history and pre-history.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/65faeab0e2bb051e3ba1291ea027fced.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b2hpb2hpc3rvcnkub3jnqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://news.wosu.org/news/2023-08-24/ohio-history-connection-hit-with-ransomware-attack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-27 13:33:00.000000",
+    "disclosedDate": "2023-08-02 08:57:29.831757"
+  }
+}

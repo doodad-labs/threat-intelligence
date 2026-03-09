@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-24035E",
+  "type": "ransomware-incident",
+  "title": "TERRA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TERRA.COM",
+    "domain": "terra.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Terra.com, a global digital media company and content producer, is part of the Telefonica Group. Launched in 1999, it pioneered internet-based services in Spanish and Portuguese speaking countries, providing a wide range of interactive services, products, content and solutions for users. Its areas of operations include news, entertainment, sports and lifestyle. Notably, it also focuses on corporate social responsibility and environmental sustainability.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vevsukeuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 17:09:40.631936",
+    "disclosedDate": "2025-01-24 17:09:40.631936"
+  }
+}

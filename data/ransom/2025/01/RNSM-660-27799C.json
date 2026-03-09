@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-27799C",
+  "type": "ransomware-incident",
+  "title": "Alo Center (hq.aloteknik.se) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Alo Center (hq.aloteknik.se)",
+    "domain": "aloteknik.se",
+    "country": "SE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ALO started more than 80 years ago as a family-owned business in the heart of Sweden. Since the beginning, we have been passionate about making machines that produce sawblades. We also stay true to our originating principles: to innovate and manufacture products that set new standards.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/406ca0c4ef614bb037fa824fd9782deb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxvienlbnrlciaoaheuywxvdgvrbmlrlnnlkubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-18 00:00:00.000000",
+    "disclosedDate": "2025-01-27 14:55:44.232013"
+  }
+}

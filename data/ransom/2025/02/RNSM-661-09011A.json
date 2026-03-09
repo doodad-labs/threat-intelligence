@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-09011A",
+  "type": "ransomware-incident",
+  "title": "www.cisco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.cisco.com",
+    "domain": "cisco.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "kraken",
+    "name": "kraken",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "You lied to us and play for time to kick us out.We will meet you soon, again. Next time you'll have no chance.cisco.com\\...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9c012ee3a56ef1bad6511523a0117dd3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnpc2nvlmnvbubrcmfrzw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-24 00:00:00.000000",
+    "disclosedDate": "2025-02-09 19:05:56.838028"
+  }
+}

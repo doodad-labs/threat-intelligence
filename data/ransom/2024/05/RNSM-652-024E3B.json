@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-024E3B",
+  "type": "ransomware-incident",
+  "title": "MyoVision ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MyoVision",
+    "domain": "myovision.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 18610000000,
+    "description": "MyoVision (founded 1989) - developer and manufacturer of medical equipment for the study of the body. Many of the company's developments are used by NASA. MyoVision corporate office is located in 13545 Erickson Pl NE Ste 200, Seattle, Washington, 98125, United States. The total amount of data leakage is 18.61 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txlvvmlzaw9uqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-30 20:48:02.12345",
+    "disclosedDate": "2024-05-02 14:06:45.816648"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-635-26E2AA",
+  "type": "ransomware-incident",
+  "title": "Montmorency College ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Montmorency College",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "avoslocker",
+    "name": "avoslocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 8000000000000,
+    "description": "Cyberattack at Collège Montmorency: ~8TB personal data has been compromised by AVOSLOCKER.     Board of Directors should contact with us immediately to avoid the full leak on our blog.     News and facts about Cyberattack:     https://www.lapresse.ca/actualites/education/2022-05-21/cyberattaque-au-college-montmorency/la-direction-evoque-un-possible-vol-de-donnees-personnelles.php     https://thecanadian.news/cyberattack-at-college-montmorency-personal-data-has-been-compromised/     https://www.academica.ca/top-ten/cyberattacks-strike-coll%C3%A8ge-montmorency-us-institution     https://oicanadian.com/college-montmorency-victim-of-an-alleged-cyberattack/     https://www.spamchronicles.com/college-montmorency-victim-of-a-cyber-attack/     https://actualnewsmagazine.com/english/cyberattack-at-montmorency-college-the-management-evokes-a-possible-theft-of-personal-data/",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw9udg1vcmvuy3kgq29sbgvnzubhdm9zbg9ja2vy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-26 16:12:31.263440",
+    "disclosedDate": "2022-12-26 16:12:31.263440"
+  }
+}

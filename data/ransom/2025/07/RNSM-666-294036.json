@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-294036",
+  "type": "ransomware-incident",
+  "title": "ACMARK ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ACMARK",
+    "domain": "acmark.com",
+    "country": "CZ",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "beast",
+    "name": "beast",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ACMARK s r o is a company that operates in the Repair Services industry. It employs 10to19 people and has 1Mto5M of revenue. The company is headquartered in Brno, South Moravian, Czech Republic.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3bdfc7871a43ac61b8472d4b5ac0e6df.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qunnqvjlqgjlyxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-24 00:00:00.000000",
+    "disclosedDate": "2025-07-29 21:44:32.361552"
+  }
+}

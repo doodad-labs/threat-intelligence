@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-27AF05",
+  "type": "ransomware-incident",
+  "title": "amatechinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "amatechinc.com",
+    "domain": "amatechinc.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Engineering, Prod, Proto, Purchaising, Sales, Scan, Business Development",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4dbb78f88f04e1e57c9d04245db8192e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw1hdgvjagluyy5jb21abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-14 00:00:00.000000",
+    "disclosedDate": "2025-03-27 16:28:23.616151"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-171CA8",
+  "type": "ransomware-incident",
+  "title": "Kilgore Industries ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kilgore Industries",
+    "domain": "kilgoreind.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "nitrogen",
+    "name": "nitrogen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Headquartered in Houston, Texas, Kilgore Industries, LP designs, builds and installs HVAC, mechanical, electrical and plumbing systems in the United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/77a2d3518a25ee90c417b63fb2df34c2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2lsz29yzsbjbmr1c3ryawvzqg5pdhjvz2vu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-17 16:31:51.863796",
+    "disclosedDate": "2024-12-17 16:31:52.299330"
+  }
+}

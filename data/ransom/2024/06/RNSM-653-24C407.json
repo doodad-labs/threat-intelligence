@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-24C407",
+  "type": "ransomware-incident",
+  "title": "hiawathahomes.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hiawathahomes.org",
+    "domain": "hiawathahomes.org",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9a1b39a95e1e558a0afc0456113f5f86.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aglhd2f0agfob21lcy5vcmdaymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-02 00:00:00.000000",
+    "disclosedDate": "2024-06-24 01:39:10.467929"
+  }
+}

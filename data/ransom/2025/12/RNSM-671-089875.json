@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-089875",
+  "type": "ransomware-incident",
+  "title": "VoiceTeam Call ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VoiceTeam Call",
+    "domain": "voiceteam.com",
+    "country": "",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "VoiceTeam is a leading nearshore provider of sales, customer service and back office support, headquartered in Santiago, Dominican Republic with operations in San Francisco, California. Our experienced workforce provides excellent customer service, high performance sales and detailed business processing support. Unlike outsourcers in India and the Philippines, here at VoiceTeam, we hire agents who previously lived in the US and have a deep knowledge of American culture. Quality, efficiency and execution are our main priorities. Our quality assurance team records 100% of all calls and chats from our sales and customer services teams. For our back office support and digital work, we provide two quality assurance checks on all projects. Our services include: • Customer Acquisition • Customer Service • Back Office Support • Digital Task Support \"VoiceTeam has proven time and again that they can meet the ever changing demands and challenges of clients across multiple industry verticals",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2edc09cd3601985be3fd5438977505b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vm9py2vuzwftienhbgxazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-08 13:26:58.753238",
+    "disclosedDate": "2025-12-08 13:42:45.958198"
+  }
+}

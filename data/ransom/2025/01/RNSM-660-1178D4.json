@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-660-1178D4",
+  "type": "ransomware-incident",
+  "title": "plasmatherm.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "plasmatherm.com",
+    "domain": "plasmatherm.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "Plasma-Therm is a prominent global manufacturer specializing in advanced plasma-processing equipment, particularly for the semiconductor industry. Established over 50 years ago, the company provides essential technologies such as etching, deposition, and plasma dicing, which are integral to various applications including semiconductor packaging, solid-state lighting, MEMS (Micro-Electro-Mechanical Systems), and renewable energy.SITE: www.plasmatherm.comADDRESS:10050 16th Street NorthSaint Petersburg, FL 33716United StatesTEL#: +1 (727) 577-4999ALL DATA SIZE: ≈1.5tb+1. Financial data, Accounting2. Contracts, Confidential, NDA’s3. Home folders, Personal employees data4. CAD, Projects, Drawings5. Human Resources6. R&D, Engeneering7. Customers data& etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c0c3e52669f0a08247f119a20d86d08d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgxhc21hdghlcm0uy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-12 00:00:00.000000",
+    "disclosedDate": "2025-01-11 11:30:49.420939"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-665-206B11",
+  "type": "ransomware-incident",
+  "title": "Comelesa ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Comelesa",
+    "domain": "comelesa.com.mx",
+    "country": "EC"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Comelesa",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tzwxlc2fabmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-18 00:00:00.000000",
+    "disclosedDate": "2025-06-20 00:52:07.561856"
+  }
+}

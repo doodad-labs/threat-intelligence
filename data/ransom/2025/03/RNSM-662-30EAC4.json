@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-30EAC4",
+  "type": "ransomware-incident",
+  "title": "retycol.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "retycol.com",
+    "domain": "retycol.com",
+    "country": "CO"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c6810119d5d59603819d8f23356dff21.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmv0ewnvbc5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-30 02:37:39.450975",
+    "disclosedDate": "2025-03-30 02:38:57.724440"
+  }
+}

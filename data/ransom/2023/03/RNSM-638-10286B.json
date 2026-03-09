@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-10286B",
+  "type": "ransomware-incident",
+  "title": "sagardoy.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sagardoy.com",
+    "domain": "sagardoy.com",
+    "country": "ES",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sagardoy Abogados is one of the leading law firms in Spain specialised in employment law, employee benefits, pensions and social security. Since its foundation in 1980, Sagardoy Abogados has been continuously engaged in legal practice, offering our c...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2fnyxjkb3kuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-10 06:46:00.000000",
+    "disclosedDate": "2023-03-10 07:10:21.212214"
+  }
+}

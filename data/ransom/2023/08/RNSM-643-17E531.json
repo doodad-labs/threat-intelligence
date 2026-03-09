@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-17E531",
+  "type": "ransomware-incident",
+  "title": "MBOAMERICA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MBOAMERICA.COM",
+    "domain": "mboamerica.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - MBO America",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/19b55547bffec6a739dbb988b84fd1c4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tujpqu1fukldqs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-17 09:13:08.544068",
+    "disclosedDate": "2023-08-17 09:13:08.544090"
+  }
+}

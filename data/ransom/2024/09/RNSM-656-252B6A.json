@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-656-252B6A",
+  "type": "ransomware-incident",
+  "title": "Concord Management Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Concord Management Services",
+    "country": "RU",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 23000000000,
+    "description": "Concord Management Services LLC is a company that operates in theArchitecture, Engineering & Design industry. 23Gb of data will be uploaded soon. There are files of 2 more companies inside the archive. We got detailed personal employee information SSNs, addresses, phones etc. Numerous financial files, agreements and other business files will be available soon as well.",
+    "claimed_data_types": [
+      "government-identifiers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29uy29yzcbnyw5hz2vtzw50ifnlcnzpy2vzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-25 17:03:42.502916",
+    "disclosedDate": "2024-09-25 17:03:43.692199"
+  }
+}

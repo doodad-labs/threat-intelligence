@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-301A8E",
+  "type": "ransomware-incident",
+  "title": "Motel One ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Motel One",
+    "domain": "motel-one.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Motel One is a German hotel chain. It was founded in 2000 by the former Accor manager Dieter Müller in Munich and is now run by him and his wife, Ursula Schelle-Müller.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6ca9b92258dc96b670289e2cc3aceab7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw90zwwgt25lqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-30 07:27:22.123456",
+    "disclosedDate": "2023-09-30 08:35:00.958095"
+  }
+}

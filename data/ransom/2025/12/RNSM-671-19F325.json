@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-19F325",
+  "type": "ransomware-incident",
+  "title": "Colonial Metals ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Colonial Metals",
+    "domain": "colonialmetals.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Colonial Metals, Inc. is a full-service global supplier specializing in over 600 precious metal-based chemicals and services. The company is dedicated to providing personal and reliable customer service, fostering trust and comfort among its clients. Committed to sustainability, Colonial Metals aims to reduce greenhouse gas emissions by 25% by 2030 through various environmental initiatives. Their product offerings include refining services, analytical capabilities, and custom synthesis for various industrial markets",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fe97ab615ac472cc8bca168d3a7837dd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29sb25pywwgtwv0ywxzqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-19 14:10:15.040105",
+    "disclosedDate": "2025-12-19 14:15:36.824336"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-2679DC",
+  "type": "ransomware-incident",
+  "title": "scmh.org.tw ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "scmh.org.tw",
+    "domain": "scmh.org.tw",
+    "country": "TW",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Show Chwan Memorial Hospital is a medical center that provides orthopedics, neurology, obstetrics, and gynecology treatmentsTAINAN MUNICIPAL HOSPITAL",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/053fc76ed6e451cb4d7fe68d1efa2f44.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2ntac5vcmcudhdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 21:12:00.000000",
+    "disclosedDate": "2023-07-26 23:58:00.839306"
+  }
+}

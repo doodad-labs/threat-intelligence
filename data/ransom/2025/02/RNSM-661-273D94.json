@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-273D94",
+  "type": "ransomware-incident",
+  "title": "MERIDIANGROUPREM.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MERIDIANGROUPREM.COM",
+    "domain": "meridiangrouprem.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Meridian Group is a real estate company offering a variety of real estate services that include property management, real estate sales, and consulting services. They specialize in residential and multi-family properties, and are known for their technology-driven approach. They are dedicated to providing personalized and professional services tailored to the individual needs of their clients. The company's mission is to build long-term relationships with clients by delivering quality services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tuvssurjqu5huk9vufjfts5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:43:39.851731",
+    "disclosedDate": "2025-02-27 16:43:49.753696"
+  }
+}

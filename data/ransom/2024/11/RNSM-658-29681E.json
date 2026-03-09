@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-29681E",
+  "type": "ransomware-incident",
+  "title": "Lucid Corp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lucid Corp",
+    "domain": "lucidcorp.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lucid Corp LLC manufactures custom plastic solutions with a focus on sustainable and traceable packaging.You will find a lot of inside corporate correspondence,internal financial documents and employees contacts.We have made the process of downloading company data assimple as possible for our users. All you need is any torrent client (like Vuze, Utorrent, qBittorrent or Transmission to use magnet links). You will find the torrent file above.1. Open uTorrent, or any another torrent client.2. Add torrent file or paste the magnet URL to upload the data safely.3. Archives have no password.MAGNET URL: magnet:?xt=urn:btih:3F2E07DD43E2B6D644F149AEADF32CEFBA64C4B8&dn=lucidcorp.com&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/thvjawqgq29ycebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-23 00:00:00.000000",
+    "disclosedDate": "2024-11-29 13:01:15.739898"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-643-23B746",
+  "type": "ransomware-incident",
+  "title": "Optimity.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Optimity.co.uk",
+    "domain": "optimity.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000000,
+    "description": "Their whole azure cloud was exported and is now in our hands. luckly and sadly for them we have taken access to more than 1000 companies data they have stored on their cloud. if optimity does not pay we will start ransoming them, one by one.Size of the leak is 5tb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/df9e81383b2bc01909f991939c59e48c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3b0aw1pdhkuy28udwtacmfuc29tzwq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-23 15:59:04.410245",
+    "disclosedDate": "2023-08-23 15:59:04.410267"
+  }
+}

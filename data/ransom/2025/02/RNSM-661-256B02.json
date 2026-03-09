@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-256B02",
+  "type": "ransomware-incident",
+  "title": "Laurens School District 56 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Laurens School District 56",
+    "domain": "lcsd56.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2400000000000,
+    "description": "Laurens School District 56 is a school district in South Carolina (Laurens County) which has about 2,800 students. Laurens County School District 56 corporate office is located in 211 N Broad St, Clinton, South Carolina, 29325, United States and has 118 employees. The total amount of data leakage is 2.40 TB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7eaf445dce59847fecba48c48a89ad0c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgf1cmvucybty2hvb2wgrglzdhjpy3qgntzabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-24 16:28:57.000000",
+    "disclosedDate": "2025-02-25 19:59:05.958604"
+  }
+}

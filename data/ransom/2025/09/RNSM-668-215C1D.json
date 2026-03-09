@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-215C1D",
+  "type": "ransomware-incident",
+  "title": "Pennsylvania Office of Attorney General ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pennsylvania Office of Attorney General",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5700000000000,
+    "description": "Pennsylvania Office of Attorney General is a law enforcement official that protects and serves the agencies of the Commonwealth and citizens of Harrisburg, Pennsylvania. 5.7TB data leak, access to internal network of FBI and more...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f23992b16b1040557da9614668adf375.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvubnn5bhzhbmlhie9mzmljzsbvzibbdhrvcm5lesbhzw5lcmfsqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-21 00:00:00.000000",
+    "disclosedDate": "2025-09-21 00:46:34.134629"
+  }
+}

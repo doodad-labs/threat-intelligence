@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-641-242049",
+  "type": "ransomware-incident",
+  "title": "SELL DATA(qtox) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SELL DATA(qtox)",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusalocker",
+    "name": "medusalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Available for sale: to buy please contact qtox price negotiable qtox-E9CD65687463F67F64937E961DD723DC82C79CB548375AAE8AA4A0698D356C5E7E157B22E8CD",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/62933b3e3b0e9a391e66c74814c09b89.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0vmtcbeqvrbkhf0b3gpqg1lzhvzywxvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-17 00:34:35.000000",
+    "disclosedDate": "2023-06-24 01:59:36.171247"
+  }
+}

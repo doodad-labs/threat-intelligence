@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-668-166087",
+  "type": "ransomware-incident",
+  "title": "F1-Generation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "F1-Generation",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 520000000000,
+    "description": "F1-GenerationF1-Generation GmbH is a distributor of internationally renowned fashion brands in the European market, managing over 10 labels. Its product portfolio includes designer lingerie, loungewear, swimwear, hosiery, shapewear, and fashion accessories. The company provides support in marketing and PR, IT improvements through in-house software development, and efficient brand management. Additionally, F1-Generation organizes and conducts trade fairs and order days for its clients.Geo: Germany - Leak size: 520 GB Archive - Contains: Files, SQL",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rjetr2vuzxjhdglvbkbzyxjjb21h",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-16 07:08:19.908891",
+    "disclosedDate": "2025-09-16 07:08:21.797186"
+  }
+}

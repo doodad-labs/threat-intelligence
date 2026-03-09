@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-240A23",
+  "type": "ransomware-incident",
+  "title": "Myelec Electrical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Myelec Electrical",
+    "domain": "myelec.com.au",
+    "country": "AU",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Myelec Electrical Wholesalers is a proud to be a 100% locally owned and operated...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c56ac728a0a682da1a07951511c4ede6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txllbgvjievszwn0cmljywxabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-23 00:00:00.000000",
+    "disclosedDate": "2024-08-24 19:04:39.443605"
+  }
+}

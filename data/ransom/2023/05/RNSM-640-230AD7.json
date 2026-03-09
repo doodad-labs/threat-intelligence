@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-640-230AD7",
+  "type": "ransomware-incident",
+  "title": "MTS Office ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MTS Office",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MTS Office is the authorized Toshiba and Lexmark provider of Upstate SC. Founded in 1982, MTS leverages outstanding hardware and software products to provide our clients with customized solutions to fit their business. We provide expertise in discovering your needs and aligning them with the proper products. https://mtsoffice.com/support@mtsoffice.com864.224.9474",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d71a45720c88c1f467de452f98c0f190.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tvrtie9mzmljzua4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-05-03 00:00:00.000000",
+    "disclosedDate": "2023-05-23 11:33:22.568816"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-2279E6",
+  "type": "ransomware-incident",
+  "title": "abcor.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "abcor.com.au",
+    "domain": "abcor.com.au",
+    "country": "AU",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Preston General Engineering (PGE), a division of ABCOR Pty Ltd, is the industry leader in the fabrication and assembly of metal, aluminium and stainless steel parts. PGE has a strong commitment of service to provide quality products that are...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7217b45d5a6f8b51d64b0e875a853427.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywjjb3iuy29tlmf1qhrocmvlyw0=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-22 14:41:32.083336",
+    "disclosedDate": "2024-02-22 14:41:32.083360"
+  }
+}

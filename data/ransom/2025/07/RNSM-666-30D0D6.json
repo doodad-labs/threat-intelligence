@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-666-30D0D6",
+  "type": "ransomware-incident",
+  "title": "fsl.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fsl.org",
+    "domain": "fsl.org",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "Originally founded in Huntington in 1926 as a social service agency, Family Service League (FSL) has grown substantially since then to provide the support and security more than 60,000 Long Islanders rely on every day.\r With over 60 social service programs in more than 20 locations and committed staff and support personnel of approximately 700, they continue to serve Long Island’s most vulnerable citizens. From seniors seeking companionship and purpose and the homeless seeking shelter and nourishment to those suffering from addiction and mental illness and families working hard to stay together, FSL will continue to help their neighbors when they need it most.\r Family Service League became a victim of the data breach. 100Gb sensitive, medical and personal data will be published soon in our blog.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ea9c6320d6912412f46aab47ac6ff6b5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/znnslm9yz0bpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-30 13:00:00.000000",
+    "disclosedDate": "2025-07-30 13:47:28.431780"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-254AA9",
+  "type": "ransomware-incident",
+  "title": "US Dermatology Partners ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "US Dermatology Partners",
+    "domain": "usdermatologypartners.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "As a physician-owned dermatology practice in the country, U.S. Dermatology Partners patients not only have access to general medical, surgical, and cosmetic skin treatment through its coordinated care network.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vvmgrgvybwf0b2xvz3kgugfydg5lcnnaymlhbmxpyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.usdermatologypartners.com/notice-of-data-incident/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-25 22:01:46.235674",
+    "disclosedDate": "2024-06-25 22:01:46.888303"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-17315B",
+  "type": "ransomware-incident",
+  "title": "The Law Office of Omar O. Vargas, P.C. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Law Office of Omar O. Vargas, P.C.",
+    "domain": "quenotedeporten.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 450000000000,
+    "description": "Company must contact us using the instructions in next 3 days. Total amount of stolen data: 450 GB https://www.quenotedeporten.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1cd517b77c6ec963d2eeddec0d665434.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghliexhdybpzmzpy2ugb2ygt21hcibplibwyxjnyxmsifauqy5azxzlcmvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-17 01:17:50.689562",
+    "disclosedDate": "2024-07-17 01:17:51.370699"
+  }
+}

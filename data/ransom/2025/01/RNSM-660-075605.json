@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-660-075605",
+  "type": "ransomware-incident",
+  "title": "Drivestream ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Drivestream",
+    "domain": "drivestream.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 80000000000,
+    "description": "Drivestream is a management and IT consulting firm specializing in migrating the enterprise business processes of large and mediumsized businesses to the Cloud.We are ready to upload more than 80 GB of private corporate documents including: SSNs, family contacts, contact numbers and e-mailaddresses of employees and customers, driver licenses, passportsetc.",
+    "claimed_data_types": [
+      "phone-numbers",
+      "government-identifiers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhjpdmvzdhjlyw1aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5f5a97f0-abf7-477a-b026-67c68f617a02.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-07 13:57:09.640642",
+    "disclosedDate": "2025-01-07 13:57:11.086814"
+  }
+}

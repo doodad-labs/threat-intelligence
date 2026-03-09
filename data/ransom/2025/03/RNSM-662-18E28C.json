@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-18E28C",
+  "type": "ransomware-incident",
+  "title": "whitecapcanada.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "whitecapcanada.com",
+    "domain": "whitecapcanada.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "whitecapcanada.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f6957fbfee11f18eb75a3e5f2387643d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2hpdgvjyxbjyw5hzgeuy29tqgjhynvrmg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-18 15:23:34.494923",
+    "disclosedDate": "2025-03-18 15:24:41.151190"
+  }
+}

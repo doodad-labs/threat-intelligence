@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-654-308824",
+  "type": "ransomware-incident",
+  "title": "SAGE Publishing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SAGE Publishing",
+    "domain": "sagepub.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SAGE Publishing is an independent, academic, and professional pub lisher of high-quality content. We are going to upload their inte rnal high-quality content to our blog. Financial data, agreements and so on. Everything we took from them will be available within a few days.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0fhrsbqdwjsaxnoaw5nqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-30 12:11:07.533035",
+    "disclosedDate": "2024-07-30 12:11:08.410936"
+  }
+}

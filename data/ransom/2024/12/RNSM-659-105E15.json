@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-105E15",
+  "type": "ransomware-incident",
+  "title": "singularanalysts.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "singularanalysts.com",
+    "domain": "singularanalysts.com",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Singular Analysts is a data analytics company specializing in providing advanced analytical solutions and insights for businesses. They focus on leveraging cutting-edge technologies like machine learning and AI to help organizations make data-driven decisions. Their services include data visualization, predictive modeling, and custom analytics solutions tailored to clients' specific needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/31314a86754e58f33773cb82922c6bb2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2luz3vsyxjhbmfsexn0cy5jb21aznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 23:58:03.672755",
+    "disclosedDate": "2024-12-10 23:58:05.308337"
+  }
+}

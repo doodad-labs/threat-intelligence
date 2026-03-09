@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-250E16",
+  "type": "ransomware-incident",
+  "title": "www.itlindia.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.itlindia.com",
+    "domain": "itlindia.com",
+    "country": "IN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ITL Industries Limited is an Indian company specializing in the manufacture of metal cutting bandsaw machines and other industrial equipment. Established in 1985, the company offers a wide range of products, including bandsaw machines, pipe cutting machines, and special purpose machines. ITL Industries serves various sectors such as automotive, construction, and engineering, providing solutions tailored to industrial needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8848da3c14e0cc511a69fe8bd9068ade.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lml0bgluzglhlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-25 13:50:47.000000",
+    "disclosedDate": "2024-11-25 15:16:13.759155"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-220E90",
+  "type": "ransomware-incident",
+  "title": "denford.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "denford.co.uk",
+    "domain": "denford.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A British manufacturer, with a global reputation for technological excellence, Denford designs and manufactures CNC Lathes, CNC Milling Machines and CNC Routers for the education/training market, and also supplies Laser Cutters and 3D Printers.Fi...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4fe02d54c4a3b45c1749c6121d199ef0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvuzm9yzc5jby51a0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-22 00:22:00.000000",
+    "disclosedDate": "2023-12-22 01:00:57.011811"
+  }
+}

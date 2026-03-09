@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-26E25F",
+  "type": "ransomware-incident",
+  "title": "www.neurologicalinstitute.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.neurologicalinstitute.com",
+    "domain": "neurologicalinstitute.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8e65ff05c484f380e1d155744582ba80.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm5ldxjvbg9nawnhbgluc3rpdhv0zs5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-22 12:48:34.000000",
+    "disclosedDate": "2024-07-26 22:15:11.267172"
+  }
+}

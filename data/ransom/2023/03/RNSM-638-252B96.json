@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-252B96",
+  "type": "ransomware-incident",
+  "title": "jubileeinsurance.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jubileeinsurance.com",
+    "domain": "jubileeinsurance.com",
+    "country": "UG",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Jubilee Insurance is the number one insurer in East Africa and is the only ISO certified insurance group listed on the Nairobi Securities Exchange, Dar es Salaam Stock Exchange and Uganda Securities Exchange. Jubilee Insurance was established in 1937...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a6c67aedcb59caa5517e1f5be18ce86f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/anviawxlzwluc3vyyw5jzs5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-25 21:19:00.000000",
+    "disclosedDate": "2023-03-25 23:05:49.989269"
+  }
+}

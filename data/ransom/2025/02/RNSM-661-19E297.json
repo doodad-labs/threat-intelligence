@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-19E297",
+  "type": "ransomware-incident",
+  "title": "Haggin Oaks Golf (hagginoaks.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Haggin Oaks Golf (hagginoaks.com)",
+    "domain": "hagginoaks.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000,
+    "description": "29,2 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3fd68f24c5669efe402504739b0482d2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgfnz2luie9ha3mgr29sziaoagfnz2lub2frcy5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 00:00:00.000000",
+    "disclosedDate": "2025-02-19 11:52:38.092602"
+  }
+}

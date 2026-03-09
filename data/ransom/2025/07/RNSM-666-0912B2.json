@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-0912B2",
+  "type": "ransomware-incident",
+  "title": "Microf ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Microf",
+    "domain": "microf.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Microf specializes in HVAC and water heater financing solutions with lease-to-own options, particularly catering to homeowners with challenged credit. The company offers a simple application process, quick approvals, and flexible payment plan            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8a51583455928d894066422c6ce51174.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twljcm9mqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-18 00:00:00.000000",
+    "disclosedDate": "2025-07-09 19:15:58.271626"
+  }
+}

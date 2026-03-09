@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-100222",
+  "type": "ransomware-incident",
+  "title": "Albright Institute ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Albright Institute",
+    "domain": "albrightinstitute.edu.au",
+    "country": "AU",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9316d977e5339c85987b658c27a6cd69.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxicmlnahqgsw5zdgl0dxrlqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 12:17:50.198015",
+    "disclosedDate": "2025-02-10 12:19:38.773496"
+  }
+}

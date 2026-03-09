@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-122198",
+  "type": "ransomware-incident",
+  "title": "wilsonappliance.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wilsonappliance.com",
+    "domain": "wilsonappliance.com",
+    "country": "",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 24.06.2025.Wilson AC & Appliance was founded in 1949 by J. W. Wilson, Jr. and his wife Lurleen. After returning from service in the Pacific during World War II, J.W. decided to explor            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3239d2215e5dcf0d551750fab5e0ecfc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2lsc29uyxbwbglhbmnllmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-29 00:00:00.000000",
+    "disclosedDate": "2025-06-12 15:03:38.819691"
+  }
+}

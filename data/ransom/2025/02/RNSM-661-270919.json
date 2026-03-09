@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-270919",
+  "type": "ransomware-incident",
+  "title": "SENAO.COM.TW ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SENAO.COM.TW",
+    "domain": "senao.com.tw",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Senao International Co. Ltd is a Taiwan-based company recognized for the manufacture and distribution of wireless communication products. The company's product portfolio includes long-range cordless phones, VoIP products, mobile accessories, networking equipment, & more. The company operates internationally, targeting both the global market and corporate customers by providing cutting-edge wireless solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0voqu8uq09nllrxqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:26:48.811267",
+    "disclosedDate": "2025-02-27 17:26:53.536134"
+  }
+}

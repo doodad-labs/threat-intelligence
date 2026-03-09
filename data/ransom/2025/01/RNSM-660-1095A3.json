@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-660-1095A3",
+  "type": "ransomware-incident",
+  "title": "Peikko ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Peikko",
+    "domain": "peikko.com",
+    "country": "FI",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "Peikko Group Corporation is a global supplier of slim floor structures, wind energy applications, and connection technology for precast and cast-in-situ construction. We are ready to upload about 30 GB of private corporate documentssuch as: internal financial documents and disclosure agreements,taxpayer INs, contact numbers and e-mail addresses of employees,HR documents etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvpa2tvqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.hna.de/lokales/frankenberg/waldeck-ort79441/hoeringhaeuser-peikko-werk-war-opfer-von-hacker-angriff-93504528.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-10 21:01:30.002193",
+    "disclosedDate": "2025-01-10 21:01:31.219967"
+  }
+}

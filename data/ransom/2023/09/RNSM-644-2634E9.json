@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-2634E9",
+  "type": "ransomware-incident",
+  "title": "Bit ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bit",
+    "domain": "bit.com.ar",
+    "country": "AR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "losttrust",
+    "name": "losttrust",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BIT SA is an ag-tech company that provides IT consulting, analytics, ERP management, business intelligence, and financial services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qml0qgxvc3r0cnvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-26 11:10:35.068811",
+    "disclosedDate": "2023-09-26 11:10:35.068833"
+  }
+}

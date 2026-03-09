@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-27DFF4",
+  "type": "ransomware-incident",
+  "title": "jhilburn.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jhilburn.com",
+    "domain": "jhilburn.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Company data leak",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a578a8b0e5042c40f5dde20ba9769b63.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/amhpbgj1cm4uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-27 21:31:00.000000",
+    "disclosedDate": "2023-08-27 22:06:55.100911"
+  }
+}

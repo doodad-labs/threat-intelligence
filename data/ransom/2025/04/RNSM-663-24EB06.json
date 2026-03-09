@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-24EB06",
+  "type": "ransomware-incident",
+  "title": "thederbyhighschool.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "thederbyhighschool.co.uk",
+    "domain": "thederbyhighschool.co.uk",
+    "country": "GB",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "kairos",
+    "name": "kairos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "UK - The Derby High School",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4015e6834836389157005d63487f17d4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghlzgvyynloawdoc2nob29slmnvlnvrqgthaxjvcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-24 07:04:31.618978",
+    "disclosedDate": "2025-04-24 07:06:30.901896"
+  }
+}

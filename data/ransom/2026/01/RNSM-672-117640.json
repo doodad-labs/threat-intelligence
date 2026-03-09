@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-117640",
+  "type": "ransomware-incident",
+  "title": "Pecan Tree Dental ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pecan Tree Dental",
+    "domain": "pecantreedental.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pecan Tree Dental is a dental practice located in Grand Prairie, TX, dedicated to providing comfortable and personalized dental care for families. They offer a comprehensive range of services including preventive, cosmetic, restorative, and emergency dentistry. The practice is accessible to residents of Grand Prairie and its surrounding communities, accommodating various patient needs with amenities and flexible scheduling. Their mission emphasizes community care, involvement in charitable work, and an insurance-friendly approach to dental health.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/de259623ecf10a9098f04b63e096025e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvjyw4gvhjlzsbezw50ywxac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-11 18:35:28.694000",
+    "disclosedDate": "2026-01-11 18:55:43.535952"
+  }
+}

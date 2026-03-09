@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-30C7D7",
+  "type": "ransomware-incident",
+  "title": "SIIX Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SIIX Corporation",
+    "domain": "siix.co.jp",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "In 3 days we will publish all the data taken from their servers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c228b0b2a895306fd8ac6e97457c7f8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0ljwcbdb3jwb3jhdglvbkbxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-30 10:52:38.930287",
+    "disclosedDate": "2023-04-30 10:52:38.930310"
+  }
+}

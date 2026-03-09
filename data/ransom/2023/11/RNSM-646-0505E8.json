@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-0505E8",
+  "type": "ransomware-incident",
+  "title": "Canadian Psychological Association ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Canadian Psychological Association",
+    "domain": "cpa.ca",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Canadian Psychological Association (CPA) is the primary organization representing psychologists throughout Canada. It was organized in 1939 and incorporated under the Canada Corporations Act, Part II, in May 1950.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5ad503aa21e5c599424a407a7fbcbc8a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fuywrpyw4guhn5y2hvbg9nawnhbcbbc3nvy2lhdglvbkbtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-05 19:51:11.12345",
+    "disclosedDate": "2023-11-05 20:48:15.857167"
+  }
+}

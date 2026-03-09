@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-640-264BDB",
+  "type": "ransomware-incident",
+  "title": "Mitutoyo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mitutoyo",
+    "domain": "mitutoyo.ch",
+    "country": "CH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 254000000000,
+    "description": "Mitutoyo is one of the world's leading manufacturers of high-quality precision length measurement technology. The portfolio of the full-service provider includes a wide range of products from micrometers, calipers and dial gauges to hardness testers, measuring microscopes and much more.Total downloaded data  -  254gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6d5178014fe72dcdcf726818546cf590.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twl0dxrvew9acm95yww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-26 01:02:03.456789",
+    "disclosedDate": "2023-05-26 13:01:53.407278"
+  }
+}

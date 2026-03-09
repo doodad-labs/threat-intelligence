@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-28E892",
+  "type": "ransomware-incident",
+  "title": "DIALLOG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DIALLOG",
+    "domain": "diallog.com",
+    "country": "CA",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Diallog Telecommunications is a Canadian-owned and operated telecom company based in Toronto, established in 1998. Originally founded as ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/068a3f10324423306e1d1bf58d320260.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/relbtexpr0bub3zh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-27 00:00:00.000000",
+    "disclosedDate": "2025-04-28 13:14:27.759753"
+  }
+}

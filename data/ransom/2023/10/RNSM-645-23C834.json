@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-23C834",
+  "type": "ransomware-incident",
+  "title": "harlingentx.gov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "harlingentx.gov",
+    "domain": "harlingentx.gov",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Harlingen, Texas",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/12549be6be46d38fc64b386548037a15.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfybgluz2vudhguz292qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-23 07:58:00.000000",
+    "disclosedDate": "2023-10-23 08:39:44.135148"
+  }
+}

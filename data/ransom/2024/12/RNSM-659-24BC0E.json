@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-24BC0E",
+  "type": "ransomware-incident",
+  "title": "Kern Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kern Services",
+    "domain": "relations.geo",
+    "country": "AE"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 7000000000,
+    "description": "Kern ServicesKern Services, established in 1946, is dedicated to perfection. We have a staff ready to help you with your every need. Our websites are simple and easy to navigate. Ready to order? We're ready to serve.OUR MISSIONTO IMPROVE YOUR BUSINESS' PERFORMANCE AND PROVIDE A SUCCESSFUL BUSINESS STRATEGY.We strive to help business owners develop a solid foundation and business strategy so they can be successful. We will work to improve sales, productivity, organization, company culture, and employee relations.Geo: USA - Leak size: 2,7 GB Archive - Contains: Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2vybibtzxj2awnlc0bzyxjjb21h",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-24 06:25:25.116455",
+    "disclosedDate": "2024-12-24 06:25:26.069418"
+  }
+}

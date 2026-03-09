@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-668-16BBFD",
+  "type": "ransomware-incident",
+  "title": "webville.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "webville.net",
+    "domain": "webville.net",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "warlock",
+    "name": "warlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "all data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2vidmlsbguubmv0qhdhcmxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-16 05:28:19.888150",
+    "disclosedDate": "2025-09-16 05:28:23.769134"
+  }
+}

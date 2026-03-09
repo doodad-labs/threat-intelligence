@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-2785C7",
+  "type": "ransomware-incident",
+  "title": "JDADELIVERS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JDADELIVERS.COM",
+    "domain": "jdadelivers.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] JDADELIVERS.COM, also known as JDA, is a supply chain management software company that specializes in providing advanced solutions for retailers, manufacturers and logistics companies. Established in 1985, JDA offers a broad suite of services including inventory management, demand and fulfillment, warehouse management, and transportation logistics. Their innovative technology and expert services enable businesses to streamline operations, improve profitability and achieve sustainable growth.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/skrbrevmsvzfulmuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:30:42.583764",
+    "disclosedDate": "2025-02-27 16:30:47.960295"
+  }
+}

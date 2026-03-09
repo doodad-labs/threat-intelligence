@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-12BF80",
+  "type": "ransomware-incident",
+  "title": "garonproducts.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "garonproducts.com",
+    "domain": "garonproducts.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "For over 60 years, Garon Products, Inc. has defined what it means to be a trusted concrete coating supplier. Our top-quality concrete floor repair products and floor coatings meet the demands of even the most challenging industrial,...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e8f2f5f189736f195bfb7118cfc68822.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2fyb25wcm9kdwn0cy5jb21adghyzwvhbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 22:29:08.563462",
+    "disclosedDate": "2024-02-12 22:29:08.563484"
+  }
+}

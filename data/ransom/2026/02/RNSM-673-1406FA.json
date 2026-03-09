@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-673-1406FA",
+  "type": "ransomware-incident",
+  "title": "Abrahamsom Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Abrahamsom Center",
+    "domain": "abrahamson.co.il",
+    "country": "IL"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "- customer info-HR data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwjyywhhbxnvbsbdzw50zxjabmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-01 00:00:00.000000",
+    "disclosedDate": "2026-02-14 15:07:07.711594"
+  }
+}

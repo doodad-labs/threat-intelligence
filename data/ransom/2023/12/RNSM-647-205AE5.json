@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-205AE5",
+  "type": "ransomware-incident",
+  "title": "kailos.ru ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kailos.ru",
+    "domain": "kailos.ru",
+    "country": "RU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "werewolves",
+    "name": "werewolves",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Агентство деловых услуг \"Кайлос\" начало свою работу 28 ноября 2007 года с одного маленького офиса и цеха площадью 20 кв. м. в составе 4-х человек (директора, главного бухгалтера, мастера цеха и менеджера). На сегодняшний день работает 24 специалиста, 2 офиса по работе с клиентами, 3 производственных цеха общей площадью 250 кв. м.Агентство входит в холдинг, что позволяет ему стабильно работать. Компания динамично развивается, ежегодно увеличивая оборот на 30 %.При этом агентство совершенно не заботит утечка и утеря данных в колоссальных масштабах.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7338e415762b438d8194d95cfdc6db6d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2fpbg9zlnj1qhdlcmv3b2x2zxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-14 14:05:35.000000",
+    "disclosedDate": "2023-12-20 10:27:56.383689"
+  }
+}

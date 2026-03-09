@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-1546E3",
+  "type": "ransomware-incident",
+  "title": "ddelta.com.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ddelta.com.mx",
+    "domain": "ddelta.com.mx",
+    "country": "MX",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Ddelta.com.mx is a Mexico-based company that specializes in offering software solutions and automation services. Their products and services span across various industries including energy, mining, chemical, food and beverage, and more. They offer solutions that optimize processes, improve production efficiency, reduce operating costs and increase profitability. These include programming, instrumentation, electrical design, etc. The company prides itself on its customer-centric approach.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgrlbhrhlmnvbs5teebzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-09 00:00:00.000000",
+    "disclosedDate": "2025-01-15 22:33:07.435459"
+  }
+}

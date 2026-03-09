@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-649-157FA8",
+  "type": "ransomware-incident",
+  "title": "Onclusive ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Onclusive",
+    "domain": "onclusive.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bcc00d72e9364728426a61e56d81670a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t25jbhvzaxzlqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.prweek.com/article/1861136/pr-industry-affected-media-monitoring-firm-onclusive-hit-cyber-attack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-30 00:00:00.000000",
+    "disclosedDate": "2024-02-15 19:47:43.689554"
+  }
+}

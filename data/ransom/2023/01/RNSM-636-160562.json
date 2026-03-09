@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-636-160562",
+  "type": "ransomware-incident",
+  "title": "fulfilmentmatters.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fulfilmentmatters.co.uk",
+    "domain": "fulfilmentmatters.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000,
+    "description": "Fulfilment Matters Ltd specialises in ecommerce fulfilment with a team of specialists with over 30 years of experience in fulfilment and logistics.5 gb dataencryption date ‎December ‎22, ‎2022",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/znvszmlsbwvudg1hdhrlcnmuy28udwtabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-16 10:39:24.259648",
+    "disclosedDate": "2023-01-16 10:39:24.259648"
+  }
+}

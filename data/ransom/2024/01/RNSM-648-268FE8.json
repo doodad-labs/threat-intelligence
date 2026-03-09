@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-268FE8",
+  "type": "ransomware-incident",
+  "title": "jaygroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jaygroup.com",
+    "domain": "jaygroup.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1: https://***************.onion/JAYGROUP/PROOF",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b428f20280147a954495cfa620bdf143.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/amf5z3jvdxauy29tqgnhy3r1cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-26 10:22:40.705000",
+    "disclosedDate": "2024-01-26 11:51:29.902085"
+  }
+}

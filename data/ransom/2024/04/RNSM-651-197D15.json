@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-197D15",
+  "type": "ransomware-incident",
+  "title": "cfsigroup.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cfsigroup.ca",
+    "domain": "cfsigroup.ca",
+    "country": "CA",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Better yet, see us in person!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5c11d324d75fbcb6cd894f0552d8f8df.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2zzawdyb3vwlmnhqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-11 11:04:00.000000",
+    "disclosedDate": "2024-04-19 09:38:45.812861"
+  }
+}

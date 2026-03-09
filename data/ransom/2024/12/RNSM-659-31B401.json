@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-31B401",
+  "type": "ransomware-incident",
+  "title": "maim.gov.my ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "maim.gov.my",
+    "domain": "maim.gov.my",
+    "country": "MY",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] MAIM, or the Melaka Islamic Religious Council (Majlis Agama Islam Melaka), is a government body in Malaysia responsible for managing Islamic affairs in the state of Melaka. It oversees religious education, mosque administration, and the implementation of Islamic laws and policies. MAIM also manages zakat (charitable contributions) and waqf (endowments), ensuring they are used for community welfare and development.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfpbs5nb3yubxlaznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-31 09:13:00.260780",
+    "disclosedDate": "2024-12-31 09:13:02.363772"
+  }
+}

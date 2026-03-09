@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-263001",
+  "type": "ransomware-incident",
+  "title": "Laboratorios Belloch(Nelly, Yunsey, Fresh feel) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Laboratorios Belloch(Nelly, Yunsey, Fresh feel)",
+    "country": "ES",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 25000000000,
+    "description": "The company creates personal care products and cosmetics. We are going to upload about 25 GB of corporate data. Lots of projects files, detailed financial data, information about all clients, contracts, correspondence, a bit of employee personal documents, and a lot of other data of such brands as Nelly, Yunsey and Fresh feel cosmetics.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgfib3jhdg9yaw9ziejlbgxvy2gotmvsbhksifl1bnnleswgrnjlc2ggzmvlbclaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-26 00:00:00.000000",
+    "disclosedDate": "2025-05-26 22:12:25.007073"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-12D1FB",
+  "type": "ransomware-incident",
+  "title": "VVS-Eksperten ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VVS-Eksperten",
+    "domain": "vvs-eksperten.dk",
+    "country": "DK",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "At VVS-Eksperten, we deliver solid quality products and we are always up to date on the latest productions in the industry. At VVS-Eksperten, we are specialists in our field, and we are always ready to help our customers achieve their goals with all their projects – both large and small. Cheap plumbing for everyone.  VVS-Eksperten is a nationwide chain with nationwide stores that sell various different plumbing articles for both house, garden and environmentally conscious installations. At VVS-Eksperten, we are proud to be able to supply cheap plumbing to all Danes - regardless of whether you are a small start-up, private or one of Denmark's leading companies.  Regardless of whether you meet us in our physical stores or through our webshop, we are always ready to help you with professional advice, offers for projects and information about all our products. We offer cheap plumbing that helps you realize your dreams.  We got full clients database as you can see in screenshots .",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6967a98d7a410fffb6c8ed4b8c38b999.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vlztluvrc3blcnrlbkbjawnhzgezmzax",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-12 00:00:00.000000",
+    "disclosedDate": "2024-08-12 13:58:38.207793"
+  }
+}

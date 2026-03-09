@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-23309A",
+  "type": "ransomware-incident",
+  "title": "Graminex ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Graminex",
+    "domain": "graminex.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Graminex®, L.L.C. is the leading producer of natural and solvent-free Graminex® Flower Pollen Extract.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jhbwluzxhazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-23 05:31:01.047445",
+    "disclosedDate": "2024-09-23 08:34:18.178529"
+  }
+}

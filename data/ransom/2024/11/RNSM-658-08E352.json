@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-08E352",
+  "type": "ransomware-incident",
+  "title": "www.lamaisonducitron.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.lamaisonducitron.com",
+    "domain": "lamaisonducitron.com",
+    "country": "FR",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lemon product store.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/16476e0cac0a18549ee5d61e3e0c605c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmxhbwfpc29uzhvjaxryb24uy29tqgfwddcz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-08 16:15:26.750012",
+    "disclosedDate": "2024-11-08 16:15:27.788671"
+  }
+}

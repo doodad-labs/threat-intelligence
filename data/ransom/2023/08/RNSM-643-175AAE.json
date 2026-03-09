@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-175AAE",
+  "type": "ransomware-incident",
+  "title": "sgl.co.th ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sgl.co.th",
+    "domain": "sgl.co.th",
+    "country": "TH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sumisho Global Logistics Co Ltd is a company that operates in the Logistics and Supply Chain industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d86542c44b501da2bf065c3d75adf112.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2dslmnvlnroqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-17 14:57:00.000000",
+    "disclosedDate": "2023-08-17 16:02:55.833610"
+  }
+}

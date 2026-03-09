@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-640-03984E",
+  "type": "ransomware-incident",
+  "title": "Commune de Saxon ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Commune de Saxon",
+    "domain": "saxon.ch",
+    "country": "CH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Saxon, Switzerlandi ;  Commune de Saxon is a company that operates in the Government industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d1a5963627100abedf6d75a3958660c5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tbxvuzsbkzsbtyxhvbkbwbgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.polizeiwallis.ch/medienmitteilungen/saxon-cyberattacke-auf-die-vormundschaftsbehoerde/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-03 21:53:20.370471",
+    "disclosedDate": "2023-05-03 21:53:20.370493"
+  }
+}

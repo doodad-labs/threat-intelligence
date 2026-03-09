@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26610D",
+  "type": "ransomware-incident",
+  "title": "ENCOREANYWHERE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ENCOREANYWHERE.COM",
+    "domain": "encoreanywhere.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome to EncoreAnywhere",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/22bde78553c1130c149bc29f640490bd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ru5dt1jfqu5zv0hfukuuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:33:35.391217",
+    "disclosedDate": "2023-07-26 20:33:35.391237"
+  }
+}

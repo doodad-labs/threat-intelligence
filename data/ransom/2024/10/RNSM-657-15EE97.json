@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-657-15EE97",
+  "type": "ransomware-incident",
+  "title": "Microworks ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Microworks",
+    "domain": "microworks.com",
+    "country": "JP"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Microworks Microworks Point of Sale Prism offers an ideal computer system for pizza delivery, restaurant management, and franchise food service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twljcm93b3jrc0byahlzawrh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-15 12:26:24.237414",
+    "disclosedDate": "2024-10-15 12:26:25.251220"
+  }
+}

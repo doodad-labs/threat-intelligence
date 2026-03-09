@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-26A59B",
+  "type": "ransomware-incident",
+  "title": "andrews.bg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "andrews.bg",
+    "domain": "andrews.bg",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We will leak all of the info we have on you if dont get paid.We require a ransom of $15,000",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw5kcmv3cy5iz0byyw5zb21lza==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-25 03:23:20.146980",
+    "disclosedDate": "2023-09-26 03:23:20.147002"
+  }
+}

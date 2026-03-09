@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-19CEE4",
+  "type": "ransomware-incident",
+  "title": "stavinvest.cz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "stavinvest.cz",
+    "domain": "stavinvest.cz",
+    "country": "CZ",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are a building supply store that specializes in roofing materials and services.Our products include roofing, insulation, gutters, and battens. Therefore, pretty much anything roof-related.STAV-INVEST was founded in 1992. We have come a lon...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/88da6637c5bb1dc083d76711a9c44d0d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rhdmludmvzdc5jekbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-19 14:44:00.000000",
+    "disclosedDate": "2023-03-19 17:13:21.989064"
+  }
+}

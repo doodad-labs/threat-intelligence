@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-086FCB",
+  "type": "ransomware-incident",
+  "title": "Marisa S.A ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Marisa S.A",
+    "domain": "marisa.com.br",
+    "country": "BR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Marisa S.A. is the largest Brazilian department store chain specialized in women’s clothing. Marisa corporate office is located in 422/432 R James Holland, Sao Paulo, Sao Paulo, 1138000, Brazil and has 15,104 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9c9f404b895e31f44bd0fbf762a8b3b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfyaxnhifmuqubtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-07 12:27:48.000000",
+    "disclosedDate": "2024-11-08 14:58:41.209999"
+  }
+}

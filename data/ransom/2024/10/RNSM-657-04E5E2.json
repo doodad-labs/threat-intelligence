@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-04E5E2",
+  "type": "ransomware-incident",
+  "title": "Amplitude Laser ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Amplitude Laser",
+    "domain": "amplitude-laser.com",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : France - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d082e279e8f46d7b8469488abc4ce183.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1wbgl0dwrliexhc2vyqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-04 12:25:16.000000",
+    "disclosedDate": "2024-10-04 13:30:34.497451"
+  }
+}

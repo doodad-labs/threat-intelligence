@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-635-261BB1",
+  "type": "ransomware-incident",
+  "title": "TeladanPrima Argo Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TeladanPrima Argo Group",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "avoslocker",
+    "name": "avoslocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 750000000000,
+    "description": "750GB+ of stolen data include contracts, confidential , intellectual property data, and more",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvsywrhblbyaw1hiefyz28gr3jvdxbayxzvc2xvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-26 16:12:25.686005",
+    "disclosedDate": "2022-12-26 16:12:25.686005"
+  }
+}

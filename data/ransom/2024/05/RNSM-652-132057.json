@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-132057",
+  "type": "ransomware-incident",
+  "title": "hesperiausd.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hesperiausd.org",
+    "domain": "hesperiausd.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hesperia Unified School District was formed in 1987. Hesperia Unified School District serves the City of Hesperia and adjacent areas in the High Desert of San Bernardino County and covers 140 square miles.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d84baf9aad05b441dbdbbb7e0ab1db01.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agvzcgvyawf1c2qub3jnqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-13 14:29:00.000000",
+    "disclosedDate": "2024-05-13 16:37:43.828961"
+  }
+}

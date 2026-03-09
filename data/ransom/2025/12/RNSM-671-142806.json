@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-142806",
+  "type": "ransomware-incident",
+  "title": "Kier & Wright ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kier & Wright",
+    "domain": "kierwright.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c15e65ac842d1ebe46fc8b603efb8595.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2llciamifdyawdodebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-14 23:44:13.869982",
+    "disclosedDate": "2025-12-14 23:44:30.807695"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-248D41",
+  "type": "ransomware-incident",
+  "title": "CENTRIC.EU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CENTRIC.EU",
+    "domain": "centric.eu",
+    "country": "NL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Centric.EU is an information technology company based in Europe. Known for offering inventive and reliable IT solutions, the company specializes in software development, IT outsourcing, cloud services, managed services, business process outsourcing, mobility, and consulting among other services. Centric.EU caters to clients in various sectors including retail, finance, healthcare, and government.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f55416ad1a4050a0b5b2b29e07d9243d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0vovfjjqy5fvubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 08:06:41.814552",
+    "disclosedDate": "2025-01-24 08:06:41.814552"
+  }
+}

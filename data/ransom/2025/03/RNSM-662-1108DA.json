@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-1108DA",
+  "type": "ransomware-incident",
+  "title": "lexmark.com Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lexmark.com Company",
+    "domain": "lexmark.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "lexmark.com Company",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d4d3c0ee29ca8556b42946fa8382c7f2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgv4bwfyay5jb20gq29tcgfueubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-11 02:51:29.346283",
+    "disclosedDate": "2025-03-11 02:52:35.248194"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-649-28E80B",
+  "type": "ransomware-incident",
+  "title": "HAL Allergy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HAL Allergy",
+    "domain": "hal-allergy.com",
+    "country": "NL",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HAL Allergy is one of the European top players in the development, production and distribution of allergen immunotherapies for the treatment and prevention of allergic diseases. With a highly competitive product portfolio, including subcutaneous and sublingual products, and a future-oriented pipeline portfolio, HAL Allergy strives to provide the best possible medical products and scientific output. HAL Allergy is located in the Bio Science Park in Leiden, The Netherlands.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/40d079ffd098c66b3b521e10c63d31a6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sefmiefsbgvyz3lacmfuc29tag91c2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.apotheke-adhoc.de/nachrichten/detail/markt/hal-allergy-hacker-angriff-legt-lieferung-lahm/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-18 00:00:00.000000",
+    "disclosedDate": "2024-02-28 23:50:53.168427"
+  }
+}

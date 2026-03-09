@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-0233CB",
+  "type": "ransomware-incident",
+  "title": "unitednotions.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "unitednotions.com",
+    "domain": "unitednotions.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "unitednotions.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c98966e1efe324255b6eb68459644c04.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dw5pdgvkbm90aw9ucy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-28 00:00:00.000000",
+    "disclosedDate": "2024-03-02 20:57:34.772716"
+  }
+}

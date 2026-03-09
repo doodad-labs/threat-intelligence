@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-14576A",
+  "type": "ransomware-incident",
+  "title": "American Steel & Aluminum ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "American Steel & Aluminum",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 70000000000,
+    "description": "American Steel & Aluminum Co., Inc. was founded in 1967 with 3 employees, a small fabrication shop, and some big dreams for the future. Today they have 70 employees and 70Gb of data that will be uploaded here. There is much project information and financial docs. Employee information is also will be available.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1lcmljyw4gu3rlzwwgjibbbhvtaw51bubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-14 17:33:59.905039",
+    "disclosedDate": "2023-09-14 17:34:00.021107"
+  }
+}

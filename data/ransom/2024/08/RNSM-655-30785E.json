@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-655-30785E",
+  "type": "ransomware-incident",
+  "title": "www.citebd.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.citebd.org",
+    "domain": "citebd.org",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Citebd.org is the official site for La Cité Internationale de la Bande Dessinée et de l'Image, a cultural institution located in Angoulême, France. It is dedicated to the promotion and celebration of comic books and visual media. The organization hosts exhibitions, workshops, and educational programs, and it also features a museum, library, and cinema focused on the art of comics and image.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/290b6be314730f7cbffdf89b58950d2f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnpdgvizc5vcmdacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.charentelibre.fr/charente/angouleme/angouleme-la-cite-de-la-bd-victime-d-une-cyberattaque-21150048.php",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-30 14:00:58.000000",
+    "disclosedDate": "2024-08-30 15:25:48.549679"
+  }
+}

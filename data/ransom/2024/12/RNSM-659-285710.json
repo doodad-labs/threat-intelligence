@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-285710",
+  "type": "ransomware-incident",
+  "title": "nigico.gr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nigico.gr",
+    "domain": "nigico.gr",
+    "country": "GR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Nigico.gr is a Greek company specializing in the distribution of industrial automation products, electrical components, and solutions. They cater to various sectors, including manufacturing, energy, and infrastructure, providing equipment like sensors, controllers, and drives. Nigico.gr focuses on delivering high-quality products and technical support to enhance operational efficiency and innovation for their clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/198e33121b367fd5b0f20973d9de1046.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmlnawnvlmdyqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-28 11:09:16.000000",
+    "disclosedDate": "2024-12-28 15:01:00.670568"
+  }
+}

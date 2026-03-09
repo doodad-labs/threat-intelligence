@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-04DF69",
+  "type": "ransomware-incident",
+  "title": "maxvaluecredits.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "maxvaluecredits.com",
+    "domain": "maxvaluecredits.com",
+    "country": "CA",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 15.01.2025. MAXVALUE Credits & Investments Ltd. is an innovative venture providing high quality financial services to the common man. The team behind this venture draws from various w            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e19bec428085abb48027438563840db8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwf4dmfsdwvjcmvkaxrzlmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-05 00:00:00.000000",
+    "disclosedDate": "2025-01-04 09:29:44.557092"
+  }
+}

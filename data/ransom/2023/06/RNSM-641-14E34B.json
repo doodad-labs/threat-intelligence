@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-14E34B",
+  "type": "ransomware-incident",
+  "title": "bankers-bank.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bankers-bank.com",
+    "domain": "bankers-bank.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sucuri WebSite Firewall - Access Denied",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0906768da0ce3e36c0e265cb0a94fac8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymfua2vycy1iyw5rlmnvbubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-14 20:21:22.104604",
+    "disclosedDate": "2023-06-14 20:21:22.104623"
+  }
+}

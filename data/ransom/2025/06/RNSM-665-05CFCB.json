@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-665-05CFCB",
+  "type": "ransomware-incident",
+  "title": "HBI Canada ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HBI Canada",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 16000000000,
+    "description": "HBI Sells smoking accessories to thousands of stores, distributors, jobbers and cash & carry outlets nationwide.We are going to upload about 16 GB of corporate data. There are alot of employee personal documents, lots of contracts and agreements, customers data, financial data (audits, payment details, reports), NDAs, Minecraft posters, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sejjienhbmfkyubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-05 00:00:00.000000",
+    "disclosedDate": "2025-06-05 15:11:22.874559"
+  }
+}

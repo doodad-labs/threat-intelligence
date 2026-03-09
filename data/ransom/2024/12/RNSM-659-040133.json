@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-040133",
+  "type": "ransomware-incident",
+  "title": "beko-technologies.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "beko-technologies.com",
+    "domain": "beko-technologies.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "BEKO TECHNOLOGIES GMBH. For more than four decades, we have represented worldwide tried and tested compressed air and compressed gas technologies. Our products, systems and solutions ensure the required quality that our customers demand for their production processes – safely and energy-efficient. For quality made in Germany. And for values made by BEKO TECHNOLOGIES.SITE: www.beko-technologies.com Address : Im Taubental 7 D-41468 Neuss GermanyTEL#: +49 2131-988-0ALL DATA SIZE: ≈700gb 1. Company data 2. Users folders and personal documents 3. Customers data 4. Confidential data 5. R&D(Fue) 6. Drawings, Graphics… & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2dedbaf8978acbe6156e75e49220b39e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymvrby10zwnobm9sb2dpzxmuy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-31 00:00:00.000000",
+    "disclosedDate": "2024-12-04 12:57:48.614145"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-147AFA",
+  "type": "ransomware-incident",
+  "title": "pikenursery.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pikenursery.com",
+    "domain": "pikenursery.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We strive to take the guesswork out of gardening by providing our communities with the best horticultural knowledge, the best assortment of quality plants and garden related products that thrive in our climate, and thoughtful customer service. We are...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ca1e780cbfcf97c943aa02065218bbb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cglrzw51cnnlcnkuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-14 21:35:00.000000",
+    "disclosedDate": "2023-05-14 22:49:07.862052"
+  }
+}

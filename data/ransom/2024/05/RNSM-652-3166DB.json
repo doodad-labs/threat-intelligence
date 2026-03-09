@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-3166DB",
+  "type": "ransomware-incident",
+  "title": "Sems and Specials  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sems and Specials ",
+    "domain": "semsandspecials.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 122130000000,
+    "description": "Sems and Specials (founded in 1990) - manufacturer of various screws, types of washers, head styles, drive styles, materials, as well as other various fastening and connecting elements. Sems and Specials corporate office is located in 6483 Falcon Rd, Rockford, Illinois, 61109, United States. The total amount of data leakage is 122.13 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vtcybhbmqgu3bly2lhbhmgqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-30 17:36:57.12345",
+    "disclosedDate": "2024-05-31 08:59:16.564249"
+  }
+}

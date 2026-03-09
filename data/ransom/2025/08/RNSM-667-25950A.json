@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-25950A",
+  "type": "ransomware-incident",
+  "title": "airfastindonesia.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "airfastindonesia.com",
+    "domain": "airfastindonesia.com",
+    "country": "ID",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "warlock",
+    "name": "warlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "all user data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywlyzmfzdgluzg9uzxnpys5jb21ad2fybg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-25 16:58:02.169445",
+    "disclosedDate": "2025-08-25 16:58:04.704808"
+  }
+}

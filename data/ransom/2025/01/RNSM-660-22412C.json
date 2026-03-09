@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-22412C",
+  "type": "ransomware-incident",
+  "title": "gaylord.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gaylord.org",
+    "domain": "gaylord.org",
+    "country": ""
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2f5bg9yzc5vcmdac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2e786885-9812-4314-a1e4-341bdf8a82eb.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-19 00:00:00.000000",
+    "disclosedDate": "2025-01-22 21:09:39.140759"
+  }
+}

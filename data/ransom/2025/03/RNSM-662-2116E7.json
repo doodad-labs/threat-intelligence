@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-2116E7",
+  "type": "ransomware-incident",
+  "title": "armetal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "armetal.com",
+    "domain": "armetal.com",
+    "country": "SA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "armetal.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9bb5d38eec2e2142b6d09d387c60e119.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxjtzxrhbc5jb21aymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-21 19:48:21.415225",
+    "disclosedDate": "2025-03-21 19:49:28.800788"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-664-194282",
+  "type": "ransomware-incident",
+  "title": "piriou ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "piriou",
+    "domain": "piriou.vn",
+    "country": "VN"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "383K USD",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cglyaw91qgrldm1hbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-19 13:47:41.323534",
+    "disclosedDate": "2025-05-19 13:47:42.599208"
+  }
+}

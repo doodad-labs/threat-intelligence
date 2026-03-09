@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-657-24D12F",
+  "type": "ransomware-incident",
+  "title": "Drug and Alcohol Treatment Service ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Drug and Alcohol Treatment Service",
+    "domain": "datsrecovery.org",
+    "country": "AU",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Drug and Alcohol Treatment Service is Lackawanna County's leading outpatient drug and alcohol treatment center. The focus of treatment at DATS is centered on changing destructive behaviors and developing a lifestyle free of mood altering drugs.At your disposal is the SAGE accounting database, personal data of employees, SQL database, personal data of patients",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7542fa1d2b3c8d152fe6304888b2e5b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhj1zybhbmqgqwxjb2hvbcbucmvhdg1lbnqgu2vydmljzubpbnrlcmxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5ef8db77-a4fd-46a0-99d3-19688c4f0434.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-24 18:39:44.988554",
+    "disclosedDate": "2024-10-24 18:39:46.418933"
+  }
+}

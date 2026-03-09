@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-2286E4",
+  "type": "ransomware-incident",
+  "title": "American Mechanical, inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "American Mechanical, inc",
+    "domain": "ami-hvac.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "American Mechanical, inc. - company design, install and service heating, ventilating and air-conditioning systems for the commercial and industrial marketplace. The company's corporate office is located at 1275 Boulevard Way, Walnut Creek CA, 94595",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d19097cc95a84de5e12c49d6388b3127.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1lcmljyw4gtwvjagfuawnhbcwgaw5jqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-22 06:39:45.000000",
+    "disclosedDate": "2024-10-22 06:59:38.837718"
+  }
+}

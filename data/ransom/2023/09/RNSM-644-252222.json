@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-252222",
+  "type": "ransomware-incident",
+  "title": "Nusmiles Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nusmiles Hospital",
+    "domain": "nusmiles.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "knight",
+    "name": "knight",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://www.nusmiles.com/ nusmiles is a general dentist specializing in dental procedures and services in Takoma Park, MD. Michele Dozier, DDS is located in Takoma Park,",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5acc54b7567671bf2df09455a1b7eb85.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tnvzbwlszxmgsg9zcgl0ywxaa25pz2h0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-25 19:09:32.863910",
+    "disclosedDate": "2023-09-25 19:09:32.863953"
+  }
+}

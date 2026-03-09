@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-667-0492B5",
+  "type": "ransomware-incident",
+  "title": "Phoenix Lighting ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Phoenix Lighting",
+    "domain": "phoenixlighting.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/86926347add30e8b5abf215e08091658.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ughvzw5pecbmawdodgluz0bwbgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-09-11-phoenix-products-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-30 00:00:00.000000",
+    "disclosedDate": "2025-08-04 18:49:35.909106"
+  }
+}

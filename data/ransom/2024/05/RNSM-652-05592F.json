@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-652-05592F",
+  "type": "ransomware-incident",
+  "title": "Seneca Nation Health System ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Seneca Nation Health System",
+    "country": "IN",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Seneca Nation Health System (SNHS) is recognized as a non-profit public health organization and maintains a federal contract with the Indian Health services (IHS) under public health law 93-368 Title 1. The SNHS was established in 1976 as a tribal program and has continuously provided ambulatory health care in the Allegany and Cattaraugus Territories. The health care facilities offer programs developed under the public health model. These facilities are the Lionel R. John Health Center (LRJHC), the Cattaraugus Indian Reservation Health Center (CIRHC) and Community Health and Wellness Center. Health services are offered to those persons within the Purchased/Referred Care Services Delivery Area who are defined as eligible under federal and tribal guidelines. These services areas include the counties of Allegany, Cattaraugus, Chautauqua, Niagara (excluding the Tonawanda and Tuscarora Territories) and Erie in New York and Warren County in Pennsylvania. Our programs provide a full range of primary and preventive care for acute and chronic illness and injuries. In addition, we have service agreements with several local hospitals, professional groups and agencies for inpatient treatment and specialty care to round out our health programs. The Lionel R. John Health Center has been recognized by the National Committee for Quality Assurance (NCQA) as a Level 3 Patient Centered Medical Home. And NCQA has also recognized the Diabetes Program at LRJHC.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vuzwnhie5hdglvbibizwfsdgggu3lzdgvtqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-05 20:07:46.646000",
+    "disclosedDate": "2024-05-05 22:41:25.458259"
+  }
+}

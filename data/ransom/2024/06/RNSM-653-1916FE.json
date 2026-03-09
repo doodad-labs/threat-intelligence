@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-1916FE",
+  "type": "ransomware-incident",
+  "title": "Behavioral Health Response (bhr.local) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Behavioral Health Response (bhr.local)",
+    "domain": "bhrstl.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BHR provides confidential telephone counseling to people in mental health crises as well as mobile outreach services, community referral services and critical incident stress management (CISM). BHRs crisis hotline and mobile outreach services are provided free of charge to the public by paid professional staff who have masters degrees in their respective behavioral science disciplines. Established in 1994, Behavioral Health Response is a private nonprofit corporation, the hub for an Access Crisis Intervention (ACI) system, that provides 24-hour access to mental health services to residents of the city of St. Louis, Missouri and the counties of St. Louis, St. Charles, Franklin, Jefferson, Lincoln, Warren, Iron, St. Francois and Washington.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvoyxzpb3jhbcbizwfsdgggumvzcg9uc2ugkgjoci5sb2nhbclaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-19 20:24:22.960000",
+    "disclosedDate": "2024-06-19 21:22:06.621838"
+  }
+}

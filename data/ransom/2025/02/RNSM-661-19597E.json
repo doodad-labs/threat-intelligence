@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-19597E",
+  "type": "ransomware-incident",
+  "title": "ziese.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ziese.net",
+    "domain": "ziese.net",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ziese &amp; Sons Excavating, Inc. is your premier excavation company serving Crown Point and the surrounding areas. Contact us today for a free consultation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/emllc2uubmv0qhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 00:00:00.000000",
+    "disclosedDate": "2025-02-19 16:28:02.233352"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-0936B3",
+  "type": "ransomware-incident",
+  "title": "museu-goeldi.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "museu-goeldi.br",
+    "domain": "museu-goeldi.br",
+    "country": "BR",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Museu Paraense Emilio Goeldi is a company that operates in the Research industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9893e7e47b95b18eac2e56ad6b1cffb1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bxvzzxutz29lbgrplmjyqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-20 00:00:00.000000",
+    "disclosedDate": "2024-05-09 12:45:15.848030"
+  }
+}

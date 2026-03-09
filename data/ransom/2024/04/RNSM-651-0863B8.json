@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-0863B8",
+  "type": "ransomware-incident",
+  "title": "Change HealthCare - OPTUM Group - United HealthCare Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Change HealthCare - OPTUM Group - United HealthCare Group",
+    "domain": "unitedhealthgroup.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 4000000000000,
+    "description": "Visits: 38 Data Size: 4TB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2296c6c72209badc7011af981e880064.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hhbmdliehlywx0aenhcmuglsbpufrvtsbhcm91ccatifvuaxrlzcbizwfsdghdyxjliedyb3vwqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-08 04:22:36.104463",
+    "disclosedDate": "2024-04-08 04:22:36.104486"
+  }
+}

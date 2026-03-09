@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-289A9A",
+  "type": "ransomware-incident",
+  "title": "IAС ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IAС",
+    "domain": "iacindustries.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e14c081bd7957667646a77c9504a45ab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/suhqoubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-10 00:00:00.000000",
+    "disclosedDate": "2024-11-28 12:41:09.235990"
+  }
+}

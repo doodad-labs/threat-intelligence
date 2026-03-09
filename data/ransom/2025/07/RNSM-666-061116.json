@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-666-061116",
+  "type": "ransomware-incident",
+  "title": "Southwest CARE Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Southwest CARE Center",
+    "domain": "southwestcare.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 143900000000,
+    "description": "Founded in 1996, Southwest CARE Center (SCC) is well known as a center of excellence for the care and treatment of people living with HIV in New Mexico. SCC is the largest provider of treatment for people living with Hepatitis C in northern New Mexico. SCC is also the largest clinical research site in New Mexico for studies of new treatments for both HIV and Hepatitis C. In September of 2015 SCC opened its doors in Albuquerque providing the same high standard of HIV care SCC is known for. Southwest CARE Center's focus is to provide a compassionate, patient-centered environment where everyone can feel comfortable and respected while receiving the highest quality health care available.company is headquartered in 901 W Alameda Street Santa Fe, NM 87501. The total amount of data leakage is 143.9 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ce2ba1c61e4734cc7e87fd8e4cd3d23d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u291dgh3zxn0ienbukugq2vudgvyqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-27 15:58:01.000000",
+    "disclosedDate": "2025-07-06 10:38:57.788951"
+  }
+}

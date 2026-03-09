@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-162ED9",
+  "type": "ransomware-incident",
+  "title": "moi.gov.ly ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "moi.gov.ly",
+    "domain": "moi.gov.ly",
+    "country": "LY",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Ministry of Internal Affairs of Libya (وزارة الداخلية الليبية) is the interior ministry of Libya. The Ministry is headquartered in Tripoli.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/22a58c8e43c5829d83b8821c204e130e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw9plmdvdi5seubrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-16 00:09:23.521963",
+    "disclosedDate": "2024-10-16 00:09:24.315935"
+  }
+}

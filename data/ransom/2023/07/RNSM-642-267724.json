@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-267724",
+  "type": "ransomware-incident",
+  "title": "DATAENGINE.EU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DATAENGINE.EU",
+    "domain": "dataengine.eu",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DataEngine - this is us",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d0db3726eb1d5730ea41d1ce4f5dd0f9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/refuquvor0lors5fvubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 21:00:22.112741",
+    "disclosedDate": "2023-07-26 21:00:22.112788"
+  }
+}

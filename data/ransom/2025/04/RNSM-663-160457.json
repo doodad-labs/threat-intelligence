@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-663-160457",
+  "type": "ransomware-incident",
+  "title": "niemann.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "niemann.de",
+    "domain": "niemann.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Niemann.de is a German company known as Niemann Möbelteile, which translates to Niemann Furniture Parts. Niemann.de manufactures high-quality surfaces and board materials, mainly distributing its products for interior and furniture design practices. It provides a variety of design options including high gloss and super matte finishes amongst others.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmllbwfubi5kzubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-07 00:00:00.000000",
+    "disclosedDate": "2025-04-16 19:26:24.578111"
+  }
+}

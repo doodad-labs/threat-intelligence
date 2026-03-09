@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-13DED2",
+  "type": "ransomware-incident",
+  "title": "Omydoo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Omydoo",
+    "domain": "omydoo.fr",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: Omydoo, Ayomi, ADULLACT - Omydoo is a French company specializing in implementing integrated management software solutions for SMEs using the open-source ERP Odoo.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8ef35b0430af76202e2531ac2163fb83.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t215zg9vqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-13 21:11:26.370232",
+    "disclosedDate": "2025-02-13 21:11:27.596988"
+  }
+}

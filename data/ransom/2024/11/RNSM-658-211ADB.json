@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-211ADB",
+  "type": "ransomware-incident",
+  "title": "curenta.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "curenta.com",
+    "domain": "curenta.com",
+    "country": "IL",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Curenta is a healthcare technology company focused on enhancing the efficiency of medication delivery and management within long-term care facilities. By leveraging advanced logistics and digital solutions, Curenta aims to streamline pharmacy operations, improve patient care, and reduce costs. Their platform integrates with existing systems to optimize prescription handling and delivery processes.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/57e697590b67095016a8aaad63cfb819.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3vyzw50ys5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-21 18:53:29.000000",
+    "disclosedDate": "2024-11-21 20:50:50.250773"
+  }
+}

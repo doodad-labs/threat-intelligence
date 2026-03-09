@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-668-03285D",
+  "type": "ransomware-incident",
+  "title": "blytheco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "blytheco.com",
+    "domain": "blytheco.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Blytheco is a full-service consulting firm that has been working with small and medium-sized businesses since 1980. Blytheco offers a wide range of business management software (ERP, CRM, HCM, marketing automation), backed by exceptional prof            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b907ee342d8a42e213041dd74fed5d50.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymx5dghly28uy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2bbea054-30bb-4243-a4d3-4fdc2c78fbc7.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-03 00:00:00.000000",
+    "disclosedDate": "2025-09-03 16:35:01.515865"
+  }
+}

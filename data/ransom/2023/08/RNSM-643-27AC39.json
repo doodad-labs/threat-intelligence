@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-27AC39",
+  "type": "ransomware-incident",
+  "title": "grupomartex.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "grupomartex.com",
+    "domain": "grupomartex.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Martex is a leading international corporation that specializes in high-performance textile solutions for  sports, military, police, ballistics and institutional/public sector markets.Our goal is to integrate solutions with the highest quality sta...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3803ce12668c465de3c458332a00fdf4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3j1cg9tyxj0zxguy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-27 21:29:00.000000",
+    "disclosedDate": "2023-08-27 22:07:26.619054"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-654-0159B2",
+  "type": "ransomware-incident",
+  "title": "Indonesia Terkoneksi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Indonesia Terkoneksi",
+    "domain": "kominfo.go.id",
+    "country": "ID",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "More important than money, only honor.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b3309b52db6477ae5de2320fcc60d9a4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5kb25lc2lhifrlcmtvbmvrc2laqnjhaw5daxbozxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://kumparan.com/kumparannews/server-pdn-kominfo-diserang-layanan-imigrasi-di-bandara-internasional-terganggu-22yspnenrr9",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-01 19:10:39.000000",
+    "disclosedDate": "2024-07-01 19:10:39.000000"
+  }
+}

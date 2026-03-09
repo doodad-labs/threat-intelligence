@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-091100",
+  "type": "ransomware-incident",
+  "title": "Republica De Panama ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Republica De Panama",
+    "country": "PA"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "We hacked the Ministry of Economy and Finance of Panama. We have more than 1.5TB data at our disposal, including: internal mail, confidential data, budgets and much more. We publish a small part of the information, but we will post a lot of interesting things in the public domain if the employees of the ministry do not make contact with us.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7884c3fc06281df9ede70c9aa1cee34a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvwdwjsawnhierlifbhbmftyubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-09 01:00:00.000000",
+    "disclosedDate": "2025-09-09 16:48:41.118492"
+  }
+}

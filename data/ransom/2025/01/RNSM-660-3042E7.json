@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-660-3042E7",
+  "type": "ransomware-incident",
+  "title": "Engine Power Source ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Engine Power Source",
+    "domain": "enginepowersource.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "We have over 1TB of critical data, including personal employee and partner information. However, EPS management has shown complete indifference to this situation. EPS has 72 hours to respond, or the full list of data will be made public.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/da0b7deebd568ce4dfcdcd6db63ba79e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw5naw5lifbvd2vyifnvdxjjzubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-30 12:19:43.100953",
+    "disclosedDate": "2025-01-30 12:20:58.555570"
+  }
+}

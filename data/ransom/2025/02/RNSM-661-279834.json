@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-279834",
+  "type": "ransomware-incident",
+  "title": "HANSONFASO.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HANSONFASO.COM",
+    "domain": "hansonfaso.com",
+    "country": "HK"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Hanson Faso is a leading foodservice sales and marketing agency that primarily operates in the Midwest, U.S. With its years of experience and industry knowledge, the company delivers excellent results to foodservice manufacturers, distributors, and operators. Their services include sales, marketing, supply chain, and category management. The team at Hanson Faso is committed to meeting customers' needs through innovative strategies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sefou09orkftty5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 18:10:15.891730",
+    "disclosedDate": "2025-02-27 18:10:20.728940"
+  }
+}

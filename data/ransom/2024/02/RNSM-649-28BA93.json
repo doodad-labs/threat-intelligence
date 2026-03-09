@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-649-28BA93",
+  "type": "ransomware-incident",
+  "title": "DTN Management Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DTN Management Company",
+    "domain": "dtnmgt.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 68000000000,
+    "description": "DTN Management Company is a recognized leader in apartment operations with a portfolio of over 106 communities across Michigan's best markets. These guys are not interested in saving their 68GB of data with all the passport scans, SSNs, driver licenses of their employees and partners.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rfroie1hbmfnzw1lbnqgq29tcgfueubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-28 17:52:11.131722",
+    "disclosedDate": "2024-02-28 17:52:11.251106"
+  }
+}

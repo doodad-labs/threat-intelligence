@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19D6D9",
+  "type": "ransomware-incident",
+  "title": "aten.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aten.com",
+    "domain": "aten.com",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Office in the USAATEN International Co.(Ltd) (Chinese: 宏正自動科技; pinyin: Hóngzhèng Zìdòng Kējì) is a multinational manufacturer of connectivity and access management hardware headquartered in Xizhi District, New Taipei, Taiwan. Its products inc...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/302798f9d344064f12d5e95957ac0428.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxrlbi5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-11 17:07:00.000000",
+    "disclosedDate": "2024-04-19 09:32:37.147056"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19148B",
+  "type": "ransomware-incident",
+  "title": "unitex.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "unitex.com",
+    "domain": "unitex.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "More information in our telegram channel https://t.me/snatch_team Persons responsible for data leakage:Jorge Lascano:Chief Engineer, Engineer+1 718-679-8796jlascano@unitex.com;David Potack:President+1 914-882-8098+1 914-840-3200dpotack@unitex.com;Steve Gottlieb:CFO+1 212-575-1777sgottlieb@unitex.com;Quron Gee:Senior President, Senior VP+1 212-575-1777qgee@unitex.com;Steven Bonarrigo:VP, VP, Business Development+1 973-568-6553+1 212-575-1777sbonarrigo@unitex.com;Seth Gershman:Director, Director, Communications, Director, Marketing, VP, VP, Communications, VP, Marketing+1",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bc3964c6594dc5ab98c18754e1a10239.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dw5pdgv4lmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-16 01:47:00.000000",
+    "disclosedDate": "2024-04-19 11:25:33.346982"
+  }
+}

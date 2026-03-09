@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-094AA9",
+  "type": "ransomware-incident",
+  "title": "Savills Middle East/Cluttons ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Savills Middle East/Cluttons",
+    "domain": "savills.me",
+    "country": "AE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "No description available.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/736f44369342add42811c43e8968f9b5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2f2awxscybnawrkbgugrwfzdc9dbhv0dg9uc0bjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-09 05:15:05.775944",
+    "disclosedDate": "2025-12-09 05:15:18.003176"
+  }
+}

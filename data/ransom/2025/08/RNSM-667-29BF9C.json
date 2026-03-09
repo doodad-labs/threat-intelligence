@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-29BF9C",
+  "type": "ransomware-incident",
+  "title": "thecelestehotel.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "thecelestehotel.com",
+    "domain": "thecelestehotel.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Celeste Hotel is a boutique hotel located in Orlando, Florida, within the University of Central Florida (UCF) campus area. …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8ea4e935fde358a4ff6cf37f3c89e0f8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghly2vszxn0zwhvdgvslmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-18 00:00:00.000000",
+    "disclosedDate": "2025-08-29 21:33:22.341942"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-666-18838B",
+  "type": "ransomware-incident",
+  "title": "B&M - Expertise - Audit ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "B&M - Expertise - Audit",
+    "domain": "bmexpertise.fr",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 233000000000,
+    "description": "Status: 20d 19h 47m 26s - Size Data: 233 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/85368552a1868999ff28bd88771f5a1c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qiznic0grxhwzxj0axnlic0gqxvkaxray2ljywrhmzmwmq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-18 00:00:00.000000",
+    "disclosedDate": "2025-07-18 14:45:29.167593"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-640-268D0E",
+  "type": "ransomware-incident",
+  "title": "Haworth Tompkins ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Haworth Tompkins",
+    "domain": "haworthtompkins.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "Haworth Tompkins is a Stirling Prize-winning architectural studio with an international reputation for intelligent, purposeful design.Total downloaded data - 100gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ede3f8b3d1aae24d7a5426228b2439a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgf3b3j0acbub21wa2luc0byb3lhba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-26 01:02:03.456789",
+    "disclosedDate": "2023-05-26 11:59:00.595282"
+  }
+}

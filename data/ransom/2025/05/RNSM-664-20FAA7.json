@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-20FAA7",
+  "type": "ransomware-incident",
+  "title": "Stiga.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Stiga.com",
+    "domain": "stiga.com",
+    "country": "SE",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "imncrew",
+    "name": "IMNCrew",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1934, Stiga is a gardening brand focusing on innovation and designing effective gardening tools, machinery and equipment. Stiga's products are produced in Sweden, Italy, Slovakia and China.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rpz2euy29tqelntknyzxc=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-20 01:33:52.696533",
+    "disclosedDate": "2025-05-20 01:33:56.171847"
+  }
+}

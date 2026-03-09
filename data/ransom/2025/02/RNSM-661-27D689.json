@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-27D689",
+  "type": "ransomware-incident",
+  "title": "MAJORLABELGROUP.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MAJORLABELGROUP.COM",
+    "domain": "majorlabelgroup.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] MajorLabelGroup.com is a digital marketing agency that focuses on helping music artists and record labels grow their online presence. Services include social media management, streaming and radio promotion, music video production and more. They have expertise in a range of techniques including SEO, digital advertising, and web design. With a deep understanding of the music industry, they provide tailored solutions to help clients reach their goals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tufkt1jmqujftedst1vqlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:40:35.396069",
+    "disclosedDate": "2025-02-27 16:40:45.603875"
+  }
+}

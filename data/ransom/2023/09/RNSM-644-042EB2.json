@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-644-042EB2",
+  "type": "ransomware-incident",
+  "title": "Northwave s.r.l. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Northwave s.r.l.",
+    "domain": "northwave.it",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "At Northwave we pour all our energy into one and one thing only: creating the finest products for sport in the mountains. With a single-minded focus, we create innovative products, unmatched in terms of performance, qual...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3f1f46886ff185e5acf881937deaf1c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9ydgh3yxzlihmuci5slkbub2vzy2fwzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://tribunatreviso.gelocal.it/regione/2023/08/31/news/ciclismo_ganna_northwave_hacker-13019483/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-28 00:00:00.000000",
+    "disclosedDate": "2023-09-04 19:07:02.329817"
+  }
+}

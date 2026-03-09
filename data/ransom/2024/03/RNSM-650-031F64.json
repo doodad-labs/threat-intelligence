@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-031F64",
+  "type": "ransomware-incident",
+  "title": "THESAFIRCHOICE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "THESAFIRCHOICE.COM",
+    "domain": "thesafirchoice.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - Safir Law",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vehfu0fgsvjdse9jq0uuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-03 17:38:57.718389",
+    "disclosedDate": "2024-03-03 17:38:57.718415"
+  }
+}

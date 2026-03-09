@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-663-167857",
+  "type": "ransomware-incident",
+  "title": "kirkel.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kirkel.de",
+    "domain": "kirkel.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2lya2vslmrlqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/cyberangriff_auf_gemeinde_kirkel_100.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-16 23:24:58.761766",
+    "disclosedDate": "2025-04-16 23:25:01.765496"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-04FAD6",
+  "type": "ransomware-incident",
+  "title": "PPM Industries SpA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PPM Industries SpA",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 288000000000,
+    "description": "PPM Industries SpAAdhesive tape PPM IndustriesAs a leading masking tape manufacturer, PPM Industries has been at the forefront of adhesive tape production since 1993.Our expertise in developing high-quality masking and adhesive tape solutions ensures that we meet diverse user requirements and applications across various markets. We pride ourselves on being a trusted partner to B2B customers worldwide, delivering reliable and innovative masking tape products. Trust PPM Industries for adhesive tape solutions you can depend on.Geo: Italy - Leak size: 288 GB Archive - Contains: Files, SQL",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ufbnieluzhvzdhjpzxmgu3bbqhnhcmnvbwe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-04 06:42:04.081954",
+    "disclosedDate": "2025-06-04 06:42:06.202919"
+  }
+}

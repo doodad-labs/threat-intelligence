@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-658-26F8F8",
+  "type": "ransomware-incident",
+  "title": "GMG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GMG",
+    "domain": "gmg.com",
+    "country": "AE"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PASSPORTs, FRESH DOCUMENTs, PERSONAL INFORMATION",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/58ffa51c6a92b2ae3233d057d2ae494a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r01hqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-25 14:51:53.628000",
+    "disclosedDate": "2024-11-26 14:46:26.241307"
+  }
+}

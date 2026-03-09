@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09CC6B",
+  "type": "ransomware-incident",
+  "title": "sislocar.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sislocar.com",
+    "domain": "sislocar.com",
+    "country": "CR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Our company leads in comprehensive logistic services, offering tailored solutions covering bonded warehouses, Free Zone Storage, international and local transportation, and customs services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fd0977bc938db5233918420cd84018e6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2lzbg9jyxiuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-11 00:00:00.000000",
+    "disclosedDate": "2024-05-09 12:40:41.219836"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-043790",
+  "type": "ransomware-incident",
+  "title": "importservices.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "importservices.co.uk",
+    "domain": "importservices.co.uk",
+    "country": "GB",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Import Services Ltd (importservices.co.uk) is a Southampton-based UK logistics company specializing in retail supply chain services, contract warehousing, freight forwarding, order fulfillment, and port-centric distribution for imports and domestic operations.breched with love 3",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9acf2d386a953783f413bbd00781d0c1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw1wb3j0c2vydmljzxmuy28udwtazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-02 18:41:47.032381",
+    "disclosedDate": "2026-03-04 00:04:56.471796"
+  }
+}

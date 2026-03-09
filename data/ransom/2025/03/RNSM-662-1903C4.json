@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-1903C4",
+  "type": "ransomware-incident",
+  "title": "Palomino Petroleum ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Palomino Petroleum",
+    "domain": "palominopetroleum.com",
+    "country": "GB",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Palomino Petroleum Inc is a company that operates in the Oil & Gas Exploration & Services industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f4b3d5098031978a5839e8844f136d67.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfsb21pbm8gugv0cm9szxvtqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-19 10:30:12.656000",
+    "disclosedDate": "2025-03-19 11:29:53.207509"
+  }
+}

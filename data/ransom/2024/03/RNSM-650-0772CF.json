@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-0772CF",
+  "type": "ransomware-incident",
+  "title": "duvel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "duvel",
+    "domain": "duvel.com",
+    "country": "BE",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Belgium",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zhv2zwxac3rvcm1vdxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-07 00:00:00.000000",
+    "disclosedDate": "2024-03-07 13:22:08.251503"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-656-257704",
+  "type": "ransomware-incident",
+  "title": "DETROIT PBS ( PUBLIC TV ) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DETROIT PBS ( PUBLIC TV )",
+    "domain": "detroitpbs.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "As a non-commercial, educational public television station serving the Detroit metropolitan area, Detroit PBS, licensed to Detroit Public Media, offers a diverse range of programming aimed at educating, informing, and entertaining audiences o            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/db77b7adf2908db78ad306aa3cac78ba.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/revuuk9jvcbqqlmgkcbqvujmsumgvfygkubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://cybernews.com/security/television-station-detroit-pbs-hacked/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-23 00:00:00.000000",
+    "disclosedDate": "2024-09-25 23:06:26.139741"
+  }
+}

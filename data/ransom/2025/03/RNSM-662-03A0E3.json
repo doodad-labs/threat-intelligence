@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-03A0E3",
+  "type": "ransomware-incident",
+  "title": "Grafitec ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Grafitec",
+    "domain": "grafitec.co.uk",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome to Grafitec Ltd the UK’s largest stockist of top quality binding and…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c95e05802f638231b28ce5b4b3f24fa9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jhzml0zwnayxjjdxntzwrpyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-03 18:57:24.000000",
+    "disclosedDate": "2025-03-03 19:56:10.733999"
+  }
+}

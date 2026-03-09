@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-278FDA",
+  "type": "ransomware-incident",
+  "title": "Meta E2 F ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Meta E2 F",
+    "domain": "meta-e2f.eu",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 9000000000,
+    "description": "Meta E2 F provides a wide range of highly skilled, state-of-the-art manufacturing and development capabilities for the production of electrical, electronic and cable products.We are ready to upload more than 9 GB of essential corporate documents such as: financial data (audits, payment details, reports),contact numbers and e-mail addresses of employees and customers,etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twv0ysbfmibgqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 00:00:00.000000",
+    "disclosedDate": "2025-02-27 18:20:32.198335"
+  }
+}

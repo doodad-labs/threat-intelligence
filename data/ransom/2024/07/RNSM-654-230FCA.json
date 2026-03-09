@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-230FCA",
+  "type": "ransomware-incident",
+  "title": "Association Management Strategies(AAMC.local) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Association Management Strategies(AAMC.local)",
+    "domain": "amsamc.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Association Management Strategies is a full-service association management company providing management expertise and administrative services to in dustry associations, coalitions, professional societies, trade shows and other special events. AMS tailors its services to meet the goals, needs and budget of each of its clients. The result is a true business partnership that is built for success.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0635addbaef39985285546012c349aae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxnzb2npyxrpb24gtwfuywdlbwvudcbtdhjhdgvnawvzkefbtumubg9jywwpqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-23 09:31:17.465000",
+    "disclosedDate": "2024-07-23 09:39:49.816188"
+  }
+}

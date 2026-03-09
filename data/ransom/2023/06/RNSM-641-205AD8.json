@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-205AD8",
+  "type": "ransomware-incident",
+  "title": "bbrook.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bbrook.org",
+    "domain": "bbrook.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bound Brook School Districtadministrator@vsphere.local f0Rm#l@C$bb-vcenter7.bbrook.edu",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b9f16e5a5baeac952aff2ae5b24903d7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymjyb29rlm9yz0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-20 09:29:00.000000",
+    "disclosedDate": "2023-06-20 09:59:06.809043"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-0214A6",
+  "type": "ransomware-incident",
+  "title": "Clínica Villa Zaita ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Clínica Villa Zaita",
+    "domain": "clinicavillazaita.com",
+    "country": "PA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ciphbit",
+    "name": "ciphbit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2zdrw5py2egvmlsbgegwmfpdgfay2lwagjpda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-02 01:11:13.216511",
+    "disclosedDate": "2025-12-02 01:11:16.588665"
+  }
+}

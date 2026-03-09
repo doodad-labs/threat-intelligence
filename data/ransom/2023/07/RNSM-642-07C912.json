@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-07C912",
+  "type": "ransomware-incident",
+  "title": "TDAMERITRADE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TDAMERITRADE.COM",
+    "domain": "tdameritrade.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Online Stock Trading, Investing, Brokerage - TD Ameritrade",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bcecc8e3a988bae34acc774ed0bd312a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/verbtuvssvrsqurflknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-07 16:21:02.655130",
+    "disclosedDate": "2023-07-07 16:21:02.655165"
+  }
+}

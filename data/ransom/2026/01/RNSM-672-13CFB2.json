@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-13CFB2",
+  "type": "ransomware-incident",
+  "title": "Ju Teng International Holdings Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ju Teng International Holdings Ltd",
+    "country": "HK",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "Ju Teng International Holdings Ltd\r \r Total data in the leak: 200GB\r \r Leaked data:\r - Clients: Dell, Acer, HTC, HP, Panasonic, Siemens, Nintendo,\r Mercedes-Benz, BMW, Scania, Ford, Geely, Continental, other large clients all over the world!\r - Data Classification: confidential\r - Projects: DELL JPPA, HP MI & TGA, AMG CDD & ICD and many other projects. All project information: development, laboratory testing, drawings, subcontractors, suppliers.\r - Financial data: Company income and expenses, IPD information, financial reports. Contracts with customers and suppliers, NDA contracts.\r And a lot of other VERY IMPORTANT information!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/61d712799b751ee334b2b3ef50cdea7e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/snugvgvuzybjbnrlcm5hdglvbmfsiehvbgrpbmdziex0zebpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-13 01:00:00.000000",
+    "disclosedDate": "2026-01-13 21:52:49.741231"
+  }
+}

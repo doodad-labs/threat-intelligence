@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-648-089BDD",
+  "type": "ransomware-incident",
+  "title": "HALLEONARD ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HALLEONARD",
+    "domain": "halleonard.com.au",
+    "country": "AU"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are a subsidiary of Hal Leonard Corporation who, founded in 1947, is the world leader in the print music industry. Selling products in more than 65 countries around the world, Hal Leonard Corporation represents in print some of the world's            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sefmtevptkfsrebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-08 19:24:35.264303",
+    "disclosedDate": "2024-01-08 19:24:35.264344"
+  }
+}

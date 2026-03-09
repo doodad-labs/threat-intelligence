@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-256A47",
+  "type": "ransomware-incident",
+  "title": "INTEGRITEK.NET ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "INTEGRITEK.NET",
+    "domain": "integritek.net",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] INTEGRITEK.NET, commonly known as \"Integritek,\" is an Information Technology company that offers managed IT services to diverse businesses. They provide technological solutions, including IT support, cybersecurity, cloud services, and disaster recovery. The solutions are designed to optimize business operations, enhance security, and mitigate IT risks. The company operates with a client-centric approach, tailoring IT services according to the specific needs of each business.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/974af5cea4b9eec9b7cb3f382fae938c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/su5urudssvrfsy5orvray2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 14:50:51.472452",
+    "disclosedDate": "2026-01-25 14:51:06.078895"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-1970EC",
+  "type": "ransomware-incident",
+  "title": "gulfcoastwindows.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gulfcoastwindows.com",
+    "domain": "gulfcoastwindows.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Gulf Coast Windows is an award-winning provider & installer of replacement windows, entry doors, patio doors and more serving the Greater Houston Metropolitan",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/97ad2005c282c541fe277fc3c0197113.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3vszmnvyxn0d2luzg93cy5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-11-15 11:10:00.000000",
+    "disclosedDate": "2024-04-19 11:11:29.753732"
+  }
+}

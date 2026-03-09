@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-156905",
+  "type": "ransomware-incident",
+  "title": "MBS Radio ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MBS Radio",
+    "domain": "mbsradio.com",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "metaencryptor",
+    "name": "metaencryptor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MBS Radio is a locally owned and operated group of 24 radio stations across Nova Scotia, New Brunswick and Prince Edward Island.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tujtifjhzglvqg1ldgflbmnyexb0b3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-15 12:34:23.621391",
+    "disclosedDate": "2024-08-15 12:34:24.640148"
+  }
+}

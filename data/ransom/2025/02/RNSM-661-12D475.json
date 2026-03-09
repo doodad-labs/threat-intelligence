@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-12D475",
+  "type": "ransomware-incident",
+  "title": "morrisgroup.co ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "morrisgroup.co",
+    "domain": "morrisgroup.co",
+    "country": "CO",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Morris Group is an international company that offers a range of financial solutions, assets management, fintech innovation, and real estate services. Originating in Switzerland, they combine a global perspective with deep local knowledge to deliver integrated services to companies, communities, and individuals. Their key sectors include financial services, health services, and fintech. They are committed to sustainable development and community investment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw9ycmlzz3jvdxauy29ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-12 21:43:45.525807",
+    "disclosedDate": "2025-02-12 21:43:51.890837"
+  }
+}

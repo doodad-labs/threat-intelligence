@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-05A895",
+  "type": "ransomware-incident",
+  "title": "corehandf.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "corehandf.com",
+    "domain": "corehandf.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 2010 and headquartered in Vancouver, Washington, Core Health and Fitness is a privately-held marketer and distributor of commercial fitness solutions to health clubs, community recreational centers, hotels, and educational facilities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29yzwhhbmrmlmnvbub0ahjlzwft",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-05 21:28:52.641171",
+    "disclosedDate": "2025-02-05 21:28:55.975585"
+  }
+}

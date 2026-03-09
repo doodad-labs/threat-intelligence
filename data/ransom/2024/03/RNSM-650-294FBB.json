@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-294FBB",
+  "type": "ransomware-incident",
+  "title": "PSEC Church ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PSEC Church",
+    "domain": "psec.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The United Church of Christ is made up of 38 regional conferences, each with its own distinct identity. Pennsylvania Southeast Conference covers a diverse area: Philadelphia and its suburbs are in...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/549cddbe59401bfb2ff72d7a56211000.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ufnfqybdahvyy2haaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-29 08:51:24.377140",
+    "disclosedDate": "2024-03-29 08:51:24.602635"
+  }
+}

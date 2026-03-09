@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-026352",
+  "type": "ransomware-incident",
+  "title": "psmicorp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "psmicorp.com",
+    "domain": "psmicorp.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PSMI was founded in 2005 with the sole objective of increasing operational effectiveness by reducing tooling and MRO spending.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fa68efe52ba9dcb4eeb4aa3d789a0b27.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chntawnvcnauy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-02 12:19:00.000000",
+    "disclosedDate": "2023-11-02 13:01:37.312128"
+  }
+}

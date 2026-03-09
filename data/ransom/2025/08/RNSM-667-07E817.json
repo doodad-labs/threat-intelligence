@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-07E817",
+  "type": "ransomware-incident",
+  "title": "Able Home Care ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Able Home Care",
+    "domain": "ablehomecarellc.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Able Home Care is a healthcare service provider that offers essential home care services designed to improve the quality of life for patients of all ages with various health needs. They specialize in providing professional, compassionate services such as elderly care, disability needs, recovery aid, and more. This company is dedicated to enriching lives through exceptional in-home care and support for daily activities to maintain the independence and comfort of their clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0a88fc89a0f41135e13bfdf83ee4d378.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwjszsbib21lienhcmvad29ybgrszwfrcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-24 09:30:54.000000",
+    "disclosedDate": "2025-08-07 16:21:57.806243"
+  }
+}

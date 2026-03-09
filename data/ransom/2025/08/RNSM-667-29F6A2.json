@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-29F6A2",
+  "type": "ransomware-incident",
+  "title": "hardwicktactical.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hardwicktactical.com",
+    "domain": "hardwicktactical.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hardwick Tactical Corporation, located in Cleveland, Tennessee, is a historic American manufacturer of military and professional uniforms. Founded in 1880, …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c1d334b2c561b14a790538472d264dae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfyzhdpy2t0ywn0awnhbc5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-24 00:00:00.000000",
+    "disclosedDate": "2025-08-29 21:34:34.619258"
+  }
+}

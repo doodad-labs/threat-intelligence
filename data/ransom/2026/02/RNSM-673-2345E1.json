@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-2345E1",
+  "type": "ransomware-incident",
+  "title": "moa.gov.eg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "moa.gov.eg",
+    "domain": "moa.gov.eg",
+    "country": "EG",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Ministry of Agriculture and Land Reclamation is a governmental body focused on advancing agricul...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/57097b08717637b04a392fe21a976b57.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw9hlmdvdi5lz0bsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-17 16:52:00.000000",
+    "disclosedDate": "2026-02-23 13:13:49.464098"
+  }
+}

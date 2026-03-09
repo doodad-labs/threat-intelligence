@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-210310",
+  "type": "ransomware-incident",
+  "title": "Kentfield Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kentfield Hospital",
+    "domain": "kentfieldhospital.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Kentfield Hospital is a long-term acute care and rehabilitation facility providing specialized care for patients recovering from serious illnesses, surgeries, and injuries. This includes treatment for conditions such as strokes, spinal cord and brain injuries, and respiratory and cardiac diseases. The hospital has locations in San Francisco and San Rafael in the U.S. state of California.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6c665ae8961b24303a89d1da43395091.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2vudgzpzwxkiehvc3bpdgfsqhdvcmxkbgvha3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-13 00:00:00.000000",
+    "disclosedDate": "2025-07-21 13:53:02.528160"
+  }
+}

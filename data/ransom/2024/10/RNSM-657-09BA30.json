@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-09BA30",
+  "type": "ransomware-incident",
+  "title": "victrongroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "victrongroup.com",
+    "domain": "victrongroup.com",
+    "country": "VN",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Victron Energy is a premier fuel distributor founded by Ali Sharaf. Beginning with a single convenience store, Ali grew his business by providing the best possible customer experience and was a pioneer in larger format convenience stores co-branded with restaurants.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmljdhjvbmdyb3vwlmnvbubhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-09 10:03:14.030446",
+    "disclosedDate": "2024-10-09 10:03:14.962584"
+  }
+}

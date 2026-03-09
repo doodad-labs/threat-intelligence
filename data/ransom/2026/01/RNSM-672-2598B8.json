@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-2598B8",
+  "type": "ransomware-incident",
+  "title": "HILTON.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HILTON.COM",
+    "domain": "hilton.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Hilton.com is the official online platform for Hilton Worldwide Holdings Inc., a global hospitality company. The site allows users to book rooms in more than 6,100 properties across 119 countries. These properties include luxury resorts, full-service hotels, and extended-stay suites from various Hilton brands such as Hilton Hotels & Resorts, Waldorf Astoria Hotels & Resorts, Conrad Hotels & Resorts, and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ae5675be036914a5275d3f2345f50170.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/selmve9olknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 15:14:30.326581",
+    "disclosedDate": "2026-01-25 15:14:45.319413"
+  }
+}

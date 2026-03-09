@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-636-11BBCC",
+  "type": "ransomware-incident",
+  "title": "circlevillecourt.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "circlevillecourt.com",
+    "domain": "circlevillecourt.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 500000000000,
+    "description": "Welcome to The Circleville Municipal Court website. The court serves all of Pickaway County with countywide jurisdiction.We downloaded more than 500 gigabytes of different dates. Customer data. Nanny criminals. Case information. And much more. In...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2lyy2xldmlsbgvjb3vydc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-11 11:23:30.873500",
+    "disclosedDate": "2023-01-11 11:23:30.873500"
+  }
+}

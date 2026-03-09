@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-10B988",
+  "type": "ransomware-incident",
+  "title": "hartalega.com.my ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hartalega.com.my",
+    "domain": "hartalega.com.my",
+    "country": "MY",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The history of Hartalega began in 1988. Our insatiable drive to continually outperform ourselves has transformed what began as a single-line manufacturing facility into what we are today—the largest manufacturer of nitrile gloves in the world, with a...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/51d4c9e59fe0ab0bf592a680881771c5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfydgfszwdhlmnvbs5teubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-10 11:07:00.000000",
+    "disclosedDate": "2024-01-10 13:12:38.267603"
+  }
+}

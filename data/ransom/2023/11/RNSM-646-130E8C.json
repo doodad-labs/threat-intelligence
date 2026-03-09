@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-130E8C",
+  "type": "ransomware-incident",
+  "title": "DrilMaco ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DrilMaco",
+    "domain": "drilmaco.com",
+    "country": "SG",
+    "sector": ""
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Singapore - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/57e392d5f9ae4ef0b5fcb23cf547794e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhjpbe1hy29aahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-12 18:01:36.000000",
+    "disclosedDate": "2023-11-13 14:47:12.702984"
+  }
+}

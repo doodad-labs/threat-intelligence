@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-0452AD",
+  "type": "ransomware-incident",
+  "title": "easydentalcare.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "easydentalcare.us",
+    "domain": "easydentalcare.us",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We Have accessed all of the critical infrasrtucture of the company, we are on our way to publish all of the data, if not paidArchive SnapshotWe require a ransom of $18,000",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwfzewrlbnrhbgnhcmuudxnacmfuc29tzwq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-04 20:39:45.489052",
+    "disclosedDate": "2023-09-04 20:39:45.489080"
+  }
+}

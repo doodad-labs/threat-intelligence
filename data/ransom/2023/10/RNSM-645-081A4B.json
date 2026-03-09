@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-081A4B",
+  "type": "ransomware-incident",
+  "title": "IKM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IKM",
+    "domain": "ikm.com",
+    "country": "NO",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 2005 and headquartered in Sola, Norway, IKM Group is company that specializes in the design and production of products and solutions for the subsea industry. The company supplies and manufactures complete ROV systems and turn-key subsea solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4f741ca88da3dc2e69e494f1cdab8d16.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sutnqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-08 07:40:20.123456",
+    "disclosedDate": "2023-10-08 08:35:15.665057"
+  }
+}

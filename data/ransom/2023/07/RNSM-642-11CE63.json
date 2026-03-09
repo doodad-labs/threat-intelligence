@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-642-11CE63",
+  "type": "ransomware-incident",
+  "title": "Danbury Public Schools ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Danbury Public Schools",
+    "domain": "danbury.k12.ct.us",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Danbury Public Schools is one of the fastest-growing school districts in Connecticut. Our teachers and staff educate more than 12,000 students, preparing them to succeed in higher education, work, and life. Our students and faculty members represent a rich blend of diversity and dozens of heritages.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/de554497b7c4a8852479ef74707a8b23.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgfuynvyesbqdwjsawmgu2nob29sc0a4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.govtech.com/education/k-12/danbury-schools-ask-city-council-for-help-after-ransomware-attack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-08 00:00:00.000000",
+    "disclosedDate": "2023-07-11 08:49:28.900144"
+  }
+}

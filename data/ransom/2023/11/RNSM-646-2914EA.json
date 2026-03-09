@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-646-2914EA",
+  "type": "ransomware-incident",
+  "title": "Alpura ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Alpura",
+    "domain": "alpura.com",
+    "country": "MX",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Alpura, the leading milk producer in Mexico, taking care of everydetail and with the most advanced technology, offers you the best dairy products. You can get to know this company! We'll upload almost 20Gb of their data. There are up-to-date files for the last 3 years in the archive.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxwdxjhqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-29 14:26:59.078596",
+    "disclosedDate": "2023-11-29 14:26:59.219898"
+  }
+}

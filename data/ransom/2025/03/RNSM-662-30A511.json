@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-662-30A511",
+  "type": "ransomware-incident",
+  "title": "tieraerzte-warburg.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tieraerzte-warburg.de",
+    "domain": "tieraerzte-warburg.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgllcmflcnp0zs13yxjidxjnlmrlqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-30 03:01:16.458379",
+    "disclosedDate": "2025-03-30 03:01:23.366087"
+  }
+}

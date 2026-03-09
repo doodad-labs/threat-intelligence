@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-139C78",
+  "type": "ransomware-incident",
+  "title": "MARITZ.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MARITZ.COM",
+    "domain": "maritz.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Maritz.com is a sales and marketing services company. Located in St. Louis, Missouri, it offers customer experience (CX) solutions, including advertising, digital marketing, sales channels, performance improvement initiatives, travel services, corporate trade and reward programs. With a presence in 28 different countries, Maritz uses a customer-first approach to draw actionable insights and support businesses to drive growth.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f026fd5faf713bcd389fe92ee47fb1e4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tufssvralknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-13 19:12:00.787088",
+    "disclosedDate": "2025-11-13 19:12:20.450933"
+  }
+}

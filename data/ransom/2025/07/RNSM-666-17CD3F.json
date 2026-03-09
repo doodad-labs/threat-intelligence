@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-17CD3F",
+  "type": "ransomware-incident",
+  "title": "lawforpersonalinjury.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lawforpersonalinjury.com",
+    "domain": "lawforpersonalinjury.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Prince & Schmidt Personal Injury Lawyers specializes in personal injury law, representing clients in cases such as medical malpractice, vehicle accidents, civil rights violations, and premises liability. Based in Santa Fe, NM, the firm serves            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9f54b11dbaf7e361e4e16e0084fada4b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgf3zm9ycgvyc29uywxpbmp1cnkuy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-09 00:00:00.000000",
+    "disclosedDate": "2025-07-17 06:55:07.961247"
+  }
+}

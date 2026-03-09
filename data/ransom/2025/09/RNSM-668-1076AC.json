@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-1076AC",
+  "type": "ransomware-incident",
+  "title": "Ben-Mor Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ben-Mor Inc.",
+    "domain": "ben-mor.com",
+    "country": "CA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A dynamic company, serving a North American clientele, Ben-Mor specializes in the manufacturing and distribution of steel cables, chains, chain accessories, cable assemblies, coated cables, synthetic web slings, high performance round slings, chain slings, wire rope slings and aircraft cables.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bfab5d8586936ef1fc9c6b4173eeb9ba.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvulu1vcibjbmmuqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-19 00:00:00.000000",
+    "disclosedDate": "2025-09-10 10:17:56.299697"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-195203",
+  "type": "ransomware-incident",
+  "title": "kontek.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kontek.com",
+    "domain": "kontek.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 29.06.2025.KONTEK Systems partners with customers to design, integrate and support audio-visual technology solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b68a4d6c3ed13d606d540469b7d5d9de.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a29udgvrlmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-18 00:00:00.000000",
+    "disclosedDate": "2025-06-19 05:10:03.500151"
+  }
+}

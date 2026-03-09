@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-09295A",
+  "type": "ransomware-incident",
+  "title": "baysideinteriors.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "baysideinteriors.com",
+    "domain": "baysideinteriors.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bayside started in 1984 as a Northern California family owned and operated business, offering services in Southern California since 2006. Nearly 40 years later, we have proudly grown to serve customers across the nation and around the globe. Headquar...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2ac272dca4514c8d54ee66d068a6222f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymf5c2lkzwludgvyaw9ycy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-08 17:02:00.000000",
+    "disclosedDate": "2023-04-09 08:06:30.646356"
+  }
+}

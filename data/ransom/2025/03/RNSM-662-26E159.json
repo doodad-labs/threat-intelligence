@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-26E159",
+  "type": "ransomware-incident",
+  "title": "alliedwoundcare.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "alliedwoundcare.com",
+    "domain": "alliedwoundcare.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "alliedwoundcare.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/81fd03a1c2efea209dac2f13520c3a9a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxsawvkd291bmrjyxjllmnvbubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-12 04:16:34.540500",
+    "disclosedDate": "2025-03-26 22:57:24.867227"
+  }
+}

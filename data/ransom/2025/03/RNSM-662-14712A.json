@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-14712A",
+  "type": "ransomware-incident",
+  "title": "dtrglaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dtrglaw.com",
+    "domain": "dtrglaw.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DTRG | Law Offices of Davidson Troilo Ream & Garza",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/589c495cad7f083032e3ee2f7d3afb8f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zhryz2xhdy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-13 19:43:34.000000",
+    "disclosedDate": "2025-03-14 08:43:23.551855"
+  }
+}

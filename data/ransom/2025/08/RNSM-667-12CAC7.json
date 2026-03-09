@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-12CAC7",
+  "type": "ransomware-incident",
+  "title": "northernconstruction.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "northernconstruction.com",
+    "domain": "northernconstruction.com",
+    "country": "",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Northern Construction Service, LLC is a Massachusetts-based general contractor specializing in bridge construction, construction site work, port and harbor work, concrete work, and utility services.1.The document consists of two invoices fr            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f0463a58d40f25fa36f3eab876ef2204.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bm9ydghlcm5jb25zdhj1y3rpb24uy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-12 00:00:00.000000",
+    "disclosedDate": "2025-08-12 20:04:03.110278"
+  }
+}

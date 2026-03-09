@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-666-18E15F",
+  "type": "ransomware-incident",
+  "title": "gatlogistica.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gatlogistica.com.br",
+    "domain": "gatlogistica.com.br",
+    "country": "BR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 85000000000,
+    "description": "Status: 13d 7h 43m 41s - Size Data: 85 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0575b0be6ca428e8b393cd189ffd49fa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2f0bg9naxn0awnhlmnvbs5ickbjawnhzgezmzax",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-18 00:00:00.000000",
+    "disclosedDate": "2025-07-18 14:46:15.472132"
+  }
+}

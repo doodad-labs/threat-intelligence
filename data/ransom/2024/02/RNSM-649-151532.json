@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-151532",
+  "type": "ransomware-incident",
+  "title": "Schuster Trucking Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Schuster Trucking Company",
+    "domain": "schusterco.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7971e60533fa1882e4012e5679855b43.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2nodxn0zxigvhj1y2tpbmcgq29tcgfueubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-15 17:00:04.000000",
+    "disclosedDate": "2024-02-15 18:00:52.954999"
+  }
+}

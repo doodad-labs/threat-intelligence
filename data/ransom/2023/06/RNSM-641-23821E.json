@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-23821E",
+  "type": "ransomware-incident",
+  "title": "ANDESASERVICES.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ANDESASERVICES.COM",
+    "domain": "andesaservices.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Policy Lifecycle Solutions Provider for Life Insurance & Annuities Industry - Andesa",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34dd3800ea257abb68c00a13703abc68.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qu5ervnbu0vsvkldrvmuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-23 11:37:41.990819",
+    "disclosedDate": "2023-06-23 11:37:41.990849"
+  }
+}

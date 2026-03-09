@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-664-09351D",
+  "type": "ransomware-incident",
+  "title": "Russell Child Development Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Russell Child Development Center",
+    "domain": "rcdc4kids.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 215500000000,
+    "description": "Russell Child Development Center is a community-based non-profit organization that serves early childhood programs across 19 counties in Southwest Kansas. The center offers a variety of services including early intervention, targeted case management, and support programs for families and child care providers. Russell Child Development Center corporate office is located in 2735 N Jennie Barker Rd, Garden City, Kansas, 67846, United States and has 30 employees. The total amount of data leakage is 215.50 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dd288d011b92b968c7815f89e0e96975.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/unvzc2vsbcbdaglszcbezxzlbg9wbwvudcbdzw50zxjabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-06 15:42:10.000000",
+    "disclosedDate": "2025-05-09 17:44:08.122889"
+  }
+}

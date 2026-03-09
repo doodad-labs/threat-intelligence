@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-24E5CC",
+  "type": "ransomware-incident",
+  "title": "LogicVein ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LogicVein",
+    "domain": "lvi.co.jp",
+    "country": "JP",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ae683c197395ba0af5ecedc0490cd4a5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tg9nawnwzwluqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 13:59:55.857908",
+    "disclosedDate": "2025-12-24 14:00:58.205362"
+  }
+}

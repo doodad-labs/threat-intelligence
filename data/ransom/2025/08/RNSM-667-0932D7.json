@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-0932D7",
+  "type": "ransomware-incident",
+  "title": "European Business Server Cluster ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "European Business Server Cluster",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "bqtlock",
+    "name": "bqtlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.bizoneo.com www.bizosoft.eum eeting.wandsoft.com dataprotectionact.ie bizoneo.com www.bizoneo.eu www.bizoneo-membership.eu www.tourguides.ie bizoneo-membership.eu cleanrooms-ireland.ie www.cleanrooms-ireland.ie members.tourguides.ie +138 more",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b5a54b64a34de5d7844218183fd5cb70.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxvyb3blyw4gqnvzaw5lc3mgu2vydmvyiensdxn0zxjaynf0bg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-09 21:10:35.254655",
+    "disclosedDate": "2025-08-09 21:11:06.868100"
+  }
+}

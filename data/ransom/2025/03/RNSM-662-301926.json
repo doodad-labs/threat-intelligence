@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-301926",
+  "type": "ransomware-incident",
+  "title": "marcom-inc.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "marcom-inc.ca",
+    "domain": "marcom-inc.ca",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Marcom Inc. is a Canadian company providing businesses with safety training solutions. Their primary offerings include digital, online, and DVD training in multiple languages, compliance tracking and reporting, as well as customizable content. Their programs are aimed at various sectors including construction, transportation, and manufacturing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a2b1a62692a11fbdb602d16ee2008d6a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfyy29tlwluyy5jyubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-30 02:35:55.723149",
+    "disclosedDate": "2025-03-30 02:37:16.835806"
+  }
+}

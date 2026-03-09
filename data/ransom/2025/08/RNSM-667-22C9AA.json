@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-667-22C9AA",
+  "type": "ransomware-incident",
+  "title": "Mark Edward Partners ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mark Edward Partners",
+    "domain": "mepinsurance.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 6000000000,
+    "description": "Mark Edward Partners is an independent full-service internationalbrokerage firm that offers comprehensive insurance solutions to a diverse clients.We are going to upload about 6gb of corporate files. You will find lots of client information, some documents contain personal information, numerous confidentiality agreements and contracts, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfyaybfzhdhcmqgugfydg5lcnnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-22 00:00:00.000000",
+    "disclosedDate": "2025-08-22 15:11:13.600490"
+  }
+}

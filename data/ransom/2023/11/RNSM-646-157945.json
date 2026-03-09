@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-646-157945",
+  "type": "ransomware-incident",
+  "title": "KaDeWe ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KaDeWe",
+    "domain": "kadewe.de",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Germany",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bbab3a0c2b7419808896800baef29c39.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fezvdlqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article239961892/russische-hacker-greifen-das-kadewe-an.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-14 01:11:38.010568",
+    "disclosedDate": "2023-11-15 01:11:38.139146"
+  }
+}

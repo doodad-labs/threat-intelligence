@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-07DB36",
+  "type": "ransomware-incident",
+  "title": "BCDTRAVEL.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BCDTRAVEL.COM",
+    "domain": "bcdtravel.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Corporate Travel Management for Business by BCD Travel",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cf675b717bbe0feae8db895edddcf65c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qknevfjbvkvmlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-07 16:24:54.160958",
+    "disclosedDate": "2023-07-07 16:24:54.160985"
+  }
+}

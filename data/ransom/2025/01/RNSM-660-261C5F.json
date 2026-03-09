@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-660-261C5F",
+  "type": "ransomware-incident",
+  "title": "www.fgse.cu.edu.eg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.fgse.cu.edu.eg",
+    "domain": "cu.edu.eg",
+    "country": "EG",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "gdlockersec",
+    "name": "GDLockerSec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 7000000,
+    "description": "7MB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/be1205dbeef5a5b769fbdaaf4193c64c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmznc2uuy3uuzwr1lmvnqedetg9ja2vyu2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-26 19:28:20.980167",
+    "disclosedDate": "2025-01-26 19:29:25.544312"
+  }
+}

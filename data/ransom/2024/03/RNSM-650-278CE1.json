@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-278CE1",
+  "type": "ransomware-incident",
+  "title": "Mermet ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mermet",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "Mermet has been dedicated to producing quality fabrics that meet and exceed customer's expectations. About 30GB of data will be available soon. You will find there confidential HR files with personal information and other interesting on the company.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvybwv0qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-27 17:50:13.588107",
+    "disclosedDate": "2024-03-27 17:50:13.656111"
+  }
+}

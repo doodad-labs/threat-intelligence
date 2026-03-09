@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-31C667",
+  "type": "ransomware-incident",
+  "title": "buckprop.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "buckprop.com",
+    "domain": "buckprop.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Buckingham Properties is a real estate developer and property management company located in Rochester, New York. Our diverse portfolio includes office, industrial, retail, and residential properties totaling ten million square feet, as well as 200+ a...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ef7c0cc3ada61cae8b840ab0cbea0e1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynvja3byb3auy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-31 14:06:00.000000",
+    "disclosedDate": "2023-05-31 14:40:03.729997"
+  }
+}

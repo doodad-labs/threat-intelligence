@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-653-08E5B7",
+  "type": "ransomware-incident",
+  "title": "Logimodal Operações Logísticas ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Logimodal Operações Logísticas",
+    "domain": "logimodal.com.br",
+    "country": "BR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 444000000000,
+    "description": "Roubamos e criptografamos 444 GB de dados confidenciais (contratos, finanças, faturas, recursos humanos, operações e muito mais). Contate-nos através da sala de chat ou divulgaremos os dados ao público. ---------------------------------            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a4c1a336ccc0c8b2646289d878245f85.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tg9naw1vzgfsie9wzxjhw6fdtwvziexvz8otc3rpy2fzqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-03 00:00:00.000000",
+    "disclosedDate": "2024-06-08 12:38:48.745650"
+  }
+}

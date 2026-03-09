@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-653-2526AD",
+  "type": "ransomware-incident",
+  "title": "middletown-township.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "middletown-township.org",
+    "domain": "middletown-township.org",
+    "country": "",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 600000000000,
+    "description": "Middletown Township\r 600 gb data from police and townhall",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwlkzgxldg93bi10b3duc2hpcc5vcmdaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-18 11:41:34.410000",
+    "disclosedDate": "2024-06-25 02:29:56.037381"
+  }
+}

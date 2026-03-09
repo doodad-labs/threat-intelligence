@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-032AB9",
+  "type": "ransomware-incident",
+  "title": "L & B Transport, L.L.C. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "L & B Transport, L.L.C.",
+    "domain": "landbtransport.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "L&B stands for high quality transportation services with terminal locations throughout the Southern United States.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2d480fb118e8228c4d00639518a8377f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tcamieigvhjhbnnwb3j0lcbmlkwuqy5aymlhbmxpyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-03 06:35:01.224892",
+    "disclosedDate": "2024-11-03 06:35:01.758367"
+  }
+}

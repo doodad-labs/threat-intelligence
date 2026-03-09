@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-192933",
+  "type": "ransomware-incident",
+  "title": "amerisave.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "amerisave.com",
+    "domain": "amerisave.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "amerisave.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e22c464176817e3a29d7964276dbf1ca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw1lcmlzyxzllmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-02 05:21:00.000000",
+    "disclosedDate": "2024-04-19 12:11:50.715623"
+  }
+}

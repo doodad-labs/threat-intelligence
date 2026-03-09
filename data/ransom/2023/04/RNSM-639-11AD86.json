@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-11AD86",
+  "type": "ransomware-incident",
+  "title": "arcc.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "arcc.org",
+    "domain": "arcc.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The mission of ARCC is to provide services, deliver training, and promote innovation to support our regions school districts.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4a72e6b5f91eed6bbc62b8ff35eac9dd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxjjyy5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-11 06:56:00.000000",
+    "disclosedDate": "2023-04-11 07:48:24.908720"
+  }
+}

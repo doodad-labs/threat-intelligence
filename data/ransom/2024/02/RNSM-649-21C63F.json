@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-649-21C63F",
+  "type": "ransomware-incident",
+  "title": "dasteam.ch ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dasteam.ch",
+    "domain": "dasteam.ch",
+    "country": "CH",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 202000000000,
+    "description": "[EN] Das Team Ag is a company that operates in the Staffing and Recruiting industry. It employs 101-250 people and has $25M-$50M of revenue. [DE] Unser Kerngeschäft liegt in der Vermittlung und im Verleih von Personal im Bauhaupt- und Baunebengewerbe, Handwerk, Industrie, Technik und Medical & Care. Seit 1987 auf dem Markt, ist die personalberatung das team ag eine Stellenvermittlung mit qualifizierten Personalberatern und ausgewiesenen Branchenkennern.SITE: www.dasteam.ch Address : 2 Innere Margarethenstrasse, Basel, Basel-City, 4002, SwitzerlandALL DATA SIZE: 202gb 1. Kunden 2. HR 3. BuHa 4. Personal documents and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1fb02aa5e09c69c9ff708de9ffcc8b48.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgfzdgvhbs5jaebibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-21 12:48:50.707626",
+    "disclosedDate": "2024-02-21 12:48:50.707656"
+  }
+}

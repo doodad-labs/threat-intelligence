@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-1906EE",
+  "type": "ransomware-incident",
+  "title": "armortex.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "armortex.com",
+    "domain": "armortex.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Armortex® has been manufacturing Bullet, Blast and Forced Entry Resistant products for more than thirty years. Our product line includes Armortex® brand fiberglass composite panels, glass, and containment glazing, fixed windows and transaction window...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0f9966de10ce3d0ea8c1b96160eddd2e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxjtb3j0zxguy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-04 19:49:00.000000",
+    "disclosedDate": "2024-04-19 09:58:49.704010"
+  }
+}

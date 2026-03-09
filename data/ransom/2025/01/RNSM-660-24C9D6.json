@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-24C9D6",
+  "type": "ransomware-incident",
+  "title": "C3GROUP.NL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "C3GROUP.NL",
+    "domain": "c3group.nl",
+    "country": "NL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] C3GROUP.NL is a Netherlands-based company that specializes in providing IT services and solutions. Their range of services includes software development, system integration, and technology consulting. They aim to innovate and inspire businesses by offering reliable and efficient solutions that align with their specific needs and goals. With professional experience and expertise, they support companies in optimizing their business processes and increasing productivity.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f55d4ce48b3e1653a4bb9726a5584c3b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qznhuk9vuc5otebjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 08:59:33.010774",
+    "disclosedDate": "2025-01-24 08:59:33.010774"
+  }
+}

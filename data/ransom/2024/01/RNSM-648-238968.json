@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-648-238968",
+  "type": "ransomware-incident",
+  "title": "Double Eagle Energy Holdings IV ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Double Eagle Energy Holdings IV",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/645b58ab9243e0df857e62e4f2c63150.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rg91ymxlievhz2xlievuzxjnesbib2xkaw5ncybjvkbodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-22 17:55:11.000000",
+    "disclosedDate": "2024-01-23 11:43:39.203234"
+  }
+}

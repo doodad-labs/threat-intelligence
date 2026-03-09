@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-26D962",
+  "type": "ransomware-incident",
+  "title": "Complete Payroll Solutions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Complete Payroll Solutions",
+    "domain": "completepayrollsolutions.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "meow",
+    "name": "meow",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Complete Payroll Solutions is a comprehensive human resource and payroll service provider. They offer payroll processing, benefits administration, HR management, compliance, and time and attendance solutions. Known for their personalized service and advanced technology, they cater to businesses of all sizes, ensuring streamlined operations and regulatory compliance.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/73a6a03f029cf676e6dfe1fec616753d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tcgxldgugugf5cm9sbcbtb2x1dglvbnnabwvvdw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-26 19:10:11.388047",
+    "disclosedDate": "2024-08-26 19:10:13.394507"
+  }
+}

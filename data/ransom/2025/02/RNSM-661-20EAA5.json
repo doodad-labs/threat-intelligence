@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-20EAA5",
+  "type": "ransomware-incident",
+  "title": "Berg Engineering Consultants, Ltd. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Berg Engineering Consultants, Ltd.",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "Berg Engineering Consultants, Ltd. is a consulting engineering company that provides Heating, Ventilating, Air-Conditioning, Electrical, Plumbing and Fire Protection engineering and design services for Hospitals, Schools, Offices and Industrial Buildings.We are ready to upload more than 30 GB of essential corporate documents such as: confidential licenses, agreements and contracts, contact numbers and e-mail addresses of employees and customers, financial data (audits, payment details, reports), etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvyzybfbmdpbmvlcmluzybdb25zdwx0yw50cywgthrklkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-20 00:00:00.000000",
+    "disclosedDate": "2025-02-20 11:46:36.051973"
+  }
+}

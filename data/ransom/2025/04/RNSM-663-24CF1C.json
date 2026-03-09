@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-24CF1C",
+  "type": "ransomware-incident",
+  "title": "greatplainstransport.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "greatplainstransport.com",
+    "domain": "greatplainstransport.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Great Plains Transport specializes in temperature controlled commodities, and our fleet of qualcomm satellite equipped power units haul freight from coast to coast. If you are a driver seeking employment, or a customer seeking an experienced hauler, please take some time to check out Great Plains Transport and see if we are the company you have been looking for",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c9c737f638156bc2dec13ce68044592.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jlyxrwbgfpbnn0cmfuc3bvcnquy29tqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-24 22:53:25.170000",
+    "disclosedDate": "2025-04-24 23:00:46.083291"
+  }
+}

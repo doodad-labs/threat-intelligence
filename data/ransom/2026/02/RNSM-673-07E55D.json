@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-07E55D",
+  "type": "ransomware-incident",
+  "title": "abdata.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "abdata.com",
+    "domain": "abdata.com",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0a5a17290746b1a9dc93e7bec6c0adac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywjkyxrhlmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 21:58:51.625291",
+    "disclosedDate": "2026-02-07 21:59:05.929907"
+  }
+}

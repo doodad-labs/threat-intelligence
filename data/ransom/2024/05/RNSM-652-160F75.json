@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-652-160F75",
+  "type": "ransomware-incident",
+  "title": "East Shore Sound ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "East Shore Sound",
+    "country": "US"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "Visits: 79 Data Size: 50GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b56a1f0fef64d95307638cf0fed683f1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwfzdcbtag9yzsbtb3vuzebyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-16 06:34:21.172582",
+    "disclosedDate": "2024-05-16 06:34:21.172606"
+  }
+}

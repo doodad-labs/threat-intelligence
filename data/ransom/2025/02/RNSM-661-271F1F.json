@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-271F1F",
+  "type": "ransomware-incident",
+  "title": "jtu.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jtu.com.br",
+    "domain": "jtu.com.br",
+    "country": "BR"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Greetings!  Today we are posting here the new company, \"JACAREI TRANSPORTE URBANO LTDA\".  Company Description: JACAREÍ TRANSPORTE URBANO was founded with the corporate objective of providing public passenger transport services. JACAREÍ TRANSPORTE...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2716548c86e6bc64c3f976353b780d1f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/anr1lmnvbs5ickbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 00:00:00.000000",
+    "disclosedDate": "2025-02-27 12:22:02.247788"
+  }
+}

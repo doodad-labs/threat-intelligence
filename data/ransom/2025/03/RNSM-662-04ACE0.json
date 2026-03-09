@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-662-04ACE0",
+  "type": "ransomware-incident",
+  "title": "Pampili (pampili.com.br) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pampili (pampili.com.br)",
+    "domain": "pampili.com.br",
+    "country": "BR",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 36300000000,
+    "description": "36.3 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cc8efe2badc8009e1b32081ff7b57d3c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugftcglsasaocgftcglsas5jb20uynipqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-04 00:00:00.000000",
+    "disclosedDate": "2025-03-04 16:30:18.816044"
+  }
+}

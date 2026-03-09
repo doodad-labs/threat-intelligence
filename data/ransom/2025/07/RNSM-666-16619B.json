@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-666-16619B",
+  "type": "ransomware-incident",
+  "title": "Tan Chong Motor Holdings Berhad ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tan Chong Motor Holdings Berhad",
+    "domain": "tanchonggroup.com",
+    "country": "MY",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "crypto24",
+    "name": "crypto24",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "We have exfiltrated over 300GB of sensitive data, including Customer databases (all dbs of tanchong - NAV, BRASSTAX, VTS, CRM, E-INVOICE,...),Legal and HR documents, Financial and employee records, Contractual documents with partners and customers.",
+    "claimed_data_types": [
+      "employee-records"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgfuienob25nie1vdg9yiehvbgrpbmdziejlcmhhzebjcnlwdg8yna==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-09",
+    "disclosedDate": "2025-07-16 16:27:39.772446"
+  }
+}

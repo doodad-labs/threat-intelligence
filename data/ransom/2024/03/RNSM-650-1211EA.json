@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-650-1211EA",
+  "type": "ransomware-incident",
+  "title": "elmatic.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "elmatic.de",
+    "domain": "elmatic.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000000,
+    "description": "[EN] 1) Planning, construction, maintenance, repair and renovation of building and production facilities. - Energy and building management for commercial and residential buildings. - Planning, construction, operation and monitoring of fully automatically controlled production plants. - Development and manufacture of thermal apparatus and equipment for measuring, control and regulation technology. 2) The Company is entitled to acquire other companies, to participate in such, to take over their representation and to establish further branches. The other branches can be operated under companies that contain the addition: “Zweigniederlassung der ELMATIC GmbH”, in particular a branch under the company Jung moderne Haustechnik Zweigniederlassung der ELMATIC GmbH can be operated.[DE] Ob Brenner, Heizungsanlage oder Lüftungs- und Klimatechnik: In allen gebäudetechnischen Bereichen lassen sich durch maßgeschneiderte Wartungs- und Überwachungskonzepte die Kosten senken. Etwa 15.000 Kunden in ganz Deutschland vertrauen dabei dem erfahrenen Service von ELMATIC. Unsere breite Angebotspalette gibt Ihnen die Möglichkeit, für jedes Gebäude ein maßgeschneidertes Dienstleistungskonzept zusammenzustellen.SITE: www.elmatic.de Address : Arndtstraße 18-20, 22085 Hamburg GermanyALL DATA SIZE: ~2tb 1. Mitarbeiter dated 2. Agrements 3. Firm dated 4. FiBu and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/286891fdcb8d8e01ffcd4e885671ac72.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwxtyxrpyy5kzubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-20 00:00:00.000000",
+    "disclosedDate": "2024-03-12 13:21:36.737040"
+  }
+}

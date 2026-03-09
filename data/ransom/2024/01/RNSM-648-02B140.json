@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-02B140",
+  "type": "ransomware-incident",
+  "title": "groupe-idea.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "groupe-idea.com",
+    "domain": "groupe-idea.com",
+    "country": "FR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "IDEA's holding company is a cooperative and participatory company (SCOP) with an independent and non-transferable shareholding structure.The group deploys its expertise in 5 areas of activity: logistics, bulk logistics, industrial transport, shippi...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/66a6d2eb75dce0ec7aa48311665365ae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jvdxbllwlkzweuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-28 00:00:00.000000",
+    "disclosedDate": "2024-01-02 20:39:56.135393"
+  }
+}

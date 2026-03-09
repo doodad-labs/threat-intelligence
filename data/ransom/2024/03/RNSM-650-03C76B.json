@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-03C76B",
+  "type": "ransomware-incident",
+  "title": "Sophiahemmet University  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sophiahemmet University ",
+    "domain": "shh.se",
+    "country": "SE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sophiahemmet University - an academic university offering high-quality education and research in close cooperation with the Sophiahemmet Hospital since 1884. Located at Stockholm, Södermanland, 11486, SE",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u29waglhagvtbwv0ifvuaxzlcnnpdhkgqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-03 15:06:48.12345",
+    "disclosedDate": "2024-03-03 17:49:50.466654"
+  }
+}

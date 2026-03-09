@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-2397BE",
+  "type": "ransomware-incident",
+  "title": "lasevillanita.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lasevillanita.com",
+    "domain": "lasevillanita.com",
+    "country": "CO"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Transportes La Sevillanita Srl is a company that operates in the Freight & Logistics Services indust...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ca70da031ff0e8d960adbc7457a8fc46.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgfzzxzpbgxhbml0ys5jb21abg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-15 17:27:00.000000",
+    "disclosedDate": "2026-02-23 13:18:25.221508"
+  }
+}

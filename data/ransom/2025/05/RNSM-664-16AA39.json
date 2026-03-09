@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-16AA39",
+  "type": "ransomware-incident",
+  "title": "TBM Consulting Group, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TBM Consulting Group, Inc.",
+    "domain": "tbmcg.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] TBM Consulting Group, Inc. is a global consulting firm that helps companies improve operational efficiency and speed, while reducing costs. They specialize in Lean Six Sigma methodologies, supply chain services, operational excellence, and maintenance best practices. Their services span various industries including manufacturing, healthcare, and service industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5cfd4caaa19fa723fbbb44688d57c55a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vejnienvbnn1bhrpbmcgr3jvdxasieluyy5aymxhy2tsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:04:32.407181",
+    "disclosedDate": "2025-05-16 13:45:12.163696"
+  }
+}

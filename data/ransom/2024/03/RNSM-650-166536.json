@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-166536",
+  "type": "ransomware-incident",
+  "title": "certifiedcollection.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "certifiedcollection.com",
+    "domain": "certifiedcollection.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Certified Solutions is a privately held, certified Minority Women Business Enterprise (MWBE) established in New Jersey in 1969. Certified Solutions specializes in accounts receivable management and debt recovery services. Our firm functions as an ext...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7128f8e3b8ef2aa4ffb475c13d669021.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2vydglmawvky29sbgvjdglvbi5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-16 03:00:00.000000",
+    "disclosedDate": "2024-03-16 04:20:13.001467"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-21009A",
+  "type": "ransomware-incident",
+  "title": "Asian Heart Institute ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Asian Heart Institute",
+    "domain": "asianheartinstitute.org",
+    "country": "IN",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Asian Heart Institute (AHI) is a leading cardiac care hospital located in Mumbai, India, specializing in comprehensive heart treatment. The institute offers a wide range of services including cardiology, cardiac surgery, and pediatric cardiac care, with a strong emphasis on personalized and expert care. AHI has treated over 425,000 patients, showcasing its reputation for excellence with a 99.83% success rate in cardiac surgeries. Designed to cater to both local and international patients, AHI is committed to ensuring high-quality healthcare by utilizing advanced technology and minimally invasive procedures.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/809bfe8bc73ff57a2a22962a2b5d1c84.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxnpyw4gsgvhcnqgsw5zdgl0dxrlqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-21 19:20:02.092000",
+    "disclosedDate": "2026-01-21 19:48:00.241939"
+  }
+}

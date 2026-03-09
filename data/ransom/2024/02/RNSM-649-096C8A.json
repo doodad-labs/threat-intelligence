@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-096C8A",
+  "type": "ransomware-incident",
+  "title": "macqueeneq.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "macqueeneq.com",
+    "domain": "macqueeneq.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since 1961 the MacQueen Equipment Group has been growing and serving multiple heavy equipment industries in the Midwest. In addition to sales, MacQueen has five service facilities that provide maintenance, parts and training that deliver maximum upti...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/59ea54a05f3449744ffc13307ae53e34.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfjcxvlzw5lcs5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-09 08:52:00.000000",
+    "disclosedDate": "2024-02-09 10:09:00.907865"
+  }
+}

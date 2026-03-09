@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-18D772",
+  "type": "ransomware-incident",
+  "title": "Fromm (FrommBeauty.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fromm (FrommBeauty.com)",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 16000000000,
+    "description": "16 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a051ef6e0bf82fe3368cb47774e83fef.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnjvbw0gkezyb21tqmvhdxr5lmnvbslazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-18 00:00:00.000000",
+    "disclosedDate": "2024-10-18 17:02:55.734566"
+  }
+}

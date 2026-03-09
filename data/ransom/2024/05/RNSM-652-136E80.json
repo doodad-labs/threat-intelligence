@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-136E80",
+  "type": "ransomware-incident",
+  "title": "Brick Court Chambers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Brick Court Chambers",
+    "domain": "brickcourt.co.uk",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 140930000000,
+    "description": "Founded in 1921, Brick Court Chambers is one of barristers’ chambers in the UK. Specializes in Commercial, Competition, International/EU and Public Law.Brick Court Chambers corporate office is located in 7-8 Essex St, London, Greater London, WC2R 3LD, United Kingdom. The total amount of data leakage is 140.93 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjpy2sgq291cnqgq2hhbwjlcnnabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-12 18:06:50.12345",
+    "disclosedDate": "2024-05-13 07:06:02.560669"
+  }
+}

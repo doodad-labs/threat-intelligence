@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-05FE61",
+  "type": "ransomware-incident",
+  "title": "Dubai Municipality ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dubai Municipality",
+    "domain": "dm.gov.ae",
+    "country": "AE",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "daixin",
+    "name": "daixin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dubai Municipality is the Government of Dubai municipal body with jurisdiction over city services and the upkeep of facilities in the Emirate of Dubai, United Arab Emirates and reports directly to the Dubai Executive Council.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhviywkgtxvuawnpcgfsaxr5qgrhaxhpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-05 19:14:43.138048",
+    "disclosedDate": "2024-06-05 19:14:43.138071"
+  }
+}

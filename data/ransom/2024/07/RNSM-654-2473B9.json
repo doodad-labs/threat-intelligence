@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-2473B9",
+  "type": "ransomware-incident",
+  "title": "SKC West ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SKC West",
+    "domain": "skcwest.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SKC-West is the premier supplier for all Industrial Hygiene, Envi ronmental and Safety equipment on the West Coast. Employee data,  lots of agreements, confidential files, financial data. Everythin g will be available for downloading soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0tdifdlc3raywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-24 19:45:31.312461",
+    "disclosedDate": "2024-07-24 19:45:32.359900"
+  }
+}

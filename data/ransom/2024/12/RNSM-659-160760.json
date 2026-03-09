@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-659-160760",
+  "type": "ransomware-incident",
+  "title": "Lanigan Ryan ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lanigan Ryan",
+    "domain": "laniganryan.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6cb6c57c4b8d81073f8403a205fa97ea.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgfuawdhbibsewfuqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/66bf5b4f-b8d1-4f1a-b96a-fec933e68ca9.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 00:00:00.000000",
+    "disclosedDate": "2024-12-16 21:07:57.040833"
+  }
+}

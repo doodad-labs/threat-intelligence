@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-12DACF",
+  "type": "ransomware-incident",
+  "title": "Regal West Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Regal West Corporation",
+    "domain": "regallogistics.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Regal West Corporation provides asset-based third party logistics services. The company provides distribution, warehousing, cross docking, transportation, retail compliance and consolidation, reverse logistics, and product recall services.SITE: www.regallogistics.com Address  6500 26th St E, Fife Washington, 98424 United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5977ab3af6134ca4c67dd91ba0f3112e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvnywwgv2vzdcbdb3jwb3jhdglvbkbibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-12 13:52:36.858267",
+    "disclosedDate": "2023-06-12 13:52:36.858293"
+  }
+}

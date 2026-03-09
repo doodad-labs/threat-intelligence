@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-660-117FC1",
+  "type": "ransomware-incident",
+  "title": "brachot.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "brachot.com",
+    "domain": "brachot.com",
+    "country": "BE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 600000000000,
+    "description": "Brachot is a leading specialist in natural stone and blended materials, operating under the name Brachot-Hermant. The company offers a diverse portfolio that includes ceramics, marble composites, and various natural stones for both interior and exterior applications. Established as a wholesaler, Brachot has expanded into an international player with multiple production sites and quarries across several countries.SITE: www.brachot.comADDRESS:E 3 Laan 869800 DeinzeBelgiumTEL#: +32 9 381 81 81ALL DATA SIZE: ≈600gb+1. Departments data2. Financial data3. Home folders, Personal employees data and documents4. Accounting5. CAD data, drawings& etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2f54f3c5f3ee82af2d7f350bea4c2312.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjhy2hvdc5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-11 00:00:00.000000",
+    "disclosedDate": "2025-01-11 11:26:37.319590"
+  }
+}

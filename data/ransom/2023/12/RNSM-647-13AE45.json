@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-13AE45",
+  "type": "ransomware-incident",
+  "title": "Advantage Group International ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Advantage Group International",
+    "domain": "advantagegroup.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Your business thrives on partnerships. Advantage makes them matter. It's time to start building better relationships. At Advantage, we seamlessly manage data, ensuring it flows like a leaky faucet, generously shared with all our partners. Because who needs security when you can freely distribute valuable information? Join Advantage, where data protection is just a distant concept.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/88cfa329210604405e6c7aab0c136690.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwr2yw50ywdliedyb3vwieludgvybmf0aw9uywxaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-13 16:43:39.123456",
+    "disclosedDate": "2023-12-13 17:28:07.816346"
+  }
+}

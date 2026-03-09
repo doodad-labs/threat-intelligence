@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-651-193F1F",
+  "type": "ransomware-incident",
+  "title": "servex-us.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "servex-us.com",
+    "domain": "servex-us.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "servex-us.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b9cb3c36362eb4f3e0efbbc1b9ee6fda.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vydmv4lxvzlmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-11 16:17:00.000000",
+    "disclosedDate": "2024-04-19 10:46:23.562274"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-27CE11",
+  "type": "ransomware-incident",
+  "title": "krueth.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "krueth.de",
+    "domain": "krueth.de",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ever since 1969, innovative technologies and the tradesmen’s skills have marked KRÜTH’s path toward modern surfacing of tools. EtchingEngraving, Laser-EtchingEngraving and 3D-LaserEngraving demonstrate the innovative drive and the success of a family...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e34f20bb1022c235dc18b2a67fbfd322.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3j1zxrolmrlqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-27 08:17:00.000000",
+    "disclosedDate": "2024-03-27 09:45:34.098004"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-01C476",
+  "type": "ransomware-incident",
+  "title": "www.fatboysfleetandauto.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.fatboysfleetandauto.com",
+    "domain": "fatboysfleetandauto.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[IA generated] Fat Boys Fleet and Auto is a company specializing in automotive services. They offer a range of services including maintenance and repair for both fleets and individual vehicles. The company is known for its customer-focused approach, providing reliable and efficient solutions to keep vehicles running smoothly. Their team of skilled technicians is dedicated to ensuring high-quality service and customer satisfaction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8039cc5bc350481122deaf2cc64b9fe2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmzhdgjvexnmbgvldgfuzgf1dg8uy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-01 11:45:59.000000",
+    "disclosedDate": "2024-11-01 21:38:54.479255"
+  }
+}

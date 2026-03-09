@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-214C36",
+  "type": "ransomware-incident",
+  "title": "I-Tek Medical Technologies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "I-Tek Medical Technologies",
+    "domain": "i-tekmedical.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A provider of contract design, development, and manufacturing",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dc8cde02169b72979e00b68f7a6a2b9e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ss1uzwsgtwvkawnhbcbuzwnobm9sb2dpzxnaz2vuzxnpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-09 00:00:00.000000",
+    "disclosedDate": "2025-10-21 15:13:18.983813"
+  }
+}

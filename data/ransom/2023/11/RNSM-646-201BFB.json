@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-201BFB",
+  "type": "ransomware-incident",
+  "title": "nybravestfcu.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nybravestfcu.org",
+    "domain": "nybravestfcu.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Albany branch",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/583f41ee92f01db304666abfb74a6daf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bnlicmf2zxn0zmn1lm9yz0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-20 21:20:00.000000",
+    "disclosedDate": "2023-11-20 22:01:04.891256"
+  }
+}

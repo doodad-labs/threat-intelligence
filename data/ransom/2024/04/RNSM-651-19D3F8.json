@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19D3F8",
+  "type": "ransomware-incident",
+  "title": "westat.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "westat.com",
+    "domain": "westat.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "westat.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d680af39f2b19d3d3fdcd6d21709f97d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2vzdgf0lmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-25 06:14:00.000000",
+    "disclosedDate": "2024-04-19 11:35:39.642673"
+  }
+}

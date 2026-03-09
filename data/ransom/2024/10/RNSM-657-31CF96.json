@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-31CF96",
+  "type": "ransomware-incident",
+  "title": "illumin8global.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "illumin8global.com",
+    "domain": "illumin8global.com",
+    "country": "AE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[IA generated] Illumin8 Global is a company focused on providing innovative lighting solutions and technologies. They specialize in energy-efficient and sustainable lighting products for various applications, including residential, commercial, and industrial settings. The company emphasizes cutting-edge design, quality, and customer satisfaction to enhance living and work environments through advanced illumination.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d0c57cf1a71c830abd03111c02ee8eb2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awxsdw1pbjhnbg9iywwuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-30 16:18:13.000000",
+    "disclosedDate": "2024-10-31 03:58:21.226824"
+  }
+}

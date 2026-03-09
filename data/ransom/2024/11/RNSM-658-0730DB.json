@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-658-0730DB",
+  "type": "ransomware-incident",
+  "title": "geminiindustriesinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "geminiindustriesinc.com",
+    "domain": "geminiindustriesinc.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Gemini Industries Inc. is a company specializing in the manufacture and distribution of coatings, adhesives, and sealants. They serve a variety of industries, including automotive, aerospace, and construction. The company focuses on innovation and quality, offering customized solutions to meet specific client needs. Their commitment to sustainability and customer service is integral to their operations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0e267ed70931674d3bd5ade32f664cbc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2vtaw5paw5kdxn0cmllc2luyy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-04-02%20gemini%20industries%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-29 12:27:09.000000",
+    "disclosedDate": "2024-11-07 13:31:40.713325"
+  }
+}

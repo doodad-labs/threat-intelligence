@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-662-123135",
+  "type": "ransomware-incident",
+  "title": "Peerless Food Equipment ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Peerless Food Equipment",
+    "domain": "peerlessfood.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "Peerless Food Equipment is a food equipment company dedicated to creating value for the world’s leading wholesale bakeries and commercial food processors by developing and applying innovative technology for excellent solutions. We are ready to upload more than 200 GB of essential corporate documents such as: financial data (audits, payment details, reports), corporate NDA’s, contact numbers and e-mail addresses of employees and customers, confidential licenses, agreements and contracts, passport scans, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvlcmxlc3mgrm9vzcbfcxvpcg1lbnraywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-12 00:00:00.000000",
+    "disclosedDate": "2025-03-12 12:44:49.800555"
+  }
+}

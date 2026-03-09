@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-14C90A",
+  "type": "ransomware-incident",
+  "title": "Paris Rétina Vision ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Paris Rétina Vision",
+    "domain": "parisretinavision.fr",
+    "country": "FR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The center features a state-of-the-art technical platform on two levels, allowing for the performance of most of your ophthalmological examinations (OCT, optical biometry, visual field, etc.).The center is also equipped with an operating ro            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1259cedc13f10bb2ee01dd704be57e73.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfyaxmgusopdgluysbwaxnpb25acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-14 00:00:00.000000",
+    "disclosedDate": "2025-10-14 20:24:13.880515"
+  }
+}

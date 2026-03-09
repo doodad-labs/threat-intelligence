@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-1369C7",
+  "type": "ransomware-incident",
+  "title": "Luxor Capital Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Luxor Capital Group",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "Luxor Capital Group is a New York-based investment firm that targets venture capital and growth equity investments across North America. More than 100Gb of data will be available for downloading soon. You will find much interesting inside: medical information of employees and their relatives, passports, birth and death certificates, client correspondence containing confidential information, financial information, contracts and other docs with personalinformation as well.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/thv4b3igq2fwaxrhbcbhcm91cebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-13 00:00:00.000000",
+    "disclosedDate": "2024-12-13 14:35:10.295869"
+  }
+}

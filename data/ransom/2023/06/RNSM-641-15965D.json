@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-15965D",
+  "type": "ransomware-incident",
+  "title": "EASTWESTBANK.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EASTWESTBANK.COM",
+    "domain": "eastwestbank.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Personal and Commercial Banking, Home Loans, Wealth Strategies - East West Bank",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ba147ae95fdb7d83c79840d969f7060f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ruftvfdfu1rcqu5llknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-15 21:10:40.442017",
+    "disclosedDate": "2023-06-15 21:10:40.442039"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-2890FB",
+  "type": "ransomware-incident",
+  "title": "Lone Rock Timber ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lone Rock Timber",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 25000000000,
+    "description": "Lone Rock is a timber company.We are ready to upload 25GB files of corporate documents such as:personal employee data, financials, agreements and contracts, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tg9uzsbsb2nrifrpbwjlckbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-28 00:00:00.000000",
+    "disclosedDate": "2025-11-28 13:18:03.849505"
+  }
+}

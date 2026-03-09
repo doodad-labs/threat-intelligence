@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-285672",
+  "type": "ransomware-incident",
+  "title": "Success Microfinance Bank ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Success Microfinance Bank",
+    "domain": "successbank.zw",
+    "country": "ZW",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "meow",
+    "name": "meow",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Success Microfinance Bank is a financial institution focused on providing accessible financial services to underserved communities. It offers microloans, savings accounts, and financial education to individuals and small businesses. The bank aims to empower clients through financial inclusion, fostering economic growth and stability at the grassroots level. Its services are tailored to meet the unique needs of its clientele, promoting sustainable development.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/51f5b84e661e063cee7baf1d75dd9e70.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vjy2vzcybnawnyb2zpbmfuy2ugqmfua0btzw93",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-28 10:25:15.965068",
+    "disclosedDate": "2024-08-28 10:25:18.167783"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-254F05",
+  "type": "ransomware-incident",
+  "title": "maynard.k12.ma.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "maynard.k12.ma.us",
+    "domain": "k12.ma",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Maynard.k12.ma.us is the official website for the Maynard Public Schools, a school district in Maynard, Massachusetts. The district oversees public education for the town, offering educational programs from kindergarten through high school. It focuses on fostering a supportive learning environment, emphasizing academic excellence, community involvement, and student development.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwf5bmfyzc5rmtiubweudxnacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-25 16:04:29.000000",
+    "disclosedDate": "2024-11-25 16:43:26.701233"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-646-298DFA",
+  "type": "ransomware-incident",
+  "title": "Servicio Móvil ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Servicio Móvil",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 114000000000,
+    "description": "At Servicio Móvil is a Spanish national leader in integral logistics services, information management and business processes. 114Gb of their data will be available here. Contracts, project, agreements, clients information and much of financial data is represented in the files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vydmljaw8gtcozdmlsqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-29 12:59:49.120791",
+    "disclosedDate": "2023-11-29 12:59:49.400441"
+  }
+}

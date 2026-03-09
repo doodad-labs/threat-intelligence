@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-1906CD",
+  "type": "ransomware-incident",
+  "title": "Thebike.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Thebike.com",
+    "domain": "thebike.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Thebike.com is a company that specializes in providing a wide range of bicycles and cycling accessories. They offer products for various types of cycling, including road, mountain, and urban biking. The company focuses on quality and innovation, ensuring that customers receive reliable and durable bikes. Their commitment to customer satisfaction is reflected in their comprehensive support and service options.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5bacd7936f1a15c22e895f2330fc2b19.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlymlrzs5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 08:41:02.000000",
+    "disclosedDate": "2024-11-19 09:51:35.912700"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-19C053",
+  "type": "ransomware-incident",
+  "title": "ChangShen Hospital, Taiwan ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ChangShen Hospital, Taiwan",
+    "domain": "chansn.com.tw",
+    "country": "TW",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ChangShen Hospital (長慎醫院), Taiwan",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hhbmdtagvuiehvc3bpdgfslcbuywl3yw5abmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-13 00:00:00.000000",
+    "disclosedDate": "2025-04-19 15:36:21.187288"
+  }
+}

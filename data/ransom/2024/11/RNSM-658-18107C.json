@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-658-18107C",
+  "type": "ransomware-incident",
+  "title": "The Recycler Core ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Recycler Core",
+    "domain": "rccauto.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $20.4 MillionSupplies scrap materials, cores, used equipment, and catalytic converters for various industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifjly3ljbgvyienvcmvarwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:03:46.850032",
+    "disclosedDate": "2024-11-18 21:03:47.809604"
+  }
+}

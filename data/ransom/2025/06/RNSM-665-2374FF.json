@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-665-2374FF",
+  "type": "ransomware-incident",
+  "title": "Brown & Winters ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Brown & Winters",
+    "domain": "brownandwinters.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "(Including customer data and email) Brown & Winters is a specialized environmental and environmental insurance law firm operating in California, serving public entities such as ports, cities, counties, and school districts. With over 30 years of experience, they focus on investigating and remediating contaminated sites under the oversight of various environmental agencies. The firm is a recognized leader in Brownfields Redevelopment and actively contributes to environmental education initiatives for California youths. Their innovative approaches combine environmental remediation funding with insights from insurance archaeology to effectively address complex contamination issues.",
+    "claimed_data_types": [
+      "email-addresses"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6d0c98884da75b8ce77c7f4d48fc5d9a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjvd24gjibxaw50zxjzqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-23 15:20:25.257514",
+    "disclosedDate": "2025-06-23 15:53:52.363324"
+  }
+}

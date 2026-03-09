@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-148809",
+  "type": "ransomware-incident",
+  "title": "tool-temp.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tool-temp.net",
+    "domain": "tool-temp.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tool-Temp Limited is the sole UK distributor for the highly respected Swiss-made Tool-Temp range of temperature control devices.The company is recognised as a leading technical authority on process temperature control, with a strong track record...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/64687c782d8e5a05d7c2077d15dd5f3e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dg9vbc10zw1wlm5ldebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-14 21:46:00.000000",
+    "disclosedDate": "2023-05-14 22:48:42.511094"
+  }
+}

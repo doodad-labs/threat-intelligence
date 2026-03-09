@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-652-14165F",
+  "type": "ransomware-incident",
+  "title": "Fiskars Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fiskars Group",
+    "domain": "fiskarsgroup.com",
+    "country": "FI",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000000,
+    "description": "Fiskars Group is a Finnish group company. The company is a global supplier of branded consumer products for the home, garden, and  outdoors. We've taken 2TB of data. Should I list everything inter esting what we copied from their servers? I suppose it is obvious that there are lots of different sensitive documents you are int erested in. We'll provide you with the access to the files as soo n as possible.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmlza2fycybhcm91cebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2024-11-06%20fiskars%20group%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-14 20:48:04.756185",
+    "disclosedDate": "2024-05-14 20:48:05.169704"
+  }
+}

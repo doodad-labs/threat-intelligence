@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-660-14CE8E",
+  "type": "ransomware-incident",
+  "title": "Moinho Globo Alimentos ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Moinho Globo Alimentos",
+    "domain": "moinhoglobo.com.br",
+    "country": "BR",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 58000000000,
+    "description": "Moinho Globo Alimentos is currently the fourth largest milling industry in the state, with an installed milling capacity of 12,500tons/month.We are ready to upload more than 58 GB of private corporate documents such as: contact numbers and e-mail addresses of employees and customers,  personal CNP/CPF/NIF, internal financial documents, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw9pbmhviedsb2jviefsaw1lbnrvc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-05 00:00:00.000000",
+    "disclosedDate": "2025-01-14 12:22:22.993276"
+  }
+}

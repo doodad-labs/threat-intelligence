@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-0911B7",
+  "type": "ransomware-incident",
+  "title": "Brewer & Company of WV ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Brewer & Company of WV",
+    "domain": "brewerfire.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Commercial Construction",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8794c61de157e75d890077faf8a92607.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjld2vyicygq29tcgfuesbvzibxvkbibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-09 10:47:56.906277",
+    "disclosedDate": "2024-04-09 10:47:56.906298"
+  }
+}

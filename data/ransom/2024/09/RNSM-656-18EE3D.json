@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-18EE3D",
+  "type": "ransomware-incident",
+  "title": "kryptonresources.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kryptonresources.com",
+    "domain": "kryptonresources.com",
+    "country": "CA",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Krypton Resources is a company specializing in the development and supply of advanced materials and technologies. They focus on sustainable solutions for various industries, including energy, electronics, and manufacturing. By leveraging cutting-edge research and innovation, Krypton Resources aims to enhance efficiency, reduce environmental impact, and drive technological progress.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c9ccbc507a0ae0e7b4cd458edb7fd4f0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3j5chrvbnjlc291cmnlcy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-16 11:51:29.000000",
+    "disclosedDate": "2024-09-18 09:51:53.151429"
+  }
+}

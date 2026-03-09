@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-3162AA",
+  "type": "ransomware-incident",
+  "title": "Z-Tronix ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Z-Tronix",
+    "domain": "z-tronix.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/48c2d2d2fff8a1285c6e2ca31d0506a0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wi1ucm9uaxhacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-31 11:43:26.098228",
+    "disclosedDate": "2025-12-31 11:43:40.723425"
+  }
+}

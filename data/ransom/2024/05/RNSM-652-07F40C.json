@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-652-07F40C",
+  "type": "ransomware-incident",
+  "title": "KC Scout ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KC Scout",
+    "domain": "kcscout.net",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eb38a3e8f061fe83f6a06f22c477c696.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0mgu2nvdxracgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://fox4kc.com/news/kansas-city-scout-systems-down-following-cyberattack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-10 00:00:00.000000",
+    "disclosedDate": "2024-05-07 02:09:06.169526"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-21208D",
+  "type": "ransomware-incident",
+  "title": "floydskerenlaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "floydskerenlaw.com",
+    "domain": "floydskerenlaw.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LAW FIRM890GBClient databases, cases containing confidential data, various legal documents, many results of medical research of clients, judicial acts, many documents marked confidential, proposals on various cases, many correspondence by mail...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/537d38366766ba0a8e58198d72395f61.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmxvewrza2vyzw5syxcuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-21 19:58:00.000000",
+    "disclosedDate": "2023-11-21 20:30:00.372645"
+  }
+}

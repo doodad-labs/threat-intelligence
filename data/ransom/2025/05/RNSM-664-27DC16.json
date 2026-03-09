@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-664-27DC16",
+  "type": "ransomware-incident",
+  "title": "DataPost ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DataPost",
+    "domain": "datapost.com.sg",
+    "country": "SG",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DataPost Pte Ltd is a leading provider of secured data handling solutions based in Singapore, specializing in e-invoicing and data privacy services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ab28e8b3f0e143ecef53db304cf2ade8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgf0yvbvc3razglyzxdvbgy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.straitstimes.com/singapore/consumer/details-of-146-income-insurance-policyholders-compromised-after-cyberattack-on-external-vendor",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-26 05:50:11.082056",
+    "disclosedDate": "2025-05-27 05:51:15.634929"
+  }
+}

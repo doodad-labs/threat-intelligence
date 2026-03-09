@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-11309D",
+  "type": "ransomware-incident",
+  "title": "gewandhaus.bayern ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gewandhaus.bayern",
+    "domain": "gewandhaus.bayern",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Gewandhaus.bayern\" is a company based in Munich, Germany, specializing in the provision of high-end designer fashion and accessories. They offer a wide range of products from renowned luxury designers globally. Aside from physical shopping, the company also offers online services. The company promises authenticity in all its products while providing exclusive shopping experience to customers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f0d95efe96b3d221815ff26064f94069.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2v3yw5kagf1cy5iyxllcm5ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-04 00:00:00.000000",
+    "disclosedDate": "2025-05-11 21:48:57.786536"
+  }
+}

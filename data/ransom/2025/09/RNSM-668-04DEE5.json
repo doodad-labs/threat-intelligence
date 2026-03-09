@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-04DEE5",
+  "type": "ransomware-incident",
+  "title": "www.onahotels.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.onahotels.com",
+    "domain": "onahotels.com",
+    "country": "ES",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ona Hotels pone a tu disposición los mejores alojamientos de los mejores destinos. Entra ahora y reserva al mejor precio en la web oficial.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/773dbaa04e5baf87bf48a40076ab8aed.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm9uywhvdgvscy5jb21abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-04 13:44:59.670000",
+    "disclosedDate": "2025-09-04 14:17:26.980441"
+  }
+}

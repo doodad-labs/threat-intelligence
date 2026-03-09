@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-23F16A",
+  "type": "ransomware-incident",
+  "title": "Vogue Homes ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vogue Homes",
+    "domain": "vogue-homes.com.au",
+    "country": "AU",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Vogue Homes is the leading home builders in Sydney, with award winning designs, house plans and land packages, with luxurious designer home.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/46cf91cccff107090df1a5c6a628582e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vm9ndwugsg9tzxnaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-23 22:11:48.473791",
+    "disclosedDate": "2024-11-23 22:11:49.110283"
+  }
+}

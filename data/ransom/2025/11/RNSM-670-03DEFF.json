@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-03DEFF",
+  "type": "ransomware-incident",
+  "title": "Morris Communications Company LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Morris Communications Company LLC",
+    "country": "US",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 84000000000,
+    "description": "Morris Communications Company, founded in 2001 and headquartered in Augusta, Georgia, is part of a privately held company with diversified holdings in media, Real Estate and property development and agriculture.We are ready to upload more than 84GB data. There are lots of essential corporate documents such as: financial data (audit, payment details, invoices), detailed employees and customers information (passports, driver's license , Social Security Numbers, medicalinformation, death/birth certificate, emails, phones) confidential information, NDAs and other documents with detailed personal information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw9ycmlzienvbw11bmljyxrpb25zienvbxbhbnkgtexdqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-03 00:00:00.000000",
+    "disclosedDate": "2025-11-03 13:36:04.068355"
+  }
+}

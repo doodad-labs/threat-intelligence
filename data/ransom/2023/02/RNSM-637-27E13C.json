@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-27E13C",
+  "type": "ransomware-incident",
+  "title": "rosenbauer.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rosenbauer.com",
+    "domain": "rosenbauer.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "rosenbaueramerica.comRosenbauer is the world's largest producer of custom fire trucks worldwide with 14 factory locations and more than 150 years of experience.rosenbauer\\veeam_admin:R%senbau3r2017!administrator@vsphere.local R0s3nb@u3r232GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm9zzw5iyxvlci5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-27 13:47:37.427906",
+    "disclosedDate": "2023-02-27 13:47:37.427930"
+  }
+}

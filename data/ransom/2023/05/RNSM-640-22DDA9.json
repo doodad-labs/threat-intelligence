@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-22DDA9",
+  "type": "ransomware-incident",
+  "title": "MSSNY ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MSSNY",
+    "domain": "mssny.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "snatch",
+    "name": "snatch",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Medical Society of the State of New York (MSSNY) is an organization of approximately 30,000 licensed physicians, medical residents, and medical students in New York State. Members participate in both the state society and in their local county medical societies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e55a81fbc45021405be7bee222de67c5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tvnttllac25hdgno",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-22 01:56:00.000000",
+    "disclosedDate": "2023-05-22 00:58:36.865803"
+  }
+}

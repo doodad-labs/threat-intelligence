@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-02A1E2",
+  "type": "ransomware-incident",
+  "title": "Weber Flavors ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Weber Flavors",
+    "domain": "weberflavors.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Weber Flavors is a family-owned company with over a century of experience in serving the food industry by providing thousands of flavors for various applications. They specialize in custom flavor creation, offering a diverse range of products including liquid flavors, powder flavors, vanilla, and organic flavors. Their intended clients are businesses within the food industry looking for tailored flavor solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8cc7099cbea55a940b83974e791cbed9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vizxigrmxhdm9yc0byyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-15 00:00:00.000000",
+    "disclosedDate": "2025-10-02 16:41:48.554520"
+  }
+}

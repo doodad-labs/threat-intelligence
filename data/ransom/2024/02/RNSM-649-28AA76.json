@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-649-28AA76",
+  "type": "ransomware-incident",
+  "title": "Change Healthcare - Optum - UnitedHealth ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Change Healthcare - Optum - UnitedHealth",
+    "domain": "changehealthcare.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/504b8e605b41df46113f6200c1122704.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hhbmdliehlywx0agnhcmuglsbpchr1bsatifvuaxrlzehlywx0aebhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-28 16:19:59.123456",
+    "disclosedDate": "2024-02-28 17:52:40.226190"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-098A1D",
+  "type": "ransomware-incident",
+  "title": "hennessyfunds.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hennessyfunds.com",
+    "domain": "hennessyfunds.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Hennessy Funds are offered only to United States residents, and information on this web site is intended only for such persons.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/87a86f5e5a1fd8462bbefffc0172602a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agvubmvzc3lmdw5kcy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-30 00:00:00.000000",
+    "disclosedDate": "2025-05-09 11:00:02.002572"
+  }
+}

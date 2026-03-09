@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-24F60C",
+  "type": "ransomware-incident",
+  "title": "www.solidworld.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.solidworld.it",
+    "domain": "solidworld.it",
+    "country": "IT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] SolidWorld is an Italian company specializing in providing solutions for Product Development Processes. They offer services and products such as CAD/CAM/CAE and PDM solutions, 3D printing, and scanning solutions. Focused on innovation, they aim to help businesses improve in product development, manufacturing and managing information on a technological level.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aefca8212312f70f5aaa44d7f785f521.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnvbglkd29ybgquaxracmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-24 20:29:54.000000",
+    "disclosedDate": "2025-03-24 21:49:35.579486"
+  }
+}

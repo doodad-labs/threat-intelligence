@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-258B14",
+  "type": "ransomware-incident",
+  "title": "mgops.sedziszow-mlp.pl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mgops.sedziszow-mlp.pl",
+    "domain": "sedziszow-mlp.pl",
+    "country": "PL",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Social Welfare Center conducts its statutory activities based on applicable regulations. We grant monetary and non-monetary benefits.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/db95e23bb1b4341c037d22a27b260c36.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwdvchmuc2vkemlzem93lw1scc5wbebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-25 10:56:00.000000",
+    "disclosedDate": "2024-05-25 12:53:27.826401"
+  }
+}

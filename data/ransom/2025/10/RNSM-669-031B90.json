@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-031B90",
+  "type": "ransomware-incident",
+  "title": "Saks Fifth ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Saks Fifth",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "shinyhunters",
+    "name": "shinyhunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Saks Fifth Avenue is a luxury retail store originating from the United States. It is renowned for its high-end offerings in clothing, shoes, handbags, jewelry, beauty products, and home goods. Founded in 1867, Saks has garnered global recognition with its flagship store located on Fifth Avenue, New York City. The company also operates numerous department and outlet stores across the United States and online platforms.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bac0bf29156283a558dd71e616e2d36c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2frcybgawz0aebzagluewh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-05 00:00:00.000000",
+    "disclosedDate": "2025-10-03 15:51:12.529355"
+  }
+}

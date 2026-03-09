@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-135A50",
+  "type": "ransomware-incident",
+  "title": "Garr Silpe, P.C. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Garr Silpe, P.C.",
+    "domain": "garrsilpe.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cfdc0a651548300692981b6779b7a0cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2fycibtawxwzswguc5dlkbodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-09 19:23:49.000000",
+    "disclosedDate": "2023-11-13 14:47:18.277826"
+  }
+}

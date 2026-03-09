@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-201FEB",
+  "type": "ransomware-incident",
+  "title": "www.kvhealth.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.kvhealth.net",
+    "domain": "kvhealth.net",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "kraken",
+    "name": "kraken",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Leak in progress...http://[redacted].onion/...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4d0fbe57560da7c307d8b3d936277756.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmt2agvhbhrolm5ldebrcmfrzw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-20 02:02:04.238578",
+    "disclosedDate": "2025-03-20 02:03:11.937541"
+  }
+}

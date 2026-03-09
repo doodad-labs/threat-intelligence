@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-133DEA",
+  "type": "ransomware-incident",
+  "title": "mi.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mi.edu",
+    "domain": "mi.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Mi.edu, or the Musicians Institute, is a reputable music school established in 1977. Located in Hollywood, California, it offers a variety of music degrees and programs, including in performance (guitar, bass, drums, keyboard, or vocals), audio engineering, music business, and film. The institute has a connective approach, helping students develop their skills within the industry. It's known for fostering a community of creative collaboration among students.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/be1da3fb0091461d751f038c7358ceae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwkuzwr1qhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-13 13:06:29.187429",
+    "disclosedDate": "2025-01-13 13:07:44.719579"
+  }
+}

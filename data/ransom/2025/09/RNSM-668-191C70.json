@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-668-191C70",
+  "type": "ransomware-incident",
+  "title": "KCI Telecommunications ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KCI Telecommunications",
+    "country": "US",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "KCI provides support services and turn-key solutions focused on exceeding their client’s Network, Resources Management and legacy support needs.We are going to upload corporate data. A lot of personal information of employees (DOB, address, emails, DL numbers, phones and soon), confidential files, payment details, numerous contracts andagreements, financials, customer information, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0njifrlbgvjb21tdw5py2f0aw9uc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-19 00:00:00.000000",
+    "disclosedDate": "2025-09-19 16:53:20.721380"
+  }
+}

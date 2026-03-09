@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-20220E",
+  "type": "ransomware-incident",
+  "title": "valleyoaks.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "valleyoaks.org",
+    "domain": "valleyoaks.org",
+    "country": "IN",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "valleyoaks.orgValley Oaks Health is a large community mental health center serving Lafayette, Indiana and the surrounding counties. As we work in earnest to meet the mental health needs of our communities, your skills are required! We currently hav...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bcb1371971a73ec1c454a54fd8b1fdf7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmfsbgv5b2frcy5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-20 09:35:00.000000",
+    "disclosedDate": "2023-06-20 10:57:17.814830"
+  }
+}

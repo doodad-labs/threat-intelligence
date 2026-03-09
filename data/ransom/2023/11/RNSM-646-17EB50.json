@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-17EB50",
+  "type": "ransomware-incident",
+  "title": "krblaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "krblaw.com",
+    "domain": "krblaw.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://www.sendbig.com/view-files/?Id=703e3ddd-be57-7efb-bd44-77cbf9d268da https://www.sendbig.com/view-files/?Id=e5d1984c-246c-7c36-5b78-67a7ee592be8 https://www.sendbig.com/view-files/?Id=4f7ac62c-8c36-7905-94ab-fce470b0cbbb https://www.sendbig...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ecfa7ddb902081e0b7fa3479c4bfa312.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3jibgf3lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-17 07:49:00.000000",
+    "disclosedDate": "2023-11-17 08:15:07.062134"
+  }
+}

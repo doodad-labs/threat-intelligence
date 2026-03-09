@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-1291DB",
+  "type": "ransomware-incident",
+  "title": "Dimension Composite ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dimension Composite",
+    "domain": "dimensioncomposite.com",
+    "country": "QC",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dimension Composite Dimension Composite is an ISO 9001:2000 certified company, whose mission is to develop and manufacture parts for transport and specialty vehicles, as well as other industrial and commercial products.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgltzw5zaw9uienvbxbvc2l0zubyahlzawrh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-12 08:09:24.228106",
+    "disclosedDate": "2025-04-12 08:09:26.355405"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-07BE52",
+  "type": "ransomware-incident",
+  "title": "CMHHELI.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CMHHELI.COM",
+    "domain": "cmhheli.com",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Canadian Mountain Holidays or CMH Heli-Skiing & Summer Adventures is a travel business that offers luxury heli-skiing and summer adventure packages. It is one of the oldest heli-skiing companies, operating since 1965. With numerous lodges across British Columbia, Canada, they provide guided hiking, skiing, and mountaineering trips in the wilderness.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4179cbc005f11b33641bf6f64ad82af8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q01isevmss5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 20:59:28.600628",
+    "disclosedDate": "2026-02-07 20:59:44.433364"
+  }
+}

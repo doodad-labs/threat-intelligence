@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-034881",
+  "type": "ransomware-incident",
+  "title": "Share and Harris ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Share and Harris",
+    "domain": "shareharris.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "mallox",
+    "name": "mallox",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "INFO: https://www.zoominfo.com/c/share-harris-llc/410899856  DATA: https://anonfiles.com/D8nfa0v0zd/ShareHarris_rar PASSWORD:  (Oa+VB;~5k5S1W,LW8!P#6d31v8IZ%Jk",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4eec243d938b824f253e2f3783199dc3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2hhcmugyw5kiehhcnjpc0btywxsb3g=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-03 09:00:00.000000",
+    "disclosedDate": "2023-06-03 08:59:57.430847"
+  }
+}

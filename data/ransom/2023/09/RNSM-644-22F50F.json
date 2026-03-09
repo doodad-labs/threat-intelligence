@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-644-22F50F",
+  "type": "ransomware-incident",
+  "title": "Yakima Valley Radiology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Yakima Valley Radiology",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "karakurt",
+    "name": "karakurt",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Yakima Valley Radiology PC is a company that operates in the Hospital & Health Care industry. 10 of the organization contain financial reports, client lists with contacts, list of patients for 15 years (212579 rows), a database of social security numbers (including staff, doctors) with 766000  rows.",
+    "claimed_data_types": [
+      "government-identifiers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wwfraw1hifzhbgxlesbsywrpb2xvz3laa2fyywt1cnq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-22 13:05:52.972391",
+    "disclosedDate": "2023-09-22 13:05:52.972414"
+  }
+}

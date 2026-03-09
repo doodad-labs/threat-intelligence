@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-13BCD0",
+  "type": "ransomware-incident",
+  "title": "steel-eye.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "steel-eye.com",
+    "domain": "steel-eye.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Once in the SteelEye platform, our clients can then use one or more of our compliance solutions to reduce their risk, save costs and unleash the power of their data, ultimately complying smarter.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8b6cc3cb4004a65b9bf058dabbec145b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rlzwwtzxlllmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-13 16:05:00.000000",
+    "disclosedDate": "2023-04-13 16:48:34.464195"
+  }
+}

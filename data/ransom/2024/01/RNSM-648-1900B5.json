@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-648-1900B5",
+  "type": "ransomware-incident",
+  "title": "seiu1000.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "seiu1000.org",
+    "domain": "seiu1000.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Local 1000 of the Service Employees International Union is a united front of 96,000 working people employed by the State of California, making Local 1000 the largest public sector union in California and one of the largest in the country. 308GBEm...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/85551ef62ea979c13b9a6dcd212ca0b6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vpdtewmdaub3jnqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://therecord.media/california-union-lockbit-attack-ransomware",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-19 21:04:00.000000",
+    "disclosedDate": "2024-01-19 22:25:33.026571"
+  }
+}

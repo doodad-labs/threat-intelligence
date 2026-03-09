@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-16A01F",
+  "type": "ransomware-incident",
+  "title": "gsaenz.com.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gsaenz.com.mx",
+    "domain": "gsaenz.com.mx",
+    "country": "MX",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Company's line of business includes the refining of purchased raw cane sugar and sugar syrup.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cbfc65afc38701c06cee54736306ba14.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3nhzw56lmnvbs5teebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-16 12:26:00.000000",
+    "disclosedDate": "2023-09-16 13:02:37.943229"
+  }
+}

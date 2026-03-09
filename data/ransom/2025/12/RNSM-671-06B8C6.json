@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-671-06B8C6",
+  "type": "ransomware-incident",
+  "title": "www.mylawcompany.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.mylawcompany.com",
+    "domain": "mylawcompany.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "700gb 4,500 cases, personal data, passports, driver's licenses, medical data, medical card",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/472c71cdaed3201499a458985bfcedac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm15bgf3y29tcgfues5jb21aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-06 16:03:00.000000",
+    "disclosedDate": "2025-12-06 18:18:55.323082"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-27D28E",
+  "type": "ransomware-incident",
+  "title": "R Pac Central America S.A. de C.V. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "R Pac Central America S.A. de C.V.",
+    "domain": "r-pac.com",
+    "country": "SV",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : N/A - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fb85b366cafc8cc3bda511f5e2a136f8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uibqywmgq2vudhjhbcbbbwvyawnhifmuqs4gzgugqy5wlkbodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-14 00:00:00.000000",
+    "disclosedDate": "2024-11-27 18:44:12.722304"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-199ED9",
+  "type": "ransomware-incident",
+  "title": "kingswoodpark.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kingswoodpark.ca",
+    "domain": "kingswoodpark.ca",
+    "country": "CA",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 55000000000,
+    "description": "ZIP-55GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2luz3n3b29kcgfyay5jyubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-10 00:00:00.000000",
+    "disclosedDate": "2024-11-19 22:40:28.221032"
+  }
+}

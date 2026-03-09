@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-652-04B57F",
+  "type": "ransomware-incident",
+  "title": "ayesa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ayesa.com",
+    "domain": "ayesa.com",
+    "country": "ES",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 4500000000000,
+    "description": "Ayesa is a leading provider of technology and engineering services worldwide with over 12,500 employees and a direct presence in 23 countries across Europe, America, Africa, and Asia. Ayesa excels in developing and implementing innovative digital and engineering solutions for both private companies and public administrations. On the engineering side, our professionals applies the latest cutting-edge technologies to design and supervise infrastructure projects as well as create digital solutions that manage sustainability and efficient resources management. On the technology standpoint, we integrate all the essential technologies and services, to assist clients in resolving their most urgent business challenges and digitally transforming their business to make life easier, responsive, efficient and agile.SITE: www.ayesa.com Address : 21 Avda Francisco De La Roche Santa Cruz de Tenerife Canary Islands 38001, SpainALL DATA SIZE: ≈4.5tb+ 1. Company data 2. Employees personal data 3. Projects, CAD And much more…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e484499b666b6725c1c670a98a984eb7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxllc2euy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-24 00:00:00.000000",
+    "disclosedDate": "2024-05-04 12:23:46.346115"
+  }
+}

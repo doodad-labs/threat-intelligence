@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-2408E4",
+  "type": "ransomware-incident",
+  "title": "American Acryl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "American Acryl",
+    "domain": "americanacryl.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "American Acryl L.P. is a joint venture owned by Nippon Shokubai A merica Industries, Inc. (“NAII”) and Arkema Inc.  American Acryl  manufactures acrylic acid at its Bayport, Texas facility for the  benefit of its owners. They don't need their data so we are going to share the files with you. Customers information, financial fi les, personal employee information, detailed financial data and s o on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1lcmljyw4gqwnyewxaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-24 14:36:51.599366",
+    "disclosedDate": "2024-07-24 14:36:52.621008"
+  }
+}

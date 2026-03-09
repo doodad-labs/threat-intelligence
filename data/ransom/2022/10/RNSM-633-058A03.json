@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-633-058A03",
+  "type": "ransomware-incident",
+  "title": "Oil India Limited ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Oil India Limited",
+    "domain": "oil-india.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "snatch",
+    "name": "snatch",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2lsieluzglhiexpbwl0zwrac25hdgno",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://businessworld.in/article/oil-india-headquarter-under-cyber-attack-425309",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-10-05 18:10:46.209249",
+    "disclosedDate": "2022-10-05 18:10:46.209249"
+  }
+}

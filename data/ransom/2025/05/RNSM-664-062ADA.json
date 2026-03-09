@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-062ADA",
+  "type": "ransomware-incident",
+  "title": "Advantage Group GA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Advantage Group GA",
+    "domain": "advantagegroupga.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Schofield Insurance Company is a full-service general agency that specializes in voluntary, ancillary,…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwr2yw50ywdliedyb3vwiedbqfnpbgvudfjhbnnvbudyb3vw",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-20 00:28:42.460171",
+    "disclosedDate": "2025-05-06 18:16:35.943386"
+  }
+}

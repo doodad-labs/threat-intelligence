@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-3168B5",
+  "type": "ransomware-incident",
+  "title": "CigamSoftware ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CigamSoftware",
+    "domain": "cigam.com.br",
+    "country": "BR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/89095369bec0a855b890fdc72e08c322.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2lnyw1tb2z0d2fyzubjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-31 05:39:45.377883",
+    "disclosedDate": "2026-01-31 05:39:58.588782"
+  }
+}

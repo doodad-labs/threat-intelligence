@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-664-3004DC",
+  "type": "ransomware-incident",
+  "title": "allstarflooring.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "allstarflooring.com",
+    "domain": "allstarflooring.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 140000000000,
+    "description": "All Star Flooring, Inc. is a leading provider of commercial flooring solutions with over 35 years of experience serving the Washington Metropolitan Area, including the District of Columbia, Maryland, and Virginia. The company's headquarters is located at 10742 Tucker Street, Beltsville, MD 20705.\r - Today, we disclose 140 GB of data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/042299e6cebcc24144fc0f1e604be724.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxsc3rhcmzsb29yaw5nlmnvbublbwjhcmdv",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-24 07:34:31.438204",
+    "disclosedDate": "2025-05-30 15:44:17.928317"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-24F265",
+  "type": "ransomware-incident",
+  "title": "hanson-inc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hanson-inc.com",
+    "domain": "zoominfo.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hanson Professional Services Inc. is a national consulting firm that specializes in engineering, planning, and allied services. They provide a wide range of services including aviation, asset management, construction support, and sustainability solutions, catering to various sectors such as healthca…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/59e48164f2aa21f4f90aa4ea69666cd6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfuc29ulwluyy5jb21ay2hhb3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 00:00:00.000000",
+    "disclosedDate": "2025-10-24 20:47:34.037364"
+  }
+}

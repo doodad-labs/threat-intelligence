@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-09EE43",
+  "type": "ransomware-incident",
+  "title": "atlanticice.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "atlanticice.com",
+    "domain": "atlanticice.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since 1940 we have only serviced commercial refrigeration and ice machines. We are the preferred choice of leading manufacturers for their warranty repairs in Philadelphia and the surrounding counties.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e05a07640d5630c2f48aa57676720d2b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxrsyw50awnpy2uuy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-16 00:00:00.000000",
+    "disclosedDate": "2024-09-09 12:13:35.231853"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-647-157C25",
+  "type": "ransomware-incident",
+  "title": "Fred Hutchinson Cancer Research Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fred Hutchinson Cancer Research Center",
+    "domain": "fredhutch.org",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d1308a11843bacc8474329dd67e03525.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnjlzcbidxrjagluc29uienhbmnlcibszxnlyxjjacbdzw50zxjaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.chronline.com/stories/thanksgiving-week-cyberattack-detected-at-fred-hutchinson-cancer-center,330240",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-15 11:56:59.000000",
+    "disclosedDate": "2023-12-15 13:02:14.059122"
+  }
+}

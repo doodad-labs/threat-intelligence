@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-1600E6",
+  "type": "ransomware-incident",
+  "title": "GroupePRO-B ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GroupePRO-B",
+    "domain": "groupepro-b.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Established in 1998, PRO-B Group specializes in the design, fabrication, installation, maintenance and servicing of industrial piping, ventilation and exchangers, boilermaking and steel structures.  Phone: 819 377-7218 E-mail: info@groupepro-b.com  The data will be published soon if the company does not contact us in the chat!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/709bb2fff9cb85ab5d83bd13669aab94.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jvdxblufjplujay2ljywrhmzmwmq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-16 00:00:00.000000",
+    "disclosedDate": "2024-07-16 23:41:27.624428"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-672-22456E",
+  "type": "ransomware-incident",
+  "title": "Spiros Industries ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Spiros Industries",
+    "country": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Spiros Industries is a custom manufacturing company specializing in precision springs and wire forms, known for its commitment to quality and expertise. They serve various industries, particularly medical, firearms, and packaging, and offer services including prototyping and specialty packaging.We will upload over 20gb of corporate data soon. Detailed employee personal information (w4 forms, passports, DLs medical information, credit cards and so on), customer files, financial and accounting information, contracts and agreements, NDAs and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3bpcm9zieluzhvzdhjpzxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-22 00:00:00.000000",
+    "disclosedDate": "2026-01-22 13:51:43.258188"
+  }
+}

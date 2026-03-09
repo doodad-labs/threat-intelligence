@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-110A38",
+  "type": "ransomware-incident",
+  "title": "agribazaar.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "agribazaar.com",
+    "domain": "agribazaar.com",
+    "country": "IN",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Agribazaar is India’s leading tech platform for all agri needs to empower farmers and traders nationwide. It's a seamless online marketplace for crops, expanding market access and income potential. It provides insights on crop health, sustainable farming practices, irrigation, weather, and fair market rates.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a95d81baa508ec38aebe6df06cb844c4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywdyawjhemfhci5jb21azgfya3zhdwx0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-20 00:00:00.000000",
+    "disclosedDate": "2024-04-11 19:11:48.499936"
+  }
+}

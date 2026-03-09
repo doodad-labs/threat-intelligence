@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-652-062C53",
+  "type": "ransomware-incident",
+  "title": "NRS Healthcare  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NRS Healthcare ",
+    "domain": "nrshealthcare.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 578000000000,
+    "description": "Visits: 240 Data Size: 578Gb Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ff2d627b3a0c22c2198c1c6746cb026.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tljtiehlywx0agnhcmugqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://thiis.co.uk/nrs-healthcare-working-round-the-clock-to-resume-services-following-cyber-security-incident/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-06 18:36:53.028693",
+    "disclosedDate": "2024-05-06 18:36:53.028723"
+  }
+}

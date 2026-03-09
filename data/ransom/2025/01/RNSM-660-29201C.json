@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-29201C",
+  "type": "ransomware-incident",
+  "title": "Mission Locale Montpellier ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mission Locale Montpellier",
+    "domain": "montpellier-jeunes-emploi.fr",
+    "country": "FR",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mission Locale des jeunes de Montpellier",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0490ab8a49a5089675cc6f2076b73774.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twlzc2lvbibmb2nhbgugtw9udhblbgxpzxjaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-29 07:19:13.874995",
+    "disclosedDate": "2025-01-29 07:20:36.053076"
+  }
+}

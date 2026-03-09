@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-066904",
+  "type": "ransomware-incident",
+  "title": "Enplast ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Enplast",
+    "domain": "enplast.es",
+    "country": "ES",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Enplast is a manufacturer of high quality plastic containers that has been a benchmark in the sector in Spain for 40 years, which implements its products under a vision of responsibility, experience and care for the environment and sustainable developmenthttps://enplast.es/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0e44165bdfb032174bcc83edd651b7f5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw5wbgfzdea4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-21 00:00:00.000000",
+    "disclosedDate": "2024-03-06 02:47:22.160931"
+  }
+}

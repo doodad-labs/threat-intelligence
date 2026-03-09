@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-204F10",
+  "type": "ransomware-incident",
+  "title": "Graymatter ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Graymatter",
+    "domain": "graymatter.com",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GrayMatter (graymatter.co.in) is a Bangalore-based IT company founded in 2006, specializing in data analytics, AI, and Business Intelligence (BI) with a strong focus on the airport, retail, and manufacturing sectors. Their flagship products, including Skateboard and StoreSense, deliver specialized, AI-driven insights for improved passenger experience, retail revenue, and parking management.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cde87afbc3ad2547c567435c40ab456c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jhew1hdhrlckbzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-19 20:06:51.808000",
+    "disclosedDate": "2026-02-20 01:16:25.389404"
+  }
+}

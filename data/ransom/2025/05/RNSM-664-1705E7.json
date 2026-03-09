@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-1705E7",
+  "type": "ransomware-incident",
+  "title": "mylikowines.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mylikowines.co.uk",
+    "domain": "mylikowines.co.uk",
+    "country": "GB",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Mylikowines.co.uk\" is an online wine shop based in the UK that offers a selection of exquisite wines sourced from various countries. They provide an expansive collection of whites, reds, rosés, and sparkling wines. Committed to quality, they ensure each bottle fulfills high standards. Their site also has a blog that discusses various aspects of wine culture. They ship nationwide in the UK, making it easy for wine enthusiasts to access their favorite brands.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/206a412325f0ea56c1f3149bf2b3aa31.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bxlsawtvd2luzxmuy28udwtac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-05 00:00:00.000000",
+    "disclosedDate": "2025-05-17 18:49:50.728526"
+  }
+}

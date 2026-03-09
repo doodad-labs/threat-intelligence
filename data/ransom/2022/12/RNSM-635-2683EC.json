@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-635-2683EC",
+  "type": "ransomware-incident",
+  "title": "DLS Motors ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DLS Motors",
+    "country": "PY",
+    "sector": ""
+  },
+  "actor": {
+    "id": "avoslocker",
+    "name": "avoslocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "We downloaded 50GB of internal files from DLS Motors. -- Just 83 years ago, the company Sobera S.A. entered the Paraguayan market, bringing new business opportunities, new projects, new sources of employment and contributing to the sustained economic growth of our country.",
+    "claimed_data_types": [
+      "internal-documents"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rextie1vdg9yc0bhdm9zbg9ja2vy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-26 16:12:20.090009",
+    "disclosedDate": "2022-12-26 16:12:20.090009"
+  }
+}

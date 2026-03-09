@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-29437F",
+  "type": "ransomware-incident",
+  "title": "rainierarms.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rainierarms.com",
+    "domain": "rainierarms.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rainier Arms is a prominent retailer specializing in high-quality firearms, parts, and accessories. Catering to shooting enthusiasts, law enforcement, and military personnel, the company offers a wide range of products including rifles, pistols, optics, and tactical gear. Known for their exceptional customer service and expert knowledge, Rainier Arms is a trusted name in the firearms industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3a86af896f9928870d8f9c78058adef3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmfpbmllcmfybxmuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-26 14:32:51.000000",
+    "disclosedDate": "2024-08-29 01:44:16.736155"
+  }
+}

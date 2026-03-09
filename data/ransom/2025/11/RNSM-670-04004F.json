@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-04004F",
+  "type": "ransomware-incident",
+  "title": "St Stephen's International ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "St Stephen's International",
+    "domain": "sis.edu",
+    "country": "TH",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.sis.edu https://www.zoominfo.com/c/st-stephens-international-school/1293733677 St Stephen's International School offers educational programs at its Bangkok and Khao Yai campuses, catering to a diverse student population. The school provides weekend schooling and various camps for groups, aiming to enhance the educational experience. It is associated with several organizations including Ocean Glass, Ocean Property, and Bandara Group. The institution focuses on fostering an international learning environment for its students.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3qgu3rlcghlbidzieludgvybmf0aw9uywxadghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-04 14:35:27.000000",
+    "disclosedDate": "2025-11-04 14:55:32.117028"
+  }
+}

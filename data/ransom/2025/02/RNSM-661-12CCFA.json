@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-12CCFA",
+  "type": "ransomware-incident",
+  "title": "Accelerator ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Accelerator",
+    "domain": "accelerator.no",
+    "country": "NO"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Accelerator AS is a 100% Norwegian, owner-lead logistics provider with broad competence in the field of Third Party Logistics (3PL).",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/041312c1629cc5e027c3ff446bf02667.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnjzwxlcmf0b3jazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-04 04:45:22.730091",
+    "disclosedDate": "2025-02-12 07:28:58.537202"
+  }
+}

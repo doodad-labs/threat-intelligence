@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-27C692",
+  "type": "ransomware-incident",
+  "title": "FOTE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FOTE.COM",
+    "domain": "fote.com",
+    "country": "PH"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] FOTE.COM is a web property of FLX Distribution, the wealth tech marketplace for asset management that changes the way asset management products are distributed. FOTE.COM offers a broad portfolio of services enabling its clients in the financial industry to increase their distribution productivity. They maintain a strong focus on quality, optimization and user-friendly interfaces, aiming to create robust tools for asset managers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rk9urs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:59:39.451154",
+    "disclosedDate": "2025-02-27 17:59:46.589164"
+  }
+}

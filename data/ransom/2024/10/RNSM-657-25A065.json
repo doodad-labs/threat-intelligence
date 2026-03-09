@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-657-25A065",
+  "type": "ransomware-incident",
+  "title": "Government of Brazil ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Government of Brazil",
+    "country": "BR",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "$25000",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r292zxjubwvudcbvzibccmf6awxaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.aliadosbrasiloficial.com.br/noticia/sistema-eletronico-de-informacoes-do-governo-sai-do-ar-suspeita-e-de-ataque-hacker",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 16:47:02.943381",
+    "disclosedDate": "2024-10-25 16:47:03.393621"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-651-19190E",
+  "type": "ransomware-incident",
+  "title": "ibacos.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ibacos.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "IBACOS",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dd76e3f616d125adf3d9a34fc77fd3d7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awjhy29zlmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-28 00:00:00.000000",
+    "disclosedDate": "2024-04-19 12:37:02.049639"
+  }
+}

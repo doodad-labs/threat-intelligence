@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-24FBC3",
+  "type": "ransomware-incident",
+  "title": "INVESTORCOM.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "INVESTORCOM.COM",
+    "domain": "investorcom.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Regulatory Compliance Software & Communications Solutions - InvestorCOM",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c87054c1049ebde32afe11ef5749b44e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/su5wrvnut1jdt00uq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-24 21:33:15.680138",
+    "disclosedDate": "2023-03-24 21:33:15.680160"
+  }
+}

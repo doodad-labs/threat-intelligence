@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-641-03AFFD",
+  "type": "ransomware-incident",
+  "title": "Salmon Software ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Salmon Software",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusalocker",
+    "name": "medusalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DescriptionClient Case – agreement – email(.msg)- passport- and other documents Price: 120000$ Three copies will be sold, confidential informationThe company failed to take care of the data leak and therefore ,many contracts and other documents have been leaked to the Internet.Other: contracts, agreements and other bank checks, we will sell everything in one lot for… Continue reading Salmon Software",
+    "claimed_data_types": [
+      "email-addresses",
+      "passport-numbers"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5b389655d0ce1d02d33b60374920a2aa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fsbw9uifnvznr3yxjlqg1lzhvzywxvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-07-11 20:29:15.000000",
+    "disclosedDate": "2023-06-03 07:55:09.583799"
+  }
+}

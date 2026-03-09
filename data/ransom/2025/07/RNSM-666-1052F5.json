@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-1052F5",
+  "type": "ransomware-incident",
+  "title": "Accu Reference Medical Lab ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Accu Reference Medical Lab",
+    "domain": "accureference.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "About Accu Reference Medical LabAccu Reference is a state-of-the-art medical testing laboratory service that provides a complete range of tests for diagnosis, screening or evaluation of diseases and health conditions. We are certified under            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/489efb58e4dd0f763839a9dde878ac27.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnjdsbszwzlcmvuy2ugtwvkawnhbcbmywjacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-06 06:45:46.12345",
+    "disclosedDate": "2025-07-10 18:14:37.467613"
+  }
+}

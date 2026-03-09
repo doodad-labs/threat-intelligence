@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-11EC7A",
+  "type": "ransomware-incident",
+  "title": "sehma.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sehma.com",
+    "domain": "sehma.com",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SEHMA is a Home Health Care provider network specializing in Home Health Nursing, Hi Tech Infusion, Durable Medical Equipment and Diagnostic Services. SEHMA companies provide an impeccable continuity of care with excellent patient outcomes. SEHMA...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vobweuy29tqhrocmvlyw0=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-01 00:00:00.000000",
+    "disclosedDate": "2025-02-11 10:39:40.635455"
+  }
+}

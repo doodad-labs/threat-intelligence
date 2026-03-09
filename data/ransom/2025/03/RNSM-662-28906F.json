@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-28906F",
+  "type": "ransomware-incident",
+  "title": "acm ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "acm",
+    "domain": "achievement.com.sg",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A-ChieveMent Solution (S) Pte Ltd (ACM) is a Corporate IT Solutions Provider in Singapore.Our services include hardware IT support, outsourced helpdesk, remote assistance facilities and datacenter-hosted network system services. With our IT            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c18b2ffff0f7e9586fce15e20d482558.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywntqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-15 00:00:00.000000",
+    "disclosedDate": "2025-03-28 09:41:49.282696"
+  }
+}

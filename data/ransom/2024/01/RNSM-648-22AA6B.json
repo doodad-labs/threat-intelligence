@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-22AA6B",
+  "type": "ransomware-incident",
+  "title": "qtc-energy.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "qtc-energy.com",
+    "domain": "qtc-energy.com",
+    "country": "TH",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "manufactures and sells electrical transformers in Thailand and abroad. The company offers sealed oil dispensers, RPN devices, amorphous metal dispensers, dry type classes F and H, mounted on pads",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e99c81132e39282e250ac23754f63306.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cxrjlwvuzxjnes5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-21 22:52:00.000000",
+    "disclosedDate": "2024-01-22 02:55:48.487899"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-30C0D0",
+  "type": "ransomware-incident",
+  "title": "SIMCO Electronics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SIMCO Electronics",
+    "domain": "simco.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "bert",
+    "name": "bert",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SIMCO Electronics is a leading provider of calibration and software solutions for technology companies. Founded in 1962 to serve NASA and Silicon Valley firms.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f4625f739e0c87c67b9c61f09659d79b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0lnq08grwxly3ryb25py3naymvyda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-30 18:15:20.377000",
+    "disclosedDate": "2025-04-30 19:24:13.076196"
+  }
+}

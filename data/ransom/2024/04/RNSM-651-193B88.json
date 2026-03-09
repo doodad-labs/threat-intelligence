@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-193B88",
+  "type": "ransomware-incident",
+  "title": "delawarelife.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "delawarelife.com",
+    "domain": "delawarelife.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "delawarelife.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/19f7f8c305e4ac98928f6cdd7635e73d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvsyxdhcmvsawzllmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-12 22:29:00.000000",
+    "disclosedDate": "2024-04-19 11:29:37.499396"
+  }
+}

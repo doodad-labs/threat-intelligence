@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-17B298",
+  "type": "ransomware-incident",
+  "title": "RCI.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RCI.COM",
+    "domain": "rci.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "RCI – Nous animons votre réseau de voyages - RCI.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/929c14362d1db0d2e5965b2c8d29ed39.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uknjlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-17 13:22:07.993248",
+    "disclosedDate": "2023-07-17 13:22:07.993307"
+  }
+}

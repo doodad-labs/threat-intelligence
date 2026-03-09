@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-657-03530A",
+  "type": "ransomware-incident",
+  "title": "CaleyWray ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CaleyWray",
+    "domain": "caleywray.com",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Canada - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6a06c5a8fa3475eb87169590479ac4e9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fszxlxcmf5qgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-03 10:51:10.000000",
+    "disclosedDate": "2024-10-03 11:40:14.861609"
+  }
+}

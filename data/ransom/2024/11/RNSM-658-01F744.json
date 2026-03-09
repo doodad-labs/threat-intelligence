@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-01F744",
+  "type": "ransomware-incident",
+  "title": "propak ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "propak",
+    "domain": "propak.com",
+    "country": "TH",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Propak is a proactive provider of leading-edge logistics, transportation and supply chain management solutions.We are a customer driven company and strive to provide services that exceed our customer’s expectations. We believe in teamwork            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/83ff392a6d11a293d9bf83834f84dc00.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjvcgfrqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-16 00:00:00.000000",
+    "disclosedDate": "2024-11-01 03:36:20.496627"
+  }
+}

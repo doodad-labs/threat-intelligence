@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-1367F2",
+  "type": "ransomware-incident",
+  "title": "clayplattefamily.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "clayplattefamily.com",
+    "domain": "clayplattefamily.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "kairos",
+    "name": "kairos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "USA - Clay Platte Family Medicine Clinic",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eb4cba6cd907c0128f77d8a283ca5e5d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2xhexbsyxr0zwzhbwlses5jb21aa2fpcm9z",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-26 00:00:00.000000",
+    "disclosedDate": "2024-11-13 09:12:42.678513"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-653-1052D4",
+  "type": "ransomware-incident",
+  "title": "Harper Industries ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Harper Industries",
+    "domain": "harperindustries.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/853f9d92e0d4ceeac87cede512453f26.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgfycgvyieluzhvzdhjpzxnaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-10 18:48:37.000000",
+    "disclosedDate": "2024-06-10 20:19:57.116191"
+  }
+}

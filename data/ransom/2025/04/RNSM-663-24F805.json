@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-24F805",
+  "type": "ransomware-incident",
+  "title": "friscochamber.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "friscochamber.com",
+    "domain": "friscochamber.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Frisco Chamber of Commerce is a 4-Star Accredited Chamber of Commerce that consists of more than 1,300 member businesses who provide good and services to the growing, bustling economy in Frisco and the surrounding area. The mission of the Frisco Chamber of Commerce is to protect and promote commerce, through advocacy, resources, and connections.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/905953ced1e84d98a119373890152869.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/znjpc2nvy2hhbwjlci5jb21abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-26 00:00:00.000000",
+    "disclosedDate": "2025-04-24 22:44:56.081641"
+  }
+}

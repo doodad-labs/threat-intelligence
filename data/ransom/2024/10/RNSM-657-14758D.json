@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-657-14758D",
+  "type": "ransomware-incident",
+  "title": "Astero ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Astero",
+    "domain": "astero.no",
+    "country": "NO"
+  },
+  "actor": {
+    "id": "meow",
+    "name": "meow",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 26000000000,
+    "description": "<p>Dear customers!</p><p>We are excited to offer you exclusive access to over 26 GB of confidential data from Astero, a Norwegian company based in Molde, specializing in providing employment and training services. Asteros mission is to support individuals, particularly those at risk of falling out of the workforce, through personalized guidance, career counseling, and work training programs. Their Astero Kurssenter offers courses and certifications aimed at improving skills and reducing workplace risks.</p><p>Astero serves both employers and job seekers by offering customized vocational training, apprenticeships, and employment opportunities. Their initiatives focus on job training for individuals with specific needs, fostering workplace inclusion, and enhancing employability through practical courses. In addition to career services, Astero operates divisions in mechanical work and production, supporting local industries and community development.</p><p>This comprehensive data pack includes:</p><p>Employee data<br>Client information<br>Financial documents, including invoices, credit notes, bank statements, and company credit documents<br>Personal data including dates of birth, employment contracts, passport and drivers license scans<br>Agreements and certificates<br>Addresses<br>Insurance and tax documents company insurance policies, termination notices, and annual tax reports<br>Medical documents and reports medical diagnoses and certificates<br>And much more<br>These records provide valuable insights into Asteros operations and may be of significant interest to business analysts, employment services professionals, and other stakeholders.</p><p>To gain access to this exclusive 26 GB data pack, simply click the Buy button and provide your contact details for registration. Our team will promptly reach out to ensure a secure and confidential transaction.</p><p>Dont miss the opportunity to explore valuable information from Astero with this exclusive data pack!</p>",
+    "claimed_data_types": [
+      "addresses",
+      "passport-numbers",
+      "employee-records",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e0f0b345e53f0b429c83490c252c1f0a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxn0zxjvqg1lb3c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-14 16:35:05.925000",
+    "disclosedDate": "2024-10-14 16:43:22.744999"
+  }
+}

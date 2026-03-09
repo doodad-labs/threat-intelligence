@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-277056",
+  "type": "ransomware-incident",
+  "title": "TALLTAILSDOG.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TALLTAILSDOG.COM",
+    "domain": "talltailsdog.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] TallTailsDog.com is a company that specializes in cultivating comfortable, durable pet products for dogs. With nearly 90 years of experience, the company offers a range of items including blankets, beds, toys, and various outdoor gear. Committed to quality and customer satisfaction, TallTailsDog.com prioritizes creating items that provide a sense of security and protection for pets and make pet care easier for owners.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vefmtfrbsuxtre9hlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:31:34.859474",
+    "disclosedDate": "2025-02-27 17:31:41.012205"
+  }
+}

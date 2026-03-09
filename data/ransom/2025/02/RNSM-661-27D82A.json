@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27D82A",
+  "type": "ransomware-incident",
+  "title": "TIMKEN.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TIMKEN.COM",
+    "domain": "timken.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] TIMKEN.COM belongs to The Timken Company, a global manufacturer of bearings and related components and assemblies. Based in the USA, it offers engineered bearings and power transmission products used in various industries, including automotive, aerospace, and energy. Besides, it provides services like lubrication management and powertrain rebuild. With over a century of experience, Timken's innovative solutions are designed to improve efficiency and reliability.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/velns0volknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:38:26.544710",
+    "disclosedDate": "2025-02-27 17:38:33.530359"
+  }
+}

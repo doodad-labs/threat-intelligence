@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-074E55",
+  "type": "ransomware-incident",
+  "title": "marshallconstruction.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "marshallconstruction.co.uk",
+    "domain": "marshallconstruction.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MARSHALL CONSTRUCTIONEstablished in 1983 we are one of Scotland’s foremost independent building contractors",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8afac757bfc2faaf42ff201146dc4928.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfyc2hhbgxjb25zdhj1y3rpb24uy28udwtabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-07 08:35:00.000000",
+    "disclosedDate": "2023-05-07 09:52:09.272169"
+  }
+}

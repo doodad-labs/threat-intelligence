@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-09A85E",
+  "type": "ransomware-incident",
+  "title": "Hotell Euroopa ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hotell Euroopa",
+    "country": "EE",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 12000000000,
+    "description": "Hestia Hotel Group OU is an enterprise located in Estonia, with the main office in Tallinn. It operates in the All Other Business Support Services industry.We are ready to upload more than 12 GB of essential corporate documents such as: contact numbers and e-mail addresses of employeesand customers, corporate licenses, agreements and contracts, financial data (audits, payment details, reports), etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg90zwxsiev1cm9vcgfaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-09 00:00:00.000000",
+    "disclosedDate": "2025-04-09 14:47:36.043516"
+  }
+}

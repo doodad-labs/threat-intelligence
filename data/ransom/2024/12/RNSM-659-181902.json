@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-181902",
+  "type": "ransomware-incident",
+  "title": "fote.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fote.com",
+    "domain": "fote.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 990000000000,
+    "description": "Fruit of the Earth, a prominent skin care company based in Grand Prairie, Texas. Founded in 1980, Fruit of the Earth specializes in producing high-quality aloe vera and nature-inspired products, including skin care, sun care, and health care items. The company operates as a family-owned business and emphasizes ethical sourcing and environmentally friendly practices in its production processes.SITE: www.fote.com Address : 3325 W Trinity Blvd Grand Prairie, Texas 75050 United StatesTEL#: (817) 510-1600ALL DATA SIZE: ≈990gb 1. Financial data, Accounts, Payroll 2. Personal employees data and docs 3. Confidential data, NDA 4. R&D & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/be57b285aed8983dfb11f0f59e256ddb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zm90zs5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-12 00:00:00.000000",
+    "disclosedDate": "2024-12-18 13:57:31.976426"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-19EAF3",
+  "type": "ransomware-incident",
+  "title": "nationalflightacademy.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nationalflightacademy.com",
+    "domain": "nationalflightacademy.com",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "The National Flight Academy, LLC is a subsidiary of the Naval Aviation Museum Foundation. The Academy is an educational activity authorized but not endorsed or financially supported by the United States Navy.\r\rIn 1993, the Foundation began to focus on youth education programs including a Distinguished Lecturer Series, Kids Day in Space, Kids Day in Antarctica, Kids Day with the Blue Angels, and special teacher education programs.\rIn 1996, the Foundation implemented its Flight to Excellence program, where as of 2019, more than 575,000 children from five states have participated. In 1999, the Foundation created the Flight Adventure Deck, a 39-station interactive exhibit on aviation, which addresses the scientific and mathematical principles of aerodynamics, propulsion and meteorology.\r\rThe network of this company has been breached and as a result over 200GB of data leaked from there.\rThese leaked data contains a lot of sensitive data related to patients and employees, including aerodynamics, propulsion, navigation, communications, flight physiology and meteorology. We have been trying to reach to the National Flight Academy with an offer to protect leaked data for a several weeks.\rAll our messages still unanswered. NFA board of directors being called everyday for a week with the message about leaked data. None of the NFA management answered our messages, yet. That is why you can see the sample of this leaked data. We have been trying to reach NFA management for a very long time.\rSince we are people of business and we our main goal is the money we will provide very last opportunity for the NFA to protect their patients missing data. NFA company have 3 days to contact us and start the negotiations. Otherwise all the data will be disclosed to public",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f64df5a459c8968d2abb0223ae942b1a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmf0aw9uywxmbglnahrhy2fkzw15lmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-18 00:41:00.000000",
+    "disclosedDate": "2024-04-19 09:13:40.503991"
+  }
+}

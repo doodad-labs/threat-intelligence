@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-659-22B54E",
+  "type": "ransomware-incident",
+  "title": "Sicoob ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sicoob",
+    "domain": "sicoob.com.br",
+    "country": "BR",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sicoob is a cooperative financial institution present throughout Brazil. Millions of people are already part of this movement. Sicoob is the largest cooperative financial system in the country, with more than 8 million members and more than 4.6 thousand service points distributed throughout Brazil. We are a financial cooperative that offers members Current Account Services, Credit, Investment, cards, Social Security, consortium, insurance, bank collection, acquisition of electronic means of payment, among others. In other words, we have a complete portfolio to meet our audience. We are recognized as the third best financial institution in Brazil according to the ranking \"Best Banks in the world 2024\", carried out by Forbes in partnership with the market research company Statista.https://www.sicoob.com.br/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7eb516a9b97b15ed262ee997d8700250.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2ljb29iqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-06-24/sicoob-confirma-que-sofreu-ataque-cibernetico-nesta-segunda-24.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-22 00:00:00.000000",
+    "disclosedDate": "2024-12-22 10:08:45.475465"
+  }
+}

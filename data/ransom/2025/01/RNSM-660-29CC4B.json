@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-660-29CC4B",
+  "type": "ransomware-incident",
+  "title": "Boutin Jones (boutindentino.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Boutin Jones (boutindentino.com)",
+    "domain": "boutindentino.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 180000000000,
+    "description": "180 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/38cef2ee01b8efd1e7ac5ff6a1b45f56.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qm91dgluiepvbmvzichib3v0aw5kzw50aw5vlmnvbslazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-29 11:58:16.755741",
+    "disclosedDate": "2025-01-29 11:59:22.397419"
+  }
+}

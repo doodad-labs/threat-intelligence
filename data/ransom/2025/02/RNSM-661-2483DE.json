@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-2483DE",
+  "type": "ransomware-incident",
+  "title": "Stürmer Maschinen ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Stürmer Maschinen",
+    "domain": "stuermer-maschinen.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Stürmer Maschinen",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b68128f2f93276d8db86ea6be47f8fa6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3tdvhjtzxigtwfzy2hpbmvuqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-08 00:00:00.000000",
+    "disclosedDate": "2025-02-24 12:36:19.378331"
+  }
+}

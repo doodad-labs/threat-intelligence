@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-274B0A",
+  "type": "ransomware-incident",
+  "title": "moci.gov.kw ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "moci.gov.kw",
+    "domain": "moci.gov.kw",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Ministry of Commerce and Industry is responsible for supporting and supervising commercial and economic activities and providing goods, materials and services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw9jas5nb3yua3dabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-27 11:34:12.229870",
+    "disclosedDate": "2023-02-27 11:34:12.229885"
+  }
+}

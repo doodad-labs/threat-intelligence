@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-651-196312",
+  "type": "ransomware-incident",
+  "title": "call4health.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "call4health.com",
+    "domain": "call4health.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Our medical answering service solution was the first program offered by Call 4 Health. With over 20 years of experience, we understand the importance of a well-designed answering service solution and can customize it to match your needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/65fc538c229437cf9a1ebccf9e4630ad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fsbdrozwfsdgguy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.hipaajournal.com/southcoast-health-call-4-health-notify-patients-about-cyberattacks/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-19 08:06:00.000000",
+    "disclosedDate": "2024-04-19 14:28:46.171834"
+  }
+}

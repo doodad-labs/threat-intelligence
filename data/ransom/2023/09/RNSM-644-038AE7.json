@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-038AE7",
+  "type": "ransomware-incident",
+  "title": "gosslaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gosslaw.com",
+    "domain": "gosslaw.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "VETERANS' LAWYERYou Deserve Representation and Security.We Focus on Results for U.S. Veterans Worldwide.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8315cdf354aedbe6f43af6323d6529e7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z29zc2xhdy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-03 21:18:00.000000",
+    "disclosedDate": "2023-09-03 22:00:18.274380"
+  }
+}

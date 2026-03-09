@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-648-23A0D4",
+  "type": "ransomware-incident",
+  "title": "Wilhoit Properties ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wilhoit Properties",
+    "domain": "wilhoitproperties.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wilhoit Properties, Inc. founded in 1967 and headquartered in Springfield, Missouri, is a property management company. We will upload their files soon. There are not many HR files but a lot of incident reports where you can find complete personal information with SSN and other data. Besides that there are a lot of projects and financial data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lsag9pdcbqcm9wzxj0awvzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-23 17:46:47.724797",
+    "disclosedDate": "2024-01-23 17:46:47.904505"
+  }
+}

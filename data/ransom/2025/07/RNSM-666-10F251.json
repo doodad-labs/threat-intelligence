@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-666-10F251",
+  "type": "ransomware-incident",
+  "title": "Wispone ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wispone",
+    "country": "IT",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 36000000000,
+    "description": "Wispone's goal is to interconnect broadband and ultra-wideband users regardless of geographic location, building a customer-centric service by overcoming both orographic and conventional circuit limitations. We are ready to upload more than 36 GB of essential corporate documents. Lots of client/employees IDs and passports scans, detailed financial data and numerous agreements, NDAs and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lzcg9uzubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-10 00:00:00.000000",
+    "disclosedDate": "2025-07-10 12:48:00.556133"
+  }
+}

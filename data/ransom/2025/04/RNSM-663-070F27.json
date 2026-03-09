@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-663-070F27",
+  "type": "ransomware-incident",
+  "title": "Hewsco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hewsco.com",
+    "domain": "hewsco.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hews Company, LLC is a family-owned and Equal Opportunity Employer headquartered in the Greater Portland area for over 85 years. We offer a competitive Wage and Benefits Package, including health and dental coverage, a 401K retirement plan, a            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0acdd263789164b9d5d61057fa5658aa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgv3c2nvlmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-22 00:00:00.000000",
+    "disclosedDate": "2025-04-07 15:56:33.475234"
+  }
+}

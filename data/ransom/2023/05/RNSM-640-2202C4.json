@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-640-2202C4",
+  "type": "ransomware-incident",
+  "title": "Mayberry Investments ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mayberry Investments",
+    "domain": "mayberryinv.com",
+    "country": "JM",
+    "sector": ""
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Jamaica",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ec1bb790491c98ca388a1f8572578954.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twf5ymvycnkgsw52zxn0bwvudhnacgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://jamaica.loopnews.com/content/mayberry-investments-targeted-cyberattack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-22 22:56:00.771951",
+    "disclosedDate": "2023-05-22 22:56:00.771972"
+  }
+}

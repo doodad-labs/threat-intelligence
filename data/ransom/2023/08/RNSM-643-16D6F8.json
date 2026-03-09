@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-16D6F8",
+  "type": "ransomware-incident",
+  "title": "Heilmann Gruppe ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Heilmann Gruppe",
+    "domain": "heilmann-ag.de",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "metaencryptor",
+    "name": "metaencryptor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Heilmann Gruppe. The purchase and sale of potatoes and onions, as well as all related activities not subject to authorisation. The following companies belong to Heilmann Gruppe: Heilmann AG, Agricola, Heilmann Logistics. Revenue: $134M Year 2021",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d8e8d9739055d97332e994817887b3d4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvpbg1hbm4gr3j1chblqg1ldgflbmnyexb0b3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-16 20:49:50.345567",
+    "disclosedDate": "2023-08-16 20:49:50.345595"
+  }
+}

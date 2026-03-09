@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-649-16CADE",
+  "type": "ransomware-incident",
+  "title": "Concello de Teo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Concello de Teo",
+    "domain": "teo.gal",
+    "country": "ES",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Spain - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5d35d88fce918e4edf001a738a4f1f66.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29uy2vsbg8gzgugvgvvqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://teo.gal/gl/actualidade/2024/o-concello-traballa-na-recuperacion-dos-seus-servizos-principais-tras-sufrir-o",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-16 07:53:31.000000",
+    "disclosedDate": "2024-02-16 12:04:03.215828"
+  }
+}

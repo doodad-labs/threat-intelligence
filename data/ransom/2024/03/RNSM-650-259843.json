@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-650-259843",
+  "type": "ransomware-incident",
+  "title": "kh.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kh.org",
+    "domain": "kh.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1966, Kootenai Health is a hospital that provides patient care services for people in Idaho, Montana, and Eastern Washington. They are based in Coeur d'Alene, Idaho. ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eae2c0e406fced82d5e4928371ef8732.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2gub3jnqhrocmvlyw0=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/3am-ransomware-stole-data-of-464-000-kootenai-health-patients/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-25 11:47:51.622421",
+    "disclosedDate": "2024-03-25 11:47:51.622458"
+  }
+}

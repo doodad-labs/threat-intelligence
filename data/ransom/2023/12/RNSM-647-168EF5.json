@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-168EF5",
+  "type": "ransomware-incident",
+  "title": "Insidesource ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Insidesource",
+    "domain": "insidesource.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Insidesource is San Francisco and Silicon Valley's leading provider of new and pre-owned office furniture. We hand-pick suppliers to create fresh, affordable, forward-thinking work environments that help spark innovation at companies around the globe. Nominated on the Top 100 Fastest Growing Private Companies insidesource.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c1f61a93bbd57ca4243b351cb8d101c6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5zawrlc291cmnlqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-16 00:00:00.000000",
+    "disclosedDate": "2023-12-16 05:28:16.396371"
+  }
+}

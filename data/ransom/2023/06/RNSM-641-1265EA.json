@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-1265EA",
+  "type": "ransomware-incident",
+  "title": "ai-thermal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ai-thermal.com",
+    "domain": "ai-thermal.com",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Air International was founded in Australia in 1967 by Owen John, after he built an air conditioner for his own Jaguar and discovered the demand for it among other luxury car owners.Since then, we have grown all over the world. We run lean manufactu...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/35e7f92574ef922672c66a4b2385a78c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywktdghlcm1hbc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-12 18:57:00.000000",
+    "disclosedDate": "2023-06-12 19:56:14.742253"
+  }
+}

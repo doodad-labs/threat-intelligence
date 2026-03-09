@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-049E6F",
+  "type": "ransomware-incident",
+  "title": "Tommotek ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tommotek",
+    "domain": "tommotek.com",
+    "country": "FI"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a3f1fcc0107c9eefa0d3b40fe618389d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vg9tbw90zwtacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-04 11:58:44.256296",
+    "disclosedDate": "2026-01-04 11:59:01.033215"
+  }
+}

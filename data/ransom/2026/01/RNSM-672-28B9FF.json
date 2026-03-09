@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-28B9FF",
+  "type": "ransomware-incident",
+  "title": "NessCampbell ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NessCampbell",
+    "domain": "nesscampbell.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f67ef794d318345065392a0ba38b5d53.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmvzc0nhbxbizwxsqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-28 19:09:10.352122",
+    "disclosedDate": "2026-01-28 19:09:24.959741"
+  }
+}

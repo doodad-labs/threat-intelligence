@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-042D37",
+  "type": "ransomware-incident",
+  "title": "notariusze.waw.pl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "notariusze.waw.pl",
+    "domain": "notariusze.waw.pl",
+    "country": "PL",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have breached notariusze.waw.pl.  For us to wipe the databreach, we ask for a ransom of 10000 EUR.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4cfe166c274b495e4e697e90509988eb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bm90yxjpdxn6zs53yxcucgxaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-04 19:19:35.480671",
+    "disclosedDate": "2024-08-04 19:19:36.283000"
+  }
+}

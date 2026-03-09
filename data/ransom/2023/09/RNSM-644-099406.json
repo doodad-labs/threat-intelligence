@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-099406",
+  "type": "ransomware-incident",
+  "title": "airelec.bg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "airelec.bg",
+    "domain": "airelec.bg",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All of your customer data,records and private documents are mine now, if you pay you wiWe require a ransom of $8,000",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywlyzwxlyy5iz0byyw5zb21lza==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-09 15:07:24.335851",
+    "disclosedDate": "2023-09-09 15:07:24.335880"
+  }
+}

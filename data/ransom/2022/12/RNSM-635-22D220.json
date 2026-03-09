@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-635-22D220",
+  "type": "ransomware-incident",
+  "title": "STERIS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "STERIS.COM",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "403 - Forbidden: Access is denied.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1rfukltlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-22 20:02:25.083203",
+    "disclosedDate": "2022-12-22 20:02:25.083203"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-291B3A",
+  "type": "ransomware-incident",
+  "title": "paynecountyok.gov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "paynecountyok.gov",
+    "domain": "paynecountyok.gov",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/485934bc7bf2bd44d05f055072039814.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgf5bmvjb3vudhlvay5nb3zac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-09 00:00:00.000000",
+    "disclosedDate": "2025-05-29 02:45:51.161513"
+  }
+}

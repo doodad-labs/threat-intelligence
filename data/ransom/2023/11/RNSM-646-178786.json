@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-178786",
+  "type": "ransomware-incident",
+  "title": "ajcfood.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ajcfood.com",
+    "domain": "ajcfood.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AJC International is a global leader in the procurement and sale of frozen meat, poultry, pork, seafood and vegetable products, and their respective derivatives, with 50+ years of experience.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2645842f8b580f9d7797264f13bfeaea.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywpjzm9vzc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-17 22:59:00.000000",
+    "disclosedDate": "2023-11-17 23:34:57.345731"
+  }
+}

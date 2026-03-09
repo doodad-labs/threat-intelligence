@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-20779F",
+  "type": "ransomware-incident",
+  "title": "uaes.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "uaes.com",
+    "domain": "uaes.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1995, United Automotive Electronics Co. is mainly engaged in the development, production and sales of gasoline engine management systems, transmission control systems, body electronics, hybrid and electric drive control systems.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0d34f595e1a6e9816eb5e6b3179cb608.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dwflcy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-20 18:31:00.000000",
+    "disclosedDate": "2023-10-20 19:06:47.267804"
+  }
+}

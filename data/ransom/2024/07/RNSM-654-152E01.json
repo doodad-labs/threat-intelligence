@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-152E01",
+  "type": "ransomware-incident",
+  "title": "Gibbs Hurley Chartered Accountants ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Gibbs Hurley Chartered Accountants",
+    "domain": "gibbsca.com.au",
+    "country": "AU",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Australia - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5dd96792bd62f8de6cdf961bd29812b6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2liynmgshvybgv5ienoyxj0zxjlzcbby2nvdw50yw50c0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-15 13:30:21.000000",
+    "disclosedDate": "2024-07-15 14:12:00.452929"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-642-16B2C4",
+  "type": "ransomware-incident",
+  "title": "www.arb.ch ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.arb.ch",
+    "domain": "arb.ch",
+    "country": "CH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 220000000000,
+    "description": "arb Architekten AG, 220Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmfyyi5jaebhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-16 10:19:27.000937",
+    "disclosedDate": "2023-07-16 10:19:27.000962"
+  }
+}

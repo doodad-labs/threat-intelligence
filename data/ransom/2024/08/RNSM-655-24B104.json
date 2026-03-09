@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-24B104",
+  "type": "ransomware-incident",
+  "title": "HBGJEWISHCOMMUN ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HBGJEWISHCOMMUN",
+    "domain": "jewishharrisburg.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.jewishharrisburg.org",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6a44785d77f3c3b6f9915e1475b38c3c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sejhskvxsvniq09ntvvoqghlbgxkb3du",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-24 15:12:41.772298",
+    "disclosedDate": "2024-08-24 15:12:42.620532"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-289187",
+  "type": "ransomware-incident",
+  "title": "comtruck.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "comtruck.ca",
+    "domain": "comtruck.ca",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Providing Expert Truck Equipment Solutions across Canada. Part of the Commercial Group of Companies, Commercial Truck Equipment is Canada's largest supplier of vocational vehicles and work truck equipment",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29tdhj1y2suy2faywj5c3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-28 12:41:37.274925",
+    "disclosedDate": "2024-08-28 12:41:37.674874"
+  }
+}

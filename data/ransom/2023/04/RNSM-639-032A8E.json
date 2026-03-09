@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-639-032A8E",
+  "type": "ransomware-incident",
+  "title": "midamericanglass.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "midamericanglass.com",
+    "domain": "midamericanglass.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "moneymessage",
+    "name": "moneymessage",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mid-American Glass is a regional distributor / fabricator of flat glass, insulating glass, and architectural metal. While flat glass distribution remains the strength of our company, our fabrication of insulating glass and architectural metal continues to drive our growth.Website www.midamericanglass.comRevenue $11.4M",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwlkyw1lcmljyw5nbgfzcy5jb21abw9uzxltzxnzywdl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-03 23:10:35.188388",
+    "disclosedDate": "2023-04-03 23:10:35.188413"
+  }
+}

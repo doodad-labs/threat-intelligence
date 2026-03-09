@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-29B75A",
+  "type": "ransomware-incident",
+  "title": "The Line Up, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Line Up, Inc",
+    "domain": "thelineup.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Line Up creates custom dance costumes, cheer uniforms, and skating dresses. Shop made-to-order styles online or create your own custom apparel. thelineup.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cb6d760b0f467950d496a5247fbdad1c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghliexpbmugvxasieluy0a4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-29 00:00:00.000000",
+    "disclosedDate": "2024-04-29 14:14:09.757252"
+  }
+}

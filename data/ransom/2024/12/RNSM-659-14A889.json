@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-14A889",
+  "type": "ransomware-incident",
+  "title": "muswellbrook.nsw.gov.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "muswellbrook.nsw.gov.au",
+    "domain": "nsw.gov.au",
+    "country": "AU",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Soon",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bxvzd2vsbgjyb29rlm5zdy5nb3yuyxvac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.981powerfm.com.au/local-news/local-council-victim-to-a-cyber-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-03 00:00:00.000000",
+    "disclosedDate": "2024-12-14 02:27:34.949746"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-049A9C",
+  "type": "ransomware-incident",
+  "title": "tetco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tetco.com",
+    "domain": "tetco.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TETCO, Inc. is a San Antonio-based company, owned and operated by the Tom E. Turner family for more than 60 years. Food service franchises, petrochemical distribution, and heavy truck and trailer repairs are the company’s primary revenue sources, wit...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3778fd1eac12b745f4e46e6467bb10e3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgv0y28uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-14 00:00:00.000000",
+    "disclosedDate": "2023-08-04 20:00:58.964254"
+  }
+}

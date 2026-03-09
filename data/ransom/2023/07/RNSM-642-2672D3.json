@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-642-2672D3",
+  "type": "ransomware-incident",
+  "title": "casepointcom (UPDATE) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "casepointcom (UPDATE)",
+    "domain": "casepoint.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000000,
+    "description": "We have over 2TB of very sensitive data, lawyers, SEC, DoD, FBI, Police and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/db4fac7fb5240763956e02672d1aef25.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fzzxbvaw50y29tichvuerbveupqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-30 08:57:31.000000",
+    "disclosedDate": "2023-07-26 14:28:49.549294"
+  }
+}

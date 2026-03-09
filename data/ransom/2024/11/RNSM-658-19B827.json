@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-658-19B827",
+  "type": "ransomware-incident",
+  "title": "isaitaly.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "isaitaly.com",
+    "domain": "isaitaly.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "Since 1963 ISA produces in its region and, from there, it provides refrigerated showcases and furniture for public places worldwide. ISA works in the market through three brands: ISA, COF, TASSELLI and HIZONE with a sales volume beyond 120 million of euro by exporting, in 107 countries, quality products with a high rate of technology and innovation, also in terms of sustainability by using natural refrigerants. ISA nowadays is one of the most important players of the world in the field of interior design for public places, showcases and refrigerated cabinets for ice cream and pastry and professional furniture. Beyond numerous and prestigious clients, who make a daily use of ISA’s equipment, the company has been collaborating for years with important international brands, which they are: Ahold, Auchan, Autogrill, Billa, Bindi, Coldstone Creamery, Coca Cola, Conad, Coop, Cremonini, Brioche Doree, Haagen Dazs, Nestlé, Sammontana, Sturbucks and Unilever.SITE: www.isaitaly.com Address : Via Madonna di Campagna, 123 06083 Bastia Umbra – ItalyTEL#: +39 075 80171ALL DATA SIZE: ≈1.5tb 1. Employees personal documents 2. Financial data 3. Projects, Drawings & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/54b910d647c665ed5e8a1c7426df5487.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axnhaxrhbhkuy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://tuttoggi.info/attacco-informatico-ad-azienda-umbra-rubati-dati-si-indaga/865433/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-22 00:00:00.000000",
+    "disclosedDate": "2024-11-19 11:52:09.970708"
+  }
+}

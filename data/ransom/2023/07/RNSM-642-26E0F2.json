@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-642-26E0F2",
+  "type": "ransomware-incident",
+  "title": "b&h patterninc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "b&h patterninc",
+    "domain": "bh-pattern.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 7520000000,
+    "description": "7.52gb data has been downloaded from company file servers",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3c09d31b452df744a6a1b186a968db2b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yizoihbhdhrlcm5pbmnaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-07 10:51:47.000000",
+    "disclosedDate": "2023-07-26 15:27:12.371654"
+  }
+}

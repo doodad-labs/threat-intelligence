@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-167B1F",
+  "type": "ransomware-incident",
+  "title": "ljglaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ljglaw.com",
+    "domain": "ljglaw.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LJG Law, or ljglaw.com, is a legal firm specializing in various areas of law, including personal injury, employment law, and civil litigation. The firm is committed to providing personalized legal services and advocating for the rights and interests of its clients. It focuses on delivering effective legal solutions through experienced attorneys dedicated to achieving favorable outcomes.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/93b6e6965f573a19bc9e21f1cc0166fb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgpnbgf3lmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-14 18:13:50.000000",
+    "disclosedDate": "2024-08-16 14:22:16.912968"
+  }
+}

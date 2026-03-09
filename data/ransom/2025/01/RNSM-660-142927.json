@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-660-142927",
+  "type": "ransomware-incident",
+  "title": "Buttery (butterycompany.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Buttery (butterycompany.com)",
+    "domain": "butterycompany.com",
+    "country": "US",
+    "sector": "Retail"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1700000000,
+    "description": "1.7 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnv0dgvyesaoynv0dgvyewnvbxbhbnkuy29tkubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-14 12:27:52.172252",
+    "disclosedDate": "2025-01-14 12:29:00.384079"
+  }
+}

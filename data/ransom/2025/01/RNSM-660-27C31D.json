@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-27C31D",
+  "type": "ransomware-incident",
+  "title": "wacer.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wacer.com.au",
+    "domain": "wacer.com.au",
+    "country": "AU",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "wacer.com.au",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ea342876976b16bb3c0e35a07b6f3d1f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2fjzxiuy29tlmf1qgjhynvrmg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:53:00.292109",
+    "disclosedDate": "2025-01-27 07:54:05.484432"
+  }
+}

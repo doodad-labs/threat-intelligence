@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-652-04C595",
+  "type": "ransomware-incident",
+  "title": "olsonsteel.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "olsonsteel.com",
+    "domain": "olsonsteel.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 900000000000,
+    "description": "Olson & Co. Steel is a premier steel contractor that provides steel fabrication, erection, and specialty construction services. The company was formed in 2002 from the consolidation of Bostrom Bergen Metal Products and Meddco Metals, and has a long history of serving the construction industry since 1960. Olson & Co. Steel has completed various specialty projects, including the Potrero Power Station A Building, Santa Clara Valley Medical Center Art Feature, Massy House, Hangar 3 Timber Repair Scaffold and Shoring Tower, Orbital Art Feature, Stanford Central Campus Process Steam System, U.C Davis Brewery, Saint Peter & Paul Church, Stanley Mosk Library & Courts, San Jose Southside Police Station, Geneva Car Enclosure (Butler), California Dairies Plant 7, California Dairies Visalia Plant, Keyes Ethanol Plant, and Pixley Ethanol. The company is a market leader in bringing technology to its detailing, fabrication, and erection processes, and strives for innovation and continuous improvement.SITE: www.olsonsteel.com Address : 1941 Davis Street, San Leandro, CA, 94577 USAALL DATA SIZE: ≈900gb 1. Company data: HR, Accounting and etc… 2. Employees, users data + personal documents 3. Projects and CAD, Confidetial documents and drawings And much more…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/04858920d59a4dae8e4e116c7fe3a138.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b2xzb25zdgvlbc5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-07 00:00:00.000000",
+    "disclosedDate": "2024-05-04 12:25:42.565057"
+  }
+}

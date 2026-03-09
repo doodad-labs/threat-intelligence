@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-1957F5",
+  "type": "ransomware-incident",
+  "title": "Fritzøe Engros ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fritzøe Engros",
+    "domain": "fritzoeengros.no",
+    "country": "NO",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fritzøe Engros manufacturer, importer and distributor of wood products. Fritzøe Engros corporate office is located in 10 Øya, Larvik, Vestfold, 3262, Norway.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnjpdhrdugugrw5ncm9zqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-10 00:00:00.000000",
+    "disclosedDate": "2024-09-19 20:08:52.229809"
+  }
+}

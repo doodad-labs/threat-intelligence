@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-05945D",
+  "type": "ransomware-incident",
+  "title": "valedolobo.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "valedolobo.com",
+    "domain": "valedolobo.com",
+    "country": "PT",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Valedolobo.com\" is the online platform for the Vale do Lobo resort located in Portugal's Algarve region. Specializing in luxury experiences, it features multiple leisure facilities including two 18-hole golf courses, a wellness center, and various restaurants. It offers properties for sale or rent for vacation purposes, making it a premier destination for tourists.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d5096bd6e66f56c4e6cf54bd37e31c74.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmfszwrvbg9iby5jb21aqnjhaw5daxbozxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-05 10:25:55.822101",
+    "disclosedDate": "2025-05-05 10:27:40.160664"
+  }
+}

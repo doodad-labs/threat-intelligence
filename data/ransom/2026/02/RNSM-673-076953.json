@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-076953",
+  "type": "ransomware-incident",
+  "title": "STRATEGICOBJECTIVES.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "STRATEGICOBJECTIVES.COM",
+    "domain": "strategicobjectives.com",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] StrategicObjectives.com is a public relations agency based in Toronto, Canada. This firm offers strategic PR solutions that build brands and reputations while also delivering measurable results. They serve a range of industries including consumer, lifestyle, retail and corporate. Their services include social and digital communications, crisis and issues management, and event marketing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/75952b7dc177ffaae69a7e03f4f1c33b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1rsqvrfr0ldt0jkrunusvzfuy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 21:12:06.980668",
+    "disclosedDate": "2026-02-07 21:12:22.220121"
+  }
+}

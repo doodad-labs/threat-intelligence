@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-643-155E63",
+  "type": "ransomware-incident",
+  "title": "Postel SpA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Postel SpA",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Postel SpA offers computer software for sale. The Company provides software products and management services including document management, direct marketing, and e-procurement software and related services. Postel operates throughout Italy, the company's head office is located at 5 Via Ricerca Scientifica, Padova, Veneto, 35127, Italy",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fe37ff2075b7f7945cc31e86b33d9ad1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ug9zdgvsifnwqubtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-15 10:48:22.12345",
+    "disclosedDate": "2023-08-15 11:43:07.866264"
+  }
+}

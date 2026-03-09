@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-658-23A263",
+  "type": "ransomware-incident",
+  "title": "IPE Engwicht ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IPE Engwicht",
+    "domain": "ipe-engwicht.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] IPE Engwicht is a company focused on innovative traffic calming and urban planning solutions. Known for pioneering concepts like \"psychological traffic calming,\" the company aims to create safer, more livable streets without relying on traditional traffic control devices. They emphasize community engagement and sustainable urban mobility, transforming public spaces to enhance quality of life.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/63007449deb83f6f919663639b4aa8c3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/svbfievuz3dpy2h0qgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-23 16:13:12.541116",
+    "disclosedDate": "2024-11-23 16:13:14.693410"
+  }
+}

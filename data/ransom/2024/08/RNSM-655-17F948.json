@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-17F948",
+  "type": "ransomware-incident",
+  "title": "peoplewell.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "peoplewell.com",
+    "domain": "peoplewell.com",
+    "country": "KR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PeopleWell Solutions is a single platform HR system built to reduce the time and effort it takes for your HR team to administer HR tasks, payroll, benefits, reports and reconciliation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a26d40e5b9d027f96a8b8d4d9726def0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgvvcgxld2vsbc5jb21azgfya3zhdwx0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-17 00:00:00.000000",
+    "disclosedDate": "2024-08-17 22:21:09.871401"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-10076A",
+  "type": "ransomware-incident",
+  "title": "Bellingham Vet Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bellingham Vet Center",
+    "domain": "bellinghamvetcenter.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bellingham Animal Hospital specializes in preventive care. We strongly recommend regular check-ups for your animal to ensure better health and a longer life. If your pet needs medical attention, Bellingham Animal Hospital's staff will take the time to explain treatment options. We'll help guide your decision process by answering any questions or concerns. Our practice utilizes the latest technology to help your pet overcome ailments and return to full health.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/26e3fb338ad0066a181acbe1e0e8a332.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvsbgluz2hhbsbwzxqgq2vudgvyqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-10 20:22:55.503000",
+    "disclosedDate": "2025-10-10 20:23:18.301452"
+  }
+}

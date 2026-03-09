@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-102278",
+  "type": "ransomware-incident",
+  "title": "cps.k12.il.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cps.k12.il.us",
+    "domain": "cps.k12.il.us",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] cps.k12.il.us is the official website for Chicago Public Schools (CPS), one of the biggest school systems in the U.S., located in Chicago, Illinois. It provides comprehensive information about their various programs, curriculums, school calendars, resources for students and parents, as well as staff directories. CPS's mission is to provide a high-quality public education for every child, in every neighborhood, that prepares each for success in college, career, and civic life.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3bzlmsxmi5pbc51c0bjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:56:56.726419",
+    "disclosedDate": "2025-02-10 19:57:05.519341"
+  }
+}

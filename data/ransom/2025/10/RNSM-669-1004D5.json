@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-1004D5",
+  "type": "ransomware-incident",
+  "title": "Paleontological Research Institution ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Paleontological Research Institution",
+    "domain": "priweb.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Paleontological Research Institution, or PRI, is a paleontological organization in Ithaca, New York with a mission including both research and education. The Paleontological Research Institution was founded in 1932.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bc5fa1cb22c3af6ed8d15056a8490d82.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfszw9udg9sb2dpy2fsifjlc2vhcmnoieluc3rpdhv0aw9uqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-10 20:30:54.762000",
+    "disclosedDate": "2025-10-10 21:15:25.525753"
+  }
+}

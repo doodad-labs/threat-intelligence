@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-1545E7",
+  "type": "ransomware-incident",
+  "title": "Studio Legale Ranchino ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Studio Legale Ranchino",
+    "domain": "studioranchino.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ranchino Law Firm is a professional association with offices in Rome and Milan, specializing in the management, out-of-court and judicial proceedings and assessment (due diligence) of non-performing loans and illiquid payments, as well as in banking, finance, bankruptcy law, real estate and financial lease.https://www.studioranchino.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/970a9a6ed93ff4766ddd78d5e1459c8d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3r1zglviexlz2fszsbsyw5jaglub0a4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-15 00:00:00.000000",
+    "disclosedDate": "2023-06-15 13:54:42.925136"
+  }
+}

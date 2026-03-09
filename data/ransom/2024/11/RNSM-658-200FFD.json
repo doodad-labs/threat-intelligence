@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-200FFD",
+  "type": "ransomware-incident",
+  "title": "Alpha Care Medical Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Alpha Care Medical Group",
+    "domain": "alphacaremed.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1993, Alpha Care Medical Group is an Independent Physicians Association (IPA) that specializes in delivering high-quality healthcare. We focus on Medi-Cal/Medicaid, Commercial, and Medicare and Dual Eligible (Medi-Medi) members in             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b4afe72b3c0fc9955e31968b6f6ced7f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxwagegq2fyzsbnzwrpy2fsiedyb3vwqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-06 00:00:00.000000",
+    "disclosedDate": "2024-11-20 23:10:53.235948"
+  }
+}

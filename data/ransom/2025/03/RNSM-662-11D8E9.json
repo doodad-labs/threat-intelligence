@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-11D8E9",
+  "type": "ransomware-incident",
+  "title": "Springfield Water and Sewer Commission ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Springfield Water and Sewer Commission",
+    "domain": "swsc.org",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Documents.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0249c975682e9fda319c29dca874fe15.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3byaw5nzmllbgqgv2f0zxigyw5kifnld2vyienvbw1pc3npb25abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-11 18:04:41.440000",
+    "disclosedDate": "2025-03-11 19:28:49.895651"
+  }
+}

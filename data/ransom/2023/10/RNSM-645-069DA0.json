@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-069DA0",
+  "type": "ransomware-incident",
+  "title": "picosoft.biz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "picosoft.biz",
+    "domain": "picosoft.biz",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PicoSoft est une société de services et dingénierie informatique, qui offre une large gamme de solutions innovantes répondant aux besoins de tout type dentreprises en matire de portails dentreprise, de gestion électronique de documents et doutils dai...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8cbcfd70d093eedbe7c8105baa7ebe32.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgljb3nvznquyml6qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-06 07:58:00.000000",
+    "disclosedDate": "2023-10-06 08:33:51.347298"
+  }
+}

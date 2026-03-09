@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-2980F9",
+  "type": "ransomware-incident",
+  "title": "labor-koblenz.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "labor-koblenz.de",
+    "domain": "labor-koblenz.de",
+    "country": "DE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/89d2d238659f49dba26cea47728b61d9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgfib3ita29ibgvuei5kzubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-29 15:23:47.000000",
+    "disclosedDate": "2024-07-29 19:39:16.891272"
+  }
+}

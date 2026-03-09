@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-29797D",
+  "type": "ransomware-incident",
+  "title": "projektalp.ch ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "projektalp.ch",
+    "domain": "projektalp.ch",
+    "country": "CH",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Project Alp offers professionally accompanied individual places in suitable host families in agricultural establishments in the cantons of Bern, Solothurn, Fribourg and Lucerne for longer-term stays and time out placements in crisis situations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjvamvrdgfscc5jaebhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-29 15:37:56.156361",
+    "disclosedDate": "2024-10-29 15:37:57.690938"
+  }
+}

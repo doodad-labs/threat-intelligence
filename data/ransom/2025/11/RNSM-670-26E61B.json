@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-26E61B",
+  "type": "ransomware-incident",
+  "title": "Eastek International ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Eastek International",
+    "domain": "eastekinternational.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6dfc49dc443f691b5d617fc8981e86e1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwfzdgvrieludgvybmf0aw9uywxacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-26 08:41:33.210371",
+    "disclosedDate": "2025-11-26 08:41:51.927181"
+  }
+}

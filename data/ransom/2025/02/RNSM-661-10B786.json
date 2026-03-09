@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-10B786",
+  "type": "ransomware-incident",
+  "title": "1888MILLS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "1888MILLS.COM",
+    "domain": "1888mills.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] 1888Mills.com is a leading global manufacturer of home and commercial textiles serving the bed, bath, kitchen and hospitality sectors. The company, established in 1988, offers a comprehensive range of products including towels, sheets, table linens, and other specialty items. Their products are distributed in over 50 countries worldwide. The company is committed to quality and innovation, ensuring its products meet the demands of its customers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b2b40b9baf962c249a26d8298f35e565.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/mtg4oe1jtextlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 14:10:07.536265",
+    "disclosedDate": "2025-02-10 14:11:18.668924"
+  }
+}

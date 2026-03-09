@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-668-12DA61",
+  "type": "ransomware-incident",
+  "title": "Brownstone Agency ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Brownstone Agency",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "Brownstone Agency, Inc. offers a range of insurance products including property and general liability coverage, specifically tailored for brownstones, row houses, condominiums, and multi-family dwellings.We are going to upload 10GB of corporate data. Employee documents(Full name, DOB, addresses, zip and so on), lots of confidentialagreements, detailed finance and accounting files, lots of clients and customers information, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjvd25zdg9uzsbbz2vuy3laywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-11 00:00:00.000000",
+    "disclosedDate": "2025-09-12 12:50:13.265452"
+  }
+}

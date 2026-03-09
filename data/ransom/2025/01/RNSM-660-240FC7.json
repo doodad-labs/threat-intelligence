@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-240FC7",
+  "type": "ransomware-incident",
+  "title": "Arrow Motor Auctions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Arrow Motor Auctions",
+    "domain": "arrowauctions.co.uk",
+    "country": "GB",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Arrow Motor Auctions was established in 1994 at premises in Redditch,  Worcestershire and our primary aim was to provide local vehicle  re-marketing for trade and private clients.CONTENTS: Financial Reports, Outlook and other valuable information (.pdf, .xsl, .doc... ect). https://www.arrowauctions.co.uk/about-us/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/339e111c092dc2538269cbf50e6b7f3a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjyb3cgtw90b3igqxvjdglvbnnac3bhy2vizwfycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 04:47:41.772962",
+    "disclosedDate": "2025-01-24 04:48:58.196452"
+  }
+}

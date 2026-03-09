@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-04650A",
+  "type": "ransomware-incident",
+  "title": "brainsystem.eu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "brainsystem.eu",
+    "domain": "brainsystem.eu",
+    "country": "EU",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Brainsystem.eu is an IT company that provides modern technology solutions for businesses across various industries. Their services include systems implementation, data protection and recovery, IT infrastructure installation and maintenance, and cloud computing. Brainsystem.eu is known for leveraging advanced technology to ensure efficient, secure, and reliable operations for its clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d713e78d46ae40e21b3382146b476725.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjhaw5zexn0zw0uzxvaznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-04 13:44:39.740786",
+    "disclosedDate": "2025-02-04 13:44:39.740786"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-655-2484A4",
+  "type": "ransomware-incident",
+  "title": "nwcsb.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nwcsb.com",
+    "domain": "nwcsb.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Northwestern Community Services Board (nwcsb.com) is a mental health organization dedicated to providing comprehensive behavioral health, developmental disability, and substance use services. They serve individuals and families in the northwestern region, aiming to enhance the quality of life through accessible, person-centered care and community-based support programs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/36b528d75625b75d4c3f8b8f4bfbdf89.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bndjc2iuy29tqgjsywnrc3vpda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/20276fc8-efca-4643-9a0e-271b060eca60.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-24 21:05:30.938672",
+    "disclosedDate": "2024-08-24 21:05:32.993588"
+  }
+}

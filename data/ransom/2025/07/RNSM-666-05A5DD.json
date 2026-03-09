@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-05A5DD",
+  "type": "ransomware-incident",
+  "title": "Assetlabs ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Assetlabs",
+    "domain": "assetlabs.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "assetlabs.comStreamline365 provides a data intelligence platform designed to transform inv…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/df9c37aa7f14bece22dc43c6f4c6f06c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxnzzxrsywjzqgfyy3vzbwvkawe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-05 14:40:41.000000",
+    "disclosedDate": "2025-07-05 16:15:03.496762"
+  }
+}

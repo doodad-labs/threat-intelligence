@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-660-24CCC5",
+  "type": "ransomware-incident",
+  "title": "De La Salle High School (dlshs.org) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "De La Salle High School (dlshs.org)",
+    "domain": "dlshs.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "20 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b97e1c7e81ef335365f0d105cea64625.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgugtgegu2fsbgugsglnacbty2hvb2wgkgrsc2hzlm9yzylazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 12:33:27.870501",
+    "disclosedDate": "2025-01-24 12:34:34.413557"
+  }
+}

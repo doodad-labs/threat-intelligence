@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-17289B",
+  "type": "ransomware-incident",
+  "title": "volohealth.in ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "volohealth.in",
+    "domain": "volohealth.in",
+    "country": "IN",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "India's first fully cashless OPD solution which offers operational efficiency, mitigate frauds & misuse, healthcare insights and cost savings. Payvider offers comprehensive patient support services for specified treatment such as Cancer.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/567d7e40a39e5ba277302756ee9413e9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dm9sb2hlywx0ac5pbkbrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-17 01:37:12.545176",
+    "disclosedDate": "2024-10-17 01:37:13.207092"
+  }
+}

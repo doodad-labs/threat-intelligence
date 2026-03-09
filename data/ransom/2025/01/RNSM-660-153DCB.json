@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-153DCB",
+  "type": "ransomware-incident",
+  "title": "greyform.sg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "greyform.sg",
+    "domain": "greyform.sg",
+    "country": "SG",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Greyform Pte Ltd is a Singapore-based construction company specialising in prefab construction methods. With a focus on sustainability and high-efficiency construction, Greyform uses innovative techniques to meet the demands of today's construction industry. Their services include the design, production, logistics and installation of prefabricated components for residential, commercial and civil engineering projects.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bc9fdf8c0d7092967dbd609e2a6e54bd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jlewzvcm0uc2dac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-15 22:45:22.342664",
+    "disclosedDate": "2025-01-15 22:45:22.342664"
+  }
+}

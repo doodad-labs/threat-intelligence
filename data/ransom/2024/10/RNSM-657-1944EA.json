@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-1944EA",
+  "type": "ransomware-incident",
+  "title": "paciente.sempremedico.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "paciente.sempremedico.com.br",
+    "domain": "sempremedico.com.br",
+    "country": "BR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "\"paciente.sempremedico.com.br\" is a Brazilian healthcare platform designed to enhance patient-doctor interactions. It offers services such as appointment scheduling, medical record management, and telemedicine consultations. The platform aims to streamline healthcare access and improve communication between patients and healthcare providers, ensuring a seamless and efficient medical experience.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2c3dd692dffb3654c843b057d008fb20.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgfjawvudguuc2vtchjlbwvkawnvlmnvbs5ickbyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-16 00:00:00.000000",
+    "disclosedDate": "2024-10-19 16:10:37.151246"
+  }
+}

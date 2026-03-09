@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-07C61F",
+  "type": "ransomware-incident",
+  "title": "Fligno ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fligno",
+    "domain": "fligno.com",
+    "country": "NO",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: Chalmers tekniska högskola, Fligno, 3SS",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmxpz25vqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-07 23:45:49.203437",
+    "disclosedDate": "2025-02-07 23:45:51.139751"
+  }
+}

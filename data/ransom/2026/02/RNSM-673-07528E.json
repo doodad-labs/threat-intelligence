@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-07528E",
+  "type": "ransomware-incident",
+  "title": "kres.cz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kres.cz",
+    "domain": "kres.cz",
+    "country": "CZ"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Czech small-to-medium enterprise headquartered in Krnov – Pod Cvilínem, Czech Republic. The company specialises in the sale, repair and servicing …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0060596eb0f60730227e877df2b6d934.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3jlcy5jekbzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 22:05:14.956326",
+    "disclosedDate": "2026-02-07 22:05:27.668076"
+  }
+}

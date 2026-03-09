@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-663-217962",
+  "type": "ransomware-incident",
+  "title": "Richmond СPA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Richmond СPA",
+    "domain": "richmondcompany.com",
+    "country": "",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "All data (around 300Gb) of Richmond Company CPA will be published fully on 28 Arpil, if Richomnd CPA refuse to pay ransom. We are a full-service Accounting firm licensed in WV. We offer a broad range of services for business owners, executive            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c1b93b7d480b5799d81f2ae73219eb55.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umljag1vbmqg0kfqqubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-13 00:00:00.000000",
+    "disclosedDate": "2025-04-21 16:15:18.490550"
+  }
+}

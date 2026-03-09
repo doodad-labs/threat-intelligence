@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-640-2269BD",
+  "type": "ransomware-incident",
+  "title": "Agostini Insurance Brokers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Agostini Insurance Brokers",
+    "domain": "agostini.com",
+    "country": "TT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 24000000000,
+    "description": "Agostini Insurance Brokers Limited is the longest standing private sector firm of Insurance Brokers within Trinidad and Tobago, having previously been incorporated in the name Agostini Brothers Insurance Limited on the 29th of December 1950.Total downloaded data - 24gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/adf179c1c1fe0d2fa768d8d70991cdbf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwdvc3rpbmkgsw5zdxjhbmnliejyb2tlcnnacm95yww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-22 01:02:03.456789",
+    "disclosedDate": "2023-05-22 11:56:51.880633"
+  }
+}

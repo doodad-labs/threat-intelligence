@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-14B4CD",
+  "type": "ransomware-incident",
+  "title": "Thompson Davis & Co ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Thompson Davis & Co",
+    "domain": "thompsondavis.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Thompson Davis & Co. is an independent private asset manager providing individuals, businesses, foundations and retirement plans with disciplined and uniquely focused growth and value-driven investment management.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghvbxbzb24grgf2axmgjibdb0biawfubglhbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-14 11:11:02.678955",
+    "disclosedDate": "2024-08-14 11:11:04.072611"
+  }
+}

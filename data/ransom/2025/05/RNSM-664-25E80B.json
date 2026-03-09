@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-25E80B",
+  "type": "ransomware-incident",
+  "title": "dbhcares.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dbhcares.com",
+    "domain": "dbhcares.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Desert Behavioral Health (DBH) was founded in 2009 based on the Bio-Psycho-Social integrated mental health services model. In the past years, DBH has provided outpatients mental health services for thousands of clients in Southern Nevada.   Desert",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9343bc85779d63c1952987282e8cc931.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgjoy2fyzxmuy29tqhrocmvlyw0=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-19 18:55:46.481009",
+    "disclosedDate": "2025-05-25 18:56:57.070730"
+  }
+}

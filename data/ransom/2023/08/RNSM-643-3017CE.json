@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-3017CE",
+  "type": "ransomware-incident",
+  "title": "optoflux.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "optoflux.com",
+    "domain": "optoflux.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We produce precision optics that are used in numerous industries, for example automotive, medical, industrial or consumer.High quality and absolute precision are just as much our focus as the requirements of our customers. Therefore, we continuousl...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1ee6732f77bf59526b82525b9eb5cbad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b3b0b2zsdxguy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-30 22:59:00.000000",
+    "disclosedDate": "2023-08-30 23:35:34.637252"
+  }
+}

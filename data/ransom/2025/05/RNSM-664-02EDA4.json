@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-02EDA4",
+  "type": "ransomware-incident",
+  "title": "Jamjoom Pharma ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jamjoom Pharma",
+    "domain": "jamjoompharma.com",
+    "country": "SA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Jamjoom Pharma is a leading pharmaceutical company based in Jeddah, Saudi Arabia. Formed in 2000, it's part of the diverse Jamjoom Group. The company develops, manufactures, and distributes a wide variety of prescription drugs and over-the-counter products. They focus on therapeutic areas such as dermatology, antibiotics, cardiovascular, gastroenterology, and neuropsychiatry, serving both domestic and international markets.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/133cba5301ca21c809c1f98103b79b53.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smftam9vbsbqagfybwfazxzlcmvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-01 00:00:00.000000",
+    "disclosedDate": "2025-05-02 11:18:00.681590"
+  }
+}

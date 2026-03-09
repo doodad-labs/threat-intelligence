@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-14121F",
+  "type": "ransomware-incident",
+  "title": "REPSOLSINOPECUK.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "REPSOLSINOPECUK.COM",
+    "domain": "repsolsinopecuk.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Repsol Sinopec Resources UK Limited",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ecd33ce0a6f81bc216820b0ee86707b6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukvqu09mu0lot1bfq1vllknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-14 15:59:33.031369",
+    "disclosedDate": "2023-07-14 15:59:33.031390"
+  }
+}

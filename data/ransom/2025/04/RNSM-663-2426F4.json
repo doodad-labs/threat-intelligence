@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-2426F4",
+  "type": "ransomware-incident",
+  "title": "Pacific Metallurgical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pacific Metallurgical",
+    "domain": "pacmet.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Pacific Metallurgical is a manufacturing company in Kent, Washington which offers heat treating solutions. They provide several services including vacuum heat treating, brazing, aging and hardening for various industries such as aerospace, medical, and tooling. They pride themselves in using advanced technologies and maintaining the highest standards in their processes.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0853140afcd121ae9e78e1c6721978b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfjawzpyybnzxrhbgx1cmdpy2fsqgjsywnrc3vpda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-24 19:00:36.807871",
+    "disclosedDate": "2025-04-24 19:01:56.274045"
+  }
+}

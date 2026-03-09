@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-07F7D3",
+  "type": "ransomware-incident",
+  "title": "strategic-ts.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "strategic-ts.com",
+    "domain": "strategic-ts.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "tengu",
+    "name": "tengu",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The website https://strategic-ts.com/ belongs to a small US-based IT and technology services company—and serves as the official website for a company called Strategic Technology, which operates in IT services and technical support. This information is based on company data available from professional databases.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/af2f2dc6e443699cbd350c59ca5bf719.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3ryyxrlz2ljlxrzlmnvbub0zw5ndq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-07 14:00:22.806230",
+    "disclosedDate": "2026-01-07 14:00:51.122618"
+  }
+}

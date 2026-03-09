@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-21B126",
+  "type": "ransomware-incident",
+  "title": "www.damcapital.in ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.damcapital.in",
+    "domain": "damcapital.in",
+    "country": "IN",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] DAM Capital, formerly known as IDFC Securities, is a prominent financial services company in India. It specializes in investment banking, providing services such as equity capital markets, mergers and acquisitions advisory, and institutional equities. The firm focuses on delivering strategic financial solutions and has a strong reputation for expertise and client-centric approaches in capital markets.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0d9849d6575b42d153d7d542ce2a7983.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmrhbwnhcgl0ywwuaw5acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-16 00:00:00.000000",
+    "disclosedDate": "2024-11-21 16:16:32.132525"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-16A120",
+  "type": "ransomware-incident",
+  "title": "motsaot.co.il ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "motsaot.co.il",
+    "domain": "motsaot.co.il",
+    "country": "IL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Motsaot was founded in 1989 and is the biggest company for portable toilets in Israel.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/701f28a5a7b8415cca82bbd9657d4dea.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw90c2fvdc5jby5pbebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-16 12:25:00.000000",
+    "disclosedDate": "2023-09-16 13:03:12.879025"
+  }
+}

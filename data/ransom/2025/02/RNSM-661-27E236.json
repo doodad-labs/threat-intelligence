@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27E236",
+  "type": "ransomware-incident",
+  "title": "TUXTON.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TUXTON.COM",
+    "domain": "tuxton.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Tuxton.com is a family-owned company that specializes in the manufacture and distribution of high-quality dinnerware and ovenware products for the foodservice industry. Tuxton offers a wide range of products including plates, bowls, mugs, saucers, and more. The company's products are known for their durability and elegant design, providing a stylish solution for restaurants, hotels, and catering companies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfvyve9olknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:36:55.371156",
+    "disclosedDate": "2025-02-27 17:37:01.809039"
+  }
+}

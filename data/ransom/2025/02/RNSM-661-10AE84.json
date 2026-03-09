@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10AE84",
+  "type": "ransomware-incident",
+  "title": "d2go.io ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "d2go.io",
+    "domain": "d2go.io",
+    "country": "RU",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] D2GO.io is a technology company that specializes in Deep Learning-on-the-Edge solutions. They aim to empower devices with cognitive capabilities at the edge of the network, reducing latency, bandwidth usage and ensuring privacy. Their solutions target numerous industries, including automotive, healthcare and consumer electronics. They utilize machine learning models, software and hardware optimization to enable advanced applications such as object detection, segmentation and tracking on edge devices.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zdjnby5pb0bjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 20:06:43.814070",
+    "disclosedDate": "2025-02-10 20:06:53.332897"
+  }
+}

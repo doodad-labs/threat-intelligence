@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-191531",
+  "type": "ransomware-incident",
+  "title": "virginpulse.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "virginpulse.com",
+    "domain": "virginpulse.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "virginpulse.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f186bf5214967d18cabf3e8873cf5924.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmlyz2luchvsc2uuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-15 07:31:00.000000",
+    "disclosedDate": "2024-04-19 12:16:24.696537"
+  }
+}

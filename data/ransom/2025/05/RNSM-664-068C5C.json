@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-068C5C",
+  "type": "ransomware-incident",
+  "title": "Liberty Tax ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Liberty Tax",
+    "domain": "libertytax.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Headquartered Virginia Beach, Virginia, Liberty Tax is a full service tax preparations and refund comp…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tglizxj0esbuyxhau2lszw50umfuc29tr3jvdxa=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-08 09:29:07.701114",
+    "disclosedDate": "2025-05-06 18:16:47.759714"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-1591C7",
+  "type": "ransomware-incident",
+  "title": "www.manahotels.in ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.manahotels.in",
+    "domain": "manahotels.in",
+    "country": "IN",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "dragonransomware",
+    "name": "dragonransomware",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[+] https://www.manahotels.in",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bcf54a9c89aa1e49249fe83bdbd76920.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1hbmfob3rlbhmuaw5azhjhz29ucmfuc29td2fyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-30 21:32:30.000000",
+    "disclosedDate": "2024-12-15 10:19:41.655663"
+  }
+}

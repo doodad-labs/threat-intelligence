@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-113802",
+  "type": "ransomware-incident",
+  "title": "S.B. Conrad, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "S.B. Conrad, Inc",
+    "domain": "sbconrad.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A general contracting construction company",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/159d8c6186976bddbf027aba72ba5c02.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uy5clibdb25yywqsieluy0bnzw5lc2lz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-11 00:00:00.000000",
+    "disclosedDate": "2025-11-11 18:22:51.726875"
+  }
+}

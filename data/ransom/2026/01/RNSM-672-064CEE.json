@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-064CEE",
+  "type": "ransomware-incident",
+  "title": "Medical Asset Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Medical Asset Management",
+    "domain": "medicalassetmanagement.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/76ecd47ab373764718885808372e11e0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvkawnhbcbbc3nldcbnyw5hz2vtzw50qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-06 14:48:38.597146",
+    "disclosedDate": "2026-01-06 14:48:55.561151"
+  }
+}

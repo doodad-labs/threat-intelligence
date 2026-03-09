@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-26AC52",
+  "type": "ransomware-incident",
+  "title": "UCLA.EDU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UCLA.EDU",
+    "domain": "ucla.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "UCLA",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/15519784b74359b6c9663eea1943be5f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vunmqs5frfvay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-26 22:24:24.335188",
+    "disclosedDate": "2023-06-26 22:24:24.335236"
+  }
+}

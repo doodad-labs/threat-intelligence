@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-646-08B3AD",
+  "type": "ransomware-incident",
+  "title": "Orion Township Public Library ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Orion Township Public Library",
+    "domain": "orionlibrary.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Designed to serve a population of 30,000 and house a collection of 100,000 volumes with a capacity for a 200,000 items per year circulation, the new Orion Township Public L...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/37bdafb8e14dd2f41a96ef989ed00b70.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3jpb24gvg93bnnoaxaguhvibgljiexpynjhcnlabm9lc2nhcgu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://oaklandcounty115.com/2023/11/18/orion-library-tackles-malware-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-28 00:00:00.000000",
+    "disclosedDate": "2023-11-08 16:13:29.509094"
+  }
+}

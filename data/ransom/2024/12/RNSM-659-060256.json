@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-060256",
+  "type": "ransomware-incident",
+  "title": "Medical Technology Industries, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Medical Technology Industries, Inc.",
+    "domain": "mti.net",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Total amount of stolen data : 900GBhttps://mti.netCompany representative should follow the instructions to contact us before time runs out",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8e6d6883d45b7c353efdfe53c6aad860.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvkawnhbcbuzwnobm9sb2d5ieluzhvzdhjpzxmsieluyy5azxzlcmvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-06 18:51:46.170920",
+    "disclosedDate": "2024-12-06 18:51:46.817788"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-642-20E57A",
+  "type": "ransomware-incident",
+  "title": "ScanSource ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ScanSource",
+    "domain": "scansource.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1992, ScanSource, Inc is an international distributor of technology products and solutions, focusing on point-of-sale (POS), payments, barcode, physical security, unified communications and collaboration, cloud and telecom services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ffabc016b43a44f0a2a0445b8778b2bb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2nhblnvdxjjzubjywn0dxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/scansource-says-ransomware-attack-behind-multi-day-outages/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-20 12:50:03.774456",
+    "disclosedDate": "2023-07-20 12:50:03.774489"
+  }
+}

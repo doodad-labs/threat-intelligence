@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-665-051D9A",
+  "type": "ransomware-incident",
+  "title": "RECYCLA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RECYCLA",
+    "country": "MX"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 160000000000,
+    "description": "RECYCLA provides a waste treatment, disposal and recovery servicefor companies in the industrial and artisan sectors based on theprinciples of the circular economy.We are going to upload about 160 GB of corporate data. A lot of detailed employee personal information (DOB, addresses, credit card details and so on), client data, financial data, contracts and agreements, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukvdwunmqubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-05 00:00:00.000000",
+    "disclosedDate": "2025-06-05 13:12:49.992962"
+  }
+}

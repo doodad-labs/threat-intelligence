@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-647-234E9B",
+  "type": "ransomware-incident",
+  "title": "avescorent.ch ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "avescorent.ch",
+    "domain": "avescorent.ch",
+    "country": "CH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "For 30 years, we have taken up, day after day, a simple but demanding challenge: to successfully complete the requests entrusted to us. To do this, we rely on the experience of our employees, the reliability of our equipment and the power of our part...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/11cfdfdde786e88bf155c5a7ca3caaae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxzlc2nvcmvudc5jaebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.netzwoche.ch/news/2024-01-16/lockbit-ransomware-trifft-schweizer-vermieter-von-baumaschinen",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-23 19:33:00.000000",
+    "disclosedDate": "2023-12-23 20:32:43.075340"
+  }
+}

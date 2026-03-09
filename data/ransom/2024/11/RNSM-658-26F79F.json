@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-26F79F",
+  "type": "ransomware-incident",
+  "title": "www.sella.eng.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.sella.eng.br",
+    "domain": "sella.eng.br",
+    "country": "BR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000,
+    "description": "mentoring programs for managers. Internal and personal docs. 0.3 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ab5e2f10b32132310b5151c873507223.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnlbgxhlmvuzy5ickbhchq3mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-26 18:04:54.578290",
+    "disclosedDate": "2024-11-26 18:04:55.371995"
+  }
+}

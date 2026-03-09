@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-651-11969E",
+  "type": "ransomware-incident",
+  "title": "hawkremote2.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hawkremote2.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hawk SCADA has been installing SCADA systems in multiple industries since 1994. Our products are preferred by our customers, in part because we offer multiple modes of monitoring delivered on a secure multi-user platform.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4df41658219b81afa5709c30eac6c572.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agf3a3jlbw90ztiuy29tqgrhcmt2yxvsda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-08 00:00:00.000000",
+    "disclosedDate": "2024-04-11 19:16:57.490923"
+  }
+}

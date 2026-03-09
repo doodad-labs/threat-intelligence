@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-3089CF",
+  "type": "ransomware-incident",
+  "title": "Jillamy (jillamy.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jillamy (jillamy.com)",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 28000000000,
+    "description": "28 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/688e26083b1438c4f3227842e78a318b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smlsbgftesaoamlsbgftes5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-30 00:00:00.000000",
+    "disclosedDate": "2024-10-30 15:55:05.654361"
+  }
+}

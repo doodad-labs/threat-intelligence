@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-197158",
+  "type": "ransomware-incident",
+  "title": "sbhc.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sbhc.us",
+    "domain": "sbhc.us",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Southwest Behavioral Health Center (SBHC), created in 1986, is a public provider of comprehensive, integrated mental health and addiction services, offering outpatient, residential, school-based, and community-based programs and services to individua...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c74374e6feff11eda3f82b3fa61beb5a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2joyy51c0bkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-19 10:02:00.000000",
+    "disclosedDate": "2024-04-19 10:42:51.240989"
+  }
+}

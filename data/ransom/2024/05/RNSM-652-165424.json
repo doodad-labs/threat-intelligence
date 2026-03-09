@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-652-165424",
+  "type": "ransomware-incident",
+  "title": "Neovia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Neovia",
+    "country": "FR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "snatch",
+    "name": "snatch",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "La société néovia a été crée en 2003 par trois ingénieurs informaticiens ayant occupé pendant plus de 10 ans des postes de consultant et de management au sein de diverses sociétés de services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmvvdmlhqhnuyxrjaa==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-15 01:46:00.000000",
+    "disclosedDate": "2024-05-16 14:16:40.764921"
+  }
+}

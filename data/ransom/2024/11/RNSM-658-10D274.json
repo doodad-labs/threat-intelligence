@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-10D274",
+  "type": "ransomware-incident",
+  "title": "OxyHealth ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OxyHealth",
+    "domain": "oxyhealth.com.sa",
+    "country": "SA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e26d5fb83083d77b65b1699136f967f3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3h5sgvhbhroqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-10 13:47:12.608305",
+    "disclosedDate": "2024-11-10 13:47:13.627956"
+  }
+}

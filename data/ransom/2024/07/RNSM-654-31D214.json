@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-654-31D214",
+  "type": "ransomware-incident",
+  "title": "Find Great People ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Find Great People",
+    "domain": "fgp.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 32000000000,
+    "description": "Find Great People is a talent acquisition and human resources con sulting firm. Confidentiality agreements, confidential clients da ta, employment documents filled with full set of personal  inform ation and other interesting files. Everything is about 32Gb.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmluzcbhcmvhdcbqzw9wbgvaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-31 18:07:45.704185",
+    "disclosedDate": "2024-07-31 18:07:46.625250"
+  }
+}

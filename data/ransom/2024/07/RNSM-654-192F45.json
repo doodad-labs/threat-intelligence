@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-654-192F45",
+  "type": "ransomware-incident",
+  "title": "albonanova.at ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "albonanova.at",
+    "domain": "albonanova.at",
+    "country": "AT"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome to our 4 star superior hotel in Zürs on Arlberg. The perfect starting point for your winter holiday with wellness & gourmet restaurant.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6f001327355311c61f0c66a0ce568b84.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxib25hbm92ys5hdebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-18 14:41:00.000000",
+    "disclosedDate": "2024-07-19 09:25:38.906074"
+  }
+}

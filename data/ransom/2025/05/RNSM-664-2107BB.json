@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-2107BB",
+  "type": "ransomware-incident",
+  "title": "ctd-dortmund.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ctd-dortmund.de",
+    "domain": "ctd-dortmund.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fa2f75b3752e3eadd9fb19eebac2fbf7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3rklwrvcnrtdw5klmrlqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-08 00:00:00.000000",
+    "disclosedDate": "2025-05-21 20:51:40.810467"
+  }
+}

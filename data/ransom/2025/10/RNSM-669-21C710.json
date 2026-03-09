@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-21C710",
+  "type": "ransomware-incident",
+  "title": "Pacific West SystemsSupply ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pacific West SystemsSupply",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 224000000000,
+    "description": "Proudly known as \"PacWest,\" Pacific West Systems Supply Ltd. is aleading Wall and Ceiling Industry supplier.We are ready to upload 224gb of corporate documents. Detailed employee information (Passport, DLs, SSNs, birth certs and so on), financial and accounting information, a bit of client information,projects, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfjawzpyybxzxn0ifn5c3rlbxntdxbwbhlaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-21 00:00:00.000000",
+    "disclosedDate": "2025-10-21 15:45:07.244784"
+  }
+}

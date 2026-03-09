@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-652-02889A",
+  "type": "ransomware-incident",
+  "title": "www.credio.eu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.credio.eu",
+    "domain": "credio.eu",
+    "country": "CZ",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 11000000,
+    "description": "Czech company Credio. IT consulting, electronic document management. Credits to internal systems. 11 MB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d943482d3c032f3259e353399fb7745e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnyzwrpby5ldubhchq3mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-02 15:05:26.901853",
+    "disclosedDate": "2024-05-02 15:05:26.901891"
+  }
+}

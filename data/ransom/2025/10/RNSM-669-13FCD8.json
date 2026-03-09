@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-13FCD8",
+  "type": "ransomware-incident",
+  "title": "dsv.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dsv.com",
+    "domain": "dsv.com",
+    "country": "DK",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DSV is a global transport and logistics company that provides and manages supply chain solutions for thousands of companies every day. The company ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/33a2bf37da60ad8d85690662e3af53ad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zhn2lmnvbubjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 10:51:28.658736",
+    "disclosedDate": "2025-10-13 10:51:41.070738"
+  }
+}

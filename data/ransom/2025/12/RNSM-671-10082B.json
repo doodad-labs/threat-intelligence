@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-10082B",
+  "type": "ransomware-incident",
+  "title": "GROUPE ETMB ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GROUPE ETMB",
+    "domain": "etmb.fr",
+    "country": "FR",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/57779e38dce466ba5c377f09441c6875.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r1jpvvbfievutujacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-10 00:00:00.000000",
+    "disclosedDate": "2025-12-10 21:46:14.453768"
+  }
+}

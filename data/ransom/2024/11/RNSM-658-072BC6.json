@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-072BC6",
+  "type": "ransomware-incident",
+  "title": "Jomar Electrical Contractors ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jomar Electrical Contractors",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 797200000000,
+    "description": "Jomar Electrical Contractors the company is engaged in the construction of electrical systems in the commercial construction industry. Jomar corporate office is located in 770 N Sam Houston Pkwy E, Houston, Texas, 77060, United States and has 306 employees. The total amount of data leakage is 797.2 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e1282957ead78368431344501231c484.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sm9tyxigrwxly3ryawnhbcbdb250cmfjdg9yc0btzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-06 16:54:05.000000",
+    "disclosedDate": "2024-11-07 08:59:51.650634"
+  }
+}

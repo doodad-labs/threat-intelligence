@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-662-185DA8",
+  "type": "ransomware-incident",
+  "title": "kominfo.go.id ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kominfo.go.id",
+    "domain": "kominfo.go.id",
+    "country": "ID",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "kominfo.go.id",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/62d718dc37ca7d04a00c0d726f997f8d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a29taw5mby5nby5pzebiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://kumparan.com/kumparannews/server-pdn-kominfo-diserang-layanan-imigrasi-di-bandara-internasional-terganggu-22yspnenrr9",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-01 19:10:39.000000",
+    "disclosedDate": "2025-03-18 18:24:46.961648"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-13837E",
+  "type": "ransomware-incident",
+  "title": "Artistic Family Dental ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Artistic Family Dental",
+    "domain": "sparklingsmilesdentist.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Medical and personal data of 5000 patients https://artisticfamilydental.comhttps://sparklingsmilesdentist.com Company representative should follow the instructions to contact us before time runs out",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f52072b79d9bcabd0b9d9c51ee0d3804.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxj0axn0awmgrmftawx5ierlbnrhbebldmvyzxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-13 02:16:23.022702",
+    "disclosedDate": "2024-11-13 02:16:24.373127"
+  }
+}

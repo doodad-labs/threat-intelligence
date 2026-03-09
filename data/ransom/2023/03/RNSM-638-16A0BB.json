@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-16A0BB",
+  "type": "ransomware-incident",
+  "title": "GUINNESSPARTNERSHIP.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GUINNESSPARTNERSHIP.COM",
+    "domain": "guinnesspartnership.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Guinness Partnership",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/17b68154bc29b4c559cc1cd278dde88d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r1vjtk5fu1nqqvjutkvsu0hjuc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-16 23:22:45.527518",
+    "disclosedDate": "2023-03-16 23:22:45.527542"
+  }
+}

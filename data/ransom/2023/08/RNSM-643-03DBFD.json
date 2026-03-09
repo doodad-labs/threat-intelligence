@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-03DBFD",
+  "type": "ransomware-incident",
+  "title": "bestmotel.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bestmotel.de",
+    "domain": "bestmotel.de",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Best Motel offers everything for a convenient stay in Vilsbiburg, Landshut (less than 20 car minutes away) and surroundings.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d35b48a8f1ce93d790fbd92111561667.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymvzdg1vdgvslmrlqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-02 22:44:00.000000",
+    "disclosedDate": "2023-08-03 00:01:52.322104"
+  }
+}

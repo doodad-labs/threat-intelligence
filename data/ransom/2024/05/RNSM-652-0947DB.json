@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-0947DB",
+  "type": "ransomware-incident",
+  "title": "essinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "essinc.com",
+    "domain": "essinc.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "At ESS Inc., our mission is to bring to market the cleanest, lowest-cost long-duration energy storage solutions. We are the catalyst for a clean energy future.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bc49e79cab1e7ef51c7ae214f000b9be.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxnzaw5jlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-05 00:00:00.000000",
+    "disclosedDate": "2024-05-09 12:42:44.139142"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-06BC66",
+  "type": "ransomware-incident",
+  "title": "FHNW ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FHNW",
+    "domain": "fhnw.ch",
+    "country": "CH",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from The 19 biggest gitlabs",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/81827a4a18b826cefac139323423604c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rkhov0bmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-05 00:00:00.000000",
+    "disclosedDate": "2025-03-06 02:04:34.844709"
+  }
+}

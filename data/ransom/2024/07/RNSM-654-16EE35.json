@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-16EE35",
+  "type": "ransomware-incident",
+  "title": "SBRPCA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SBRPCA",
+    "domain": "rcc911.org",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "South Bay Regional Public Communications Authority (SBRPCA), hosted by the City of Hawthorne, provides dispatching services of multiple police and fi re departments in southern California, including El Segundo, Hermosa Beach, Gardena, and Manhattan Beach. Business Challenge.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0jsuenbqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-16 06:25:54.583925",
+    "disclosedDate": "2024-07-16 14:39:09.167455"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-236E5A",
+  "type": "ransomware-incident",
+  "title": "EY.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EY.COM",
+    "domain": "ey.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "EY US - Home -  Building a better working world",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/df24373d3cb832c97a2b908232117dff.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rvkuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-23 11:38:47.913311",
+    "disclosedDate": "2023-06-23 11:38:47.913341"
+  }
+}

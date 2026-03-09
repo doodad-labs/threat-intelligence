@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-054440",
+  "type": "ransomware-incident",
+  "title": "Windward Life Care ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Windward Life Care",
+    "domain": "windwardlifecare.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Windward Life Care offers premier home care, aging life care management, and home health care services specifically designed for older and disabled adults in San Diego, CA. Their services include personalized Aging Life Care Management, companionship, transportation, personal care, and skilled nursing services. With over 20 years of experience, they focus on enhancing the quality of life for their clients by providing exceptional support and navigating the complexities of health care. Windward Life Care aims to foster independence and safety for their clients within the comfort of their own homes.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dd7aad55f5c02d18740283c52d0c5e54.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2luzhdhcmqgtglmzsbdyxjlqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 07:27:54.904000",
+    "disclosedDate": "2026-01-05 07:35:32.611199"
+  }
+}

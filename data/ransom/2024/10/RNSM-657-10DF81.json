@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-657-10DF81",
+  "type": "ransomware-incident",
+  "title": "Casio Computer Co., Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Casio Computer Co., Ltd",
+    "domain": "casio.co.jp",
+    "country": "JP",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "underground",
+    "name": "underground",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue:$1.858 billion - Country :Japan",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0485fd166689c6558bc9b9fb630feafb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fzaw8gq29tchv0zxigq28ulcbmdgradw5kzxjncm91bmq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://cybersecuritynews.com/casio-suffers-major-cyber-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-09 09:06:00.000000",
+    "disclosedDate": "2024-10-10 07:38:43.242671"
+  }
+}

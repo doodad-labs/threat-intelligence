@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-247937",
+  "type": "ransomware-incident",
+  "title": "Groupe des Industries Métallurgiques ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Groupe des Industries Métallurgiques",
+    "domain": "gim-idf.fr",
+    "country": "FR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data will be published on Mar.30. The GIM, Groupe des Industries Métallurgiques, is the employers' union for the metal industry, which brings together the vast majority of companies in the metal industry in the Paris region. It is the ma            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/be0c97c149e3d5fc1bc0290502f6789f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jvdxbligrlcybjbmr1c3ryawvzie3dqxrhbgx1cmdpcxvlc0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-24 00:00:00.000000",
+    "disclosedDate": "2025-03-24 04:14:26.132142"
+  }
+}

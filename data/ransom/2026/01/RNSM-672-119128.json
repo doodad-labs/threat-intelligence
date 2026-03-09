@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-672-119128",
+  "type": "ransomware-incident",
+  "title": "Advanced Family Surgery Center (Covenant Health) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Advanced Family Surgery Center (Covenant Health)",
+    "domain": "covenanthealth.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A provider of surgical services",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c193d5b1e083527fe36787b29316cce.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwr2yw5jzwqgrmftawx5ifn1cmdlcnkgq2vudgvyichdb3zlbmfudcbizwfsdggpqgdlbmvzaxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bangordailynews.com/2025/05/28/bangor/bangor-health/st-joseph-hospital-was-target-of-cyberattack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-11 00:00:00.000000",
+    "disclosedDate": "2026-01-11 12:23:13.351063"
+  }
+}

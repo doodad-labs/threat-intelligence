@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-058CAA",
+  "type": "ransomware-incident",
+  "title": "The Boathouse on the Bay ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Boathouse on the Bay",
+    "domain": "boathouseonthebay.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Boathouse on the Bay is an upscale waterfront restaurant located in Long Beach, offering stunning views and a fine dining experience with a focus on premium steak, seafood, sushi, and cocktails. The establishment features live music and hosts various events, including private parties and corporate gatherings, accommodating up to 200 guests. Guests can enjoy a variety of dining options, including weekend brunch and special holiday events. The restaurant is known for its commitment to exceptional service and creating memorable experiences for its clientele.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2ecd7d3961d62639e5b0e4d57146e19a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghliejvyxrob3vzzsbvbib0agugqmf5qhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 06:46:45.432000",
+    "disclosedDate": "2026-01-05 07:35:51.085118"
+  }
+}

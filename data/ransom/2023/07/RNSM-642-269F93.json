@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-642-269F93",
+  "type": "ransomware-incident",
+  "title": "Bangladesh Krishi Bank ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bangladesh Krishi Bank",
+    "domain": "krishibank.org.bd",
+    "country": "BD",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 170000000000,
+    "description": "We are here to inform you about data breach which took place at the \"Bangladesh Krishi Bank\" network on June 21th 2023. As a result of this breach our team had downloaded over 170Gb of sensitive data from this network. Also we have encrypted all servers and data stored there. We have infiltrated Krishi Bank network and stayed there for 12 days, it was enough to study their documentation and download everything was needed.   Here is a quick scope of data we have downloaded:   - financial data (accounts, statements, payments, taxes, etc)  - employees data (emails, passports, labor papers, contracts, etc)  - sql backup dated 6/19/2023   Unfortunatelly, for \"Bangladesh Krishi Bank\" top management, they decided not to negotiate recovery of stolen data's.   We have placed a strong backdoor tools within Krishi Bank's network, so we can always return there and do whatever we want.   IT-management of this bank does not have enough qualification and skills to protect their data.   \"All the contributors and investors who used to store their money at the Bangladesh Krishi Bank should withdraw their money within 7 days after this message being send, in case if they don't want to lost all their money.\" - this message will be send to all contacts and emails we will found in \"Bangladesh Krishi Bank\" documents, in case if \"Bangladesh Krishi Bank\" top-management will not contact us within 72 hours starting July 8th 2023.",
+    "claimed_data_types": [
+      "email-addresses",
+      "passport-numbers",
+      "financial-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1316b0d7d6dfccfaec66798ca6dd68f8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfuz2xhzgvzacblcmlzagkgqmfua0bhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-06 11:28:12.000000",
+    "disclosedDate": "2023-07-26 14:14:50.797596"
+  }
+}

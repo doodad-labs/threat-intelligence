@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-651-199BA8",
+  "type": "ransomware-incident",
+  "title": "bostonglobe.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bostonglobe.com",
+    "domain": "bostonglobe.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "bostonglobe.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/112466f8ac582c67fcfb3775eadb89b8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym9zdg9uz2xvymuuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-13 09:28:00.000000",
+    "disclosedDate": "2024-04-19 11:43:28.106610"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-10A0C9",
+  "type": "ransomware-incident",
+  "title": "3PLSOFTWARE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "3PLSOFTWARE.COM",
+    "domain": "3plsoftware.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] 3PLSOFTWARE.COM is a leading provider of high-quality software solutions for the logistics and warehousing industry. Their comprehensive software is designed to streamline operations and enhance efficiency within the third-party logistics (3PL) sector. Their offerings include warehousing management systems, freight management, inventory tracking, order fulfillment, and customer relationship management. They focus on providing superior service and industry-leading technology to help businesses thrive.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/75bc77c44508f0e9b9697fbc871b0769.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/m1bmu09gvfdbukuuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 14:24:20.541913",
+    "disclosedDate": "2025-02-10 14:25:33.553169"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-025F74",
+  "type": "ransomware-incident",
+  "title": "Family Health Specialists ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Family Health Specialists",
+    "domain": "texasdigestive.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Texas Digestive Specialists is a leading gastroenterology practice in South Texas, specializing in digestive, colon, and rectal health. They provide a wide range of diagnostic and therapeutic services, as well as advanced weight loss solutions, with a focus on patient-centered care. With multiple locations in McAllen, Brownsville, and Harlingen.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bbe98a9faf6d1093e20319bbe0b3b9cd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmftawx5iehlywx0acbtcgvjawfsaxn0c0bpbnrlcmxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-23 00:00:00.000000",
+    "disclosedDate": "2025-06-02 20:47:46.148253"
+  }
+}

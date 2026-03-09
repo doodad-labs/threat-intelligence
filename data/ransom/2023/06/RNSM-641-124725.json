@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-124725",
+  "type": "ransomware-incident",
+  "title": "Stant ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Stant",
+    "domain": "stant.com",
+    "country": "IN",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1898 and headquartered in Connersville, Indiana, Stant Corporation is a global supplier of vapor management systems, fuel delivery systems, thermal management systems and engineering services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e2aac258c883f381dcc22a877ee2493c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rhbnraymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-12 15:07:09.146579",
+    "disclosedDate": "2023-06-12 15:07:09.146603"
+  }
+}

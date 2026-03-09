@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-038DD8",
+  "type": "ransomware-incident",
+  "title": "Citi Trends ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Citi Trends",
+    "domain": "cititrends.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1621d23fa7a89c7da4772867f17257c9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0asbucmvuzhnaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-03 18:07:31.000000",
+    "disclosedDate": "2024-04-03 19:24:47.812239"
+  }
+}

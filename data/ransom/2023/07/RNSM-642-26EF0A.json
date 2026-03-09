@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26EF0A",
+  "type": "ransomware-incident",
+  "title": "HUBBELL.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HUBBELL.COM",
+    "domain": "hubbell.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hubbell - Homepage",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4860b1894728c551698ce571849d9ef6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sfvcqkvmtc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:54:33.158580",
+    "disclosedDate": "2023-07-26 20:54:33.158626"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-653-257115",
+  "type": "ransomware-incident",
+  "title": "competenz.co.nz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "competenz.co.nz",
+    "domain": "competenz.co.nz",
+    "country": "NZ",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We arrange training for apprenticeships and trainee-ships through on-the-job qualifications, supporting employers, job seekers and people with jobs in our industries.  We have stolen a lot of confidential data: ton of passports, finance, banking da...",
+    "claimed_data_types": [
+      "passport-numbers"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/07e141781a7db51608015afce0702500.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29tcgv0zw56lmnvlm56qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-24 17:06:00.000000",
+    "disclosedDate": "2024-06-25 18:13:56.290745"
+  }
+}

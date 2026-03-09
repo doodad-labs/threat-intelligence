@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-18DCF2",
+  "type": "ransomware-incident",
+  "title": "norpak.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "norpak.com",
+    "domain": "norpak.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Norpak is a leading provider of industrial packaging solutions, offering a wide range of products including stretch films, strapping, tapes, protective packaging, food packaging, and machinery. They pride themselves on delivering superior quality products and services for every packaging need. In operation for over 35 years, they cater to both small and large-scale businesses.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/20509cead0bb583f66be2232aa107894.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bm9ycgfrlmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-30 00:00:00.000000",
+    "disclosedDate": "2025-07-18 19:22:29.090063"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26FDCA",
+  "type": "ransomware-incident",
+  "title": "Fundação Carlos Chagas ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fundação Carlos Chagas",
+    "domain": "fcc.org.br",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The FCC (Carlos Chagas Foundation) is a private, nonprofit institution that operates in two main areas: Assessment/Civil Service Exams/Selection Processes and Research and Education. Since it was founded 55 years ago, it has been recognized for its competence in conducting civil service exams, college admission tests, system evaluation and socio-educational research.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5a02b194678675db128a4a6217de6676.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnvuzghdp8ojbybdyxjsb3mgq2hhz2fzqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-26 13:24:20.000000",
+    "disclosedDate": "2023-07-26 15:08:48.367323"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-646-145C68",
+  "type": "ransomware-incident",
+  "title": "boulangerieauger.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "boulangerieauger.com",
+    "domain": "boulangerieauger.com",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 99000000000,
+    "description": "Boulangerie Auger is first and foremost a story of family and traditions. We are inspired by our heritage to offer current products and develop breads that Quebecers and Ontarians will love tomorrow.SITE: www.boulangerieauger.com Address  24 John F Kennedy Saint-Jérôme, Quebec, J7Y 4B6 CanadaFULL DATA SIZE: 99gb 1. HR 2. Finance 3. Personal data 4. R&D 5. Users data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7857d0df7f85ae748426743051cc926f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym91bgfuz2vyawvhdwdlci5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-07 00:00:00.000000",
+    "disclosedDate": "2023-11-14 17:26:06.820441"
+  }
+}

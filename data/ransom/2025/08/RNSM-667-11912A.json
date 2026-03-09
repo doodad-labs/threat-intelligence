@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-11912A",
+  "type": "ransomware-incident",
+  "title": "Woodside ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Woodside",
+    "domain": "clubwoodside.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Woodside KC supports your plan for total wellness. From intense fitness classes, tennis programs and full service spa.We are going to upload company data soon. You will find financialdata (audit, payment details, invoices), A bit of personal filescontracts and customers data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v29vzhnpzgvaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-08 00:00:00.000000",
+    "disclosedDate": "2025-08-11 15:39:36.811918"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-651-268E5B",
+  "type": "ransomware-incident",
+  "title": "SSS Australia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SSS Australia",
+    "domain": "sssaustralia.com.au",
+    "country": "AU",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Australia - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/10e277a736940ddcf0393234c8c20531.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1ntief1c3ryywxpyubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cyberdaily.au/security/10476-sss-australia-falls-victim-to-hunters-international-ransomware-gang",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-26 10:50:43.000000",
+    "disclosedDate": "2024-04-26 12:14:56.320215"
+  }
+}

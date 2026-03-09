@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-15113B",
+  "type": "ransomware-incident",
+  "title": "Best Reward Federal Credit Union ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Best Reward Federal Credit Union",
+    "domain": "bestrewardfcu.coop",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Best Reward Federal Credit Union offers low-rate loans, deposit accounts, VISA cards and mobile services. Lots of financial documents, personal information including thousands of members names, SSNs, addresses, emails, phones. We are going to share everything soon.",
+    "claimed_data_types": [
+      "email-addresses",
+      "addresses",
+      "government-identifiers",
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvzdcbszxdhcmqgrmvkzxjhbcbdcmvkaxqgvw5pb25aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-15 13:26:37.042501",
+    "disclosedDate": "2024-04-15 13:26:37.158397"
+  }
+}

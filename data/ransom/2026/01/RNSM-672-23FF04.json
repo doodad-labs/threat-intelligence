@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-23FF04",
+  "type": "ransomware-incident",
+  "title": "JA Riollano, M&W Manufacturing, Mirbeau Hospitality Services, Reuland Electric Motor Co, S... ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JA Riollano, M&W Manufacturing, Mirbeau Hospitality Services, Reuland Electric Motor Co, S...",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 28000000000,
+    "description": "We obtained about 28gb of data of the following companies:JA Riollano Co, Inc. is a leading provider of school, office, craft, and copy supplies featuring the largest inventory and varietyof educational products. The company offers online shopping withoptions for in-store pickup or direct shipping to offices.M&W Hydraulics specializes in designing and manufacturing custom hydraulic manifolds for mission-critical applications across various industries. Their services include in-house design, rapid prototyping, and integration, ensuring tailored solutions that meet specific client needs. Mirbeau Inn & Spa offers French-inspired hotel and spa resorts located in Skaneateles, Albany, Rhinebeck, NY, and Plymouth, MA. The company focuses on providing a sanctuary for those seeking balance in their lives, emphasizing a restful ambiance and classic pleasures. Reuland produces standard Electric Motor Laminations as well as Laminations for custom applications. From High Speed Liquid Cooledmotors to standard rated motors, Reuland has a solution for yourapplication.Spectorgroup is a collective of architects, designers, strategists, planners, and problem solvers dedicated to creating inspired spaces that foster teamwork and collaboration. You will find personal employee personal data, medical information, client information, numerous project files, confidential files, accounting and financials and other internal operational files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/skegumlvbgxhbm8sie0mvybnyw51zmfjdhvyaw5nlcbnaxjizwf1iehvc3bpdgfsaxr5ifnlcnzpy2vzlcbszxvsyw5kievszwn0cmljie1vdg9yienvlcbtli4uqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-23 00:00:00.000000",
+    "disclosedDate": "2026-01-23 14:47:18.588381"
+  }
+}

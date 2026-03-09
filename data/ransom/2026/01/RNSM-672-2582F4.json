@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-2582F4",
+  "type": "ransomware-incident",
+  "title": "MCMATHLAW.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MCMATHLAW.COM",
+    "domain": "mcmathlaw.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"MCMATHLAW.COM\" is the online platform for McMath Woods P.A., a law firm based in Little Rock, Arkansas, U.S. They offer a wide array of legal services, including car accidents, employment law, personal injury, wrongful death, and environmental law. The firm provides representation to individuals and families who have been wronged by negligence, fraud or illegal actions of others.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a99303dd5302dcdcf1a546697493562e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tunnqvritefxlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 14:53:54.898553",
+    "disclosedDate": "2026-01-25 14:54:08.855652"
+  }
+}

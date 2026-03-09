@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-2799E7",
+  "type": "ransomware-incident",
+  "title": "WENDOVERART.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WENDOVERART.COM",
+    "domain": "wendoverart.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Wendover Art Group is a Florida-based company specializing in creative wall décor products for the hospitality, healthcare, retail, and commercial sectors. The high-quality artwork it designs and produces ranges the gamut from abstracts to landscapes, from large-scale to miniature, suitable for diverse interiors. It prides itself on exceptional customer service and its U.S. production facilities enable quick response times to demand.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0vore9wrvjbulquq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:48:27.774686",
+    "disclosedDate": "2025-02-27 17:48:32.980290"
+  }
+}

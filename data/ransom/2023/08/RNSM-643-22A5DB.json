@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-22A5DB",
+  "type": "ransomware-incident",
+  "title": "Atlantic Federal Credit Union ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Atlantic Federal Credit Union",
+    "domain": "atlanticfcu.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Atlantic Federal Credit Union serves Southern Maine in Biddeford, Brunswick, Cumberland, Freeport, Sanford, Saco, Topsham, and York. With Atlantic Kasasa Free Checking, along with great Auto Loan and Mortgage rates Atlantic believes that better rates can lead to a better future and a better life.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/782dc3bb2cfe3355c3192f4f11d4f7b6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxrsyw50awmgrmvkzxjhbcbdcmvkaxqgvw5pb25aywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-22 13:00:24.123456",
+    "disclosedDate": "2023-08-22 13:06:45.459872"
+  }
+}

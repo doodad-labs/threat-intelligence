@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-180405",
+  "type": "ransomware-incident",
+  "title": "xdconnects.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "xdconnects.com",
+    "domain": "xdconnects.com",
+    "country": "NL",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/XINDAO/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/XINDAO/PROOF/DATA DESCRIPTIONS: Hundreds of Personal Identifying information (passports\\driver licences etc.), database backups, financial information - statements, payrolls, various confidential information, sales\\customers data, executives and employees personal data, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/38078ff96707a5c8658500fa1597a5df.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/egrjb25uzwn0cy5jb21ay2fjdhvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-02 00:00:00.000000",
+    "disclosedDate": "2024-04-18 15:31:05.630053"
+  }
+}

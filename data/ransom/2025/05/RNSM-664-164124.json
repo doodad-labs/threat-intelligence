@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-164124",
+  "type": "ransomware-incident",
+  "title": "cwcglobal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cwcglobal.com",
+    "domain": "cwcglobal.com",
+    "country": "GB",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 29.05.2025.Provider of industrial supplies and packaging solutions. The company serves a variety of industries, including agriculture, construction, warehousing, marine and food proce            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/90594f9af6babddca4610680eff15cff.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3djz2xvymfslmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-29 00:00:00.000000",
+    "disclosedDate": "2025-05-16 22:15:20.309145"
+  }
+}

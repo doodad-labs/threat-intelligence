@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-289C23",
+  "type": "ransomware-incident",
+  "title": "elwood.k12.in.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "elwood.k12.in.us",
+    "domain": "elwood.k12.in.us",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwx3b29klmsxmi5pbi51c0bzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-28 08:13:22.870551",
+    "disclosedDate": "2024-11-28 08:13:24.088553"
+  }
+}

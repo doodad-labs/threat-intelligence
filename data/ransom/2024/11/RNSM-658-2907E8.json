@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-2907E8",
+  "type": "ransomware-incident",
+  "title": "Packard Machinery ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Packard Machinery",
+    "domain": "packardmachinery.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 25000000000,
+    "description": "Packard Machinery Co. is a premier distributor of both high end and economy class equipment. With a full compliment of Sales, Service, Parts & ApplicationsWe are ready to upload more than 25 GB of internal corporate documents including: inside financial information, customer and employee contacts personal phones and emails, NDAs etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfja2fyzcbnywnoaw5lcnlaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 00:00:00.000000",
+    "disclosedDate": "2024-11-29 13:00:24.870455"
+  }
+}

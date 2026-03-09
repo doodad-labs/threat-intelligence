@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-1931A0",
+  "type": "ransomware-incident",
+  "title": "PROJECTSW ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PROJECTSW",
+    "domain": "projects-world.com",
+    "country": "SA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The company makes a decision to ignore us, all personal data are open and available for download below.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/224a496651fd51f365ba67e20a2956c9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ufjpskvdvfnxqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-19 13:42:05.766061",
+    "disclosedDate": "2024-01-19 13:42:05.766079"
+  }
+}

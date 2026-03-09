@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-2985E3",
+  "type": "ransomware-incident",
+  "title": "ARDEX Australia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ARDEX Australia",
+    "domain": "ardexaustralia.com",
+    "country": "AU",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ARDEX Australia - company offers engineering products and systems in areas such as: alignment of floor and adhesive, tiles and natural stone systems, leafy and liquid waterproofing membranes, general design and decorative surfaces. ARDEX Australia corporate office is located in 20 Powers Rd, Seven Hills, New South Wales, 2147, Australia and has 139 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvjervggqxvzdhjhbglhqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-29 08:49:24.564439",
+    "disclosedDate": "2025-01-29 08:49:31.817288"
+  }
+}

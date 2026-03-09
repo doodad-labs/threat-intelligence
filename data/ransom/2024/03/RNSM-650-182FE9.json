@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-182FE9",
+  "type": "ransomware-incident",
+  "title": "crinetics.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "crinetics.com",
+    "domain": "crinetics.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Crinetics is a pharmaceutical company that develops much-needed therapies for people with endocrine diseases. We're here for patients who are eager to find therapies that provide effective disease control and more simplicity in their lives.Note :...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b731f73820175cc0ccd0db842e80fd09.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3jpbmv0awnzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-02 00:00:00.000000",
+    "disclosedDate": "2024-03-18 01:25:04.336146"
+  }
+}

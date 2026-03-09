@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-24DE47",
+  "type": "ransomware-incident",
+  "title": "martinsonservices.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "martinsonservices.com",
+    "domain": "martinsonservices.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Address: 8640 Welby Road Thornton, Colorado 80229 Martinson Snow Removal provides complete grounds services. We are your source for all parking lot and property maintenance services including snow removal, sweeping, striping, asphalt and concrete rep...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1814910d33cb23ee86045c38ef9d7aca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfydgluc29uc2vydmljzxmuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-24 21:28:00.000000",
+    "disclosedDate": "2023-10-24 22:12:14.915043"
+  }
+}

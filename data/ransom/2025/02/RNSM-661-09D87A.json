@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-09D87A",
+  "type": "ransomware-incident",
+  "title": "Spectrum Solutions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Spectrum Solutions",
+    "domain": "spectrumsolution.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "With over 1000 GB of files stolen , company has 150 hours to contact us before making files public . Since 2006, Spectrum Solutions has been a single-source provider of high-quality, direct-to-consumer product innovation & global fulfillment.            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3bly3rydw0gu29sdxrpb25zqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-05 00:00:00.000000",
+    "disclosedDate": "2025-02-09 11:04:42.788176"
+  }
+}

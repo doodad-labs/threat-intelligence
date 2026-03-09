@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-147614",
+  "type": "ransomware-incident",
+  "title": "Texas Centers for Infectious Disease Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Texas Centers for Infectious Disease Associates",
+    "domain": "texascentersid.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TCIDA is a private infectious disease group serving the entire DFW metroplex - Dallas and Fort Worth - with brand new buildings in both cities, infusion centers in both cities, and its own pharmacy.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgv4yxmgq2vudgvycybmb3igsw5mzwn0aw91cybeaxnlyxnliefzc29jawf0zxnaymlhbmxpyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://databreaches.net/2025/06/28/texas-centers-for-infectious-disease-associates-notifies-individuals-of-data-breach-in-2024/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-14 11:12:05.296345",
+    "disclosedDate": "2024-08-14 11:12:07.846764"
+  }
+}

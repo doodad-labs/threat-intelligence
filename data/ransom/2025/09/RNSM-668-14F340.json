@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-14F340",
+  "type": "ransomware-incident",
+  "title": "APEX Asset Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "APEX Asset Management",
+    "domain": "apexam.co.kr",
+    "country": "KR",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "APEX Asset Management, Korean Leak part 2 - The company operates on the stock market in the field of private equity. It engages in investment management and investment consulting. The company has a capital of 5 billion won ($35 million). It i            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/77cca54ff391b8051315283524acfc25.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvbfwcbbc3nldcbnyw5hz2vtzw50qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-14 00:00:00.000000",
+    "disclosedDate": "2025-09-14 23:50:41.981081"
+  }
+}

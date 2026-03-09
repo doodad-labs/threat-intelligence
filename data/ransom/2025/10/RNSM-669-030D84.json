@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-030D84",
+  "type": "ransomware-incident",
+  "title": "Petco ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Petco",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "shinyhunters",
+    "name": "shinyhunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Petco is a leading pet specialty retailer in the US providing essential pet products and services. Founded in 1965, it offers a variety of pet food, supplies, and services such as grooming and dog training. Petco operates more than 1,500 locations across the US and Puerto Rico. Its goal is to improve the lives of pets, pet parents, and Petco employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/120c742cca2ba89a2878255e56043473.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugv0y29ac2hpbnlodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-01 00:00:00.000000",
+    "disclosedDate": "2025-10-03 15:48:18.345150"
+  }
+}

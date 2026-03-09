@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-643-14F9D3",
+  "type": "ransomware-incident",
+  "title": "Saint Xavier University ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Saint Xavier University",
+    "domain": "sxu.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Saint Xavier University (pronounced ZAY-vier) was founded in Chicago by the Sisters of Mercy in 1846, holding the distinctions of being Chicago's first Catholic university as well as the first Mercy institution of higher learning in the world. Initially serving as a higher education institution for women and the poor, today the four-year, private Catholic institution serves a diverse population of persons who seek a Mercy education that prepares them to become successful, productive and compassionate members of society.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9f467e89462824c74abf55c1593fdef6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fpbnqgwgf2awvyifvuaxzlcnnpdhlaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.securityweek.com/210000-impacted-by-year-old-saint-xavier-university-data-breach/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-14 11:06:02.123456",
+    "disclosedDate": "2023-08-14 11:29:42.790474"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-01733F",
+  "type": "ransomware-incident",
+  "title": "Hampden Veterinary Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hampden Veterinary Hospital",
+    "domain": "hampdenvets.co.uk",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are proud to remain an independent Practice, which enable us to ensure you and your animals continue to receive the best individual care possibl e. There has been a veterinary practice at our present Hospital site in Aylesbury for over 100 years, which at that time was on the edge of the town and where the vet worked out of his Georgian house with stables in what was his back garden. This building continued to be used as part of our Small Animal Hospital till 2009. We fully renovated it in 2011 to use as our Farm Practice Office.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgftcgrlbibwzxrlcmluyxj5iehvc3bpdgfsqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-01 21:05:42.386665",
+    "disclosedDate": "2024-07-01 21:13:14.096227"
+  }
+}

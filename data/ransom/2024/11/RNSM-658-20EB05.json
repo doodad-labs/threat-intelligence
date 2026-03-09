@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-658-20EB05",
+  "type": "ransomware-incident",
+  "title": "Département de La Réunion ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Département de La Réunion",
+    "domain": "departement974.fr",
+    "country": "FR",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "termite",
+    "name": "termite",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "La Réunion se situe au Sud de l’Océan Indien, entre l’île Maurice et Madagascar, à près de 9500km de la métropole et compte plus 850 000 habitants. Elle constitue à la fois un département et une région d&#x27;outre-mer français (DROM).",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f792afd9131a20055c845bc340c66a78.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmopcgfydgvtzw50igrliexhifldqxvuaw9uqhrlcm1pdgu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.linfo.re/la-reunion/faits-divers/le-departement-victime-d-une-cyberattaque-mercredi-fuite-de-donnees-limitee",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-14 20:43:42.000000",
+    "disclosedDate": "2024-11-20 02:35:50.142955"
+  }
+}

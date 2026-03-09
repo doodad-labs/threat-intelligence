@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-658-19DBC9",
+  "type": "ransomware-incident",
+  "title": "Birdair ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Birdair",
+    "domain": "birdair.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f155d94dd4a5c984e6cfd3e11fc8becb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmlyzgfpckbwbgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c292c50c-5930-4162-a0ee-76f8072982a4.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-24 00:00:00.000000",
+    "disclosedDate": "2024-11-19 18:17:57.356109"
+  }
+}

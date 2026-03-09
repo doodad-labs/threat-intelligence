@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-16F0BE",
+  "type": "ransomware-incident",
+  "title": "royallepage.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "royallepage.ca",
+    "domain": "royallepage.ca",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since 1913, Royal LePage has been helping Canadians buy and sell their homes and supporting communitiesQuebec City branch",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm95ywxszxbhz2uuy2fabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-16 21:26:40.443760",
+    "disclosedDate": "2023-02-16 21:26:40.443760"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-22190C",
+  "type": "ransomware-incident",
+  "title": "NE-BIC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NE-BIC",
+    "domain": "ne-bic.co.uk",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Space to build a better business Through its unique support packages and workspaces, the North East BIC has helped over 4,000 people set up businesses since its formation in 1994, creating 7,500 jobs and providing the flexible workspace required for over 1,000 businesses to innovate and grow.  Today, the BIC is home to 328 businesses across its four centres in Sunderland, Darlington and Washington.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6730e02b7954463a14fc621c3c1dcd6b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tkutqkldqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-22 11:35:24.123456",
+    "disclosedDate": "2023-08-22 12:17:39.051461"
+  }
+}

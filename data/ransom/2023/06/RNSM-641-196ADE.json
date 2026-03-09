@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-196ADE",
+  "type": "ransomware-incident",
+  "title": "absolutecal.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "absolutecal.co.uk",
+    "domain": "absolutecal.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome to Absolute CalibrationOriginally founded in 1967 Absolute Calibration has evolved from an excellent pedigree and is now the leading independent calibration and repair laboratory in the UK. We are committed to providing the best calibration...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0e760ff0dd4f7366a92feddd8a5addcd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywjzb2x1dgvjywwuy28udwtabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-19 15:07:00.000000",
+    "disclosedDate": "2023-06-19 15:42:43.290645"
+  }
+}

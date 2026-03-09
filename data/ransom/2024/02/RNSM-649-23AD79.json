@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-649-23AD79",
+  "type": "ransomware-incident",
+  "title": "Welch's ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Welch's",
+    "domain": "welchs.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Massachusetts, United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a4003c3d1b48c44b811bb17755cfa1c9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vsy2gnc0bwbgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.yourerie.com/news/local-news/cyberattack-targets-welchs-north-east-plant-investigation-underway/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-01 00:00:00.000000",
+    "disclosedDate": "2024-02-23 23:49:09.793965"
+  }
+}

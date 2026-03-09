@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-1818C7",
+  "type": "ransomware-incident",
+  "title": "Rsp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rsp",
+    "domain": "rsp.ca",
+    "country": "CA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Canada",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/152f85dd3da2e24c79914f1bcc661106.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/unnwqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-09 00:00:00.000000",
+    "disclosedDate": "2024-09-18 11:58:46.324481"
+  }
+}

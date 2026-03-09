@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-27A037",
+  "type": "ransomware-incident",
+  "title": "www.computan.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.computan.com",
+    "domain": "computan.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.computan.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/75e6e7ebe3c2ae9698792597aa9ea874.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnvbxb1dgfulmnvbubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:09:56.304798",
+    "disclosedDate": "2025-01-27 07:11:02.227031"
+  }
+}

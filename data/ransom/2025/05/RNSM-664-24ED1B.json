@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-664-24ED1B",
+  "type": "ransomware-incident",
+  "title": "Coweta County School System ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Coweta County School System",
+    "domain": "cowetaschools.net",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "nitrogen",
+    "name": "nitrogen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Coweta County School System (CCSS) is the primary educational organization in Coweta County, Georgia, United States. It serves more than 23,000 students in grades pre-kindergarten through 12th grade and includes 34 educational institutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f84276ca4e5a3e3a825397abc7607c53.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q293zxrhienvdw50esbty2hvb2wgu3lzdgvtqg5pdhjvz2vu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.wintersmedia.net/coweta-school-system-experiences-cybersecurity-attack-on-system-network/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-24 23:16:59.018049",
+    "disclosedDate": "2025-05-24 23:18:07.010318"
+  }
+}

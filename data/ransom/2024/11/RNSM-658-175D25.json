@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-658-175D25",
+  "type": "ransomware-incident",
+  "title": "The Egyptian Tax Authority (ETA) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Egyptian Tax Authority (ETA)",
+    "country": "EG",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "moneymessage",
+    "name": "moneymessage",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] The Egyptian Tax Authority (ETA) is the governmental body responsible for tax administration in Egypt. It oversees the implementation and collection of various taxes, including income tax, corporate tax, and value-added tax (VAT). The ETA aims to enhance compliance, improve tax revenue, and support economic development through efficient tax policies and systems. It also works to modernize tax procedures and provide taxpayer services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4a3bee41e75c432dacd07bb978c8f3cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlievnexb0awfuifrhecbbdxrob3jpdhkgkevuqslabw9uzxltzxnzywdl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-17 01:50:17.569820",
+    "disclosedDate": "2024-11-17 01:50:19.618037"
+  }
+}

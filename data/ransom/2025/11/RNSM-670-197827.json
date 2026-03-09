@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-197827",
+  "type": "ransomware-incident",
+  "title": "Orchid Island Golf and Beach Club ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Orchid Island Golf and Beach Club",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Orchid Island Golf and Beach Club is a member-owned golf community located in Vero Beach, Florida, nestled between the Atlantic Ocean and the Indian River.We will upload almost 20gb of corporate documents soon. Employee data (driver licenses, phones, addresses), confidential files, financials and accounting, contracts and agreements, clients' information, NDA, projects, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3jjaglkielzbgfuzcbhb2xmigfuzcbczwfjacbdbhviqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-19 00:00:00.000000",
+    "disclosedDate": "2025-11-19 15:50:17.491358"
+  }
+}

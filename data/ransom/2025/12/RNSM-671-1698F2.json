@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-671-1698F2",
+  "type": "ransomware-incident",
+  "title": "Comcast REUP FOR SALE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Comcast REUP FOR SALE",
+    "domain": "comcast.com",
+    "country": "",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000000,
+    "description": "REUP FOR SALE The archive contains samples of the Comcast leak. The total file size is approximately 2 TB. It includes numerous DWG drawings, PDF plans of various cities with infrastructure, and other files related to the Genesis project. The entire lot is being sold as a single lot. Please submit your contact information and suggestions via the feedback form.  https://corporate.comcast.com/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/029a0a564206700721805b39e35e9ec4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29ty2fzdcbsrvvqiezpuibtquxfqhnwywnlymvhcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-15 00:00:00.000000",
+    "disclosedDate": "2025-12-16 10:33:59.041995"
+  }
+}

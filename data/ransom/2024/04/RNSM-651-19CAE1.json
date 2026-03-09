@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19CAE1",
+  "type": "ransomware-incident",
+  "title": "netscout.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "netscout.com",
+    "domain": "netscout.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "netscout.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0a0e281b1482c9cf843409a882631040.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmv0c2nvdxquy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-19 11:33:39.323705",
+    "disclosedDate": "2024-04-19 11:33:39.323705"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-206874",
+  "type": "ransomware-incident",
+  "title": "Access2Jobs ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Access2Jobs",
+    "domain": "access2jobs.org",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "For over 50 years, Access Inc. has been serving the most vulnerable and under-served populations in San Diego County by promoting self-sufficiency and economic independence. There are three main programs at Access: Youth, Immigration and Micr            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7bd2625244fd2fb4ec6c1ed5d85b1b27.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnjzxnzmkpvynnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-20 00:00:00.000000",
+    "disclosedDate": "2025-02-20 12:32:53.336724"
+  }
+}

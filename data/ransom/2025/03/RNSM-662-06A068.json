@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-06A068",
+  "type": "ransomware-incident",
+  "title": "Ministry of Foreign Affairs of Ukraine ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ministry of Foreign Affairs of Ukraine",
+    "domain": "mfa.gov.ua",
+    "country": "UA",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The data of the Ministry of foreign affairs of Ukraine ended up in our hands. The part of it was sold succesfully. Among the rest data: private correspondence, personal information, decrees etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7fe25054e280298f00a645c9c47993ff.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twluaxn0cnkgb2ygrm9yzwlnbibbzmzhaxjzig9mifvrcmfpbmvacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-06 00:00:00.000000",
+    "disclosedDate": "2025-03-06 13:21:13.847162"
+  }
+}

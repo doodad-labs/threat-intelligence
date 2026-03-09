@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-657-029915",
+  "type": "ransomware-incident",
+  "title": "Branhaven Chrysler Dodge Jeep Ram ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Branhaven Chrysler Dodge Jeep Ram",
+    "domain": "branhaven.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Branhaven Chrysler Dodge Jeep RAM has been serving drivers in New Haven, Hartford, Middletown",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e3b52b869145713036bd1629132e650e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjhbmhhdmvuienocnlzbgvyiervzgdlieplzxagumftqgjsywnrc3vpda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/25a92876-781e-44d3-b07e-a1bae2b60824.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-09 00:00:00.000000",
+    "disclosedDate": "2024-10-02 16:24:30.698873"
+  }
+}

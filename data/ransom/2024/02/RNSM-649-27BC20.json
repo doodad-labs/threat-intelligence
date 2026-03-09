@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-27BC20",
+  "type": "ransomware-incident",
+  "title": "Hardeman County Community Health Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hardeman County Community Health Center",
+    "domain": "hardemanhealth.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hardeman County Community Health Center (HCCHC) is a Non-Profit Federal Qualified Health Center (FQHC) who provides comprehensive, integrated and quality health care services to improve the health...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8fb6dc8fa837daac139c914e7bc45ed6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgfyzgvtyw4gq291bnr5ienvbw11bml0esbizwfsdgggq2vudgvyqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-27 11:39:03.893385",
+    "disclosedDate": "2024-02-27 11:39:03.960552"
+  }
+}

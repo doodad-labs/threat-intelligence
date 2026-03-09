@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-657-09FAF9",
+  "type": "ransomware-incident",
+  "title": "Universite Paris Sud ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Universite Paris Sud",
+    "domain": "universite-paris-saclay.fr",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The university is a unique network of five faculties, three university technical institutes (IUT), five schools, two associate member universities and seven national research organisations. They have come together to work towards a shared ambition: to combine their strengths to create a leading scientific cluster for research, education, student success and innovation, with the hopes of contributing to the development of a fairer society. As France's top university and one of the world's top 20 best universities, Université Paris-Saclay covers the fields of science and engineering, life and health sciences, and human and social sciences.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/befd18d1d8ac65bbae1a2775294a6929.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pdmvyc2l0zsbqyxjpcybtdwracmfuc29tag91c2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://x.com/univparissaclay/status/1822993151428121078",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-11 00:00:00.000000",
+    "disclosedDate": "2024-10-09 08:31:13.250811"
+  }
+}

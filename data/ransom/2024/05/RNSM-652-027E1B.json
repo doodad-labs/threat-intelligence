@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-027E1B",
+  "type": "ransomware-incident",
+  "title": "Imedi L ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Imedi L",
+    "country": "GE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 18000000000,
+    "description": "Imedi L is a health insurer and is part of the largest healthcaregroup in Georgia. 18GB of signed agreements, ID's with personal data, accounting information, payments\\bank transactions details.We will upload the files soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw1lzgkgtebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-02 13:56:16.879519",
+    "disclosedDate": "2024-05-02 13:56:17.078684"
+  }
+}

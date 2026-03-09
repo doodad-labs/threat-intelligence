@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-09E71D",
+  "type": "ransomware-incident",
+  "title": "eDevice ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "eDevice",
+    "domain": "edevice.com",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "edevice.com zoominfo.com/c/edevice-sa/12403021 With more than 650,000 connected patients served globally, eDevice is a leading provider of connected care platform solutions for the healthcare industry for over 15 years. The company is the chosen connectivity partner for Medical Devices companies such as Medtronic, Honeywell, Philips, and a technology provider for healthcare participants committed to delivering care virtually and remotely",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zurldmljzub0agvnzw50bgvtzw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-09 09:40:31.000000",
+    "disclosedDate": "2026-03-09 19:43:45.309233"
+  }
+}

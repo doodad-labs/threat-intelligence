@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-209DBA",
+  "type": "ransomware-incident",
+  "title": "bauscherhepp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bauscherhepp.com",
+    "domain": "bauscherhepp.com",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BauscherHepp, Inc. distributes the BAUSCHER, HEPP, TAFELSTERN, WMF, and LUIGI BORMIOLI brands in USA. Additionally, BauscherHepp, Inc. distributes BAUSCHER, HEPP, and Luigi Bormioli in Canada.File list, SQL dump list and file sampleshttps://sha...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c08c00142459c3e2fea50717486f85e7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymf1c2nozxjozxbwlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-20 15:18:00.000000",
+    "disclosedDate": "2023-09-20 16:02:38.502028"
+  }
+}

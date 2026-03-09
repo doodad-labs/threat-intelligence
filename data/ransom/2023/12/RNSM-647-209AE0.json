@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-647-209AE0",
+  "type": "ransomware-incident",
+  "title": "LCGB ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LCGB",
+    "domain": "lcgb.lu",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The LCGB works for the rights of employees by protecting the existence of employees, social protection, retirement and support for young people in difficulty on the job market.lcgb.lu",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d9a98fb59ac4b9480a68407945b2ed0b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tenhqka4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.tageblatt.lu/headlines/lcgb-meldet-cyberangriff-auf-it-system-der-gewerkschaft-ausmass-wird-noch-untersucht/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-20 00:00:00.000000",
+    "disclosedDate": "2023-12-20 08:36:20.482182"
+  }
+}

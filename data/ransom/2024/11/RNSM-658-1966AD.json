@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-1966AD",
+  "type": "ransomware-incident",
+  "title": "euromedix.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "euromedix.com",
+    "domain": "euromedix.com",
+    "country": "BE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 105000000000,
+    "description": "ZIP-105GB - Revenue $6.2 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxvyb21lzgl4lmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-14 00:00:00.000000",
+    "disclosedDate": "2024-11-19 22:34:20.958404"
+  }
+}

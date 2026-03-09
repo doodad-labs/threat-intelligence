@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-672-23F1B1",
+  "type": "ransomware-incident",
+  "title": "Aschwanden & Partner ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aschwanden & Partner",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 37000000000,
+    "description": "Aschwanden & Partner AG is a Swiss engineering and planning firm with over 38 years of experience in ensuring safety in planning processes. They offer a range of services including building construction, bridge construction, geotechnics, and earthquake safety studies.We will upload 37gb of corporate data soon.Employee personal information, financials, payment details, detailed information about projects (lots of drawings and specifications) and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxnjahdhbmrlbiamifbhcnruzxjaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-23 00:00:00.000000",
+    "disclosedDate": "2026-01-23 13:23:01.401186"
+  }
+}

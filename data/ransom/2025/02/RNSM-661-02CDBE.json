@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-661-02CDBE",
+  "type": "ransomware-incident",
+  "title": "topackt.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "topackt.com",
+    "domain": "topackt.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Topackt IT Solutions GmbH is an IT service provider in Germany. One of its products is DNSX 'Dynamic Network for Schools X', which offers central managment of machines and users across institutions. DNSX and over 70 connected schools was attacked a...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d01e464e55b92ff8d9fed988d9793967.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dg9wywnrdc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.schwetzinger-zeitung.de/orte/speyer_artikel,-speyer-untersuchungen-nach-hackerangriff-auf-schul-it-in-speyer-_arid,2279614.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-23 17:37:18.151987",
+    "disclosedDate": "2025-02-02 17:38:23.142232"
+  }
+}

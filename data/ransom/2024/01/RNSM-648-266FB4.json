@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-266FB4",
+  "type": "ransomware-incident",
+  "title": "ehsd.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ehsd.org",
+    "domain": "ehsd.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Contra Costa County Employment & Human ServicesEmployees (lists with SSN numbers, residential address, telephone, email, passport scans, DOB, contracts, information on salaries, bonuses, and other confidential documents) Finance (budget, audit, tax...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/57eb053c162a709e6f1ad0cdd5053386.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwhzzc5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-26 17:03:00.000000",
+    "disclosedDate": "2024-01-26 18:02:42.278990"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-651-034400",
+  "type": "ransomware-incident",
+  "title": "San Pasqual Band of Mission Indians ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "San Pasqual Band of Mission Indians",
+    "country": "US"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 134400000000,
+    "description": "The San Pasqual Band of Mission Indians is a federally recognized tribe of the Kumeyaay Indian Nation. They are based in Valley Center, California. San Pasqual Band of Mission Indians  office is located in 16400 Kumeyaay Way, Valley Center, California, 92082, United States and has 101 employees. The total amount of data leakage is 134.4 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fuifbhc3f1ywwgqmfuzcbvzibnaxnzaw9uieluzglhbnnabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-02 10:30:25.12345",
+    "disclosedDate": "2024-04-03 13:05:28.461874"
+  }
+}

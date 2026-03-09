@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-27BA8F",
+  "type": "ransomware-incident",
+  "title": "www.spmundi.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.spmundi.com.br",
+    "domain": "spmundi.com.br",
+    "country": "BR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.spmundi.com.br",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/de938cf044e13b260f21c5b80e1803cc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnwbxvuzgkuy29tlmjyqgjhynvrmg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:28:52.757107",
+    "disclosedDate": "2025-01-27 07:30:00.419441"
+  }
+}

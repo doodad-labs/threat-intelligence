@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-02861C",
+  "type": "ransomware-incident",
+  "title": "www.pokerspa.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.pokerspa.it",
+    "domain": "pokerspa.it",
+    "country": "IT",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Poker Spa is an Italian company specializing in the organization of poker events and tournaments. They offer a range of services that cater to poker enthusiasts, including event management, player registration, and tournament logistics. Their platform provides updates on upcoming events, results, and player rankings, aiming to create a professional and engaging poker experience in Italy.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/59f2fc4741067d16810919a180571d6b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnbva2vyc3bhlml0qhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-24 00:00:00.000000",
+    "disclosedDate": "2024-09-02 20:58:50.584786"
+  }
+}

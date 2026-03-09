@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-125B54",
+  "type": "ransomware-incident",
+  "title": "Spacemanic ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Spacemanic",
+    "domain": "spacemanic.com",
+    "country": "CZ",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: INGV, Spacemanic, Squeezer-softwareSpacemanic is a Czech start-up that provides innovative nanosatellite solutions and CubeSat components, offering services from design and development to launch and ground station support.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3bhy2vtyw5py0bmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-12 17:18:24.757490",
+    "disclosedDate": "2025-02-12 17:18:27.717171"
+  }
+}

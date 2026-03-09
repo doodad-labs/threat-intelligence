@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-17CBDC",
+  "type": "ransomware-incident",
+  "title": "Sullairargentina.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sullairargentina.com",
+    "domain": "sullairargentina.com",
+    "country": "AG",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "redransomware",
+    "name": "redransomware",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Industrial Machinery & Equipment",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vsbgfpcmfyz2vudgluys5jb21acmvkcmfuc29td2fyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-17 00:00:00.000000",
+    "disclosedDate": "2024-05-17 20:24:17.909901"
+  }
+}

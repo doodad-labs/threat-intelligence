@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-22BEA1",
+  "type": "ransomware-incident",
+  "title": "FRESCA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FRESCA",
+    "domain": "coca-colacompany.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "snatch",
+    "name": "snatch",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fresca is a grapefruit-flavored citrus soft drink created by The Coca-Cola Company.Borrowing the word Fresca (meaning \"fresh\") from Italian, Spanish and Portuguese, it was introduced in the United States in 1966. Originally a bottled sugar-free diet soda, sugar sweetened versions were introduced in some markets.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c95304c1751585ad31e09385eebf374d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rljfu0nbqhnuyxrjaa==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-22 01:56:00.000000",
+    "disclosedDate": "2023-05-22 00:59:02.931306"
+  }
+}

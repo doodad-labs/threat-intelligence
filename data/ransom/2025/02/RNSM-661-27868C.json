@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27868C",
+  "type": "ransomware-incident",
+  "title": "PAIGE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PAIGE.COM",
+    "domain": "paige.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] PAIGE.COM is a tech startup based in New York City, specializing in the field of computational pathology. The company uses AI and machine learning techniques to create research tools and software designed to assist pathologists. Their goal is to translate vast amounts of clinical data to improve disease diagnosis, treatment, and monitoring. Having a strategic partnership with Memorial Sloan Kettering Cancer Center, they mainly focus on cancer care.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uefjr0uuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:01:17.777690",
+    "disclosedDate": "2025-02-27 17:01:24.792248"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-025DB5",
+  "type": "ransomware-incident",
+  "title": "Elite Fitness ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Elite Fitness",
+    "domain": "elitefitness.co.nz",
+    "country": "NZ",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Elite Fitness has grown over the last 28 years with a true pioneering kiwi spirit to now being one of the largest fitness retailers in Australasia",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwxpdgugrml0bmvzc0bkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cyberdaily.au/security/10782-exclusive-new-zealand-s-elite-fitness-confirms-dragonforce-ransomware-attack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-02 08:15:47.929724",
+    "disclosedDate": "2024-07-02 09:15:18.550077"
+  }
+}

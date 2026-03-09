@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-23A684",
+  "type": "ransomware-incident",
+  "title": "Outback Pharmacies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Outback Pharmacies",
+    "domain": "outbackpharmacies.com.au",
+    "country": "AU",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "beast",
+    "name": "beast",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Outback Pharmacies operates five locations in Broken Hill, providing a wide range of health services including prescriptions, sleep apnoea management, vaccinations, and weekly medicine packing. With over 30 years of experience, they focus on enhancing the health and wellbeing of the local community through partnerships with health organizations and investment in staff training. Their services cater to individuals seeking reliable pharmaceutical care and convenient medication management solutions. Outback Pharmacies is committed to delivering exceptional service and expert advice to their clients",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dfbb4a4263d934cc445db7d7150bd46a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3v0ymfjaybqagfybwfjawvzqgjlyxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-19 00:00:00.000000",
+    "disclosedDate": "2025-11-23 14:40:46.368091"
+  }
+}

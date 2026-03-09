@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-226972",
+  "type": "ransomware-incident",
+  "title": "Texas Retina Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Texas Retina Associates",
+    "domain": "texasretina.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Texas Retina Associates, with 13 offices throughout the state and 17 physicians, is Texas' largest retina clinic group.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgv4yxmgumv0aw5hiefzc29jawf0zxnaymlhbmxpyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.hipaajournal.com/texas-retina-associates-cyberattack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-22 16:31:37.403383",
+    "disclosedDate": "2024-04-22 16:31:37.403444"
+  }
+}

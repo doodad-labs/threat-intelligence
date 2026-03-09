@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-05EE5C",
+  "type": "ransomware-incident",
+  "title": "nautic.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nautic.com",
+    "domain": "nautic.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Nautic’s mission is to support the long-term value creation of our portfolio companies while preserving the strong culture that makes us attractive to our management teams, employees, and other business relationships. To accomplish this, our investme...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ce27b80c224bea4e8c293bfba4f11726.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmf1dgljlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-05 20:31:00.000000",
+    "disclosedDate": "2023-04-05 21:12:28.555495"
+  }
+}

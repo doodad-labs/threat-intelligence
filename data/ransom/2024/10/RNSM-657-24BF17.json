@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-24BF17",
+  "type": "ransomware-incident",
+  "title": "www.resourceinternational.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.resourceinternational.com",
+    "domain": "resourceinternational.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Resource International is an engineering and consulting firm specializing in civil engineering, environmental services, and construction management. They offer a range of services including design, surveying, and inspection for infrastructure projects. The company focuses on delivering innovative solutions and ensuring quality and sustainability in their projects, serving both public and private sector clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e1d3d5df001f17ecf3530cfbe1c77158.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnjlc291cmnlaw50zxjuyxrpb25hbc5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-08 00:00:00.000000",
+    "disclosedDate": "2024-10-24 21:39:09.052227"
+  }
+}

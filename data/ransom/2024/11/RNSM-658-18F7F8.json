@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-18F7F8",
+  "type": "ransomware-incident",
+  "title": "A-1 Mobile Lock & Key ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "A-1 Mobile Lock & Key",
+    "domain": "a1mobilelock.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] A-1 Mobile Lock & Key is a locksmith service company that specializes in offering mobile locksmith solutions for residential, commercial, and automotive needs. Known for their prompt and reliable service, they provide key cutting, lock installation, repair, and emergency lockout assistance. Their skilled technicians are equipped to handle a variety of lock and security challenges with professionalism and expertise.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qs0xie1vymlszsbmb2nricygs2v5qevsrg9yywrv",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:03:24.583058",
+    "disclosedDate": "2024-11-18 21:03:26.989277"
+  }
+}

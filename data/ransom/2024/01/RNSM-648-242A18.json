@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-242A18",
+  "type": "ransomware-incident",
+  "title": "Innovative Automation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Innovative Automation",
+    "domain": "inautomation.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/74a4a3824e60bccb4a13f4fb13aaa657.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5ub3zhdgl2zsbbdxrvbwf0aw9uqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-24 17:59:45.000000",
+    "disclosedDate": "2024-01-24 19:21:57.598993"
+  }
+}

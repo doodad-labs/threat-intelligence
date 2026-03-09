@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-655-05E381",
+  "type": "ransomware-incident",
+  "title": "Square One Coating Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Square One Coating Systems",
+    "domain": "squareonecoatingsystems.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Downloaded all your company's customer information and part of your financial data.  If companies do not contact us, the data will be published!",
+    "claimed_data_types": [
+      "financial-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/71a8f5768618bd15d4dbe6d67c80ead1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3f1yxjlie9uzsbdb2f0aw5nifn5c3rlbxnay2ljywrhmzmwmq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-03 00:00:00.000000",
+    "disclosedDate": "2024-08-05 17:37:23.289976"
+  }
+}

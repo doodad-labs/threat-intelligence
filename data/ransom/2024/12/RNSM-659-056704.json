@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-056704",
+  "type": "ransomware-incident",
+  "title": "hanwhacimarron.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hanwhacimarron.com",
+    "domain": "hanwhacimarron.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Hanwha Cimarron is a company specializing in the manufacture of advanced composite pressure vessels. These vessels are used in industries such as aerospace, defense, and energy for storing and transporting gases under high pressure. As part of the Hanwha Group, known for its diverse industrial footprint, Hanwha Cimarron leverages cutting-edge technology to deliver high-performance, reliable solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/26b0507e57bed0d6b08eb3a8c0c65d94.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfud2hhy2ltyxjyb24uy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-05 11:46:23.000000",
+    "disclosedDate": "2024-12-05 13:45:37.555286"
+  }
+}

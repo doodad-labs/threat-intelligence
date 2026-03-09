@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-06B0C8",
+  "type": "ransomware-incident",
+  "title": "chasc.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "chasc.org",
+    "domain": "chasc.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Columbia Housing Authority provides affordable housing and workforce housing for low to moderate income families and veterans in Columbia, SCchasc.org\\administrator:CH$Admin1",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/168560d1294512460d7b9c8bf153812c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2hhc2mub3jnqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-06 15:06:00.000000",
+    "disclosedDate": "2023-07-06 15:56:32.480671"
+  }
+}

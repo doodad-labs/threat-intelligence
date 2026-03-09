@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-2916E1",
+  "type": "ransomware-incident",
+  "title": "Spirit Lake Community School District ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Spirit Lake Community School District",
+    "domain": "spirit-lake.k12.ia.us",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Spirit Lake Community School District is a rural public school district based in Spirit Lake, Iowa, United States. The district includes three schools: Spirit Lake High School, Spirit Lake Middle School, Spirit Lake Elementary School. At the beginning of 2024, the number of students enrolled was 1304 people, the number of teachers was 100 people.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b9b92c6f13c8631a474d330f575ef560.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3bpcml0iexha2ugq29tbxvuaxr5ifnjag9vbcbeaxn0cmljdebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-29 15:19:44.000000",
+    "disclosedDate": "2024-10-29 21:52:42.689830"
+  }
+}

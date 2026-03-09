@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-27416C",
+  "type": "ransomware-incident",
+  "title": "lhps.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lhps.org",
+    "domain": "lhps.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1970, Lake Highland Preparatory School is the 8th largest coeducational independent day school in the nation, featuring two campuses totaling forty-two acres in the heart of Orlando. LHPS educates approximately 1,950 students in grades Pre-K though 12 in a rigorous college preparatory program. The school is accredited by Florida Council of Independent Schools, Southern Association of Colleges and Schools and Florida Kindergarten Council.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6e60d690866a4269f1bbb26d45ceddd4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bghwcy5vcmdaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 12:51:40.261889",
+    "disclosedDate": "2025-01-27 12:52:50.072423"
+  }
+}

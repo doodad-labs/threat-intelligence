@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-2786FE",
+  "type": "ransomware-incident",
+  "title": "KLINGER Italy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KLINGER Italy",
+    "domain": "klinger.it",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "gunra",
+    "name": "gunra",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Level Gauges, valves and industrial gaskets",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c89a7dcd5cb0a980f07819b89d12843d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0xjtkdfuibjdgfseubndw5yyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-26 00:00:00.000000",
+    "disclosedDate": "2025-04-27 12:02:55.563001"
+  }
+}

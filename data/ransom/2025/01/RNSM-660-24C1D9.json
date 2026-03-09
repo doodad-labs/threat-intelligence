@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-24C1D9",
+  "type": "ransomware-incident",
+  "title": "STEELBLUE.COM.AU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "STEELBLUE.COM.AU",
+    "domain": "steelblue.com.au",
+    "country": "AU",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Steelblue.com.au is an Australia-based company offering innovative solutions in civil, industrial, and commercial construction. It offers a wide range of products such as steel decking, mesh reinforcement, and associated accessories for concrete construction. With a commitment to safety, quality, and customer satisfaction, Steel Blue strives to construct foundations for both major projects and smaller applications across Australia.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8d83eab2f2ce2fbfdd164d819f20d9c8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1rfruxctfvflknpts5bvubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 08:29:42.723994",
+    "disclosedDate": "2025-01-24 08:29:42.723994"
+  }
+}

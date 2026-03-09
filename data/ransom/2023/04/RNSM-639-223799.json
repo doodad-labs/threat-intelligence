@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-223799",
+  "type": "ransomware-incident",
+  "title": "stuertz.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "stuertz.com",
+    "domain": "stuertz.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Stürtz designs and manufactures a wide variety of window manufacturing solutions today and looks forward to developing new solutions as our markets continue to mature.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fd910b4f522619bc8d0564f7f4710936.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3r1zxj0ei5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-22 06:15:00.000000",
+    "disclosedDate": "2023-04-22 06:48:00.101773"
+  }
+}

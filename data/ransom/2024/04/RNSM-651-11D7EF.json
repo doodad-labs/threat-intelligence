@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-651-11D7EF",
+  "type": "ransomware-incident",
+  "title": "Missouri Electric Cooperatives ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Missouri Electric Cooperatives",
+    "domain": "amec.org",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Missouri Electric Cooperatives is a statewide association established to protect, support and serve the interests and business practices of our 47 member electric co-ops and to help ensure the 2 million co-op members in rural Missouri receive reliable and affordable electricity. Files of the organization will soon be available for downloading. Information of employees (phone, addresses, photos, etc), business partners, accounting data and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twlzc291cmkgrwxly3ryawmgq29vcgvyyxrpdmvzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-11 19:08:01.763289",
+    "disclosedDate": "2024-04-11 19:08:01.943551"
+  }
+}

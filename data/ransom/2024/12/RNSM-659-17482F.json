@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-17482F",
+  "type": "ransomware-incident",
+  "title": "Engineered Tower Solutions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Engineered Tower Solutions",
+    "domain": "ets-pllc.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Engineered Tower Solutions, PLLC (ETS) is a full service engineering company specializing in telecommunication towers and residential/commercial industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1c1bcfdc116b7dc3f8cc616179d9190f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw5naw5lzxjlzcbub3dlcibtb2x1dglvbnnazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-14 11:12:15.214455",
+    "disclosedDate": "2024-12-17 09:36:02.877228"
+  }
+}

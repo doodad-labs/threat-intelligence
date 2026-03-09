@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-651-19DFFA",
+  "type": "ransomware-incident",
+  "title": "sherwin-electric.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sherwin-electric.com",
+    "domain": "sherwin-electric.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sherwin continues to expand their electrical presence in the Industrial, Commercial, and Solar markets.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1bccf63dacbc087938337a911e8c037d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2hlcndpbi1lbgvjdhjpyy5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-29 20:28:00.000000",
+    "disclosedDate": "2024-04-19 09:49:43.022020"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-197B2F",
+  "type": "ransomware-incident",
+  "title": "Certified Transmission ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Certified Transmission",
+    "domain": "certifiedtransmission.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "meow",
+    "name": "meow",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Certified Transmission is a company specializing in the remanufacturing and repair of automotive transmissions. Founded in 1979, it operates multiple locations across the United States, providing high-quality rebuilt transmissions and comprehensive repair services. Known for their commitment to excellence and customer satisfaction, Certified Transmission serves both individual vehicle owners and automotive professionals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/57bcc9041a1fdde93b48b3a872359a60.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2vydglmawvkifryyw5zbwlzc2lvbkbtzw93",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-19 11:14:56.914000",
+    "disclosedDate": "2024-08-19 11:14:59.827367"
+  }
+}

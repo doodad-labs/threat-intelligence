@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-2978E1",
+  "type": "ransomware-incident",
+  "title": "Medizinische Grosshandlung GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Medizinische Grosshandlung GmbH",
+    "domain": "medihandel.de",
+    "country": "DE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "As a trusted and dedicated partner for orthodontists, dentists and dental technicians, Mikrona products can be found in clinics all around the world.mikrona.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2d2ff0995fc9afa2fd0bcfbf1a7bbf45.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvkaxppbmlzy2hliedyb3nzagfuzgx1bmcgr21isea4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-29 00:00:00.000000",
+    "disclosedDate": "2024-04-29 14:12:51.383610"
+  }
+}

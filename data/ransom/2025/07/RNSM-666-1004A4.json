@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-666-1004A4",
+  "type": "ransomware-incident",
+  "title": "brennytransportation.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "brennytransportation.com",
+    "domain": "brennytransportation.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 45000000000,
+    "description": "Brenny Transportation, headquartered in Central Minnesota, is a premier transportation and logistics company specializing in the safe and efficient delivery of goods to businesses and individuals across the nation. They offer a wide range of services, including long-haul trucking, last-mile delivery, and logistical solutions tailored to the unique needs of their clients. The company serves various customers, from manufacturers and distributors to retailers and individuals, and is dedicated to providing reliable, timely, and cost-effective transportation services. With a focus on grand champion customer service and a commitment to safety, Brenny Transportation is well-equipped to handle all transportation challenges\r Employees: 73\r Revenue:$18.3 Million\r Industry: Transportation\r Downloaded: 45GB\r Phone Number:(320) 363-6999",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f57acfc86b57c0e9a5998aec07fda6ac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjlbm55dhjhbnnwb3j0yxrpb24uy29tqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-03 00:00:00.000000",
+    "disclosedDate": "2025-07-10 18:58:28.523871"
+  }
+}

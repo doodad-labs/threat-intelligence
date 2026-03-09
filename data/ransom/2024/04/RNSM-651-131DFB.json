@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-131DFB",
+  "type": "ransomware-incident",
+  "title": "NanoLumens ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NanoLumens",
+    "domain": "nanolumens.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/251f4406022188dd3495b5f4bd738fcd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmfub0x1bwvuc0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-13 10:11:55.000000",
+    "disclosedDate": "2024-04-13 10:35:48.157061"
+  }
+}

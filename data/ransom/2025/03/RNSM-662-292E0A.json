@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-292E0A",
+  "type": "ransomware-incident",
+  "title": "hardmanjohnston.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hardmanjohnston.com",
+    "domain": "hardmanjohnston.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 08.04.2025. Hardman Johnston Global Advisors is an independent, global equity boutique investing in high-quality growth companies at value prices.For over three decades, we have follo            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bbba41d8037099c2134d21076cc873d0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfyzg1hbmpvag5zdg9ulmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-21 00:00:00.000000",
+    "disclosedDate": "2025-03-29 12:47:21.252296"
+  }
+}

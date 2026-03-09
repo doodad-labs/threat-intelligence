@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-650-25C041",
+  "type": "ransomware-incident",
+  "title": "European Centre for Compensation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "European Centre for Compensation",
+    "domain": "euco.pl",
+    "country": "PL",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 72000000000,
+    "description": "Europejskie Centrum Odszkodowan is involved in claim payments from parties who may have caused to the accident or insured the loss. These guys decided to make their data available for everyone and we will help them. In the 72GB archive you will find enormous number of files: scans of business, judicial, insurance documents,court hearings, personal documents of employees and clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxvyb3blyw4gq2vudhjligzvcibdb21wzw5zyxrpb25aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-25 17:49:38.389962",
+    "disclosedDate": "2024-03-25 17:49:38.459214"
+  }
+}

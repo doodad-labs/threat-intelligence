@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-29B9AD",
+  "type": "ransomware-incident",
+  "title": "sander-doll.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sander-doll.com",
+    "domain": "sander-doll.com",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8d0af2044a6bb1316d39f36cedc1ad88.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2fuzgvylwrvbgwuy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-12 00:00:00.000000",
+    "disclosedDate": "2025-05-29 22:17:04.734063"
+  }
+}

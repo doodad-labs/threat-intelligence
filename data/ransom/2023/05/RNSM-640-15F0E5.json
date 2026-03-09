@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-640-15F0E5",
+  "type": "ransomware-incident",
+  "title": "mundo-r.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mundo-r.com",
+    "domain": "mundo-r.com",
+    "country": "ES",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000000,
+    "description": "3TB of data downloaded. Financials, legal documents, customer, employee, and more. Also, about 100gb of euskaltel.com data was downloaded from this network. These will be published in the next post.R cable Spain is an operator of telecommunicat...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/915cacaf83b37f8bcf77d0afe2d2abdb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bxvuzg8tci5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-15 10:26:00.000000",
+    "disclosedDate": "2023-05-15 10:51:48.529945"
+  }
+}

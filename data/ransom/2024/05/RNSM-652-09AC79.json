@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09AC79",
+  "type": "ransomware-incident",
+  "title": "randi-group.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "randi-group.com",
+    "domain": "randi-group.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Randi Group, Natural Products Extracted from Grapes Values that bring us together as a group",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3e4a717c76cf7f93820b33f9daeaf438.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmfuzgktz3jvdxauy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-28 00:00:00.000000",
+    "disclosedDate": "2024-05-09 10:40:22.015041"
+  }
+}

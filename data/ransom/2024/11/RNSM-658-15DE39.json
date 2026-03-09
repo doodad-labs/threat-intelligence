@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-15DE39",
+  "type": "ransomware-incident",
+  "title": "surgicalassociates.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "surgicalassociates.com",
+    "domain": "surgicalassociates.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Surgical Associates is a medical practice specializing in surgical care, offering a range of procedures and treatments. Their team of experienced surgeons focuses on providing personalized care across various specialties, including general, vascular, and minimally invasive surgery. The company emphasizes patient-centered service, using advanced technology to ensure high-quality outcomes and compassionate care.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/62d55e571628ae243285b873d6f29e82.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3vyz2ljywxhc3nvy2lhdgvzlmnvbubibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-09 00:00:00.000000",
+    "disclosedDate": "2024-11-15 21:10:49.334998"
+  }
+}

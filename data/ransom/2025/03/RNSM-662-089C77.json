@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-089C77",
+  "type": "ransomware-incident",
+  "title": "univ-rennes.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "univ-rennes.fr",
+    "domain": "univ-rennes.fr",
+    "country": "FR",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Univ-rennes.fr is likely associated with the University of Rennes, a renowned public research university located in Rennes, France. Offering a wide range of studies, it is divided into two main sectors: University of Rennes 1, focusing on science, technology, medicine, philosophy, law, management, and economics, and University of Rennes 2, emphasizing arts, literature, languages, communication, human and social sciences.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d8c55bd4dcdec1a1345aaa0860049ff4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dw5pdi1yzw5uzxmuznjaznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-08 03:52:20.353112",
+    "disclosedDate": "2025-03-08 03:53:29.097389"
+  }
+}

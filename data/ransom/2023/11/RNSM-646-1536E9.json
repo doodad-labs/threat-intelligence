@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-1536E9",
+  "type": "ransomware-incident",
+  "title": "kwhfreeze.fi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kwhfreeze.fi",
+    "domain": "kwhfreeze.fi",
+    "country": "FI",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Suomen johtava pakastevarasto joustaa sesonkien mukana. KWH Freeze. KWH Freeze on Suomen suurin pakkasvarastoinnin tarjoaja.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/517ae1e8dd71eabd6d27ff81f5b3d8ad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3doznjlzxpllmzpqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-15 07:39:00.000000",
+    "disclosedDate": "2023-11-15 08:24:42.072088"
+  }
+}

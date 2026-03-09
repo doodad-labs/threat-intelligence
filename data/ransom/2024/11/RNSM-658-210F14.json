@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-210F14",
+  "type": "ransomware-incident",
+  "title": "United Bakery Equipment ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "United Bakery Equipment",
+    "domain": "ubeusa.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] United Bakery Equipment is a company specializing in the design and manufacture of high-quality bakery machinery. They offer a range of equipment including slicers, baggers, and other automated systems tailored for the baking industry. Known for innovation and reliability, the company serves both large-scale and smaller artisanal bakeries, focusing on efficiency and precision in their products.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a21a934e4a054dec7551ee0fb6cc2cdc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pdgvkiejha2vyesbfcxvpcg1lbnraaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-21 19:15:27.787756",
+    "disclosedDate": "2024-11-21 19:15:30.618356"
+  }
+}

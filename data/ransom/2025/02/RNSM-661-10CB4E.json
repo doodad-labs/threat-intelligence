@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10CB4E",
+  "type": "ransomware-incident",
+  "title": "compasshealthbrands.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "compasshealthbrands.com",
+    "domain": "compasshealthbrands.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Compass Health Brands is a leading provider of innovative, high-quality home healthcare products. They focus on serving the needs of consumers and professionals with a wide selection of mobility, pain management, and patient recovery products. They have several established healthcare brands under their management, including Carex, AccuRelief, Bed Buddy, TheraMed, and ProBasics, to cater to different health needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29tcgfzc2hlywx0agjyyw5kcy5jb21ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:53:32.323114",
+    "disclosedDate": "2025-02-10 19:53:40.308331"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-657-214C31",
+  "type": "ransomware-incident",
+  "title": "Teddy SpA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Teddy SpA",
+    "domain": "teddy.it",
+    "country": "IT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Gruppo Teddy offers clothing and accessories for men, women, and children in Europe and internationally.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a6ac257149c6ddfaf20dea1d1b9cf47d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvkzhkgu3bbqgjsywnrc3vpda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.ilrestodelcarlino.it/rimini/cronaca/attacco-hacker-teddy-riscatto-wd5ww2r1",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-21 18:02:34.428118",
+    "disclosedDate": "2024-10-21 18:02:34.832221"
+  }
+}

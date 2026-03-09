@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-16702A",
+  "type": "ransomware-incident",
+  "title": "Kennedy Funding ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kennedy Funding",
+    "domain": "kennedyfunding.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Up to over $4 billion in closed loans.Kennedy Funding is a nationwide direct private lender specializing in bridge loans for commercial property and land acquisition.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/22be1064c8fdbc729582db06a8c4cfd3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2vubmvkesbgdw5kaw5nqgjsywnrbg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:04:12.716642",
+    "disclosedDate": "2025-05-16 13:38:51.151274"
+  }
+}

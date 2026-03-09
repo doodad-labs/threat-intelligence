@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-01D869",
+  "type": "ransomware-incident",
+  "title": "dovesit.co.za ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dovesit.co.za",
+    "domain": "dovesit.co.za",
+    "country": "ZA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "550k USD",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zg92zxnpdc5jby56yubkzxztyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-01 01:20:42.605585",
+    "disclosedDate": "2025-05-01 01:20:44.293934"
+  }
+}

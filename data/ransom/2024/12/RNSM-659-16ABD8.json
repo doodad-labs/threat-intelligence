@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-659-16ABD8",
+  "type": "ransomware-incident",
+  "title": "National Air Vibrator ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "National Air Vibrator",
+    "domain": "navco.us",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "NAVCO bin hopper vibrators, railcar vibrators, and other vibratory equipment are used in rail cars, trucking, foundries, and process manufacturing, to facilitate flow of bulk materials through hoppers, bins, bunkers, and other vessels for efficiency and profitability. We are ready to upload more than  40 GB of internal corporate documents including: NDAs, inside financial documents,  contact numbers and e-mail addresses of employees and customers, driver licenses etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf0aw9uywwgqwlyifzpynjhdg9yqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-06 00:00:00.000000",
+    "disclosedDate": "2024-12-16 15:38:38.700906"
+  }
+}

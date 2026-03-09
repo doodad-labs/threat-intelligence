@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-2285F3",
+  "type": "ransomware-incident",
+  "title": "Kronick Moskovitz Tiedemann & Girard ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kronick Moskovitz Tiedemann & Girard",
+    "domain": "kmtg.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kronick Moskovitz Tiedemann & Girard",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s3jvbmljaybnb3nrb3zpdhogvgllzgvtyw5uicygr2lyyxjkqhjoexnpzge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0c0a0746-efd8-4a34-b527-00415e2b0641.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-22 16:11:00.346566",
+    "disclosedDate": "2024-08-22 16:11:01.688563"
+  }
+}

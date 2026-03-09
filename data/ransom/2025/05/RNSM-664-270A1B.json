@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-270A1B",
+  "type": "ransomware-incident",
+  "title": "Corantioquia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Corantioquia",
+    "domain": "corantioquia.gov.co",
+    "country": "CO",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/38df9220560dced005695cf7d4fb737e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29yyw50aw9xdwlhqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-27 11:38:39.000000",
+    "disclosedDate": "2025-05-27 11:56:26.856540"
+  }
+}

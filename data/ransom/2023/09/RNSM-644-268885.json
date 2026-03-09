@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-644-268885",
+  "type": "ransomware-incident",
+  "title": "Pond Security ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pond Security",
+    "domain": "pond-security.com",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 400000000000,
+    "description": "Pond Security is a security firm that neglected the banal norms of cybersecurity. In this regard, we managed to infiltrate the servers of this company and download a huge archive of data (400 gb).  This archive contains: Correspondence of the employees of this company with such important bodies as NATO, US Army, US Embassy in Berlin.  Data on arms purchases. Guidelines for the protection of important German facilities, including nuclear facilities, banks, military facilities.  Photos of important facilities in Germany. Documents related to the U.S. Army.  Documents related to NATO.  And much more....",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/417f4ea59301ce4822fca365a8eed203.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ug9uzcbtzwn1cml0eubhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-26 06:42:23.123456",
+    "disclosedDate": "2023-09-26 07:03:13.943792"
+  }
+}

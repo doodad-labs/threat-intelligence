@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-067048",
+  "type": "ransomware-incident",
+  "title": "hkri.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hkri.com",
+    "domain": "hkri.com",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HKR International Limited, an investment holding company, invests in, develops, and manages real estate properties in Hong Kong, Macau, Mainland China, Japan, and South East Asia. It operates through five segments: Property Development, Property Inve...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agtyas5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-06 15:25:58.922364",
+    "disclosedDate": "2023-02-06 15:25:58.922364"
+  }
+}

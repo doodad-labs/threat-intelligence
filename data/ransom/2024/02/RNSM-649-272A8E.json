@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-649-272A8E",
+  "type": "ransomware-incident",
+  "title": "JS International ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JS International",
+    "domain": "jsicabinetry.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "JS International, Inc. was founded in 1997 and is engaged in the manufacture of solid wood furniture structures (cabinets, accessories, etc.). The company currently has 95 employees. JSI Cabinetry corporate office is located in 485 Commerce Dr, Fall River, Massachusetts, 02720, United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6413d14f6ee850356e3204b8469e17ff.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/slmgsw50zxjuyxrpb25hbebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-27 17:51:54.12345",
+    "disclosedDate": "2024-02-27 19:23:58.891099"
+  }
+}

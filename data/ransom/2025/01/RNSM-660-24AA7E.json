@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-660-24AA7E",
+  "type": "ransomware-incident",
+  "title": "www.usmba.ac.ma ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.usmba.ac.ma",
+    "domain": "usmba.ac.ma",
+    "country": "MA",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "gdlockersec",
+    "name": "GDLockerSec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 8000000,
+    "description": "8MB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/17bb6ffd71987aa8dcf10242755037fd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnvzbwjhlmfjlm1hqedetg9ja2vyu2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 16:44:47.477842",
+    "disclosedDate": "2025-01-24 16:46:00.622901"
+  }
+}

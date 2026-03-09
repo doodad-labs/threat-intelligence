@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-28CD06",
+  "type": "ransomware-incident",
+  "title": "Neurological Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Neurological Associates",
+    "domain": "neuroassociates.us",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Neuro Associates, located in Kirkland, Washington, is a neurology clinic established in 1974 with a team of four highly experienced neurologists. The clinic offers comprehensive neurological services, including advanced MRI diagnostics, while prioritizing personalized and compassionate patient care. They emphasize accessibility and cost-effectiveness, not charging facility fees, and focus on one-on-one consultations between patients and their physicians. Neuro Associates aims to support patients with a wide range of neurological conditions through tailored treatment plans and a commitment to improving their quality of life.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ddd842439c7ed620f4f91766c44b9f26.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv1cm9sb2dpy2fsiefzc29jawf0zxnazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-27 15:11:42.776620",
+    "disclosedDate": "2025-12-28 15:50:08.662915"
+  }
+}

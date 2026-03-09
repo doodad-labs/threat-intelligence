@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-05F117",
+  "type": "ransomware-incident",
+  "title": "egco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "egco.com",
+    "domain": "egco.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Electricity Generating Public Company Limited - EGCO Group",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d5a502385d0c0dbefbf3b610fc1c4f06.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwdjby5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-05 07:47:00.000000",
+    "disclosedDate": "2023-11-05 08:30:37.172142"
+  }
+}

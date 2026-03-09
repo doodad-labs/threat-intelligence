@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26C358",
+  "type": "ransomware-incident",
+  "title": "EA SMITH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EA SMITH",
+    "domain": "smith.no",
+    "country": "NO",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SmithStål Nord is a company that operates in the Building Materials industry. It employs 251-500 people and has $50M-$100M of revenue",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fb310591b712efa7c969cf4621a56072.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ruegu01jvehaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-18 23:58:32.000000",
+    "disclosedDate": "2023-07-26 14:08:17.910278"
+  }
+}

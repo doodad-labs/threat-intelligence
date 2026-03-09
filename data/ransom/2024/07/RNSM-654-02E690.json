@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-02E690",
+  "type": "ransomware-incident",
+  "title": "Vermont Panurgy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vermont Panurgy",
+    "domain": "panurgyvt.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "For over 30 years, we have also been providing outstanding IT and training services for state agencies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmvybw9udcbqyw51cmd5qgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-02 08:18:21.205688",
+    "disclosedDate": "2024-07-02 09:15:13.641361"
+  }
+}

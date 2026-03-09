@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-07B61E",
+  "type": "ransomware-incident",
+  "title": "SKYEEXCAVATIONS.COM.AU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SKYEEXCAVATIONS.COM.AU",
+    "domain": "skyeexcavations.com.au",
+    "country": "AU",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Skye Excavations is an Australian company providing integrated excavation services. They specialize in technical and logistical expertise in excavations, demolition, soil removal, and other associated services. Their team is comprised of experienced professionals who have worked on various projects ranging from residential to commercial sites. Through their efficient services and robust solutions, they ensure that projects are completed safely, on time, and within budget.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/79277b0b92dccdf2c7f4418786d77de2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0tzruvyq0fwqvrjt05tlknpts5bvubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 20:54:01.960078",
+    "disclosedDate": "2026-02-07 20:54:16.804367"
+  }
+}

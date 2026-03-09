@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-654-26042B",
+  "type": "ransomware-incident",
+  "title": "LITEON ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LITEON",
+    "domain": "liteon.com",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomexx",
+    "name": "ransomexx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 142000000000,
+    "description": "LITEON Technology Corporation, based in Taiwan, is a leading company in the electronics industry known for its diverse range of products. Founded in 1975, LITEON specializes in the development and manufacturing of optoelectronics, storage devices, and other electronic components. Its products include LED lighting solutions, semiconductors, automotive electronics, and smart healthcare devices. LITEON is recognized for its innovation and commitment to sustainability, providing high-quality technology solutions to global customers while emphasizing environmental responsibility. Leaked data size: 142GB.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3a73f2603aeb073ff46176dbe8a6bde8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/teluru9oqhjhbnnvbwv4ea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isnew=y&seq_no=3&spoke_time=170208&spoke_date=20240725&co_id=2301",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-26 11:55:59.000000",
+    "disclosedDate": "2024-07-26 13:12:14.836200"
+  }
+}

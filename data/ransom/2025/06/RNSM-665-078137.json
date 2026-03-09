@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-665-078137",
+  "type": "ransomware-incident",
+  "title": "AntFarm ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AntFarm",
+    "domain": "antfarmservices.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] AntFarm is a business incubator based in Mumbai, India. It focuses on developing early-stage businesses, including start-ups, in the digital media and technology sectors. AntFarm helps companies grow by providing resources, tech support, mentorship, and funding. Its portfolio includes companies like Stylista, Fork Media, and Propelld.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw50rmfybub3b3jszgxlywtz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-04 00:00:00.000000",
+    "disclosedDate": "2025-06-07 12:15:33.459998"
+  }
+}

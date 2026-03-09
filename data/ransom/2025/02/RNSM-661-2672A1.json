@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-2672A1",
+  "type": "ransomware-incident",
+  "title": "www.emeryair.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.emeryair.net",
+    "domain": "emeryair.net",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Emery Air is a full-service aviation company based in Rockford, Illinois offering a wide range of services like aircraft maintenance, charter services, aircraft ground handling and fueling. It caters to a diverse range of customers, from private aircraft owners to commercial airlines. Emery Air's expertise ensures quality and reliable service. It's been in operation for over 50 years and is a trusted name in the industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/456becefba0a30e1c439ee5fe35d3c78.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmvtzxj5ywlylm5ldebyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-13 00:00:00.000000",
+    "disclosedDate": "2025-02-26 18:06:01.090399"
+  }
+}

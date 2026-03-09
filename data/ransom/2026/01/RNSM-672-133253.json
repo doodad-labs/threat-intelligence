@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-672-133253",
+  "type": "ransomware-incident",
+  "title": "Living Realty ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Living Realty",
+    "domain": "livingrealty.com",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "securotrop",
+    "name": "securotrop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2105000000000,
+    "description": "Status: AWAITINGSize: 2105 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/803e55e296e455f81d0ab9e71f8387ab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgl2aw5nifjlywx0eubzzwn1cm90cm9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-13 00:00:00.000000",
+    "disclosedDate": "2026-01-13 11:19:42.580339"
+  }
+}

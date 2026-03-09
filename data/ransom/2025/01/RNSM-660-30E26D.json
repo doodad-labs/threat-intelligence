@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-660-30E26D",
+  "type": "ransomware-incident",
+  "title": "soitinlaine.fi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "soitinlaine.fi",
+    "domain": "soitinlaine.fi",
+    "country": "FI"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Soitin Laine - Luotettavaa soitinkauppaa jo vuodesta 1931 Meiltä löydät kaikki tarvittavat soittimet, nuotit, tarvikkeet sekä äänen taltioimiseen tarvittavat laitteet. Osta verkosta tai tule asioimaan myymäläämme Turkuun tai Helsinkiin.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c29pdglubgfpbmuuzmladghyzwvhbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-30 12:03:16.729283",
+    "disclosedDate": "2025-01-30 12:03:16.729283"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-671-07B2B6",
+  "type": "ransomware-incident",
+  "title": "crystal-d.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "crystal-d.com",
+    "domain": "crystal-d.com",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Crystal D is the premier corporate crystal awards, trophy, and promotional products manufacturer. Ou...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7b67e8a69f3e86ee10e238484b423447.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3j5c3rhbc1klmnvbubsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://members.asicentral.com/news/industry-news/march-2025/cyberattack-debilitates-crystal-ds-operations-communication-down-orders-rescheduled/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-08 11:42:00.000000",
+    "disclosedDate": "2025-12-07 10:28:32.017494"
+  }
+}

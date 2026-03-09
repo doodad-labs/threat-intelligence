@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-247100",
+  "type": "ransomware-incident",
+  "title": "CarGurus, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CarGurus, Inc.",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "shinyhunters",
+    "name": "shinyhunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 6100000000,
+    "description": "Size: 6.1GB (compressed) | Updated: 21 Feb 2026",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fyr3vydxmsieluyy5ac2hpbnlodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-21 11:10:00.000000",
+    "disclosedDate": "2026-02-24 12:13:32.030905"
+  }
+}

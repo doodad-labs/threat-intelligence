@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-25C625",
+  "type": "ransomware-incident",
+  "title": "gosvt.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gosvt.com",
+    "domain": "gosvt.com",
+    "country": "US",
+    "sector": "Entertainment"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SVT specializes in designing, engineering, commissioning, and servicing turn-key commercial audio/video systems including IT, audio/video distribution, digital signage, surveillance & security, broadcasting and a host of other technology systems.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aea4efdd26f2720de335a60d196c7b14.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z29zdnquy29tqhrocmvlyw0=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-25 18:49:42.578716",
+    "disclosedDate": "2025-05-25 18:50:48.654588"
+  }
+}

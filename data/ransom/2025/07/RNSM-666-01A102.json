@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-666-01A102",
+  "type": "ransomware-incident",
+  "title": "Watermark Marine Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Watermark Marine Systems",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "Watermark Marine Systems is a full-line marine contractor servingthe Lakes Region of New Hampshire since 1990. They offer a complete range of shorefront construction services with crews working year-round using mobile equipment to perform work on any of New Hampshire’s lakes or ponds.We are ready to upload more than 10 GB of corporate documents. Employee information, confidentiality agreement, financial information (audits, reports, invoices, so on), NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2f0zxjtyxjrie1hcmluzsbtexn0zw1zqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-30 00:00:00.000000",
+    "disclosedDate": "2025-07-01 16:08:34.892171"
+  }
+}

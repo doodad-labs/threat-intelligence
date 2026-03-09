@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-659-1102D8",
+  "type": "ransomware-incident",
+  "title": "AC Technical Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AC Technical Systems",
+    "domain": "actechnical.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 400000000000,
+    "description": "With over 400 GB of files stolen  , company has 48 hours to contact us before making files public .Company Description : At AC Technical Systems Ltd., we live in a high performance culture.Our vision is to share our enthusiasm for s            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qumgvgvjag5py2fsifn5c3rlbxnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 00:00:00.000000",
+    "disclosedDate": "2024-12-11 17:01:41.310279"
+  }
+}

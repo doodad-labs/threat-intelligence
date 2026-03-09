@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-649-2754F1",
+  "type": "ransomware-incident",
+  "title": "verbraucherzentrale hessen ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "verbraucherzentrale hessen",
+    "domain": "verbraucherzentrale-hessen.de",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "sample leaked data before official publication",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/67304cebe4b693e8bb3e1d9f6f82a8c0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmvyynjhdwnozxj6zw50cmfszsbozxnzzw5aywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.zeit.de/news/2024-02/22/hacker-attackieren-verbraucherzentrale",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-27 22:44:59.123456",
+    "disclosedDate": "2024-02-27 23:51:06.836218"
+  }
+}

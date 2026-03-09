@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-09A036",
+  "type": "ransomware-incident",
+  "title": "wsisd.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wsisd.net",
+    "domain": "wsisd.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "White Settlement Independent School District",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/61a183f8f6dafa7607167f7e708cb369.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3npc2qubmv0qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-09 16:34:00.000000",
+    "disclosedDate": "2023-06-09 17:55:01.068333"
+  }
+}

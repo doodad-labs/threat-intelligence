@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-31E0DF",
+  "type": "ransomware-incident",
+  "title": "dms-ksa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dms-ksa.com",
+    "domain": "dms-ksa.com",
+    "country": "SA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] DMS-KSA, also known as Digital Myth Solutions, is a leading company in Saudi Arabia offering digital marketing services. Their offerings range from SEO, PPC campaigns, social media management, website design, to online reputation management. Their strategic digital solutions aim to elevate businesses' online presence, engage audiences effectively, and boost sales through tailored marketing strategies. Their team of experts combines global experience with local understanding.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a5bcb43d4f10c11440400e42196493aa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zg1zlwtzys5jb21aznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-31 13:46:37.027822",
+    "disclosedDate": "2025-01-31 13:46:37.027822"
+  }
+}

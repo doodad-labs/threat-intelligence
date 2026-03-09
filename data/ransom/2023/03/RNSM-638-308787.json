@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-638-308787",
+  "type": "ransomware-incident",
+  "title": "7x7oralsurgery.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "7x7oralsurgery.com",
+    "domain": "7x7oralsurgery.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 114000000000,
+    "description": "7x7 Dental Implant & Oral Surgery 114Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/n3g3b3jhbhn1cmdlcnkuy29tqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-30 07:12:54.041646",
+    "disclosedDate": "2023-03-30 07:12:54.041671"
+  }
+}

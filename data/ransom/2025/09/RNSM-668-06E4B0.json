@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-06E4B0",
+  "type": "ransomware-incident",
+  "title": "BinBaires ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BinBaires",
+    "domain": "binbaires.com.ar",
+    "country": "AR"
+  },
+  "actor": {
+    "id": "beast",
+    "name": "beast",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BinBaires is a company that operates a network of casinos and bingo halls in Argentina, with operations in the provinces of Buenos Aires (PLV) and Mendoza, including facilities in Ezeiza and Olavarria. Its main activity is the organization of gambling, including slot machines, bingo, and roulette. It is part of the joint venture MAGIC STAR S.A. - CASINO BUENOS AIRES S.A. U.T.E.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b071dcb639f7520f1b83b39e27442fcf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmluqmfpcmvzqgjlyxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-13 00:00:00.000000",
+    "disclosedDate": "2025-09-06 17:12:20.906306"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-21BE12",
+  "type": "ransomware-incident",
+  "title": "www.elizajennings.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.elizajennings.org",
+    "domain": "elizajennings.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Eliza Jennings is a non-profit organization offering a range of solutions for seniors including independent and assisted living, skilled nursing and rehabilitation services. Their commitment to enhance the lives of aging individuals is reflected in their innovative programs like SAIDO Learning, which has been scientifically proven to improve the symptoms of Alzheimer's disease and dementia.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/183e7661d81db68d22b715817641bba1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmvsaxphamvubmluz3mub3jnqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-21 16:27:26.000000",
+    "disclosedDate": "2025-03-21 18:55:41.937006"
+  }
+}

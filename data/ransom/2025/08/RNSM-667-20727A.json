@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-20727A",
+  "type": "ransomware-incident",
+  "title": "netfusionconsulting.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "netfusionconsulting.com",
+    "domain": "netfusionconsulting.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "NetFusion Consulting, Inc. is California's largest company specializing in IT integration in the medical and dental fields, specializing in IT consulting and integration specifically for dentists. The company offers a wide range of services,             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/85be062cb372b9b1640b4b9d4c9cc752.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmv0znvzaw9uy29uc3vsdgluzy5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-20 00:00:00.000000",
+    "disclosedDate": "2025-08-20 14:11:45.330347"
+  }
+}

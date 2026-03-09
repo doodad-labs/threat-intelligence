@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-23F265",
+  "type": "ransomware-incident",
+  "title": "Service Avicole JGL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Service Avicole JGL",
+    "domain": "serviceavicole.com",
+    "country": "CA",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Service Avicole JGL is a company specializing in poultry services. They focus on providing comprehensive solutions to improve poultry farm operations, including supply of quality poultry equipment, health management, and productivity enhancement strategies. Their expertise supports farmers in optimizing poultry health, ensuring efficient production, and maintaining high standards of biosecurity.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0c1eb76033e15857d67b782f8ecf9d16.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vydmljzsbbdmljb2xliephtebpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-23 22:09:35.098655",
+    "disclosedDate": "2024-11-23 22:09:37.359377"
+  }
+}

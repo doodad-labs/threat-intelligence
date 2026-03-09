@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-663-2482FA",
+  "type": "ransomware-incident",
+  "title": "Fogelman Management Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fogelman Management Group",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 12000000000,
+    "description": "Fogelman is a multifamily investment and property management firm.We are ready to upload than 12GB of essential corporate document.The most interesting are ~4000 files filled with personal information of employees (SSN, DOB, phone, email and so on), financial data (audits, payment details, reports), corporate NDA’s, confidential trial documents, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rm9nzwxtyw4gtwfuywdlbwvudcbhcm91cebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-23 00:00:00.000000",
+    "disclosedDate": "2025-04-24 15:46:34.925268"
+  }
+}

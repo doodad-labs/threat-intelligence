@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-157AEB",
+  "type": "ransomware-incident",
+  "title": "MeridianLink ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MeridianLink",
+    "domain": "meridianlink.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MeridianLink is the provider of Loan Origination System & Digital Lending Platform for Banks, Credit Unions, & Other Financial Institutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bd1c3a19bbd0ddd8ebfdefd1ea0bf3c3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvyawrpyw5maw5rqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-15 00:51:06.123456",
+    "disclosedDate": "2023-11-15 00:57:46.202662"
+  }
+}

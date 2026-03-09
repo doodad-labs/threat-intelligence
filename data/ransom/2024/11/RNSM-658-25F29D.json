@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-658-25F29D",
+  "type": "ransomware-incident",
+  "title": "atfservices.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "atfservices.com.au",
+    "domain": "atfservices.com.au",
+    "country": "AU",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "Don't risk inferior solutions. ATF is trusted by top contractors all around Australia.\r For over 25 years throughout Australia and New Zealand ATF has built a reputation for delivering an extensive range of smarter safety solutions through superior product quality, backup and service.\r \r The majority of ATF products are locally made and rigorously tested to meet the highest Australian standards and the toughest conditions.\r \r \r We have 1 TB DATA OF THIS COMPANY.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4fc850791247da5061e6cdb01b59da46.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxrmc2vydmljzxmuy29tlmf1qgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cyberdaily.au/security/11414-exclusive-fencing-and-site-security-firm-atf-services-confirms-cyber-attack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-23 01:33:13.895000",
+    "disclosedDate": "2024-11-25 06:48:14.153787"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-05EC02",
+  "type": "ransomware-incident",
+  "title": "Rudolf-Venture Chemical Inc - Part 1 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rudolf-Venture Chemical Inc - Part 1",
+    "domain": "rudolf.de",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "monti",
+    "name": "monti",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "RUDOLF GROUP implements the manufacturing of chemical auxiliaries",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/55529717e536f29b6a683a3a7283bbdf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/unvkb2xmlvzlbnr1cmugq2hlbwljywwgsw5jic0gugfydcaxqg1vbnrp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-05 15:59:36.000000",
+    "disclosedDate": "2023-12-05 16:10:34.712343"
+  }
+}

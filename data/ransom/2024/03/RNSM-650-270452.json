@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-270452",
+  "type": "ransomware-incident",
+  "title": "lifelinedatacenters.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lifelinedatacenters.com",
+    "domain": "lifelinedatacenters.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We hit the Lifeline Federal Hosting and downloaded some juicy data. We will not publish it but because they pretend nothing happened, we are sharing their DC full hash list.C0201DC02$:1103:aad3b435b51404eeaad3b435b51404ee:db12f43738af90e3e152e1be...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/446c4a4dc047df63521c6ec78c79dfbd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bglmzwxpbmvkyxrhy2vudgvycy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-27 10:04:00.000000",
+    "disclosedDate": "2024-03-27 11:55:45.281208"
+  }
+}

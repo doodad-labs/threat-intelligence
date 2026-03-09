@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-024572",
+  "type": "ransomware-incident",
+  "title": "Fincasrevuelta Data Leak ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fincasrevuelta Data Leak",
+    "domain": "fincasrevuelta.es",
+    "country": "ES",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "38 GBhttps://www.fincasrevuelta.es/ https://gofile.io/d/7LIpPv",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c9af0df0969c5a5286213864f0eb9340.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmluy2fzcmv2dwvsdgegrgf0ysbmzwfrqgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-02 16:25:00.784242",
+    "disclosedDate": "2024-04-02 16:25:00.784264"
+  }
+}

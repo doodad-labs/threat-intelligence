@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-658-15C4D1",
+  "type": "ransomware-incident",
+  "title": "www.gob.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.gob.mx",
+    "country": "MX",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Gob.mx is the official digital platform of the Mexican government, designed to provide citizens with easy access to government services and information. It centralizes resources from various federal entities, offering a user-friendly interface for tasks such as paying taxes, accessing social services, and obtaining official documents. The platform aims to enhance transparency, efficiency, and citizen engagement in governmental processes.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a4172c3b759552aed82868b4b66cb52e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmdvyi5teebyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-15 06:07:48.000000",
+    "disclosedDate": "2024-11-15 19:23:23.522605"
+  }
+}

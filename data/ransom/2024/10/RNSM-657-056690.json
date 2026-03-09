@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-056690",
+  "type": "ransomware-incident",
+  "title": "omniboxx.nl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "omniboxx.nl",
+    "domain": "omniboxx.nl",
+    "country": "NL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Omniboxx.nl is a Dutch company specializing in innovative storage and organization solutions. They offer a variety of products designed to optimize space and enhance efficiency in both residential and commercial settings. Their offerings typically include modular shelving, storage boxes, and customizable systems that cater to diverse needs. The company focuses on high-quality materials and modern design to ensure durability and aesthetic appeal.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/33b37b4497a6901c0eab861d0d037ea6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b21uawjvehgubmxacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-04 12:46:32.000000",
+    "disclosedDate": "2024-10-05 10:46:01.943394"
+  }
+}

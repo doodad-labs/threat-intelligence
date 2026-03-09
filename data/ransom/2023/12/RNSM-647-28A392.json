@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-28A392",
+  "type": "ransomware-incident",
+  "title": "bachoco.com.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bachoco.com.mx",
+    "domain": "bachoco.com.mx",
+    "country": "MX",
+    "sector": ""
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1: https://***************.onion/BACHOCO/PROOF",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/44f2fcf039d00513617bb9f8712efc63.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymfjag9jby5jb20ubxhay2fjdhvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-05 00:00:00.000000",
+    "disclosedDate": "2023-12-28 16:08:45.553586"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-646-163239",
+  "type": "ransomware-incident",
+  "title": "citycontainer.dk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "citycontainer.dk",
+    "domain": "citycontainer.dk",
+    "country": "DK",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 502000000000,
+    "description": "[DK] CITY CONTAINER Moderne og miljørigtige logistik- og affaldsløsninger. Med mere end 35 års erfaring er City Container A/S i dag en af landets førende og mest velkonsoliderede virksomheder inden for indsamling og transport af affald for kontor, industri, bygge- og anlægsbranchen, samt store kommunale affaldsløsninger (MSW). City Container har hovedsæde i Farum med afdelinger i Favrskov, Hørsholm, Greve, Gentofte, Kalundborg, Lejre, Odense og Kolding. I City Container er vi ca. 500 ansatte, som dagligt arbejder for at skabe de smarteste og mest miljøvenlige affaldsløsninger for private, virksomheder og kommuner. City Container råder over en samlet vognpark på ca. 180 biler, bestående af komprimatorbiler, der servicerer kommuner med husholdningsaffald (MSW), lastbiler til opgaver for industrikunder og container og kranbiler primært til byggeriet.SITE: www.citycontainer.dk Address : 62 Farum Gydevej, Farum, Capital Region, 3520, DenmarkALL DATA SIZE: 502gb 1. Human Resources 2. Finance 3. Home folder (Personal files employees)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b405e882bea83a184bb509c23cc885d7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2l0ewnvbnrhaw5lci5ka0bibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-31 00:00:00.000000",
+    "disclosedDate": "2023-11-16 14:28:01.862985"
+  }
+}

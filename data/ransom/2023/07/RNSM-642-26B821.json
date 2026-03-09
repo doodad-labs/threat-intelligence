@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-642-26B821",
+  "type": "ransomware-incident",
+  "title": "Kovair Software ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kovair Software",
+    "domain": "kovair.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "200 GB of internal files (Kovair.com) were stolen from the company’s servers. The files contain:– Project Source Codes– Personal data of employees– Various internal work documents To fully restore the system and delete these files, company representatives must contact by August 3, 2023.Otherwise, all this data will be published here and other forums,in the same […]",
+    "claimed_data_types": [
+      "internal-documents",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d85e524c1e77edda3c9fabb7c2602700.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s292ywlyifnvznr3yxjlqgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 21:21:18.086760",
+    "disclosedDate": "2023-07-26 21:21:18.086786"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-293B5F",
+  "type": "ransomware-incident",
+  "title": "solaroptimum.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "solaroptimum.com",
+    "domain": "solaroptimum.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Solar Optimum, Inc. is a Los Angeles-based company that provides renewable solar energy to residential, business, commercial and industrial clients throughout Southern California. Since 2009, Solar Optimum's business philosophy has been to bring positive change through environmentally friendly, alternative, independent and affordable solar solutions. The staff at Solar Optimum is trained and certified to serve and represent their clients with respect and exceptional customer service. The award-winning company's ultimate goal is to protect the environment using the most innovative solar technology available while delivering value to customers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8e41683bb4ce7229422838416c84d6b2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c29syxjvchrpbxvtlmnvbubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-15 00:00:00.000000",
+    "disclosedDate": "2025-03-29 00:32:05.735518"
+  }
+}

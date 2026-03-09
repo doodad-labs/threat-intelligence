@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-04EED3",
+  "type": "ransomware-incident",
+  "title": "bpmmicro.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bpmmicro.com",
+    "domain": "bpmmicro.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 11.03.2025. BPM Microsystems manufactures high-performance, high-quality, and cost-effective device programmers and accessories for programmable semiconductor devices. The company has            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e06fa0f5114539f1bc6c22d9eaf989d9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynbtbwljcm8uy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-28 00:00:00.000000",
+    "disclosedDate": "2025-03-04 10:19:24.864595"
+  }
+}

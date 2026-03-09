@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-662-06027D",
+  "type": "ransomware-incident",
+  "title": "Oberlin Cable Co-op (oberlin.net) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Oberlin Cable Co-op (oberlin.net)",
+    "domain": "oberlin.net",
+    "country": "US",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 33000000000,
+    "description": "33 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc26692b64cb6aea4ba52952837de300.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2jlcmxpbibdywjszsbdby1vccaob2jlcmxpbi5uzxqpqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-06 00:00:00.000000",
+    "disclosedDate": "2025-03-06 12:43:56.692075"
+  }
+}

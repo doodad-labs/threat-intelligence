@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-658-230EDD",
+  "type": "ransomware-incident",
+  "title": "Schuck-Gruppe ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Schuck-Gruppe",
+    "domain": "schuck-gruppe.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Schuck-Gruppe is a German company specializing in pipeline and infrastructure systems. It focuses on the development, production, and installation of piping solutions, particularly for gas, water, and district heating. The company is known for its innovative technologies and commitment to quality, serving clients across various industries with customized solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2nodwnrludydxbwzubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-23 19:06:42.088442",
+    "disclosedDate": "2024-11-23 19:06:44.903268"
+  }
+}

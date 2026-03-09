@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-1079D3",
+  "type": "ransomware-incident",
+  "title": "Sternthal Montigny Greenberg St-Germain ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sternthal Montigny Greenberg St-Germain",
+    "domain": "smgs.ca",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "brotherhood",
+    "name": "brotherhood",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 22000000000,
+    "description": "Contains: 22 Gb compressed Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/49b41cf61e8e70544fa0387a7989bffc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rlcm50agfsie1vbnrpz255iedyzwvuymvyzybtdc1hzxjtywluqgjyb3rozxjob29k",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-10 12:38:58.392778",
+    "disclosedDate": "2025-10-10 12:38:59.888843"
+  }
+}

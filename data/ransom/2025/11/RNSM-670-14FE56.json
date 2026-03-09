@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-14FE56",
+  "type": "ransomware-incident",
+  "title": "Aero Precision ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aero Precision",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 24000000000,
+    "description": "Aero Precision is a firearm and components manufacturer.We will upload 24gb corporate documents soon. Employee information, project details, contracts and agreements, NDAs, specifications, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwvybybqcmvjaxnpb25aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-14 00:00:00.000000",
+    "disclosedDate": "2025-11-14 14:41:08.746781"
+  }
+}

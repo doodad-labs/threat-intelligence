@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-01223D",
+  "type": "ransomware-incident",
+  "title": "Flamingo Holland ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Flamingo Holland",
+    "domain": "flamingoholland.nl",
+    "country": "NL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "trigona",
+    "name": "trigona",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Flamingo Holland is a Dutch-based flower company that specializes in growing, exporting, and wholesaling high-quality cut flowers, specifically, roses, peonies, tulips, and other seasonal flowers globally. The company was founded in 1985 and has since then become one of the leading flower companies in the Netherlands.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/769a32a2869399f50f2f162a161dd11a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmxhbwluz28gsg9sbgfuzeb0cmlnb25h",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-01 16:36:28.635266",
+    "disclosedDate": "2023-10-01 16:36:28.635290"
+  }
+}

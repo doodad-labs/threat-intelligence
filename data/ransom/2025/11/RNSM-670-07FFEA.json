@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-07FFEA",
+  "type": "ransomware-incident",
+  "title": "LV.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LV.COM",
+    "domain": "lv.com",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] LV.COM (Liverpool Victoria) is a UK-based insurance company offering a broad range of insurance and retirement products. The company provides services such as car, home, travel, life, and pet insurance, as well as investment and retirement plans. Known for its comprehensive cover, competitiveness and quality customer service, it's one of the largest insurance companies in the UK.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b08b13e7291506b548224998eb4df936.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tfyuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-07 14:36:17.780674",
+    "disclosedDate": "2025-11-07 14:36:35.879069"
+  }
+}

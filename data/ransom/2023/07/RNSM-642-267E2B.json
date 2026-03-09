@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-642-267E2B",
+  "type": "ransomware-incident",
+  "title": "Law Foundation of Silicon Valley ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Law Foundation of Silicon Valley",
+    "domain": "lawfoundation.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Law Foundation of Silicon Valley uses innovative legal advocacy as a tool for social change. We work tirelessly to ensure that every person in our thriving region is granted the same rights and legal access. Every day, our attorneys, social workers and advocates craft inventive solutions to the life-changing legal issues facing low-income people in Silicon Valley.  Our mission is to advance the rights of under-represented individuals and families in our diverse community through legal services, strategic advocacy, and educational outreach.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5e950fc8865837d3c43e4c48eeeaa921.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgf3iezvdw5kyxrpb24gb2ygu2lsawnvbibwywxszxlaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.mercurynews.com/2023/06/27/san-jose-nonprofit-that-serves-low-income-residents-impacted-by-ransomware-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-06 17:47:38.000000",
+    "disclosedDate": "2023-07-26 15:45:07.413809"
+  }
+}

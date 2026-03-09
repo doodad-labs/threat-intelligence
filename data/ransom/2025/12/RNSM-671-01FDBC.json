@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-01FDBC",
+  "type": "ransomware-incident",
+  "title": "Industrial Steam ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Industrial Steam",
+    "domain": "industrialsteam.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Industrial Steam is a leading manufacturer specializing in pressurized and atmospheric deaerators, providing innovative solutions for the boiler industry since 1952. Their product line includes various types of deaerators, blowdown systems, condensate recovery units, and advanced feedwater systems. With a commitment to unmatched performance and customer satisfaction, they offer unique designs such as dual compartment systems along with established technologies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ee80d5c732a17d6c6b3dbfb92e0af44b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5kdxn0cmlhbcbtdgvhbubyyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-16 00:00:00.000000",
+    "disclosedDate": "2025-12-01 18:15:38.265090"
+  }
+}

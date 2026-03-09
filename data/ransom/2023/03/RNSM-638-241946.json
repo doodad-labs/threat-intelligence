@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-241946",
+  "type": "ransomware-incident",
+  "title": "DERK.CL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DERK.CL",
+    "domain": "derk.cl",
+    "country": "CL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DERK INGENIERÍA, GEOLOGÍA Y SERVICIOS - Inicio",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4f9cde336d62ff17e812aac85db011d9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/revssy5dtebjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-24 11:09:05.593474",
+    "disclosedDate": "2023-03-24 11:09:05.593487"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-663-0451B8",
+  "type": "ransomware-incident",
+  "title": "rheinmetall.com (Rheinmetall Defence) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rheinmetall.com (Rheinmetall Defence)",
+    "domain": "rheinmetall.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "rheinmetall.com (Rheinmetall Defence)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cf977c9fa77d82b903a5218936acf92e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmhlaw5tzxrhbgwuy29tichsagvpbm1ldgfsbcbezwzlbmnlkubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.echo24.de/welt/pierburg-rheinmetall-hacker-angriff-opfer-cyberangriff-kolbenschmidt-ruestung-dax-aktie-92211320.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-04 01:15:57.000000",
+    "disclosedDate": "2025-04-04 06:51:48.591524"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-640-100AEF",
+  "type": "ransomware-incident",
+  "title": "New World Travel, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "New World Travel, Inc.",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "New World Travel, Inc. is a comprehensive receptive services provider for destinations throughout the USA and Canada. We have something in common withthis organization. We've provided receptive services for New World Travel internal documentation that includes, as you understand, great amount of personal information of both their clients and employees. We'll share soon! P.S. Look for a travel agency carefully.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv3ifdvcmxkifryyxzlbcwgsw5jlkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-04 01:02:03.456789",
+    "disclosedDate": "2023-05-10 13:46:54.809392"
+  }
+}

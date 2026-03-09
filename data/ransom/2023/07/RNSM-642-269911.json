@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-269911",
+  "type": "ransomware-incident",
+  "title": "QUARK.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "QUARK.COM",
+    "domain": "quark.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Quark Software, Inc. - Modern Content Lifecycle Management",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/efde284c07d2066e8d7a7f6dfd8879dd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uvvbuksuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:58:17.043386",
+    "disclosedDate": "2023-07-26 20:58:17.043407"
+  }
+}

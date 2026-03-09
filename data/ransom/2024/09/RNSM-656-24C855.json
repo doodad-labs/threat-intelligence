@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-24C855",
+  "type": "ransomware-incident",
+  "title": "Partners Air ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Partners Air",
+    "domain": "airpartner.com",
+    "country": "CH",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Partners Air is a company that...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/304fba5ca08cebd9b18b38743d3a6115.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfydg5lcnmgqwlyqgfyy3vzbwvkawe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-24 08:35:10.000000",
+    "disclosedDate": "2024-09-24 10:36:13.717855"
+  }
+}

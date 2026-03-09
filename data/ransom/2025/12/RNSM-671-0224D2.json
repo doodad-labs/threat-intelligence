@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-0224D2",
+  "type": "ransomware-incident",
+  "title": "Sarmap ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sarmap",
+    "country": "CH",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Sarmap is a Swiss technological company that specializes in the field of Earth Observation. Established in 1998, the company develops software tools and provides applications mainly to the remote sensing community. Their specialization lies in radar and radar satellite data processing and distribution, for agriculture, environment, and disaster monitoring.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9f02aa81312e8fe46dbd1af3c58b92a6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fybwfwqgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-02 19:23:56.375333",
+    "disclosedDate": "2025-12-02 19:24:12.052362"
+  }
+}

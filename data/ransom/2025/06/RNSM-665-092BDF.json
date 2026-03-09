@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-092BDF",
+  "type": "ransomware-incident",
+  "title": "electro-seal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "electro-seal.com",
+    "domain": "electro-seal.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Electro-Seal\" specializes in inspection, maintenance and repair services for the oil and gas industry. They focus on deploying safe, efficient, and cost-effective solutions to manage asset integrity and longevity. The company offers an extensive range of services including pipeline inspections, corrosion protection, industrial coatings, and risk assessments. Their mission is to ensure continuous operation of assets by minimizing downtime and optimizing productivity.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/25527dddb923ad1b87bead3f7861591b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwxly3ryby1zzwfslmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-09 21:47:50.187295",
+    "disclosedDate": "2025-06-09 21:48:21.646402"
+  }
+}

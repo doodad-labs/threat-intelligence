@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-07FD63",
+  "type": "ransomware-incident",
+  "title": "DESKTOPG.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DESKTOPG.COM",
+    "domain": "desktopg.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/333f1dd1dec2a712c60e7c2f57cec62e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/revts1rpuecuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 21:00:06.859315",
+    "disclosedDate": "2026-02-07 21:00:26.074689"
+  }
+}

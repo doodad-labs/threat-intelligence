@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-2997A0",
+  "type": "ransomware-incident",
+  "title": "Custom Food Ingredients ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Custom Food Ingredients",
+    "domain": "cfigroup.com.my",
+    "country": "MY",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Custom Food Group specializes in providing tailored food solutions for a diverse range of clients. With a focus on customization, they offer a variety of food products designed to meet the unique needs of businesses in the food service and re            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0576b9a7f0e4bd3ed1ad53f1e413099d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q3vzdg9tiezvb2qgsw5ncmvkawvudhnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-23 00:00:00.000000",
+    "disclosedDate": "2025-07-29 17:53:03.818632"
+  }
+}

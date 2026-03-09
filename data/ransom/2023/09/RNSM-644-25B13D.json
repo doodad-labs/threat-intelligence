@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-25B13D",
+  "type": "ransomware-incident",
+  "title": "zzcoldstores.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "zzcoldstores.com",
+    "domain": "zzcoldstores.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ZZColdstores specialises in temperature-controlled storage of mainly exotic fruit. With our advanced equipment we control the temperature, humidity and circulation of the air. Stevedores ZZcoldstores has its own terminal in the port of Vlissingen. Immediately next to this quay is a temperature-controlled storage of 15,000 m2.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4d24b8779f2d152eb9f9f1d57a03b496.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/enpjb2xkc3rvcmvzlmnvbubhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-25 21:45:58.123456",
+    "disclosedDate": "2023-09-25 22:11:44.166564"
+  }
+}

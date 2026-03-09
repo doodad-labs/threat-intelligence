@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-016815",
+  "type": "ransomware-incident",
+  "title": "CSG Consultants ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CSG Consultants",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15000000000,
+    "description": "CSG Consultants is a civil engineering company providing building, engineering, and construction management services. 15Gb of datato be released soon. Lots of passports, DLs, birth certs and other employees docs. You will also find NDAs, client's information,projects and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1nhienvbnn1bhrhbnrzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-01 16:07:48.589017",
+    "disclosedDate": "2024-10-01 16:07:49.819118"
+  }
+}

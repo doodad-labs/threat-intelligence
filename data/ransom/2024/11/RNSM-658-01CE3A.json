@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-658-01CE3A",
+  "type": "ransomware-incident",
+  "title": "Arctrade ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Arctrade",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Time to resolve : More than 40,000 customers info and other internal data https://arctrade.com ISO, State,LDC,Load Zone,Customer,LDC Acct ID #,Account Group,Is Special Needs,Is Switch Hold,Customer Added Date,Last Upload Date,Current Status,Current Status Change Date,Latest EDI Date,Contract Approval Date,Contract Status,Legal Document Language,Contract,Deal Type,Fixed Rate (MWh),Broker Fee Rate (MWh),Original Contract Begin,Original Contract End,Actual Contract Begin,Actual Contract End,Renewal Contract […]",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a1574688b6d66cfbb450ca8a42e35924.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjjdhjhzgvazxzlcmvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-01 00:55:23.567087",
+    "disclosedDate": "2024-11-01 00:55:24.702265"
+  }
+}

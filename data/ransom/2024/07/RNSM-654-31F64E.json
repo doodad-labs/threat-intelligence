@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-654-31F64E",
+  "type": "ransomware-incident",
+  "title": "www.srmedicalcenter.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.srmedicalcenter.org",
+    "domain": "srmedicalcenter.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The company Schneider Regional Medical Center was attacked by us, all infrastructure of the network was blocked. There were stolen the data, among which confidential information, private contracts, agreements, financial documentation, e-mail             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dbf9f0de2d08017018554161e8a27b5a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnybwvkawnhbgnlbnrlci5vcmdacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.virginislandsdailynews.com/news/schneider-hospital-investigating-ransomware-cyberattack/article_9cd7d2a6-490f-11ef-88bc-a73c05343d71.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-16 00:00:00.000000",
+    "disclosedDate": "2024-07-31 12:41:12.246260"
+  }
+}

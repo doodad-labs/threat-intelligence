@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-049F9B",
+  "type": "ransomware-incident",
+  "title": "YorkTest Laboratories ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "YorkTest Laboratories",
+    "domain": "yorktest.com",
+    "country": "GB",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 11.01.2025. YorkTest is one of the UK's market leaders in Home Health Testing, best known for their food sensitivity and intolerance tests which are backed by 38 years of scientific r            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7175eb70a7a28d34ac4c0cf80140d706.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ww9ya1rlc3qgtgfib3jhdg9yawvzqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 00:00:00.000000",
+    "disclosedDate": "2025-01-04 09:33:51.208944"
+  }
+}

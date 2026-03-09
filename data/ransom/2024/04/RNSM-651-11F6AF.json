@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-11F6AF",
+  "type": "ransomware-incident",
+  "title": "hirebus.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hirebus.com",
+    "domain": "hirebus.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "With HireBus, you can accurately identify the success potential of candidates fast and effectively develop your employees once hired. Using a scientifically-validated behavioral assessment powered by Behavioral Essentials and industry-specific profiling, we help you quickly assess a candidate’s fit for common roles in the home-services industry, and give you tools to understand and keep your employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/af855ba0a558ca157e5d79f5b0fc7ebe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aglyzwj1cy5jb21azgfya3zhdwx0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-21 00:00:00.000000",
+    "disclosedDate": "2024-04-11 19:15:40.516177"
+  }
+}

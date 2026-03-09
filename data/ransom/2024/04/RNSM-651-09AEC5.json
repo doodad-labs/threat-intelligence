@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-651-09AEC5",
+  "type": "ransomware-incident",
+  "title": "Rigcon ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rigcon",
+    "domain": "rigcon.com",
+    "country": "AU",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Civil Engineering Construction",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umlny29uqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-09 12:18:57.027079",
+    "disclosedDate": "2024-04-09 13:52:54.707234"
+  }
+}

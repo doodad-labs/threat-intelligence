@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-035433",
+  "type": "ransomware-incident",
+  "title": "Denton Regional Suicide Prevention Coalition ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Denton Regional Suicide Prevention Coalition",
+    "domain": "dentonmhmr.org",
+    "country": "",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "With over 200 GB of files stolen , company has 100 hours to contact us before making files public . The Denton Regional Suicide Prevention Coalition came together in June 2014 as a response to the high number of suicides in our area. We are d            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/54dd354b9d952d62c225a9790a6f0901.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvudg9uifjlz2lvbmfsifn1awnpzguguhjldmvudglvbibdb2fsaxrpb25acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-31 00:00:00.000000",
+    "disclosedDate": "2025-02-03 14:41:37.734180"
+  }
+}

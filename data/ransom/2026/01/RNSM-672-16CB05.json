@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-16CB05",
+  "type": "ransomware-incident",
+  "title": "ecsc.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ecsc.org",
+    "domain": "ecsc.org",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Website\r www.ecsc.org\r Revenue\r $11.2 million\r Industry\r Electricity, oil and gas\r Energy, utilities and waste\r Organizational structure\r Similar companies\r Company analytics\r About South Carolina Electric Cooperatives\r \r Electric Cooperatives of South Carolina, Inc. is a statewide service and trade association representing electric cooperatives throughout the state. It serves 18 consumer-owned electric cooperatives, one wholesale electric cooperative, one transmission cooperative, and one materials cooperative. The association's mission is focused on providing electricity to nearly 2 million South Carolinians through an extensive network of power lines, as well as providing energy efficiency programs and clean energy initiatives. The association advocates for the electrification of rural \r areas and provides various resources, including educational programs and assistance in purchasing electric vehicles.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a710cd5baa1a63406d5f151b1bed1708.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwnzyy5vcmdaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-16 10:00:00.000000",
+    "disclosedDate": "2026-01-16 17:35:49.573678"
+  }
+}

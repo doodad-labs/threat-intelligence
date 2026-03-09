@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-672-12E4A6",
+  "type": "ransomware-incident",
+  "title": "Brockhaus ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Brockhaus",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 44000000000,
+    "description": "Brockhaus Fertigungstechnik offers custom-designed special-purpose machinery, efficient retrofitting, and complex control technology.We will upload 44gb of corporate data soon. Financials, Lots of internal data, scanned employee documents, client information, projects, drawings and specifications, contracts and agreement, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjvy2toyxvzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-12 00:00:00.000000",
+    "disclosedDate": "2026-01-12 15:45:39.038762"
+  }
+}

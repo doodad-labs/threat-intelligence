@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-11EE3E",
+  "type": "ransomware-incident",
+  "title": "comacchio.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "comacchio.com",
+    "domain": "comacchio.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Comacchio has always strived to guarantee its customers the highest standards of efficiency and quality throughout the life of their equipment, from design to assembly and after-sales service. To maintain a high level of after-sales service we offer.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/751886f27e6879bf7c2e371cffb68ea7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29tywnjaglvlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-11 16:20:00.000000",
+    "disclosedDate": "2023-04-11 16:49:16.213470"
+  }
+}

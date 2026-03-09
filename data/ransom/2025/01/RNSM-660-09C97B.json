@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-660-09C97B",
+  "type": "ransomware-incident",
+  "title": "Galfer ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Galfer",
+    "country": "ES",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 65000000000,
+    "description": "GALFER is a leading manufacturer of friction materials and components for braking systems for the automobile, motorcycling, and bicycle sectors.We are ready to upload more than 65 GB of private corporate documents including: NDAs, contact numbers and e-mail addresses of employees and customers, employees DNI numbers, HR confidential information etc.",
+    "claimed_data_types": [
+      "phone-numbers",
+      "addresses"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2fszmvyqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-09 12:16:22.360090",
+    "disclosedDate": "2025-01-09 12:16:24.252421"
+  }
+}

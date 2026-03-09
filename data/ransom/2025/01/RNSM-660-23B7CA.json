@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-23B7CA",
+  "type": "ransomware-incident",
+  "title": "Enghouse (ex. Navita) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Enghouse (ex. Navita)",
+    "domain": "enghouse.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Enghouse is a publicly traded Canadian company that provides enterprise software solutions focused on remote work, visual computing, and communications for next-generation software-defined networks.We are ready to upload some private corporate documents such as: internal financial data (audits, payment details, reports), employee tax payer numbers, employee contact emails, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw5nag91c2ugkgv4liboyxzpdgepqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-23 14:50:28.421950",
+    "disclosedDate": "2025-01-23 14:50:29.968492"
+  }
+}

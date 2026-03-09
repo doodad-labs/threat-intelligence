@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-078D50",
+  "type": "ransomware-incident",
+  "title": "Kamo Jou Trading  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kamo Jou Trading ",
+    "domain": "kamojou.co.za",
+    "country": "ZA"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000,
+    "description": "Visits: 32 Data Size: 2GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ecc32a4a1b997737e766c2dc30cc7b41.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2ftbybkb3ugvhjhzgluzybacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-07 20:36:42.352673",
+    "disclosedDate": "2024-05-07 20:36:42.352693"
+  }
+}

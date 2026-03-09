@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-147B3D",
+  "type": "ransomware-incident",
+  "title": "prioritydispatch.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "prioritydispatch.net",
+    "domain": "prioritydispatch.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Priority Dispatch supports emergency dispatch centers around the world with the technology, tools, and training required to meet the needs of all types of dispatch environments. Databases that include complete information about requests, clients, the...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a91d46408f418c826e45532fbdd6e3af.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjpb3jpdhlkaxnwyxrjac5uzxrabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-13 07:46:00.000000",
+    "disclosedDate": "2023-06-14 08:55:18.613498"
+  }
+}

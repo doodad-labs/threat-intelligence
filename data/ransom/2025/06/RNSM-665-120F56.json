@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-665-120F56",
+  "type": "ransomware-incident",
+  "title": "infraestructures.cat ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "infraestructures.cat",
+    "domain": "infraestructures.cat",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "apos",
+    "name": "apos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have compromised your main server infraestructures.cat  we also took copy of all the data. We give you 15 days before we leak the data. this can only be resolved threw our support portal we provided. Do the right thing before things get worse.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw5mcmflc3rydwn0dxjlcy5jyxrayxbvcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-12 09:07:05.370098",
+    "disclosedDate": "2025-06-12 09:07:07.258954"
+  }
+}

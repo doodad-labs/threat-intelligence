@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-29F474",
+  "type": "ransomware-incident",
+  "title": "Appletec Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Appletec Ltd",
+    "domain": "appletec.com",
+    "country": "IL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "handala",
+    "name": "handala",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Handala Hacked Appletec Ltd. It is an affiliated company of the Ministry of Defense of the regime and is responsible for the design of many sensitive electronic and optical systems of the regime’s military industries. Some of the regular customers of this company are: Rafael, Elbit, Elisra, Air Force and… Handala was able to dump…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a443bca7754f5fbbfffaae0eb891e0ac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxbwbgv0zwmgthrkqghhbmrhbge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-29 04:37:50.000000",
+    "disclosedDate": "2024-08-29 05:46:32.355351"
+  }
+}

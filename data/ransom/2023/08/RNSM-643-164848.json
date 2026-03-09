@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-643-164848",
+  "type": "ransomware-incident",
+  "title": "Cequint ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cequint",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 880000000000,
+    "description": "Cequint Inc. provides caller identification (ID) solutions for mobile devices. 880 GB of data is what we got from their network. Alarge number of different documents. The most interesting in this case are the source codes and information about the company's projects. In addition, as you realize, there are a lot of personaland financial documents. Please wait for the release.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2vxdwludebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-16 20:48:07.900266",
+    "disclosedDate": "2023-08-16 20:48:08.005655"
+  }
+}

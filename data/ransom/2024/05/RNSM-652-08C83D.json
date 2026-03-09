@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-08C83D",
+  "type": "ransomware-incident",
+  "title": "fortify.pro ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fortify.pro",
+    "domain": "fortify.pro",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Canadian company has been developing high-quality and reliable software for corporate needs since 2015. They are renowned professionals of soft...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a7d7117ee5e9d0c7df5c4256e84a3727.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zm9ydglmes5wcm9ayxb0nzm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-08 09:24:15.155881",
+    "disclosedDate": "2024-05-08 09:24:15.155902"
+  }
+}

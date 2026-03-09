@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-1060AA",
+  "type": "ransomware-incident",
+  "title": "pronatindustries.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pronatindustries.com",
+    "domain": "pronatindustries.com",
+    "country": "IL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PRONAT Industries was hacked. All the secure and confidential information was stolen.Who is PRONAT IndustriesHeadquarters: IsraelPhone Number: +972 46286888Website: www.pronatindustries.comPRONAT Industries is the most dangerous engin...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/359244c8041b7d1f24ed247feb14a046.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjvbmf0aw5kdxn0cmllcy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-10 21:04:00.000000",
+    "disclosedDate": "2023-12-10 21:31:05.152590"
+  }
+}

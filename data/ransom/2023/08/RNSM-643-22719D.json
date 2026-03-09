@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-22719D",
+  "type": "ransomware-incident",
+  "title": "Softverg Co., Ltd. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Softverg Co., Ltd.",
+    "domain": "softverk.co.kr",
+    "country": "KR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Softverg Co., Ltd. is a young company that transactswith leading domestic companies through domestic and foreign software partnerships (microsoft enterprise partner, Hancom Large partner, erwin master reseller, Ahn Lab d...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d81c0f120d897614d5a84612bcceb0ba.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u29mdhzlcmcgq28ulcbmdgquqg5vzxnjyxbl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-18 00:00:00.000000",
+    "disclosedDate": "2023-08-22 01:04:52.949141"
+  }
+}

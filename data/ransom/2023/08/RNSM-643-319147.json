@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-643-319147",
+  "type": "ransomware-incident",
+  "title": "Children's Home of Wyoming Conference ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Children's Home of Wyoming Conference",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 70000000000,
+    "description": "The Children's Home is a family-centered agency with 16 programs,nearly 300 employees and more than 8 locations. CHWC offer six areas of assistance:Behavioral & Emotional Health, Therapeutic Intervention & Clinical Treatment, Leadership & Development, Physical Health & Wellness, Community Outreach & Civic Engagement, Academic Success & Career Readiness.More than 70Gb personal and company documentation data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hpbgryzw4ncybib21lig9mifd5b21pbmcgq29uzmvyzw5jzubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-31 17:36:04.752854",
+    "disclosedDate": "2023-08-31 17:36:04.860365"
+  }
+}

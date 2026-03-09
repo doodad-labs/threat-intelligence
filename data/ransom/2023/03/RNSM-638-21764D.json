@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-21764D",
+  "type": "ransomware-incident",
+  "title": "Atlas Security ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Atlas Security",
+    "domain": "atlas24.co.za",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Atlas Security is the leading armed response company in Nelson Mandela Bay and Alexandria . The company has more than 150 qualified armed response officers, the largest fleet of armed response vehicles. Atlas Security's client base includes more than 30,000 controlled secure premises in the Eastern Cape Province, including large corporate clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d3a86c386970a623ece6aff8a0ba35e4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxrsyxmgu2vjdxjpdhlabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-21 07:54:54.12345",
+    "disclosedDate": "2023-03-21 11:11:32.362529"
+  }
+}

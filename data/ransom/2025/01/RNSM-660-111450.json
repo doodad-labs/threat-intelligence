@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-111450",
+  "type": "ransomware-incident",
+  "title": "RocSearch ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RocSearch",
+    "domain": "rocsearch.com",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c46962160e097b839cfc32785769071.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um9ju2vhcmnoqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-11 12:21:22.948733",
+    "disclosedDate": "2025-01-11 12:21:25.638085"
+  }
+}

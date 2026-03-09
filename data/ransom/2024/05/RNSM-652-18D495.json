@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-18D495",
+  "type": "ransomware-incident",
+  "title": "carcajou.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "carcajou.fr",
+    "domain": "carcajou.fr",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 270000000000,
+    "description": "Groupe CARCAJOU : engineering and industrial equipment designer 270 gigabytes of data were stolen, including: Photo and video of the equipment produced, information about purchases and partners, insurance on ETREM/ALTAIIRE/SERIMECA (Carcajou is the...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ec874291873063dc0070f7de509b66b6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fyy2fqb3uuznjabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-09 00:00:00.000000",
+    "disclosedDate": "2024-05-18 18:32:38.655842"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-1960C5",
+  "type": "ransomware-incident",
+  "title": "OSG.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OSG.COM",
+    "domain": "osg.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Overseas Shipholding Group (OSG) is a leading provider of energy transportation services, delivering crude oil, petroleum products, and renewable fuels globally. Founded in 1948, OSG operates a fleet of 21 vessels registered in the U.S",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t1nhlknptubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-19 22:10:41.737855",
+    "disclosedDate": "2024-08-19 22:10:41.737855"
+  }
+}

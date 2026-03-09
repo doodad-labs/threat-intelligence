@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-05E4F8",
+  "type": "ransomware-incident",
+  "title": "Haylem ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Haylem",
+    "domain": "haylem.ca",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Haylem is engineering and technological innovation at the service of people who have difficulty reading and writing. Expertise in software development specializing in the field of written language, which mainly targets the education sector.Financial reports, database, personal information of employees. https://www.haylem.ca/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3e0f8267732476832ff0af60fa5a911d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgf5bgvtqhnwywnlymvhcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-03 00:00:00.000000",
+    "disclosedDate": "2024-07-05 01:39:11.668972"
+  }
+}

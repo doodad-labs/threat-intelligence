@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-29F9D1",
+  "type": "ransomware-incident",
+  "title": "tcw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tcw.com",
+    "domain": "tcw.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TCW is a leading global asset management firm with five decades of investment experience and a broad range of products across fixed income, equities, emerging markets, and alternative investments. TCW’s clients include many of the world’s largest cor...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c5bb02b168b1298b3fad2fd8d12b1b6c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgn3lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-29 07:48:00.000000",
+    "disclosedDate": "2023-11-29 08:30:33.698172"
+  }
+}

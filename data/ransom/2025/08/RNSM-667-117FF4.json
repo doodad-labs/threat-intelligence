@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-667-117FF4",
+  "type": "ransomware-incident",
+  "title": "City of St Paul ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "City of St Paul",
+    "domain": "stpaul.gov",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The government of the city of Saint Paul, Minnesota, including its representatives and employees, is extremely careless and irresponsible about the security of their city, because of this, a large part of the infrastructure was damaged, brought a lot of losses and damage! Including in the worst position were residents whose data was compromised in the internet! Saint Paul, Minnesota, population is about 310,992 people. The city is part of the Minneapolis - Saint Paul metropolitan area.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/92a9a3cbe5961522495b24db8609ee4c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0esbvzibtdcbqyxvsqgludgvybg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.twincities.com/2025/07/29/fbi-natl-guard-assist-st-paul-as-cyber-attackers-force-shut-down-of-internet-based-systems/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-11 18:50:15.340814",
+    "disclosedDate": "2025-08-11 18:50:29.885043"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-12102A",
+  "type": "ransomware-incident",
+  "title": "olea.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "olea.com",
+    "domain": "olea.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Olea Kiosks Inc. is the leading Kiosk design and manufacturer of standard and custom Kiosks. For over 40 years.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/01c405bc4dcc86c610a6cfe2bcd6d471.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b2xlys5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-24 00:00:00.000000",
+    "disclosedDate": "2024-01-12 16:11:45.647409"
+  }
+}

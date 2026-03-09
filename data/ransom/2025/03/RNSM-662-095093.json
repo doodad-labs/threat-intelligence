@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-095093",
+  "type": "ransomware-incident",
+  "title": "Salemerode.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Salemerode.com",
+    "domain": "salemerode.com",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "flocker",
+    "name": "flocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "To the management of Salem Erode Investment Limited We have breached your system servers Salemerode.com also extracted valuable files, customer […]",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c53efe26c3785cc9c57efcc2d982eb5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fszw1lcm9kzs5jb21azmxvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-03 00:00:00.000000",
+    "disclosedDate": "2025-03-09 14:11:15.103241"
+  }
+}

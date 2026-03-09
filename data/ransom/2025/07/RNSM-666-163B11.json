@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-666-163B11",
+  "type": "ransomware-incident",
+  "title": "C3 Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "C3 Group",
+    "domain": "c3group.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "nitrogen",
+    "name": "nitrogen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "C3 Group is a large, well-established engineering company offering a wide range of services, from restoration and industrial injection to water treatment and geotechnical projects.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/797854c7512fe45626aa510f5cad53b8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qzmgr3jvdxbabml0cm9nzw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-24 23:05:07.654325",
+    "disclosedDate": "2025-07-16 18:22:58.725273"
+  }
+}

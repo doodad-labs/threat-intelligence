@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-27D57E",
+  "type": "ransomware-incident",
+  "title": "senseis.xmp.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "senseis.xmp.net",
+    "domain": "xmp.net",
+    "country": ""
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "senseis.xmp.net",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4d37edd29e301e5098fc50a959fd5892.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vuc2vpcy54bxaubmv0qgjhynvrmg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:49:43.546319",
+    "disclosedDate": "2025-01-27 07:50:49.866766"
+  }
+}

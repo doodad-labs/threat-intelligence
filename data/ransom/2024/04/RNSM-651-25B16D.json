@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-25B16D",
+  "type": "ransomware-incident",
+  "title": "Allen Blasting and Coating ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Allen Blasting and Coating",
+    "domain": "allenblastingandcoating.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dan0n",
+    "name": "dAn0n",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "The total size of stolen information is 1TB. This leak contains corporate information of the company: Financial, legal, information on employees and partners. Information on clients was also received:",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc0094a7ba2314e24c19caff5d9f337c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxszw4gqmxhc3rpbmcgyw5kienvyxrpbmdazefumg4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-10 00:00:00.000000",
+    "disclosedDate": "2024-04-25 15:42:01.051410"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-657-2585E4",
+  "type": "ransomware-incident",
+  "title": "Denkali ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Denkali",
+    "domain": "denkali.com",
+    "country": "IN"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PROOFS (PROJECTS, DOCUMENTS)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4431a8dc86bd87350b73aa18b41d7b55.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvua2fsaubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-16 20:19:04.323000",
+    "disclosedDate": "2024-10-25 09:10:39.188014"
+  }
+}

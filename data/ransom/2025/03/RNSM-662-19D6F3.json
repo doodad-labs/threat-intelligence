@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-19D6F3",
+  "type": "ransomware-incident",
+  "title": "Los Madroños Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Los Madroños Hospital",
+    "domain": "hospitallosmadronos.es",
+    "country": "ES",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have tried to negotiate regarding data protection with the Los Madroños Hospital's management. A lot of emails with the details of this incident were sent to reach for Jesús Tornero's attention. But, no one from Los Madroños Hospita            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/67968ba7d1dc2dccbd8b1e57480b1bff.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tg9zie1hzhjvw7fvcybib3nwaxrhbebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-07 00:00:00.000000",
+    "disclosedDate": "2025-03-19 14:40:50.852494"
+  }
+}

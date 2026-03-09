@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-21249E",
+  "type": "ransomware-incident",
+  "title": "prinsotel.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "prinsotel.com",
+    "domain": "prinsotel.com",
+    "country": "ES",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "With more than 50 years of family tradition, the Prinsotel hotels located on the captivating islands of Mallorca and Menorca, stand out in their own light, offering much more than just accommodation. They are homes that welcome each guest wit            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjpbnnvdgvslmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-02 00:00:00.000000",
+    "disclosedDate": "2024-06-21 16:15:02.440349"
+  }
+}

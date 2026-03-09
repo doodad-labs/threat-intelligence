@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-16BFFF",
+  "type": "ransomware-incident",
+  "title": "waldogeneral.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "waldogeneral.com",
+    "domain": "waldogeneral.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Waldo General, Inc. is a management company specializing in the management of Associated Business Units; most of which operate in the financial services industry. Waldo General, Inc.'s portfolio of businesses that it manages include storefront consum...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/822a0ed3533e798a0fbd18c07477c77c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2fszg9nzw5lcmfslmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-16 09:03:00.000000",
+    "disclosedDate": "2023-03-16 23:57:49.213012"
+  }
+}

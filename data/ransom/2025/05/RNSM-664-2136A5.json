@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-2136A5",
+  "type": "ransomware-incident",
+  "title": "Anglo American plc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Anglo American plc",
+    "domain": "angloamerican.com",
+    "country": "GB",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "arkana",
+    "name": "arkana",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Anglo American plc is a multinational mining corporation based in Johannesburg, South Africa and London, UK. It is the world's largest platinum and diamond producer, with operations in more than 40 countries. Besides platinum and diamonds, it mines copper, nickel, iron ore, metallurgical and thermal coal. Founded in 1917, it is one of the world's top mining and natural resource companies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw5nbg8gqw1lcmljyw4gcgxjqgfya2fuyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-21 00:00:00",
+    "disclosedDate": "2025-05-21 17:50:58.880769"
+  }
+}

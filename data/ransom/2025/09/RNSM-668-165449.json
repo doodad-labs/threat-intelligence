@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-165449",
+  "type": "ransomware-incident",
+  "title": "JAFICA Telecomunicaciones ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JAFICA Telecomunicaciones",
+    "domain": "jafica.com",
+    "country": "MX",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "lunalock",
+    "name": "lunalock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "JAFICA Telecomunicaciones is a Mexican internet service provider.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c572e52df5c11fdd3de92ac83d4f6035.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/skfgsunbifrlbgvjb211bmljywnpb25lc0bsdw5hbg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-13 00:00:00.000000",
+    "disclosedDate": "2025-09-16 15:48:42.353659"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19698A",
+  "type": "ransomware-incident",
+  "title": "darlingconsulting.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "darlingconsulting.com",
+    "domain": "darlingconsulting.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "darlingconsulting.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e903c669d94cc09cf5dfe35eeeeb10ee.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgfybgluz2nvbnn1bhrpbmcuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-09-01 18:31:00.000000",
+    "disclosedDate": "2024-04-19 12:28:14.565358"
+  }
+}

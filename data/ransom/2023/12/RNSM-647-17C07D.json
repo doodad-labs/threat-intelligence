@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-647-17C07D",
+  "type": "ransomware-incident",
+  "title": "TechKids aka MindX ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TechKids aka MindX",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "raznatovic",
+    "name": "raznatovic",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Data contains 600 million lines, almost 20gb. 5 files. contains bank information and other PII sample: TechKids.txt Buy",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvjaetpzhmgywthie1pbmryqhjhem5hdg92awm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-17 15:55:58.497777",
+    "disclosedDate": "2023-12-17 15:55:58.498638"
+  }
+}

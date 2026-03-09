@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-646-3052BC",
+  "type": "ransomware-incident",
+  "title": "andersonandjones.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "andersonandjones.com",
+    "domain": "andersonandjones.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 360000000000,
+    "description": "Anderson Jones, PLLC is an award-winning, full-service law firm located in Raleigh, N.C. serving North Carolina and Georgia. Concentrating in the areas of construction law, construction litigation, lien and bond claims, contracts, administrative law, workers’ compensation defense, real estate, employment law, OSHA defense, estate planning, estate administration and settlement, and general commercial litigation, Anderson Jones represents local and national clients in both state and federal courts. Built on the core principles of solid values, integrity in billing, aggressive pursuit of business solutions, efficiency through technology and tenacious representation, Anderson Jones’ attorneys lend leadership, expertise and professionalism in legal matters to always achieve the best attainable results for clients.SITE: www.andersonandjones.com Address  421 N. Blount Street Raleigh, NC 27601 UNITED STATESFULL DATA SIZE: 360gb 1. Health Insurance 2. W-9 forms 3. 401K forms 4. ConfidentialityNETWORK: ANDERSONJONES-------------------------DOMAIN ADMINS------------------------- Administrator           Administrator Tmpl      aptiis Network Admin           SBS Backup User         SBSMonAcctandersonjones.local\\Administrator ds#$fsKFS3-------------------------DC------------------------- FILESERVER.andersonjones.local 192.168.1.3 Windows Server 2012 R2 Standard-------------------------SERVERS------------------------- RDS-SRV.andersonjones.local 192.168.1.9 Windows Server 2012 R2 Standard 2012-VMHOST-AJ.andersonjones.local 192.168.1.41 Windows Server 2012 R2 Standard DA-SRV.andersonjones.local 192.168.1.8 Windows Server 2012 R2 Standard 2012VMHOST.andersonjones.local Windows Server 2012 R2 Standard JURIS.andersonjones.local 192.168.1.4 Windows Server 2012 R2 Standard",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ad830939cc9da05a2aaa36fe6ec1f19e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw5kzxjzb25hbmrqb25lcy5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-17 00:00:00.000000",
+    "disclosedDate": "2023-11-30 10:02:58.891909"
+  }
+}

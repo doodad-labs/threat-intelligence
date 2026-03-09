@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-653-25E89F",
+  "type": "ransomware-incident",
+  "title": "tpocc.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tpocc.org",
+    "domain": "tpocc.org",
+    "country": "",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 570000000000,
+    "description": "tpocc.org 570Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhbvy2mub3jnqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-25 08:21:51.641296",
+    "disclosedDate": "2024-06-25 08:21:52.553563"
+  }
+}

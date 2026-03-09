@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-649-138EED",
+  "type": "ransomware-incident",
+  "title": "globalrescue.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "globalrescue.com",
+    "domain": "globalrescue.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 155000000000,
+    "description": "Global Rescue (a Global Rescue Company) has been a leader and pioneer in the travel services industry since our founding in 2004. We provide the finest integrated medical, security, travel risk and crisis management services available anywhere, delivered by our teams of critical care paramedics, physicians, nurses and military special operations veterans. Our medical advisory and evacuation services include exclusive relationships with the Johns Hopkins Department of Emergency Medicine Division of Special Operations, Elite Medical Group and Partners HealthCare. Our track record has made us the chosen provider to government agencies and some of the world’s largest companies, universities, nonprofits and tour operators. Our mission is simple – to be there when it matters most.SITE: www.globalrescue.com Address : 85 MECHANIC ST, LEBANON, NH 03766 USAALL DATA SIZE: ~155gb 1. Personal documents 2. Acct 3. Public 4. Legal 5. HCM and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cc134fb2f155845aa6267fb55bc924ef.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2xvymfscmvzy3vllmnvbubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-02 00:00:00.000000",
+    "disclosedDate": "2024-02-13 22:23:44.953830"
+  }
+}

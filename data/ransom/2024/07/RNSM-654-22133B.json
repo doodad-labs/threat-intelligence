@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-22133B",
+  "type": "ransomware-incident",
+  "title": "RiverSoft ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RiverSoft",
+    "domain": "riversoft.net",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "RiverSoft is the product of a design process that spans more than 20 years. It is designed to work for large agencies with thousands of patients, in multiple locations, with varied and ever-changing payer requirements (Medicare, Medicare Advantage, Medicaid, commercial insurances, HMO’s, and self-pays). The software has been optimized to work for large populations of employees and patients. All information relevant to the job at hand is shown together, all at once, to save the user’s time.  RiverSoft offers something that no other home care software company offers: Industrial strength software that is customized through configuration and software changes to meet the UNIQUE demands of LARGER home care agencies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c31cadff7b41826929b21e617cbe8706.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uml2zxjtb2z0qhjhbnnvbwhvdxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-30 00:00:00.000000",
+    "disclosedDate": "2024-07-22 06:38:22.069173"
+  }
+}

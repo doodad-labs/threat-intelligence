@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-17B47B",
+  "type": "ransomware-incident",
+  "title": "rodo.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rodo.co.uk",
+    "domain": "rodo.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "201GBInformation about products (layouts, drawings, tests, development, production plans, product analysis)Employees (lists with NII numbers, Personnel Records, address of residence, telephone, email, passport scans, DOB, contracts, salary inform...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d24c5e9c8e0b1be179870d159ac27720.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm9kby5jby51a0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-17 06:14:00.000000",
+    "disclosedDate": "2023-12-17 07:00:30.843433"
+  }
+}

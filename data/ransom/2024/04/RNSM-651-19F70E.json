@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-651-19F70E",
+  "type": "ransomware-incident",
+  "title": "Hey cisco! ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hey cisco!",
+    "domain": "cisco.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hellogookie",
+    "name": "hellogookie",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "You lied to us and play for time to kick us out. We will meet you soon, again. Next time you'll have no chance. cisco.com\\Administrator:500:aad3b435b51404eeaad3b435b51404ee:4e0de2e548880cd48c588f1391fa6386:::cisco.com\\carriep:12342831:aad3b435b5140...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgv5ignpc2nviubozwxsb2dvb2tpzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-19 08:12:51.262790",
+    "disclosedDate": "2024-04-19 08:12:51.262820"
+  }
+}

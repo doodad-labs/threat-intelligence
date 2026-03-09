@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-1223A2",
+  "type": "ransomware-incident",
+  "title": "Kadac Australia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kadac Australia",
+    "domain": "kadac.com.au",
+    "country": "AU",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1973, Kadac is a supplier of organic, natural and health products serving the Asia-Pacific region. Kadac corporate office is located in 151-155 Woodlands Dr, Braeside, Victoria, 3195, Australia",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6435673a98a36ab455ac903fac4b9e36.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fkywmgqxvzdhjhbglhqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 03:57:38.12345",
+    "disclosedDate": "2024-02-12 05:52:37.356493"
+  }
+}

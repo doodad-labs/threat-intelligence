@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-15C66E",
+  "type": "ransomware-incident",
+  "title": "www.naga.ae ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.naga.ae",
+    "domain": "naga.ae",
+    "country": "AE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Naga Architects is an award-winning architecture and design firm based in Dubai, UAE. They provide a range of services, including urban planning, architectural design, interior design, and project management, tailored to the needs of their clients. With a team of skilled professionals, Naga Architects specializes in creating functional, sustainable, and aesthetically appealing spaces for both commercial and residential projects.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ea57f80a38a00b771dac8e55ab44e798.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm5hz2euywvacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-30 00:00:00.000000",
+    "disclosedDate": "2025-02-15 16:37:19.203021"
+  }
+}

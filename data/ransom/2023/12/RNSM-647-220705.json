@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-647-220705",
+  "type": "ransomware-incident",
+  "title": "igs-inc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "igs-inc.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Integrated Geotechnical Solutions, Inc. (IGS) is a leading provider of monitoring systems, consultation services and risk management solutions. With locations throughout North America, our services have been used in the construction, aggregate, subwa...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c05a3acc2348f6a277af6f0894d95c23.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awdzlwluyy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-22 04:54:00.000000",
+    "disclosedDate": "2023-12-22 05:29:09.676487"
+  }
+}

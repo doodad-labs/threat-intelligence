@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-120ED3",
+  "type": "ransomware-incident",
+  "title": "NASCO.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NASCO.COM",
+    "domain": "nasco.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "NASCO – NASCO is a healthcare company dedicated to co-creating digital health solutions for Blue Cross and Blue Shield companies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/105e6c4bec39d018cb0cd8104bac8da3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tkftq08uq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-12 21:26:45.467542",
+    "disclosedDate": "2023-07-12 21:26:45.467562"
+  }
+}

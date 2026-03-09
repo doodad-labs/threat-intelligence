@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-674-03C48A",
+  "type": "ransomware-incident",
+  "title": "Professional Retail Outlet Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Professional Retail Outlet Services",
+    "domain": "proservicecall.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "ailock",
+    "name": "AiLock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PROS specializes in facilities management and maintenance services for specialty retail chains, boasting 20 years of experience.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjvzmvzc2lvbmfsifjldgfpbcbpdxrszxqgu2vydmljzxnaqwlmb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-09 00:00:00.000000",
+    "disclosedDate": "2026-03-03 09:44:50.705172"
+  }
+}

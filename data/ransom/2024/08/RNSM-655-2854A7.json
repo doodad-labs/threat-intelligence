@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-2854A7",
+  "type": "ransomware-incident",
+  "title": "tjs.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tjs.com",
+    "domain": "tjs.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ZeroShrink  by TJS delivers an innovative and comprehensive RFID package combined with a robust cloud-based POS system tailored specifically for the diamond and jewelry industry. Our mission is to enhance your POS experience with a focus on security, ease of use, and customization.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/50896ee231d2872f68c545dcf0def10d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgpzlmnvbubrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-28 21:20:14.303093",
+    "disclosedDate": "2024-08-28 21:20:15.340647"
+  }
+}

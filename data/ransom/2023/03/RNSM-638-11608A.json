@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-11608A",
+  "type": "ransomware-incident",
+  "title": "lubrimetal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lubrimetal.com",
+    "domain": "lubrimetal.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lubrimetal is a chemical company specializing in the production of lubricants and other chemicals for wire drawing and metal surface treatment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bhvicmltzxrhbc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-11 10:36:00.000000",
+    "disclosedDate": "2023-03-11 13:20:11.079117"
+  }
+}

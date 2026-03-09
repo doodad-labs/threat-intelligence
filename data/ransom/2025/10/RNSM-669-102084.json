@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-669-102084",
+  "type": "ransomware-incident",
+  "title": "glatten.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "glatten.de",
+    "domain": "glatten.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Located in Glatten, J. Schmalz GmbH is a long-established, family-run engineering group specialising in vacuum technology and automation for handling …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f4555f801190c92d07cb99e2e5089917.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2xhdhrlbi5kzubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.schwarzwaelder-bote.de/inhalt.cyber-angriff-in-glatten-hackergruppe-schickt-erpresserschreiben-ans-rathaus.ca0e0f93-24e9-49b2-810b-7728eba82081.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-10 21:12:01.445766",
+    "disclosedDate": "2025-10-10 21:12:14.668131"
+  }
+}

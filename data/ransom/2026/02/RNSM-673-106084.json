@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-106084",
+  "type": "ransomware-incident",
+  "title": "PCCA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PCCA",
+    "domain": "pccarx.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "nitrogen",
+    "name": "nitrogen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PCCA supports the creation of personalized medicine and innovative products, as well as pharmaceutical compounding.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ff4b435441c8b7479132cbb958af8f15.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uendqubuaxryb2dlbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-29 01:31:02.989739",
+    "disclosedDate": "2026-02-10 21:22:11.410429"
+  }
+}

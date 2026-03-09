@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-2456B7",
+  "type": "ransomware-incident",
+  "title": "Autohaus Elstermann ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Autohaus Elstermann",
+    "domain": "autohaus-elstermann.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Performance, reliability, safety – what distinguishes Renault / Dacia / Kia vehicles also applies to us. We offer you excellent service, good prices, expert advice, and a friendly team.Comprehensive service for carefree driving pleasure. You can rely on it, because nobody knows your Renault better than we do.DatabaseFinancial documentsPersonal information of employees and clients https://www.autohaus-elstermann.de/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/06dab3a5cd4bc770452eb0054b11286a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxv0b2hhdxmgrwxzdgvybwfubkbzcgfjzwjlyxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-23 00:00:00.000000",
+    "disclosedDate": "2025-12-24 03:02:15.375205"
+  }
+}

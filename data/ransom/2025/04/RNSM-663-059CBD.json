@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-059CBD",
+  "type": "ransomware-incident",
+  "title": "LeoVegas AB ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LeoVegas AB",
+    "domain": "leovegasgroup.com",
+    "country": "SE",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "hellcat",
+    "name": "hellcat",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have compromised the internal systems of LeoVegas AB. The data in our possession threatens their operations, regulatory compliance, and customer trust.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvvvmvnyxmgqujaagvsbgnhda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-05 09:48:35.000000",
+    "disclosedDate": "2025-04-05 10:46:34.818038"
+  }
+}

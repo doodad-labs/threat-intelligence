@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-0478A7",
+  "type": "ransomware-incident",
+  "title": "National Sign corp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "National Sign corp",
+    "domain": "nationalsign.net",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/018488c188472bdf0a9979d3e0adf25c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf0aw9uywwgu2lnbibjb3jwqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-04 11:22:01.000000",
+    "disclosedDate": "2025-04-04 12:30:29.162933"
+  }
+}

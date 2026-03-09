@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-07FB13",
+  "type": "ransomware-incident",
+  "title": "bardahl.com.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bardahl.com.mx",
+    "domain": "bardahl.com.mx",
+    "country": "MX",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "About Bardahl De México, SA De CV Bardahl de México specializes in automotive products, being a lea...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c433d7e3d0cbffaa66c9ae383d0633ee.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymfyzgfobc5jb20ubxhabg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-28 17:11:00.000000",
+    "disclosedDate": "2026-02-07 20:22:42.516317"
+  }
+}

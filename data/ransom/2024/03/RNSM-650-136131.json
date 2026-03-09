@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-136131",
+  "type": "ransomware-incident",
+  "title": "Kovra  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kovra ",
+    "domain": "kovra.com.my",
+    "country": "MY"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 12000000000,
+    "description": "Visits: 50 Data Size: 12GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e7f0d79c0e993ba8ed3ea73c6462b7b6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s292cmegqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-13 05:58:20.522470",
+    "disclosedDate": "2024-03-13 05:58:20.522490"
+  }
+}

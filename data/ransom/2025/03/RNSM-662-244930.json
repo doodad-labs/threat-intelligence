@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-244930",
+  "type": "ransomware-incident",
+  "title": "AmeriKen Die Supply, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AmeriKen Die Supply, Inc",
+    "domain": "ameriken.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "frag",
+    "name": "frag",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Packaging and Containers ManufacturingA leader and innovator in the die supply industry.Our team was successful in extracting the following documents:Personnel documents with information on employeesFinancial statements of the companyContact details of customers and employeesThe icing on the cakeNon-disclosure agreementsDriving licenses",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1lcmllzw4grgllifn1chbseswgsw5jqgzyywc=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-12 00:00:00.000000",
+    "disclosedDate": "2025-03-24 19:24:57.875061"
+  }
+}

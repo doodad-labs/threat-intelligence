@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-26D660",
+  "type": "ransomware-incident",
+  "title": "punjab.gov.in ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "punjab.gov.in",
+    "domain": "punjab.gov.in",
+    "country": "IN",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Punjab.gov.in is the official online portal of the Government of Punjab in India. The website is designed to provide a comprehensive source of information about the government's various departments, initiatives, services, and policies. It offers online services like bill payments, applications, and complaints. It strives to enhance the government's transparency and the convenience of citizens, facilitating various digital services under one platform.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e2710efd4384d87f12313320ea2a0714.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chvuamfilmdvdi5pbkbmdw5rc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-26 13:37:19.229376",
+    "disclosedDate": "2025-01-26 13:37:19.229376"
+  }
+}

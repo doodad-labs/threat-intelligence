@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-668-0381C3",
+  "type": "ransomware-incident",
+  "title": "CESCONSULT ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CESCONSULT",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CES Consultants, Inc. is a engineering firm that specializes in program management, construction management, and design-build solutions.firm founded in 2001 by Rudy M. Ortiz, PE, CGC. \r This is a small part of what we downloaded.\r https://cesconsult.com/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9dee134ad29645f897419c076c61b795.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0vtq09ou1vmvebpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-02 01:00:00.000000",
+    "disclosedDate": "2025-09-03 14:41:01.060981"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-650-12BE20",
+  "type": "ransomware-incident",
+  "title": "duvel.com | boulevard.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "duvel.com | boulevard.com",
+    "domain": "duvelmoortgat.com",
+    "country": "BE",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "Duvel Moortgat Brewery (Brouwerij Duvel Moortgat) is a Flemish family-controlled brewery founded in 1871 in Antwerp Province, Belgium. Its strong golden pale ale, Duvel, is exported to more than forty countries. Duvel is Brabantian, Ghent and Antwerp dialect for devil, the standard Dutch word being duivel. Other popular beers include Maredsous and Vedett.SITE: www.duvel.com Address : Breendonk-Dorp 58 2870 Puurs-Sint-Amands BelgiumFounded in 1989, Boulevard Brewing Company has grown to become the largest specialty brewer in the Midwest. Our mission is simple: to produce fresh, flavorful beers using the finest ingredients and the best of both old and new brewing techniques. Click the link to learn what drove Boulevard founder John McDonald, and how we got where we are today.SITE: www.boulevard.com Address : 2501 Southwest Boulevard Kansas City, MO 64108 USAALL DATA SIZE: ~1.0tb 1. Accounting 2. HR 3. Home users folders & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9a8a188aefaec291daf278cc85ae96a7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zhv2zwwuy29tihwgym91bgv2yxjklmnvbubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.nieuwsblad.be/cnt/dmf20240306_93872357",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-12 23:44:44.980042",
+    "disclosedDate": "2024-03-12 23:44:44.980072"
+  }
+}

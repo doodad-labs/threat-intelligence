@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-076448",
+  "type": "ransomware-incident",
+  "title": "Tropical Foods Company Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tropical Foods Company Inc",
+    "country": "",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 56000000000,
+    "description": "Tropical Foods specializes in premium raw and freshly roasted nuts and seeds, dried fruit, snack mixes, bulk & packaged candies, spices and specialty foods.We are ready to upload more than 56 GB of sensitive corporate documents such as: contact numbers and e-mail addresses of employeesand customers, financial data (audits, payment details, reports), confidential licenses, agreements and contracts, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjvcgljywwgrm9vzhmgq29tcgfuesbjbmnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-07 00:00:00.000000",
+    "disclosedDate": "2025-02-07 13:32:32.231362"
+  }
+}

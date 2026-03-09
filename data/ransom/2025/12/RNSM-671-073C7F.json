@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-073C7F",
+  "type": "ransomware-incident",
+  "title": "aeamg.org.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aeamg.org.br",
+    "domain": "aeamg.org.br",
+    "country": "BR"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Company Description: AEA-MG (Association of Electricians and Employees of CEMIG and its Subsidiaries...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ad44983dbadea9315f9714d077e0133b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywvhbwcub3jnlmjyqgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-31 00:00:00.000000",
+    "disclosedDate": "2025-12-07 10:17:32.664598"
+  }
+}

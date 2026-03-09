@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-1280B7",
+  "type": "ransomware-incident",
+  "title": "McCracken Financial Solutions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "McCracken Financial Solutions",
+    "domain": "mccrackenfs.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "McCracken Financial Solutions Corporation offers commercial loan servicing software that automates the entire lifecycle of loans, including origination, servicing, accounting, and asset management. Their comprehensive system integrates variou            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cbd3e44611e6c118c7da115e4de6ecbc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twndcmfja2vuiezpbmfuy2lhbcbtb2x1dglvbnnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-12 00:00:00.000000",
+    "disclosedDate": "2025-06-12 12:04:29.007578"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-20FEFA",
+  "type": "ransomware-incident",
+  "title": "carmoney.ru ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "carmoney.ru",
+    "domain": "carmoney.ru",
+    "country": "RU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "werewolves",
+    "name": "werewolves",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Общество с ограниченной ответственностью Микрофинансовая компания «КарМани».CarMoney - современный онлайн-сервис автозаймов.Выдает деньги под залог авто и спецтехники. При этом машина и ПТС остаются у клиента.Полный архив данных,60 террабайт будет опубликовано.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b3580788bbca34391b76c5aefd27c500.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fybw9uzxkucnvad2vyzxdvbhzlcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-29 04:18:42.000000",
+    "disclosedDate": "2023-12-20 10:32:11.126594"
+  }
+}

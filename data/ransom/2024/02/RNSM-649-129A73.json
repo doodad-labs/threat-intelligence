@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-129A73",
+  "type": "ransomware-incident",
+  "title": "germaintoiture.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "germaintoiture.fr",
+    "domain": "germaintoiture.fr",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "henri germain",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fe42fc79de21d4d23890802eedc8b0ee.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2vybwfpbnrvaxr1cmuuznjabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 11:48:00.000000",
+    "disclosedDate": "2024-02-12 13:27:45.383485"
+  }
+}

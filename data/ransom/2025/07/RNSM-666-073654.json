@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-073654",
+  "type": "ransomware-incident",
+  "title": "EvoluPharm ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EvoluPharm",
+    "domain": "evolupharm.fr",
+    "country": "FR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "payoutsking",
+    "name": "payoutsking",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] EvoluPharm is a leading player in the pharmaceutical sector in France. The company offers an innovative model providing solutions and services for pharmacists, including a wide range of generic and specialty pharmaceuticals. They aim to optimize and digitize pharmacies through various management tools, marketing solutions and training. They also emphasize environmentally friendly practices.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/684c850fd3aa126ae6aed935c73f6edd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxzvbhvqagfybubwyxlvdxrza2luzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-12 00:00:00.000000",
+    "disclosedDate": "2025-07-07 22:29:37.627467"
+  }
+}

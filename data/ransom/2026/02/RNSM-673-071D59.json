@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-673-071D59",
+  "type": "ransomware-incident",
+  "title": "Municipio de Chihuahua ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Municipio de Chihuahua",
+    "domain": "municipiochihuahua.gob.mx",
+    "country": "MX",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7571479d02ee4d5960530f81feac35e7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txvuawnpcglvigrlienoawh1ywh1yubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://oem.com.mx/elheraldodechihuahua/policiaca/blindan-area-administrativa-de-la-dspm-tras-ataque-cibernetico-25901377",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-10-26 17:52:31.078809",
+    "disclosedDate": "2026-02-07 21:57:52.521091"
+  }
+}

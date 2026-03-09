@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-29D9A5",
+  "type": "ransomware-incident",
+  "title": "phi.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "phi.ca",
+    "domain": "phi.ca",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PHI Studio focuses its activities on the presentation and curation of immersive works in virtual reality (VR), augmented reality (AR) and extended reality (XR).",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4b987f32cbb339d2d5df59c8440a5a0e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cghplmnhqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-29 00:00:00.000000",
+    "disclosedDate": "2025-09-29 10:22:37.808546"
+  }
+}

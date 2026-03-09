@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-255988",
+  "type": "ransomware-incident",
+  "title": "Kela Health ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kela Health",
+    "domain": "kela.health",
+    "country": "BE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kela Health (founded 1941) - the developer and manufacturer of pharmaceuticals and food additives in the field of global health of animals, as well as develops and produces a limited series of pharmaceuticals and food additives for people. Kela Health corporate office is located in 48 Sint-lenaartseweg, Hoogstraten, Antwerpen 2320, BE.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/277b83995f801e9827460d9210a43f06.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2vsysbizwfsdghabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-25 17:43:18.000000",
+    "disclosedDate": "2024-11-25 21:06:45.231766"
+  }
+}

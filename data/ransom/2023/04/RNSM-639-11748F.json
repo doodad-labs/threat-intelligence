@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-11748F",
+  "type": "ransomware-incident",
+  "title": "medmark.eg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "medmark.eg",
+    "domain": "medmark.eg",
+    "country": "EG",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Medmark Insurance Brokerage is a full-fledged insurance brokerage, offering a wide range of personal and general insurance solutions to individuals and families as well as companies and organizations in Egypt. With over 30 years of experience, our sp...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2b6198cf935831b22f1d802f7f1c8a82.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwvkbwfyay5lz0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-11 16:25:00.000000",
+    "disclosedDate": "2023-04-11 16:51:48.124761"
+  }
+}

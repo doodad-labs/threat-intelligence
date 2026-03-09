@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-660-223082",
+  "type": "ransomware-incident",
+  "title": "ilemgroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ilemgroup.com",
+    "domain": "ilemgroup.com",
+    "country": "CH",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Ilem Group is a technology company specializing in providing IT solutions. The main areas covered by the company are IT system integration, software development, data management, cloud services & cybersecurity. Based in Switzerland and Morocco, they help businesses improve by implementing innovative technological strategies. The company also offers digital transformation and tech consultancy services focusing on quality and efficiency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fe017e102ee9ccc695cb7df9bd3ad3bd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awxlbwdyb3vwlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://new.ilemgroup.com/cyberattaque-ciblee-sur-notre-filiale-boost/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-22 14:46:52.636515",
+    "disclosedDate": "2025-01-22 14:48:02.057309"
+  }
+}

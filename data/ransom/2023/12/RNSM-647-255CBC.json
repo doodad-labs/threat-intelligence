@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-255CBC",
+  "type": "ransomware-incident",
+  "title": "Davis Cedillo and Mendoza Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Davis Cedillo and Mendoza Inc",
+    "domain": "lawdcm.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Davis, Cedillo & Mendoza, Inc. specializes in business litigation, products liability, tort defense, and real estate and commercial transactions. Our firm is committed to designing unique, cost-effective legal strategies that deliver positive outcomes.www.lawdcm.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/87cd3b56d61b638876f97d922fc1dcec.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgf2axmgq2vkawxsbybhbmqgtwvuzg96ysbjbmnaogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-20 00:00:00.000000",
+    "disclosedDate": "2023-12-25 08:33:58.588818"
+  }
+}

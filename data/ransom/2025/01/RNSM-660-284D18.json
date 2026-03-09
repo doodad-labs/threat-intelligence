@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-660-284D18",
+  "type": "ransomware-incident",
+  "title": "lnetwork ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lnetwork",
+    "country": "AU"
+  },
+  "actor": {
+    "id": "monti",
+    "name": "monti",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "full leak",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9942c6e675f99ef7801c512c2fe5a674.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bg5ldhdvcmtabw9udgk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-28 23:03:12.721529",
+    "disclosedDate": "2025-01-28 23:04:23.453460"
+  }
+}

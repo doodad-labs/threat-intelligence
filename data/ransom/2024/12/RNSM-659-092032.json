@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-092032",
+  "type": "ransomware-incident",
+  "title": "singularanalysts.com Breach ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "singularanalysts.com Breach",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] In September 2023, Singular Analysts, a data analytics firm, suffered a security breach exposing sensitive client information. Hackers exploited a vulnerability in their system, accessing confidential data and potentially compromising personal and financial details. The breach prompted an immediate investigation and response from the company, which included strengthening security measures and notifying affected clients to mitigate potential damage.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/31314a86754e58f33773cb82922c6bb2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2luz3vsyxjhbmfsexn0cy5jb20gqnjlywnoqgz1bmtzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-09 20:53:53.983539",
+    "disclosedDate": "2024-12-09 20:53:57.431562"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-279F67",
+  "type": "ransomware-incident",
+  "title": "QBTRANSPORTATION.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "QBTRANSPORTATION.COM",
+    "domain": "qbtransportation.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] QBTRANSPORTATION.COM is a freight transportation company based in the United States. They specialize in commercial shipping and provide supply chain solutions to businesses across various industries. Offering a variety of logistics services such as truckload, flatbed, LTL, dedicated, intermodal, and refrigerated transport, the company aims to provide reliable and flexible freight options ensuring timeliness and efficiency. They strive to create lasting relationships based on service, integrity and performance.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uujuukfou1bpulrbvelpti5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:09:42.891441",
+    "disclosedDate": "2025-02-27 17:09:48.955231"
+  }
+}

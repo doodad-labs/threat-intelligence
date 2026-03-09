@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-315A34",
+  "type": "ransomware-incident",
+  "title": "ibp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ibp.com",
+    "domain": "ibp.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Taking stock of 2024 Part 1",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awjwlmnvbubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-21 07:59:00.000000",
+    "disclosedDate": "2025-01-31 15:19:48.180596"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "RNSM-658-055944",
+  "type": "ransomware-incident",
+  "title": "mh-m.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mh-m.org",
+    "domain": "mh-m.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1150000000000,
+    "description": "Memorial Hospital and Manor celebrated its 50th Anniversary in 2010. Memorial Hospital was officially dedicated on Sunday, April 3, 1960, and opened its doors to receive patients the following day. The 80-bed hospital was built under the Hill-Burton Hospital Survey & Construction Act of 1946. The Hill-Burton Act initiated the concept of local, state, and federal cost sharing of healthcare facilities, and provided federal funds for construction and renovation of more than 9,000 medical facilities, particularly in lower income areas. While two-thirds of the money was provided by the Federal government and the State of Georgia, Memorial Hospital has always been operated by the Hospital Authority of the City of Bainbridge and Decatur County.\r\rPrior to the opening of Memorial Hospital, two private hospitals served the healthcare needs of Decatur and surrounding counties. In 1916, Riverside Hospital was built and operated by Dr. J. D. Chason, Dr. Gordon Chason, Dr. R. F. Wheat, and Dr. Willie Lee Wilkinson. Shortly after the Riverside Hospital was built, Dr. A.E.B. Alford came to Bainbridge and built the Bainbridge Hospital. The Flint River provided easy access to these hospitals for people in rural areas and nearby towns, making Bainbridge a healthcare center for the tri-state area.  Memorial Hospital was given its name in memoriam to those pioneers who made Bainbridge the medical center of Southwest Georgia, Northern Florida, and Southeastern Alabama for many decades. - 1.15 TB Data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/45de9fecde239da6eccde51bfbb529b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwgtbs5vcmdazw1iyxjnbw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.walb.com/2024/11/03/memorial-hospital-manor-investigating-cyber-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-04 16:50:57.395518",
+    "disclosedDate": "2024-11-05 16:48:56.931581"
+  }
+}   "disclosedDate": "2024-11-05 09:18:46.151958"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-2305E5",
+  "type": "ransomware-incident",
+  "title": "DPWORLD.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DPWORLD.COM",
+    "domain": "dpworld.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "403 Forbidden",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a0b571f20db7d9f25520e094e1371edb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rfbxt1jmrc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-23 13:18:54.516069",
+    "disclosedDate": "2023-03-23 13:18:54.516087"
+  }
+}

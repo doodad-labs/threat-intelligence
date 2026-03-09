@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-101C22",
+  "type": "ransomware-incident",
+  "title": "JPRMP.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JPRMP.COM",
+    "domain": "jprmp.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "JP RMP - Medical Billing and Bad Debt Collection Services",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ab21fee4aab8671e9b741bc79204d21d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/slbstvauq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-10 19:46:25.400543",
+    "disclosedDate": "2023-07-10 19:46:25.400594"
+  }
+}

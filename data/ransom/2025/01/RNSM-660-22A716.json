@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-22A716",
+  "type": "ransomware-incident",
+  "title": "Jacobs & Thompson ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jacobs & Thompson",
+    "domain": "jacobsandthompson.com",
+    "country": "CA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Jacobs & Thompson has been in business since 1947, making us one of the most established and vertically integrated foam suppliers in North America. We are your dedicated source for customized Foam, Adhesive and Textile components.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34e9a44773ec54df15f343c197f6093f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smfjb2jzicygvghvbxbzb25abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-20 00:00:00.000000",
+    "disclosedDate": "2025-01-22 00:07:55.847427"
+  }
+}

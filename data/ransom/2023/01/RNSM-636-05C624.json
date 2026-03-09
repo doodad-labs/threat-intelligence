@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-636-05C624",
+  "type": "ransomware-incident",
+  "title": "CGMLLC.NET ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CGMLLC.NET",
+    "domain": "cgmllc.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CGM, LLC",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f5b067396ec8b9586bb0546f49e2e12f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0dntexdlk5fvebjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-05 02:35:28.263636",
+    "disclosedDate": "2023-01-05 02:35:28.263636"
+  }
+}

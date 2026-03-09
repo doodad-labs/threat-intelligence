@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-639-187D1C",
+  "type": "ransomware-incident",
+  "title": "Ozarks Community Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ozarks Community Hospital",
+    "domain": "ochsystem.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "karakurt",
+    "name": "karakurt",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "Founded in 1930 the Ozarks Community Hospital (OCH) of Gravette, AR is located in what was previously known as the Gravette Medical Center Hospital Building. They do not care much about their personnel and patients personal information.  We have about 40GB of their internal information including detailed medical data (medical records, tests, diagnosis), employees personal information and accounting/finance documents that are very interesting to explore. They even lost their partners' employee information (ssns, addresses and so on).Coming soon!",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7e8b273145a4139f5cc134f9c9dd65ab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3phcmtzienvbw11bml0esbib3nwaxrhbebryxjha3vyda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-18 11:50:44.115396",
+    "disclosedDate": "2023-04-18 11:50:44.115417"
+  }
+}

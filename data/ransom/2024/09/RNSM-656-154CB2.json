@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-154CB2",
+  "type": "ransomware-incident",
+  "title": "EAGLE School ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EAGLE School",
+    "domain": "eagleschool.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "EAGLE School is an independent, kindergarten through eighth grade school dedicated to serving gifted and talented students.We focus on providing a challenging academic curriculum along with supportive social-emotional guidance. All classes             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/68218ca9686cf53fc7c01ab3bbf494ad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rufhteugu2nob29sqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-13 00:00:00.000000",
+    "disclosedDate": "2024-09-15 15:33:22.223283"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-274523",
+  "type": "ransomware-incident",
+  "title": "TRIMACO.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TRIMACO.COM",
+    "domain": "trimaco.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Trimaco.com, a company founded in 1906, offers comprehensive solutions for all professional contractors’ surface protection and dust containment needs. It manufactures and distributes paint accessories and protection products. Known for quality and innovation, Trimaco has an extensive product list, including drop cloths, protective films, masking papers, rags, wipes, painting accessories, and mobile containment solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfjjtufdty5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:35:56.750279",
+    "disclosedDate": "2025-02-27 17:36:02.008120"
+  }
+}

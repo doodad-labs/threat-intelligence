@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-20402C",
+  "type": "ransomware-incident",
+  "title": "federalbank.co.in ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "federalbank.co.in",
+    "domain": "federalbank.co.in",
+    "country": "IN",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Indian bank.637895 linesCUSTOMERNAME  CUST_ID_N  FNAME  DOB  PAN_NO  MNAME  LNAME  AGE  SEX  FATHERNAME  SPOUSENAME  DRIVINGLICENSENO  PASSPORT...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/528f14ca1a84f0f1522faae43cb2e807.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmvkzxjhbgjhbmsuy28uaw5ayxb0nzm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-20 04:09:15.650262",
+    "disclosedDate": "2024-12-20 04:09:16.162751"
+  }
+}

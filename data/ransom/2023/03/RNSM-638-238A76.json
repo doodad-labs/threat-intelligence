@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-238A76",
+  "type": "ransomware-incident",
+  "title": "GDI.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GDI.COM",
+    "domain": "gdi.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "403 Forbidden",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f06d0ff3269bd5f08e27d3aad70915a3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r0rjlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-23 11:11:24.758420",
+    "disclosedDate": "2023-03-23 11:11:24.758440"
+  }
+}

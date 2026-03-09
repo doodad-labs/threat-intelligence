@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-638-29991F",
+  "type": "ransomware-incident",
+  "title": "The Ultra-met ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Ultra-met",
+    "domain": "ultra-met.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 128000000000,
+    "description": "The Ultra-met Carbide Technologies is a premium-quality blanks supplier for fabrications. We have stolen 128GB from their network.Here you will find the following: credit card information, passports, stocks, employee information (including salaries), financial balance and the info of defects while manufacturing.Take a look at the catch!",
+    "claimed_data_types": [
+      "passport-numbers",
+      "financial-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/02f98f5a885099156c2c9256a55ff224.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifvsdhjhlw1ldebyb3lhba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-27 01:02:03.456789",
+    "disclosedDate": "2023-03-29 02:35:55.780813"
+  }
+}

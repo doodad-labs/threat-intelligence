@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-667-25FB02",
+  "type": "ransomware-incident",
+  "title": "Exel Composites ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Exel Composites",
+    "domain": "exelcomposites.com",
+    "country": "FI",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Exel Composites is a global technology company that designs, manufactures and markets composite profiles and tubes. Founded in 1960, Exel operates in a variety of markets such as construction, transportation, and sporting goods. The company delivers high-quality, durable products that leverage the benefits of composite materials, including strength, lightness, durability, and conductivity. Headquartered in Finland, Exel has a worldwide presence.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/95627b99baff82c0b28d5dc3fee45d51.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxhlbcbdb21wb3npdgvzqhdvcmxkbgvha3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.placera.se/pressmeddelanden/exel-composites-exel-composites-plc-has-been-the-target-of-a-cyberattack-20250725",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-27 00:00:00.000000",
+    "disclosedDate": "2025-08-25 11:15:34.900563"
+  }
+}

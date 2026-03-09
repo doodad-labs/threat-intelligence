@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-02525D",
+  "type": "ransomware-incident",
+  "title": "Workers Health & Safety Centre ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Workers Health & Safety Centre",
+    "domain": "whsc.on.ca",
+    "country": "CA",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b8e3fcd3edb7f5dfa88bb38936742827.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v29ya2vycybizwfsdgggjibtywzldhkgq2vudhjlqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-02 15:12:33.361731",
+    "disclosedDate": "2026-02-02 15:12:48.773751"
+  }
+}

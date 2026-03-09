@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-24FE35",
+  "type": "ransomware-incident",
+  "title": "Wallace Construction Specialties (wcs.local)) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wallace Construction Specialties (wcs.local))",
+    "domain": "wallace.sk.ca",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "WALLACE CONSTRUCTION SPECIALTIES LTD. is a leading distributor of specialty cons...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8677fc55d5139774df1d1837752d5483.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fsbgfjzsbdb25zdhj1y3rpb24gu3bly2lhbhrpzxmgkhdjcy5sb2nhbckpqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-14 00:00:00.000000",
+    "disclosedDate": "2024-08-24 15:57:55.851046"
+  }
+}

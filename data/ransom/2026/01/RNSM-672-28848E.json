@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-28848E",
+  "type": "ransomware-incident",
+  "title": "Service Broadcasting Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Service Broadcasting Group",
+    "domain": "myk104.com",
+    "country": "US",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b356efc7b2b79d31fbe9decdb6b2773e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vydmljzsbccm9hzgnhc3rpbmcgr3jvdxbacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-28 19:09:46.969740",
+    "disclosedDate": "2026-01-28 19:10:02.316905"
+  }
+}

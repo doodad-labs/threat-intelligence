@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-149B67",
+  "type": "ransomware-incident",
+  "title": "Faraday Technology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Faraday Technology",
+    "domain": "faraday-tech.com",
+    "country": "VN",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Faraday Technology Corporation is a leading fabless ASIC design and silicon IP (intellectual property) provider established in 1993 as the first Asian ASIC vendor. Headquartered in Hsinchu Science Park, Taiwan, Faraday has services and technical support offices around the world, including in US, Japan, China, India and Vietnam to provide customers real-time support. Faraday is listed on the Taiwan Stock Exchange (TWSE) under ticker number 3035.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1fb144bc2fa3867723b3c840a0f04af5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmfyywrhesbuzwnobm9sb2d5qhjhbnnvbwhvdxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-14 21:18:42.551298",
+    "disclosedDate": "2023-03-14 21:18:42.551320"
+  }
+}

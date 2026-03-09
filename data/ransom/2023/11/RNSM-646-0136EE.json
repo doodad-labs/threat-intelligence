@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-646-0136EE",
+  "type": "ransomware-incident",
+  "title": "Vinovalie ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vinovalie",
+    "domain": "vinovalie.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Vinovalie union of the 4 cooperative cellars of Técou, Fronton, Rabastens and Côtes d'Olt. Producer of Gaillac wine, Fronton wine and Cahors wine.The Vinovalie network was ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a0279a857fcf2128a063cae2aabdaa9e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmlub3zhbgllqg5vzxnjyxbl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.centpourcent.com/tarn-vinovalie-pirate-par-des-hackers-450-000-dollars-de-rancon-demandes",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-26 00:00:00.000000",
+    "disclosedDate": "2023-11-01 05:40:25.440965"
+  }
+}

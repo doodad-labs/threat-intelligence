@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-118425",
+  "type": "ransomware-incident",
+  "title": "Financoop ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Financoop",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Financoop is a Savings and Credit Cooperative with more than 15 y ears in the financial market providing financial products and ser vices. 20GB of data will be released soon. Lots of financial data and other internal business files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmluyw5jb29wqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-11 16:33:44.669522",
+    "disclosedDate": "2024-07-11 16:33:45.647569"
+  }
+}

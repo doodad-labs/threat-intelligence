@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-09411E",
+  "type": "ransomware-incident",
+  "title": "paulmitchell.ru ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "paulmitchell.ru",
+    "domain": "paulmitchell.ru",
+    "country": "RU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "malas",
+    "name": "malas",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "using Zimbra vulnerability",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/863238c49a91c1c18ddf1de4908d87eb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgf1bg1pdgnozwxslnj1qg1hbgfz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-09 14:57:18.00000",
+    "disclosedDate": "2023-04-09 14:57:18.00000"
+  }
+}

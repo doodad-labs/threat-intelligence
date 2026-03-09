@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-20E24A",
+  "type": "ransomware-incident",
+  "title": "Instituto de Ojos ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Instituto de Ojos",
+    "domain": "institutoojospr.com",
+    "country": "AR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/849bbee7323933e9f72c0ab039b6fbfa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5zdgl0dxrvigrlie9qb3naa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-20 15:30:25.158897",
+    "disclosedDate": "2025-03-20 15:32:01.549185"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-140DB6",
+  "type": "ransomware-incident",
+  "title": "yarco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "yarco.com",
+    "domain": "yarco.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1900000000000,
+    "description": "yarco.com 1.9Tb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ewfyy28uy29tqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-14 08:48:47.558141",
+    "disclosedDate": "2024-03-14 08:48:47.558176"
+  }
+}

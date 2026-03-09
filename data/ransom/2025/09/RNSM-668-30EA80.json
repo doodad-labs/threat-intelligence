@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-668-30EA80",
+  "type": "ransomware-incident",
+  "title": "Weschler's Auctioneers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Weschler's Auctioneers",
+    "domain": "weschlers.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "securotrop",
+    "name": "securotrop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1429000000000,
+    "description": "Status: AWAITINGSize: 1429 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/803e55e296e455f81d0ab9e71f8387ab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vzy2hszxincybbdwn0aw9uzwvyc0bzzwn1cm90cm9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-30 20:22:10.187401",
+    "disclosedDate": "2025-09-30 20:22:23.066671"
+  }
+}

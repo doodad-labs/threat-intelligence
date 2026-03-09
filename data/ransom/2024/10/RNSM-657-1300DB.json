@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-657-1300DB",
+  "type": "ransomware-incident",
+  "title": "Ascires Biomedical Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ascires Biomedical Group",
+    "domain": "ascires.com",
+    "country": "ES",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "Data Breach at Ascires Biomedical Group here! We have extracted over 700 GB of data from the systems of Spain's largest biomedical group, ascires.com! Here are some key highlights of what we possess:Client Data - Medical Reports - Financial Status (Bank reports, taxes, and more) - Annual Accounts - Personal Information - New Projects - Large amounts of patient-related data - Business plans and much more – a total of 700 GB of critical information!We demand that an official representative from Ascires contacts us.We can reach an agreement. We don’t want to assist in leaking this amount of data quickly!To obtain a sample of the data : [http://6sf5xa7eso3e3vk46i5tpcqhnlayczztj7zjktzaztlotyy75zs6j7qd.onion/ascires.com.rar]    Blog Link: [http://pdcizqzjitsgfcgqeyhuee5u6uki6zy5slzioinlhx6xjnsw25irdgqd.onion]      Others can contact us here if you need any additional information related to the Ascires Group:    Tox ID: [redacted]",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxnjaxjlcybcaw9tzwrpy2fsiedyb3vwqhn0b3jtb3vz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-11 22:37:24.000000",
+    "disclosedDate": "2024-10-13 15:26:24.732507"
+  }
+}

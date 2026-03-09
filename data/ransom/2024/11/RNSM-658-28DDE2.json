@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-28DDE2",
+  "type": "ransomware-incident",
+  "title": "gehnaindia.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gehnaindia.com",
+    "domain": "gehnaindia.com",
+    "country": "IN",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/42fab9e932de3f9de701c31ff2c837b7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2vobmfpbmrpys5jb21aa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-28 06:44:02.827924",
+    "disclosedDate": "2024-11-28 06:44:03.667001"
+  }
+}

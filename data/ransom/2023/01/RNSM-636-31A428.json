@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-636-31A428",
+  "type": "ransomware-incident",
+  "title": "tcels.or.th ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tcels.or.th",
+    "domain": "tcels.or.th",
+    "country": "TH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ทีเซลส์ (TCELS) ร่วมกับ RISE ประกาศผลทีมผ่านเข้ารอบ โครงการ TCELS x RISE Accelerator 2022 23 February 2022",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgnlbhmub3iudghabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-31 03:05:45.715932",
+    "disclosedDate": "2023-01-31 03:05:45.715932"
+  }
+}

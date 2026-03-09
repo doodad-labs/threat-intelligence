@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-27FAE0",
+  "type": "ransomware-incident",
+  "title": "www.aretusamilano.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.aretusamilano.it",
+    "domain": "aretusamilano.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.aretusamilano.it",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1f65dd6f113cdd85370b4bbd95a0a68b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmfyzxr1c2ftawxhbm8uaxraymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:18:33.620271",
+    "disclosedDate": "2025-01-27 07:19:39.156768"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-12633D",
+  "type": "ransomware-incident",
+  "title": "sealco-leb.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sealco-leb.com",
+    "domain": "sealco-leb.com",
+    "country": "LB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "On January 1st 2010, SEALCO (Shaker Electronics and Appliances Lebanon Co), started its operation in Lebanon as the new authorized distributor for LG Consumer Electronics and Appliances.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a04fbc2cf0a66e19275832095efdd53f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vhbgnvlwxlyi5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 08:11:00.000000",
+    "disclosedDate": "2024-02-12 10:31:46.800153"
+  }
+}

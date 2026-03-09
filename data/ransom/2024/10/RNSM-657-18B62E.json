@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-18B62E",
+  "type": "ransomware-incident",
+  "title": "Neighbors Credit Union ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Neighbors Credit Union",
+    "domain": "neighborscu.org",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Neighbors Credit Union is a not-for-profit, full service financial institution where every member has a voice in how our credit union works, and how each of us is served. Our service promise to you: making your financial life easy, trustworthy and life changing ... for everyday money management to special occassions and monumental accomplishments. Because that's what being a great Neighbor is all about.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e5f9e49cc8fb5a34f01702593cce0acc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmvpz2hib3jzienyzwrpdcbvbmlvbkbibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-20 00:00:00.000000",
+    "disclosedDate": "2024-10-18 18:37:18.622875"
+  }
+}

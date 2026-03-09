@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-10EDC5",
+  "type": "ransomware-incident",
+  "title": "www.wheelsauto.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.wheelsauto.com",
+    "domain": "wheelsauto.com",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "kraken",
+    "name": "kraken",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "\"For over 35 years Wheels Automotive Dealer Supplies has been Canada’s leader in Automotive retail products - as a manufacturer,...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fb67343426fe25d91a34058daf714473.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lndozwvsc2f1dg8uy29tqgtyywtlbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-10 14:29:07.338692",
+    "disclosedDate": "2025-07-10 14:29:32.230460"
+  }
+}

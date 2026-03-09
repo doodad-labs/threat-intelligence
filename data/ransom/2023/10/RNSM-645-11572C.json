@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-11572C",
+  "type": "ransomware-incident",
+  "title": "LDLC ASVEL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LDLC ASVEL",
+    "domain": "ldlcasvel.com",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LDLC ASVEL is a French professional basketball team based in the city of Villeurbanne, which is a suburb of Lyon, France. The club, which is the basketball section of the m...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/938dd2e3b000ae288e21a20d74d0c38c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/termqybbu1zftebub2vzy2fwzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-09 00:00:00.000000",
+    "disclosedDate": "2023-10-11 22:10:17.995965"
+  }
+}

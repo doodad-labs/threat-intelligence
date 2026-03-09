@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-04FF3C",
+  "type": "ransomware-incident",
+  "title": "www.avantit.no ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.avantit.no",
+    "domain": "avantit.no",
+    "country": "NO",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/602490f45c00c3f7b6cdfade23b515bb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmf2yw50axqubm9acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-28 10:31:36.000000",
+    "disclosedDate": "2024-06-04 23:43:28.843659"
+  }
+}

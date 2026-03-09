@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-670-17DCE5",
+  "type": "ransomware-incident",
+  "title": "MOBI Technologies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MOBI Technologies",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MOBI Technologies Inc. is a consumer health and home electronics brand committed to elevating the consumer experience around digital living and wellness monitoring for all ages. We are going to upload company data soon. You will find financialdata (audit, payment details, invoices), personal financial details of employees, accounting files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tu9cssbuzwnobm9sb2dpzxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-17 00:00:00.000000",
+    "disclosedDate": "2025-11-17 10:46:00.956084"
+  }
+}

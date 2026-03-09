@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-04C91E",
+  "type": "ransomware-incident",
+  "title": "firstlight.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "firstlight.net",
+    "domain": "firstlight.net",
+    "country": "US",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Headquartered in Albany, New York, FirstLight provides fiber-optic data, Internet, data center, cloud, unified communications, and managed services to enterprise and carrier customers throughout the Northeast and mid-Atlantic.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c08cc836d18e2c6811b44cf9c60303fe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmlyc3rsawdodc5uzxrabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-04 14:24:05.839000",
+    "disclosedDate": "2025-09-04 15:02:42.961199"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-135213",
+  "type": "ransomware-incident",
+  "title": "Autostrad Rent a Car ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Autostrad Rent a Car",
+    "domain": "autostrad.com",
+    "country": "AE",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.autostrad.com https://www.zoominfo.com/c/autostrad-rent-a-car/1326957607 Best Car Rental is a car rental company based in the UAE, specializing in offering great deals on rent-a-car services primarily in Dubai. They cater to individuals and businesses looking for convenient and affordable vehicle rental options. The company emphasizes customer satisfaction and provides a variety of vehicles to meet diverse needs. With a focus on reliability and value, they aim to enhance the travel experienc",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxv0b3n0cmfkifjlbnqgysbdyxjadghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-13 01:51:48.000000",
+    "disclosedDate": "2026-02-13 03:18:40.360770"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-27759C",
+  "type": "ransomware-incident",
+  "title": "studioelad.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "studioelad.it",
+    "domain": "studioelad.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Studio Elad — legally registered as Elad S.r.l. — is an Italian company operating in the professional services and business …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/25b65d6f180de6ccc2c6603f7db22db0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3r1zglvzwxhzc5pdebzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-27 20:42:51.954044",
+    "disclosedDate": "2025-12-27 20:43:03.359694"
+  }
+}

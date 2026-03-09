@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-028A07",
+  "type": "ransomware-incident",
+  "title": "Sugawara Laboratories ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sugawara Laboratories",
+    "domain": "sugawara-labs.co.jp",
+    "country": "JP"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/01fb47592bee3526c32f985900df73de.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vnyxdhcmegtgfib3jhdg9yawvzqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-02 05:53:11.230068",
+    "disclosedDate": "2026-01-02 05:53:29.138211"
+  }
+}

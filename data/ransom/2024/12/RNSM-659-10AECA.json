@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-659-10AECA",
+  "type": "ransomware-incident",
+  "title": "greenscape.us.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "greenscape.us.com",
+    "domain": "greenscape.us.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Certainly! Greenscape is a company that specializes in providing high-quality landscaping services. They are dedicated to creating and maintaining beautiful, sustainable outdoor environments for both residential and commercial clients. Their services often include landscape design, installation, maintenance, and enhancements, focusing on environmentally friendly practices to promote healthy and vibrant green spaces.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1cc054286e9b9e323ef23bea271209c1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jlzw5zy2fwzs51cy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-01-09%20greenscape%20land%20design%2c%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 10:36:19.000000",
+    "disclosedDate": "2024-12-10 11:21:17.261308"
+  }
+}

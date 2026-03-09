@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-174772",
+  "type": "ransomware-incident",
+  "title": "Manchester Credit Union ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Manchester Credit Union",
+    "country": "GB",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 6000000000,
+    "description": "Manchester Credit UnionManchester Credit Union offers ethical and affordable financial services, including personal loans and savings opportunities, catering primarily to local residents. The organization emphasizes community involvement, providing members with a share in ownership and earning dividends on their savings. They also offer a mobile app for convenient money management, and various educational initiatives aimed at promoting financial literacy. With over 30,000 members, the credit union is committed to supporting individuals and communities while keeping financial services accessible.Geo: United Kingdom - Leak size: 6 GB Archive - Contains: Files,SQL",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfuy2hlc3rlcibdcmvkaxqgvw5pb25ac2fyy29tyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-17 08:32:20.935741",
+    "disclosedDate": "2025-04-17 08:32:22.328139"
+  }
+}

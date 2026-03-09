@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-0538E0",
+  "type": "ransomware-incident",
+  "title": "JBS Brazil - We have 3TB of your data ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JBS Brazil - We have 3TB of your data",
+    "country": "BR",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "JBS Brazil is a multinational food company primarily engaged in the production and processing of meat, including beef, poultry, and pork. It operates globally, offering a wide range of food product...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0a5f7f0f0d0f98bb87d49310d9d547e2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/skjtiejyyxppbcatifdlighhdmugm1rcig9mihlvdxigzgf0yubjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-05 13:23:16.050525",
+    "disclosedDate": "2026-03-05 13:23:30.414299"
+  }
+}

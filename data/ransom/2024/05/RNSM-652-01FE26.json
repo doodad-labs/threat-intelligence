@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-01FE26",
+  "type": "ransomware-incident",
+  "title": "Skender Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Skender Construction",
+    "domain": "skender.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "underground",
+    "name": "underground",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue:$318.3 Million - Country :USA",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ce6146e29123b2eae12016cfe6bdecee.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2tlbmrlcibdb25zdhj1y3rpb25adw5kzxjncm91bmq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-21 00:00:00.000000",
+    "disclosedDate": "2024-05-01 14:06:26.594344"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-262F21",
+  "type": "ransomware-incident",
+  "title": "bnm.bg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bnm.bg",
+    "domain": "bnm.bg",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We will leak all of the info we have on you if we dont get paid.We require a ransom of $14,000",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym5tlmjnqhjhbnnvbwvk",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-26 03:23:13.104748",
+    "disclosedDate": "2023-09-26 03:23:13.104771"
+  }
+}

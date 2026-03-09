@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-09F427",
+  "type": "ransomware-incident",
+  "title": "Hitzinger ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hitzinger",
+    "domain": "hitzinger.at",
+    "country": "AT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4a9a93dabfc0226d40a6c6690dfa77aa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgl0emluz2vyqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-09 03:11:58.463917",
+    "disclosedDate": "2025-11-09 03:12:17.059703"
+  }
+}

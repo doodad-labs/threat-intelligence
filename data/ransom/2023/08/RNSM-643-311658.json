@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-311658",
+  "type": "ransomware-incident",
+  "title": "rydershealth.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rydershealth.com",
+    "domain": "rydershealth.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ryders Health Management is now known to everyone, first of all, for its indifferent attitude to the protection of personal data of its clients and employees, as well as corporate information of the company. Absolute indifference of officials is mani...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8bc44f23b1c25be2eec3414f26e99b43.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cnlkzxjzagvhbhrolmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-31 00:09:00.000000",
+    "disclosedDate": "2023-08-31 01:02:22.434629"
+  }
+}

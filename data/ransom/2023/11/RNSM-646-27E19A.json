@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-27E19A",
+  "type": "ransomware-incident",
+  "title": "stsaviationgroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "stsaviationgroup.com",
+    "domain": "stsaviationgroup.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "STS Aviation Group is a service provider for the aviation industry. The company was founded in 1986 and is headquartered in Jensen Beach, Florida.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/732932212113c9cd1c557cb6742dcfc3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rzyxzpyxrpb25ncm91cc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-27 18:29:00.000000",
+    "disclosedDate": "2023-11-27 19:13:53.853538"
+  }
+}

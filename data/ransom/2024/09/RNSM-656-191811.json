@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-191811",
+  "type": "ransomware-incident",
+  "title": "tims.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tims.com",
+    "domain": "tims.com",
+    "country": "CA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TIMS Medical offers innovative medical imaging solutions for hospitals and healthcare providers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgltcy5jb21aywj5c3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-19 09:04:52.026109",
+    "disclosedDate": "2024-09-19 09:04:52.940818"
+  }
+}

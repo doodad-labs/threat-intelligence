@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-05CA27",
+  "type": "ransomware-incident",
+  "title": "Heavy Motions Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Heavy Motions Inc",
+    "domain": "heavymotions.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Heavy Motions Inc. specializes in advanced hydraulic solutions that cater to various industries, including mobile trucks, construction, agriculture, and oil & gas. The company offers a wide range of high-performance hydraulic products, such as pumps, valves, and cylinders, designed to meet modern demands and future challenges. With a focus on innovation and reliability, Heavy Motions Inc. aims to power the machines that drive global progress. Their products are tailored for clients seeking efficient hydraulic components for their operations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/289d6dc3be18e1ebcd412d91e0f3e443.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvhdnkgtw90aw9ucybjbmnazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-05 22:48:09.113736",
+    "disclosedDate": "2026-02-05 23:00:23.288732"
+  }
+}

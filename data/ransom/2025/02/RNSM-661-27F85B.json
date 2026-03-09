@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27F85B",
+  "type": "ransomware-incident",
+  "title": "VSSTRANSPORTATIONGROUP.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VSSTRANSPORTATIONGROUP.COM",
+    "domain": "vsstransportationgroup.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] VSSTRANSPORTATIONGROUP.COM is a logistics company specializing in various areas including truck load shipping, warehousing, and distribution. It is known not only for its comprehensive transportation solutions but also for its emphasis on customer service and detailed strategies tailored to meet each client’s needs. The firm offers more than three decades of industry experience.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vlntvfjbtlnqt1juqvrjt05huk9vuc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:47:06.353519",
+    "disclosedDate": "2025-02-27 17:47:10.194997"
+  }
+}

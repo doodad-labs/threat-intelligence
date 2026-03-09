@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-651-272BCA",
+  "type": "ransomware-incident",
+  "title": "Anders Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Anders Group",
+    "domain": "andersgroup.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 214480000000,
+    "description": "Anders Group (founded 2010) - is engaged in recruiting specialists for medical institutions throughout the country. Anders Group corporate office is located in 105 Decker Ct Ste 600, Irving, Texas, 75062, United States and has 185 employees. The total amount of data leakage is 214.48 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw5kzxjziedyb3vwqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-25 15:23:57.12345",
+    "disclosedDate": "2024-04-27 10:35:04.608633"
+  }
+}

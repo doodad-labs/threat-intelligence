@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-17B317",
+  "type": "ransomware-incident",
+  "title": "Admilla ELAP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Admilla ELAP",
+    "domain": "admilia.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomexx",
+    "name": "ransomexx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Elap (formerly Admilia) offers its expertise and support throughout the implementation of your budget and accounting solution. Huge clients, financial documents, contracts, personal data and a lot of confidential things belongs to their customers. If you wanna be one someday your data will be here.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1258e42947d39e908d7260c0fad07468.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwrtawxsysbftefqqhjhbnnvbwv4ea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-17 08:33:01.385451",
+    "disclosedDate": "2023-11-17 08:33:01.385471"
+  }
+}

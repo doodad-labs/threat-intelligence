@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-011FB1",
+  "type": "ransomware-incident",
+  "title": "Bailey's ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bailey's",
+    "domain": "baileyscss.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bailey's the company provides catering services including both home cooking and gourmet menus. Bailey's Catering is part of a family of restaurants that include Bailey's Seafood and Grill and Ema's Restaurant in Lafayette, Louisiana. Bailey Support Services corporate office is located in 3639 Ambassador Caffery Pkwy Ste 408, Lafayette, Louisiana, 70503, United States and has 14 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2d2d8a17d3473d8fa4806976ee099ad6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfpbgv5j3nabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-27 05:55:25.000000",
+    "disclosedDate": "2025-06-01 00:44:55.675993"
+  }
+}

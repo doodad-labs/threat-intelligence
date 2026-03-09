@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-24E2BF",
+  "type": "ransomware-incident",
+  "title": "EMKAY.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EMKAY.COM",
+    "domain": "emkay.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] EMKAY Inc. is a business service provider specializing in fleet leasing and management solutions. Founded in 1946, EMKAY operates across North America and caters to a wide range of industry sectors. Offering services like lease financing, fuel management, accident management, licensing compliance, and more, EMKAY aims to help businesses manage their vehicle fleets efficiently and cost-effectively.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ru1lqvkuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 17:21:10.328414",
+    "disclosedDate": "2025-01-24 17:21:10.328414"
+  }
+}

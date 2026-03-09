@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-662-24269B",
+  "type": "ransomware-incident",
+  "title": "Opulent ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Opulent",
+    "domain": "opulent-group.com",
+    "country": "SG"
+  },
+  "actor": {
+    "id": "frag",
+    "name": "frag",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Appliances, Electrical, and Electronics ManufacturingA one-stop electronics manufacturer with wide product capabilities including health equipment and automotive products.Our team was successful in extracting the following documents:Confidential corporate documentsMedical dental care documentsFinancial statements of the companyPatent documents",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3b1bgvudebmcmfn",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-07 00:00:00.000000",
+    "disclosedDate": "2025-03-24 19:23:42.049665"
+  }
+}

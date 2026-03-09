@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-02850E",
+  "type": "ransomware-incident",
+  "title": "Arandell Corp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Arandell Corp",
+    "domain": "arandell.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1922, Arandell provides premedia, catalog printing, mailing, distribution, list management, database marketing, mobile solutions, logistics and consulting services to its partners in the retail and direct mail catalog markets.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/60c2c6c2b770532d274354cc9238ce44.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjhbmrlbgwgq29ycebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-02 06:20:48.12345",
+    "disclosedDate": "2023-04-02 07:10:31.842394"
+  }
+}

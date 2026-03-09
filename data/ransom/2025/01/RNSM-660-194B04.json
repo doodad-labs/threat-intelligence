@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-194B04",
+  "type": "ransomware-incident",
+  "title": "TG3 Electronics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TG3 Electronics",
+    "domain": "tg3electronics.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TG3 Electronics TG3 Electronics, Inc. is a second-generation family-owned custom keyboard and electronics manufacturer based in Kenosha, Wisconsin.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/veczievszwn0cm9uawnzqhjoexnpzge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.wgtd.org/news/rare-look-cyber-ransom-demand-local-company",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-19 15:36:18.342288",
+    "disclosedDate": "2025-01-19 15:36:18.342288"
+  }
+}

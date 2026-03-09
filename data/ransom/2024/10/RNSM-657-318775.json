@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-318775",
+  "type": "ransomware-incident",
+  "title": "TDM Technical Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TDM Technical Services",
+    "domain": "tdm.ca",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TDM Technical ServicesProviding the most comprehensive range of capabilities in the technical staffing industry.Geo: Canada - Leak size: GB Archive - Contains: Files,SQL, Exchange mails",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vernifrly2huawnhbcbtzxj2awnlc0bzyxjjb21h",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-31 07:26:10.739143",
+    "disclosedDate": "2024-10-31 07:26:11.074593"
+  }
+}

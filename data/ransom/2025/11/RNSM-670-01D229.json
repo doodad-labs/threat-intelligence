@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-01D229",
+  "type": "ransomware-incident",
+  "title": "o*c*u.o** ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "o*c*u.o**",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 120000000000,
+    "description": "Ransom: 500k120gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e0e736bb2a34d271cbc25928d28c7355.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bypjknuubyoqqgrldm1hbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-01 00:43:57.891223",
+    "disclosedDate": "2025-11-01 00:44:30.241836"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-17E019",
+  "type": "ransomware-incident",
+  "title": "www.baxterlaboratories.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.baxterlaboratories.com",
+    "domain": "baxterlaboratories.com",
+    "country": "AU",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Baxter Laboratories is an Australian contract manufacturing company, specializing in skincare products. They provide services for a range of sectors including beauty, baby care, sun care, and medical products. They handle every process from conception and development, through to manufacturing and packing, ensuring high-quality output. They are renowned for their innovation and adherence to GMP quality standards.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/74585cb9efb1d72b470a8bd7f7eb09db.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmjhehrlcmxhym9yyxrvcmllcy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-17 19:06:34.000000",
+    "disclosedDate": "2025-03-17 21:15:36.329486"
+  }
+}

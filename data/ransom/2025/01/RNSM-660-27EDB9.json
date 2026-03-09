@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-27EDB9",
+  "type": "ransomware-incident",
+  "title": "www.constelacion.com.sv ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.constelacion.com.sv",
+    "domain": "constelacion.com.sv",
+    "country": "SV",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.constelacion.com.sv",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fa3ad77a736147ea3ad86a8155fc5f44.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnvbnn0zwxhy2lvbi5jb20uc3zaymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:16:18.138177",
+    "disclosedDate": "2025-01-27 07:17:24.125836"
+  }
+}

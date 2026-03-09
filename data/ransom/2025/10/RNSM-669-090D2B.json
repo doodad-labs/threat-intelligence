@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-090D2B",
+  "type": "ransomware-incident",
+  "title": "Northern Air Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Northern Air Systems",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 22000000000,
+    "description": "Northern Air Systems has been a leading manufacturer of high-quality HVAC systems for commercial and industrial applications for nearly three decades.We are ready to upload 22gb of corporate documents. Client data (DLs, addresses, emails), employee information (DLs, emails, phones and so on), lots of projects information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9ydghlcm4gqwlyifn5c3rlbxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-09 00:00:00.000000",
+    "disclosedDate": "2025-10-09 14:45:49.621338"
+  }
+}

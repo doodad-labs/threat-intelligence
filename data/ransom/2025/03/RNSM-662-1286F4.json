@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-1286F4",
+  "type": "ransomware-incident",
+  "title": "HYPONAMIRU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HYPONAMIRU",
+    "domain": "hyponamiru.cz",
+    "country": "CZ"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Days06Hours23Minutes33332222Seconds33336767www.hyponamiru.czHyponamiru company is behind a comprehensive web application that signifi…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/55661b895e20b594976a1b2633f37b80.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sflqt05btulsvubhcmn1c21lzglh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-12 02:10:17.000000",
+    "disclosedDate": "2025-03-12 03:49:53.941208"
+  }
+}

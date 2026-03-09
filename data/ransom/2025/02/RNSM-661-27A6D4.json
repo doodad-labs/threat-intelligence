@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27A6D4",
+  "type": "ransomware-incident",
+  "title": "PITSCO.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PITSCO.COM",
+    "domain": "pitsco.com",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Pitsco.com is an education and technology company that specializes in providing hands-on STEM (Science, Technology, Engineering, Mathematics) learning resources. Pitsco offers a variety of K-12 science and engineering products for classrooms, afterschool programs and competitive events. Their product line includes robotics, drones, rocketry, and coding resources. Founded in 1971, Pitsco aims to engage students, develop 21st-century skills, and foster a lifelong love of learning.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ueluu0nplknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:06:48.659786",
+    "disclosedDate": "2025-02-27 17:06:56.249025"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-28C541",
+  "type": "ransomware-incident",
+  "title": "dawsongroup.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dawsongroup.uk",
+    "domain": "dawsongroup.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Headquartered in Milton Keynes, United Kingdom, Dawnsongroup PLC provides asset rental and leasing services.400GBFinance (budget, audit, cash flow, balance sheet, P&L, tax returns, project calculations, YTD reports for all companies, bank stateme...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/460fe7ca5b6d77037021104303f10853.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgf3c29uz3jvdxaudwtabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-28 19:58:00.000000",
+    "disclosedDate": "2023-11-28 20:41:40.775254"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-31A869",
+  "type": "ransomware-incident",
+  "title": "frilot.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "frilot.com",
+    "domain": "frilot.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Frilot LLC. Frilot LLC is a law firm located in New Orleans, Louisiana and offers full service representation in all areas of litigation on a local, regional and national basis. We act as business advisors and strategic partners for a wide range of p...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/59cd19ff1c601c0feeee3c39e0583953.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/znjpbg90lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-29 00:00:00.000000",
+    "disclosedDate": "2024-07-31 12:07:48.302312"
+  }
+}

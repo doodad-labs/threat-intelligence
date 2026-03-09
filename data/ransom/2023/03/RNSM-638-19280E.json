@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-19280E",
+  "type": "ransomware-incident",
+  "title": "jaureguy.com.ar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jaureguy.com.ar",
+    "domain": "jaureguy.com.ar",
+    "country": "AR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Jaureguy S.A.C. I. y A. is a company with more than 20 years of experience making and selling soda in disposable siphons.Jaureguy has their own fleet for the logistics of their products and a Distribution Center located in San Justo, La Matanza, Bu...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e0f6fe7160e320b8eb253e4e8310ff74.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/amf1cmvndxkuy29tlmfyqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-13 14:00:00.000000",
+    "disclosedDate": "2023-03-19 19:09:24.343747"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-187708",
+  "type": "ransomware-incident",
+  "title": "cotrelec.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cotrelec.com",
+    "domain": "cotrelec.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The COTRELEC group, specialized in PUBLIC WORKS, as well as industrial and tertiary ELECTRIC SUPPLY, is based primarily in the New-Aquitaine region.We attach great importance to providing you with local service.Since 1988, our experience in study...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e2f175606dfd6689764cc64352d4ec23.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y290cmvszwmuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-18 12:28:00.000000",
+    "disclosedDate": "2023-07-18 12:59:02.997382"
+  }
+}

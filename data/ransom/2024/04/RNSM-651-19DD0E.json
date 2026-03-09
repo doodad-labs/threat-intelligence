@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19DD0E",
+  "type": "ransomware-incident",
+  "title": "chahousing.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "chahousing.org",
+    "domain": "chahousing.org",
+    "country": "",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Chattanooga Housing Authority (CHA), chartered in 1938 pursuant to the Tennessee Housing Authorities Law, is a public non-profit corporation which carries out public housing and urban development programs as its primary activities. CHA is governe...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ccb3def820b8d054936d0f9c787d544e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2hhag91c2luzy5vcmdazglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-11-09 22:01:00.000000",
+    "disclosedDate": "2024-04-19 11:12:29.017028"
+  }
+}

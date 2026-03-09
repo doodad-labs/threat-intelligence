@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-259158",
+  "type": "ransomware-incident",
+  "title": "I.A.T.S.E. Local 667/669 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "I.A.T.S.E. Local 667/669",
+    "domain": "iatse667.com",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 125000000000,
+    "description": "Status: 29d 22h 22m 31s - Size Data: 125 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/81fb2fb34900092445056663d5aeb398.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ss5bllquuy5flibmb2nhbca2njcvnjy5qgnpy2fkytmzmde=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-25 00:00:00.000000",
+    "disclosedDate": "2025-03-25 16:55:00.237755"
+  }
+}

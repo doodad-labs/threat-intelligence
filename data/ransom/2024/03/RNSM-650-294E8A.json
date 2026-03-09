@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-294E8A",
+  "type": "ransomware-incident",
+  "title": "Lodan Electronics Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lodan Electronics Inc",
+    "domain": "lodanelectronics.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LoDan Electronics, Inc. was established in 1967, and has served as an industry leader, designing, manufacturing, and delivering cost effective, custom-engineered interconnect solutions. These...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/25fd12d94aa9307887fa23f2c5bc1493.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tg9kyw4grwxly3ryb25py3mgsw5jqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-29 08:52:01.045069",
+    "disclosedDate": "2024-03-29 08:52:01.217864"
+  }
+}

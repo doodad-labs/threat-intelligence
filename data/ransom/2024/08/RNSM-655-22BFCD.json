@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-22BFCD",
+  "type": "ransomware-incident",
+  "title": "rylandpeters.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rylandpeters.com",
+    "domain": "rylandpeters.com",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ryland Peters & Small and CICO Books is an independent, illustrated publisher creating beautifully produced books in the areas of interior design, ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/81f653f7f582ebc6388e19d678bbb824.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cnlsyw5kcgv0zxjzlmnvbubhchq3mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-22 15:06:32.768605",
+    "disclosedDate": "2024-08-22 15:06:33.868839"
+  }
+}

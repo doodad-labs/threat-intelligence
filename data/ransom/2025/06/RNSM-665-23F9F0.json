@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-23F9F0",
+  "type": "ransomware-incident",
+  "title": "mccn.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mccn.org",
+    "domain": "mccn.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c03687e98b23b97b4fe6b5786d996230.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwnjbi5vcmdac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-06 00:00:00.000000",
+    "disclosedDate": "2025-06-23 21:14:43.811444"
+  }
+}

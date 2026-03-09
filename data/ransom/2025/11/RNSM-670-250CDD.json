@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-670-250CDD",
+  "type": "ransomware-incident",
+  "title": "Lake Superior State University ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lake Superior State University",
+    "domain": "lssu.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cac91e356da8fc5896621256065cdcfa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgfrzsbtdxblcmlvcibtdgf0zsbvbml2zxjzaxr5qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://dysruptionhub.com/lssu-ransomware-michigan/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-25 18:43:25.438441",
+    "disclosedDate": "2025-11-25 18:43:50.585258"
+  }
+}

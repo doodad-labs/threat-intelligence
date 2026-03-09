@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-667-110523",
+  "type": "ransomware-incident",
+  "title": "Atlas Transfer & Storage ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Atlas Transfer & Storage",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Atlas Transfer & Storage not only handles residential and commercial relocations, but we also provide premier storage solutions. We are going to upload company data soon. You will find financialdata (audit, payment details,financial reports, financial reports, invoices), employees and customers information: driver's license and a bit of personal files and customers data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxrsyxmgvhjhbnnmzxigjibtdg9yywdlqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-11 00:00:00.000000",
+    "disclosedDate": "2025-08-11 15:08:18.548869"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-662-133765",
+  "type": "ransomware-incident",
+  "title": "El Camino Real Academy (elcaminorealacademy) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "El Camino Real Academy (elcaminorealacademy)",
+    "domain": "elcaminorealacademy.com",
+    "country": "",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 111000000000,
+    "description": "111 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a652d8dd32a8f6ebce575c53f810b45d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwwgq2ftaw5vifjlywwgqwnhzgvtesaozwxjyw1pbm9yzwfsywnhzgvteslazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-12 00:00:00.000000",
+    "disclosedDate": "2025-03-13 01:00:37.074020"
+  }
+}

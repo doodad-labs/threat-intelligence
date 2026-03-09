@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-27521C",
+  "type": "ransomware-incident",
+  "title": "West Welch Reed Engineers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "West Welch Reed Engineers",
+    "domain": "wwrengrs.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "West, Welch, Reed Engineers, Inc. offers engineering services focused on transforming ideas into tangible projects. They cater to a diverse range of clients, providing expertise across various engineering disciplines. With a commitment to quality and innovation, the firm aims to deliver solutions that meet their clients' specific needs. Their office is located in Knoxville, Tennessee.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6e1759a2945e265aef8574a15bddad95.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vzdcbxzwxjacbszwvkievuz2luzwvyc0bkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-26 05:32:10.204387",
+    "disclosedDate": "2025-10-27 11:49:14.962875"
+  }
+}

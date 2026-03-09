@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-272184",
+  "type": "ransomware-incident",
+  "title": "ERR Raumplaner ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ERR Raumplaner",
+    "domain": "err.ch",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/01c881d0f587c8d7aa9c245a940e54fc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rvjsifjhdw1wbgfuzxjacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-27 17:28:34.801900",
+    "disclosedDate": "2025-11-27 17:28:52.408728"
+  }
+}

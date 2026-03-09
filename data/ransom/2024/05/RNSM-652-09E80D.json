@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09E80D",
+  "type": "ransomware-incident",
+  "title": "ccimp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ccimp.com",
+    "domain": "ccimp.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Préparation opérationnelle à l'emploi : des compétences sur un plateau ! Pour soutenir les entreprises en manque de profils adaptés sur certains postes, la CCI Aix-Marseille-Provence, via son entité CCI Formation, propose le dispositif de Préparation...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/774f1053cc39648b1d30b6f9a5bdfecb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2npbxauy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-31 00:00:00.000000",
+    "disclosedDate": "2024-05-09 16:44:58.323114"
+  }
+}

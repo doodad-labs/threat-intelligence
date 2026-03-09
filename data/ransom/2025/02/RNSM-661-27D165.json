@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-27D165",
+  "type": "ransomware-incident",
+  "title": "NYCALLIANCE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NYCALLIANCE.COM",
+    "domain": "nycalliance.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] NYC Alliance is a global multi-channel apparel company known for creating inspiring fashion that's well-priced and created to be versatile and comfortable. The company provides a one-stop solution for design, manufacturing, logistics, and distribution, supplying many resellers worldwide. Their collections span women's, men's, and children's wear and it specializes in both branded and private label apparel, ensuring a range of options for their clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tlldquxmsufoq0uuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:54:53.320303",
+    "disclosedDate": "2025-02-27 16:55:00.569097"
+  }
+}

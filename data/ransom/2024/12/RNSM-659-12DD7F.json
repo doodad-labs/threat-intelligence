@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-659-12DD7F",
+  "type": "ransomware-incident",
+  "title": "GBC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GBC",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Galaxy is a division of the Crown Telecom Group owned by Crown Capital Partners",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ee0eb202c5686c47d66d470453fcf4e4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r0jdqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-04 09:06:07.558000",
+    "disclosedDate": "2024-12-12 13:22:25.092906"
+  }
+}

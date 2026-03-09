@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-653-148603",
+  "type": "ransomware-incident",
+  "title": "New Balance Commodities ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "New Balance Commodities",
+    "domain": "newbalancecommodities.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 24000000000,
+    "description": "New Balance Commodities provides grain processing and cattle feed ing services by mediating the void of communication, logistics, a nd information between the two industries. Lot's of agreements, r eports, financial information, bank transactions, vendors informa tion and so on. 24GB in total will be available soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv3iejhbgfuy2ugq29tbw9kaxrpzxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-14 16:27:20.491298",
+    "disclosedDate": "2024-06-14 16:27:21.432120"
+  }
+}

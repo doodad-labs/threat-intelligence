@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-23107C",
+  "type": "ransomware-incident",
+  "title": "gureco.pl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gureco.pl",
+    "domain": "gureco.pl",
+    "country": "PL",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Gureko GURECO Sp. z o.o. is a private company. We began our activity on 10 March 2008 based on an entry in the Register of Economic Activities of t...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/887887f2dc6d87afabb41bb116158c04.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3vyzwnvlnbsqgfwddcz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-23 16:43:42.038487",
+    "disclosedDate": "2024-11-23 16:43:42.485455"
+  }
+}

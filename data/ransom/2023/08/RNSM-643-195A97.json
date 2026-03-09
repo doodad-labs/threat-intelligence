@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-195A97",
+  "type": "ransomware-incident",
+  "title": "The International Civil Defense Organization ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The International Civil Defense Organization",
+    "domain": "icdo.int",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The International Civil Defense Organization (ICDO) is an intergovernmental organization whose goal is to promote the development by States of structures that protect and assist the population, as well as the protection of property and the environment from natural disasters or man-made disasters. It was founded in 1931.It consists of 60 Member States, 16 observer States and 23 associate members.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d02022e2d0caafed9dc748d8ef7a2d8f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlieludgvybmf0aw9uywwgq2l2awwgrgvmzw5zzsbpcmdhbml6yxrpb25abwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-19 20:38:53.12345",
+    "disclosedDate": "2023-08-19 22:01:30.314124"
+  }
+}

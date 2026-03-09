@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-665-122222",
+  "type": "ransomware-incident",
+  "title": "talismancivil.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "talismancivil.com",
+    "domain": "talismancivil.com",
+    "country": "AU",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 23.06.2025.Talisman Civil Consultants is a full-service design and surveying firm,based in Salt Lake City, specializing in civil engineering, land surveying and innovative design solu            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7c015a1b49fc38578e519bdac448ec44.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgfsaxntyw5jaxzpbc5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-09-05-talisman-civil-consultants-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-12 00:00:00.000000",
+    "disclosedDate": "2025-06-12 16:08:08.179602"
+  }
+}

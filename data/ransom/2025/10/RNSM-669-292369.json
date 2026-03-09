@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-669-292369",
+  "type": "ransomware-incident",
+  "title": "Yateem Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Yateem Group",
+    "domain": "yateemgroup.com",
+    "country": "BH"
+  },
+  "actor": {
+    "id": "blacknevas",
+    "name": "blacknevas",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "500+ gigabytes and over 100,000+ files availableThe Yateem Group owns nearly 100 optical outlets in addition to many other brands and facilities. At its heart, the group retains the original family values set forth by the founders.A complete customer database with all contacts has been downloaded, including phones and emails of more than 9000000+ records, as well as all internal information on YateemGroup employees, passports, rights, work contracts and insurance.The IT department is aware of the leak, but has broken off negotiations, and customer and employee data is being prepared for publication.(ready to sell all databases without publishing)access was obtained thanks to the IT departments of these companies:Trojan Construction &amp; Holding Group www.trojan.aeT. Choithram And Sons, LLC www.choithrams.com",
+    "claimed_data_types": [
+      "email-addresses",
+      "passport-numbers",
+      "employee-records"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2c7a1a62a3f962c4a0f63b8e87be56b2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wwf0zwvtiedyb3vwqgjsywnrbmv2yxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-24 06:01:00.000000",
+    "disclosedDate": "2025-10-29 10:19:32.753620"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-146593",
+  "type": "ransomware-incident",
+  "title": "ATB SA Ingénieurs-conseils SIA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ATB SA Ingénieurs-conseils SIA",
+    "domain": "atb-sa.ch",
+    "country": "CH",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ATB SA is an engineering and consulting office located in Switzerland and designed to assist you in the implementation of your major projectsatb-sa.ch",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/19b43fb25837c00e181f606f3d181083.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvrcifnbieluz8opbmlldxjzlwnvbnnlawxzifnjqua4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-14 00:00:00.000000",
+    "disclosedDate": "2024-02-14 05:52:26.300052"
+  }
+}

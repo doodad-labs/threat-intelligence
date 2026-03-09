@@ -1,0 +1,31 @@
+{
+  "id": "RNSM-662-28CF83",
+  "type": "ransomware-incident",
+  "title": "UNITED OPTICS GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UNITED OPTICS GmbH",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "UNITED OPTICS is the chain of specialist opticians in Austria andGermany. Founded in 1993, the network already comprises 36 leading companies with 90 locations throughout Austria and Germany.We are ready to upload a lot of essential corporate documents such as: contact numbers and e-mail addresses of employees and customers, medical documents, financial data (audits, payment details,reports), etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vu5jveveie9qvelduybhbwjiqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-28 00:00:00.000000",
+    "disclosedDate": "2025-03-28 11:45:22.836910"
+  }
+}

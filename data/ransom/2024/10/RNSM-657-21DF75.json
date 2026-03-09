@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-657-21DF75",
+  "type": "ransomware-incident",
+  "title": "temple-inc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "temple-inc.com",
+    "domain": "temple-inc.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "Temple, Inc., located in Decatur, Alabama, is a family-owned company that’s been serving the South since 1954. Throughout the years, the people of Temple, Inc. have worked to develop enduring relationships with city, county, and state agencies, utility departments, engineering firms, electrical services contractors, and vendor partners. A commitment to Integrity, outstanding Service, and Relationships endure as the guiding principles of our business.SITE: www.temple-inc.com Address : 305 Bank Street Decatur, AL 35601 Unated StatesALL DATA SIZE: ≈200gb 1. Home emplyees folder 2. Temple Corporate data 3. Projects, drawings 4. Accounting, Financial data 5. Customer contracts & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a7967315d0bbfc29164f115588b17731.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvtcgxllwluyy5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-28 00:00:00.000000",
+    "disclosedDate": "2024-10-21 22:50:23.484408"
+  }
+}

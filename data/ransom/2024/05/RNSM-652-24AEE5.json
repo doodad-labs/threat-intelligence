@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-24AEE5",
+  "type": "ransomware-incident",
+  "title": "Vannguard Utility Partners ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vannguard Utility Partners",
+    "domain": "vannguard.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "Vannguard provides locating and meter reading services to utiliti es in the Midwest. About 30Gb of data will be available soon. Lot s of employment documents with personal information, confidential agreements, customers and projects information and much other st uff.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmfubmd1yxjkifv0awxpdhkgugfydg5lcnnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-24 19:43:03.378033",
+    "disclosedDate": "2024-05-24 19:43:03.461105"
+  }
+}

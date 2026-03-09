@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-227AEA",
+  "type": "ransomware-incident",
+  "title": "SiNetCon ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SiNetCon",
+    "domain": "sinetcon.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fed207417ed0bc751dbba6190e09409c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2lozxrdb25acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-22 17:04:28.482584",
+    "disclosedDate": "2026-01-22 17:04:45.982346"
+  }
+}

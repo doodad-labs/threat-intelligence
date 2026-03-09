@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-223F3A",
+  "type": "ransomware-incident",
+  "title": "davidsbridal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "davidsbridal.com",
+    "domain": "davidsbridal.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "David's Bridal. Revenue $2.2 BillionWe possess highly valuable and critical data, encompassing a substantial volume of personal and corporate information.David's Bridal is a prominent American bridal-store chain known for its wide range of weddin...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f0bf82f37d592ff8d251095ea2f94936.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgf2awrzynjpzgfslmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-22 17:19:00.000000",
+    "disclosedDate": "2024-01-22 19:36:50.191445"
+  }
+}

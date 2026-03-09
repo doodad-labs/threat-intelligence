@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-640-237BD2",
+  "type": "ransomware-incident",
+  "title": "Fresca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fresca",
+    "domain": "frescagroup.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "nokoyawa",
+    "name": "nokoyawa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "Founded in 2004, Fresca is headquartered in Kent, United Kingdom. Fresca Group is a largest privately-owned supplier of fruit and vegetables in the UK.We have successfully downloaded ~100GB of private data. Enjoy...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/96a8cfb0fd0260c346b23a07405b1459.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnjlc2nhqg5va295yxdh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-04 16:39:48.645000",
+    "disclosedDate": "2023-05-23 16:04:19.036745"
+  }
+}

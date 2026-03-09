@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-668-1619C6",
+  "type": "ransomware-incident",
+  "title": "elssurveying.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "elssurveying.com",
+    "domain": "elssurveying.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "warlock",
+    "name": "warlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "all data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwxzc3vydmv5aw5nlmnvbub3yxjsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-16 05:27:55.268529",
+    "disclosedDate": "2025-09-16 05:27:57.120925"
+  }
+}

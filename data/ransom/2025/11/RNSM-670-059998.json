@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-670-059998",
+  "type": "ransomware-incident",
+  "title": "mcintoshlabs.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mcintoshlabs.com",
+    "domain": "mcintoshlabs.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "McIntosh Laboratory is an iconic American company, founded in 1949 and headquartered in Binghamton, New York. It specializes in high-end, …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0b60ff601afe65ce479f0764ff0aef0b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwnpbnrvc2hsywjzlmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-12-17-mcintosh-laboratory-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-05 13:23:51.497432",
+    "disclosedDate": "2025-11-05 13:24:04.855013"
+  }
+}

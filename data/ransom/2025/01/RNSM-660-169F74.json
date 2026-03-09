@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-169F74",
+  "type": "ransomware-incident",
+  "title": "Delta Dental of Washington ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Delta Dental of Washington",
+    "domain": "deltadentalwa.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Delta Dental of Washington is one of the leading dental insurance organizations in the United States. It provides a wide range of insurance plans for individuals, families, retirees, as well as for small and large businesses. The company strives to improve the oral health and overall health of its customers by offering affordable and convenient dental services.https://www.deltadentalwa.com/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/13aa52944bbe38becead54ae8b3ac72e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvsdgegrgvudgfsig9mifdhc2hpbmd0b25aogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-16 09:55:11.664670",
+    "disclosedDate": "2025-01-16 09:56:22.742254"
+  }
+}

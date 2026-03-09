@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-286915",
+  "type": "ransomware-incident",
+  "title": "healthcasts.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "healthcasts.com",
+    "domain": "healthcasts.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "healthcasts.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b83190daaae1825fe80ecd29ddeb1238.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agvhbhroy2fzdhmuy29tqgjhynvrmg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-28 17:52:04.583047",
+    "disclosedDate": "2025-03-28 17:53:10.827836"
+  }
+}

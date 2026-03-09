@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-658-25DF99",
+  "type": "ransomware-incident",
+  "title": "parkleigh.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "parkleigh.com",
+    "domain": "parkleigh.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Parkleigh is a unique boutique store located in Rochester, New York, offering an eclectic mix of gifts, home accessories, and personal care products. Known for its curated selection, the store features items from popular brands as well as local artisans. Parkleigh prides itself on providing a distinctive shopping experience with an emphasis on quality and customer service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/95db83a534eb40cca2d98eb61e5e94cc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgfya2xlawdolmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-02-06%20parkleigh%20enterprises%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-25 15:05:07.000000",
+    "disclosedDate": "2024-11-25 16:54:24.950774"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-637-035FBF",
+  "type": "ransomware-incident",
+  "title": "redfordpd.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "redfordpd.com",
+    "domain": "redfordpd.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 165000000000,
+    "description": "We hacked into a network where there were two companies:redfordpd.com and cityofallenpark.orgThey stole 165gb of data from these companies.Among them: finances, scans of documents, victims' data, photos of crime scenes, department reports, pass...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmvkzm9yzhbklmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-03 15:13:32.420711",
+    "disclosedDate": "2023-02-03 15:13:32.420711"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-09FE91",
+  "type": "ransomware-incident",
+  "title": "www.lasalleinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.lasalleinc.com",
+    "domain": "lasalleinc.com",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] LaSalle Inc. is a company that specializes in providing comprehensive real estate and investment management services. It focuses on delivering strategic solutions and insights to clients in the real estate sector. With a commitment to excellence and innovation, LaSalle Inc. aims to enhance value for its clients through expert management, market research, and tailored investment strategies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3df07f309485947334a602d0dd16cd8b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmxhc2fsbgvpbmmuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-04 03:56:27.000000",
+    "disclosedDate": "2024-12-09 17:07:18.919130"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-668-105DC4",
+  "type": "ransomware-incident",
+  "title": "transnova-ruf.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "transnova-ruf.de",
+    "domain": "transnova-ruf.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 600000000000,
+    "description": "Transnova-Ruf GmbH from Ansbach develops and builds machines with around 300 employees for the automation of end-of-line packaging and palletizing processes.\r From the individual compact machine for top and side loading, to picker systems for fast pick & place applications, as well as robot systems for order pickers.\r We have 600GB of files at our disposal: mail, financial documents, customer contracts, confidential information",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b3ee4c8409d0a03225f5a6c1cfdbb316.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhjhbnnub3zhlxj1zi5kzubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-10 01:00:00.000000",
+    "disclosedDate": "2025-09-10 22:48:35.423116"
+  }
+}

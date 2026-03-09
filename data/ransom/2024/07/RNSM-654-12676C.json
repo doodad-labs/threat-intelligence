@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-12676C",
+  "type": "ransomware-incident",
+  "title": "Wagner-Meinert ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wagner-Meinert",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomexx",
+    "name": "ransomexx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 685300000000,
+    "description": "Wagner-Meinert is a company that specializes in industrial refrigeration, food process systems, and mechanical contracting. They provide services such as design, installation, maintenance, and compliance support for industrial and commercial refrigeration systems. Their expertise often spans areas including ammonia refrigeration systems, food processing equipment, HVAC systems, and related industrial solutions. Leaked data size: 685.3GB.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/22c6e8eeba83ed74a6dd55694956f427.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fnbmvylu1law5lcnracmfuc29tzxh4",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-08 11:41:39.000000",
+    "disclosedDate": "2024-07-12 17:37:41.885636"
+  }
+}

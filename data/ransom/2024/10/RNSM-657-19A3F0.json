@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-19A3F0",
+  "type": "ransomware-incident",
+  "title": "sizeloveconstruction.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sizeloveconstruction.com",
+    "domain": "sizeloveconstruction.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sizelove Construction is a company specializing in construction and contracting services. They focus on delivering high-quality building solutions, working on a range of projects from residential to commercial developments. Known for their attention to detail and customer satisfaction, Sizelove Construction emphasizes timely project completion and adherence to budget, ensuring professional and reliable service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fd6331f2e107c1e8897f4776df1393a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2l6zwxvdmvjb25zdhj1y3rpb24uy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-12 00:00:00.000000",
+    "disclosedDate": "2024-10-19 21:17:35.645575"
+  }
+}

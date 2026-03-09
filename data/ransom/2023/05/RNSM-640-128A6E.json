@@ -1,0 +1,48 @@
+{
+  "id": "RNSM-640-128A6E",
+  "type": "ransomware-incident",
+  "title": "Peachtree Orthopedics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Peachtree Orthopedics",
+    "domain": "peachtreeorthopedics.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "karakurt",
+    "name": "karakurt",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 194000000000,
+    "description": "Since 1953, Peachtree Orthopedics has been serving the orthopedic needs of the greater Atlanta community. We have from the 194GB of data that includes many lines with SSNs, almost 1000 of credit cards, other detailed personal information, medical records and tons of corporate data. We'll share it soon.",
+    "claimed_data_types": [
+      "government-identifiers",
+      "financial-data",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8835ca0e90f686e77ada8f51e44fe646.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvhy2h0cmvlie9ydghvcgvkawnzqgthcmfrdxj0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.databreaches.net/peachtree-orthopedics-alerts-patients-of-cyberattack-third-patient-data-breach-in-seven-years/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-12 16:52:26.983596",
+    "disclosedDate": "2023-05-12 16:52:26.983619"
+  }
+}

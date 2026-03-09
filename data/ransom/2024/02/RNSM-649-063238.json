@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-063238",
+  "type": "ransomware-incident",
+  "title": "ArpuPlus ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ArpuPlus",
+    "domain": "arpu-plus.com",
+    "country": "EG",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ArpuPlus is a subsidiary of A15 (a digital product and technology brand company) founded in 2003, headquartered in Cairo, Egypt, providing a wide range of services in the field of mobile value-added services (VAS) and platform solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5e8f092dc69a593102f504005962f7ac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjwdvbsdxnabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-06 14:04:24.12345",
+    "disclosedDate": "2024-02-06 14:56:49.502911"
+  }
+}

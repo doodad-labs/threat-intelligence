@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-659-032E55",
+  "type": "ransomware-incident",
+  "title": "www.wsgcpa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.wsgcpa.com",
+    "domain": "wsgcpa.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] WSG CPA is an accounting firm that offers a range of financial services, including tax preparation, auditing, bookkeeping, and business consulting. They cater to both individuals and businesses, aiming to provide personalized and strategic financial solutions. Their team of experienced professionals focuses on helping clients achieve financial success through expert guidance and support.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/109c14ee027de421905581f9f48c3fbe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lndzz2nwys5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/245ee80a-4059-4ccb-901d-2c028a29e815.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-30 00:00:00.000000",
+    "disclosedDate": "2024-12-03 18:29:21.386399"
+  }
+}

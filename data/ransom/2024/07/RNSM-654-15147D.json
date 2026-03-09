@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-15147D",
+  "type": "ransomware-incident",
+  "title": "MS Ultrasonic Technology Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MS Ultrasonic Technology Group",
+    "domain": "ms-industre.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Germany - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8532df300d7a2e2a6141c215d602c75c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tvmgvwx0cmfzb25pyybuzwnobm9sb2d5iedyb3vwqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-15 13:31:18.000000",
+    "disclosedDate": "2024-07-15 14:10:36.001082"
+  }
+}

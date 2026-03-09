@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-639-270A0C",
+  "type": "ransomware-incident",
+  "title": "La Red Health Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "La Red Health Center",
+    "domain": "laredhealthcenter.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "karakurt",
+    "name": "karakurt",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 79000000000,
+    "description": "La Red Health Center provides an outreach programs help reach undeserved populations and enhance access to quality health care. We have 79GB from them: lots of financial documents, medical records with diagnosis, their employee and students personal information.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/02cbb13c1e02bc59849ca49117667da8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgegumvkiehlywx0acbdzw50zxjaa2fyywt1cnq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-27 13:49:28.247600",
+    "disclosedDate": "2023-04-27 13:49:28.247627"
+  }
+}

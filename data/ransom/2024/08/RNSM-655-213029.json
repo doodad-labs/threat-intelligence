@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-213029",
+  "type": "ransomware-incident",
+  "title": "capitalfund1.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "capitalfund1.com",
+    "domain": "capitalfund1.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CapitalFund1 is a private money lender specializing in providing quick and flexible financing solutions for real estate investors. They offer various loan products such as fix-and-flip, rental property, and new construction loans. Their streamlined approval process and asset-based lending approach make it easier for clients to secure funding without the bureaucratic hurdles typical of traditional banks.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d57999be5e8da2eb4ab169bbab3beaf0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fwaxrhbgz1bmqxlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-20 18:29:58.000000",
+    "disclosedDate": "2024-08-21 15:29:20.532983"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-123DDD",
+  "type": "ransomware-incident",
+  "title": "Notions Marketing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Notions Marketing",
+    "domain": "notionsmarketing.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/371fcde6b62e373e2260bcc671ebdc02.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm90aw9ucybnyxjrzxrpbmdaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-12 19:06:32.000000",
+    "disclosedDate": "2024-04-12 19:43:13.465231"
+  }
+}

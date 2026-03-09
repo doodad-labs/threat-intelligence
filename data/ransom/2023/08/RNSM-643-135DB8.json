@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-135DB8",
+  "type": "ransomware-incident",
+  "title": "majan.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "majan.com",
+    "domain": "majan.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Majan Printing and Packaging Company LLC",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/53f3a50d62869b95613b2693c93919fe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfqyw4uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-13 08:34:00.000000",
+    "disclosedDate": "2023-08-13 09:58:08.153410"
+  }
+}

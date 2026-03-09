@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-648-02548A",
+  "type": "ransomware-incident",
+  "title": "graebener-group.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "graebener-group.com",
+    "domain": "graebener-group.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1010000000000,
+    "description": "At Graebener® Bipolar Plate Technologies, we focus on the development, optimization and realization of the manufacturing technologies for the bipolar plate, the core of fuel cells and electrolyzers. As an elementary component of both the fuel cell and the electrolyzer stacks it helps, on the one hand, to generate clean electricity from hydrogen and air, and on the other hand, to convert electricity (e.g. from renewable energies) into hydrogen. This makes the fuel cell and the electrolyzer interesting not only for future mobility, logistics or the generation of electricity and heat for buildings, but also for numerous branches of industry, such as the steel, fertilizer and gas industries, which will depend on the production of large quantities of green hydrogen in the future. The bipolar plate is thus important for all applications of energy generation where environmental aspects, energy efficiency and sustainability are relevant.SITE: www.graebener-group.com* Address : * 1 Am Heller, Netphen, Nordrhein-Westfalen, 57250, GermanyALL DATA SIZE: 1.01tb 1. Allgemein 2. Controlling 3. Dokumentation 4. Vertieb 5. Home and privat users folders and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/93602ed4292aba8d931cf559c4d8fe98.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jhzwjlbmvylwdyb3vwlmnvbubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-05 00:00:00.000000",
+    "disclosedDate": "2024-01-02 13:18:55.361644"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-259BA3",
+  "type": "ransomware-incident",
+  "title": "Wide Open West - WOW! ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wide Open West - WOW!",
+    "domain": "wowway.com",
+    "country": "US",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "arkana",
+    "name": "arkana",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Wide Open West (WOW!) is the sixth largest cable operator in the United States. It provides telecommunications, broadband, and cable television services. Its portfolio includes high-speed internet, data, voice, cloud services, and cable television. Operating mainly in the Midwest and Southeast, WOW! is recognized for exceptional service and nationally ranked for customer satisfaction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lkzsbpcgvuifdlc3qglsbxt1chqgfya2fuyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-24 00:00:00.000000",
+    "disclosedDate": "2025-03-25 13:33:32.023596"
+  }
+}

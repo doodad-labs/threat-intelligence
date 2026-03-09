@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-668-087239",
+  "type": "ransomware-incident",
+  "title": "runaces.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "runaces.com",
+    "domain": "runaces.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Finished the game. Running Aces -you're playing a losing hand.The Running Aces Casino and Racetrack opened in Columbus, Minnesota, in April 2008. Things did not go well from the start. In its first year of operation, the racetrack lost $4 mil            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d45d964ab76b85b7d526ae53e495ea95.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cnvuywnlcy5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/aa5333da-bd27-4aaa-ab7b-57570d219755.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-07 00:00:00.000000",
+    "disclosedDate": "2025-09-08 14:46:08.400703"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-1880A2",
+  "type": "ransomware-incident",
+  "title": "CashCall, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CashCall, Inc.",
+    "domain": "cashcall.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CashCall - Personal Loans Founded in 2003 and headquartered in Orange, California, CashCall Inc. is among the nation's premier lenders. The company employs leading experts with an unparalleled drive and dedication to exceptional customer service. CashCall is driven to remain at the forefront of innovative technology that streamlines loan operations. This combined with their dynamic team of experts makes the loan process for customers simple, fast, and hassle-free. Cashcall personal loans division offers unsecured loans to qualified borrowers who typically use the loans for one-time purchases and debt consolidation. These loans are processed entirely over the internet, phone, and fax. Funds are wired into the borrower's checking account in as little as 4 hours.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/17f0af137b4175bbcf0c5dd5dbf58509.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fzaenhbgwsieluyy5aogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-18 00:00:00.000000",
+    "disclosedDate": "2023-07-18 05:55:00.715837"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-049405",
+  "type": "ransomware-incident",
+  "title": "medicacorp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "medicacorp.com",
+    "domain": "medicacorp.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "Medica Corporation is a manufacturer specializing in diagnostic blood testing analyzers. The company focuses on creating simple-to-use and highly reliable devices for in vitro diagnostic laboratories, particularly those that are small to medium-sized. Their product range includes clinical chemistry analyzers, blood gas analyzers, and electrolyte analyzers.SITE: www.medicacorp.com Address : 5 Oak Park Drive Bedford, MA 01730 United StatesTEL#: 1 800 777 5983ALL DATA SIZE: ≈1.5tb 1. Departments data: Corporate, Financial, Accounting, Graphics… etc 2. Users data, Personal employees documents 3. Confidential data, NDA’s 4. R&D, Engeneering, Projects & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6c7bbb9ee66dcfedb42b62626047908a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwvkawnhy29ycc5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-13 00:00:00.000000",
+    "disclosedDate": "2024-12-04 12:53:44.248682"
+  }
+}

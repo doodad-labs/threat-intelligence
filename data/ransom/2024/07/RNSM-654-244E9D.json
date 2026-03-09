@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-654-244E9D",
+  "type": "ransomware-incident",
+  "title": "Electroalfa ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Electroalfa",
+    "domain": "electroalfa.ro",
+    "country": "RO",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "Electroalfa is a successful Romanian company, built by visionary  people who managed to innovate complex industrial products to hel p move society forward. 10GB of data will be released. Projects i nformation, clients, detailed personal employee information can b e found in the archives we are going to upload.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwxly3ryb2fszmfaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-24 14:36:48.761462",
+    "disclosedDate": "2024-07-24 14:36:49.724334"
+  }
+}

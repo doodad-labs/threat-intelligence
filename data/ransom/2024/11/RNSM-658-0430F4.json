@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-0430F4",
+  "type": "ransomware-incident",
+  "title": "Ministry of Education - Jordan ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ministry of Education - Jordan",
+    "domain": "moe.gov.jo",
+    "country": "JO",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "hellcat",
+    "name": "hellcat",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have successfully accessed and compromised a range of sensitive documents from Jordan's Ministry of Education. This includes images of identification cards, divorce papers, and various letters addressed to the Minister.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twluaxn0cnkgb2ygrwr1y2f0aw9uic0gsm9yzgfuqghlbgxjyxq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-04 15:24:20.806212",
+    "disclosedDate": "2024-11-04 15:24:21.636378"
+  }
+}

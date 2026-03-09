@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-668-05D3B9",
+  "type": "ransomware-incident",
+  "title": "Indo-MIM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Indo-MIM",
+    "country": "IN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 13000000000,
+    "description": "Indo-MIM s a manufacturer and supplier of precision-engineered products using Metal Injection Molding.We are going to upload 13 GB of corporate documents. A huge number of employee personal files (Full Name in Native Language, OtherNames Used, Telecode Name Used, Sex, Marital Status, Date of Birth, Place of Birth, Country/Region of Origin (Nationality), country/region of origin (nationality) above, National Identification Number, U.S. Social Security Number, U.S. Taxpayer ID Number, Home Address, City, State/Province, Postal Zone/ZIP Code), financialdata, project information, drawings and specifications, customerinformation and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5kby1nsu1aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-04 00:00:00.000000",
+    "disclosedDate": "2025-09-05 12:37:50.792857"
+  }
+}

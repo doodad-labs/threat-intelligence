@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-303F71",
+  "type": "ransomware-incident",
+  "title": "evergreen-hotel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "evergreen-hotel",
+    "domain": "evergreenhotelgroup.com",
+    "country": "CA",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Evergreen Hospitality Group is one of British Columbia's largest family-owned hospitality and tourism companies, dedicated to showcasing the region's beauty to its guests. The group operates a variety of accommodations across 26 destinations,            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0d4f5ffbb4c56230a0803eb7029f8e62.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxzlcmdyzwvulwhvdgvsqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-29 00:00:00.000000",
+    "disclosedDate": "2025-05-30 11:15:19.014547"
+  }
+}

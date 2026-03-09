@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-278309",
+  "type": "ransomware-incident",
+  "title": "MEDCODATA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MEDCODATA.COM",
+    "domain": "medcodata.com",
+    "country": "SE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] MedcoData.com is a company that serves the healthcare industry through technological innovation and services. Their offerings include digital marketing, healthcare IT consulting, professional website design, HIPAA compliant email, and cloud hosting, among other things. The company's aim is to assist healthcare providers with tools that can aid them in offering top-notch services while also improving their efficiency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tuveq09eqvrblknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:42:13.578165",
+    "disclosedDate": "2025-02-27 16:42:19.132314"
+  }
+}

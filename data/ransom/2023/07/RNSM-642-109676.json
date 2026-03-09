@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-109676",
+  "type": "ransomware-incident",
+  "title": "leeindustries.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "leeindustries.com",
+    "domain": "leeindustries.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since its inception, the mission of LEE Industries has been to create innovatively styled, high-quality home furnishings while adhering to a set of values that focus on their customers, the community and the environment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c3d9bd2274f389804400c810891702bb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgvlaw5kdxn0cmllcy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-09 14:22:00.000000",
+    "disclosedDate": "2023-07-10 01:56:12.527552"
+  }
+}

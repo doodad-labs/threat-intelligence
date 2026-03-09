@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-672-31772F",
+  "type": "ransomware-incident",
+  "title": "Wieson Technologies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wieson Technologies",
+    "domain": "wieson.com",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.wieson.com https://www.zoominfo.com/c/wieson-technologies-co-ltd/128565406 Wieson Technologies specializes in the design and manufacturing of connectors and cable assemblies, with a focus on super high-speed technology and wireless communications. Their product range includes interconnect components, wireless components, medical electronics, and automotive electronics. The company serves various industries such as cloud computing, data communication, and medical electronics. Established in 1990, Wieson Technologies aims to provide innovative solutions to clients in need of advanced electronic connectivity",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2llc29uifrly2hub2xvz2llc0b0agvnzw50bgvtzw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isnew=y&seq_no=1&spoke_time=173653&spoke_date=20260202&co_id=6272",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-31 02:01:07.000000",
+    "disclosedDate": "2026-01-31 02:05:00.055657"
+  }
+}

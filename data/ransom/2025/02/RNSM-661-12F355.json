@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-12F355",
+  "type": "ransomware-incident",
+  "title": "ekvallbyrne.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ekvallbyrne.com",
+    "domain": "ekvallbyrne.com",
+    "country": "SE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Ekvall & Byrne is a US-based law firm focused on the practice of civil litigation. They handle cases involving automobile and trucking accidents, construction law, products liability, non-subscriber claims, and more. With strategic planning and innovative approaches, they represent a variety of clients from individuals to corporations. Their attorneys dedicate their expertise to deliver efficient and effective legal services and are especially known for their ability to handle complex litigation matters.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1be048093ee028bb9ced21d58b98e136.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwt2ywxsynlybmuuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-12 12:09:32.000000",
+    "disclosedDate": "2025-02-12 14:45:05.108637"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-30EADD",
+  "type": "ransomware-incident",
+  "title": "www.fenceauthority.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.fenceauthority.com",
+    "domain": "fenceauthority.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Fence Authority is a company specializing in providing a wide range of fencing solutions, including wood, vinyl, aluminum, and chain-link fences. They offer both residential and commercial services, including installation, DIY fencing products, and custom design options. Known for quality craftsmanship and customer service, the company aims to enhance property security and aesthetics.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6855cbab512c7dc2ed21134fad7e8b7c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmzlbmnlyxv0ag9yaxr5lmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-31 00:00:00.000000",
+    "disclosedDate": "2024-08-30 16:56:52.937149"
+  }
+}

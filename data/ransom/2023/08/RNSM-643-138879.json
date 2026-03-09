@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-138879",
+  "type": "ransomware-incident",
+  "title": "meaf.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "meaf.com",
+    "domain": "meaf.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MEAF Machines B.V. is your one-stop-shop manufacturer for sheet extrusion equipment for a wide variety of raw materials",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/79144b1d196902e9f08f0f2f55e1389b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwvhzi5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-13 08:16:00.000000",
+    "disclosedDate": "2023-08-13 08:56:51.230348"
+  }
+}

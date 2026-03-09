@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-651-09E348",
+  "type": "ransomware-incident",
+  "title": "speditionlangen.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "speditionlangen.de",
+    "domain": "speditionlangen.de",
+    "country": "DE",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "mallox",
+    "name": "mallox",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Description not available",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3blzgl0aw9ubgfuz2vulmrlqg1hbgxvea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-09 04:27:00.191811",
+    "disclosedDate": "2024-04-09 04:42:22.683095"
+  }
+}

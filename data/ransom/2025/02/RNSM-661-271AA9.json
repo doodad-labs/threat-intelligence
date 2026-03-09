@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-271AA9",
+  "type": "ransomware-incident",
+  "title": "HOMEDEPOT.COM.MX ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HOMEDEPOT.COM.MX",
+    "domain": "homedepot.com.mx",
+    "country": "MX",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] HOMEDEPOT.COM.MX is the Mexican online branch of The Home Depot, a large American retailer specializing in home improvement and construction products and services. The roles of the website include e-commerce, information about in-store products, DIY project ideas, and location finders. By offering a wide array of hardware items, building materials, appliances, and lawn and garden products, Home Depot caters to both professional contractors and do-it-yourself homeowners.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/se9nrurfue9ulknpts5nwebjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:24:29.698476",
+    "disclosedDate": "2025-02-27 16:24:35.132843"
+  }
+}

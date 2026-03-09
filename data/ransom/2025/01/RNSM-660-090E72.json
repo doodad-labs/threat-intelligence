@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-090E72",
+  "type": "ransomware-incident",
+  "title": "depewgillen.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "depewgillen.com",
+    "domain": "depewgillen.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Depew Gillen Rathbun &amp; McIntee",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6f867dd69b76e922eeb0b2d0b226dd78.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvwzxdnawxszw4uy29tqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-09 21:25:20.792552",
+    "disclosedDate": "2025-01-09 21:26:28.886248"
+  }
+}

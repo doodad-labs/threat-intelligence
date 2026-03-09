@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-16AEC9",
+  "type": "ransomware-incident",
+  "title": "chreynolds.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "chreynolds.com",
+    "domain": "chreynolds.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 27.05.2025.Founded in 1983 as an electrical contracting firm, CH Reynolds (CHR) now provides a comprehensive portfolio of electrical, data construction, managed IT services. We share             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d4988f3be942e138968606c336523b4b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2hyzxlub2xkcy5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-16 00:00:00.000000",
+    "disclosedDate": "2025-05-16 22:16:51.342985"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-02A3BE",
+  "type": "ransomware-incident",
+  "title": "Removal.AI ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Removal.AI",
+    "domain": "removal.ai",
+    "country": "PH",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Removal.AI is a technology company specializing in automated image editing solutions. They use advanced AI algorithms to provide services such as background removal, image enhancement, and object manipulation. Aimed at streamlining workflows for e-commerce, photography, and graphic design professionals, Removal.AI delivers high-quality, efficient, and cost-effective image processing tools.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/003f45f1a462e3d8425a8edc7d8524d1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvtb3zhbc5bsubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-02 16:12:14.000000",
+    "disclosedDate": "2024-09-02 20:10:04.806282"
+  }
+}

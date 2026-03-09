@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-29EE98",
+  "type": "ransomware-incident",
+  "title": "ibague.losolivos.co ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ibague.losolivos.co",
+    "domain": "losolivos.co",
+    "country": "CO"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Los Olivos\" is a well-known funeral services company in Ibague, Colombia. They provide comprehensive services including funeral plans, crematorium, cemetery, wake rooms, and transportation. They also offer posthumous tributes, and psychological support to the bereaved families, showcasing their commitment to providing sensitive care during traumatic times.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/400ac9d579bc1f99b88114d2ecd338af.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awjhz3vllmxvc29saxzvcy5jb0bzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-29 22:20:19.344044",
+    "disclosedDate": "2025-05-29 22:21:32.007899"
+  }
+}

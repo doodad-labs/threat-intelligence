@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-3000A5",
+  "type": "ransomware-incident",
+  "title": "Navitas Semiconductor ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Navitas Semiconductor",
+    "domain": "navitassemi.com",
+    "country": "IE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Ireland - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b95e3b2bc56d35bf45912a1a4890e972.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf2axrhcybtzw1py29uzhvjdg9yqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-30 10:59:02.000000",
+    "disclosedDate": "2024-08-30 11:32:38.099462"
+  }
+}

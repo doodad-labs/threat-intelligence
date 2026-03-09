@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-663-121E09",
+  "type": "ransomware-incident",
+  "title": "City Plumbing & ElectricSupply Co. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "City Plumbing & ElectricSupply Co.",
+    "domain": "cpesupply.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 77000000000,
+    "description": "North Georgia's largest wholesale distributor or plumbing & electrical products.You will find more than 77 GB of essential corporate documents such as: contact numbers and e-mail addresses of employees and customers, financial data (audits, payment details, reports), confidential licenses, agreements and contracts, etc.We have made the process of downloading company data assimple as possible for our users. All you need is any torrent client (like Vuze, Utorrent, qBittorrent or Transmission to use magnet links). You will find the torrent file above.1. Open uTorrent, or any another torrent client.2. Add torrent file or paste the magnet URL to upload the data safely.3. Archives have no password.MAGNET URL: magnet:?xt=urn:btih:[redacted]FAAC169E8E4C109A5&dn=cpesupply.com&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0esbqbhvtymluzyamievszwn0cmlju3vwcgx5ienvlkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-06 00:00:00.000000",
+    "disclosedDate": "2025-04-12 12:47:09.432474"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-2118B3",
+  "type": "ransomware-incident",
+  "title": "Suneva Medical(sunevamedical.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Suneva Medical(sunevamedical.com)",
+    "domain": "sunevamedical.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Suneva Medical, based in San Diego, specializes in regenerative aesthetic products that promote the skin's natural rejuvenation. Recently, the company announced a merger with Viveon Health Acquisition Corp., which is expected to boost its growth as interest in non-invasive, natural treatments continues to rise.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vuzxzhie1lzgljywwoc3vuzxzhbwvkawnhbc5jb20pqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-14 16:34:26.080000",
+    "disclosedDate": "2024-11-21 17:48:35.636259"
+  }
+}

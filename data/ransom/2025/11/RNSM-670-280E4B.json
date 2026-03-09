@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-280E4B",
+  "type": "ransomware-incident",
+  "title": "Kleber and Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kleber and Associates",
+    "domain": "kleberandassociates.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/85202efe28df8f5f24797e9cb08223c8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2xlymvyigfuzcbbc3nvy2lhdgvzqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-04 12:41:31.000000",
+    "disclosedDate": "2025-11-28 19:16:01.330789"
+  }
+}

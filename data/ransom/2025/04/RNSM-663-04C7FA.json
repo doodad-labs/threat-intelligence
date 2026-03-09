@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-04C7FA",
+  "type": "ransomware-incident",
+  "title": "DELOPT ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DELOPT",
+    "domain": "delopt.co.in",
+    "country": "IN"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 70000000000,
+    "description": "DELOPT is a world-class Company in the area of Defence Electronics & Electro-Optics and solutions for Retail market with In-Store Technology.We are ready to upload more than 70 GB of essential corporate documents such as: corporate NDA’s, contact numbers and e-mail addresses of employees and customers, corporate licenses, agreements and contracts, financial data (audits, payment details, reports), passports and other employee and customer documents, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/revmt1buqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-04 00:00:00.000000",
+    "disclosedDate": "2025-04-04 16:46:59.379115"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-271C26",
+  "type": "ransomware-incident",
+  "title": "Island Coastal Services Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Island Coastal Services Ltd",
+    "domain": "islandcoastal.ca",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Island Coastal Services Ltd. is an earthmoving construction company. Island Coastal Services corporate office is located in 155 Belvedere Ave, Charlottetown, Prince Edward Island, C1A 2Y9, Canada and has 86 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2e35f5668698ac4492a67fecf74bbbd7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sxnsyw5kienvyxn0ywwgu2vydmljzxmgthrkqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 16:47:58.000000",
+    "disclosedDate": "2024-10-27 16:40:12.261983"
+  }
+}

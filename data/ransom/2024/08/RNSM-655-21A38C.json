@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-655-21A38C",
+  "type": "ransomware-incident",
+  "title": "www.banhampoultry.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.banhampoultry.co.uk",
+    "domain": "banhampoultry.co.uk",
+    "country": "GB",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Banham Poultry is a prominent poultry farming and processing company based in the UK. It specializes in the production of high-quality chicken products, providing fresh and frozen poultry to retailers, wholesalers, and the food service industry. The company is committed to maintaining high standards of animal welfare, food safety, and sustainability throughout its operations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6e0585fc7c11a9734e1a45ed93c8448d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmjhbmhhbxbvdwx0cnkuy28udwtacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/crkmrdx6z06o",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-21 12:03:03.000000",
+    "disclosedDate": "2024-08-21 14:01:16.772779"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27E9B1",
+  "type": "ransomware-incident",
+  "title": "OBJECTIF-EMBALLAGES.FR ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OBJECTIF-EMBALLAGES.FR",
+    "domain": "objectif-emballages.fr",
+    "country": "FR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] OBJECTIF-EMBALLAGES.FR is a French company that specializes in the production and distribution of packaging materials. Their offerings include a wide array of products such as cardboard boxes, packing tapes, bubble wraps, and more. They cater to different sectors like e-commerce, transportation, storage, and logistics, providing them with high-quality, custom, and environmentally-friendly packaging solutions. Considered an expert in the packaging field, their priority lies in customer satisfaction and environmental sustainability.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t0jkrunusuytru1cquxmqudfuy5gukbjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:59:48.470925",
+    "disclosedDate": "2025-02-27 16:59:54.324747"
+  }
+}

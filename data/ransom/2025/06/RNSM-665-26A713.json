@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-26A713",
+  "type": "ransomware-incident",
+  "title": "Imblum Law Offices ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Imblum Law Offices",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Imblum Law Offices PC specializes in bankruptcy law, offering services such as Chapter 7, Chapter 11, and Chapter 13 bankruptcy filing, as well as foreclosure defense and debt relief. We are ready to upload more than 20 GB of documents such as: client personal documents (passports, SSNs, death/birth certificates,financial information), court hearings, protocols, employee information, other confidential documents.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw1ibhvtiexhdybpzmzpy2vzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-26 00:00:00.000000",
+    "disclosedDate": "2025-06-26 15:12:20.547300"
+  }
+}

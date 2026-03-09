@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-1189DF",
+  "type": "ransomware-incident",
+  "title": "co.grant.mn.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "co.grant.mn.us",
+    "domain": "grant.mn.us",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The City of Grant is located on the eastern fringe of the Twin Cities' urban core area within west central Washington County.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b8229d44db4f6d57a148aa507d3097e8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y28uz3jhbnqubw4udxnabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-11 09:08:00.000000",
+    "disclosedDate": "2023-09-11 10:00:12.900395"
+  }
+}

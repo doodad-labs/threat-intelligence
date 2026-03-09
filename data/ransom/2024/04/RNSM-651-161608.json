@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-651-161608",
+  "type": "ransomware-incident",
+  "title": "Wright Brothers Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wright Brothers Construction",
+    "domain": "wbcci.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 12000000000,
+    "description": "Wright Brothers Construction services include grading, site development, highway and bridge construction, landfill construction, asphalt production and paving, aggregate processing, commercial concrete services, and industrial maintenance services. As this company doesn't care about the data we've taken from them, we will share it with those who do. 12GB of data will be uploaded here. A lot of financial data, accounting, insurance, employees files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v3jpz2h0iejyb3rozxjzienvbnn0cnvjdglvbkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-16 17:48:08.624504",
+    "disclosedDate": "2024-04-16 17:48:08.867640"
+  }
+}

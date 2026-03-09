@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-662-0402F8",
+  "type": "ransomware-incident",
+  "title": "Makesworth Accountants ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Makesworth Accountants",
+    "domain": "makesworth.co.uk",
+    "country": "GB",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "ransomexx",
+    "name": "ransomexx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 176400000000,
+    "description": "Makesworth Accountants is multi-award-winning accountancy practice of a chartered accountant, tax and business advisers. Leak size: 176.4GB.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/479a9418a93a307bcce6d73f8edbad02.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfrzxn3b3j0acbby2nvdw50yw50c0byyw5zb21lehg=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-09 00:00:00.000000",
+    "disclosedDate": "2025-03-04 20:26:18.677947"
+  }
+}

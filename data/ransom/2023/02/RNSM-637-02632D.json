@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-02632D",
+  "type": "ransomware-incident",
+  "title": "byte.gr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "byte.gr",
+    "domain": "byte.gr",
+    "country": "GR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ΒΥΤΕ  COMPUTER S.A is a leading Greek Information Technology and Communications (ICT) Integrator with a dynamic presence of over 30 years in the Greek ICT Market and focus on the private sector.At the same time BYTE is among the five leading ICT vend...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynl0zs5nckbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-02 23:28:50.924108",
+    "disclosedDate": "2023-02-02 23:28:50.924108"
+  }
+}

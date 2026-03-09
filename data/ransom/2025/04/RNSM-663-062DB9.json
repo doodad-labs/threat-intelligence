@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-663-062DB9",
+  "type": "ransomware-incident",
+  "title": "Phil Smith Automotive Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Phil Smith Automotive Group",
+    "domain": "philsmithauto.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Phil Smith Automotive Group, headquartered in Lighthouse Point, Florida, is a dealership that sells and services Acura, Kia, Dodge, Jeep, Subaru, Chevrolet, Chrysler, Toyota, Mercedes-Benz, Ford, Lincoln, Hyundai, Nissan, and Ram vehicles.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4fbb09c95b13764ec9a1cdc4521c2c02.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ughpbcbtbwl0acbbdxrvbw90axzliedyb3vwqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1a05044e-dd7f-4bd0-ac1e-110418195305.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-29 11:27:30.102502",
+    "disclosedDate": "2025-04-06 22:25:36.731094"
+  }
+}

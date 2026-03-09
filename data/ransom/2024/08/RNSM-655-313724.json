@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-655-313724",
+  "type": "ransomware-incident",
+  "title": "Bogdan & Frasco, LLP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bogdan & Frasco, LLP",
+    "domain": "bfcpas.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome and thank you for visiting Bogdan & Frasco, LLP.  We offer a wide range of tax and accounting services focusing on small and medium-sized business clients and individual clients.  We pride ourselves on our reputation for high level of service, keen expertise and being responsive to our clients' inquiries and suggestions.  Please feel free to contact us with any questions or comments you may have. Our office is conveniently located in the heart of San Francisco's financial district, directly above the Montgomery Street BART station.  Bogdan & Frasco, LLP",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/64535821893c51964716d3fb056abf7a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qm9nzgfuicygrnjhc2nvlcbmtfbay2ljywrhmzmwmq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-31 00:00:00.000000",
+    "disclosedDate": "2024-08-31 13:09:18.402009"
+  }
+}

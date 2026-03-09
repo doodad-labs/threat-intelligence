@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-193D1E",
+  "type": "ransomware-incident",
+  "title": "aon.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aon.com",
+    "domain": "aon.com",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "aon.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/09f683671e4da7b49994f4ce95e596a1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw9ulmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-07-03 22:36:00.000000",
+    "disclosedDate": "2024-04-19 11:29:07.582707"
+  }
+}

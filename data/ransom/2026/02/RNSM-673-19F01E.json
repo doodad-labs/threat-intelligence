@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-19F01E",
+  "type": "ransomware-incident",
+  "title": "Oklahoma Auto Exchange ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Oklahoma Auto Exchange",
+    "domain": "okaex.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/605702734a00c58cc951ce68463416e1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2tsywhvbwegqxv0bybfegnoyw5nzubwbgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-19 19:12:32.212739",
+    "disclosedDate": "2026-02-19 19:13:09.412097"
+  }
+}

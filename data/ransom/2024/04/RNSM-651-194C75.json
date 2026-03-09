@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-194C75",
+  "type": "ransomware-incident",
+  "title": "greenside-sch.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "greenside-sch.org",
+    "domain": "greenside-sch.org",
+    "country": "",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Education School",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e45a490d5e964430789b09040705fedd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jlzw5zawrllxnjac5vcmdazglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-29 19:04:00.000000",
+    "disclosedDate": "2024-04-19 09:50:48.285808"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-06245A",
+  "type": "ransomware-incident",
+  "title": "EFU Life Assurance Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EFU Life Assurance Ltd",
+    "domain": "efuinsurance.com",
+    "country": "PK",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "EFU Group, originally Eastern Federal Union Insurance Company Limited, is a Pakistan based insurance company. It was the first insurance company in India founded in (1932) owned by the Muslims based...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/798854975a127f3c256a54661dce6a3e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ruzviexpzmugqxnzdxjhbmnliex0zebpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-06 18:58:50.038824",
+    "disclosedDate": "2023-11-06 18:58:50.163710"
+  }
+}

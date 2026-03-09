@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-08CADC",
+  "type": "ransomware-incident",
+  "title": "The Structures Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Structures Group",
+    "country": "",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Structures Group, Inc is a consulting engineering firm specializing in structural engineering, special inspections, and forensic analysis. They offer services including independent review plans and due diligence/risk analysis, catering to a diverse clientele that includes commercial, residential, and institutional projects. Their expertise spans various sectors such as healthcare, education, and justice facilities. The company is committed to delivering high-quality engineering solutions to enhance structural integrity and safety.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/53819dbc1c6c236182192e840b8faaa2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifn0cnvjdhvyzxmgr3jvdxbac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 06:04:26.214000",
+    "disclosedDate": "2026-01-08 01:07:12.732121"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-150C13",
+  "type": "ransomware-incident",
+  "title": "dowley.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dowley.com",
+    "domain": "dowley.com",
+    "country": "GB",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Security Experts! Experience, Expertise & Knowledge The Dowley relationship cycle is a well defined process for engaging clients and tailoring our services to meet their business demands OUR PROCESS Managed Detection And Response! Experience, Experti...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c5da122955c100edf1231b5f633d5655.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zg93bgv5lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-19 00:00:00.000000",
+    "disclosedDate": "2024-09-15 17:13:47.247356"
+  }
+}

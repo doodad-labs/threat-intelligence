@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-13C7FA",
+  "type": "ransomware-incident",
+  "title": "Mozo Grau (mozo-grau.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mozo Grau (mozo-grau.com)",
+    "domain": "mozo-grau.com",
+    "country": "ES",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "72.2",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e49d8c640850a06266f07dcca9704310.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw96bybhcmf1ichtb3pvlwdyyxuuy29tkubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-13 00:00:00.000000",
+    "disclosedDate": "2025-02-13 17:05:53.254233"
+  }
+}

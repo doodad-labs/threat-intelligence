@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-1030E9",
+  "type": "ransomware-incident",
+  "title": "Harvest ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Harvest",
+    "domain": "harvest.fr",
+    "country": "FR",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "runsomewares",
+    "name": "RunSomeWares",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Harvest is a French TechForFin of more than 35 years in full development. Harvest is the leading FinTech in France for software dedicated to the wealth management and finance",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ce00f20f3949203cc4a8212f3894033.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgfydmvzdebsdw5tb21lv2fyzxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-10 13:05:53.286495",
+    "disclosedDate": "2025-04-10 13:07:03.996666"
+  }
+}

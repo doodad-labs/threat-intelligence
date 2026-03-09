@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-665-1445CA",
+  "type": "ransomware-incident",
+  "title": "liberty-township.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "liberty-township.com",
+    "domain": "liberty-township.com",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c134b60bc7dc4d4ceb51bd10120673e2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bglizxj0es10b3duc2hpcc5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://databreaches.net/2025/06/24/liberty-township-in-ohio-has-recovered-its-network-after-a-ransomware-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-02 00:00:00.000000",
+    "disclosedDate": "2025-06-14 14:42:12.953510"
+  }
+}

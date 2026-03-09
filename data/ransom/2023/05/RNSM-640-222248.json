@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-222248",
+  "type": "ransomware-incident",
+  "title": "siren-japan.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "siren-japan.com",
+    "domain": "siren-japan.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are a design agency that specializes in creating \"images that appeal to the emotions\" by enclosing a dramatic world view in a single graphic space.We are developing a wide range of entertainment genres including movies, plays, dramas, music, a...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/83436716464461efb6fbcfd3c048d7cf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2lyzw4tamfwyw4uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-22 04:23:00.000000",
+    "disclosedDate": "2023-05-22 04:53:50.590447"
+  }
+}

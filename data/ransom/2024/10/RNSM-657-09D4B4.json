@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-657-09D4B4",
+  "type": "ransomware-incident",
+  "title": "Smart Media Group Bulgaria ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Smart Media Group Bulgaria",
+    "country": "BG"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "Smart Media Group provides all types of advertising services. Operating in Bulgaria. We combine selling advertising spaces (digital, outdoor, radio, TV etc.) with creating ads, building websites and online stores, business consulting and strategies from A to Z.Geo: Bulgaria - Leak size: 40 GB Archive - Contains: Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u21hcnqgtwvkawegr3jvdxagqnvsz2fyawfac2fyy29tyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-09 19:58:52.166763",
+    "disclosedDate": "2024-10-09 19:58:52.526399"
+  }
+}

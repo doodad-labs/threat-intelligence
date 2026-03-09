@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-205717",
+  "type": "ransomware-incident",
+  "title": "Yakult Australia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Yakult Australia",
+    "domain": "yakult.com.au",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Yakult produces the highest quality probiotics. *Company database, contracts, passports and much more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wwfrdwx0ief1c3ryywxpyubkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/yakult-australia-confirms-cyber-incident-after-95-gb-data-leak/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-20 00:00:00.000000",
+    "disclosedDate": "2023-12-20 23:43:48.694225"
+  }
+}

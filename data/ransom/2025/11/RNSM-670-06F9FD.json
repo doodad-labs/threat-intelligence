@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-06F9FD",
+  "type": "ransomware-incident",
+  "title": "Ville de MontLaurier ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ville de MontLaurier",
+    "domain": "villemontlaurier.qc.ca",
+    "country": "CA",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7b46cdd876887890e46c2883371eba57.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmlsbgugzgugtw9udexhdxjpzxjacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-06 14:53:52.431081",
+    "disclosedDate": "2025-11-06 14:54:09.785458"
+  }
+}

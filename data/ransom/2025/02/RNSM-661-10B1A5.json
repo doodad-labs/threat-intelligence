@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-10B1A5",
+  "type": "ransomware-incident",
+  "title": "BENBECKER.EU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BENBECKER.EU",
+    "domain": "benbecker.eu",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] BENBECKER.EU is a company that offers unique hardcover photobook designs made of premium materials. Their products primarily include photobooks and calendars that users can personalize with their images and texts. They accept a wide array of payment options, including cash on delivery, and cater to clients both in Germany and other European countries. The firm is praised for its high-quality print products and excellent customer service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7bd8b241bf24aac5026cc281b03fc1b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkvoqkvds0vslkvvqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 15:02:32.398254",
+    "disclosedDate": "2025-02-10 15:03:43.470361"
+  }
+}

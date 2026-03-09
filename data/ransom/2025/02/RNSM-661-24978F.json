@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-24978F",
+  "type": "ransomware-incident",
+  "title": "denbyco.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "denbyco.co.uk",
+    "domain": "denbyco.co.uk",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Denby & Co is a UK-based long-established independent accountancy firm committed to providing professional financial services. Their range of services includes general accountancy, taxation, business advisory and support services to businesses and individuals alike. With a strong reputation, the company is recognized for high standards of service, proactive approach and ability to build strong relationships with client.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c0cb93bb4529f88f14691cb59ec78ce7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvuynljby5jby51a0byyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-24 14:42:10.000000",
+    "disclosedDate": "2025-02-24 15:35:54.565376"
+  }
+}

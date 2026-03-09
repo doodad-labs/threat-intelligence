@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-657-244D4D",
+  "type": "ransomware-incident",
+  "title": "tuggleduggins.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tuggleduggins.com",
+    "domain": "tuggleduggins.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "In choosing a law firm for your business and personal needs, a good starting point is reputation. Tuggle Duggins has over a 42 year heritage of serving businesses and owners in virtually all aspects of business law, taxation, dispute resolution and litigation, bankruptcy, real estate, commercial transactions, and wealth management.SITE: www.tuggleduggins.com Address : 400 Bellemeade Street, Suite 800 Greensboro, NC 27401 Unated StatesTEL#: 336.378.1431ALL DATA SIZE: ≈300gb 1. Corporate data, Financial data… 2. NDA, Confidential data, Confidential Agreements, etc… 3. Human Resources, Payroll, Tax 4. Personal employees documents and info 5. Clients, customers data & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d63e52ec8be1c668fe1bb4ce82342a63.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhvnz2xlzhvnz2lucy5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0bc65e65-1c76-40b2-a692-b13bcc459a47.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-01 00:00:00.000000",
+    "disclosedDate": "2024-10-24 17:07:38.291432"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-26DF00",
+  "type": "ransomware-incident",
+  "title": "lrcpa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lrcpa.com",
+    "domain": "lrcpa.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f38f9856b3cd77cca1eeb94d17ef10b8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bhjjcgeuy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-23 00:00:00.000000",
+    "disclosedDate": "2025-05-26 20:47:10.070286"
+  }
+}

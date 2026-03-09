@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-659-2698A5",
+  "type": "ransomware-incident",
+  "title": "Car Care Plan - Turkey ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Car Care Plan - Turkey",
+    "domain": "carcareplan.com.tr",
+    "country": "TR",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "hellcat",
+    "name": "hellcat",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have successfully stolen over50 GBof data from Car Care Plan, including financial records with sensitive information, legal documents and statements, customer records, along with internal documents and records. All the data has been encrypted, and without our decryption key, it is almost impossible to decrypt.To ensure the return of this data, we are demanding a ransom of0.5 BTC. The deadline for this payment is fast approaching. Once the payment is received, the decryption key will be provided, and the data will be returned without delay. It is up to Car Care Plan to act accordingly.",
+    "claimed_data_types": [
+      "internal-documents"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fyienhcmugugxhbiatifr1cmtleubozwxsy2f0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-26 00:47:57.201455",
+    "disclosedDate": "2024-12-26 00:47:58.550035"
+  }
+}

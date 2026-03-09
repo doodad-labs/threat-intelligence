@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-151E42",
+  "type": "ransomware-incident",
+  "title": "CUANSWERS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CUANSWERS.COM",
+    "domain": "cuanswers.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - CU*Answers",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/be21a02b98a1e128b9303c459fe0a9ed.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1vbtlnxrvjtlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-15 16:35:11.081425",
+    "disclosedDate": "2023-06-15 16:35:11.081451"
+  }
+}

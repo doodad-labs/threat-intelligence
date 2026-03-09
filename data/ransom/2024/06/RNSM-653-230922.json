@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-230922",
+  "type": "ransomware-incident",
+  "title": "federalreserve.gov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "federalreserve.gov",
+    "domain": "federalreserve.gov",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Federal banking is the term for the way the Federal Reserve of the United States distributes its money. The Reserve operates twelve banking districts around the country which oversee money distribution within their respective districts. The twelve ci...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/843ae9dca19a4e67348161325b662a02.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmvkzxjhbhjlc2vydmuuz292qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-16 00:00:00.000000",
+    "disclosedDate": "2024-06-23 21:12:17.351319"
+  }
+}

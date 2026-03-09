@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-652-07CAD6",
+  "type": "ransomware-incident",
+  "title": "wichita.gov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wichita.gov",
+    "domain": "wichita.gov",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wichita is the most populous city in the U.S. state of Kansas and the county seat of Sedgwick County. As of the 2020 census, the population of the city was 397,532. The Wichita metro area had a population of 647,610 in 2020. It is located in south-ce...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4260b2e2e06dab59aa3f2f243fcf4428.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2ljagl0ys5nb3zabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.kfdi.com/2024/05/05/wichita-reports-cyberattack-on-city-computer-network/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-07 19:04:00.000000",
+    "disclosedDate": "2024-05-07 20:33:33.366888"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-274919",
+  "type": "ransomware-incident",
+  "title": "tilden-coil.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tilden-coil.com",
+    "domain": "tilden-coil.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tilden-Coil Constructors, Inc. is a general contractor and construction manager focusing on high quality educational, institutional, commercial and industrial facilities throughout Southern California for over 80 years.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/85f19311e341090e24e4ff6c12ff1f49.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dglszgvulwnvawwuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-27 12:29:00.000000",
+    "disclosedDate": "2023-10-27 13:23:46.104133"
+  }
+}

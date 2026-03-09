@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-0674A5",
+  "type": "ransomware-incident",
+  "title": "CIE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CIE",
+    "domain": "cie-group.cz",
+    "country": "CZ"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from The 19 biggest gitlabs",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/81827a4a18b826cefac139323423604c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0lfqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-01 19:04:26.811579",
+    "disclosedDate": "2025-03-06 02:01:31.902654"
+  }
+}

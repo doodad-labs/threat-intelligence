@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-177F56",
+  "type": "ransomware-incident",
+  "title": "Marine Floats ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Marine Floats",
+    "domain": "marinefloats.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Marine Floats designs, manufactures, constructs and maintains commercial and residential marinas, dock systems, covered moorage and other waterfront solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0d2517f4dcbedca238508fda09fc10d2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfyaw5liezsb2f0c0bkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-14 11:14:40.938526",
+    "disclosedDate": "2024-12-17 09:33:04.348999"
+  }
+}

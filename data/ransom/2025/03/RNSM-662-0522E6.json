@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-0522E6",
+  "type": "ransomware-incident",
+  "title": "willms-fleisch.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "willms-fleisch.de",
+    "domain": "willms-fleisch.de",
+    "country": "DE",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Willms-Fleisch GmbH is a Germany-based company known for providing high quality meat products. The company specializes in the import and export, processing, and sales of high-quality pork, beef, and other meat products. Their expertise includes individual cuts for various culinary requirements, and special meat products for industrial users. They boast more than 50 years in the industry, signaling a strong reputation for both domestic and international customers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2lsbg1zlwzszwlzy2guzgvac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-05 20:09:29.270175",
+    "disclosedDate": "2025-03-05 20:09:36.208711"
+  }
+}

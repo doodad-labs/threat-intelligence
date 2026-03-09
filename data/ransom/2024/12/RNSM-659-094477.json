@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-094477",
+  "type": "ransomware-incident",
+  "title": "Pb Loader ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pb Loader",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "PB Loader offers a complete line of Truck Mounted loaders, Asphalt Patchers, Emulsion Sprayers, Truck Equipment and Bodies.We are ready to upload more than 200 GB of internal corporate documents including: NDAs, inside financial information, customer and employee contacts, SSNs etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugigtg9hzgvyqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-06 00:00:00.000000",
+    "disclosedDate": "2024-12-09 14:59:33.911774"
+  }
+}

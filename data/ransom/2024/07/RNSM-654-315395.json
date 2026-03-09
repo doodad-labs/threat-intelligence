@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-315395",
+  "type": "ransomware-incident",
+  "title": "sandytownshippolice.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sandytownshippolice.org",
+    "domain": "sandytownshippolice.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sandy Township Police is proud to partner with and serve our distinct neighborhoods of Oklahoma, West Sandy, West Liberty, Kiwanis Park, Adrian, Iselin Heights, Singing Hills, Clear Run, Indian Hills, Sabula, and Treasure Lake. The Sandy Township Pol...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3f422dda8d81ca3d4e6eadfa7b1f17e1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2fuzhl0b3duc2hpchbvbgljzs5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-26 08:29:00.000000",
+    "disclosedDate": "2024-07-31 12:08:47.035173"
+  }
+}

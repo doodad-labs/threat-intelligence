@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-667-114A40",
+  "type": "ransomware-incident",
+  "title": "Spring Footwear ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Spring Footwear",
+    "domain": "springfootwear.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 23000000000,
+    "description": "Spring Footwear has dedicated itself to providing consumers with footwear. The company's brands are Spring Step, L'Artiste, Azura,Flexus, Patrizia and Spring Step Professional.We are ready to upload more than 23GB files of essential corporate documents such as: financial data (audit, payment details, invoices), employees and customers information (email's,driver's license,Social Security Numbers and other documents), confidential information, NDA  and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3byaw5niezvb3r3zwfyqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-28 00:00:00.000000",
+    "disclosedDate": "2025-08-11 15:08:33.666398"
+  }
+}

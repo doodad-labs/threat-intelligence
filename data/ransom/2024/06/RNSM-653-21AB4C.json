@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-21AB4C",
+  "type": "ransomware-incident",
+  "title": "TC Capital Asia Limited ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TC Capital Asia Limited",
+    "domain": "tccapital.com.hk",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TC Capital Group is a boutique corporate finance advisory house based in Hong Kong.We are licensed by the Securities and Futures Commission of Hong Kong (SFC) to provide services in:Dealing in securitiesAdvising on corporate financeAsset management http://www.tccapital.com.hk/en",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1ee86603277e1e5420e0f01123194bcd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vemgq2fwaxrhbcbbc2lhiexpbwl0zwraogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-21 00:00:00.000000",
+    "disclosedDate": "2024-06-21 09:17:25.098844"
+  }
+}

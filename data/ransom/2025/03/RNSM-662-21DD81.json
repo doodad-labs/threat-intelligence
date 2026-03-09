@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-21DD81",
+  "type": "ransomware-incident",
+  "title": "www.esquirebrands.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.esquirebrands.com",
+    "domain": "esquirebrands.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Esquire Brands\" is a Hong Kong-based trading company specializing in the distribution and wholesale of various consumer products. Their offerings largely revolve around electronics, appliances, toys, and personal care items. Their mission is to provide affordable, popular and reliable products worldwide. They leverage their extensive knowledge and contacts in sourcing from Asia to provide competitive prices.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6ad71caf815e0c902b35c11e3b2b176f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmvzcxvpcmvicmfuzhmuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-06 00:00:00.000000",
+    "disclosedDate": "2025-03-21 18:40:37.741319"
+  }
+}

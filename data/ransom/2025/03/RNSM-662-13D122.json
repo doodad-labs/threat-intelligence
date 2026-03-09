@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-13D122",
+  "type": "ransomware-incident",
+  "title": "TUV India Pvt. Ltd. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TUV India Pvt. Ltd.",
+    "domain": "tuv-nord.com",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TUV India offers a comprehensive & diverse range of technical services to its large clientele of several thousand customers that includes leading corporate houses, public sector organizations, and medium and small scale enterprises.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0c61044a0a39159379fa661b1ffb78ea.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfvwieluzglhifb2dc4gthrklkbyyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-03 00:00:00.000000",
+    "disclosedDate": "2025-03-13 00:04:27.682107"
+  }
+}

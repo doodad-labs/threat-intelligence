@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-223EB1",
+  "type": "ransomware-incident",
+  "title": "cct.or.th ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cct.or.th",
+    "domain": "cct.or.th",
+    "country": "TH",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "a company that works in the Religious Institutions industry",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f1f868da40433e30e4752eaf474eb4cf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2n0lm9ylnroqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-21 22:53:00.000000",
+    "disclosedDate": "2024-01-22 02:53:51.882226"
+  }
+}

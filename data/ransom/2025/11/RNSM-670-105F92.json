@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-670-105F92",
+  "type": "ransomware-incident",
+  "title": "Weintraub Traub Tracy & Virk Cra's LLP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Weintraub Traub Tracy & Virk Cra's LLP",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have data from Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH, payment and tax records, employee and client documents, as well as projects and developments, and personal correspondence with clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1b8f273cf14999d17e97d1a1dc0b967a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vpbnryyxviifryyxviifryywn5icygvmlyaybdcmencybmtfbaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-10 12:00:00.000000",
+    "disclosedDate": "2025-11-10 12:21:55.025826"
+  }
+}

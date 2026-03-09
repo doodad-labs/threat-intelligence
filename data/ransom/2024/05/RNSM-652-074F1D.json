@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-074F1D",
+  "type": "ransomware-incident",
+  "title": "southernspecialtysupply.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "southernspecialtysupply.com",
+    "domain": "southernspecialtysupply.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "With over 30 years of experience our dedicated sales team is here to help you with all of your supply needs for the oil and gas industry. Providing quality products and service, our team is here to provide knowledge and support for offshore, onshore,...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0b68189e64c910f31a6917236574818a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c291dghlcm5zcgvjawfsdhlzdxbwbhkuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-07 08:55:00.000000",
+    "disclosedDate": "2024-05-07 10:44:25.538838"
+  }
+}

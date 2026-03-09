@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-28DC28",
+  "type": "ransomware-incident",
+  "title": "www.allmilmoe.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.allmilmoe.com",
+    "domain": "allmilmoe.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Allmilmoe is a German company specializing in the production of high-quality kitchens. They carefully select materials and pay attention to workmanship to provide timeless, functional, and stylish designs to customers. Their portfolio covers a variety of collections aiming to fuse functionality and aesthetics. They value sustainability, thus they ensure to use materials from renewable and controlled sources.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0cfbf7eed7ee4ab28b4666ee96c6ce71.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmfsbg1pbg1vzs5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-26 18:12:42.000000",
+    "disclosedDate": "2025-03-28 00:12:30.966656"
+  }
+}

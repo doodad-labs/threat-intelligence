@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-663-15EACA",
+  "type": "ransomware-incident",
+  "title": "Oregon Department of Environmental Quality ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Oregon Department of Environmental Quality",
+    "domain": "oregon.gov",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2500000000000,
+    "description": "Oregon Department of Environmental Quality They think their data hasn't been stolen. They're sorely mistaken.Over 2.5 terabytes of unique data. (SQL, employee data and more)We are waiting for your suggestions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3jlz29uierlcgfydg1lbnqgb2ygrw52axjvbm1lbnrhbcbrdwfsaxr5qhjoexnpzge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-15 08:45:11.371589",
+    "disclosedDate": "2025-04-15 08:45:13.232898"
+  }
+}

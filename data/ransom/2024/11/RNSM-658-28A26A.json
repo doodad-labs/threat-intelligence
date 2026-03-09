@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-658-28A26A",
+  "type": "ransomware-incident",
+  "title": "NHS Alder Hey ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NHS Alder Hey",
+    "domain": "alderhey.nhs.uk",
+    "country": "GB",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Evidence of large-scale data\r \r Patient records, donor reports, procurement data are indicated\r \r Information available for 2018-2024",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/951f491b947d53f6e51d1634720b064f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tkhtiefszgvyiehleubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.alderhey.nhs.uk/statement-about-reports-of-a-data-breach-at-alder-hey-childrens-nhs-foundation-trust/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-28 16:12:40.720000",
+    "disclosedDate": "2024-11-28 16:57:08.815551"
+  }
+}

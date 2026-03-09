@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-648-273055",
+  "type": "ransomware-incident",
+  "title": "vidalung.ai ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "vidalung.ai",
+    "domain": "vidalung.ai",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1700000000000,
+    "description": "vidalung.ai 1.7Tb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmlkywx1bmcuywlaywj5c3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-27 10:24:04.140366",
+    "disclosedDate": "2024-01-27 10:24:04.140388"
+  }
+}

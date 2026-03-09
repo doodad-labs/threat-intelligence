@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-165D7F",
+  "type": "ransomware-incident",
+  "title": "www.cogans.ie ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.cogans.ie",
+    "domain": "cogans.ie",
+    "country": "IE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "trisec",
+    "name": "trisec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f20f308b9100be7114ffa4798eb7d4db.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnvz2fucy5pzub0cmlzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-16 22:28:09.383465",
+    "disclosedDate": "2024-02-16 22:28:09.383490"
+  }
+}

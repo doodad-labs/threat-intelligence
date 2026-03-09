@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-662-05E67E",
+  "type": "ransomware-incident",
+  "title": "SCOLARO FETTER GRIZANTI & McGOUGH, P.C. (scolaro.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SCOLARO FETTER GRIZANTI & McGOUGH, P.C. (scolaro.com)",
+    "domain": "scolaro.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 92500000000,
+    "description": "92.5 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6775e1f341dd3b48f2b3e9f1f7cce095.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0nptefstybgrvrurvigr1jjwkfovekgjibny0dpvudilcbqlkmuichzy29syxjvlmnvbslazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-05 00:00:00.000000",
+    "disclosedDate": "2025-03-05 17:53:40.557073"
+  }
+}

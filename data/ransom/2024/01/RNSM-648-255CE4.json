@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-648-255CE4",
+  "type": "ransomware-incident",
+  "title": "caravanclub.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "caravanclub.co.uk",
+    "domain": "caravanclub.co.uk",
+    "country": "GB",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Caravan and Motorhome Club",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ec0019209acdeab1593b8eb95d6d403d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fyyxzhbmnsdwiuy28udwtabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.theregister.com/2024/01/24/major_it_outage_at_caravan/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-25 12:20:00.000000",
+    "disclosedDate": "2024-01-25 13:07:39.824025"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-031B45",
+  "type": "ransomware-incident",
+  "title": "VANTAGE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VANTAGE",
+    "domain": "vantagelaw.ca",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000000,
+    "description": "By allowing over 2TB of sensitive data — primarily client information — to be exfiltrated, the company has demonstrated a blatant disregard for the privacy and trust of its customers.They now have exactly 150 hours to make contact. If t            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7bbef360e90f5c8a7984261fe007b1cd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vkfovefhrubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-31 00:00:00.000000",
+    "disclosedDate": "2025-06-03 15:18:08.211101"
+  }
+}

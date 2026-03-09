@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-07B326",
+  "type": "ransomware-incident",
+  "title": "billhurst.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "billhurst.com",
+    "domain": "billhurst.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "William Hurst Of Counsel Bill has represented thousands of injured Hoosiers in his 40+ year career and recovered millions for his personal injury clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d7fc7439dd67e5a31661165228100e9d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymlsbgh1cnn0lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-07 04:19:00.000000",
+    "disclosedDate": "2023-06-07 04:52:44.384154"
+  }
+}

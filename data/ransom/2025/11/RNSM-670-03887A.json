@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-03887A",
+  "type": "ransomware-incident",
+  "title": "Victorian Chemical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Victorian Chemical",
+    "domain": "vicchem.com",
+    "country": "AU",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Vicchem, based in Melbourne, Australia, is a specialist manufacturer and global marketer of agricultural and industrial chemical products since 1933. The company offers a diverse range of over 30 agricultural products, including spray adjuvants and organic insecticides, suitable for various farming applications. Additionally, Vicchem provides industrial chemicals, such as concrete mould release agents and degreasers, for multiple industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2205ffc90d3acf2b742c6f242f1d0cb8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmljdg9yawfuienozw1py2fsqhjhbnnvbwhvdxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-23 00:00:00.000000",
+    "disclosedDate": "2025-11-03 11:23:29.267594"
+  }
+}

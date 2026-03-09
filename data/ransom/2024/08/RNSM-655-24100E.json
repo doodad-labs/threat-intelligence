@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-24100E",
+  "type": "ransomware-incident",
+  "title": "Health Quality Council ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Health Quality Council",
+    "domain": "hqca.ca",
+    "country": "CA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HQC offers learning programs for people working at all levels in the health care system.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ff4cbdd2c65587165c7e00dd9287a5cd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvhbhroiff1ywxpdhkgq291bmnpbebpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-07 00:00:00.000000",
+    "disclosedDate": "2024-08-24 15:15:42.657679"
+  }
+}

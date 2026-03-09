@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-1499D3",
+  "type": "ransomware-incident",
+  "title": "etsi.uy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "etsi.uy",
+    "domain": "etsi.uy",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "knight",
+    "name": "knight",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Victim refuses to cooperate in negotiations and make efforts to pay and as such data will be posted on the 2023-09-25",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e091b7066cd298abc542cf0622af3653.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxrzas51eubrbmlnahq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-14 18:59:42.380214",
+    "disclosedDate": "2023-09-14 18:59:42.380236"
+  }
+}

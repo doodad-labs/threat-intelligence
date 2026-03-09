@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-1974AC",
+  "type": "ransomware-incident",
+  "title": "Targus.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Targus.com",
+    "domain": "targus.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "redransomware",
+    "name": "redransomware",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Computer Equipment & Peripherals",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgfyz3vzlmnvbubyzwryyw5zb213yxjl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/targus-discloses-cyberattack-after-hackers-detected-on-file-servers/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-19 00:00:00.000000",
+    "disclosedDate": "2024-04-19 15:57:36.920378"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-083361",
+  "type": "ransomware-incident",
+  "title": "Idaho National Laboratory ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Idaho National Laboratory",
+    "domain": "inl.gov",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "siegedsec",
+    "name": "siegedsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "nuclear research, nuclear power, power plant",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4afc73c2db9b7d03dc8af9a5b0db1f3e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/swrhag8gtmf0aw9uywwgtgfib3jhdg9yeubzawvnzwrzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-26 00:00:00.000000",
+    "disclosedDate": "2023-12-08 08:47:47.525802"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-231617",
+  "type": "ransomware-incident",
+  "title": "Ghent Dredging ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ghent Dredging",
+    "country": "BE",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 16000000000,
+    "description": "Ghent Dredging has made itself a name as a contractor in dredgingand marine works.We are going to upload about 16 GB of corporate data. Detailed financial data, client information, a bit of employee personal documents, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2hlbnqgrhjlzgdpbmdaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-23 00:00:00.000000",
+    "disclosedDate": "2025-05-23 16:09:32.627542"
+  }
+}

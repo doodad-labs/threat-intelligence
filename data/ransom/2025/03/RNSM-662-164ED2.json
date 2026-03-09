@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-164ED2",
+  "type": "ransomware-incident",
+  "title": "consultoria-consultores.es ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "consultoria-consultores.es",
+    "domain": "consultoritas.es",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "trinity",
+    "name": "trinity",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 219000000000,
+    "description": "219GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1d1819aea45c4c2514054ea184817696.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29uc3vsdg9yawety29uc3vsdg9yzxmuzxnadhjpbml0eq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-16 21:28:15.952228",
+    "disclosedDate": "2025-03-16 21:29:29.366191"
+  }
+}

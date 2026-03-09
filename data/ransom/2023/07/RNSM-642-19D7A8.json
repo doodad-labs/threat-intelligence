@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-19D7A8",
+  "type": "ransomware-incident",
+  "title": "SMC3.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SMC3.COM",
+    "domain": "smc3.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LTL Transportation Pricing Data - Technology Solutions from SMC³",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/29790902aa934c9901f7f1efb68ae6f5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u01dmy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-19 01:15:25.316817",
+    "disclosedDate": "2023-07-19 01:15:25.316843"
+  }
+}

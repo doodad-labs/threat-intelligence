@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-642-25C9C0",
+  "type": "ransomware-incident",
+  "title": "Becht Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Becht Engineering",
+    "domain": "becht.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Becht provides technically excellent engineering solutions, plantservices, and software tools to our worldwide clients. This is the company a client will go to when they see their data in open access. All the information of employees, projects, financials, and business processes information will be released soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvjahqgrw5naw5lzxjpbmdaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-25 01:02:03.456789",
+    "disclosedDate": "2023-07-25 14:58:24.036424"
+  }
+}

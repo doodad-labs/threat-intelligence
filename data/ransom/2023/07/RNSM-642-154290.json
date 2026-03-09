@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-154290",
+  "type": "ransomware-incident",
+  "title": "equmedia.es ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "equmedia.es",
+    "domain": "equmedia.es",
+    "country": "ES",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "EQUMEDIA es la Agencia de Medios independiente líder en España. Combina el saber hacer de la agencia independiente pionera en el mercado español con la",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/75e87a4a5f498825a730fc663cfaede2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxf1bwvkaweuzxnabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-15 15:41:00.000000",
+    "disclosedDate": "2023-07-15 16:56:09.264793"
+  }
+}

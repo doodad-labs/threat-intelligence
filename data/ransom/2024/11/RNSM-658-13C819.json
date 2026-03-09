@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-13C819",
+  "type": "ransomware-incident",
+  "title": "Value Dental Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Value Dental Center",
+    "domain": "valuedentalcentercicero.com",
+    "country": "EG",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Medical and personal data of 5000 patients https://valuedentalcentercicero.com Company representative should follow the instructions to contact us before time runs out",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a2d25d9d853fffebfa9947f0f4b79498.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmfsdwugrgvudgfsienlbnrlckbldmvyzxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-13 02:17:28.360761",
+    "disclosedDate": "2024-11-13 02:17:28.943753"
+  }
+}

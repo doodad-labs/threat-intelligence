@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-024736",
+  "type": "ransomware-incident",
+  "title": "www.schneider.ch ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.schneider.ch",
+    "domain": "schneider.ch",
+    "country": "CH",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Schneider Schreibgeräte AG, based in Switzerland, specializes in the production of high-quality writing instruments. Known for their precision and reliability, Schneider offers a wide range of pens, markers, and other writing tools suitable for both professional and personal use. The company emphasizes sustainability and innovation, ensuring that their products are eco-friendly and ergonomically designed.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2e1b9ba677187f7795af4087d615942e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnjag5lawrlci5jaebyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-18 00:00:00.000000",
+    "disclosedDate": "2024-09-02 11:14:12.856858"
+  }
+}

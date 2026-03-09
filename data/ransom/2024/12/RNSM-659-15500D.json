@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-659-15500D",
+  "type": "ransomware-incident",
+  "title": "biodimed.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "biodimed.com",
+    "domain": "biodimed.com",
+    "country": "EC",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 60000000000,
+    "description": "Data :60GB - Status: ? - Data type: Email operations associated with all employees - attachments include 40GB of documents related to biodimed - employee data - internal messages -",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymlvzgltzwquy29tqhn0b3jtb3vz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 00:00:00.000000",
+    "disclosedDate": "2024-12-15 19:33:02.669839"
+  }
+}

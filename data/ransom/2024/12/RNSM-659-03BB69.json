@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-03BB69",
+  "type": "ransomware-incident",
+  "title": "IDN ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IDN",
+    "domain": "idn-inc.com",
+    "country": "ID",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "IDN quietly began out of a desire to protect two families in the event of untimely deaths. In the early 1970s, Al Hoffman and Virl Mullins, both second-generation owner-operators, found themselves in businesses that traditionally needed to be            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c3cf911fcc0c3d5816db89db07687b3d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/suroqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 00:00:00.000000",
+    "disclosedDate": "2024-12-03 11:58:00.080406"
+  }
+}

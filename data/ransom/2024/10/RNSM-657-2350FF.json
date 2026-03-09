@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-2350FF",
+  "type": "ransomware-incident",
+  "title": "shipkar.co.in ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "shipkar.co.in",
+    "domain": "shipkar.co.in",
+    "country": "IN",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome to Shipkar Express! At Shipkar Express, we are passionate about delivering excellence in courier services",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/842f6e31b1e2c4fccde92aeee47f0085.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2hpcgthci5jby5pbkbrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-23 01:16:19.022681",
+    "disclosedDate": "2024-10-23 01:16:19.530981"
+  }
+}

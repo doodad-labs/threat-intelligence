@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-04BD4C",
+  "type": "ransomware-incident",
+  "title": "rockhillwc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rockhillwc.com",
+    "domain": "rockhillwc.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 11.03.2025. Since 1989, Rockhill Women’s Care has been dedicated to providing quality care and customer service to our patients. We are a full-service OB/GYN practice in Kansas City            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dd9aacfdcbc3c6307535473d196f74e9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm9ja2hpbgx3yy5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-26 00:00:00.000000",
+    "disclosedDate": "2025-03-04 10:21:02.931669"
+  }
+}

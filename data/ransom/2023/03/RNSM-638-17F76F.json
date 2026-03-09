@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-17F76F",
+  "type": "ransomware-incident",
+  "title": "boothtransport.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "boothtransport.com",
+    "domain": "boothtransport.com",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Booth is one of Australia's most respected national freight and logistics service providers. Our national fleet of transport equipment, warehousing facilities and professional staff are supported by industry specific operational systems. This deliver...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4152dcb312da2fec980877e838544b46.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym9vdgh0cmfuc3bvcnquy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-16 17:29:00.000000",
+    "disclosedDate": "2023-03-17 19:08:57.443270"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-641-197542",
+  "type": "ransomware-incident",
+  "title": "GESA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GESA.COM",
+    "domain": "gesa.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Washington Credit Union - Loans - Savings Accounts - Gesa",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r0vtqs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-19 15:39:56.138562",
+    "disclosedDate": "2023-06-19 15:39:56.138587"
+  }
+}

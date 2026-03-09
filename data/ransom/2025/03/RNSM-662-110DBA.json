@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-110DBA",
+  "type": "ransomware-incident",
+  "title": "Essex County OB/GYN Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Essex County OB/GYN Associates",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We offer preventative, diagnostic, and acute care for a wide range of Women's Health issues. Each of us, including our board-certified OB/GYN physicians, certified nurse-midwives and our physician assistant, genuinely cares about our patients. We are dedicated to helping our patients maintain optimal health by providing them with quality medical care throughout their lives. We practice with compassion in a warm and welcoming environment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f28bb89d726843fc4d1f3774602e0ab7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxnzzxggq291bnr5ie9cl0dztibbc3nvy2lhdgvzqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-11 10:00:00.000000",
+    "disclosedDate": "2025-03-11 11:28:39.804237"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-178F0A",
+  "type": "ransomware-incident",
+  "title": "Tharisa ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tharisa",
+    "domain": "tharisa.com",
+    "country": "CY"
+  },
+  "actor": {
+    "id": "termite",
+    "name": "termite",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tharisa is an integrated resource group critical to the energy transition and decarbonisation of economies.It incorporates mining, processing, exploration, and the beneficiation, marketing, sales, and logistics of PGMs and chrome concentrates, using innovation and technology as enablers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cf34a557e73572138e9b6ed90c658a9d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghhcmlzyub0zxjtaxrl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-17 20:57:53.100000",
+    "disclosedDate": "2024-12-17 22:00:00.989402"
+  }
+}

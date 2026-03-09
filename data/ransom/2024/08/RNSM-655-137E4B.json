@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-137E4B",
+  "type": "ransomware-incident",
+  "title": "MyFreightWorld ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MyFreightWorld",
+    "domain": "myfreightworld.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b96935bbe38aa8c7ad31b499d8a583e4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txlgcmvpz2h0v29ybgraagvsbgrvd24=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-05 00:00:00.000000",
+    "disclosedDate": "2024-08-13 07:35:27.513780"
+  }
+}

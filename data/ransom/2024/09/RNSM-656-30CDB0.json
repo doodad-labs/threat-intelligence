@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-30CDB0",
+  "type": "ransomware-incident",
+  "title": "itap.nacc.go.th ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "itap.nacc.go.th",
+    "domain": "nacc.go.th",
+    "country": "TH",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Integrity and Transparency Assessment of Public Service (ITAP) is an initiative by the National Anti-Corruption Commission (NACC) aimed at evaluating the ethical standards and transparency of government agencies across Thailand.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/71e5d2ccd30a61ac86559e787c2c87b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axrhcc5uywnjlmdvlnroqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-30 17:34:41.493377",
+    "disclosedDate": "2024-09-30 17:34:45.999179"
+  }
+}

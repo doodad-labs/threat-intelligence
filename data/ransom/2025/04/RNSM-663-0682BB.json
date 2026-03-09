@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-663-0682BB",
+  "type": "ransomware-incident",
+  "title": "grupotersa.com.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "grupotersa.com.mx",
+    "domain": "grupotersa.com.mx",
+    "country": "MX"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Greetings!  Today we are posting here the new company, \"Grupo TERSA\".  Company Description: Grupo TERSA was born from the dream of our Chairman and Founder Rodrigo Valle Hernández in 1982, which has now become the dream of a great team of workers...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/23a6f0aa42572a8cc5523e101545fb8d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3j1cg90zxjzys5jb20ubxhabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-15 00:00:00.000000",
+    "disclosedDate": "2025-04-06 18:28:20.188900"
+  }
+}

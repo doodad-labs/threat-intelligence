@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-1328CB",
+  "type": "ransomware-incident",
+  "title": "Southwest Family Medicine Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Southwest Family Medicine Associates",
+    "domain": "sfmahealth.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Southwest Family Medicine Associates proudly offers a true one-stop shop medical home. The team at SFMA practices cutting-edge medicine that focuses on disease prevention and wellness. Our revolutionary Early Detect Program combines an annual wellness exam with early detection testing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u291dgh3zxn0iezhbwlsesbnzwrpy2luzsbbc3nvy2lhdgvzqgjpyw5sawfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-13 13:03:16.274320",
+    "disclosedDate": "2024-08-13 13:03:18.047328"
+  }
+}

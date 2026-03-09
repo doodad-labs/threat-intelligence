@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-643-166FAC",
+  "type": "ransomware-incident",
+  "title": "Tally Energy Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tally Energy Services",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 130000000000,
+    "description": "Tally Energy Services is an integrated oilfield services company committed to helping our customers “make better wells.” We wantedto help these folks make their cyber defenses a little better, but we failed. Soon you're going to see 130GB of their data here. As always, there's a bunch of personal employee records with medical information and emergency contacts. Financial and incident reports are also prominently displayed.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgfsbhkgrw5lcmd5ifnlcnzpy2vzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-16 17:31:54.500984",
+    "disclosedDate": "2023-08-16 17:31:54.604050"
+  }
+}

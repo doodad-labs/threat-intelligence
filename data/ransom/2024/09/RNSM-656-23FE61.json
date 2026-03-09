@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-23FE61",
+  "type": "ransomware-incident",
+  "title": "Fabrica Industrial Machinery & Equipment ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fabrica Industrial Machinery & Equipment",
+    "domain": "fabricasrl.com.ar",
+    "country": "AR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "trinity",
+    "name": "trinity",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data base 20+tb - Revenue: $ 59.2 Million - Publication date: 2024-10-23",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cfaa926e2de4ec65bae51ea42c4e7ef8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmficmljysbjbmr1c3ryawfsie1hy2hpbmvyesamievxdwlwbwvudeb0cmluaxr5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-23 10:08:55.303967",
+    "disclosedDate": "2024-09-23 10:08:55.725667"
+  }
+}

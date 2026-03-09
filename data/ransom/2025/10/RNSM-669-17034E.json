@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-17034E",
+  "type": "ransomware-incident",
+  "title": "WEBER ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WEBER",
+    "domain": "webergmbh.de",
+    "country": ""
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "WEBER GmbH has been a reliable partner in automation, engineering, and environmental simulation since 1979, offering innovative solutions across various industries including mechanical engineering and medical technology. The company's services include automated assembly systems, testing stands, robotics, and complete engineering support throughout all project phases. With a focus on collaborative project execution, WEBER integrates its three business areas to deliver comprehensive technology solutions. They cater to diverse clients, from commercial vehicles to consumer goods, ensuring that visions become reality through their technical expertise.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bf018b95d70ca8987686bf61c92b2b77.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0vcrvjacmfuc29tag91c2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-17 12:15:31.375104",
+    "disclosedDate": "2025-10-17 12:15:51.726731"
+  }
+}

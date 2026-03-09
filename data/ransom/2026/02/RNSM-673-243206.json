@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-673-243206",
+  "type": "ransomware-incident",
+  "title": "ApexHospitals ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ApexHospitals",
+    "domain": "apexhospitals.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "vect",
+    "name": "vect",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Status: STATUS: LEAKED | Sector: healthcare | Employee personally identifiable information (PII)Payroll records and compensation dataSocial Security numbers / national ID numbersComplete patient medical recordsMedical histories and clinic...",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxbleehvc3bpdgfsc0b2zwn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-19 00:00:00.000000",
+    "disclosedDate": "2026-02-24 23:02:33.387268"
+  }
+}

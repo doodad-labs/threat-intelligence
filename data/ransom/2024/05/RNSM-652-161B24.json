@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-652-161B24",
+  "type": "ransomware-incident",
+  "title": "Chuo System Service Co.,Ltd  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Chuo System Service Co.,Ltd ",
+    "domain": "chuoss.co.jp",
+    "country": "JP",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Visits: 185 Data Size: 20GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c294200c616b61eec5bebfdbef6f5a67.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2h1bybtexn0zw0gu2vydmljzsbdby4sthrkiebyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-16 06:35:23.166999",
+    "disclosedDate": "2024-05-16 06:35:23.167029"
+  }
+}

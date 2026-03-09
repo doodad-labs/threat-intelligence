@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-25A086",
+  "type": "ransomware-incident",
+  "title": "inv[...]nator ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "inv[...]nator",
+    "domain": "investmentdominator.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Investment Dominator is a real estate investment CRM that allows you manage your contacts, property records, marketing campaigns and deal flow process for both land and house investing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/df52d57d1e284e848b31d9a637aa524a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw52wy4ull1uyxrvckbrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-25 03:42:20.033259",
+    "disclosedDate": "2024-11-25 03:42:20.825256"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-25E52F",
+  "type": "ransomware-incident",
+  "title": "Better Business Bureau ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Better Business Bureau",
+    "domain": "bbb.org",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Better Business Bureau aim is to foster relationships between businesses and consumers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d20062b73181c21cab9e4e3b0a6a6737.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmv0dgvyiej1c2luzxnziej1cmvhdubiawfubglhbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-25 22:00:58.049998",
+    "disclosedDate": "2024-06-25 22:00:58.885372"
+  }
+}

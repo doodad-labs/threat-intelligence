@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-108ADE",
+  "type": "ransomware-incident",
+  "title": "micos.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "micos.com",
+    "domain": "micos.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Micos Engineering GmbH is an independent advanced engineering company that focuses on optical instrumentation for the European space market. As industrial partner it delivers (pre-) design, engineering, AIT (assembly, integration and testing) and ser...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwljb3muy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-10 12:34:00.000000",
+    "disclosedDate": "2023-03-10 16:59:35.333703"
+  }
+}

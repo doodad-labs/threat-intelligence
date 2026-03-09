@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-106497",
+  "type": "ransomware-incident",
+  "title": "HCI.EDU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HCI.EDU",
+    "domain": "hci.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HCI College - Transform Your Story",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3a026fb89d6eccf8a6e21e2cdaecb96d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/senjlkvevubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-10 21:55:09.580991",
+    "disclosedDate": "2023-06-10 21:55:09.581014"
+  }
+}

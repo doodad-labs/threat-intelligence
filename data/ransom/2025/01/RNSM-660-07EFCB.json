@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-660-07EFCB",
+  "type": "ransomware-incident",
+  "title": "Sunflower Medical Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sunflower Medical Group",
+    "domain": "sunflowermed.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000000,
+    "description": "Sunflower Medical Group With only 7 days to spare, take the opportunity to bet on exclusive, unique, and impressive data. More than 400 thousand driver's licenses, insurance cards, social security numbers. Sql base is more than 3TB. Open your wallets and get ready to buy exclusive data. We sell only to one person, no resale, you will be the only owner!",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vuzmxvd2vyie1lzgljywwgr3jvdxbacmh5c2lkyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://therecord.media/kansas-healthcare-provider-data-breach",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-07 09:44:40.275189",
+    "disclosedDate": "2025-01-07 09:44:40.275189"
+  }
+}

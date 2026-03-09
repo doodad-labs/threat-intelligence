@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-652-13556C",
+  "type": "ransomware-incident",
+  "title": "oseranhahn.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "oseranhahn.com",
+    "domain": "oseranhahn.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Company data will be available via a link at the bottom of the page.  Oseran Hahn P.S. is a legal firm that offers a variety of services in the field of law.  The company's practice areas include Business and Corporate Law, Litigation, and Condo L...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9ef12b1e05957d7e73a285e458123b9c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b3nlcmfuagfobi5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-19 00:00:00.000000",
+    "disclosedDate": "2024-05-13 16:46:19.764836"
+  }
+}

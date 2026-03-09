@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-31B4CA",
+  "type": "ransomware-incident",
+  "title": "Durham Manufacturing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Durham Manufacturing",
+    "domain": "durhammfg.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5c7946b6d9eef31eef4b98906d36abc8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhvyagftie1hbnvmywn0dxjpbmdaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-31 15:40:20.000000",
+    "disclosedDate": "2024-07-31 16:09:35.639349"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-27E919",
+  "type": "ransomware-incident",
+  "title": "countryvillahealthservices.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "countryvillahealthservices.com",
+    "domain": "countryvillahealthservices.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country Villa Service Corp., which does business as Country Villa Health Service, owns and operates about 50 skilled nursing and assisted living centers across California, with about half located in Los Angeles County. Services include sub-acute, com...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5ea24b178bea570b22f71de4454094cf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y291bnryexzpbgxhagvhbhroc2vydmljzxmuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-21 00:00:00.000000",
+    "disclosedDate": "2024-03-27 11:54:57.580162"
+  }
+}

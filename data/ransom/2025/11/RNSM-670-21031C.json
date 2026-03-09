@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-21031C",
+  "type": "ransomware-incident",
+  "title": "WORLEY.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WORLEY.COM",
+    "domain": "worley.com",
+    "country": "AU",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Worley.com is an Australian company providing professional project and asset services in energy, chemical and resources sectors. They aid their customers through entire asset life-cycle, providing global solutions for design and build of new assets; as well as offer maintenance, repair, operations and decommissioning services to optimize their customers' performance.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/546a278ece603573c4c8c3c5a79f0bd1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v09stevzlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 12:59:27.463217",
+    "disclosedDate": "2025-11-21 12:59:41.019263"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-668-1830B8",
+  "type": "ransomware-incident",
+  "title": "Hood Technology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hood Technology",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hood Technology Corp is an engineering-oriented company based in Hood River, Oregon, specializing in the development of stabilizedgimbals for both manned and unmanned vehicles.  We are going to upload corporate data. Lots of project files withdrawings and specifications, contracts with sound names like Ferrari, Toshiba, MAN, Siemens, Apex and other companies. Customer information, lots of NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9vzcbuzwnobm9sb2d5qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-16 00:00:00.000000",
+    "disclosedDate": "2025-09-18 18:14:46.043285"
+  }
+}

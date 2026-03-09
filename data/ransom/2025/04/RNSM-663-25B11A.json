@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-663-25B11A",
+  "type": "ransomware-incident",
+  "title": "Santa Cruz Properties ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Santa Cruz Properties",
+    "domain": "scprgv.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15000000000,
+    "description": "Santa Cruz Properties company emphasizes exceptional service and personal guidance, ensuring clients navigate the buying and selling process smoothly.We are ready to upload 15 GB of essential corporate documents such as: personal information of employees, some information about customers, financial data (audits, payment details, reports), numerous contracts, corporate NDA’s, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fudgegq3j1eibqcm9wzxj0awvzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-25 00:00:00.000000",
+    "disclosedDate": "2025-04-25 12:45:32.713593"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-25A539",
+  "type": "ransomware-incident",
+  "title": "ultimateimageprinting.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ultimateimageprinting.com",
+    "domain": "ultimateimageprinting.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1980, Ultimate Image Printing is a full service commercial printing company located in Orange County, California. Since our inception, we have always believed that a print is not just ink on paper… it’s love, excitement, power… it’s commun...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/186133061d0d14769f82762865989ab9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dwx0aw1hdgvpbwfnzxbyaw50aw5nlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-25 04:51:00.000000",
+    "disclosedDate": "2023-04-25 05:47:19.760355"
+  }
+}

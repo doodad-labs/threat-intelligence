@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-27652D",
+  "type": "ransomware-incident",
+  "title": "Lee Hartman & Sons ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lee Hartman & Sons",
+    "domain": "leehartman.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "metaencryptor",
+    "name": "metaencryptor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lee Hartman & Sons, Inc., provides design, engineering, installation, service and rental services of audiovisual, presentation, videoconferencing, video-streaming, digital signage, video-production, and broadcast solutions in the Mid Atlantic Region of United States. The company was established in 1936.Revenue $18.5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4b96926b68b03726144039022124b41d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvliehhcnrtyw4gjibtb25zqg1ldgflbmnyexb0b3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 17:10:28.194217",
+    "disclosedDate": "2025-01-27 17:10:28.194217"
+  }
+}

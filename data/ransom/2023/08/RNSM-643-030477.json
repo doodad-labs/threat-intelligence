@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-030477",
+  "type": "ransomware-incident",
+  "title": "admsc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "admsc.com",
+    "domain": "admsc.com",
+    "country": "QA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Al Doha Maintenance & Services Centre (ADMSC) was founded in the year 1997 by Mr. John. B. Carnelio with a vision of providing Quality Services to the fast-emerging Qatari Market.Since its establishment, ADMSC has developed a dynamic business app...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d447ffb8e922c6272c43b69a5af846cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywrtc2muy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-03 09:06:00.000000",
+    "disclosedDate": "2023-08-03 09:58:06.110305"
+  }
+}

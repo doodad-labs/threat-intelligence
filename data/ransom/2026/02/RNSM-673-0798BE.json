@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-0798BE",
+  "type": "ransomware-incident",
+  "title": "KaiserAir ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KaiserAir",
+    "domain": "kaiserair.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a3ad1d87e143ff034eaaf985d883cdeb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fpc2vyqwlyqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-28 00:00:00.000000",
+    "disclosedDate": "2026-02-07 20:00:45.738557"
+  }
+}

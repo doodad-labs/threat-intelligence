@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-671-226F4A",
+  "type": "ransomware-incident",
+  "title": "Spartan Carbide ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Spartan Carbide",
+    "domain": "spartancarbide.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "securotrop",
+    "name": "securotrop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 149000000000,
+    "description": "Status: AWAITINGSize: 149 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/803e55e296e455f81d0ab9e71f8387ab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3bhcnrhbibdyxjiawrlqhnly3vyb3ryb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-22 00:00:00.000000",
+    "disclosedDate": "2025-12-22 18:04:52.385230"
+  }
+}

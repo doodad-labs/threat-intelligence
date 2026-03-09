@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-06EE81",
+  "type": "ransomware-incident",
+  "title": "eConceptions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "eConceptions",
+    "domain": "econceptions.mobi",
+    "country": "PK"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: eConceptions, Top Systems, DIEM",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zunvbmnlchrpb25zqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-06 07:58:41.712875",
+    "disclosedDate": "2025-02-06 07:58:43.422241"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-665-280F8D",
+  "type": "ransomware-incident",
+  "title": "www.skcounsel.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.skcounsel.com",
+    "domain": "skcounsel.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "kraken",
+    "name": "kraken",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Scott & Kraus, LLC is a boutique law firm located in Chicago specializing in commercial finance. The firm serves a diverse ran...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b99f307fbb9ca4b1598bf1eae9eadee9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnry291bnnlbc5jb21aa3jha2vu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c599e489-1320-423c-80fb-a787d069f786.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-18 00:00:00.000000",
+    "disclosedDate": "2025-06-28 06:19:32.112908"
+  }
+}

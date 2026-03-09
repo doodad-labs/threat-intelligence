@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-2720C9",
+  "type": "ransomware-incident",
+  "title": "www.rekamy.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.rekamy.com",
+    "domain": "rekamy.com",
+    "country": "MY",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.rekamy.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b04e5533ca0ff998d6e76a6b17026082.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnjla2ftes5jb21aymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:32:25.115605",
+    "disclosedDate": "2025-01-27 07:33:30.744088"
+  }
+}

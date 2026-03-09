@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-251D2E",
+  "type": "ransomware-incident",
+  "title": "vcclawservices.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "vcclawservices.com",
+    "domain": "vcclawservices.com",
+    "country": "CN",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Vivien Chan & Co. is a full-service law practice with offices in Hong Kong (1985) and Beijing (1993). We are consistently recognized as a premier law firm for and in Greater China. With over 35 years of doing business in Greater China, our Hong Kong...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0f9f8c2f3521cdce579206772df81e7a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmnjbgf3c2vydmljzxmuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-25 12:44:00.000000",
+    "disclosedDate": "2023-04-25 13:47:58.160463"
+  }
+}

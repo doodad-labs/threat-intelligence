@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-106255",
+  "type": "ransomware-incident",
+  "title": "BSIEDI.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BSIEDI.COM",
+    "domain": "bsiedi.com",
+    "country": "HK",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] BSIEDI.COM, also known as BSI (Business Systems Integrators), is a company that specializes in providing robust, high-quality EDI solutions for Microsoft Dynamics and ERPs. Their services, tailored to SMB manufacturers and distributors, include EDI software, EDI consulting, and comprehensive EDI managed services. BSI has been processing EDI transactions since 1991, leveraging cloud technology to ensure accuracy, efficiency, and reliability.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3e2241d68c0a79c970e3aaf6c2fb6e60.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qlnjrurjlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 15:13:51.810470",
+    "disclosedDate": "2025-02-10 15:15:07.898665"
+  }
+}

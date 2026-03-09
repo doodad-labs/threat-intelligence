@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-305C05",
+  "type": "ransomware-incident",
+  "title": "Welding and Fabrication (humblemfg) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Welding and Fabrication (humblemfg)",
+    "domain": "humblemfg.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "monti",
+    "name": "monti",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Building Materials",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b5544cf98be98e9bb1cddbd391487f6f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vszgluzybhbmqgrmficmljyxrpb24gkgh1bwjszw1mzylabw9udgk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-30 20:12:57.419425",
+    "disclosedDate": "2024-08-30 20:12:58.199304"
+  }
+}

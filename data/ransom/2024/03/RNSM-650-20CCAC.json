@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-650-20CCAC",
+  "type": "ransomware-incident",
+  "title": "Filexis AG Treuhand und Immobilien ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Filexis AG Treuhand und Immobilien",
+    "domain": "filexis.ch",
+    "country": "CH",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Filexis AG is your independent partner for real estate and fiduciary in Fislisbach AG. Specialized in advising private individuals and SMEs as well as property management and sales, our team of professionals will support you according to your needs.filexis.ch",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bfb47c750a651893a50fd3100a23caf0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmlszxhpcybbrybucmv1agfuzcb1bmqgsw1tb2jpbgllbka4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.reussbote.ch/2024/03/hackerangriff-auf-eine-fislisbacher-firma.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-20 00:00:00.000000",
+    "disclosedDate": "2024-03-20 07:14:53.820069"
+  }
+}

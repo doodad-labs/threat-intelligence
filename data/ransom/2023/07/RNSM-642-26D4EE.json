@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26D4EE",
+  "type": "ransomware-incident",
+  "title": "MACOM.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MACOM.COM",
+    "domain": "macom.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3fef8c37d74d0c24a1356f72d6085cc9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tufdt00uq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 21:01:11.622138",
+    "disclosedDate": "2023-07-26 21:01:11.622169"
+  }
+}

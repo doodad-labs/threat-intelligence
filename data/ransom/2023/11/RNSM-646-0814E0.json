@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-0814E0",
+  "type": "ransomware-incident",
+  "title": "fawry.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fawry.com",
+    "domain": "fawry.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "As the leading provider of e-payments and digital finance solutions, Fawry spearheads accessible, reliable, and high-value propositions for the benefit of millions of banked and unbanked users across the nation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0c0f21eb0f3f60b896ef1819e0ddca13.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmf3cnkuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-08 21:29:00.000000",
+    "disclosedDate": "2023-11-08 22:02:58.081908"
+  }
+}

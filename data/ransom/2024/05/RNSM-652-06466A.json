@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-06466A",
+  "type": "ransomware-incident",
+  "title": "eviivo.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "eviivo.com",
+    "domain": "eviivo.com",
+    "country": "GB",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "eviivo Login - The Original All-in-One Booking SuiteHello again! Sign in to your eviivo suite account to view you booking calendar.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/45f80b8f6ddb7c6667f05e4a8d2fbc54.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxzpaxzvlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-06 11:21:00.000000",
+    "disclosedDate": "2024-05-06 13:43:11.670941"
+  }
+}

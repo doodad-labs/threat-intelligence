@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-17A586",
+  "type": "ransomware-incident",
+  "title": "CVK Hotels & Resorts_Turkey ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CVK Hotels & Resorts_Turkey",
+    "country": "TR",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We would like to draw your attention to the fact that even after being notified of the leak, the management of this organization treated it with complete indifference. If you are one of this organization's customers, rest assured that they couldn't care less about your personal data and who will use it and how.\r ----------------\r CVK Hotels & Resorts offers luxury accommodations in the heart of Istanbul, providing guests with a blend of traditional Turkish hospitality and modern comfort. The company operates several hotels, including the CVK Park Bosphorus Hotel, CVK Park Bosphorus Residences, and CVK Taksim Hotel, catering to both leisure and business travelers. Their services include fine dining, spa and fitness facilities, and event spaces, ensuring a comprehensive experience for their clients. With a focus on creating memorable stays, CVK Hotels & Resorts also features a rewards program for guests to earn benefits during their visits.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a783a0deda70ae617775ed267c0b1e8f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1zliehvdgvscyamifjlc29ydhnfvhvya2v5qgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-17 10:00:00.000000",
+    "disclosedDate": "2025-12-17 21:49:22.799162"
+  }
+}

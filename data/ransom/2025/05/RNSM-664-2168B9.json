@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-2168B9",
+  "type": "ransomware-incident",
+  "title": "www.axxoshotels.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.axxoshotels.com",
+    "domain": "axxoshotels.com",
+    "country": "DE",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "IPT – customer data – 2025 bookings – identity cards and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/70036e45f89e21ca338ec4548e9eef19.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmf4eg9zag90zwxzlmnvbubzdg9ybw91cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-21 11:51:27.997101",
+    "disclosedDate": "2025-05-21 11:52:41.096366"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-1511D5",
+  "type": "ransomware-incident",
+  "title": "BRAZIL GOV ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BRAZIL GOV",
+    "domain": "santoantoniodapatrulha.rs.gov.br",
+    "country": "BR",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Santoantoniodapatrulha.rs.gov.br : City Hall of Santo...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/97cb708e95ad103373a2145f39ec9431.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qljbwklmiedpvkbhcmn1c21lzglh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-08 00:01:57.000000",
+    "disclosedDate": "2024-05-15 05:40:59.069123"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-19C513",
+  "type": "ransomware-incident",
+  "title": "New Jersey Association on Correction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "New Jersey Association on Correction",
+    "domain": "njaconline.org",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The New Jersey Association on Correction (NJACon) has a revenue stream that includes program services, investment income, and potentially other sources. In the fiscal year ending June 2024, program services revenue was $5,510,221 with a 4.8% increase. Investment income and dividends totaled $34,775, experiencing a 17.8% increase. The organization's total revenue for 2024 was reported as $12.6 million, with expenses at $13.1 million. The association also has received over $10.7 million in federal grants.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv3ieplcnnlesbbc3nvy2lhdglvbibvbibdb3jyzwn0aw9uqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-18 10:00:00.000000",
+    "disclosedDate": "2025-06-19 04:40:35.193375"
+  }
+}

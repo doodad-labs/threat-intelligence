@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-658-07F572",
+  "type": "ransomware-incident",
+  "title": "Winnebago Public School Foundation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Winnebago Public School Foundation",
+    "domain": "winnebagopublicschools.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Winnebago Public School Foundation Inc is a company that employs 20 to 49 people and has 1Mto5M of revenue. The company is headquartered in Winnebago.In your disposition , personal data of employees and students, SQL databases.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/70bbabb2335545365b5d63db88e9ee06.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lubmviywdvifb1ymxpyybty2hvb2wgrm91bmrhdglvbkbpbnrlcmxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.siouxlandproud.com/news/local-news/winnebago-public-schools-experiences-cyberattack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-07 11:14:04.839051",
+    "disclosedDate": "2024-11-07 11:14:06.006864"
+  }
+}

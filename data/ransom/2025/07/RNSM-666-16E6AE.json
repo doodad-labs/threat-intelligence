@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-666-16E6AE",
+  "type": "ransomware-incident",
+  "title": "Artemis Healthcare, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Artemis Healthcare, Inc",
+    "domain": "arianadx.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "crypto24",
+    "name": "crypto24",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "It contains sensitive personal data, including medical records, official documents, and imaging files of millions of patients, as well as various databases.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxj0zw1pcybizwfsdghjyxjllcbjbmnay3j5chrvmjq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-12-23-artemis-healthcare-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-18",
+    "disclosedDate": "2025-07-16 16:28:27.276941"
+  }
+}

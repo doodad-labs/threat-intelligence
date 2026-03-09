@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-653-305030",
+  "type": "ransomware-incident",
+  "title": "lambertz.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lambertz.de",
+    "domain": "lambertz.de",
+    "country": "DE",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 800000000000,
+    "description": "The history of Lambertz is impressive, exciting and rich - Lambertz manages to make the leap from a small bakery in Aachen to one of the oldest confectionery manufacturers in Germany. In 2021, the traditional and family-owned company celebrated its 333rd anniversary.SITE: www.lambertz.de Address : Henry Lambertz GmbH & Co. KG: Borchersstrasse 18 D-52072 Aachen Tel# +49 (0)241 / 89 05-0ALL DATA SIZE: ≈800gb+ 1. Employee Personnel data… 2. Firm data: FiBu, Human Resources… 3. Confidential data… & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e114ff6cfe7a2f239ad2672e5b4635c0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgftymvydhouzgvaymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-30 07:11:47.678882",
+    "disclosedDate": "2024-06-30 07:11:48.478508"
+  }
+}

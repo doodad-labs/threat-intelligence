@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-636-31570A",
+  "type": "ransomware-incident",
+  "title": "2cara.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "2cara.fr",
+    "domain": "2cara.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Vous voulez nous rencontrer pour faire évoluer la gestion de votre entreprise ou parler d'un projet de création ? Vous voulez mieux connaître nos services, nos tarifs ? Laissez-nous vos coordonnées et nous reprendrons contact sans délai. Les champs m...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/mmnhcmeuznjabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-31 03:06:23.522735",
+    "disclosedDate": "2023-01-31 03:06:23.522735"
+  }
+}

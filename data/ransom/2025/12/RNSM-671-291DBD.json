@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-291DBD",
+  "type": "ransomware-incident",
+  "title": "klax.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "klax.de",
+    "domain": "klax.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wir sind Klax Klax fördert individuelles Lernen und Kreativität mit Bildungs- und Freizeitangeboten...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/666ca9e42d3d6f0044a34f234d698ad2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2xhec5kzubsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-29 11:35:00.000000",
+    "disclosedDate": "2025-12-29 19:52:45.418391"
+  }
+}

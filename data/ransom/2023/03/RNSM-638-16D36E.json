@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-16D36E",
+  "type": "ransomware-incident",
+  "title": "SWEEPINGCORP.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SWEEPINGCORP.COM",
+    "domain": "sweepingcorp.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "403 Forbidden",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/29d36f1bf067a56add5152f8046f208a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1dfrvbjtkddt1jqlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-16 23:31:44.488064",
+    "disclosedDate": "2023-03-16 23:31:44.488082"
+  }
+}

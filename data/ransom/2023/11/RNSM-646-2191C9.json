@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-2191C9",
+  "type": "ransomware-incident",
+  "title": "bnpmedia.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bnpmedia.com",
+    "domain": "bnpmedia.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Our services. Our services focus on some of your most important business and marketing needs. From infusing your decisions with the confidence that high-quality research provides, to developing authoritative, industry-relevant content or continuing e...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/56b149ce85189b691af23ae90ae0cbb7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym5wbwvkaweuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-02 00:00:00.000000",
+    "disclosedDate": "2023-11-21 20:29:31.957042"
+  }
+}

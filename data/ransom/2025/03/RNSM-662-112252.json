@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-112252",
+  "type": "ransomware-incident",
+  "title": "jockeysalud.com.pe ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jockeysalud.com.pe",
+    "domain": "jockeysalud.com.pe",
+    "country": "PE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Jockeysalud.com.pe\" is a healthcare institution based in Lima, Peru. They are committed to providing the highest quality of health service to the public. Their main wings include specialized healthcare, preventive medicine, medical examination, nursing services, and emergency care. They are highly equipped with cutting-edge medical technology and professional medical staff to enhance their service standards.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc8e8fddc5c2b3e9fe759c0a0d3172c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/am9ja2v5c2fsdwquy29tlnblqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-11 22:49:01.723365",
+    "disclosedDate": "2025-03-11 22:50:24.156737"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-654-29D3DC",
+  "type": "ransomware-incident",
+  "title": "American Golf ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "American Golf",
+    "domain": "americangolf.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 154900000000,
+    "description": "American Golf is one of the operators in the golf industry today. Owner, lessee, and manager of golf courses and country clubs for over 50 years. American Golf corporate office is located in 909 N Pacific Coast Hwy, El Segundo, California, 90245, United States and has 379 employees. The total amount of data leakage is 154.9 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4edcb700b2968f19f545f472e6511fa3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1lcmljyw4gr29szkbtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-12 07:40:43.000000",
+    "disclosedDate": "2024-07-29 07:38:34.792118"
+  }
+}

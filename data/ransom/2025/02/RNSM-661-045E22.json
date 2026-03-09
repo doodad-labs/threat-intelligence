@@ -1,0 +1,48 @@
+{
+  "id": "RNSM-661-045E22",
+  "type": "ransomware-incident",
+  "title": "cornwelltools.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cornwelltools.com",
+    "domain": "cornwelltools.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "<p>Hand, Power &amp; Lawn-care Tools.<br><br>“Headquartered in Wadsworth, Ohio, Cornwell Quality Tools is the oldest mobile tool company, with a market presence since 1919. A family and employee-owned company, Cornwell is committed to the pride that accompanies the sale of quality materials. With the use of high-grade alloy steel, combined with modern heat-treating methods, Cornwell has continued to produce the finest tools in the world, that have truly been \"The Choice of Professionals®\" for over 100 years.”<br><br>Website: <a href=\"https://www.cornwelltools.com/\">https://www.cornwelltools.com/</a><br><br>Revenue : $218.7M<br><br>Address: 667 Seville Rd, Wadsworth, Ohio, 44281, United States<br><br>Phone Number: (330) 336-3506<br><br><mark class=\"marker-yellow\"><strong>Download link #1:</strong></mark> &nbsp;<a href=\"https://6wuivqgrv2g7brcwhjw5co3vligiqowpumzkcyebku7i2busrvlxnzid.onion/CORNWELL/PROOF/\">https://6wuivqgrv2g7brcwhjw5co3vligiqowpumzkcyebku7i2busrvlxnzid.onion/CORNWELL/PROOF/</a><br><br><mark class=\"marker-yellow\"><strong>Mirror:</strong></mark> <a href=\"https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/CORNWELL/PROOF/\">https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/CORNWELL/PROOF/</a><br><br><mark class=\"marker-yellow\"><strong>DATA DESCRIPTIONS:</strong></mark> Personal Identifiable information (both employees and customers), customer confidential data, corporate documents\\contracts\\NDAs, TechCredit scans with customer personal information, corporate financial docs\\payroll\\taxes, corporate and personal correspondence, outlook exports, databases with Personal Identifiable Infomation and Credit Cards information, including SSN + DOB, credit card number and expiration date (over 1 million records) with decryption keys and much more.</p><p><img src=\"/uploads/8524393_6ccbb786f8.png\" alt=\"8524393.png\"><img src=\"/uploads/Sherman_James_B379_Drivers_License_babfae2b43.png\" alt=\"Sherman, James B379 Drivers License.png\"><img src=\"/uploads/W9_Form_4a1d713bf6.png\" alt=\"W9 Form.png\"><img src=\"/uploads/Duchart_Mark_B625_Drivers_License_4c20abfbad.png\" alt=\"Duchart, Mark B625 Drivers License.png\"><img src=\"/uploads/8522489_c054f6d28b.png\" alt=\"8522489.png\"></p>",
+    "claimed_data_types": [
+      "phone-numbers",
+      "government-identifiers",
+      "financial-data",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3262ea7ec99e56769bf8b2dfa437e070.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29ybndlbgx0b29scy5jb21ay2fjdhvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-09-04-cornwell-quality-tools-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-18 00:00:00.000000",
+    "disclosedDate": "2025-02-04 09:00:34.988599"
+  }
+}

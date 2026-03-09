@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-650-2001D5",
+  "type": "ransomware-incident",
+  "title": "interluxury.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "interluxury.com",
+    "domain": "interluxury.com",
+    "country": "CH",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "ILG is one of the world’s leading fashion and lifestyle accessories companies, possessing a portfolio of internationally renowned licensed brands distributed worldwide. ILG is a recognized leader in the watchmaking market and an established player in the branded eyewear, jewelry and leather goods markets.SITE: www.interluxury.com Address : 3c Bahnhofpl., Aarau, Aargau, 5000, SwitzerlandALL DATA SIZE: ~1tb 1. Benutzer data 2. Buchhaltung 3. Firmen 4. Personal 5. Design and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/48b7e0609a27bede4dcc1a0344978886.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw50zxjsdxh1cnkuy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-23 00:00:00.000000",
+    "disclosedDate": "2024-03-20 10:14:44.348070"
+  }
+}

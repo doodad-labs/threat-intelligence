@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-642-26AA0C",
+  "type": "ransomware-incident",
+  "title": "theallisoncom ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "theallisoncom",
+    "domain": "theallison.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 112000000000,
+    "description": "1500 ++ SSN of employees as well as customer data and all accounting 112GB  DATA:http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion/data Site with SSN DOB EMAIL  https://theallison.xyz",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f8b69672359452acf008134052278897.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghlywxsaxnvbmnvbubhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-06-14 10:03:42.000000",
+    "disclosedDate": "2023-07-26 17:14:02.630071"
+  }
+}

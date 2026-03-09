@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-198579",
+  "type": "ransomware-incident",
+  "title": "ipu.co.il ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ipu.co.il",
+    "domain": "ipu.co.il",
+    "country": "IL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "IPU Industries Ltd. is a privately held Israeli industrial manufacturing company headquartered in Kiryat Gat, Israel, specialising in advanced plastic …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/74286a7c1b52fee01ff49a32b5af4873.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axb1lmnvlmlsqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-19 19:35:18.506617",
+    "disclosedDate": "2026-01-19 19:35:33.846969"
+  }
+}

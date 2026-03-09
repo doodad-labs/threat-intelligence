@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09E7E6",
+  "type": "ransomware-incident",
+  "title": "dagma.com.ar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dagma.com.ar",
+    "domain": "dagma.com.ar",
+    "country": "AR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "NUESTROS VALORES \"Con visión y perseverancia de crecimiento\" Nos basamos en la conﬁanza, el respeto y la lealtad para con nuestros empleados y clientes, porque entendemos que son la base para construir juntos.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8cfe2a4dbe0faf33f5c059d941e47e17.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgfnbweuy29tlmfyqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-21 00:00:00.000000",
+    "disclosedDate": "2024-05-09 16:36:07.413745"
+  }
+}

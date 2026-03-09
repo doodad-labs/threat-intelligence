@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-653-06DB84",
+  "type": "ransomware-incident",
+  "title": "Radiosurgery New York  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Radiosurgery New York ",
+    "domain": "rsny.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 64700000000,
+    "description": "Radiosurgery New York - are one of the leading centers for radiation and radiosurgery worldwide. Radiosurgery New York corporate office is located in 1384 Broadway at 38 Th St, New York City, New York, 10018, United States and has 7 employees. The total amount of data leakage is 64.7 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umfkaw9zdxjnzxj5ie5ldybzb3jriebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-04 14:31:54.12345",
+    "disclosedDate": "2024-06-06 07:40:51.248894"
+  }
+}

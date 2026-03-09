@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-069443",
+  "type": "ransomware-incident",
+  "title": "McLaughlin & Stern ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "McLaughlin & Stern",
+    "domain": "mclaughlinstern.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "McLaughlin & Stern, LLP is a full-service law firm founded in 1898 with more than 100 attorneys repres…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twnmyxvnagxpbiamifn0zxjuqfnpbgvudfjhbnnvbudyb3vw",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-07-03-mclaughlin-stern-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-05 01:27:59.514962",
+    "disclosedDate": "2025-05-06 18:16:45.268018"
+  }
+}

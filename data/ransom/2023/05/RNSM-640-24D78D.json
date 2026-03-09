@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-24D78D",
+  "type": "ransomware-incident",
+  "title": "interstateplastics.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "interstateplastics.com",
+    "domain": "interstateplastics.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Interstate Plastics is a multi-branch nation-wide industrial plastics distributor offering a large selection of plastic sheet, plastic rod, plastic tube, and custom plastic profiles.Our manufacturing facilities can provide simple cut-to-size or c...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/801f846b9b33ee36532964c739d4c31e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw50zxjzdgf0zxbsyxn0awnzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-24 09:47:00.000000",
+    "disclosedDate": "2023-05-24 10:42:17.147052"
+  }
+}

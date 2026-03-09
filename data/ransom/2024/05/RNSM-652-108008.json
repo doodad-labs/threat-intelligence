@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-108008",
+  "type": "ransomware-incident",
+  "title": "21stcenturyvitamins.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "21stcenturyvitamins.com",
+    "domain": "21stcenturyvitamins.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://mega.nz/folder/E3kmAZyT#KkvAaGlF3g0Pud4cwhxZpgWe have a lot more from 21st Century Vitamins. Contact us for a deal or we publish after week.21st Century, one of the largest international manufacturers of dietary supplements",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dc1edd93d99241bba069774b59be9443.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/mjfzdgnlbnr1cnl2axrhbwlucy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-10 20:15:00.000000",
+    "disclosedDate": "2024-05-10 22:28:09.653003"
+  }
+}

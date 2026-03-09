@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-065975",
+  "type": "ransomware-incident",
+  "title": "NG-BLU Networks ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NG-BLU Networks",
+    "domain": "ngblunetworks.nl",
+    "country": "NL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "NGBLU provides partners with unique, innovative and infrastructure-independent telecommunications and data services.We are ready to upload a lot of sensitive corporate documents such as: contact numbers and e-mail addresses of employees and customers, financial data (audits, payment details, reports), confidential agreements and contracts, employee BSN and passport numbers and scans, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tkctqkxvie5ldhdvcmtzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-22 00:00:00.000000",
+    "disclosedDate": "2025-02-06 14:50:52.773883"
+  }
+}

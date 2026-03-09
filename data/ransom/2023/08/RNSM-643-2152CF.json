@@ -1,0 +1,45 @@
+{
+  "id": "RNSM-643-2152CF",
+  "type": "ransomware-incident",
+  "title": "Seiko Group Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Seiko Group Corporation",
+    "domain": "seiko.co.jp",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000000,
+    "description": "Seiko Group Corporation, commonly known as Seiko, is a Japanese maker of watches, clocks, electronic devices, semiconductors, jewelry, and optical products. This company has low security of its network and products. As a result it's network has been breached by ALPHV Ransomware Team and a lot of critical data was stolen from Seiko's network through this breach. Total volume of stolen data is 2,5TB. Downloaded data includes sensitive and confidential information about Seiko's business processes and products.   Short list of downloaded data:   - watch blueprints  - new watch models development  - watch designs  - watch designs development  - unreleased models  - working prototype models with images  - points of sales information  - sales reports  - invoices and orders  - payments  - shops blueprints  - employees working hours  - employees emails  - employees related documents  - employees personal sensitive data  - contracts and agreements  - confidential documents  - product and material tests  - marketing strategies  - financial data  - audits  - passports of visitors  - intercompany documents  - NPC product development  - NPC product tests  - NPC production development  - NPC quality control  - And this is definitely not the full list of data we have downloaded form Seiko's network.   Since company's top management decided not to negotiate about data recovery we are starting to publish their data. In following samples you can find some blueprints and confidential files.   All the data belonging to Seiko Group Corporation will be released for free download in closest future in case if we will not make an agreement with their management or we will not met an offer from buyers which we will not be able to refuse. This sample of files is free to share, because of Seiko's top management's indifference to this incident.",
+    "claimed_data_types": [
+      "email-addresses",
+      "passport-numbers",
+      "financial-data",
+      "internal-documents",
+      "blueprints"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9920b3c0d7ec937ac2ee01ced558c890.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vpa28gr3jvdxagq29ycg9yyxrpb25aywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-21 05:23:28.123456",
+    "disclosedDate": "2023-08-21 05:29:49.258631"
+  }
+}

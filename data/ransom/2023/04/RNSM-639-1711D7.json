@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-1711D7",
+  "type": "ransomware-incident",
+  "title": "validcertificadora.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "validcertificadora.com.br",
+    "domain": "validcertificadora.com.br",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "crosslock",
+    "name": "crosslock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "VALID Certificadora Digital Ltda is a company that operates in the Farming industry. It employs 501-1,000 people and has $100M-$250M of revenue. The company is headquartered in São Paulo, Sp, Braz...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/06bcbdd07e365a2f1108be72bc10a348.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmfsawrjzxj0awzpy2fkb3jhlmnvbs5ickbjcm9zc2xvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-17 17:00:38.913266",
+    "disclosedDate": "2023-04-17 17:00:38.913300"
+  }
+}

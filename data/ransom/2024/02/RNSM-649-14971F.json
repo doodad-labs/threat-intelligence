@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-14971F",
+  "type": "ransomware-incident",
+  "title": "mmiculinary.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mmiculinary.com",
+    "domain": "mmiculinary.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Greetings!Today we are posting here the new company, \"Mr Mudbug .Inc\".Company Description: MMIculinary has been producing quality food products since 1986.Headquarters: 615 23rd St S, Birmingham, Alabama, 35233, USAMail: vincemaenza@m...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/289a324a012d106adf3cf83d584ca0c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw1py3vsaw5hcnkuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-14 03:10:00.000000",
+    "disclosedDate": "2024-02-14 04:17:42.768883"
+  }
+}

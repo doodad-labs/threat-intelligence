@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-655-301FCC",
+  "type": "ransomware-incident",
+  "title": "www.primariatm.ro ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.primariatm.ro",
+    "domain": "primariatm.ro",
+    "country": "RO",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The website \"www.primariatm.ro\" is the official online portal for the City Hall of Timișoara, Romania. It serves as a comprehensive resource for residents and visitors, offering information about municipal services, local governance, public announcements, and community events. The site aims to facilitate communication between the city administration and the public, enhancing transparency and accessibility.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a4fff06d6216c156bf54b0006db39df3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnbyaw1hcmlhdg0ucm9acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.primariatm.ro/2024/08/26/atac-cibernetic",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-30 14:48:33.000000",
+    "disclosedDate": "2024-08-30 17:10:24.378745"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-05CFD9",
+  "type": "ransomware-incident",
+  "title": "Red Hat, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Red Hat, Inc.",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "shinyhunters",
+    "name": "shinyhunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Red Hat, Inc. is a leading American multinational software company that provides open-source software products to businesses. It became a subsidiary of IBM in 2019. The company is best known for Red Hat Enterprise Linux, a top-level operating system. Other notable offering includes its architecture service, cloud computing (virtualization), and storage solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c30b0e6093792dede6892ec95661a782.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvkiehhdcwgsw5jlkbzagluewh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-13 00:00:00.000000",
+    "disclosedDate": "2025-10-05 19:21:37.562380"
+  }
+}

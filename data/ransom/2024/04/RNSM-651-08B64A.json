@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-651-08B64A",
+  "type": "ransomware-incident",
+  "title": "Speditionweise.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Speditionweise.de",
+    "domain": "speditionweise.de",
+    "country": "DE",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country: germany",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3blzgl0aw9ud2vpc2uuzgvay2xvyws=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-08 08:34:46.039923",
+    "disclosedDate": "2024-04-08 08:34:46.039951"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-28B12F",
+  "type": "ransomware-incident",
+  "title": "rockymountaingastro.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rockymountaingastro.com",
+    "domain": "rockymountaingastro.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rocky Mountain Gastroenterology is a healthcare provider specializing in the diagnosis and treatment of gastrointestinal disorders. They offer a range of services including endoscopy, colonoscopy, and liver disease management. The practice is committed to patient-centered care, utilizing advanced technology and a team of experienced gastroenterologists to ensure high-quality medical treatment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/96e4831a642ea00aa1b0494e0002bf34.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm9ja3ltb3vudgfpbmdhc3ryby5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-28 16:23:54.000000",
+    "disclosedDate": "2024-09-28 19:35:22.781523"
+  }
+}

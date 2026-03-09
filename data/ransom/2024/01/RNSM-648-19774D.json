@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-19774D",
+  "type": "ransomware-incident",
+  "title": "pratt.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pratt.edu",
+    "domain": "pratt.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Colleges & UniversitiesEstablished in 1887 and located in Brooklyn, New York, the Pratt Institute is a private university with programs primarily in engineering, architecture, and fine arts.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/24a1616aecdea84c50a60448b47ef662.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjhdhquzwr1qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-19 20:33:00.000000",
+    "disclosedDate": "2024-01-19 22:26:10.237871"
+  }
+}

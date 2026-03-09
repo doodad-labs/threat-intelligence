@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-304000",
+  "type": "ransomware-incident",
+  "title": "blunk-gmbh.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "blunk-gmbh.de",
+    "domain": "blunk-gmbh.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Blunk GmbH is a German company that specializes in agricultural services. It operates in three main sectors: agriculture, renewable energies, and machinery. In agriculture, they offer services like soil cultivation, sowing, plant protection, and harvesting. Their renewable energies division manages biogas plants and wind turbines. In the machinery sector, they sell, rent, and repair various agricultural machines.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymx1bmstz21iac5kzubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-30 02:55:17.384241",
+    "disclosedDate": "2025-03-30 02:55:22.382455"
+  }
+}

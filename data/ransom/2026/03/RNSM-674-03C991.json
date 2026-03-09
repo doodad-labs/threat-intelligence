@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-674-03C991",
+  "type": "ransomware-incident",
+  "title": "ripobec.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ripobec.com",
+    "domain": "ripobec.com",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Is a Canadian family-owned agricultural supply company headquartered in Saint-Apollinaire, Quebec, specialising in the production and distribution of premium wood …",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmlwb2jlyy5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-03 21:50:29.286985",
+    "disclosedDate": "2026-03-03 21:51:00.798687"
+  }
+}

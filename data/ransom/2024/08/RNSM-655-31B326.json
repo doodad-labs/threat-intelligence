@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-31B326",
+  "type": "ransomware-incident",
+  "title": "Southwest Traders ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Southwest Traders",
+    "domain": "southwesttraders.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link >>",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7631036cc45090e54db108ded85830fb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u291dgh3zxn0ifryywrlcnnaymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-07 00:00:00.000000",
+    "disclosedDate": "2024-08-31 20:20:21.415262"
+  }
+}

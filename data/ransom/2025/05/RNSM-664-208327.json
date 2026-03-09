@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-664-208327",
+  "type": "ransomware-incident",
+  "title": "Making Tech Happen ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Making Tech Happen",
+    "domain": "makingtechhappen.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 8000000000,
+    "description": "Making Tech Happen is a software solutions provider based in Santa Rosa, CA.We are going to upload more than 8 GB of corporate documents suchas: employee personal documents (passports, driver licenses, SSNs), accounting files, lots of projects files, etc. A diary recordof one of employees as a bonus.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfraw5nifrly2ggsgfwcgvuqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-12 00:00:00.000000",
+    "disclosedDate": "2025-05-20 13:10:34.149256"
+  }
+}

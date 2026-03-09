@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-641-293FC1",
+  "type": "ransomware-incident",
+  "title": "KIRKLAND.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KIRKLAND.COM",
+    "domain": "kirkland.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - Kirkland & Ellis LLP",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0lss0xbtkquq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-29 11:38:36.297773",
+    "disclosedDate": "2023-06-29 11:38:36.297795"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-663-284D68",
+  "type": "ransomware-incident",
+  "title": "ARRCO LSM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ARRCO LSM",
+    "domain": "arrco.no",
+    "country": "NO"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "​​​​​Data has been leaked shame on you and all who work with you",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6622d4de0332d1c110eb4e503b5fb2e8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvjsq08gtfnnqg5vdme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-15 00:00:00.000000",
+    "disclosedDate": "2025-04-28 13:21:49.433168"
+  }
+}

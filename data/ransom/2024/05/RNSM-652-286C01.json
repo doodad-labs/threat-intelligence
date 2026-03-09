@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-286C01",
+  "type": "ransomware-incident",
+  "title": "theblakefirm.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "theblakefirm.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dan0n",
+    "name": "dAn0n",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 740000000000,
+    "description": "The total size of stolen information is 740 GB. This leak contains corporate information of the company: Financial, legal, information on employees and partners. Information on clients was also receiv...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b2c5501a1c3f1f900c05104770295237.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghlymxha2vmaxjtlmnvbubkqw4wbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-30 00:00:00.000000",
+    "disclosedDate": "2024-05-28 21:23:45.581542"
+  }
+}

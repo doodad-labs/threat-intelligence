@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-2273E2",
+  "type": "ransomware-incident",
+  "title": "onedayevent.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "onedayevent.com",
+    "domain": "onedayevent.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "One Day Event Insurance is a special event insurance company that sells event liability insurance for all types of events such as weddings, birthdays, vendors, concerts, barmitzvahs, and festivals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c67b967873e2dd5fb78d66bd4e9dee84.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b25lzgf5zxzlbnquy29tqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-22 00:42:31.716156",
+    "disclosedDate": "2024-10-22 00:42:32.752120"
+  }
+}

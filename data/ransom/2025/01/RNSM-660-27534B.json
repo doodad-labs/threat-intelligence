@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-27534B",
+  "type": "ransomware-incident",
+  "title": "www.ykp.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.ykp.com.br",
+    "domain": "ykp.com.br",
+    "country": "BR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.ykp.com.br",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a92422fa667fb90eeeecb8e56bc51ec1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnlrcc5jb20uynjaymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:34:43.237927",
+    "disclosedDate": "2025-01-27 07:35:47.549845"
+  }
+}

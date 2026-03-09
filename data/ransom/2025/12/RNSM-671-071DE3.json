@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-071DE3",
+  "type": "ransomware-incident",
+  "title": "tracsa.com.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tracsa.com.mx",
+    "domain": "tracsa.com.mx",
+    "country": "MX",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Distribuidor autorizado de soluciones industriales para venta y renta de maquinaria pesada, industri...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4b53dbd2697c8af077b4cfbaf2ed90f3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhjhy3nhlmnvbs5teebsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-18 00:00:00.000000",
+    "disclosedDate": "2025-12-07 10:21:30.098135"
+  }
+}

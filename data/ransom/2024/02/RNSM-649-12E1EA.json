@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-12E1EA",
+  "type": "ransomware-incident",
+  "title": "cabc.com.ar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cabc.com.ar",
+    "domain": "cabc.com.ar",
+    "country": "AR",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cámara Arbitral de la Bolsa de Cereales",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b2e80411bdfddb3c98bce05b83932b63.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fiyy5jb20uyxjabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 08:57:00.000000",
+    "disclosedDate": "2024-02-12 10:28:36.812021"
+  }
+}

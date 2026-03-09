@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-197431",
+  "type": "ransomware-incident",
+  "title": "americannational.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "americannational.com",
+    "domain": "americannational.com",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "americannational.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d47b9ee53b39936fd998d9a060c5b9e7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw1lcmljyw5uyxrpb25hbc5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-15 04:52:00.000000",
+    "disclosedDate": "2024-04-19 12:00:53.126055"
+  }
+}

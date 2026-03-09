@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-13AC01",
+  "type": "ransomware-incident",
+  "title": "Cinvestav ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cinvestav",
+    "domain": "cinvestav.mx",
+    "country": "MX",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional is a public Mexican institution focused on the development...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8dbf0fe2ee195c69c0e4b92d9f2daca6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2ludmvzdgf2qgnvaw5iyxnly2fydgvs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-13 14:18:39.087613",
+    "disclosedDate": "2025-11-13 14:18:54.055661"
+  }
+}

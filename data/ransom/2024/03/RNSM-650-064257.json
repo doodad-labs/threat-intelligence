@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-064257",
+  "type": "ransomware-incident",
+  "title": "Medical Billing Specialists ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Medical Billing Specialists",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 120000000000,
+    "description": "Medical Billing Specialists helps U.S. practices from California to Massachusetts with medical billing solutions and online medical billing software to earn significantly more revenue and reduce expenses. Over 120GB of data will be uploaded here on our blog soon. You will find detailed employees and patients information - addresses, DOB, emails, background checks, phones, correspondence with clients, NDAs and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvkawnhbcbcawxsaw5nifnwzwnpywxpc3rzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-06 14:43:39.033256",
+    "disclosedDate": "2024-03-06 14:43:39.265920"
+  }
+}

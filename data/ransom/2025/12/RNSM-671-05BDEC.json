@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-05BDEC",
+  "type": "ransomware-incident",
+  "title": "mactavishco.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mactavishco.ca",
+    "domain": "mactavishco.ca",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MacTavish & Co. is a small Canadian boutique retailer located in Medicine Hat, Alberta, specializing in curated home décor, gifts, …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7e90aa16e2460936114d0e48ca5c6579.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfjdgf2axnoy28uy2fac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-05 19:58:34.467304",
+    "disclosedDate": "2025-12-05 19:58:50.959805"
+  }
+}

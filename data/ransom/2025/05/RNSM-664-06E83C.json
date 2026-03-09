@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-06E83C",
+  "type": "ransomware-incident",
+  "title": "ADM LAW ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ADM LAW",
+    "domain": "admlaw.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1983 and headquartered in New York, New York, Ahmuty, Demers & McManus (ADM) is a full-serv…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qurniexbv0btawxlbnrsyw5zb21hcm91ca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-20 00:28:38.317610",
+    "disclosedDate": "2025-05-06 18:16:18.931117"
+  }
+}

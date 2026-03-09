@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-10A111",
+  "type": "ransomware-incident",
+  "title": "FMFCU.ORG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FMFCU.ORG",
+    "domain": "fmfcu.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Franklin Mint Federal Credit Union",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1dae9b891920a99eb3b8e2368d21d38c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rk1gq1uut1jhqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-10 19:46:50.315464",
+    "disclosedDate": "2023-07-10 19:46:50.315490"
+  }
+}

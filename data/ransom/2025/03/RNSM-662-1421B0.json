@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-662-1421B0",
+  "type": "ransomware-incident",
+  "title": "Taiwan - Mackay Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Taiwan - Mackay Hospital",
+    "domain": "mmh.org.tw",
+    "country": "TW",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Taiwan - Mackay Hospital",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/196ff6b74d55b424ef7304382cd1da5f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgfpd2fuic0gtwfja2f5iehvc3bpdgfsqgjhynvrmg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://focustaiwan.tw/society/202504030019",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-13 14:23:38.000000",
+    "disclosedDate": "2025-03-14 08:02:46.812543"
+  }
+}

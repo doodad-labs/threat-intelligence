@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-04A286",
+  "type": "ransomware-incident",
+  "title": "krigerconstruction.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "krigerconstruction.com",
+    "domain": "krigerconstruction.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[IA generated] Kriger Construction is a company specializing in construction and engineering services. They offer a range of services including residential, commercial, and infrastructure projects. Known for their commitment to quality and innovation, Kriger Construction emphasizes safety and sustainability in all their projects. Their team of skilled professionals works closely with clients to deliver customized solutions that meet specific needs and timelines.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4a920dc6c5bb2c018a244934a46fffc3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3jpz2vyy29uc3rydwn0aw9ulmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-03 22:49:44.000000",
+    "disclosedDate": "2024-11-04 07:30:48.962587"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-01B8A3",
+  "type": "ransomware-incident",
+  "title": "United Sleep Diagnostics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "United Sleep Diagnostics",
+    "domain": "uniteddx.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1200000000000,
+    "description": "United Sleep Diagnostics specializes in the monitoring of sleep disorders. United Sleep Diagnostics corporate office is located in 3635 Bell Blvd Ste 202, Bayside, New York, 11361, United States and has 106 employees. The total amount of data leakage is 1.20 TB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pdgvkifnszwvwierpywdub3n0awnzqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-01 15:28:32.000000",
+    "disclosedDate": "2024-11-01 18:42:13.128027"
+  }
+}

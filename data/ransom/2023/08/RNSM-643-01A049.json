@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-01A049",
+  "type": "ransomware-incident",
+  "title": "Newton IT Solutions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Newton IT Solutions",
+    "domain": "newtonit.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Newton IT Solutions is a managed services provider providing innovative business technology solutions. We pride ourselves on having our advanced, wholly owned and private infrastructure in the cloud, allowing our clients...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/11a5634b16e5fe5daf495bea1048d309.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv3dg9uieluifnvbhv0aw9uc0bub2vzy2fwzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-27 00:00:00.000000",
+    "disclosedDate": "2023-08-01 08:50:26.499681"
+  }
+}

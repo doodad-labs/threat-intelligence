@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-662-290E0B",
+  "type": "ransomware-incident",
+  "title": "Geass ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Geass",
+    "domain": "geass.it",
+    "country": "IT",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 156000000000,
+    "description": "GeassGeass provides dental implants and CAD-CAM technology for patients looking for the perfect smile. Professionals in the dental industry can access a dedicated platform within Geass' world. The company is based in Pozzuolo del Friuli, Italy.Geo: Italy - Leak size: 156 GB Archive - Contains: Files, SQL",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2vhc3nac2fyy29tyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-29 08:04:53.055222",
+    "disclosedDate": "2025-03-29 08:04:55.417880"
+  }
+}

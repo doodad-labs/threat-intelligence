@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-25FFA5",
+  "type": "ransomware-incident",
+  "title": "www.olanocorp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.olanocorp.com",
+    "domain": "olanocorp.com.pe",
+    "country": "PE",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Olanocorp is a company that specializes in providing innovative solutions and services in the field of logistics and supply chain management. They focus on optimizing transportation, warehousing, and distribution processes to enhance efficiency and reduce costs for their clients. With a commitment to technology and sustainability, Olanocorp aims to deliver high-quality, tailored solutions to meet the unique needs of businesses.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ac87556f0669ad402edb05fab6d9d1ec.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm9syw5vy29ycc5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 14:48:27.000000",
+    "disclosedDate": "2024-10-25 17:39:12.367755"
+  }
+}

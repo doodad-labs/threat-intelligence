@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-04FB5B",
+  "type": "ransomware-incident",
+  "title": "lscd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lscd",
+    "domain": "lscd.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 11.01.2025. What is The Legal Services Corporation of Delaware, Inc. (LSCD)? LSCD is a non-profit organization that offers legal advice and assistance to people who cannot afford a pr            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e785fdb329ee08c3a6f21d2875e66338.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bhnjzebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-16 00:00:00.000000",
+    "disclosedDate": "2025-01-04 09:35:56.040867"
+  }
+}

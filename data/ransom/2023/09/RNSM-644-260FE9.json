@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-260FE9",
+  "type": "ransomware-incident",
+  "title": "Punto.bg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Punto.bg",
+    "domain": "punto.bg",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We will leak all of the info we have on you if  we dont get paid.We require a ransom of $30,000",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhvudg8uymdacmfuc29tzwq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-26 03:23:14.053120",
+    "disclosedDate": "2023-09-26 03:23:14.053151"
+  }
+}

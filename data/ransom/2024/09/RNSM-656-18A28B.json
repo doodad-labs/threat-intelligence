@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-656-18A28B",
+  "type": "ransomware-incident",
+  "title": "tendam.es ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tendam.es",
+    "domain": "tendam.es",
+    "country": "ES",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "valencialeaks",
+    "name": "ValenciaLeaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data Exfiltrated : ???GB - Leak Date : 04.10.2024:00:01",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ec9a22016f1a609451a383cea73be69.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvuzgftlmvzqfzhbgvuy2lhtgvha3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.surinenglish.com/spain/cortefiel-womensecret-springfield-data-theft-warning-20241012070807-nt.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-18 09:36:27.274518",
+    "disclosedDate": "2024-09-18 09:36:27.724416"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-08194E",
+  "type": "ransomware-incident",
+  "title": "sd69.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sd69.org",
+    "domain": "sd69.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "In partnership with families and our community, District 69 supports every child's development within an environment of belonging.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/822f2aa9ebff19504056e8e01dedf65a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2q2os5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-08 19:48:00.000000",
+    "disclosedDate": "2023-09-08 20:31:34.955028"
+  }
+}

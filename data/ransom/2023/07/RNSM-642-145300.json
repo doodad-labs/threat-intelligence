@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-145300",
+  "type": "ransomware-incident",
+  "title": "PINNACLETPA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PINNACLETPA.COM",
+    "domain": "pinnacletpa.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - Pinnacle Claims Management",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9181d9b352daed9b54fb119b8d7c7614.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uelotkfdtevuueeuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-14 15:59:58.935071",
+    "disclosedDate": "2023-07-14 15:59:58.935100"
+  }
+}

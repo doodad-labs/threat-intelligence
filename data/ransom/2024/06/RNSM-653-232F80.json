@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-232F80",
+  "type": "ransomware-incident",
+  "title": "marvell.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "marvell.com",
+    "domain": "marvell.com",
+    "country": "SG",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "500+gb https://mega.nz/folder/4qdwVIKR#uMVVp4g0U7VjBAo7UCNT5w The company www.alliedtelesis.com had offices in America (3 offices), Europe, Asia, China, Singapore and so on. We hacked into their network and took data from this company www.at-globa...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c1bb7a92ff25962a586807599a6ea839.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfydmvsbc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-22 18:10:00.000000",
+    "disclosedDate": "2024-06-23 05:45:07.677582"
+  }
+}

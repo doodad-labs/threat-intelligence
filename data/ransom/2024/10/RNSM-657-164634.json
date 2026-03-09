@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-164634",
+  "type": "ransomware-incident",
+  "title": "powiatjedrzejow.pl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "powiatjedrzejow.pl",
+    "domain": "powiatjedrzejow.pl",
+    "country": "PL",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Powiatjedrzejow.pl appears to be associated with the Jędrzejów County in Poland, serving as an informational resource for residents and visitors. It likely offers details about local government services, events, tourism, and community news. The site may also provide contact information and updates on regional initiatives to support the Jędrzejów community and its development.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/acb929303c55237164bad0ec89ec91b2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cg93awf0amvkcnplam93lnbsqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-15 17:37:51.000000",
+    "disclosedDate": "2024-10-16 16:36:12.909121"
+  }
+}

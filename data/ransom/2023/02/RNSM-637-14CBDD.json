@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-14CBDD",
+  "type": "ransomware-incident",
+  "title": "albanesi.com.ar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "albanesi.com.ar",
+    "domain": "albanesi.com.ar",
+    "country": "AR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Grupo Albanesi is a business group that engages in the production of thermal electricity and the distribution of natural gas.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxiyw5lc2kuy29tlmfyqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-14 11:23:08.764741",
+    "disclosedDate": "2023-02-14 11:23:08.764741"
+  }
+}

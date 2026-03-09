@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-30B55A",
+  "type": "ransomware-incident",
+  "title": "fanningfanning.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fanningfanning.com",
+    "domain": "fanningfanning.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Engineering services for Mechanical, Electrical, Plumbing design and plant layout, HVAC, lighting, power, energy conservation and management, utilities",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/569604a26de6fbaac6f2363ae18bb908.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmfubmluz2zhbm5pbmcuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-24 00:00:00.000000",
+    "disclosedDate": "2024-08-30 14:20:03.136491"
+  }
+}

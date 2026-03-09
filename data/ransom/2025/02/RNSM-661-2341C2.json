@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-2341C2",
+  "type": "ransomware-incident",
+  "title": "Digital Technology Co., Ltd. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Digital Technology Co., Ltd.",
+    "domain": "dtc.co.jp",
+    "country": "JP",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 150000000000,
+    "description": "Status: 29d 22h 29m 25s - Size Data: 150 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e7476bc010aad03d4e54e9fa16f7275a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rglnaxrhbcbuzwnobm9sb2d5ienvliwgthrklkbjawnhzgezmzax",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-23 00:00:00.000000",
+    "disclosedDate": "2025-02-23 18:59:21.886798"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-21F2B1",
+  "type": "ransomware-incident",
+  "title": "Taiyo Kogyo Co., Ltd. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Taiyo Kogyo Co., Ltd.",
+    "domain": "taiyokogyo.co.jp",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Taiyo Kogyo Co., Ltd., a leading company in the production of large-sized membrane structures, occupying a leading position in the world-class market.We present corporate information, business information, products and services, as well as construction results.https://www.taiyokogyo.co.jp/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9170068c739861bc1f76ec482ec7f3cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgfpew8gs29new8gq28ulcbmdgquqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-21 00:00:00.000000",
+    "disclosedDate": "2024-06-21 07:15:50.271242"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-653-291614",
+  "type": "ransomware-incident",
+  "title": "Puyallup Tribe (ptoi.local) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Puyallup Tribe (ptoi.local)",
+    "country": "IN",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Puyallup Tribal Council is the elected governing body of the Puyallup Tribe of Indians. The council consists of Chairman David Z. Bean, Vice Ch airman Bill Sterud, Sylvia Miller, Annette Bryan, Tim Reynon, James Rideout and Georgianna Bean.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fcf1137842c240520b22a73fa6f7d586.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhv5ywxsdxagvhjpymugkhb0b2kubg9jywwpqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-23 13:32:58.104000",
+    "disclosedDate": "2024-06-29 08:10:38.357415"
+  }
+}

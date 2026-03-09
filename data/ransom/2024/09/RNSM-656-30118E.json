@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-30118E",
+  "type": "ransomware-incident",
+  "title": "mnpl.com.sg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mnpl.com.sg",
+    "domain": "mnpl.com.sg",
+    "country": "SG",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Manufacturing Network Pte Ltd (“MNPL”) was established in November 2000 in Singapore. Our main business includes the stocking, distribution and cutting of aluminium alloy plates, sheets and extrusion bars and profiles.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw5wbc5jb20uc2dadghyzwvhbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-25 00:00:00.000000",
+    "disclosedDate": "2024-09-30 17:44:02.977764"
+  }
+}

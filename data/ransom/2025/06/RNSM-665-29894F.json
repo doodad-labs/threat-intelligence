@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-29894F",
+  "type": "ransomware-incident",
+  "title": "Dynamic Netsoft ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dynamic Netsoft",
+    "domain": "dnetsoft.com",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Dynamic Netsoft is an IT solutions provider initiated in 2002. It specializes in ERP solutions, custom application development, IT consulting, and software services. The company offers services for industries like real estate, banking, healthcare, and education. Its reputed services include solutions for Microsoft Dynamics, Mobile Applications, Azure Applications. It operates in the US, Middle East, and India.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhluyw1pyybozxrzb2z0qhdvcmxkbgvha3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-17 00:00:00.000000",
+    "disclosedDate": "2025-06-29 16:08:47.300918"
+  }
+}

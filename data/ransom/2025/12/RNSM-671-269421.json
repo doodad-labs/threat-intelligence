@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-269421",
+  "type": "ransomware-incident",
+  "title": "shwapno.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "shwapno.com",
+    "domain": "shwapno.com",
+    "country": "BD"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Shwapno is an online grocery shopping service that operates in various areas including Dhaka, Chatto...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2087d80cf97dbd17a45c3c4eec089e9f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2h3yxbuby5jb21abg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-25 16:30:00.000000",
+    "disclosedDate": "2025-12-26 15:22:46.469915"
+  }
+}

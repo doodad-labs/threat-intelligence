@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-27C910",
+  "type": "ransomware-incident",
+  "title": "broadleafgame.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "broadleafgame.com",
+    "domain": "broadleafgame.com",
+    "country": "JP"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Broadleaf is a family-owned food distribution company supplying high-quality meats and deli meats to distributors and retailers throughout the United States and abroad.Founded in 1988, Broadleaf entered the U.S. market as a major importer and            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6ff987a017b29122b1d203c8f21c3203.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjvywrszwfmz2ftzs5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-27 00:00:00.000000",
+    "disclosedDate": "2025-06-27 19:22:54.010608"
+  }
+}

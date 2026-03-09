@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-04573D",
+  "type": "ransomware-incident",
+  "title": "Asterra Properties ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Asterra Properties",
+    "domain": "asterra.com",
+    "country": "US",
+    "sector": "Real Estate is not on the list, so the answer would be \"Not Found\"."
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 131000000000,
+    "description": "Status: 10d 21h 12m 53s - Size Data: 131 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/36aafedbfba6bfec22a937f2aeb0aef7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxn0zxjyysbqcm9wzxj0awvzqgnpy2fkytmzmde=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-04 01:44:43.908604",
+    "disclosedDate": "2025-02-04 01:45:51.855688"
+  }
+}

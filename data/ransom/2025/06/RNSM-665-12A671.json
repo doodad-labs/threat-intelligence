@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-12A671",
+  "type": "ransomware-incident",
+  "title": "isd1.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "isd1.org",
+    "domain": "isd1.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 25.06.2025.Aitkin Public Schools is a company that employs 20 to 49 people and has revenue between 1M and 5M. It is headquartered in Aitkin, MN.1.The document is a notice of commenc            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cc63e631b383099964ced4c09cae14e9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axnkms5vcmdacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-12 00:00:00.000000",
+    "disclosedDate": "2025-06-12 21:16:36.753447"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-16EF65",
+  "type": "ransomware-incident",
+  "title": "wings.travel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wings.travel",
+    "domain": "wings.travel",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wings has led the market in managing complex travel and support services worldwide, with particular expertise in developing markets and high-risk destinations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4c1d75555b7a66b08a9e24a8d2016391.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2luz3mudhjhdmvsqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-16 19:58:00.000000",
+    "disclosedDate": "2023-05-16 20:54:59.463062"
+  }
+}

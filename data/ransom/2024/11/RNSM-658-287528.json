@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-287528",
+  "type": "ransomware-incident",
+  "title": "suit-kote.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "suit-kote.com",
+    "domain": "suit-kote.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "Suit-Kote Corporation is a privately-owned company that manufactures asphalt products, provides road construction and maintenance services, and engineers asphalt applications.SITE: www.suit-kote.com Address : 1911 Lorings Crossing Road, Cortland, NY 13045 United StatesTEL#: (607) 753-1100ALL DATA SIZE: ≈1.5tb 1. Personal documents, employees data 2. Financial data, Accounting 3. Users folders 4. Tax data, forms 5. confidential agrements, NDAs data & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d97c3f7c32eaa9c37374c4ee67fff7b5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3vpdc1rb3rllmnvbubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-16 00:00:00.000000",
+    "disclosedDate": "2024-11-28 11:54:54.859222"
+  }
+}

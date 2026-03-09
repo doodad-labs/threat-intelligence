@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-642-261019",
+  "type": "ransomware-incident",
+  "title": "HIGHLANDHOMES ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HIGHLANDHOMES",
+    "domain": "highlandhomes.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2060000000000,
+    "description": "ALL 2.06 TB DOWNLOADED DATA IS PUBLISHED AND AVAILABLE FOR DOWNLOADING!!!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/149a0905d407eb67a18ada549844aa45.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/selhsexbtkrit01fu0bhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-24 18:26:47.000000",
+    "disclosedDate": "2023-07-26 14:31:42.440937"
+  }
+}

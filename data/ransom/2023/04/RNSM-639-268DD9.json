@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-639-268DD9",
+  "type": "ransomware-incident",
+  "title": "multimedica.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "multimedica.it",
+    "domain": "multimedica.it",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The MultiMedica Group First of all there is Ethics. It is not limited to a series of principles to be followed, but constitutes the overall vision of MultiMedica's activities, its mission, its raison d'être. And ethics means putting people and their...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f81ba6252f9fcb56f8060b46cbbae02e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bxvsdgltzwrpy2euaxrabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.redhotcyber.com/post/attacco-informatico-alla-multimedica-pronto-soccorso-di-milano-e-sesto-san-giovanni-bloccati/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-26 22:44:00.000000",
+    "disclosedDate": "2023-04-26 23:50:47.473532"
+  }
+}

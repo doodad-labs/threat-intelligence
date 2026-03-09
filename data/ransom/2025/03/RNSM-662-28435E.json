@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-28435E",
+  "type": "ransomware-incident",
+  "title": "Kaspar Companies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kaspar Companies",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "Kaspar Companies is a building material provider company. We are ready to upload more than 200 GB of databases and essential corporate documents such as: financial data (audits, payment details, reports), corporate licenses, agreements and contracts, driver licenses, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fzcgfyienvbxbhbmllc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-28 00:00:00.000000",
+    "disclosedDate": "2025-03-28 14:44:16.471468"
+  }
+}

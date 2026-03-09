@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-666-150C00",
+  "type": "ransomware-incident",
+  "title": "CF Construction Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CF Construction Ltd",
+    "country": "CA",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A list of files related to various aspects of the company's business will soon be available, including financial documents (Accounting-AP, Credit, Financial, Payroll, Tax), administrative and operational materials (ADMINISTRATION ITEMS, Operations-Management), confidential data (Confidential, Personal, Private), and contractor and vendor documents (Subcontractors, SUPPLIERS). Also included are several non-disclosure agreements (NDAs) with various organizations (CF Construction, MAESTRO TECHNOLOGIES, ACR-Stirling McArthur, Spira, etc.). As well as personal information such as passports, credit cards, etc.",
+    "claimed_data_types": [
+      "financial-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/51548994cb740046dcf1e96c42a50169.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0ygq29uc3rydwn0aw9uiex0zebpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-15 07:07:00.000000",
+    "disclosedDate": "2025-07-15 09:17:35.419350"
+  }
+}

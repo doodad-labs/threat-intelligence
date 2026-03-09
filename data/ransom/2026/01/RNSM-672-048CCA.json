@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-048CCA",
+  "type": "ransomware-incident",
+  "title": "Bina Darulaman Berhad ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bina Darulaman Berhad",
+    "domain": "bdb.com.my",
+    "country": "MY",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Civil Engineering Construction",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/017899f222a43bfefed22190633a7929.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmluysbeyxj1bgftyw4gqmvyagfkqgrpcmv3b2xm",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-04 05:55:34.546038",
+    "disclosedDate": "2026-01-04 06:31:59.666157"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-050F5B",
+  "type": "ransomware-incident",
+  "title": "Blackmon Mooring ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Blackmon Mooring",
+    "domain": "bmscat.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/46bb411ecc36fc3f9e13e38d196c02a7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmxhy2ttb24gtw9vcmluz0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-05 08:24:18.000000",
+    "disclosedDate": "2025-04-05 09:17:57.361091"
+  }
+}

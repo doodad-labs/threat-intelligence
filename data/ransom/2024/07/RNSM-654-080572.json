@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-080572",
+  "type": "ransomware-incident",
+  "title": "noab.nl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "noab.nl",
+    "domain": "noab.nl",
+    "country": "NL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Greetings!  Today we are posting here the new company, \"Kontinu Consultancy B.V.\".  Headquarters: Televisiestraat 204, 2525 LV Den Haag, Netherlands  Web site: https://noab.nl/  E-Mail: info@noab.nl Phone: +31 073 6141419  This company is...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bm9hyi5ubebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-06 03:13:00.000000",
+    "disclosedDate": "2024-07-08 08:05:59.413366"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-03F877",
+  "type": "ransomware-incident",
+  "title": "paynesvilleareainsurance.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "paynesvilleareainsurance.com",
+    "domain": "paynesvilleareainsurance.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have compromissed the servers of paynesvilleareainsurance.com. We decided to make sure they remember us so we have also defaced them.Archive SnapshopWe require a ransom of $10,000",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgf5bmvzdmlsbgvhcmvhaw5zdxjhbmnllmnvbubyyw5zb21lza==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-03 22:47:30.294551",
+    "disclosedDate": "2023-09-03 22:47:30.294572"
+  }
+}

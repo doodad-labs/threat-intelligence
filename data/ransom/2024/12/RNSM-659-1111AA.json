@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-1111AA",
+  "type": "ransomware-incident",
+  "title": "Rutherford County Schools ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rutherford County Schools",
+    "domain": "rcschools.net",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rutherford County Schools Rutherford County Schools is a school district based in Murfreesboro, Tennessee, United States.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/unv0agvyzm9yzcbdb3vudhkgu2nob29sc0byahlzawrh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://eu.dnj.com/story/news/2024/12/05/tennessee-bureau-of-investigation-assist-rutherford-county-schools-with-computer-network-issue/76794990007/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-11 11:30:47.696166",
+    "disclosedDate": "2024-12-11 11:30:48.087903"
+  }
+}

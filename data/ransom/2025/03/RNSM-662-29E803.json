@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-29E803",
+  "type": "ransomware-incident",
+  "title": "www.assisi.nl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.assisi.nl",
+    "domain": "assisi.nl",
+    "country": "NL",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/962e3581a3ee693c7b9c3f224e7038a7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmfzc2lzas5ubebyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-17 14:34:14.000000",
+    "disclosedDate": "2025-03-29 21:26:21.414613"
+  }
+}

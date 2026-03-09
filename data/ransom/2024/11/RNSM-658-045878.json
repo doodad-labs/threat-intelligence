@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-658-045878",
+  "type": "ransomware-incident",
+  "title": "College of Business - Tanzania ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "College of Business - Tanzania",
+    "domain": "cbe.ac.tz",
+    "country": "TZ",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "hellcat",
+    "name": "hellcat",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have released over 500,000 records from Tanzania’s College of Business Education, containing student names, phone numbers, emails, and additional data, including possible billing information.",
+    "claimed_data_types": [
+      "email-addresses",
+      "phone-numbers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29sbgvnzsbvzibcdxnpbmvzcyatifrhbnphbmlhqghlbgxjyxq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-04 15:24:23.279926",
+    "disclosedDate": "2024-11-04 15:24:23.979333"
+  }
+}

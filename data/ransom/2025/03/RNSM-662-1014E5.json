@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-662-1014E5",
+  "type": "ransomware-incident",
+  "title": "mazars.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mazars.fr",
+    "domain": "mazars.fr",
+    "country": "FR",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "mazars.fr company",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ab012d22263f70ebf0265c0e351f27d5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwf6yxjzlmzyqgjhynvrmg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.lemagit.fr/actualites/366538155/ransomware-alphv-black-cat-revendique-une-cyberattaque-contre-mazars",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-10 08:00:15.000000",
+    "disclosedDate": "2025-03-10 11:28:30.253818"
+  }
+}

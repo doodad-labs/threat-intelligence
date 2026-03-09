@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-13B1F3",
+  "type": "ransomware-incident",
+  "title": "SBW ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SBW",
+    "domain": "sbw.ca",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Canada",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e98707a83785065e2161aeae8978e095.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0jxqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-28 00:00:00.000000",
+    "disclosedDate": "2024-12-13 00:34:49.298561"
+  }
+}

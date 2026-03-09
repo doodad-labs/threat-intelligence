@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-05EB53",
+  "type": "ransomware-incident",
+  "title": "Kalchschmid GmbH & Co. KG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kalchschmid GmbH & Co. KG",
+    "domain": "kalchschmid.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "pear",
+    "name": "pear",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The family-owned Kalchschmid company in the Swabian town of Balzhausen combines traditional craftsmanship with modern construction. Our highly qualified employees are specialists in wood construction, carpentry, tin work, roofing and scaffolding",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/340b2f266f1d57eef6c17bdf2eecd9a5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fsy2hzy2htawqgr21iscamienvliblr0bwzwfy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-17 00:00:00.000000",
+    "disclosedDate": "2025-08-05 21:34:52.610244"
+  }
+}

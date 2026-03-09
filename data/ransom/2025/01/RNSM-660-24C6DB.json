@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-24C6DB",
+  "type": "ransomware-incident",
+  "title": "SPGUSA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SPGUSA.COM",
+    "domain": "spgusa.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] SPGUSA.COM, also known as Special Products Group, is an American company specializing in the personalized customization and production of promotional products. They offer a wide range of products such as apparel, drinkware, office supplies, tech gadgets and more, all customizable for businesses and organizations for marketing needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1bhvvnblknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 17:22:18.279778",
+    "disclosedDate": "2025-01-24 17:22:18.279778"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-30074A",
+  "type": "ransomware-incident",
+  "title": "alpsteel.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "alpsteel.com",
+    "domain": "alpsteel.com",
+    "country": "TR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"AlpSteel.com\" is an online platform for one of the leading steel and metal distributors, AlpSteel. Their products include a wide range of steel materials for various industries, such as construction, automotive, shipping, and others. They focus on providing high-quality products alongside efficient delivery services. Their offerings include stainless steel, carbon steel, copper, brass, aluminum, and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/afe984dd39a0f42bc28349580247a60f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxwc3rlzwwuy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-30 02:55:44.976168",
+    "disclosedDate": "2025-03-30 02:57:06.489728"
+  }
+}

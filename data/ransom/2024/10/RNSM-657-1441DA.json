@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-657-1441DA",
+  "type": "ransomware-incident",
+  "title": "FUN-LAB ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FUN-LAB",
+    "domain": "fun-lab.com",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Funlab is the world's premiere creator of competitive socialising experiences",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/be5eca2bb7a6d3f270848d18385c8161.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rlvoluxbqkbsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cyberdaily.au/security/11234-exclusive-aussie-owner-of-strike-bowling-and-other-venues-confirms-ransomware-attack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-02 22:51:39.735000",
+    "disclosedDate": "2024-10-14 00:11:12.672342"
+  }
+}

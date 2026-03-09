@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-05AEE8",
+  "type": "ransomware-incident",
+  "title": "Veethree ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Veethree",
+    "domain": "veethree.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Veethree Group is an alliance of companies, driven by common technologies and innovation. Today the group of companies has employees worldwide, with sites over 4 continents, serving 100’s of OEM customers.Those companies include:    Indication Instruments Ltd – India    Veethree New Zealand – New Zealand    Veethree North America LLC – USA    Veethree Electronics & Marine LLC – USA    Veethree Technologies (CANtronik Ltd) – UK",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/436becef9f555a65c8f6eb548e9af544.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmvldghyzwvay2hhb3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-05 20:22:09.358029",
+    "disclosedDate": "2025-06-05 20:23:13.718401"
+  }
+}

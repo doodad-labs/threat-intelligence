@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-672-12239C",
+  "type": "ransomware-incident",
+  "title": "Depth ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Depth",
+    "country": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 260000000000,
+    "description": "Depth is a computer engineering company that specializes in geographic information systems (GIS).We will upload 260gb of corporate data soon. Employee personal information, projects, confidential files, financials and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvwdghaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-12 00:00:00.000000",
+    "disclosedDate": "2026-01-12 15:45:34.938390"
+  }
+}

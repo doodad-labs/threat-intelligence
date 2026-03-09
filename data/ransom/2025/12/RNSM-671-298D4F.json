@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-298D4F",
+  "type": "ransomware-incident",
+  "title": "investigacionesmedicas.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "investigacionesmedicas.com",
+    "domain": "investigacionesmedicas.com",
+    "country": "AR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Investigaciones Médicas is a private medical diagnostics and imaging services provider based in Buenos Aires, Argentina. Founded in 1991, it …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/55d0679d39ae469617feb57027623d7c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw52zxn0awdhy2lvbmvzbwvkawnhcy5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-29 20:10:46.913318",
+    "disclosedDate": "2025-12-29 20:11:00.068651"
+  }
+}

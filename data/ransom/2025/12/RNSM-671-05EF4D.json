@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-05EF4D",
+  "type": "ransomware-incident",
+  "title": "AvtechTyee ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AvtechTyee",
+    "domain": "avtechtyee.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "nitrogen",
+    "name": "nitrogen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AvtechTyee is a company operating in the aerospace and defense industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b380ffdf51a4568099a0bd37ca0239c3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxz0zwnovhllzubuaxryb2dlbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-05 16:53:37.807698",
+    "disclosedDate": "2025-12-05 16:53:51.277261"
+  }
+}

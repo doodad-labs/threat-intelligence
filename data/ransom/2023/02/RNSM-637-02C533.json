@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-02C533",
+  "type": "ransomware-incident",
+  "title": "seelllc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "seelllc.com",
+    "domain": "seelllc.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Stolen 230gbSEEL, LLC is one of the largest minority-owned, disabled veteran-owned energy efficiency program management firms in the nation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vlbgxsyy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-02 23:23:19.493962",
+    "disclosedDate": "2023-02-02 23:23:19.493962"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-247D46",
+  "type": "ransomware-incident",
+  "title": "BURRISLOGISTICS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BURRISLOGISTICS.COM",
+    "domain": "burrislogistics.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Burris Logistics is a supply chain management company based in the United States. It specializes in providing custom retail distribution, warehousing services, and transportation solutions to clients ranging from local startups to major global corporations. With advanced supply chain technology, Burris Logistics offers services such as inventory management, forecasting, procurement, and freight consolidation to fulfill each client's unique needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qlvsukltte9hsvnusuntlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 17:29:08.467540",
+    "disclosedDate": "2025-01-24 17:29:08.467540"
+  }
+}

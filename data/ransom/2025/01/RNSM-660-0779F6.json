@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-0779F6",
+  "type": "ransomware-incident",
+  "title": "Weininger Metall System GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Weininger Metall System GmbH",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Weininger Metal System GmbH is a German company specializing in metalworking. It offers services in sheet metal processing, welding, laser cutting and other processes using modern technologies. The company provides both prototype production and mass production, offering high-quality metal products for various industries.https://weininger-metall-system.de/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/67435fbb0a0c9f53e629776e526487fe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vpbmluz2vyie1ldgfsbcbtexn0zw0gr21isea4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-07 09:25:03.757043",
+    "disclosedDate": "2025-01-07 09:26:13.438698"
+  }
+}

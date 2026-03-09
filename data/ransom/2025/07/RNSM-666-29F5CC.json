@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-29F5CC",
+  "type": "ransomware-incident",
+  "title": "Grand Rapids Metrology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Grand Rapids Metrology",
+    "domain": "grmetrology.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "beast",
+    "name": "beast",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GR Metrology is a distributor and service provider specializing in weighing and measuring equipment, offering products and calibrated solutions to manufacturers. The company provides a range of services including installation, repair, and emergency service, as well as asset management and performance evaluation. Their target clients include businesses in need of precision measurement devices and process automation solutions. Established in 1922, GR Metrology has built a reputation for expertise and customer service in the measurement equipment industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/54d346923c0c6847667f263b2c8378e5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jhbmqgumfwawrzie1ldhjvbg9neubizwfzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-28 00:00:00.000000",
+    "disclosedDate": "2025-07-29 21:54:18.258864"
+  }
+}

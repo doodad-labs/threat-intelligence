@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-669-03BA76",
+  "type": "ransomware-incident",
+  "title": "Waterborne Environmental ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Waterborne Environmental",
+    "domain": "waterborne-env.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4c234a233b9b44f6a45e00628cecb265.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2f0zxjib3juzsbfbnzpcm9ubwvudgfsqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-11-26-waterborne-environmental-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-18 00:00:00.000000",
+    "disclosedDate": "2025-10-03 19:45:23.164025"
+  }
+}

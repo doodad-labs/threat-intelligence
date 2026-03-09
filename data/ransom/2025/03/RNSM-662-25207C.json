@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-25207C",
+  "type": "ransomware-incident",
+  "title": "fepasa.com.ar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fepasa.com.ar",
+    "domain": "fepasa.com.ar",
+    "country": "AR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Greetings!  Today we are posting here the new company, \"F.E.P.A.S.A.\".  Company Description: FEPASA — Argentine poultry company operating in the field of high-quality meat and by-products since 1964, with an integrated value chain, its own breedi...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/550851f7e826c28618476b04f9eb12fc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmvwyxnhlmnvbs5hckbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-07 00:00:00.000000",
+    "disclosedDate": "2025-03-25 14:05:32.719643"
+  }
+}

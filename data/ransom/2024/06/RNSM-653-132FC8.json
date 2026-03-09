@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-132FC8",
+  "type": "ransomware-incident",
+  "title": "Bock & Associates, LLP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bock & Associates, LLP",
+    "domain": "bockcpa.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bock & Associates LLP is a company that operates in the Accounting industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/99b4bc8ee1416122041e3edc98ef2cb6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qm9jayamiefzc29jawf0zxmsiexmuebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-11 00:00:00.000000",
+    "disclosedDate": "2024-06-13 09:17:37.754140"
+  }
+}

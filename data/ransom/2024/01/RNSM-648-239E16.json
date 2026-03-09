@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-648-239E16",
+  "type": "ransomware-incident",
+  "title": "unitedindustries.co.nz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "unitedindustries.co.nz",
+    "domain": "unitedindustries.co.nz",
+    "country": "NZ",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 155000000000,
+    "description": "United Industries was founded in 1991 and today consists of a group of companies with an enviable reputation for being market leaders in the delivery of industrial, commercial and retail engineering and construction products. With an extensive investment in manufacturing plants and facilities, and a commitment to staying at the forefront of new and innovative technologies, United Industries is a trusted partner across a wide range of sectors nationwide.SITE: www.unitedindustries.co.nz Address : 30 Highbrook Drive, East Tāmaki, Auckland 2013, New ZealandALL DATA SIZE: 155gb 1. Personal users folders 2. Accounts 3. Finance and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e5404c11395997e50c1e705636d47232.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dw5pdgvkaw5kdxn0cmllcy5jby5uekbibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-21 00:00:00.000000",
+    "disclosedDate": "2024-01-23 17:49:35.281443"
+  }
+}

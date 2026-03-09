@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-664-061299",
+  "type": "ransomware-incident",
+  "title": "Shea Barclay Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Shea Barclay Group",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Insurance",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2hlysbcyxjjbgf5iedyb3vwqfnpbgvudfjhbnnvbudyb3vw",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-14 15:43:35.600722",
+    "disclosedDate": "2025-05-06 18:15:16.930165"
+  }
+}

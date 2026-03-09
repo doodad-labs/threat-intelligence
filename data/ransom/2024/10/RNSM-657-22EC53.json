@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-22EC53",
+  "type": "ransomware-incident",
+  "title": "davisbrothersinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "davisbrothersinc.com",
+    "domain": "davisbrothersinc.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Davis Brothers Inc. is a company specializing in construction and landscaping services. They offer a range of solutions including residential and commercial construction, site preparation, and custom landscaping. Known for their attention to detail and customer satisfaction, Davis Brothers Inc. combines expertise with quality materials to deliver projects on time and within budget, serving their local community with dedication.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/28865edee22dc99b765333d241952113.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgf2axnicm90agvyc2luyy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-16 00:00:00.000000",
+    "disclosedDate": "2024-10-22 11:25:26.532132"
+  }
+}

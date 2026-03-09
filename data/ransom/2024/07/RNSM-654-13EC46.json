@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-13EC46",
+  "type": "ransomware-incident",
+  "title": "Carigali Hess Operating Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Carigali Hess Operating Company",
+    "domain": "carigalihess.com",
+    "country": "MY",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Malaysia - Exfiltraded data : no - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/65c85512ba3988f973486b6bc54452f2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fyawdhbgkgsgvzcybpcgvyyxrpbmcgq29tcgfueubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-13 19:24:03.000000",
+    "disclosedDate": "2024-07-13 20:41:13.846282"
+  }
+}

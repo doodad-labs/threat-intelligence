@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-2478D6",
+  "type": "ransomware-incident",
+  "title": "OFSPORTAL.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OFSPORTAL.COM",
+    "domain": "ofsportal.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] OFSPORTAL.COM is an online marketplace that caters exclusively to the oil field service business. It aims to streamline the process of procurement for products and services in the oil and gas industry by providing a platform to connect buyers and sellers in the market. The platform supports a wide range of service providers ranging from logistics to equipment suppliers, offering a versatile and efficient solution for industry professionals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t0ztue9svefmlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 08:53:12.305116",
+    "disclosedDate": "2025-01-24 08:53:12.305116"
+  }
+}

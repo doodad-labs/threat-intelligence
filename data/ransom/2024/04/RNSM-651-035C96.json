@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-035C96",
+  "type": "ransomware-incident",
+  "title": "Intersport ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Intersport",
+    "domain": "intersport.fr",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : France - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5b620950293779aca07c6cd1705f8502.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw50zxjzcg9ydebodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-03 18:06:29.000000",
+    "disclosedDate": "2024-04-03 19:23:57.193357"
+  }
+}

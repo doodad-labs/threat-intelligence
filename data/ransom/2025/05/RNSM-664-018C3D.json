@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-018C3D",
+  "type": "ransomware-incident",
+  "title": "pdcm.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pdcm.com",
+    "domain": "pdcm.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We offer a range of insurance types from business and group insurance to individual life and health.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2c9ebb10a44bc861653bcb5b2b71fad6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgrjbs5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-28 00:00:00.000000",
+    "disclosedDate": "2025-05-01 23:43:10.142588"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-107B81",
+  "type": "ransomware-incident",
+  "title": "xtremmedia.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "xtremmedia.com",
+    "domain": "xtremmedia.com",
+    "country": "ES",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Xtremmedia.com is a Spanish company specializing in electronic commerce, primarily offering a broad range of technological and digital products. Its extensive catalogue includes computers, hardware components, gaming accessories, home appliances, and more. Xtremmedia.com is recognized for its competitive prices, commitment to customer service, and prompt delivery options.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a07bf5dd461e897f9eacd00e24ae112c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ehryzw1tzwrpys5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-10 12:26:14.958667",
+    "disclosedDate": "2025-01-10 12:27:34.762426"
+  }
+}

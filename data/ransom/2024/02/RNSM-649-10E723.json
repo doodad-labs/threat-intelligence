@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-10E723",
+  "type": "ransomware-incident",
+  "title": "aisg-online.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aisg-online.com",
+    "domain": "aisg-online.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "American Integrated Security Group (AISG) specializes in the design and deployment of open platform integrated systems including IP video surveillance, access control and security intrusion, perimeter protection and a full range of related wireless s...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a77837180f9d2fc84fed57c808271ab1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywlzzy1vbmxpbmuuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-10 09:50:00.000000",
+    "disclosedDate": "2024-02-10 11:39:36.124811"
+  }
+}

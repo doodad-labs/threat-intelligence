@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-13CC6B",
+  "type": "ransomware-incident",
+  "title": "GAEAGLOBAL.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GAEAGLOBAL.COM",
+    "domain": "gaeaglobal.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] GAEA Global is a technology consulting firm that aids businesses with their digital transformation. Their services are focused on supply chain management, project portfolio management, data management, and cloud. Their expertise includes implementing SaaS applications, managing data, and helping businesses leverage AI technologies. GAEA has worked with blue-chip clients across various sectors worldwide.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8751ceba2ad5704de898185d30c2beff.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r0ffqudmt0jbtc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-13 19:07:31.675942",
+    "disclosedDate": "2025-11-13 19:07:49.541434"
+  }
+}

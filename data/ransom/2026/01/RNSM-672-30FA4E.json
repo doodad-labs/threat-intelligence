@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-30FA4E",
+  "type": "ransomware-incident",
+  "title": "casamedica.com.gt ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "casamedica.com.gt",
+    "domain": "casamedica.com.gt",
+    "country": "GT",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "benzona",
+    "name": "benzona",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Casamedica.com.gt\" is a Guatemala-based company that provides a range of medical equipment and supplies. Their product range includes everything from surgical instruments to hospital furniture and diagnostic equipment. Not just limited to sales, Casamedica also provides maintenance services for the equipment. They aim to improve the healthcare sector by catering to the specific needs of professionals in the field.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fzyw1lzgljys5jb20uz3raymvuem9uyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-30 17:28:56.377472",
+    "disclosedDate": "2026-01-30 17:29:04.506216"
+  }
+}

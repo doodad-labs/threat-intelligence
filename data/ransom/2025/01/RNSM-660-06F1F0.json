@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-660-06F1F0",
+  "type": "ransomware-incident",
+  "title": "Los Andes ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Los Andes",
+    "domain": "losandes.com.ar",
+    "country": "AR"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Diario Los Andes is a morning newspaper published in the city of Mendoza, Argentina, owned by Grupo Clarín and the heirs of the Calle Family.We are ready to upload a lot of private corporate documents including: financial data (audits, payment details, reports), contact numbers and e-mail addresses of employees etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tg9ziefuzgvzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-09 00:00:00.000000",
+    "disclosedDate": "2025-01-06 13:54:09.232513"
+  }
+}

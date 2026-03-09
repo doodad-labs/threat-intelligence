@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-28CB58",
+  "type": "ransomware-incident",
+  "title": "STEG Stadtentwicklung ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "STEG Stadtentwicklung",
+    "domain": "steg.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "raworld",
+    "name": "raworld",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] STEG Stadtentwicklung is a company focused on urban development and planning. It specializes in revitalizing urban areas, creating sustainable urban environments, and promoting community involvement in development projects. The company collaborates with municipalities, private investors, and stakeholders to design and implement projects that enhance urban life, ensuring economic, social, and environmental sustainability.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/db7278aa659dbcb5dd6683c8853547ac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1rfrybtdgfkdgvudhdpy2tsdw5nqhjhd29ybgq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-28 11:48:00.491676",
+    "disclosedDate": "2024-12-28 11:48:03.600384"
+  }
+}

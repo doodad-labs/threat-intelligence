@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-147AA9",
+  "type": "ransomware-incident",
+  "title": "Portland Street Honda ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Portland Street Honda",
+    "domain": "portlandstreethonda.com",
+    "country": "CA",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Portland Street Honda (founded in 1992) is dealership for all of your Honda needs and products. Portland Street Honda corporate office is located in 36 Baker Dr Ste 200, Dartmouth, Nova Scotia, B2W 6K1, Canada and has 68 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e2b7c07d8b6d2978666c80a19af345f3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ug9ydgxhbmqgu3ryzwv0iehvbmrhqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-13 14:45:52.000000",
+    "disclosedDate": "2025-03-14 09:31:16.597091"
+  }
+}

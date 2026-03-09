@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-06EC7B",
+  "type": "ransomware-incident",
+  "title": "pro-mec.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pro-mec.com",
+    "domain": "pro-mec.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Pro-mec.com is a company specializing in precision engineering and manufacturing solutions. They offer a range of services, including CNC machining, fabrication, and assembly, catering to various industries such as aerospace, automotive, and industrial equipment. With a focus on quality and innovation, Pro-mec.com delivers customized solutions to meet specific client needs, ensuring high standards and efficiency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a057cda9e7ed64cb36958296dcb0bfdb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjvlw1lyy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-30 00:00:00.000000",
+    "disclosedDate": "2024-12-06 11:56:31.835089"
+  }
+}

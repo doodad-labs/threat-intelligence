@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-218E96",
+  "type": "ransomware-incident",
+  "title": "Officio Medical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Officio Medical",
+    "domain": "officiomedical.com",
+    "country": "DE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2zmawnpbybnzwrpy2fsqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-21 12:01:56.519216",
+    "disclosedDate": "2025-03-21 12:02:21.440974"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-160A5F",
+  "type": "ransomware-incident",
+  "title": "airtac.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "airtac.com",
+    "domain": "airtac.com",
+    "country": "TW",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AirTAC International Group, headquartered in Taiwan, founded in Taiwan in 1988, is a well-known pneumatic equipment supplier/manufacturer in the global market. AirTAC specializes in the production of actuators, control components, air preparation pro...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ed195ed57dfc2901ff604f0fb8322753.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywlydgfjlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-16 08:51:00.000000",
+    "disclosedDate": "2023-05-16 09:48:58.094328"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-662-061DBD",
+  "type": "ransomware-incident",
+  "title": "Elite Advanced Laser Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Elite Advanced Laser Corporation",
+    "domain": "elaser.com.tw",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 90000000000,
+    "description": "Elite Advanced Laser Corporation (eLASER ), headquartered in Chung Ho Dist, New Taipei City, Taiwan, is a EMS (Electronic Manufacturing Service) service of advanced optoelectronic and RF component for information , optical and RF communication.You will find more than 90 GB of essential corporate documents such as: many NDA’s, financial data (audits, payment details, reports), confidential licenses, agreements and contracts, contact numbers and e-mail addressesof employees and customers, etc.We have made the process of downloading company data assimple as possible for our users. All you need is any torrent client (like Vuze, Utorrent, qBittorrent or Transmission to use magnet links). You will find the torrent file above.1. Open uTorrent, or any another torrent client.2. Add torrent file or paste the magnet URL to upload the data safely.3. Archives password: elaser.com.twMAGNET URL: magnet:?xt=urn:btih:50E04974CEFF258BCA47D90B582CD3DF5F89A72C&dn=elaser.com.tw&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwxpdgugqwr2yw5jzwqgtgfzzxigq29ycg9yyxrpb25aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isnew=y&seq_no=1&spoke_time=162017&spoke_date=20250609&co_id=3450",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-06 02:47:07.314214",
+    "disclosedDate": "2025-03-06 02:47:08.170995"
+  }
+}

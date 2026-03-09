@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-1408E2",
+  "type": "ransomware-incident",
+  "title": "austen-it.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "austen-it.com",
+    "domain": "austen-it.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Austen Consultants provides 24/7 IT Support 365 days a year. Austen Consultants Headquarters4325 Ashburn Way, Keller, Texas, 76244, United StatesPhone Number (817) 989-6400",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/74de0e919337da53fa5bb4f81f9c3d3c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxvzdgvulwl0lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-13 21:41:00.000000",
+    "disclosedDate": "2023-12-14 01:02:39.747467"
+  }
+}

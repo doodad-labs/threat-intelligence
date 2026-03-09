@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-2696F3",
+  "type": "ransomware-incident",
+  "title": "teamsignal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "teamsignal.com",
+    "domain": "teamsignal.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Teamsignal\" is an employee engagement and ground intelligence platform for teams and organizations. It facilitates upward communication from staff to management and leadership, allowing organizations to gain real-time insights into performance, morale, and workplace climate. Teamsignal uses a data-driven approach to enhance employee wellbeing and boost productivity. Its core features include regular pulse surveys, data analytics, and comprehensive dashboard visualizations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e42ecfd4a682ca636e2276b2ec10131a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvhbxnpz25hbc5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-31 00:00:00.000000",
+    "disclosedDate": "2025-07-26 19:51:12.501875"
+  }
+}

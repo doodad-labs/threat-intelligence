@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-648-23F40A",
+  "type": "ransomware-incident",
+  "title": "micrometals.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "micrometals.com",
+    "domain": "micrometals.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 997000000000,
+    "description": "Micrometals, Inc. 997Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwljcm9tzxrhbhmuy29tqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-23 23:53:06.234926",
+    "disclosedDate": "2024-01-23 23:53:06.234948"
+  }
+}

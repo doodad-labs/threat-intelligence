@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-656-06097F",
+  "type": "ransomware-incident",
+  "title": "America Voice ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "America Voice",
+    "domain": "americavoice.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 134600000000,
+    "description": "America Voice provides prepaid telecommunications products. America Voice corporate office is located in 800 S Hope St Ste 120, Los Angeles, California, 90017, United States and has 24 employees. The total amount of data leakage is 134.6 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0f2613455d1c0a9647827834262595d0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1lcmljysbwb2ljzubtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-06 11:16:31.000000",
+    "disclosedDate": "2024-09-06 21:37:34.329885"
+  }
+}

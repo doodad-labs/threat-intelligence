@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-16A121",
+  "type": "ransomware-incident",
+  "title": "LaSen ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LaSen",
+    "domain": "lasen.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The company has been compromised. Further details will be provided later.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgftzw5arwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-16 12:22:28.337622",
+    "disclosedDate": "2024-12-16 12:22:29.124716"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-217530",
+  "type": "ransomware-incident",
+  "title": "Federation Francaise de Rugby ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Federation Francaise de Rugby",
+    "domain": "ffr.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "France",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmvkzxjhdglvbibgcmfuy2fpc2ugzgugunvnynlacgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.lemagit.fr/actualites/366542243/play-revendique-une-cyberattaque-contre-la-federation-francaise-de-rugby",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-21 13:00:38.446863",
+    "disclosedDate": "2023-06-21 13:00:38.446887"
+  }
+}

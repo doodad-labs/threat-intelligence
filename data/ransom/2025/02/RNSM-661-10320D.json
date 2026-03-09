@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-10320D",
+  "type": "ransomware-incident",
+  "title": "cherokeedistributing.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cherokeedistributing.com",
+    "domain": "cherokeedistributing.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Cherokee Distributing Company is a wholesale distributor of beer and beverages. Established in 1958 in Tennessee, the company delivers a diverse portfolio of domestic, craft, and imported beverages to more than 2000 establishments in 22 counties. The portfolio includes popular brands such as Budweiser, Sierra Nevada, Sweetwater, and more. The company is committed to quality service, community involvement, and ethical business practices.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2hlcm9rzwvkaxn0cmlidxrpbmcuy29tqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:50:08.472258",
+    "disclosedDate": "2025-02-10 19:50:13.977088"
+  }
+}

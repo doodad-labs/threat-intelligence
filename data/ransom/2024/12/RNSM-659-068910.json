@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-068910",
+  "type": "ransomware-incident",
+  "title": "ktpartners.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ktpartners.ca",
+    "domain": "ktpartners.ca",
+    "country": "CA",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3rwyxj0bmvycy5jyubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 00:00:00.000000",
+    "disclosedDate": "2024-12-06 03:27:38.381326"
+  }
+}

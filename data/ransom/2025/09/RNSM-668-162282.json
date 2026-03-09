@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-668-162282",
+  "type": "ransomware-incident",
+  "title": "kmssa.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kmssa.net",
+    "domain": "kmssa.net",
+    "country": "SA"
+  },
+  "actor": {
+    "id": "warlock",
+    "name": "warlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "all data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a21zc2eubmv0qhdhcmxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-16 05:28:45.803187",
+    "disclosedDate": "2025-09-16 05:28:47.449817"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-082D25",
+  "type": "ransomware-incident",
+  "title": "CellNetix Pathology & Laboratories, LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CellNetix Pathology & Laboratories, LLC",
+    "domain": "cellnetix.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CellNetix Pathology & Laboratories is a dynamic, rapidly growing private pathology company headquartered in Tukwila, WA, and serving hospitals and clients throughout the Pacific Northwest. CellNetix...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6f9893a6d40ece9d2702b443cf2cf001.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2vsbe5ldgl4ifbhdghvbg9nesamiexhym9yyxrvcmllcywgtexdqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-08 14:37:00.096223",
+    "disclosedDate": "2024-01-08 14:37:00.156278"
+  }
+}

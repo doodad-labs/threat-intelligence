@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-661-11CDF0",
+  "type": "ransomware-incident",
+  "title": "Jildor Shoes ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jildor Shoes",
+    "domain": "jildorshoes.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8462abe0cfef244f723aee38726c47ee.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smlszg9yifnob2vzqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-04-29%20jildor%20shoes%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-11 23:02:22.099583",
+    "disclosedDate": "2025-02-11 23:03:53.569269"
+  }
+}

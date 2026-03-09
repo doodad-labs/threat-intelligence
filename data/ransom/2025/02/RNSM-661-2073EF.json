@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-2073EF",
+  "type": "ransomware-incident",
+  "title": "www.selt-sistemi.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.selt-sistemi.com",
+    "domain": "selt-sistemi.com",
+    "country": "IT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "kraken",
+    "name": "kraken",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The first part of leakhttp://[redacted].onion/...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/019d04458b10e39ca28c7f20806cb86a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnlbhqtc2lzdgvtas5jb21aa3jha2vu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-14 00:00:00.000000",
+    "disclosedDate": "2025-02-20 14:59:00.636415"
+  }
+}

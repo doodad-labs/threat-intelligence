@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-101F34",
+  "type": "ransomware-incident",
+  "title": "dunnriteproducts.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dunnriteproducts.com",
+    "domain": "dunnriteproducts.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Dunn Rite Products is a family-owned company specializing in the production and sale of aquatic sports equipment for both commercial and residential use. Its diverse product range includes pool basketball kits, deck volley systems, pool toys and games, as well as parts and accessories to enhance water sport experiences. The company emphasizes quality in their products and ensures durable and reliable performance. Established in 1983, Dunn Rite Products has its headquarters in Elwood, Indiana.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zhvubnjpdgvwcm9kdwn0cy5jb21ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 20:07:15.715652",
+    "disclosedDate": "2025-02-10 20:07:23.496584"
+  }
+}

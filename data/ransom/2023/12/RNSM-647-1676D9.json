@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-647-1676D9",
+  "type": "ransomware-incident",
+  "title": "kohlwholesale.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kohlwholesale.com",
+    "domain": "kohlwholesale.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 525000000000,
+    "description": "We are a strong broadline distributing force in Illinois, Iowa and Missouri and are committed to fulfilling the foodservice needs of our customers. Kohl Wholesale is a proud distributor of many national and regional brands in our inventory of over 14,000 products. Because we view our relationships with our suppliers and customers as working partnerships, we provide unmatched support for your operation, every step of the way! Kohl Wholesale strives to exceed customer expectations by delivering valuable goods and services from our family to yours.SITE: www.kohlwholesale.com Address : 130 Jersey St. Quincy, IL 62301 USAALL DATA SIZE: 525gb 1. Accounting 2. AccidentInformation 3. Customer Service 4. Human Resources 5. DL, Medical cards and other personal documents and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/963ef46ea51c986674a1185d4fb6f63f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a29obhdob2xlc2fszs5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-04 00:00:00.000000",
+    "disclosedDate": "2023-12-16 14:28:52.969514"
+  }
+}

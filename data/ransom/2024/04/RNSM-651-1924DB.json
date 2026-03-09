@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-1924DB",
+  "type": "ransomware-incident",
+  "title": "fmfcu.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fmfcu.org",
+    "domain": "fmfcu.org",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "fmfcu.org",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cc95d9eea8ebe039d4ec889849c7782e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zm1my3uub3jnqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-15 17:09:00.000000",
+    "disclosedDate": "2024-04-19 11:59:16.753060"
+  }
+}

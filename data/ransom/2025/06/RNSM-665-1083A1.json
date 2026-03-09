@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-1083A1",
+  "type": "ransomware-incident",
+  "title": "Parkway Construction LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Parkway Construction LLC",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Blueprints of L3Harris, General Atomics and Virgin Galactic.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/acfcf235a9422fb9e907fdeb034c608b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfya3dhesbdb25zdhj1y3rpb24gtexdqgfudwjpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-10 23:14:10.311727",
+    "disclosedDate": "2025-06-10 23:14:51.674457"
+  }
+}

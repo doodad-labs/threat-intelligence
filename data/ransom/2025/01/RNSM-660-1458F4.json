@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-1458F4",
+  "type": "ransomware-incident",
+  "title": "Imperial Valley Respite (ivrespite.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Imperial Valley Respite (ivrespite.com)",
+    "domain": "ivrespite.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Caregiving is demanding, and Imperial Valley Respite is a helpful source to ease the demands of caregiving. IV Respite aims to help families and caregivers in the developmentally disabled community tackle the challenges of providing daily care. IV Respite offers support services to families in need of short-term care for developmentally disabled persons of all ages throughout the Imperial Valley and San Diego.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ec4572532556f3660150c47f7d37ccce.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw1wzxjpywwgvmfsbgv5ifjlc3bpdgugkgl2cmvzcgl0zs5jb20pqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-03 00:00:00.000000",
+    "disclosedDate": "2025-01-14 00:30:58.726897"
+  }
+}

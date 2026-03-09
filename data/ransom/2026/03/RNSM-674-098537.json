@@ -1,0 +1,46 @@
+{
+  "id": "RNSM-674-098537",
+  "type": "ransomware-incident",
+  "title": "Wagon Mound Public Schools ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wagon Mound Public Schools",
+    "domain": "wm.k12.nm.us",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 80000000000,
+    "description": "Wagon Mound Public Schools provides education to students in the Wagon Mound area, providing resources and support for both elementary and middle schools. However, they neglected to address the security of their materials, resulting in the compromise of all their personal data, including the school's blueprints. We present to your attention a 80 GB of data, which includes staff and student information, their phone numbers, residence addresses, and passport numbers.",
+    "claimed_data_types": [
+      "blueprints",
+      "personal-data",
+      "phone-numbers",
+      "addresses",
+      "passport-numbers",
+      "student-records"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4fc8b04866c13f4fa7773f55ddb68b81.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fnb24gtw91bmqguhvibgljifnjag9vbhnaaw50zxjsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-09 22:15:33.879906",
+    "disclosedDate": "2026-03-09 22:15:55.607936"
+  }
+}

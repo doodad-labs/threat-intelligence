@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-272B23",
+  "type": "ransomware-incident",
+  "title": "www.hcisystems.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.hcisystems.net",
+    "domain": "hcisystems.net",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.hcisystems.net",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c486670a0054b61599cef694e350516c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmhjaxn5c3rlbxmubmv0qgjhynvrmg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:20:50.923600",
+    "disclosedDate": "2025-01-27 07:22:03.582036"
+  }
+}

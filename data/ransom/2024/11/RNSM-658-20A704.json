@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-20A704",
+  "type": "ransomware-incident",
+  "title": "PBS AEROSPACE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PBS AEROSPACE",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000000,
+    "description": "PBS Group PBS GROUP, a.s. is a joint-stock company of the holding type, which is engaged in investments and the exercise of shareholder rights of engineering companies in the group. The main mission is the long-term development of these companies and the creation of synergic links in the provision of comprehensive product solutions in various industrial segments. The products and services of the companies included in the holding are sought after by customers from all over the world, especially in the aviation, energy and transport industries.\r \r We have 2TB of confidential company data in our hands.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34788d62d622788fac430d0b60fa7015.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uejtieffuk9tuefdrubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-04 12:09:15.066000",
+    "disclosedDate": "2024-11-20 22:53:35.203303"
+  }
+}

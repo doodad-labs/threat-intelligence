@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-10CC52",
+  "type": "ransomware-incident",
+  "title": "ggw.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ggw.net",
+    "domain": "ggw.net",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Glenn Graydon Wright LLP (GGW) is an established Oakville, Ontario accounting and advisory firm (founded 1958) that provides assurance, tax, …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6786f6e403c69ed60b6e1dfbeed89e00.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2d3lm5ldebzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-03 00:00:00.000000",
+    "disclosedDate": "2025-10-10 21:11:25.051549"
+  }
+}

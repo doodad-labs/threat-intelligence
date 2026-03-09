@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-2655AE",
+  "type": "ransomware-incident",
+  "title": "Arbour Volkswagen ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Arbour Volkswagen",
+    "country": "CA",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 4000000000,
+    "description": "Throughout the year your Arbour Volkswagen in Laval offers you a large choice of special offers, impressive rebates and unbeatablepromotions.We are ready to upload more than 4 GB of documents such as: confidential agreements containing clients personal information, detailed financial data (audits, payment details, reports, invoices), employee and partners information, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjib3vyifzvbgtzd2fnzw5aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-25 00:00:00.000000",
+    "disclosedDate": "2025-06-26 12:12:42.805965"
+  }
+}

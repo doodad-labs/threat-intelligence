@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-17B5A4",
+  "type": "ransomware-incident",
+  "title": "texanscan.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "texanscan.org",
+    "domain": "texanscan.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "chort",
+    "name": "chort",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Status: Not Available - details:  Databases + Files of This Company",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgv4yw5zy2fulm9yz0bjag9yda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-17 10:30:27.000805",
+    "disclosedDate": "2024-11-17 10:30:28.383741"
+  }
+}

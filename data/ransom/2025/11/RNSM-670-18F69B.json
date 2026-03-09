@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-18F69B",
+  "type": "ransomware-incident",
+  "title": "simmonsbb.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "simmonsbb.com",
+    "domain": "simmonsbb.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Simmons Electrical Co. Ltd. is a well-established Barbadian electrical contracting firm headquartered in St. Philip. The company specializes in a …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8a974a0adca3abd777032240e10bb854.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2ltbw9uc2jilmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-18 21:13:13.702404",
+    "disclosedDate": "2025-11-18 21:13:29.067389"
+  }
+}

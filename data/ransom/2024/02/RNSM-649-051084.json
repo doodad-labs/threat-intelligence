@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-051084",
+  "type": "ransomware-incident",
+  "title": "logtainer.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "logtainer.com",
+    "domain": "logtainer.com",
+    "country": "IT",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Logtainer means high quality transport: easy, efficient and sustainable. The company was established early in 1997 and has been growing ever since, becoming one of the most active private operators on Italian railways. In 2021, Logtainer's turnover w...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a801ebc1a6e97eec9865191b24b4ac94.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bg9ndgfpbmvylmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-05 11:05:00.000000",
+    "disclosedDate": "2024-02-05 12:02:23.685331"
+  }
+}

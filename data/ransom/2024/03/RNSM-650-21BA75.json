@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-21BA75",
+  "type": "ransomware-incident",
+  "title": "tmbs.ch ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tmbs.ch",
+    "domain": "tmbs.ch",
+    "country": "GB",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Trans Maritime Ltd are specialised in all kinds of European surface transports and are seen as the market leader in handling shipments from and to the United Kingdom/Ireland and the Benelux-States.Thanks to the multiple daily departures to and fr...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c58cc4edb9e6bc72b12e2617d31bd01b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dg1icy5jaebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-21 14:03:00.000000",
+    "disclosedDate": "2024-03-21 14:51:55.051139"
+  }
+}

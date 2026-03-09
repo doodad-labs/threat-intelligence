@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-674-03BE74",
+  "type": "ransomware-incident",
+  "title": "IOTA HOTEL TBILISI ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IOTA HOTEL TBILISI",
+    "domain": "iotahotels.com",
+    "country": "GE",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "- VIP Lists- Invoices, Passport...- Financial Documents",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/su9uqsbit1rftcbuqklmsvnjqg5pz2h0c3bpcmu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-01 00:00:00.000000",
+    "disclosedDate": "2026-03-03 08:46:58.512393"
+  }
+}

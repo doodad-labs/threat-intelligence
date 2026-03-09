@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-0912EB",
+  "type": "ransomware-incident",
+  "title": "San Jose Country Club ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "San Jose Country Club",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 117500000000,
+    "description": "San Jose Country Club is a premier family-friendly private golf club located in Northern California, established in 1899 and known for its rich tradition. The club offers year-round golf, dining options, and various social activities, making it a sought-after destination for members in the Bay Area. It features a newly remodeled clubhouse and event facilities for hosting weddings and special events. Catering to golf enthusiasts and families alike, the club emphasizes superior service and exclusive dining experiences.company is headquartered in 15571 Alum Rock Ave San Jose, CA 95127The total amount of data leakage is 117.5 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6c6a683758534fa772346524a1419c71.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fuiepvc2ugq291bnryesbdbhviqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-09 17:53:20.000000",
+    "disclosedDate": "2025-06-09 20:48:04.959316"
+  }
+}

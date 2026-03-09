@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-28CF53",
+  "type": "ransomware-incident",
+  "title": "csspv ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "csspv",
+    "domain": "csspv.cz",
+    "country": "CZ",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "csspv (Czechia)",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3nzchzabmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-27 00:00:00.000000",
+    "disclosedDate": "2025-04-28 16:46:25.038749"
+  }
+}

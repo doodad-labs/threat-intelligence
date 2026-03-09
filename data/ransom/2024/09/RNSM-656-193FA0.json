@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-193FA0",
+  "type": "ransomware-incident",
+  "title": "rccauto.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rccauto.com",
+    "domain": "rccauto.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "RCC Auto is an automotive company specializing in high-quality aftermarket parts and accessories. They offer a wide range of products, including performance upgrades, custom modifications, and essential car components. Known for their exceptional customer service and competitive pricing, RCC Auto caters to car enthusiasts and professional mechanics alike, ensuring reliability and satisfaction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmnjyxv0by5jb21arwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-19 19:55:20.203478",
+    "disclosedDate": "2024-09-19 19:55:23.458979"
+  }
+}

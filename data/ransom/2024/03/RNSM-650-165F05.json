@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-165F05",
+  "type": "ransomware-incident",
+  "title": "hdstrading.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hdstrading.com",
+    "domain": "hdstrading.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Established in 2002 HDS Trading Corp is a notable vendor in today's houseware products market. Established on the experience of over 30 years in the retail market, HDS is geared to our buyer's needs in diverse items ranging from kitchen to bath to st...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6947f8ffc73247328ee8981223d07fff.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agrzdhjhzgluzy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-17 00:00:00.000000",
+    "disclosedDate": "2024-03-16 14:48:05.205374"
+  }
+}

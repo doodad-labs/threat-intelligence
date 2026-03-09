@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-664-2971DA",
+  "type": "ransomware-incident",
+  "title": "Choice AG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Choice AG",
+    "domain": "choice.de",
+    "country": ""
+  },
+  "actor": {
+    "id": "crypto24",
+    "name": "crypto24",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Choice AG\" is a Switzerland-based company that specializes in providing solutions for investment and risk management. It offers software as well as asset management services that cater towards institutional and private investors alike. Their solutions are geared to help clients manage risk while optimizing investment returns. Services range from portfolio management to risk analysis, covering various types of assets from bonds to real estate.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hvawnliefhqgnyexb0bzi0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-29 00:00:00.000000",
+    "disclosedDate": "2025-05-29 15:45:59.899040"
+  }
+}

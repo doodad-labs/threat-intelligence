@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-656-2877B2",
+  "type": "ransomware-incident",
+  "title": "Røros Hotell ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Røros Hotell",
+    "domain": "roroshotellene.no",
+    "country": "NO",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 53800000000,
+    "description": "Røros Hotell (founded in 1951) - a hotel with a cinema, children's playgrounds and other things. The hotel is located at Roros Hotell (Avd.300), Postboks 67,Økern 0508, OSLO, Norway. The total amount of data leakage is 53.80 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uso4cm9ziehvdgvsbebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-28 09:36:20.000000",
+    "disclosedDate": "2024-09-28 19:44:53.249555"
+  }
+}

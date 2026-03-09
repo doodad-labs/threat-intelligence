@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-652-15C5FF",
+  "type": "ransomware-incident",
+  "title": "district70.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "district70.org",
+    "domain": "district70.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pueblo County School District 70 is located in beautiful Pueblo, Colorado, where the Fountain and Arkansas Rivers converge and the eastern foothills of the Rocky Mountains meet the Great Plains. Established in 1950 through the consolidation of 35 sma...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6cd50b8f3e9ac977585abfdd84a0a16e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zglzdhjpy3q3mc5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.fox21news.com/news/fbi-and-cia-investigate-pueblo-county-school-district-data-breach/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-15 14:47:00.000000",
+    "disclosedDate": "2024-05-15 16:50:58.104323"
+  }
+}

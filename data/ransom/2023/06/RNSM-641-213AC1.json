@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-641-213AC1",
+  "type": "ransomware-incident",
+  "title": "Eastside Union School District ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Eastside Union School District",
+    "domain": "eusd.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "karakurt",
+    "name": "karakurt",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 18000000000,
+    "description": "Eastside Union School District seeks to provide an inclusive, challenging and innovative education in a safe, positive and rigorous learning environment with dynamic and responsive staff. The size of files we've taken - 18Gb. Accounting, personal information and so on. Everything will be uploaded during upcoming release.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwfzdhnpzgugvw5pb24gu2nob29sierpc3ryawn0qgthcmfrdxj0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-21 13:00:25.135005",
+    "disclosedDate": "2023-06-21 13:00:25.135028"
+  }
+}

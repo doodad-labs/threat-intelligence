@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-1554BC",
+  "type": "ransomware-incident",
+  "title": "Nuevatel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nuevatel",
+    "domain": "viva.com.bo",
+    "country": "BO",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dunghill",
+    "name": "dunghill",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Nuevatel PCS de Bolivia S.A., better known as VIVA, is a Bolivian wireless network operator and telecommunications company. It was founded in 1999. It is currently among the largest companies in the country. Viva is the third-largest wireless carrier in Bolivia, with a market share of 12.9%",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/acd2095854f3f4e7c0986d4793b82b6d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tnvldmf0zwxazhvuz2hpbgw=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-15 23:46:01.666145",
+    "disclosedDate": "2024-07-15 23:46:02.294893"
+  }
+}

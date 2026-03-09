@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-056368",
+  "type": "ransomware-incident",
+  "title": "TraCS Florida FSU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TraCS Florida FSU",
+    "domain": "tracsflorida.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TraCS Florida is a grant-funded program provided by the Florida Department of Transportation (FDOT) to Florida State University (FSU) to develop a software package for law enforcement across the state that will facilitate the electronic submission of traffic crash",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f5a16cde6f29fec94ec7600e86194c6e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjhq1mgrmxvcmlkysbgu1vaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-05 20:12:53.123456",
+    "disclosedDate": "2023-12-05 20:41:23.255411"
+  }
+}

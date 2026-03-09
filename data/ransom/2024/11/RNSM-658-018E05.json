@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-018E05",
+  "type": "ransomware-incident",
+  "title": "PetroSouth ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PetroSouth",
+    "domain": "petrosouth.com",
+    "country": "VE",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Whether you operate a station in need of a business boost or a customer simply looking for a better deal on gas, PetroSouth has something for everyone.Want to energize your business? PetroSouth has the total package you’ve been looking             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6c4f480242e16c37f505fb184cdfb619.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugv0cm9tb3v0aebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 00:00:00.000000",
+    "disclosedDate": "2024-11-01 03:17:55.791003"
+  }
+}

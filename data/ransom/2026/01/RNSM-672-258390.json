@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-258390",
+  "type": "ransomware-incident",
+  "title": "WFRFIRE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WFRFIRE.COM",
+    "domain": "wfrfire.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] WFR Wholesale Fire & Rescue Ltd. (WFRFIRE.COM) is a company based in Calgary, Canada. They specialize in distributing high quality firefighting equipment to fire departments, industrial users, and other public safety organizations. Their product range includes fire safety gear, fire trucks, training tools, water flow equipment, and more. They commit to providing superior service and expertise to ensure optimal safety in handling fire disasters.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a23bc81950df02db1eb3976751b4ad44.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0zsrklsrs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 15:08:48.320028",
+    "disclosedDate": "2026-01-25 15:09:02.670733"
+  }
+}

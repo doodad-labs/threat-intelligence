@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-049663",
+  "type": "ransomware-incident",
+  "title": "brockmaninjurylawyer.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "brockmaninjurylawyer.com",
+    "domain": "brockmaninjurylawyer.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The attorneys at Jonathan R. Brockman, P.C. are dedicated to helping victims who have been injured or killed due to the negligence of others. Between them, our attorneys have more than 70 years of experience pursuing personal injury claims on behalf of clients and representing clients in a court of law. They have successfully tried cases in federal court and argued cases in the Georgia Court of Appeals and the Georgia Supreme Court.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/86ad1b1c6bf98b808d34af75ef08379f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjvy2ttyw5pbmp1cnlsyxd5zxiuy29tqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-03 10:10:00.000000",
+    "disclosedDate": "2026-03-04 15:48:25.279610"
+  }
+}

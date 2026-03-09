@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-664-05AAC1",
+  "type": "ransomware-incident",
+  "title": "OeTTINGER Brauerei ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OeTTINGER Brauerei",
+    "domain": "oettinger-bier.de",
+    "country": "DE",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A legacy that the Kollmar family has preserved for 300 years and that Pia Kollmar intends to carry into the future: 'I couldn’t do anything else,' - she says with a smile. 'OeTTINGER is not just my life. OeTTINGER is my - DNA.'",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bbf988341fdec2b0c9246d410ad87b0c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2vuvelor0vsiejyyxvlcmvpqhjhbnnvbwhvdxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.tag24.de/nachrichten/wirtschaft/unternehmen/oettinger-im-visier-von-hackern-cyberangriff-auf-traditionsbrauerei-3380219",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-19 00:00:00.000000",
+    "disclosedDate": "2025-05-05 13:48:06.107275"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-2076DA",
+  "type": "ransomware-incident",
+  "title": "MarineMax ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MarineMax",
+    "domain": "marinemax.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MarineMax",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfyaw5ltwf4qhjoexnpzge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://therecord.media/boat-seller-marinemax-reports-cyberattack-sec",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-20 23:56:53.327634",
+    "disclosedDate": "2024-03-20 23:56:53.327657"
+  }
+}

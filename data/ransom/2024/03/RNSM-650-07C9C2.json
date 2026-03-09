@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-07C9C2",
+  "type": "ransomware-incident",
+  "title": "en-act-architecture ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "en-act-architecture",
+    "domain": "enact-architecture.fr",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Architectural, urban planning and design firm dedicated to the design and monitoring of the production of public and private works. Implantations in Par is, Rouen, Abbeville and Eu-Le Tréport.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw4tywn0lwfyy2hpdgvjdhvyzubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-27 00:00:00.000000",
+    "disclosedDate": "2024-03-07 17:50:52.908356"
+  }
+}

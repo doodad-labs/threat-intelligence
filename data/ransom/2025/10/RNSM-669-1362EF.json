@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-1362EF",
+  "type": "ransomware-incident",
+  "title": "relationmedia.dk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "relationmedia.dk",
+    "domain": "relationmedia.dk",
+    "country": "DK",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "obscura",
+    "name": "obscura",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue: $<5kk | Leak Size: xx GB | Status: Published",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eb5ad4502ced578c836c7c479a044304.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmvsyxrpb25tzwrpys5ka0bvynnjdxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 11:54:36.462256",
+    "disclosedDate": "2025-10-13 11:54:49.199599"
+  }
+}

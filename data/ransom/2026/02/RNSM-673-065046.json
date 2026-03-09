@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-065046",
+  "type": "ransomware-incident",
+  "title": "Logility ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Logility",
+    "domain": "logility.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Logility is a global provider of supply chain planning and retail planning solutions. The company's services drive efficiencies, performance, and profitability by providing organizations with the tools to streamline operations. Established in 1972, Logility provides strategic, merchandise, assortment, demand, inventory, replenishment, and supply chain management solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a1dd064252101a0ae296e5cf651a9f35.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tg9nawxpdhlay29pbmjhc2vjyxj0zww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-06 15:25:50.822695",
+    "disclosedDate": "2026-02-06 15:26:08.471798"
+  }
+}

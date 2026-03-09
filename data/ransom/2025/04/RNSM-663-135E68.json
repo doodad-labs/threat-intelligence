@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-135E68",
+  "type": "ransomware-incident",
+  "title": "Harris Steel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Harris Steel",
+    "domain": "harrissteelco.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Harris Steel Company is a steel slitting and processing manufacturer that has been operating since 1950, focusing on building long-term relationships with customers and suppliers. The company emphasizes the importance of competing in the market and continuously improving its knowledge of products and capabilities. Harris Steel is dedicated to maintaining a reputation for consistent performance aligned with its business philosophies. The company aims to elevate standards through ongoing improvement at both individual and company levels.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a43d918851a92d3b231df05aa722b128.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgfycmlzifn0zwvsqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-09 20:53:25.708952",
+    "disclosedDate": "2025-04-13 20:20:55.650791"
+  }
+}

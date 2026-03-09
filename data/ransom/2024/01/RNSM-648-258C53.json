@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-648-258C53",
+  "type": "ransomware-incident",
+  "title": "ANI Networks ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ANI Networks",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "ANI Networks is a leader in the wholesale, carrier-class telecommunications industry. 30GB of data will be uploaded. There will bemany files with personal information (SSN, DOB and so on), nda, confidential agreements and other operational files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qu5jie5ldhdvcmtzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-25 14:41:54.994602",
+    "disclosedDate": "2024-01-25 14:41:55.050656"
+  }
+}

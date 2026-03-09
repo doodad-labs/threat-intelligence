@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-01AA5A",
+  "type": "ransomware-incident",
+  "title": "Southeast Vermont Transit (MOOver) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Southeast Vermont Transit (MOOver)",
+    "domain": "moover.org",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The MOOver division of Southeast Vermont Transit operates in transportation services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/160b4eaa5c67b9f37759ba6522e497d5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u291dghlyxn0ifzlcm1vbnqgvhjhbnnpdcaotu9pdmvykubiawfubglhbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-01 09:46:25.808332",
+    "disclosedDate": "2024-01-01 09:46:25.808356"
+  }
+}

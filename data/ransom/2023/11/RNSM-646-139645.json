@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-139645",
+  "type": "ransomware-incident",
+  "title": "ASM GLOBAL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ASM GLOBAL",
+    "domain": "asmglobal.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ASM Global is a venue & event management company based in LA, specializing in managing stadiums, convention centers, theaters, and unique venues.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/52dde6c104c137e542e2637c8da4a8b3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvnniedmt0jbtebhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-13 19:05:39.123456",
+    "disclosedDate": "2023-11-13 20:26:11.926471"
+  }
+}

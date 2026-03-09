@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-2373C3",
+  "type": "ransomware-incident",
+  "title": "LawDepot ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LawDepot",
+    "domain": "lawdepot.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LawDepot",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgf3rgvwb3racmh5c2lkyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-23 09:45:24.348745",
+    "disclosedDate": "2024-07-23 09:45:25.090949"
+  }
+}

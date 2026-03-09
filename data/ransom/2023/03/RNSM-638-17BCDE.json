@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-638-17BCDE",
+  "type": "ransomware-incident",
+  "title": "Stanley Steemer ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Stanley Steemer",
+    "domain": "stanleysteemer.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ohio, United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f4224da29434611fde7e1ed61cf7656e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rhbmxlesbtdgvlbwvyqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/299520/20231207/play-ransomware-gang-claims-responsibility-stanley-steemer-cyberattack-march-nearly.htm",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-17 17:31:27.264641",
+    "disclosedDate": "2023-03-17 17:31:27.264666"
+  }
+}

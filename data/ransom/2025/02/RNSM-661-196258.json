@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-196258",
+  "type": "ransomware-incident",
+  "title": "foyernotredamedepaix.be ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "foyernotredamedepaix.be",
+    "domain": "foyernotredamedepaix.be",
+    "country": "BE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Foyernotredamedepaix.be is a Belgian healthcare company that specializes in treating people with mental illnesses and disabilities. The company provides personalized care plans focusing on respect, autonomy, and personal development while preserving patients' dignity. They offer aid to families affected by such illnesses and aim to create a peaceful, supportive environment for each individual under their care.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ce9f594589d2ba7242789e59e8406bb5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zm95zxjub3ryzwrhbwvkzxbhaxguymvac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-12 00:00:00.000000",
+    "disclosedDate": "2025-02-19 16:25:49.126637"
+  }
+}

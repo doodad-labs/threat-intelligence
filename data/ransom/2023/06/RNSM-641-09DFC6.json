@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-641-09DFC6",
+  "type": "ransomware-incident",
+  "title": "PENNCREST School District ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PENNCREST School District",
+    "domain": "penncrest.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 164000000000,
+    "description": "PENNCREST School District provides resources and opportunities that challenge students, assess their educational progress, provide a system of support and empower all to become confident lifelong learners. This organization like many other does not hold student information in safe. We are going to upload everything we got from them here soon. Personal information of students and employees as well as schools' financial data are pretty detailed. Everything is of 164GB.Stay in touch!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b5ec2dc5e49ce32c2a4c21798faad7b9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uevotknsrvnuifnjag9vbcbeaxn0cmljdebyb3lhba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.penncrest.org/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-09 01:02:03.456789",
+    "disclosedDate": "2023-06-09 11:58:33.837281"
+  }
+}

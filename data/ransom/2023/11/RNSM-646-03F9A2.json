@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-646-03F9A2",
+  "type": "ransomware-incident",
+  "title": "Warning to Advarra & Gadi! ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Warning to Advarra & Gadi!",
+    "domain": "advarra.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Advancing clinical research by enabling the research ecosystem to develop life-changing therapies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ec8a3cd8f10321413da0d38c405b01f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fybmluzyb0bybbzhzhcnjhicygr2fkasfaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.databreaches.net/exclusive-advarra-hacked-threat-actors-threatening-to-leak-data/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-02 23:55:11.123456",
+    "disclosedDate": "2023-11-03 00:56:42.464580"
+  }
+}

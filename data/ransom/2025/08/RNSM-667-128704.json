@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-667-128704",
+  "type": "ransomware-incident",
+  "title": "Assisted Living Pharmacy Service LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Assisted Living Pharmacy Service LLC",
+    "domain": "alpsrx.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Assisted Living Pharmacy Service LLC operates in the field of providing medicines and assistance in selecting medications in WL, USA. The company states that “Our mission is to provide the best services in the industry at the highest level             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/20c1f06af889e75916ec11637f085d71.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxnzaxn0zwqgtgl2aw5nifboyxjtywn5ifnlcnzpy2ugtexdqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://alpsrx.com/notice-of-data-event/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-12 00:00:00.000000",
+    "disclosedDate": "2025-08-12 15:23:10.250581"
+  }
+}

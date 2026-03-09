@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-645-136291",
+  "type": "ransomware-incident",
+  "title": "Optimity UK ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Optimity UK",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We’ve successfully obtained control of their entire Azure cloud environment, which now resides under our supervision. Regrettably for them and fortunately for us, we’ve also secured access to data from over 1000 companies that were utilizing their cloud services. In the event that Optimity does not comply with our demands, we will begin to initiate…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7d69d300bb36f05d56b22089e5dfcbc4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3b0aw1pdhkgvutacmfuc29tzwq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-13 08:04:44.649760",
+    "disclosedDate": "2023-10-13 08:04:44.649781"
+  }
+}

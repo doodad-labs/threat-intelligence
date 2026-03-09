@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-260FCA",
+  "type": "ransomware-incident",
+  "title": "Scara ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Scara",
+    "domain": "scara.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SCARA (Société Coopérative Agricole de la Région d’Arcis-sur-Aube) is an agricultural cooperative which extends over 30 kilometers around Arcis sur Aube near Troyes. For 10...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/23221fd6bbca33a857caa86697317440.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2nhcmfabm9lc2nhcgu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-21 00:00:00.000000",
+    "disclosedDate": "2023-09-26 23:48:56.416505"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-07703A",
+  "type": "ransomware-incident",
+  "title": "aletech.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aletech.com.br",
+    "domain": "aletech.com.br",
+    "country": "BR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Somos uma Edtech que busca, através da oferta de soluções tecnológicas, elevar o nível da educação no Brasil.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d6e6b2e969075af0e511236acda17b1e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxldgvjac5jb20uynjazgfya3zhdwx0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-07 00:00:00.000000",
+    "disclosedDate": "2024-05-07 02:00:14.332927"
+  }
+}

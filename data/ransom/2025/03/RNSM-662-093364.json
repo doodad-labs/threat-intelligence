@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-093364",
+  "type": "ransomware-incident",
+  "title": "ACTi Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ACTi Corporation",
+    "domain": "acti.com",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ACTi is an expert in IP video analytics solutions for security management, operation management and business intelligence. Big data stored in the cloud is presented through a dashboard interface and provides real-time reports on KPIs and other performance/efficiency metrics to help enterprises and businesses make the right decisions. The focused industries are physical security, retail, logistics, factory, and transportation. These solutions include very specific market-driven services, such as POS, access control, and alarm systems integration, fleet and queue management, automatic license plate and face recognition as well as other analytics-based services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/10d73fdede6e35ab4bbfaf28a7f425ed.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qunuasbdb3jwb3jhdglvbkbsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-25 00:00:00.000000",
+    "disclosedDate": "2025-03-09 20:00:38.640047"
+  }
+}

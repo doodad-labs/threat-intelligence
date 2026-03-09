@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-04868B",
+  "type": "ransomware-incident",
+  "title": "hobokennj.gov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hobokennj.gov",
+    "domain": "hobokennj.gov",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "City of Hoboken",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ag9ib2tlbm5qlmdvdkb0ahjlzwft",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://patch.com/new-jersey/hoboken/hoboken-city-hall-victim-cyber-attack-they-say-messages",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-04 14:52:13.126444",
+    "disclosedDate": "2024-12-04 14:52:13.501104"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-162CC7",
+  "type": "ransomware-incident",
+  "title": "Orange.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Orange.com",
+    "domain": "orange.com",
+    "country": "FR",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Orange.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c6486dd9a25e90e2197283faff01527c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3jhbmdllmnvbubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-16 13:36:44.000000",
+    "disclosedDate": "2025-03-16 14:49:09.799870"
+  }
+}

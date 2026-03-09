@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-659-047B80",
+  "type": "ransomware-incident",
+  "title": "rscn.org.jo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rscn.org.jo",
+    "domain": "rscn.org.jo",
+    "country": "JO"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] The Royal Society for the Conservation of Nature (RSCN) in Jordan is a non-profit organization dedicated to protecting and managing the country's natural resources. Established in 1966, RSCN focuses on biodiversity conservation, the establishment of nature reserves, and sustainable development initiatives. It also promotes environmental awareness and education to foster a culture of conservation across Jordan.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cnnjbi5vcmcuam9aznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-04 06:33:44.983279",
+    "disclosedDate": "2024-12-04 06:33:47.505694"
+  }
+}

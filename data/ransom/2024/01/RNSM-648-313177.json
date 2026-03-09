@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-313177",
+  "type": "ransomware-incident",
+  "title": "Basin Trucking and Oilfield Services LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Basin Trucking and Oilfield Services LLC",
+    "domain": "basintrucking.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Basin Concrete - Trucking and Rental provides oilfield trucking services and rental equipment throughout the central plains from North Dakota to Texas and everywhere in between. Our goal is to provide simple, complete, and cost-effective solutions to complex problemsbasintrucking.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ea98092a410a9c2293e2438296e771b9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfzaw4gvhj1y2tpbmcgyw5kie9pbgzpzwxkifnlcnzpy2vziexmq0a4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-31 00:00:00.000000",
+    "disclosedDate": "2024-01-31 04:27:16.964576"
+  }
+}

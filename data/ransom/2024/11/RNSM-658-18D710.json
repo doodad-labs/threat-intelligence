@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-18D710",
+  "type": "ransomware-incident",
+  "title": "Waters Truck and Tractor (waterstruck.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Waters Truck and Tractor (waterstruck.com)",
+    "domain": "waterstruck.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000,
+    "description": "3 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0b2865475220525788dfb9d978629203.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2f0zxjzifrydwnrigfuzcbucmfjdg9yich3yxrlcnn0cnvjay5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 00:00:00.000000",
+    "disclosedDate": "2024-11-18 15:44:59.546776"
+  }
+}

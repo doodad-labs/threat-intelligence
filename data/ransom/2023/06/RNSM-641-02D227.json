@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-02D227",
+  "type": "ransomware-incident",
+  "title": "harwoodlloyd.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "harwoodlloyd.com",
+    "domain": "harwoodlloyd.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Harwood Lloyd, LLC is a full-service law firm that proudly serves international, national, regional, and individual clients, offering the personal attention and service of a boutique with the experience and quality of a large national firm.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a1161a8ca92c1b629e4644c2d44fbf58.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfyd29vzgxsb3lklmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-02 17:58:00.000000",
+    "disclosedDate": "2023-06-02 19:58:48.299095"
+  }
+}

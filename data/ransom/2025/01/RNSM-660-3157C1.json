@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-3157C1",
+  "type": "ransomware-incident",
+  "title": "Farrar Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Farrar Corporation",
+    "domain": "farrarusa.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Farrar Corporation is a leading supplier of ductile iron castings and quality machined components. With over 90 years of quality American manufacturing behind us, we deliver innovative ISO-certified results in pattern design, heat treating, CNC machining and assembly services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1bf35312f641b6b6a9bf3fe0d772c3a3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmfycmfyienvcnbvcmf0aw9uqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-31 18:42:28.005154",
+    "disclosedDate": "2025-01-31 18:43:33.214707"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-671-290C0F",
+  "type": "ransomware-incident",
+  "title": "selp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "selp",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "selp.fr\r Clients: apple, loreal, google, ikea...\r WE HAS COLLECTED SUCH DATA AS: \r - Confidential documents\r - Clients Data\r - NDA\r - Financial data\r - Operations\r - Corporate data\r - Business Agreements\r - Source Code\r And a lot of other VERY IMPORTANT information!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f4e67ebf97fc161bea396cba573a4629.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vscebpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-28 12:00:00.000000",
+    "disclosedDate": "2025-12-29 16:23:18.365548"
+  }
+}

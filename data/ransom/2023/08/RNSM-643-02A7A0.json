@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-02A7A0",
+  "type": "ransomware-incident",
+  "title": "unicorpusa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "unicorpusa.com",
+    "domain": "unicorpusa.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2637d27baf812477898fd5036e33c413.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dw5py29ychvzys5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-02 06:13:00.000000",
+    "disclosedDate": "2023-08-02 06:56:29.018801"
+  }
+}

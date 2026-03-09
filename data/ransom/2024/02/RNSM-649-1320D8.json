@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-649-1320D8",
+  "type": "ransomware-incident",
+  "title": "Sanok Rubber CompanySpólka Akcyjna ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sanok Rubber CompanySpólka Akcyjna",
+    "country": "PL",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 600000000000,
+    "description": "Sanok Rubber Company SA is a European manufacturer in the production of rubber, rubber-metal products and combinations of rubber with other materials. Almost 600GB of their files will be available soon. You can find personal documents, accounting information, many confidential files, information about clients and much more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fub2sgunviymvyienvbxbhbnltcmozbgthiefry3lqbmfaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-13 10:04:22.169484",
+    "disclosedDate": "2024-02-13 10:04:22.234533"
+  }
+}

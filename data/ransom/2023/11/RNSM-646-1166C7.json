@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-1166C7",
+  "type": "ransomware-incident",
+  "title": "roth-werkzeugbau.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "roth-werkzeugbau.de",
+    "domain": "roth-werkzeugbau.de",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bei roth Werkzeugbau liefern wir unseren Kunden schlüsselfertige Werkzeuglösungen.denn in unserem hauseigenen Technikum können wir nicht nur die Abmusterung auf unserem Maschinenpark durchführen, sondern auch Potentiale aus der Inbetriebnahme Ihrer M...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9059cab8242842e4fe4b48122ac11c6d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm90ac13zxjremv1z2jhds5kzubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-22 00:00:00.000000",
+    "disclosedDate": "2023-11-11 21:58:36.791921"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-213293",
+  "type": "ransomware-incident",
+  "title": "LIFEFITNESS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LIFEFITNESS.COM",
+    "domain": "lifefitness.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Life Fitness is a well-known, global company specializing in commercial-grade fitness equipment for both personal and communal use. Their product range includes treadmills, stationary bikes, stair climbers, and strength-training equipment. Known for their innovative designs, durability, and user-friendly interface, they cater to both fitness enthusiasts and professional athletes alike. They also offer fitness technology, training, and services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4f80d54219c482784d84b47cddbf213a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/telgruzjve5fu1muq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 12:46:09.001285",
+    "disclosedDate": "2025-11-21 12:46:22.730860"
+  }
+}

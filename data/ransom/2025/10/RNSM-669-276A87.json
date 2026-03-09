@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-276A87",
+  "type": "ransomware-incident",
+  "title": "HARVARD.EDU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HARVARD.EDU",
+    "domain": "harvard.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Harvard.edu is the official website of Harvard University, a private Ivy League research university located in Cambridge, Massachusetts. The platform provides extensive resources about their programs, academic departments, research, libraries, museums, and campus life. It offers information on admissions, financial aid, courses, faculty, and alumni. As a globally recognized educational institution, its online presence serves students, educators, and researchers worldwide.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e02135fce26464af8e10fb1f71509920.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sefsvkfsrc5frfvay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-27 11:24:07.089541",
+    "disclosedDate": "2025-10-27 11:24:23.715407"
+  }
+}

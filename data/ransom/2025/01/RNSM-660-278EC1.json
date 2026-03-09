@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-278EC1",
+  "type": "ransomware-incident",
+  "title": "www.farmaciaflorio.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.farmaciaflorio.com",
+    "domain": "farmaciaflorio.com",
+    "country": "IT",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.farmaciaflorio.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1cdc600e32c411f01dac548bdfcda795.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmzhcm1hy2lhzmxvcmlvlmnvbubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:23:15.831599",
+    "disclosedDate": "2025-01-27 07:24:21.219319"
+  }
+}

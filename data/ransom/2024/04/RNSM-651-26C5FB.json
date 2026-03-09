@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-26C5FB",
+  "type": "ransomware-incident",
+  "title": "Jutebag  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jutebag ",
+    "domain": "jutebag.co.uk",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Visits: 113 Data Size: 20 GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/39197c7066b5f249cea7245d4df3b60f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/snv0zwjhzybacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-26 00:24:44.874097",
+    "disclosedDate": "2024-04-26 00:24:44.874129"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-063A77",
+  "type": "ransomware-incident",
+  "title": "Haivision MCS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Haivision MCS",
+    "domain": "haivision.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Haivision MCS (CineMassive until 2022)focuses on providing highly specialized systems designed to address mission-critical challenges in global security operations centers, joint and tactical operations centers, public safety operations centers, and control rooms. Global Headquarters - 150 Ottley Drive NE Atlanta, GA 30324 United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgfpdmlzaw9uie1du0btzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-05 18:18:53.12345",
+    "disclosedDate": "2024-03-06 19:53:38.995800"
+  }
+}

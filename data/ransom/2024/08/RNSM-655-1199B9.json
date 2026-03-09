@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-1199B9",
+  "type": "ransomware-incident",
+  "title": "emanic.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "emanic.net",
+    "domain": "emanic.net",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Electronic Maintenance Associates, Inc. (dba EMA) provides products, services, training, and more related to Medium Voltage Variable Frequency Drives. Celebrating our 33rd year, over 98% of our customers say they are \"very satisfied\" with EMA; that's...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/594816f691f49b7aef2aeed063c6f733.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw1hbmljlm5ldebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-14 00:00:00.000000",
+    "disclosedDate": "2024-08-11 07:22:22.000310"
+  }
+}

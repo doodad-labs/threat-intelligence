@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-20A6CA",
+  "type": "ransomware-incident",
+  "title": "Medswana ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Medswana",
+    "domain": "medswana.co.bw",
+    "country": "BW",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8d30acd67e349eec52ec1f8096491584.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvkc3dhbmfaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-20 00:58:14.329966",
+    "disclosedDate": "2025-05-20 00:59:36.226092"
+  }
+}

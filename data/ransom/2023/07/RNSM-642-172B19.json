@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-172B19",
+  "type": "ransomware-incident",
+  "title": "CFINS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CFINS.COM",
+    "domain": "cfins.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Crum & Forster Insurance - Crum & Forster",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c928488a71b22d35e81795f0b72b406d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0zjtlmuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-17 13:20:54.072170",
+    "disclosedDate": "2023-07-17 13:20:54.072195"
+  }
+}

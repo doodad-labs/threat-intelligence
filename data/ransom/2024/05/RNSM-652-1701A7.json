@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-1701A7",
+  "type": "ransomware-incident",
+  "title": "PRIMARYSYS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PRIMARYSYS.COM",
+    "domain": "primarysys.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - My Site",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d5098261c371d170947af4ba47a04d70.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ufjjtufswvnzuy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-17 07:23:46.928264",
+    "disclosedDate": "2024-05-17 07:23:46.928295"
+  }
+}

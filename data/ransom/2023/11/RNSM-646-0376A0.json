@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-0376A0",
+  "type": "ransomware-incident",
+  "title": "jewell.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jewell.edu",
+    "domain": "jewell.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "William Jewell College",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c7db656dec4d2ccc0ce3323386473f8a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/amv3zwxslmvkdubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-03 15:19:00.000000",
+    "disclosedDate": "2023-11-03 16:01:03.626609"
+  }
+}

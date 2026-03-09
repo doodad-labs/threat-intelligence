@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-0725E4",
+  "type": "ransomware-incident",
+  "title": "GMA NETWORK ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GMA NETWORK",
+    "domain": "gmanetwork.com",
+    "country": "PH",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "2.5 million USD",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r01bie5fvfdpuktazgv2bwfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.gmanetwork.com/news/topstories/nation/945481/gma-network-statement-on-cybersecurity-incident/story/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-07 22:35:01.958105",
+    "disclosedDate": "2025-05-07 22:35:03.748970"
+  }
+}

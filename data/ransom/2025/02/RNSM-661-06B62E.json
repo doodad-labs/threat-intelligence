@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-06B62E",
+  "type": "ransomware-incident",
+  "title": "DIEM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DIEM",
+    "domain": "unisa.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: eConceptions, Top Systems, DIEM",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/relftubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-06 07:59:30.381197",
+    "disclosedDate": "2025-02-06 07:59:31.201285"
+  }
+}

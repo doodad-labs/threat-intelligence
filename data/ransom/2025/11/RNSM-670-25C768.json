@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-25C768",
+  "type": "ransomware-incident",
+  "title": "cryopur.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cryopur.com",
+    "domain": "cryopur.com",
+    "country": "FR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CryoPur is a French company specializing in advanced cryogenic technology for biogas purification and liquefaction. Founded in 2015, the company developed a patented process that converts raw biogas into bio-LNG (liquefied biomethane) and liquid CO₂ of very high purity. Their systems are used in agricultural, industrial, wastewater, and landfill biogas facilities. CryoPur was acquired by FDE (La Française de l’Énergie), which now owns 94% of the company. CryoPur is headquartered in Massy, Île-de-France, France.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/462ec0a30dab95e5246a3910ce30b5b5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3j5b3b1ci5jb21aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-24 11:11:00.000000",
+    "disclosedDate": "2025-11-25 13:18:36.065714"
+  }
+}

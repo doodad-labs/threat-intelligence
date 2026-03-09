@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-01D7F6",
+  "type": "ransomware-incident",
+  "title": "mdneal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mdneal.com",
+    "domain": "mdneal.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "M.D. Neal Engineering is an American engineering consulting company specializing in structural engineering, design, and project management. The firm provides …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8bedc37f185c7ccbfdea290941d4bb27.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwruzwfslmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-08 00:00:00.000000",
+    "disclosedDate": "2025-09-01 19:06:10.035403"
+  }
+}

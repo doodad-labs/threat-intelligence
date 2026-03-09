@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-263F05",
+  "type": "ransomware-incident",
+  "title": "CareSTL Health ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CareSTL Health",
+    "domain": "carestlhealth.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "cephalus",
+    "name": "cephalus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CareSTL Health DATA Leak | 500+GB | KAWA4096 STEALED our data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a34b4fc98b742a1b019d4b624b5b2432.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fyzvnutcbizwfsdghay2vwagfsdxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-28 19:49:53.140638",
+    "disclosedDate": "2025-08-26 14:43:37.199191"
+  }
+}

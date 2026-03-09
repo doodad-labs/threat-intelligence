@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-645-23CEDF",
+  "type": "ransomware-incident",
+  "title": "EHPAD ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EHPAD",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "EHPAD is a French commercial institution for the accommodation of elderly dependents (nursing home).  The company has several branches in France. The main office is located at 69 Rue République, Trun, Normandy, 61160, France",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0b9c5a0ce89807f58fcdea8e1e3d40bb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ruhqqurabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-23 14:08:20.12345",
+    "disclosedDate": "2023-10-23 14:50:05.874802"
+  }
+}

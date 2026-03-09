@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-0301CB",
+  "type": "ransomware-incident",
+  "title": "Lumenation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lumenation",
+    "domain": "lumenation.net",
+    "country": ""
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ManufacturingKentucky, United States<25 EmployeesLumenation is a lighting sales agency serving Kentucky and southern Indiana, specializing in commercial and industrial lighting since 1960.Revenue <$5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/16b1eb06ea006ac36667010ea74847dc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/thvtzw5hdglvbkbibgfja2xvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-03 10:39:30.000000",
+    "disclosedDate": "2025-06-03 11:14:15.873992"
+  }
+}

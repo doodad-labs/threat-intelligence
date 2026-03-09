@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-231C42",
+  "type": "ransomware-incident",
+  "title": "AJE  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AJE ",
+    "country": "PE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 4000000000,
+    "description": "AJE engages in the manufacture, distribution, and sale of alcoholic and nonalcoholic beverages. It was founded in 1988. AJE corporate office is located in 373 Ave Manuel Olguín Santiago De Piso 10 Surco 33, Lima, Lima Province, Peru and has 2,896 employees. The total amount of data leakage is 646,4 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qupfiebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-18 10:39:01.794834",
+    "disclosedDate": "2024-06-23 10:39:02.285288"
+  }
+}

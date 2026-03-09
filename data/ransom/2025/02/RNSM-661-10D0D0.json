@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10D0D0",
+  "type": "ransomware-incident",
+  "title": "Saied Music ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Saied Music",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 162000000000,
+    "description": "Saied MusicSince 1946, Saied Music Company has been offering the most respected brands and the best selection for your piano, keyboard, organ, band, orchestra, guitar, combo, and print music needs. Visit one of our six locations in Northeast Oklahoma, Arkansas, and Texas. Saied Music Company is proud to support the effort to keep music an integral part of our nation’s elementary and secondary school curriculums.Geo: USA - Leak size: 162 GB - Contains: SQL",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fpzwqgtxvzawnac2fyy29tyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 06:44:57.988176",
+    "disclosedDate": "2025-02-10 06:45:00.353585"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-15B37D",
+  "type": "ransomware-incident",
+  "title": "Ninas Jewellery ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ninas Jewellery",
+    "domain": "ninasjewellery.com.au",
+    "country": "AU",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "brotherhood",
+    "name": "brotherhood",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Nina's Jewellery is a family-owned jewelry business with over 30 years of experience in the industry. Based in Australia, it offers a wide selection of fine jewelry featuring diamonds, colored gemstones, gold and pearls. Known for its exquisite craftsmanship and quality, Nina's Jewellery caters to customers seeking luxurious and timeless pieces for all occasions. With a strong commitment to ethical sourcing, the company ensures the sustainability and traceability in their supply chain.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmluyxmgsmv3zwxszxj5qgjyb3rozxjob29k",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-15 15:50:14.491957",
+    "disclosedDate": "2025-11-15 15:50:18.671127"
+  }
+}

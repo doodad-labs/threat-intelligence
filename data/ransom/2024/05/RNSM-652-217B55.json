@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-217B55",
+  "type": "ransomware-incident",
+  "title": "atlasoil.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "atlasoil.com",
+    "domain": "atlasoil.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 730000000000,
+    "description": "Headquartered in Houston, TX, Atlas Oil is the inaugural Simon Group Holdings company. Since our founding in 1985, Atlas has grown through technological and operational innovation, all while maintaining our unwavering commitment to customer success. Atlas offers single-source solutions for fuel, transportation and logistics and is one of the largest fuel distributors in the country, delivering over 1 billion gallons of fuel annually to customers in 49 states.SITE: www.atlasoil.com Address : 2050 W Sam Houston Pkwy S Houston, TX 77042 USA Tel.# (800) 878-2000ALL DATA SIZE: ≈730gb 1. Corporate data: Accounts, HR, Finance, Executive… 2. Departments data 3. Users, Employees data & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxrsyxnvawwuy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-07 00:00:00.000000",
+    "disclosedDate": "2024-05-21 00:42:32.987422"
+  }
+}

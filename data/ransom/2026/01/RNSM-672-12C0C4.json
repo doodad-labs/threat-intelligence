@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-672-12C0C4",
+  "type": "ransomware-incident",
+  "title": "MyVete ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MyVete",
+    "domain": "myvete.com",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "kazu",
+    "name": "kazu",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MyVete is a veterinary software designed to help animal clinics and veterinary practices manage their operations more efficiently. The platform includes features for managing patient records, appointments, billing, and inventory, all in one system. MyVete allows veterinarians to track medical histories, schedule appointments, and send reminders for vaccinations or follow-up care. The software also includes tools for managing invoicing and payments, allowing clinics to accept payments through multiple methods, including credit cards and insurance claims. With its easy-to-use interface, MyVete streamlines administrative tasks, reducing time spent on paperwork and improving patient care. By providing real-time access to patient data and operational insights, MyVete helps veterinary practices improve efficiency and deliver better care to animals.",
+    "claimed_data_types": [
+      "financial-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txlwzxrlqgthenu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-12 00:00:00.000000",
+    "disclosedDate": "2026-01-12 22:53:37.832992"
+  }
+}

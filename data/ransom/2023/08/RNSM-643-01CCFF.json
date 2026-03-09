@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-01CCFF",
+  "type": "ransomware-incident",
+  "title": "KIMCO Staffing Service ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KIMCO Staffing Service",
+    "domain": "kimco.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have helped more than 212,000 people find employment since 1986. You can count on Kimco Staffing Services to connect you with top employers and guide you every step of the way in your job search. With more than 30 years of award-winning service, our specialty practices are:      Office Professionals     Contact Center/Customer Care     Accounting Operations     Technical Support     Industrial Staffing     Premier Partnership     Kimco Direct",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5f9a09dbfd6a41d73a186e858330a371.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0lnq08gu3rhzmzpbmcgu2vydmljzubhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-01 14:17:00.000000",
+    "disclosedDate": "2023-08-01 15:00:15.540484"
+  }
+}

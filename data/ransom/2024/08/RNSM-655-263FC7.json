@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-655-263FC7",
+  "type": "ransomware-incident",
+  "title": "Blue Maven Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Blue Maven Group",
+    "domain": "bluemavengroup.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "monti",
+    "name": "monti",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Blue Maven provides extensive IT Procurement services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6db25b0d484e77c75b604b55031c4a4c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmx1zsbnyxzlbibhcm91cebtb250aq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-26 11:18:45.869201",
+    "disclosedDate": "2024-08-26 11:18:46.826124"
+  }
+}

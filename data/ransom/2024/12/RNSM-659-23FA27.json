@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-23FA27",
+  "type": "ransomware-incident",
+  "title": "Gallade Chemical (galladechem.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Gallade Chemical (galladechem.com)",
+    "domain": "galladechem.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2400000000,
+    "description": "2.4 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/db62e9715364b754c03f716748113998.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2fsbgfkzsbdagvtawnhbcaoz2fsbgfkzwnozw0uy29tkubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-23 00:00:00.000000",
+    "disclosedDate": "2024-12-23 13:18:39.088512"
+  }
+}

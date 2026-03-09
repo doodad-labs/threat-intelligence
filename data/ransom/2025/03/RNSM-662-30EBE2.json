@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-30EBE2",
+  "type": "ransomware-incident",
+  "title": "bohrerhof.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bohrerhof.de",
+    "domain": "bohrerhof.de",
+    "country": "DE",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Bohrerhof.de\" is a German-based company mainly dealing with agriculture and farming. The company primarily specializes in through farming, fish farming, and renewable energies, contributing significantly to sustainable agriculture. They offer various products from their farming including, fruits, vegetables, and produce from their bakery and butchery. They also facilitate visits and tours to their farm for a firsthand exploration experience.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/19d77eb1a57bc36fb7c4bf8c61eb2512.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym9ocmvyag9mlmrlqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-30 02:51:26.278839",
+    "disclosedDate": "2025-03-30 02:52:47.882741"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-17EBCF",
+  "type": "ransomware-incident",
+  "title": "alt******.tr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "alt******.tr",
+    "country": "TR"
+  },
+  "actor": {
+    "id": "blackshrantac",
+    "name": "blackshrantac",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 600000000000,
+    "description": "DATA SIZE : 600GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3eaa3360858118b831e13c1ce7b4ce38.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywx0kioqkioqlnryqgjsywnrc2hyyw50ywm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-17 06:05:40.528660",
+    "disclosedDate": "2025-09-17 06:05:54.947693"
+  }
+}

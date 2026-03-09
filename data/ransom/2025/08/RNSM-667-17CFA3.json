@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-17CFA3",
+  "type": "ransomware-incident",
+  "title": "Rehabilitative Health Svc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rehabilitative Health Svc",
+    "domain": "rhscares.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "beast",
+    "name": "beast",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rehabilitative Health Services (RHS) is a comprehensive medical and mental health facility located in Ammon, ID, offering a diverse array of services including Addiction and Recovery, Family Medicine, Therapy, Counseling, and Psychological Testing. Established to provide quality therapy options, RHS aims to help clients overcome past trauma and navigate various mental health challenges through professional counseling and support services. With over 25 years in the community, RHS is dedicated to addressing both the physical and mental well-being of clients from childhood to adulthood. The facility also emphasizes community support and operates programs specifically designed for youth and individuals with severe mental illnesses",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/33b6f10a99fac71c43d66f218302aa68.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvoywjpbgl0yxrpdmugsgvhbhroifn2y0bizwfzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-04 00:00:00.000000",
+    "disclosedDate": "2025-08-17 10:43:43.469188"
+  }
+}

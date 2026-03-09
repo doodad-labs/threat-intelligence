@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-1222E6",
+  "type": "ransomware-incident",
+  "title": "aegean.gr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aegean.gr",
+    "domain": "aegean.gr",
+    "country": "GR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The University of the Aegean is a public, multi-campus university located in Lesvos, Chios, Samos, Rhodes, Syros and Lemnos, Greece. It was founded on March 20, 1984, by the Presidential Act 83/1984 and its administrative headquarters are located in...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2d3df6a27a52d0cf4b92a101dc6e13e3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywvnzwfulmdyqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-12 21:19:00.000000",
+    "disclosedDate": "2023-11-12 21:58:37.155966"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-12D581",
+  "type": "ransomware-incident",
+  "title": "WinFashion ERP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WinFashion ERP",
+    "domain": "winfashion.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "WinFashion is an international company supplying...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dec1306bdfd8480a7ac7e185c8ec9876.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lurmfzaglvbibfulbayxjjdxntzwrpyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-11 15:25:30.000000",
+    "disclosedDate": "2024-06-12 06:44:27.211658"
+  }
+}

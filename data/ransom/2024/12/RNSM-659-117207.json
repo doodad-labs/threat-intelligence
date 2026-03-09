@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-117207",
+  "type": "ransomware-incident",
+  "title": "NSK Group ROTA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NSK Group ROTA",
+    "domain": "nskgroup.com.tr",
+    "country": "JP",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Manufacturer of steering, suspension, hydraulic and forged parts for commercial, agricultural, and construction vehicles as well as some other industries. We have two factories located in Bursa (Turkey), as well as sales and marketing offices in Istanbul (Turkey), New Jersey (USA), and warehouses in São Paulo (Brazil) and Chicago (USA). We are driven by the vision of being a customer-focused, market leading and global brand that spring first into the mind all over the world.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3a91d7dc8c7151056e6864c3237c44c8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tlnliedyb3vwifjpvefabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-20 00:00:00.000000",
+    "disclosedDate": "2024-12-11 12:45:53.257289"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-1173EB",
+  "type": "ransomware-incident",
+  "title": "Wilkinson Rogers (wilkinsonrogers.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wilkinson Rogers (wilkinsonrogers.com)",
+    "domain": "wilkinsonrogers.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 57000000000,
+    "description": "57 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3c17ba3e21d6a58b24c872a0220ac6da.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lsa2luc29uifjvz2vycyaod2lsa2luc29ucm9nzxjzlmnvbslazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-10 00:00:00.000000",
+    "disclosedDate": "2025-03-11 01:28:18.293864"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-666-070C34",
+  "type": "ransomware-incident",
+  "title": "relucent.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "relucent.com",
+    "domain": "relucent.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f4acb943460e233e75ece025806b1136.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmvsdwnlbnquy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-17 00:00:00.000000",
+    "disclosedDate": "2025-07-07 22:47:04.663943"
+  }
+}

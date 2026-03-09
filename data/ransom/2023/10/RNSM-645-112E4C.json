@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-645-112E4C",
+  "type": "ransomware-incident",
+  "title": "Catarineau & Givens P.A ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Catarineau & Givens P.A",
+    "domain": "catarineaucpa.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "30 GB of corporate and personal client files exfiltrated (criminal records, SSN, DL photos, sex offender records, legal cases, W-4, W-9, corporate clients' financial statements & tax returns statements)  Catarineau & Givens offers accounting, bookkeeping, employee benefits, consulting, retirement planning, audits, and taxation services.  Think twice before using their services.They did nothing to protect your data.",
+    "claimed_data_types": [
+      "government-identifiers"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a893d5d8be74359d554e066c393f9c1c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2f0yxjpbmvhdsamiedpdmvucybqlkfaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-11 09:24:58.123456",
+    "disclosedDate": "2023-10-11 10:01:18.448533"
+  }
+}

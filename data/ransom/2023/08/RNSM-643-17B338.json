@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-17B338",
+  "type": "ransomware-incident",
+  "title": "kriegerklatt.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kriegerklatt.com",
+    "domain": "kriegerklatt.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Krieger Klatt Architects - Business InformationArchitecture, Engineering & Design · Michigan, United States ·",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e96212da586cbbb2a2f7575f8bdc7386.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3jpzwdlcmtsyxr0lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-17 11:29:00.000000",
+    "disclosedDate": "2023-08-17 13:00:06.101578"
+  }
+}

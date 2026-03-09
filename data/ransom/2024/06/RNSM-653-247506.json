@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-653-247506",
+  "type": "ransomware-incident",
+  "title": "www.concisa.eng.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.concisa.eng.br",
+    "domain": "concisa.eng.br",
+    "country": "BR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qiulong",
+    "name": "qiulong",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "Com duas décadas de atuação em obras de pavimentação, saneamento, asfalto e terraplenagem, a Concisa Obras de Infraestrutura tornou-se referência no sul do Brasil pela qualidade dos serviços e pela transparência com que conduz seus negócios nos segmentos público e privado. Zoominfo: https://www.zoominfo.com/c/concisa-todos/562608830 CEO: Danilo ConteOffice Main Phone: (49) 3323-9591 DATA SIZE: 30GB CEO PERSONAL DOCUMENT:",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5286315f860f12e1c61d988979653686.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnvbmnpc2euzw5nlmjyqhfpdwxvbmc=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-24 17:53:47.000000",
+    "disclosedDate": "2024-06-24 22:23:31.002955"
+  }
+}

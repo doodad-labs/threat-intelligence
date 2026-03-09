@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-258F89",
+  "type": "ransomware-incident",
+  "title": "Grupo Santillana ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Grupo Santillana",
+    "domain": "santillana.com",
+    "country": "ES",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "hellcat",
+    "name": "hellcat",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We hold sensitive files from Santillana, the largest business unit of Spain’s publicly traded Prisa media group. The company must act quickly to prevent the exposure of this data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3j1cg8gu2fudglsbgfuyubozwxsy2f0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-24 22:13:12.000000",
+    "disclosedDate": "2025-03-25 00:29:05.266418"
+  }
+}

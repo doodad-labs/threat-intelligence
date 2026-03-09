@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-114A8E",
+  "type": "ransomware-incident",
+  "title": "Therabel Lucien Pharma SAS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Therabel Lucien Pharma SAS",
+    "domain": "therabel.com",
+    "country": "FR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : France - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ad7c09933815c795427ca94db0247aa4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlcmfizwwgthvjawvuifboyxjtysbtqvnaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-01 00:00:00.000000",
+    "disclosedDate": "2024-10-11 19:04:45.720762"
+  }
+}

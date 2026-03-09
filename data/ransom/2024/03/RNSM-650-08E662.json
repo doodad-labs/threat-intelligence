@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-08E662",
+  "type": "ransomware-incident",
+  "title": "Hozzify  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hozzify ",
+    "domain": "hozzify.co",
+    "country": "CO"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 136000000000,
+    "description": "Visits: 47 Data Size: 136GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34b7316ac0f4338136b848160b1d6174.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg96emlmesbacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-08 14:42:29.965264",
+    "disclosedDate": "2024-03-08 14:42:29.965286"
+  }
+}

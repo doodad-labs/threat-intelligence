@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-641-30251A",
+  "type": "ransomware-incident",
+  "title": "HARRINGTONCOMPANY.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HARRINGTONCOMPANY.COM",
+    "domain": "harringtoncompany.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Harrington Company Home Page",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sefsuklor1rptknptvbbtlkuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-30 13:00:59.390750",
+    "disclosedDate": "2023-06-30 13:00:59.390771"
+  }
+}

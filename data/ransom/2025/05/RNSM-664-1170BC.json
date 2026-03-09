@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-1170BC",
+  "type": "ransomware-incident",
+  "title": "maxusgroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "maxusgroup.com",
+    "domain": "maxusgroup.com",
+    "country": "HK",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6e25dcf022a2f85f7c421f7e529b596f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwf4dxnncm91cc5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-12 00:35:47.900877",
+    "disclosedDate": "2025-05-11 21:55:00.974522"
+  }
+}

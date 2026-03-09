@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-665-19AF82",
+  "type": "ransomware-incident",
+  "title": "taoscounty.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "taoscounty.org",
+    "domain": "taoscounty.org",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "kairos",
+    "name": "kairos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "USA - Taos County",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/50c976b46b53ba4f9666ce562d990ddb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgfvc2nvdw50es5vcmdaa2fpcm9z",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.taosnews.com/public-safety/county-acknowledges-sophisticated-cyberattack/article_1420a2e1-5072-597b-84a0-874e6ed4a628.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-19 20:14:39.171530",
+    "disclosedDate": "2025-06-19 20:15:08.292584"
+  }
+}

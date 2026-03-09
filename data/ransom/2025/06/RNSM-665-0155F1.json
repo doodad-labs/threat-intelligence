@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-665-0155F1",
+  "type": "ransomware-incident",
+  "title": "Presort First Class ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Presort First Class",
+    "domain": "presortfirstclass.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 279300000000,
+    "description": "Presort First Class - offer a complete array of design, print, and mail services. Presort First Class corporate office is located in 2621 SE 15th St, Oklahoma City, Oklahoma, 73129, United States and has 85 employees. The total amount of data leakage is 279.30 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/180c92a5259f2c3afad791ffb93c3d00.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjlc29ydcbgaxjzdcbdbgfzc0btzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-27 05:55:55.000000",
+    "disclosedDate": "2025-06-01 00:43:48.285140"
+  }
+}

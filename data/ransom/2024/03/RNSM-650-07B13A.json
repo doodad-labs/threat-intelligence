@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-650-07B13A",
+  "type": "ransomware-incident",
+  "title": "rmhfranchise.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rmhfranchise.com",
+    "domain": "rmhfranchise.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "RMH Franchise, founded in 2012 and headquartered in Atlanta, Georgia, operates as a franchisee of chain restaurants. The Company offers burgers, chicken, steaks, pasta, seafood, and beverages.We have 1.5tb sensitive data.Call me to toxKatie Hec...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/283c53b40cc41af9f1577b2de9afe785.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm1oznjhbmnoaxnllmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-07 22:09:00.000000",
+    "disclosedDate": "2024-03-07 23:53:15.096460"
+  }
+}

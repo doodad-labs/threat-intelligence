@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-27F7DF",
+  "type": "ransomware-incident",
+  "title": "CSCGLOBAL.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CSCGLOBAL.COM",
+    "domain": "cscglobal.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] CSCGlobal.com is the website of Corporation Service Company (CSC), a recognized leader for business, legal, and financial services. They primarily deal with corporate compliance and governance services, digital brand services, and offer a range of solutions for businesses, including tax and litigation support, domain and trademark services, and corporate trust and escrow solutions. They cater their services to corporations, law firms, financial institutions, and many others globally.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c3127a4a0a67a998a175dc6df2eb4cec.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1ndr0xpqkfmlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-27 11:27:50.593649",
+    "disclosedDate": "2025-10-27 11:28:06.970242"
+  }
+}

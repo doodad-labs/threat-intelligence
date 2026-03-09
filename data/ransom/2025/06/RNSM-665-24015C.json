@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-24015C",
+  "type": "ransomware-incident",
+  "title": "Access Financial ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Access Financial",
+    "country": "CH",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 13000000000,
+    "description": "Access Financial is the leading global provider of contract management, outsourced payroll and umbrella services.We are going to upload another 13 GB of corporate data. Confidential agreements, correspondence, personal documents of employees (passports, death\\birth certificates, other hr files), financials (audits, payment details, reports), NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnjzxnziezpbmfuy2lhbebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-24 00:00:00.000000",
+    "disclosedDate": "2025-06-24 11:41:07.699517"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-15543A",
+  "type": "ransomware-incident",
+  "title": "hatsinteriors.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hatsinteriors.com",
+    "domain": "hatsinteriors.com",
+    "country": "AE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hats Project Management provides its expertise through a wide range of fee based services across a wide range of construction sectors tailored to meet the specific requirements of our client, the project and the geographic location of the particular...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dda2313b17694560d9ff98d55b89db9e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agf0c2ludgvyaw9ycy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-02 00:00:00.000000",
+    "disclosedDate": "2024-02-15 11:55:41.522913"
+  }
+}

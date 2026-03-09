@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-252766",
+  "type": "ransomware-incident",
+  "title": "Teton Orthopaedics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Teton Orthopaedics",
+    "domain": "tetonortho.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "For over 30 years, Teton Orthopaedics has provided exceptional orthopaedic care to the residents of Wyoming and beyond.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgv0b24gt3j0ag9wywvkawnzqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-25 16:40:44.067773",
+    "disclosedDate": "2024-03-25 17:50:59.042675"
+  }
+}

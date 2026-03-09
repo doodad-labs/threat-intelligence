@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-15905D",
+  "type": "ransomware-incident",
+  "title": "www.roscovision.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.roscovision.com",
+    "domain": "roscovision.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1907, Rosco, based in Jamaica, N.Y., is one of North Americas leading suppliers of backup camera systems , mirrors , visors , video recording , sensor products, collision avoidance systems and other visual safety solutions to the worldwide commercial vehicle market. For over a century, Roscos vision has remained exceptionally clear. We engineer and manufacture visual safety systems for all types of commercial fleet vehicles. The company is the largest supplier of mirror systems to the North American school bus market, selling to all major OEMs and parts distributors including Navistar/IC Corp., Freightliner/Thomas Built, Blue Bird, AM General, and many others. Our products are designed from real-world knowledge of the challenges that todays drivers face out on the open road. But thats not all. Rosco Vision systems are also designed to help fleet managers run a more efficient operation, fully compliant with all safety rules, regulations, and legislation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a7dcf9b5a46d93236d6e8cabbff8979e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnjvc2nvdmlzaw9ulmnvbubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-14 18:28:00.000000",
+    "disclosedDate": "2025-09-15 02:24:09.306114"
+  }
+}

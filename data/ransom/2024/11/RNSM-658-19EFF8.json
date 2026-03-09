@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-19EFF8",
+  "type": "ransomware-incident",
+  "title": "BusinessTraining.be ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BusinessTraining.be",
+    "domain": "businesstraining.be",
+    "country": "BE",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 80000000000,
+    "description": "ZIP-80GB - Revenue $16.3 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnvzaw5lc3nucmfpbmluzy5izubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 22:32:17.157326",
+    "disclosedDate": "2024-11-19 22:32:17.586242"
+  }
+}

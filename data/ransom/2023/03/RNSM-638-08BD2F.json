@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-08BD2F",
+  "type": "ransomware-incident",
+  "title": "clair ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "clair",
+    "domain": "clairglobal.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Clair Global, or simply Clair, is a professional sound reinforcement and live touring production support company. It was founded by brothers Roy and Gene Clair, who went into business in 1966 after they were asked to bring their sound system on tour with Frankie Valli and the Four Seasons. It is believed they were the first professional sound company to tour with a band. The company formally incorporated in 1970 as Clair Bros. Audio Enterprises, Inc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2xhaxjaymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-08 07:33:54.767080",
+    "disclosedDate": "2023-03-08 07:33:54.767104"
+  }
+}

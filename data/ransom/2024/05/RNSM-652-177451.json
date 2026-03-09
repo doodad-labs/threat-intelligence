@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-652-177451",
+  "type": "ransomware-incident",
+  "title": "Shyang Shin Bao Ind. Co., Ltd. (hereinafter referred to as ''SSB'') ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Shyang Shin Bao Ind. Co., Ltd. (hereinafter referred to as ''SSB'')",
+    "domain": "ssbshoes.com",
+    "country": "TW",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2200000000000,
+    "description": "Shyang Shin Bao Group is trying to hide the hacking and leakage of confidential company data. We have 2.2TB of confidential company data. Adidas Group has a lot of interesting things for you. Shyang Shin Bao Group, headquartered in Taiwan. S            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/04082e021ba7ae8532b50cd2aaa2d6b9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2h5yw5nifnoaw4gqmfvieluzc4gq28ulcbmdgquichozxjlaw5hznrlcibyzwzlcnjlzcb0bybhcyanj1ntqicnkubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-17 00:00:00.000000",
+    "disclosedDate": "2024-05-17 14:36:25.883821"
+  }
+}

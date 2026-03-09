@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-296673",
+  "type": "ransomware-incident",
+  "title": "Thaon-les-Vosges ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Thaon-les-Vosges",
+    "domain": "thaonlesvosges.fr",
+    "country": "FR",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Municipality of the commune of Thaon-les-Vosges",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ad712f13b382eb9018df683b422ba3d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghhb24tbgvzlvzvc2dlc0bkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-11 00:00:00.000000",
+    "disclosedDate": "2025-03-29 16:30:54.035848"
+  }
+}

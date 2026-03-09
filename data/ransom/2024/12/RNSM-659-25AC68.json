@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-25AC68",
+  "type": "ransomware-incident",
+  "title": "etplaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "etplaw.com",
+    "domain": "etplaw.com",
+    "country": "AE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxrwbgf3lmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-25 13:27:07.747380",
+    "disclosedDate": "2024-12-25 13:27:08.528504"
+  }
+}

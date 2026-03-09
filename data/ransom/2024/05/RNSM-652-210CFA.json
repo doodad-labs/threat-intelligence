@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-210CFA",
+  "type": "ransomware-incident",
+  "title": "lactanet.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lactanet.ca",
+    "domain": "lactanet.ca",
+    "country": "CA",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 520000000000,
+    "description": "Lactanet is a partnership between CanWest DHI, CDN, and Valacta, which brings together leading dairy herd improvement organizations in Canada. The partnership provides Canadian dairy farmers with tools necessary for success, combining the strengths of the three partners to face industry challenges. CanWest DHI, established in 2004, offers herd management products and services to over 3,500 herds across five provinces, operating three labs and conducting about 3 million DHI samples annually. Valacta, the dairy production center of expertise, improves dairy farm profitability and sustainability by raising producers’ awareness of various aspects of dairy production. CDN serves as the national genetic evaluation center for dairy cattle, providing data management and information services to dairy herd improvement agencies, A.I. organizations, and Dairy Farmers of Canada. Lactanet’s recent release of Canada’s Best Managed Dairy Herds for 2023 highlights top dairy farms recognized for outstanding herd scores, contributing to excellence within the Canadian dairy industry. The organization’s annual reports showcase top managed herds, publishable herd data, statistics, benchmarks, and articles from dairy experts, providing insights into the Canadian dairy sector. Additionally, Lactanet’s directory includes professionals like geneticists who play key roles in the organizationSITE: www.lactanet.ca Address : 660 Speedvale Avenue West, Suite 101, Guelph, Ontario N1K 1E5 CANADAALL DATA SIZE: ≈520gb+ 1. Corporate data 2. Employees, users data 3. Lab data And much more…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgfjdgfuzxquy2faymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-10 00:00:00.000000",
+    "disclosedDate": "2024-05-21 00:49:42.029340"
+  }
+}

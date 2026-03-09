@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-24BFBB",
+  "type": "ransomware-incident",
+  "title": "PrimoTicketing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PrimoTicketing",
+    "domain": "primoticketing.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Primo Ticketing is a leading provider of digital ticketing solutions tailored for youth sports, cheer, and dance events. The company specializes in offering a seamless, all-in-one platform that simplifies ticket sales, purchases, and tracking for event organizers. Primo Ticketing’s key offerings include customizable ticket purchase links, real-time sales tracking, and dedicated equipment for on-site payment processing and ticket scanning.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjpbw9uawnrzxrpbmdaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 21:58:39.399291",
+    "disclosedDate": "2025-01-24 21:58:39.399291"
+  }
+}

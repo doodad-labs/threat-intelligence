@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-654-316549",
+  "type": "ransomware-incident",
+  "title": "agapefrance.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "agapefrance.org",
+    "domain": "agapefrance.org",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Aider chacun, là où il est, à découvrir, vivre et partager la foi en Jésus",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e476a472f7dba2b88ddaa86a64b24c72.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywdhcgvmcmfuy2uub3jnqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-04 00:00:00.000000",
+    "disclosedDate": "2024-07-31 12:06:51.408466"
+  }
+}

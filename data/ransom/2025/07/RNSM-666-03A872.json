@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-666-03A872",
+  "type": "ransomware-incident",
+  "title": "All Choice Rentals ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "All Choice Rentals",
+    "domain": "allchoice.ca",
+    "country": "CA",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Canada",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bdf3ce889c7ea70ed842fe2714e3d449.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxsienob2ljzsbszw50ywxzqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.facebook.com/allchoicerentals/posts/pfbid02qmilkzyxkaaju7a9sbrgelfwtm6uevzbnvdvghvmxkhtxz1h9ghslzip27bg9ds2l",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-25 00:00:00.000000",
+    "disclosedDate": "2025-07-03 15:21:46.090787"
+  }
+}

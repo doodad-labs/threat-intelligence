@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10644B",
+  "type": "ransomware-incident",
+  "title": "dlfna.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dlfna.com",
+    "domain": "dlfna.com",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] DLFNA, short for Diamond Life North America, specializes in the development and distribution of a wide range of chemically engineered products. These include abrasives, adhesives, lubricants, cleaners, sealants, and coatings. DLFNA tailors their products to the needs of various industries, including automotive, aerospace, and household applications. Their main goal is to deliver high-quality products that enhance efficiency and productivity.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgxmbmeuy29tqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 20:03:43.391238",
+    "disclosedDate": "2025-02-10 20:03:51.867122"
+  }
+}

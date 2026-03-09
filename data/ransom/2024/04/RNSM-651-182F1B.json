@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-182F1B",
+  "type": "ransomware-incident",
+  "title": "Mid-South Health Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mid-South Health Systems",
+    "domain": "arisahealth.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c06a6364872a17943e78b0dc02b77ef7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twlklvnvdxroiehlywx0acbtexn0zw1zqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-18 22:59:03.000000",
+    "disclosedDate": "2024-04-18 23:34:23.263203"
+  }
+}

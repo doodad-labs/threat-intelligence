@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-129A46",
+  "type": "ransomware-incident",
+  "title": "cyceron.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cyceron.fr",
+    "domain": "cyceron.fr",
+    "country": "FR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/055e0f945fc94a3875eb46740506817c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3ljzxjvbi5mckbccmfpbknpcghlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-12 22:59:21.950610",
+    "disclosedDate": "2024-08-12 22:59:22.476918"
+  }
+}

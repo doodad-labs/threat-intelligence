@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-16C097",
+  "type": "ransomware-incident",
+  "title": "zvaonline.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "zvaonline.com",
+    "domain": "zvaonline.com",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f6bd72df457f73f8aa3e3fa5aa17628f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/enzhb25saw5llmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-12 00:00:00.000000",
+    "disclosedDate": "2025-05-16 21:15:04.646355"
+  }
+}

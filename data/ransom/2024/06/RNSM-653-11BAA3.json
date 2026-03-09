@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-11BAA3",
+  "type": "ransomware-incident",
+  "title": "CentralSecurities.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CentralSecurities.com",
+    "domain": "centralsecurities.com",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "underground",
+    "name": "underground",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue:$230M - Country :USA",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2vudhjhbfnly3vyaxrpzxmuy29tqhvuzgvyz3jvdw5k",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-15 00:00:00.000000",
+    "disclosedDate": "2024-06-11 05:28:38.560252"
+  }
+}

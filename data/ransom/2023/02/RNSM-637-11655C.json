@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-11655C",
+  "type": "ransomware-incident",
+  "title": "Cambian Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cambian Group",
+    "domain": "caretech-uk.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "avoslocker",
+    "name": "avoslocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Includes data from Care Tech Holdings PLC (parent holding company, caretech-uk.com) & ByTheBridge.co.uk & Cambian Group. A billion dollar mega-corporation and British orphans, what could go wrong?",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2ftymlhbibhcm91cebhdm9zbg9ja2vy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-11 15:54:59.279192",
+    "disclosedDate": "2023-02-11 15:54:59.279192"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-0747EB",
+  "type": "ransomware-incident",
+  "title": "omegapainclinic.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "omegapainclinic.com",
+    "domain": "omegapainclinic.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Best Interventional Pain Clinic In Utah. At Omega Interventional Pain Clinic, we specialize in the treatment of acute and chronic pain.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2ee15a55a1b4b45efd77f4bac7519452.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b21lz2fwywluy2xpbmljlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-07 17:38:00.000000",
+    "disclosedDate": "2023-12-07 18:53:07.430541"
+  }
+}

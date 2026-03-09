@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-30B28B",
+  "type": "ransomware-incident",
+  "title": "CMC Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CMC Group",
+    "domain": "centurylabel.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "vicesociety",
+    "name": "vicesociety",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Located in Bowling Green, Ohio, Century Label (a CMC Group company) has over 40 years of experience printing custom labels and packaging.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/148efb5fb05b0bfe91cccbab8c47755f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q01diedyb3vwqhzpy2vzb2npzxr5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-30 08:59:45.036166",
+    "disclosedDate": "2023-04-30 08:59:45.036202"
+  }
+}

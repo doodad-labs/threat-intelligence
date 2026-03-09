@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-273D99",
+  "type": "ransomware-incident",
+  "title": "TOP Ships Inc., Stock Symbol TOPS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TOP Ships Inc., Stock Symbol TOPS",
+    "country": "GR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 65000000000,
+    "description": "TOP Ships is an international owner and operator of modern, fuel-efficient \"ECO\" tanker vessels currently focusing on the transportation of crude oil and petroleum productsWe are going to upload about 65 GB of corporate data. Lots of documents with detailed employee personal information, detailed financial data, contracts, certificates, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ve9qifnoaxbzieluyy4sifn0b2nrifn5bwjvbcbut1btqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-27 00:00:00.000000",
+    "disclosedDate": "2025-05-27 16:37:12.168598"
+  }
+}

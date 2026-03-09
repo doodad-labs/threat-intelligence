@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-27520E",
+  "type": "ransomware-incident",
+  "title": "Centro Médico Palafox ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Centro Médico Palafox",
+    "domain": "centromedicopalafox.es",
+    "country": "MX",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "At Palafox Medical Center, we offer comprehensive healthcare services through a wide range of medical specialties. Our center boasts a broad spectrum of services and professionals, ensuring the complete well-being of you and your loved ones.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b32b764c07d3f94e81fef186e3eaad01.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2vudhjvie3dqwrpy28gugfsywzveebkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-27 15:34:49.177078",
+    "disclosedDate": "2025-12-27 15:43:18.955254"
+  }
+}

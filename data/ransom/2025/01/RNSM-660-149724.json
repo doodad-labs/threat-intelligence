@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-149724",
+  "type": "ransomware-incident",
+  "title": "QualiTech (qualitech.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "QualiTech (qualitech.com)",
+    "domain": "qualitech.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "QualiTech Environmental provides consulting, training, equipment and support to combat and remediate oil spills. The organization partners with a number of the leading equipment and service providers to deliver top-in-class, end-to-end solutions to the response industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f1d74379c3f0f6b8ca8909969ee2eb2b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uxvhbgluzwnoichxdwfsaxrly2guy29tkubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-14 12:44:44.599443",
+    "disclosedDate": "2025-01-14 12:45:49.893492"
+  }
+}

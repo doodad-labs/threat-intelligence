@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-01C1F5",
+  "type": "ransomware-incident",
+  "title": "Nano Health ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nano Health",
+    "domain": "nanohealth.in",
+    "country": "IN",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fa223ef33dd50888acb41d6309b65fe8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmfubybizwfsdghaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-01 15:04:35.719270",
+    "disclosedDate": "2025-02-01 15:04:35.719270"
+  }
+}

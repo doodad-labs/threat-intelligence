@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-218737",
+  "type": "ransomware-incident",
+  "title": "www.accessfinanceonline.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.accessfinanceonline.com",
+    "domain": "accessfinanceonline.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/38ee149f48b422a2f5c048139ff1e861.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmfjy2vzc2zpbmfuy2vvbmxpbmuuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-28 00:00:00.000000",
+    "disclosedDate": "2025-03-21 18:59:09.170501"
+  }
+}

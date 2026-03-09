@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-655-3046A4",
+  "type": "ransomware-incident",
+  "title": "tdsb.on.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tdsb.on.ca",
+    "domain": "tdsb.on.ca",
+    "country": "CA",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Toronto District School Board, also known under the acronym of TDSB, is the largest school Board in Canada and the fourth largest in North America",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/437a98924af799c870a3304b2a8a9395.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgrzyi5vbi5jyubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.tdsb.on.ca/home/ctl/details/mid/43823/itemid/316",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-29 15:28:00.000000",
+    "disclosedDate": "2024-08-30 08:05:23.617090"
+  }
+}

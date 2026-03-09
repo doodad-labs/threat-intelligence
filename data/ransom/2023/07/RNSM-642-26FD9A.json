@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26FD9A",
+  "type": "ransomware-incident",
+  "title": "barts health nhs trust ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "barts health nhs trust",
+    "domain": "bartshealth.nhs.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "World-class clinical services Our group of hospitals provide a huge range of clinical services to people in east London and beyond. Over 2.5 million people look to our services to provide them with the healthcare they need.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/22238681322e290cbc8b2684ee1314a4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymfydhmgagvhbhroig5ocyb0cnvzdebhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-30 08:30:16.000000",
+    "disclosedDate": "2023-07-26 14:16:12.237406"
+  }
+}

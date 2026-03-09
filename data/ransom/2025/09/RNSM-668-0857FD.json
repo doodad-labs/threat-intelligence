@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-668-0857FD",
+  "type": "ransomware-incident",
+  "title": "Controlled Combustion ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Controlled Combustion",
+    "domain": "heatingny.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "securotrop",
+    "name": "securotrop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1141000000000,
+    "description": "Status: AWAITINGSize: 1141 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/803e55e296e455f81d0ab9e71f8387ab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29udhjvbgxlzcbdb21idxn0aw9uqhnly3vyb3ryb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-07 04:00:00.000000",
+    "disclosedDate": "2025-09-08 12:59:39.835184"
+  }
+}

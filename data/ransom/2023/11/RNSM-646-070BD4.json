@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-646-070BD4",
+  "type": "ransomware-incident",
+  "title": "Access to the large database of a US Medical organization ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Access to the large database of a US Medical organization",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Available actions with patient data in the panelSearch, Edit, Print, DownloadThe base is replenished from different clinics, both public and privatehttps://www.srmcfl.comhttps://www.adventhealth.comhttps://www.advimg.comAnd many others Name DOB Gender SSN Address Home Phone Work PhoneSite MPI MRN Dept Num Patient Class Admitted Discharged Site Location Hospital Svc Point of CareFacility Building Room Bed Attending Referring Consulting Admitting Visit […]",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/33bb59ed54ce8c7527285c6b7885bcf6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnjzxnzihrvihrozsbsyxjnzsbkyxrhymfzzsbvzibhifvtie1lzgljywwgb3jnyw5pemf0aw9uqgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-07 17:32:02.552929",
+    "disclosedDate": "2023-11-07 17:32:02.552953"
+  }
+}

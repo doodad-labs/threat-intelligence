@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-11C57C",
+  "type": "ransomware-incident",
+  "title": "Protective Industrial Products ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Protective Industrial Products",
+    "domain": "pipglobal.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eb9acf32166dd85666bab243a9f6613b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjvdgvjdgl2zsbjbmr1c3ryawfsifbyb2r1y3rzqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-11 18:31:26.000000",
+    "disclosedDate": "2024-10-11 19:08:05.339844"
+  }
+}

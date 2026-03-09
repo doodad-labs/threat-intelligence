@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-095C8D",
+  "type": "ransomware-incident",
+  "title": "williampevear.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "williampevear.com",
+    "domain": "williampevear.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "William Pevear is the President at William Pevear Architects based in Cambridge, Massachusetts. Previously, William was the Project Manager & Project Architect at Payette and also held positions at Maryann Thompson.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2a5de3738c3b198c677f7ea4f39ee980.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2lsbglhbxbldmvhci5jb21aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-08 00:00:00.000000",
+    "disclosedDate": "2025-03-09 18:05:33.703913"
+  }
+}

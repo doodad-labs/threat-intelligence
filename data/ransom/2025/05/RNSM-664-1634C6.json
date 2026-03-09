@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-1634C6",
+  "type": "ransomware-incident",
+  "title": "Adams Homes ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Adams Homes",
+    "domain": "adamshomes.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $41 MillionAdams Homes is known as the premier home builder and is one of the largest privately-held home building companies in the southeast.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/769fe345e093b3989d077f42c0618f71.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwrhbxmgsg9tzxnaymxhy2tsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:03:29.293275",
+    "disclosedDate": "2025-05-16 13:27:21.801895"
+  }
+}

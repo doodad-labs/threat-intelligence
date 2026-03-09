@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-670-28E4D6",
+  "type": "ransomware-incident",
+  "title": "vviewisd.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "vviewisd.net",
+    "domain": "vviewisd.net",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Valley View ISD was one of only fifteen districts in the entire state of Texas to receive this rating. We are extremely proud of our students and staff for this great accomplishment. This would not be possible without the collaboration of all our stakeholders. It is no secret that when schools, families, and communities support each other and come together, students achieve at the highest levels. On behalf of our Board of Trustees and staff, thank you for your continued support and commitment to our students.\r Employees: 800\r Revenue: $27.8 Million\r Industry: Education  \r Phone Number: (416) 783-6181",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4b7018865308360ec8f5a1879aadc658.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dnzpzxdpc2qubmv0qgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://dysruptionhub.com/valley-view-isd-cyber-incident-texas/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-28 22:55:00.000000",
+    "disclosedDate": "2025-11-28 22:56:14.896480"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-06D4EE",
+  "type": "ransomware-incident",
+  "title": "MTTEXPERTISES.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MTTEXPERTISES.COM",
+    "domain": "mttexpertises.com",
+    "country": "MA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MTT Expertises is a Franco-Moroccan firm specializing in asset valuation and post-incident expertise. Founded in 2004, the company offers services such as insurance capital estimation, risk management, and assistance after incidents. With a multidisciplinary team of over 40 professionals, including engineers, technicians, and financial experts, MTT Expertises operates from offices in Casablanca, Agadir, and Tangier, and maintains a presence in France and other African countries. The firm is accredited by the Moroccan Federation of Insurance and Reinsurance Companies (FMSAR), ensuring quality and reliability in its services. Under the leadership of Director Mohamed Tahiri, MTT Expertises is committed to delivering precise and professional services to meet the diverse needs of its clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/30a1de7e4f0a4ea38fd889fe377b8ee6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tvrurvhqrvjusvnfuy5dt01aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-06 12:00:00.000000",
+    "disclosedDate": "2025-06-06 17:15:52.049081"
+  }
+}

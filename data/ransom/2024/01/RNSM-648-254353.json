@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-648-254353",
+  "type": "ransomware-incident",
+  "title": "neafidi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "neafidi",
+    "domain": "neafidi.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "On February 2, we will publish personal data, financial statements and other confidential information",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/39ddcf1fc462e347f6f6cc47565f9101.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmvhzmlkaubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-25 11:51:29.001996",
+    "disclosedDate": "2024-01-25 11:51:29.002017"
+  }
+}

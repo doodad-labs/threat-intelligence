@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-25BA15",
+  "type": "ransomware-incident",
+  "title": "Ithbar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ithbar",
+    "domain": "ithbar.com",
+    "country": "SA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Choose ithbar.com as your solution to start your own crowdfunding platform. Start your own Real estate, Equity crowdfunding platform.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cfe9e79f1ef5b75d8e939973d63e2841.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sxroymfyqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-25 03:48:39.048768",
+    "disclosedDate": "2024-11-25 03:48:39.822480"
+  }
+}

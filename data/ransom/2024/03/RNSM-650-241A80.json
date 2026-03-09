@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-241A80",
+  "type": "ransomware-incident",
+  "title": "Equatorial Energia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Equatorial Energia",
+    "domain": "equatorialenergia.com.br",
+    "country": "BR",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country: Brasil",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxf1yxrvcmlhbcbfbmvyz2lhqgnsb2fr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-24 13:52:04.758655",
+    "disclosedDate": "2024-03-24 13:52:04.758680"
+  }
+}

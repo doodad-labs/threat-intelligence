@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-208297",
+  "type": "ransomware-incident",
+  "title": "Wasserstrom ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wasserstrom",
+    "domain": "wasserstrom.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Wasserstrom Company, headquartered in Columbus, Ohio and founded in 1902, is a restaurant supplier and distributor of foodservice supplies and equipment. They sell products, such as kitchen supplies and catering supplies, from industry manufacturers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c93bb3d26ea1e3aa3d35b6bb36bdb48b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fzc2vyc3ryb21ay2fjdhvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-20 12:46:05.533785",
+    "disclosedDate": "2023-07-20 12:46:05.533807"
+  }
+}

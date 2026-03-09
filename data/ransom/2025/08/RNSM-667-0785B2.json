@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-0785B2",
+  "type": "ransomware-incident",
+  "title": "TSAI CAPITAL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TSAI CAPITAL",
+    "domain": "tsaicapital.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "d4rk4rmy",
+    "name": "d4rk4rmy",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://tsaicapital.com Tsai Capital™ is an investment management firm focused on the preservation and long-term growth of capital on behalf of select families and organizations. With more than two decades of experience, and as a third-generation investor whose financial roots date…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfnbssbdqvbjvefmqgq0cms0cm15",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-07 11:48:27.074386",
+    "disclosedDate": "2025-08-07 11:48:29.212683"
+  }
+}

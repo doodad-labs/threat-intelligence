@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-24F39A",
+  "type": "ransomware-incident",
+  "title": "BLUEYONDER.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BLUEYONDER.COM",
+    "domain": "blueyonder.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] BlueYonder.com, now part of Panasonic, is a pioneering platform in digital supply chain management and advanced retail planning. The company utilizes artificial intelligence (AI) and machine learning to automate business processes, enhance decision-making, and drive more profitable and efficient operations. Its solutions include demand planning, price optimization, logistics management, and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f4ca5c0c6e59b3f5d483d4fa2c58e743.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkxvrvlptkrfui5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 08:07:54.202441",
+    "disclosedDate": "2025-01-24 08:07:54.202441"
+  }
+}

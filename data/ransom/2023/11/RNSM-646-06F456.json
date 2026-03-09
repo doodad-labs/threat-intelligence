@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-06F456",
+  "type": "ransomware-incident",
+  "title": "kbrlaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kbrlaw.com",
+    "domain": "kbrlaw.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kaufman Borgeest & Ryan LLP is a law firm that specializes in appellate practice, bankruptcy, commercial litigation. The firm provides legal services for accountants professional liability, food, drug & medical device litigation, healthcare law, cybe...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dd90e73265fefafc0ba298d8c021b6df.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2jybgf3lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-06 16:49:00.000000",
+    "disclosedDate": "2023-11-06 17:30:40.233940"
+  }
+}

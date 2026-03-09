@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-648-138A80",
+  "type": "ransomware-incident",
+  "title": "Banco Promerica ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Banco Promerica",
+    "domain": "promerica.fi.cr",
+    "country": "CR",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "snatch",
+    "name": "snatch",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Grupo Promerica es un conjunto de instituciones financieras enlazadas a través del holding PROMERICA FINANCIAL CORP (PFC), el cual es dirigido por un equipo multinacional de banqueros, con conocimiento puntual de las actividades económicas y financieras que se llevan a cabo en cada uno de",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfuy28guhjvbwvyawnhqhnuyxrjaa==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-11 22:03:00.000000",
+    "disclosedDate": "2024-01-13 09:53:43.337138"
+  }
+}

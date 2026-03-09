@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-111ACA",
+  "type": "ransomware-incident",
+  "title": "exol-lubricants.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "exol-lubricants.com",
+    "domain": "exol-lubricants.com",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "since 1984. Exol Lubricants is the largest independent lubricants company in the UK, manufacturing and supplying a range of lubricants and associated products to industry, agriculture, transport, automotive and garage sectors. Exol Lubricants is comm...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/311d0b5a7d6222536a444da27b9c6eae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxhvbc1sdwjyawnhbnrzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-11 00:00:00.000000",
+    "disclosedDate": "2024-08-11 07:53:43.991666"
+  }
+}

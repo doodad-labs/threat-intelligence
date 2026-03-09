@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-302F52",
+  "type": "ransomware-incident",
+  "title": "UnigazJordan ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UnigazJordan",
+    "domain": "unigaz.net",
+    "country": "JO",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "medusalocker",
+    "name": "medusalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.unigaz.net $690.6 Million The list of files is available at the link https://dropmefiles.com/9HGAJ",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8f8a7fa3d7abcd1d23c865ba3c0fa19b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pz2f6sm9yzgfuqg1lzhvzywxvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-30 06:05:21.000000",
+    "disclosedDate": "2025-05-30 08:07:02.266851"
+  }
+}

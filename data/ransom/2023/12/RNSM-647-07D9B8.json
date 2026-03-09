@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-07D9B8",
+  "type": "ransomware-incident",
+  "title": "hopto.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hopto.com",
+    "domain": "hopto.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "hopTo Inc., together with its subsidiaries, develops and sells application virtualization and cloud computing software products for various computer operating systems in the United States, Brazil, and internationally.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0a8a54b36c99f248ad096cd5903dcbdc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ag9wdg8uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-07 07:15:00.000000",
+    "disclosedDate": "2023-12-07 08:34:12.041005"
+  }
+}

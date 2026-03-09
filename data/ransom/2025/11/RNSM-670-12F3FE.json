@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-12F3FE",
+  "type": "ransomware-incident",
+  "title": "*******.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "*******.com",
+    "domain": "25swr3rgce7elyedjmmhdw4ourgtxc72mj2cynsrqz6wwitestfpiiyd.onion",
+    "country": ""
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "http://25swr3rgce7elyedjmmhdw4ourgtxc72mj2cynsrqz6wwitestfpiiyd.onion/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/kioqkioqki5jb21adghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-12 16:15:05.000000",
+    "disclosedDate": "2025-11-12 16:26:51.334768"
+  }
+}

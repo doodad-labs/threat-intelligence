@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-646-22105D",
+  "type": "ransomware-incident",
+  "title": "Fidelity National Financial ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fidelity National Financial",
+    "domain": "fnf.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fidelity National Financial (NYSE: FNF) is the nation's largest group of title companies and underwriters in the country and, collectively, we issue more title insurance policies than anyone else in the United States.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0cb261beafaf75db2482bc6f56c123ad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmlkzwxpdhkgtmf0aw9uywwgrmluyw5jawfsqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.housingwire.com/articles/fidelity-national-financial-is-latest-victim-of-a-cybersecurity-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-22 23:28:04.123456",
+    "disclosedDate": "2023-11-22 23:44:31.748114"
+  }
+}

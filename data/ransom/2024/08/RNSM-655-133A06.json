@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-133A06",
+  "type": "ransomware-incident",
+  "title": "lenmed.co.za ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lenmed.co.za",
+    "domain": "lenmed.co.za",
+    "country": "ZA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lenmed Hospitals are deeply rooted in the historical landscape of Southern Africa. They have provided exceptional private care to the communities they serve for over three decades. The first Lenmed Clinic in Lenasia, which opened its doors in 1984, is now the Ahmed Kathrada Private Hospital. With state-of-the-art facilities and over 80 specialist medical practitioners, it stands proudly today as a testament to Lenmed’s excellence in clinical care.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/deac5cfc9e9a7df55d586d358bda1cc6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgvubwvklmnvlnphqgrhcmt2yxvsda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-13 00:00:00.000000",
+    "disclosedDate": "2024-08-13 13:06:58.958150"
+  }
+}

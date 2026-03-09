@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-17200E",
+  "type": "ransomware-incident",
+  "title": "Colacem ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Colacem",
+    "domain": "colacem.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/410bffc53e45ed35fb0ffe1f1cc4c007.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29sywnlbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-17 06:57:10.931704",
+    "disclosedDate": "2026-01-17 06:57:26.615907"
+  }
+}

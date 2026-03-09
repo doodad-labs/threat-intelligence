@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-279245",
+  "type": "ransomware-incident",
+  "title": "VLCDISTRIBUTION.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VLCDISTRIBUTION.COM",
+    "domain": "vlcdistribution.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] VLCDISTRIBUTION.COM is an industry-leading distributor specializing in the retail of video games and consoles. They offer a wide range of products covering various gaming platforms, including PC, PS4, Xbox, and Nintendo Switch. Their portfolio also includes accessories and tech gadgets. Known for their professional approach, they provide high-quality products and excellent customer service to meet the evolving needs of the gaming community.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vkxdreltvfjjqlvusu9olknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:45:57.365411",
+    "disclosedDate": "2025-02-27 17:46:04.680780"
+  }
+}

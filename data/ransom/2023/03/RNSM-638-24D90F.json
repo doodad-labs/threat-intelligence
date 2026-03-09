@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-24D90F",
+  "type": "ransomware-incident",
+  "title": "ATOS.NET ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ATOS.NET",
+    "domain": "atos.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Atos – Home",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d6ef51982b493a6dd751f342196a751d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvrpuy5orvray2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-24 11:10:03.776500",
+    "disclosedDate": "2023-03-24 11:10:03.776515"
+  }
+}

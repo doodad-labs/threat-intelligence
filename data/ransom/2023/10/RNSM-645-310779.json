@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-645-310779",
+  "type": "ransomware-incident",
+  "title": "riohondo.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "riohondo.edu",
+    "domain": "riohondo.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Río Hondo College is an educational and community partner committed to advancing social justice and equity as an antiracist institution that collectively invests in all students’ academic and career pathways that lead to attainment of degree, certifi...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e64656fffbbd0cd2432e997d44f8322b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmlvag9uzg8uzwr1qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://therecord.media/california-college-rio-hondo-cyberattack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-31 14:09:00.000000",
+    "disclosedDate": "2023-10-31 15:14:22.256687"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-163A1F",
+  "type": "ransomware-incident",
+  "title": "ipsenlogistics.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ipsenlogistics.com",
+    "domain": "ipsenlogistics.com",
+    "country": "MA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are a holding company with interests in the field of international transport services, including industrial export packing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/69cc196f5f2a2cbcf53680e27985e359.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axbzzw5sb2dpc3rpy3muy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-15 00:00:00.000000",
+    "disclosedDate": "2023-09-16 13:02:05.705318"
+  }
+}

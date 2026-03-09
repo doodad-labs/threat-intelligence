@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-041AA3",
+  "type": "ransomware-incident",
+  "title": "gsw.co.in ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gsw.co.in",
+    "domain": "gsw.co.in",
+    "country": "IN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] GSW is an Indian company specializing in various engineering and manufacturing solutions. They provide services in sectors such as infrastructure, energy, and industrial projects. Known for their innovative approach, GSW focuses on delivering high-quality products and services, including fabrication and engineering solutions. The company emphasizes sustainability and technological advancement in its operations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3n3lmnvlmluqgz1bmtzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-04 21:10:08.864840",
+    "disclosedDate": "2025-01-04 21:10:10.815466"
+  }
+}

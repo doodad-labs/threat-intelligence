@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-658-0769DA",
+  "type": "ransomware-incident",
+  "title": "New Law ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "New Law",
+    "domain": "newlawoffice.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2754c5ededd0ea103553d2080c610fef.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv3iexhd0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/80c4ad3c-ca2b-4e54-b6f3-7750fc95ca22.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-07 00:00:03.000000",
+    "disclosedDate": "2024-11-07 00:11:26.608296"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-2051B1",
+  "type": "ransomware-incident",
+  "title": "JRT Automatisation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JRT Automatisation",
+    "domain": "jrtinc.com",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in Quebec City in 1984, Automatisation JRT Inc. first manufactured control panels for what would later become the Industrial department. As early as 1985, Automatisation JRT Inc. designed control systems for elevators, which is now the company's most important niche. The company underwent several waves of growth over the years and that is how the distribution, software and water treatment departments were added to the original ones.Now bringing together more than one hundred and thirty employees at its Quebec City head office, JRT aims to be one of the most important players in the development of automation in Quebec, in addition to expanding internationally thanks to its sales force and with the help of its many partners. Always on the lookout for new technologies, our activities are mainly concentrated in the elevator, industrial and water treatment fields. You have ideas, we have the resources to make them happen. Our teams of enthusiasts will be able to support you in the different phases of the development of your projects until you achieve the desired result.•   Financial document, accounting reports, sql, customer database, personal information of employees and client https://www.jrtinc.com/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2c791da1351fd2200ed22b94649d4f49.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sljuief1dg9tyxrpc2f0aw9uqhnwywnlymvhcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-19 00:00:00.000000",
+    "disclosedDate": "2024-12-20 05:39:23.606269"
+  }
+}

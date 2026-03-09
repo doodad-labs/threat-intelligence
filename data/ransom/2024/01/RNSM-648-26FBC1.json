@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-648-26FBC1",
+  "type": "ransomware-incident",
+  "title": "securinux.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "securinux.net",
+    "domain": "securinux.net",
+    "country": "IL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 35000000000,
+    "description": "Securinux Specializes in 'Linux' Based Security Applications including - Firewall and A variety of Internet Solutions.The company was hacked, and they refused to comply. Internal papers totaling 35 GB will be disclosed.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/93c97576bdeaa98fd4de6655920ae305.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vjdxjpbnv4lm5ldebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-26 10:55:00.000000",
+    "disclosedDate": "2024-01-26 11:54:32.377513"
+  }
+}

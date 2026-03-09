@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-656-2497F7",
+  "type": "ransomware-incident",
+  "title": "cottlesinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cottlesinc.com",
+    "domain": "cottlesinc.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cottles Inc. is a dynamic company specializing in innovative packaging solutions. They offer a wide range of services including custom packaging design, sustainable materials, and supply chain management. With a strong focus on quality and customer satisfaction, Cottles Inc. aims to meet the diverse needs of various industries, ensuring products are well-protected and presented.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y290dgxlc2luyy5jb21aymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-24 19:31:33.313666",
+    "disclosedDate": "2024-09-24 19:31:35.584508"
+  }
+}

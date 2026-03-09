@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-199DB8",
+  "type": "ransomware-incident",
+  "title": "navalaviationmuseum.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "navalaviationmuseum.org",
+    "domain": "navalaviationmuseum.org",
+    "country": "",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "The National Naval Aviation Museum is the world’s largest Naval Aviation museum and one of the most-visited museums in the state of Florida. Share the excitement of Naval Aviation’s rich history and see more than 150 beautifully restored aircraft representing Navy, Marine Corps, and Coast Guard Aviation. These historic and one-of-a-kind aircraft are displayed both inside the Museum’s over 350,000 square feet of exhibit space and outside on its 37-acre grounds.\r\rDuring a routine security audit, it has come to our attention that there may be a possible data leak risk associated with your website. Our analysis suggests that there could be vulnerabilities that may compromise the security of sensitive data, potentially putting user information at risk.\r\rThe network of this company has been breached and as a result over 200GB of data leaked from there.\rThese leaked data contains a lot of sensitive data related to patients and employees, including aerodynamics, propulsion, navigation, communications, flight physiology and meteorology.\r\rI urge you to take immediate action to conduct a thorough investigation into these potential vulnerabilities and implement appropriate measures to mitigate any risks.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/32104017231345c3e13b75338ec7d58b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmf2ywxhdmlhdglvbm11c2v1bs5vcmdazglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-18 00:39:00.000000",
+    "disclosedDate": "2024-04-19 09:14:15.010493"
+  }
+}

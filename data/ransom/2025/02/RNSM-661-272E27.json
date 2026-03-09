@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-272E27",
+  "type": "ransomware-incident",
+  "title": "OUTSOURCELOGISTICS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OUTSOURCELOGISTICS.COM",
+    "domain": "outsourcelogistics.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] OutsourceLogistics.com specializes in providing comprehensive logistics and supply chain solutions. They understand the unique needs of their clients, offering custom solutions that include warehouse management, freight transport, and reverse logistics services. They also facilitate global trade by offering import/export services. Their primary aim is to streamline the logistics process, enhancing efficiency and reducing costs for businesses across various sectors.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t1vuu09vuknfte9hsvnusuntlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:00:17.144229",
+    "disclosedDate": "2025-02-27 17:00:23.130059"
+  }
+}

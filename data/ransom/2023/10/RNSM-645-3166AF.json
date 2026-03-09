@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-3166AF",
+  "type": "ransomware-incident",
+  "title": "Kinesis Film Srl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kinesis Film Srl",
+    "domain": "kinesisfilm.it",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "knight",
+    "name": "knight",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://www.kinesisfilm.it/Kinesis srl è una società di produzione indipendente fondata a Roma nel 2010 da professionisti provenienti da differenti settori del mondo cinematografico.La società è composta da produttori e finanziatori, associatisi con l’obbiettivo comune di realizzare lungometraggi di finzione indipendenti, favorendo lo sviluppo di coproduzioni italiane e internazionali.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f4dcd293269e1a92b1d0c9efb94f960b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2luzxnpcybgawxtifnybebrbmlnahq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-31 06:17:58.944675",
+    "disclosedDate": "2023-10-31 06:17:58.944697"
+  }
+}

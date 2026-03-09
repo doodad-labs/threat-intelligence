@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-04B9BF",
+  "type": "ransomware-incident",
+  "title": "saludsa.com.ec ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "saludsa.com.ec",
+    "domain": "saludsa.com.ec",
+    "country": "EC",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Taking stock of 2024 Part 2",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2fsdwrzys5jb20uzwnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-04 17:37:37.237501",
+    "disclosedDate": "2025-02-04 17:37:37.237501"
+  }
+}

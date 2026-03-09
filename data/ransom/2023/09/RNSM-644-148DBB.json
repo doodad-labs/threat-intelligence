@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-148DBB",
+  "type": "ransomware-incident",
+  "title": "Fondation Vincent De Paul ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fondation Vincent De Paul",
+    "domain": "fondation-vincent-de-paul.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Created by the Congregation of the Sisters of Charity of Strasbourg, the Vincent de Paul Foundation was recognized as a public benefit by a resolution of the Council of State of December 26, 2001.The foundation's network...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e2c2b67787b40254b1662e326e69797f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rm9uzgf0aw9uifzpbmnlbnqgrgugugf1bebub2vzy2fwzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-07 00:00:00.000000",
+    "disclosedDate": "2023-09-14 07:11:52.997469"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-657-2110B4",
+  "type": "ransomware-incident",
+  "title": "lewa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lewa.com",
+    "domain": "lewa.com",
+    "country": "AT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 400000000000,
+    "description": "For more than seven decades LEWA has set the technical standards as a manufacturer of pumps and systems for fluid metering. Our focus lies on metering and process pumps, metering systems and complete systems for process engineering processes. Pumps from LEWA are used today in a wide range of industries, from the very sensitive food industry to petrochemistry and refinery. We plan and produce efficient and individualized system solutions for nearly all metering requirements, conveyance, mixing, or odorizing tasks.SITE: www.lewa.com Address : LEWA Austria GmbH Diefenbachgasse 35/3/9 1150 ViennaTEL#: +43 1 8773 040-0ALL DATA SIZE: ≈400gb+ 1. Emplyees personal docs 2. Corporate data: Financial, Personal, HR, Acctg 3. Projects, DWG 4. Customer contracts, Confidential data 5. Engineering data, R&D(Fue) & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7ed6aec4bddf79b4e2cba8c79d78c5ec.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgv3ys5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-03 00:00:00.000000",
+    "disclosedDate": "2024-10-21 22:38:01.922090"
+  }
+}

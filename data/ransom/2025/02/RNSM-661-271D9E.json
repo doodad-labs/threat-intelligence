@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-271D9E",
+  "type": "ransomware-incident",
+  "title": "REVITALASH.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "REVITALASH.COM",
+    "domain": "revitalash.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Revitalash.com is a cosmetics company renowned for its award-winning eyelash, eyebrow, and hair beauty enhancement products. Established by Dr. Michael Brinkenhoff to help his wife feel beautiful during her battle with breast cancer, Revitalash aims to restore and enhance natural beauty. The products are celebrated for their responsible formulation, enhanced by scientifically-advanced technology and natural botanicals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukvwsvrbteftsc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:15:50.437878",
+    "disclosedDate": "2025-02-27 17:15:56.909145"
+  }
+}

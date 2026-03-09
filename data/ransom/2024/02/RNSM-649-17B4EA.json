@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-17B4EA",
+  "type": "ransomware-incident",
+  "title": "Wapiti Energy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wapiti Energy",
+    "domain": "wapitienergy.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cd3ed314a1823e1f90db3b1262d66147.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fwaxrpievuzxjneubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-17 08:59:51.000000",
+    "disclosedDate": "2024-02-17 09:06:05.887896"
+  }
+}

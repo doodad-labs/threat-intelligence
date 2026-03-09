@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-2386B6",
+  "type": "ransomware-incident",
+  "title": "newsupri.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "newsupri.com.br",
+    "domain": "newsupri.com.br",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A Newsupri é uma empresa especialista em prover soluções inovadoras em infraestrutura de TI. São 35 anos de inovação e experiência, atendendo a Região Nordeste através de um time com mais de 30 profissionais altamente qualificados.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/191f918ee68b47f08ffcc0b2f8fbdffc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmv3c3vwcmkuy29tlmjyqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-23 21:29:00.000000",
+    "disclosedDate": "2023-08-23 22:02:41.305559"
+  }
+}

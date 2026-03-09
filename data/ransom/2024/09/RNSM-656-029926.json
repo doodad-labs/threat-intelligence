@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-029926",
+  "type": "ransomware-incident",
+  "title": "www.electriforce.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.electriforce.com",
+    "domain": "electriforce.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Electriforce is a dynamic company specializing in innovative electrical solutions and cutting-edge technology. They offer a wide range of products and services, including electric vehicle charging stations, renewable energy systems, and advanced power management solutions. Committed to sustainability and efficiency, Electriforce aims to revolutionize the way we harness and utilize electrical energy, providing reliable and eco-friendly options for both residential and commercial clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4117c573206ee93cd7216baca46baf62.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmvszwn0cmlmb3jjzs5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-27 00:00:00.000000",
+    "disclosedDate": "2024-09-02 11:11:04.148030"
+  }
+}

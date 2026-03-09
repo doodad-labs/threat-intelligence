@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-08BB58",
+  "type": "ransomware-incident",
+  "title": "Iris Neofinanciera ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Iris Neofinanciera",
+    "domain": "iris.com.co",
+    "country": "CO",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "crypto24",
+    "name": "crypto24",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All files of google drives, google chatting data  ,workmanager documents(for last 5years) ,sql dbs and personal information of clients and staffs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sxjpcybozw9maw5hbmnpzxjhqgnyexb0bzi0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-08 20:10:58.640965",
+    "disclosedDate": "2025-04-08 20:10:59.700518"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-19967B",
+  "type": "ransomware-incident",
+  "title": "Hochschule ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hochschule",
+    "domain": "hochschule-trier.de",
+    "country": "DE",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: Next TI, VISEO, Hochschule Trier - Hochschule Trier is a German university of applied sciences offering a wide range of practice-oriented programs and conducting forward-looking research across its main campus and specialized campuses for design and environmental studies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b3f2ec0f5fe5eb916bad26aa7ba8b2a7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9jahnjahvszubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-28 09:22:42.123456",
+    "disclosedDate": "2025-02-19 15:01:28.634627"
+  }
+}

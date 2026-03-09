@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-23A43E",
+  "type": "ransomware-incident",
+  "title": "barryavenueplating ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "barryavenueplating",
+    "domain": "barryavenueplating.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.barryavenueplating.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/09e9b1fe2d8ad1e363b9c5e8cc60791c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymfycnlhdmvudwvwbgf0aw5nqghlbgxkb3du",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-23 15:45:25.291271",
+    "disclosedDate": "2024-08-23 15:45:26.287637"
+  }
+}

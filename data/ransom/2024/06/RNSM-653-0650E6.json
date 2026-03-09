@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-0650E6",
+  "type": "ransomware-incident",
+  "title": "IPPBX  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IPPBX ",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 903500000,
+    "description": "IPPBX - the company is a developer of program solutions, cloud platforms, virtualization systems and so on, offering its services to small and medium -sized businesses. Ippbx corporate office is located in 3500 S Dupont Hwy, Dover, Delaware, 19901, United States and has 57 employees. The total amount of data leakage is 903.5 MB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/svbqqlggqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-04 14:25:19.12345",
+    "disclosedDate": "2024-06-06 07:42:01.749580"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-31CE46",
+  "type": "ransomware-incident",
+  "title": "Röben Tonbaustoffe GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Röben Tonbaustoffe GmbH",
+    "domain": "roeben.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://www.roeben.com https://www.zoominfo.com/c/ro%CC%88ben/430636767 Röben specializes in building ceramics, offering a wide range of products including roofing tiles, clinker bricks, and ceramic floor tiles. The company serves architects, contractors, and homeowners, providing not only products but also professional advice and inspiration for construction projects. Their offerings encompass roofing solutions, facade materials, and indoor ceramics with various colors and styles. With a commitment to quality and design, Röben aims to enhance both aesthetic and functional aspects of residential and public buildings",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uso2ymvuifrvbmjhdxn0b2zmzsbhbwjiqhrozwdlbnrszw1lbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-02 16:22:12.443111",
+    "disclosedDate": "2026-01-31 00:13:55.711234"
+  }
+}

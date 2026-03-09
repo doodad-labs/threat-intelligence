@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-24FA92",
+  "type": "ransomware-incident",
+  "title": "PBS group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PBS group",
+    "domain": "pbs-group.co.uk",
+    "country": "GB",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We design, implement and maintain systems that allow our customers to exploit te...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/388945779d5130bc72216c077c1aeba3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uejtigdyb3vwqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-27 00:00:00.000000",
+    "disclosedDate": "2024-08-24 15:55:46.040219"
+  }
+}

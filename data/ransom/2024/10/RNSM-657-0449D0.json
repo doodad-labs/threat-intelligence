@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-657-0449D0",
+  "type": "ransomware-incident",
+  "title": "DPC DATA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DPC DATA",
+    "domain": "dpcdata.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 400000000000,
+    "description": "We have over 400 GB of data from this company , they have 96 hours to contact us if not we will make a public auction to sell the data . The DPC DATA executive team is known for leadership in building and delivering digital information solu            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3db39b7f530ce7b2419298ddb3ec5834.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rfbdierbvefacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-26 00:00:00.000000",
+    "disclosedDate": "2024-10-04 09:11:45.979768"
+  }
+}

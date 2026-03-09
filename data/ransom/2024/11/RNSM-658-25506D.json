@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-658-25506D",
+  "type": "ransomware-incident",
+  "title": "borohradek ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "borohradek",
+    "domain": "mestoborohradek.cz",
+    "country": "CZ"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "City BORHODAREK",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d1b189a9175ad570e9bac93114332d8a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym9yb2hyywrla0bpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-20 00:00:00.000000",
+    "disclosedDate": "2024-11-25 06:49:12.508924"
+  }
+}

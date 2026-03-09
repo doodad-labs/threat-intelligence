@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-27D975",
+  "type": "ransomware-incident",
+  "title": "PARTNER.RO ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PARTNER.RO",
+    "domain": "partner.ro",
+    "country": "RO"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] PARTNER.RO is a Romanian based company that offers a range of business development support services. The company is known for helping small and medium-sized enterprises with their market entry strategies, business matchmaking, and ongoing management and operational support. They work across a variety of sectors, leveraging a broad network of contacts to help companies successfully establish and grow their operations. In addition to these services, they also provide consultancy in marketing and sales strategies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uefsve5fui5st0bjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:02:49.034617",
+    "disclosedDate": "2025-02-27 17:02:57.195657"
+  }
+}

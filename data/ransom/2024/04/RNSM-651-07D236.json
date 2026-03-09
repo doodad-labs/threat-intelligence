@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-07D236",
+  "type": "ransomware-incident",
+  "title": "SERVICES INFORMATIQUES POUR PROFESSIONNELS(SIP) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SERVICES INFORMATIQUES POUR PROFESSIONNELS(SIP)",
+    "domain": "sip.be",
+    "country": "BE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hello, everyone.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9249543b7a6383c708b788cb7d97def3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0vsvkldrvmgsu5gt1jnqvrjuvvfuybqt1vsifbst0zfu1njt05oruxtkfnjuclaymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-07 17:51:19.372293",
+    "disclosedDate": "2024-04-07 17:51:19.372318"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-652-28B6A8",
+  "type": "ransomware-incident",
+  "title": "glenwoodnyc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "glenwoodnyc.com",
+    "domain": "glenwoodnyc.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dan0n",
+    "name": "dAn0n",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1780000000000,
+    "description": "Glenwood Management is a property management company, providing luxury apartments throughout New York. The total size of stolen information is 1.78TB.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/78ddb3207590a86ffdb4e084f5138782.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2xlbndvb2ruewmuy29tqgrbbjbu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/38e34dc2-5f41-4cd5-b68d-864a98dd84e4.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-08 00:00:00.000000",
+    "disclosedDate": "2024-05-28 21:18:22.372332"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-28AC8E",
+  "type": "ransomware-incident",
+  "title": "ConCash ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ConCash",
+    "domain": "concash.com.br",
+    "country": "BR",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/83923fff182176d6228b6e0188b23f02.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29uq2fzaebrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-28 07:14:27.294844",
+    "disclosedDate": "2024-10-28 07:14:27.784608"
+  }
+}

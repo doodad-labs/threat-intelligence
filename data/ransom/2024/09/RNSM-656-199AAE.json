@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-199AAE",
+  "type": "ransomware-incident",
+  "title": "kennedyfunding.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kennedyfunding.com",
+    "domain": "kennedyfunding.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kennedy Funding is a prominent direct private lender specializing in bridge loans for commercial real estate, land acquisition, development, workouts, and bankruptcies. Renowned for flexible underwriting, they offer expedited closings and tailored financing solutions. Their expertise spans various property types, including retail, office, industrial, and multifamily, addressing unique borrower needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2vubmvkewz1bmrpbmcuy29tqevsrg9yywrv",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-22 00:00:00.000000",
+    "disclosedDate": "2024-09-19 19:44:43.615557"
+  }
+}

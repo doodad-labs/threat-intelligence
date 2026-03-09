@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-097D3E",
+  "type": "ransomware-incident",
+  "title": "Grupo Halcon ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Grupo Halcon",
+    "domain": "halconceramicas.com",
+    "country": "MX"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.halconceramicas.com , https://www.zoominfo.com/c/grupo-halcon/378396328 Grupo Halcon | CerÃ¡micas - Con mÃ¡s de 50 aÃ±os de experiencia, Grupo HalcÃ³n CerÃ¡micas es hoy una compaÃ±Ãa de referencia en el mercado de la cerÃ¡mica nacional e internacional",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3j1cg8gsgfsy29uqhrozwdlbnrszw1lbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-27 00:30:45.000000",
+    "disclosedDate": "2025-09-09 15:58:34.837907"
+  }
+}

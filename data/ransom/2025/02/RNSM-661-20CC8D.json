@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-661-20CC8D",
+  "type": "ransomware-incident",
+  "title": "palauhealth ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "palauhealth",
+    "domain": "palauhealth.org",
+    "country": "PW",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 27.02.2025. MoH is a company that operates in the Government industry. It employs 250to499 people and has 5Mto10M of revenue. The company is headquartered in Koror, Koror, Palau.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e8ebb74b510d226f92d378db41e3e11e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgfsyxvozwfsdghacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://therecord.media/palau-health-ministry-ransomware-recover",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-13 00:00:00.000000",
+    "disclosedDate": "2025-02-20 21:36:18.747323"
+  }
+}

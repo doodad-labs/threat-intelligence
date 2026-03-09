@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-3144EC",
+  "type": "ransomware-incident",
+  "title": "New Hampshire PublicRadio ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "New Hampshire PublicRadio",
+    "domain": "nhpr.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 35000000000,
+    "description": "Since 1981, New Hampshire Public Radio has shaped the media lands cape in the Granite State and beyond. The files of the organizati on will be in public soon. You could see and download them here o n our blog. Financial and accounting data, grants and much other  information. Everything is about 35GB.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv3iehhbxbzaglyzsbqdwjsawnsywrpb0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-31 18:03:19.734652",
+    "disclosedDate": "2024-05-31 18:03:19.814306"
+  }
+}

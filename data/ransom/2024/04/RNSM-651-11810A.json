@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-11810A",
+  "type": "ransomware-incident",
+  "title": "Community Alliance ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Community Alliance",
+    "domain": "community-alliance.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "About Community Alliance:- Community Alliance offers a full continuum of behavioral health services including psychiatric care, counseling, psycho-social rehabilitation services (for those with...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5f28275c697f9d95d647f26d0a4a8489.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tbxvuaxr5iefsbglhbmnlqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-11 19:37:52.319697",
+    "disclosedDate": "2024-04-11 19:37:52.689295"
+  }
+}

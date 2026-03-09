@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-0192EE",
+  "type": "ransomware-incident",
+  "title": "obe.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "obe.com",
+    "domain": "obe.com",
+    "country": "AT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[IA generated] OBE.com is a company specializing in providing advanced online business solutions and digital services. It focuses on assisting businesses in enhancing their online presence through innovative technology and strategic digital marketing practices. The company is known for its expertise in web development, e-commerce solutions, and data-driven marketing strategies, aiming to drive growth and efficiency for its clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1e25f1e6a4a3e8ec52b551877a08bdae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b2jllmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-27 00:04:20.000000",
+    "disclosedDate": "2024-11-01 21:25:41.675446"
+  }
+}

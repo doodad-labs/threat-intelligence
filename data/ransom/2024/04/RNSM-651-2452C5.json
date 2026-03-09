@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-2452C5",
+  "type": "ransomware-incident",
+  "title": "Central Power Systems and Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Central Power Systems and Services",
+    "domain": "cpower.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/393aaad369436d98615d01a590710265.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2vudhjhbcbqb3dlcibtexn0zw1zigfuzcbtzxj2awnlc0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-24 19:32:59.000000",
+    "disclosedDate": "2024-04-24 22:22:34.449246"
+  }
+}

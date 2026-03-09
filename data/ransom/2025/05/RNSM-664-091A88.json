@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-664-091A88",
+  "type": "ransomware-incident",
+  "title": "Klampfer Elektroanlagen ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Klampfer Elektroanlagen",
+    "domain": "klampfer.at",
+    "country": "AT",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "G. Klampfer Elektroanlagen GmbH is a company specializing on building services as well as general contractor activities based in Austria.We are going to upload more than 20GB of corporate documents. Lots of detailed employee information (medical records, drivers licenses), projects information, financial data of clients, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2xhbxbmzxigrwxla3ryb2fubgfnzw5aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-29 00:00:00.000000",
+    "disclosedDate": "2025-05-09 13:48:48.998203"
+  }
+}

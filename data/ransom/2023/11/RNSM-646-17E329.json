@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-17E329",
+  "type": "ransomware-incident",
+  "title": "adyne.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "adyne.com",
+    "domain": "adyne.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Alphadyne Asset Management is an alternative investment management firm led by founding member and Chief Investment Officer Philippe Khuong-Huu.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/69396e74a7990190eb0b4ca16fa89da6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywr5bmuuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-17 07:49:00.000000",
+    "disclosedDate": "2023-11-17 08:13:22.175999"
+  }
+}

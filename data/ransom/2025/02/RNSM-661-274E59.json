@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-274E59",
+  "type": "ransomware-incident",
+  "title": "SOBELATHOME.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SOBELATHOME.COM",
+    "domain": "sobelathome.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Sobelathome.com is an online retail company run by Sobel Westex that offers luxury hotel linens for home use. They provide a broad range of products, including bedding, bath towels, robes, pillows, and other home accessories. These products are appreciated for their superior comfort and durability, a characteristic of Sobel's hotel-grade quality. The company designs products for ultimate comfort while ensuring they are stylish and enhance the look of your home.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u09cruxbvehptuuuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:22:31.669111",
+    "disclosedDate": "2025-02-27 17:22:37.499157"
+  }
+}

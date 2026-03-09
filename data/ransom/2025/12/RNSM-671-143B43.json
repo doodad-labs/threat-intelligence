@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-143B43",
+  "type": "ransomware-incident",
+  "title": "dabafinance.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dabafinance.com",
+    "domain": "example.com",
+    "country": "GB",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Price ??? Disclosures 0/1",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgfiywzpbmfuy2uuy29tqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-14 01:52:58.940647",
+    "disclosedDate": "2025-12-14 01:53:00.411387"
+  }
+}

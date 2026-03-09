@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-655-1383BA",
+  "type": "ransomware-incident",
+  "title": "cbmm ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cbmm",
+    "domain": "cbmm.org",
+    "country": "BR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/339085be0ce1f04b03b506ea01b9c41d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2jtbubozwxszg93bg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-12-30-chesapeake-bay-maritime-museum-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-09 00:00:00.000000",
+    "disclosedDate": "2024-08-13 07:34:11.841426"
+  }
+}

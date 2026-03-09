@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-659-1741AE",
+  "type": "ransomware-incident",
+  "title": "Ecritel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ecritel",
+    "domain": "ecritel.fr",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : France - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e15c558cf1f2c468a3e6a041f4958371.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwnyaxrlbebodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.lemagit.fr/actualites/366617337/ransomware-ecritel-victime-dune-cyberattaque-impliquant-hunters-international",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-08 00:00:00.000000",
+    "disclosedDate": "2024-12-17 06:32:22.380891"
+  }
+}

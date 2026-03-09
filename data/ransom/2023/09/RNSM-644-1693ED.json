@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-1693ED",
+  "type": "ransomware-incident",
+  "title": "lamaisonmercier.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lamaisonmercier.com",
+    "domain": "lamaisonmercier.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "In 1912, Marcel Mercier, a baker in the heart of Berry launched original biscuits with regional flavors (croustade au crottin Chavignol, croquet du Berry...).",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5f43fddf74c4974915a084247a40c312.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgftywlzb25tzxjjawvylmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-16 12:26:00.000000",
+    "disclosedDate": "2023-09-16 13:05:17.632666"
+  }
+}

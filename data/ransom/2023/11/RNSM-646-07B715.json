@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-07B715",
+  "type": "ransomware-incident",
+  "title": "acawtrustfunds.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "acawtrustfunds.ca",
+    "domain": "acawtrustfunds.ca",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The ACAW Health & Wellness Plan provides life insurance and health care benefits to members and their eligible dependents.  The Plan is financed by employer contributions specified in Collective Agreements made with participating employers.  The contributions are held in Trust to pay the benefits specified in the Plan.  A jointly Trusteed Board of equal representation from the Union and the participating employers administers the Plan.  Four Trustees are appointed by the participating employers and four Trustees are appointed by the Union.  As with the Pension Plan, this Board also hires consultants to assist where required, including a Dental and Medical Consultant, who assist them in determining changes which can be made to the Health & Wellness Plan and when necessary, assessing members’ eligibility for benefits.https://acawtrustfunds.caACAW Trust Funds Suite 101, 15315 123 Avenue NW Edmonton, AB T5V 1S6 Phone:          780-477-9131",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ce4f9330719cffd329635522ab87d3c0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywnhd3rydxn0znvuzhmuy2faymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-07 11:27:13.294483",
+    "disclosedDate": "2023-11-07 11:27:13.294504"
+  }
+}

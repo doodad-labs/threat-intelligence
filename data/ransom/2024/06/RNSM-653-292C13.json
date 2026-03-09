@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-653-292C13",
+  "type": "ransomware-incident",
+  "title": "Cambridge University Press & Assessment ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cambridge University Press & Assessment",
+    "domain": "cambridge.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We unlock the potential of millions of people worldwide. Our assessments, publications and research spread knowledge, spark enquiry and aid underst anding around the world.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/da9c599eb721627c2236ce868c7b3e8b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2ftynjpzgdlifvuaxzlcnnpdhkguhjlc3mgjibbc3nlc3ntzw50qgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/033e24ec-a9dd-42d9-b50c-601ccb88df05.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-24 11:26:59.831000",
+    "disclosedDate": "2024-06-29 08:08:53.956529"
+  }
+}

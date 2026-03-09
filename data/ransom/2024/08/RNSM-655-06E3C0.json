@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-655-06E3C0",
+  "type": "ransomware-incident",
+  "title": "Ziba Design ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ziba Design",
+    "domain": "ziba.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 22000000000,
+    "description": "22 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c265e22def37c19b4c670adc122ab519.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wmliysbezxnpz25azm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-06 16:22:50.882441",
+    "disclosedDate": "2024-08-06 16:22:51.754594"
+  }
+}

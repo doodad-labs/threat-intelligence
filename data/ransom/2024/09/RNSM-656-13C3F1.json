@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-13C3F1",
+  "type": "ransomware-incident",
+  "title": "VIcom Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VIcom Corporation",
+    "domain": "vicom-corp.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cb2d070bda0f4b2d5941fc689e14aa56.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vkljb20gq29ycg9yyxrpb25aahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-13 12:56:04.000000",
+    "disclosedDate": "2024-09-13 13:42:12.970308"
+  }
+}

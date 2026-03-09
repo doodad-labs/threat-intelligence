@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-640-0204B8",
+  "type": "ransomware-incident",
+  "title": "baycrestpartners.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "baycrestpartners.com",
+    "domain": "baycrestpartners.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 18000000000,
+    "description": "#NationalHazardAgencyWe stole 18 gigabytes of data and documents, including SQL databases and mail backups. You have two choices: pay us or leak 18 gigabytes of documentation.Contact us",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b7fc5df6275af00ea2688474fd10f40e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymf5y3jlc3rwyxj0bmvycy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-02 20:29:00.000000",
+    "disclosedDate": "2023-05-02 21:49:35.910973"
+  }
+}

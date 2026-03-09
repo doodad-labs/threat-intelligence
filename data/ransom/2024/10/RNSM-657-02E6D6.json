@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-657-02E6D6",
+  "type": "ransomware-incident",
+  "title": "domainindustries.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "domainindustries.com",
+    "domain": "domainindustries.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Domain Industries, Inc. is a U.S.-based company specializing in providing high-quality products and services for the kitchen and bath industry. They offer a wide range of materials, including sinks, faucets, and countertops, designed to meet both residential and commercial needs. Known for their commitment to innovation and customer satisfaction, Domain Industries supports its clients with reliable solutions and excellent service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34b15806da5a6011a15099e6fc8b3908.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zg9tywluaw5kdxn0cmllcy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-04 00:00:00.000000",
+    "disclosedDate": "2024-10-02 20:43:19.644961"
+  }
+}

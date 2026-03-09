@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-06CF6C",
+  "type": "ransomware-incident",
+  "title": "Robertshaw ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Robertshaw",
+    "domain": "robertshaw.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/da03aefc09d487f3ae7a0019f2fe7981.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um9izxj0c2hhd0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-06 12:33:46.000000",
+    "disclosedDate": "2025-02-06 12:46:11.021650"
+  }
+}

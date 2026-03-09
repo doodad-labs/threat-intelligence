@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-651-172F76",
+  "type": "ransomware-incident",
+  "title": "doyon.com | doyondrilling.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "doyon.com | doyondrilling.com",
+    "domain": "doyondrilling.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "Doyon, Limited, the regional Alaska Native corporation for Interior Alaska, is a for-profit corporation with more than 20,500 shareholders. Headquartered in Fairbanks, Alaska, Doyon employs over 800 individuals in Alaska and across the nation. Doyon operates a diverse family of companies in the areas of oil field services, government contracting utilities, construction, information technology, natural resources development, tourism, and real estate.SITE: www.doyon.com Address : 1 Doyon Place, Suite 300 Fairbanks, Alaska 99701-2941Doyon Drilling Inc. (DDI) operates on the North Slope of Alaska with nine of the most unique oil and gas land drilling rigs specially designed to drill oil wells in extreme conditions. In 1982 as a joint venture between Doyon, Limited, an Alaska Native regional corporation, and Nugget Alaska, Inc.SITE: www.doyondrilling.com Address : Doyon Drilling, Inc. Address. 11500 Sukdu Way Ste 200. Anchorage, Alaska 99515ALL DATA SIZE: ~700gb+ 1. Corporate data(Accountings, HR and etc.) 2. Employees personal infos 3. Scans, Confidential, users & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a7f5bc805af472c8ca60c94d8344cc0d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zg95b24uy29tihwgzg95b25kcmlsbgluzy5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4717d1a7-0533-4cb7-b4f0-311e57abefd5.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-02 00:00:00.000000",
+    "disclosedDate": "2024-04-17 23:48:23.482283"
+  }
+}

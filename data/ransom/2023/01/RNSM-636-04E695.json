@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-636-04E695",
+  "type": "ransomware-incident",
+  "title": "UNISALLE.EDU.CO ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UNISALLE.EDU.CO",
+    "domain": "lasalle.edu.co",
+    "country": "CO",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Universidad de La Salle",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8638825f86b7aa0ab479ec9ae3b63e44.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vu5ju0fmteuururvlknpqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-04 23:09:22.380941",
+    "disclosedDate": "2023-01-04 23:09:22.380941"
+  }
+}

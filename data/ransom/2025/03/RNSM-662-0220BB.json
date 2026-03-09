@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-0220BB",
+  "type": "ransomware-incident",
+  "title": "Bell Ambulance ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bell Ambulance",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 219500000000,
+    "description": "Bell Ambulance company provides emergency transportation services for patients to medical institutions, working around the clock and having everything necessary to ensure transportation in any condition and with any illness. Bell Ambulance corporate office is located in 549 E Wilson St, Milwaukee, Wisconsin, 53207, United States and has 500 employees. The total amount of data leakage is 219.50 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d9fbfc602c4adca2da2cde1d5acc21f2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvsbcbbbwj1bgfuy2vabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-02 16:30:43.000000",
+    "disclosedDate": "2025-03-02 17:43:12.001532"
+  }
+}

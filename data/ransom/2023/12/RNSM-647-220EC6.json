@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-220EC6",
+  "type": "ransomware-incident",
+  "title": "ciasc.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ciasc.mx",
+    "domain": "ciasc.mx",
+    "country": "MX",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Our firm Consultores y Investigadores en Administración, S.C. was founded in 1993. Today we specialize in Credit Investigation and Portfolio Recovery services through the out-of-court and judicial route. From our beginning we have always sought the s...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b0205c83cbe8f45bc934e3d4b3662522.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2lhc2mubxhabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-12 00:00:00.000000",
+    "disclosedDate": "2023-12-22 22:05:48.053838"
+  }
+}

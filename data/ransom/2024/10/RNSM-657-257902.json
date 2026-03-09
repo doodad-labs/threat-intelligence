@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-657-257902",
+  "type": "ransomware-incident",
+  "title": "The Knesset - Israel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Knesset - Israel",
+    "domain": "knesset.gov.il",
+    "country": "IL",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "hellcat",
+    "name": "hellcat",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 64000000000,
+    "description": "We have successfully compromised the Knesset's secure networks and extracted 64GB of sensitive data. This includes internal communications and confidential documents.",
+    "claimed_data_types": [
+      "internal-documents"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlietuzxnzzxqglsbjc3jhzwxaagvsbgnhda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 08:53:03.237754",
+    "disclosedDate": "2024-10-25 08:53:04.137330"
+  }
+}

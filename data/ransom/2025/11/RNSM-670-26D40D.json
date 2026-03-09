@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-26D40D",
+  "type": "ransomware-incident",
+  "title": "AllerVie Health ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AllerVie Health",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Major customer database leak.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/65517f8d7514502d7225657cdd50d8c6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxszxjwawugsgvhbhroqgfudwjpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-26 01:11:49.552284",
+    "disclosedDate": "2025-11-26 01:12:38.409184"
+  }
+}

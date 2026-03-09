@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-648-248682",
+  "type": "ransomware-incident",
+  "title": "https://www.carri.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "https://www.carri.com",
+    "domain": "carri.com",
+    "country": "FR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "alphalocker",
+    "name": "alphalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All important information downloaded from the https://www.carri.com servers will be placed here: -Customer data -Financial data of the company -Employee information etc.",
+    "claimed_data_types": [
+      "financial-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/075383b5363d83c3118234b23652b869.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahr0chm6ly93d3cuy2fycmkuy29tqgfscghhbg9ja2vy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-24 14:45:06.666794",
+    "disclosedDate": "2024-01-24 14:45:06.666816"
+  }
+}

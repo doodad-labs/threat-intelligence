@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-636-01F0B4",
+  "type": "ransomware-incident",
+  "title": "eds-automotive.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "eds-automotive.de",
+    "domain": "eds-automotive.de",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "EDS Automotive GmbH is a dynamically growing family company that offers development services for the automotive industry as well as their suppliers and service contractors.File tree of 70% data leaked: https://www.sendspace.com/file/5ba1l8",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwrzlwf1dg9tb3rpdmuuzgvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-01 08:56:31.106810",
+    "disclosedDate": "2023-01-01 08:56:31.106810"
+  }
+}

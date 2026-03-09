@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-199AF2",
+  "type": "ransomware-incident",
+  "title": "id-logistics.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "id-logistics.com",
+    "domain": "id-logistics.com",
+    "country": "TW",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "After the launch in France of logistics services for mass distribution, our Group begins its international deployment with a first subsidiary in Taiwan in early 2002. This would be followed by the opening of a new country every year…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/631f40ea28b0194332694e2191822a91.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awqtbg9naxn0awnzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-19 14:37:00.000000",
+    "disclosedDate": "2023-03-19 15:00:45.435392"
+  }
+}

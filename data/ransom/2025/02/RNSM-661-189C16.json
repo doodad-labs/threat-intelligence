@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-661-189C16",
+  "type": "ransomware-incident",
+  "title": "www.alphamedctr.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.alphamedctr.com",
+    "domain": "alphamedctr.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Alpha Medical Center is a medical establishment dedicated to promoting health and wellness through exceptional patient care. They offer an array of medical services, including primary care, preventive medicine, women's health, and more. Their team of healthcare professionals places a high emphasis on tailored treatment plans, innovation and continuous education to ensure patients receive the best possible healthcare experience.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/af78c9ceed71b6b25d659edc22c6e5f1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmfscghhbwvky3rylmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.hipaajournal.com/small-georgia-medical-practice-closes-due-to-cyberattack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-02 00:00:00.000000",
+    "disclosedDate": "2025-02-18 17:07:43.101393"
+  }
+}

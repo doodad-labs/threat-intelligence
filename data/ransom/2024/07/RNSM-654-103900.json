@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-103900",
+  "type": "ransomware-incident",
+  "title": "City of Cedar Falls ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "City of Cedar Falls",
+    "domain": "cedarfalls.com",
+    "country": "",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Unfortunately, the management of cedarfalls.com shows no commitment to ensuring the data security of its employees, customers, and partners. Cedarfalls has 72 hours to resolve this situation; otherwise, the data will be put up for public auction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ee38299d6e96766277016931ae62ba0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0esbvzibdzwrhcibgywxsc0bibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-16 00:00:00.000000",
+    "disclosedDate": "2024-07-10 19:35:24.604582"
+  }
+}

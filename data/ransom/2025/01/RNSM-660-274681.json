@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-274681",
+  "type": "ransomware-incident",
+  "title": "www.avantit.no ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.avantit.no",
+    "domain": "avantit.no",
+    "country": "NO",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.avantit.no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/76d79b39290cd218d3d5de60e97e063f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmf2yw50axqubm9aymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:15:06.957538",
+    "disclosedDate": "2025-01-27 07:16:16.160336"
+  }
+}

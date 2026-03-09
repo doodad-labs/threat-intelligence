@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09DEE6",
+  "type": "ransomware-incident",
+  "title": "cinealbeniz.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cinealbeniz.com",
+    "domain": "cinealbeniz.com",
+    "country": "ES",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c9f88d6f947143b404a7381bbb3bda67.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2luzwfsymvuaxouy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-28 00:00:00.000000",
+    "disclosedDate": "2024-05-09 13:04:50.695976"
+  }
+}

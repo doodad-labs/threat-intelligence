@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-273E1A",
+  "type": "ransomware-incident",
+  "title": "www.cloudeurope.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.cloudeurope.it",
+    "domain": "cloudeurope.it",
+    "country": "IT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b029d1741727c4d89c01e3ae8e02818c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnsb3vkzxvyb3bllml0qhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-22 00:00:00.000000",
+    "disclosedDate": "2024-06-27 13:54:31.065885"
+  }
+}

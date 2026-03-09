@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-138551",
+  "type": "ransomware-incident",
+  "title": "Welcomehallmission.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Welcomehallmission.com",
+    "domain": "welcomehallmission.com",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000000,
+    "description": "2 TB of internal data are free to downloadLink:http://bifpwatchoxp7tsb2kpes37b23ogjrb2kj4wgr7yncf4hhgsfahu7jad.onion/welcomehall/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/98bfa53a750e621ba5ab7ae39ceb2cf4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vsy29tzwhhbgxtaxnzaw9ulmnvbubldmvyzxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-13 21:24:53.878571",
+    "disclosedDate": "2025-01-13 21:24:53.878571"
+  }
+}

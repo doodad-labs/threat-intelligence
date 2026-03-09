@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-24231C",
+  "type": "ransomware-incident",
+  "title": "hpecds.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hpecds.com",
+    "domain": "hpecds.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CDS, a Hewlett Packard Enterprise companyCDS is a wholly owned subsidiary of Hewlett Packard Enterprise and although an integral part of delivery...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c454b30a7e71e4de87b9d074fbc70f52.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahbly2rzlmnvbubhchq3mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-24 09:00:00.000000",
+    "disclosedDate": "2024-10-24 15:30:45.503078"
+  }
+}

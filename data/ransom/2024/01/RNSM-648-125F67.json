@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-125F67",
+  "type": "ransomware-incident",
+  "title": "Anderson King Energy Consultants, LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Anderson King Energy Consultants, LLC",
+    "domain": "andersonkingenergy.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Anderson King Energy Consultants serves the energy industry as an independent A&D advisor and technical consultant. Anderson King Energy Consultants, LLC serves the energy industry as an independent A&D advisor and technical consultant. With over 215 years of combined industry experience, our team offers a unique blend of technical expertise and transaction history which is truly unmatched. Our business is built on relationships and integrity.  https://www.andersonkingenergy.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/762d82d99bac9b7c1873b807b8590743.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw5kzxjzb24gs2luzybfbmvyz3kgq29uc3vsdgfudhmsiexmq0a4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-12 00:00:00.000000",
+    "disclosedDate": "2024-01-12 08:44:19.513257"
+  }
+}

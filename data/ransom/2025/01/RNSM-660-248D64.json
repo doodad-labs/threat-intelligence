@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-248D64",
+  "type": "ransomware-incident",
+  "title": "WESTERNALLIANCEBANK.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WESTERNALLIANCEBANK.COM",
+    "domain": "westernalliancebank.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Western Alliance Bancorporation is a leading bank holding company in the US offering retail, commercial, and real estate banking services. Established in 1995, it operates through various divisions and subsidiaries across the nation. Western Alliance Bank provides lending, deposit, treasury management, and online banking solutions to consumers, small to larger businesses, and professional communities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e9581a68e3cc1ee6a1802fafe43c553c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0vtvevstkfmtelbtknfqkfosy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 08:16:37.689746",
+    "disclosedDate": "2025-01-24 08:16:37.689746"
+  }
+}

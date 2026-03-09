@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-640-195F3D",
+  "type": "ransomware-incident",
+  "title": "City of Dallas ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "City of Dallas",
+    "domain": "dallascityhall.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "“There is still no indication that data from residents, vendors or employees has been leaked,” Dallas said Monday in a statement. So, we are going to indicate that the data will be leaked soon. We will share here in our blog tons of personal information of employees (phones, addresses, credit cards, SSNs, passports), detailed court cases, prisoners, medical information, clients' information and thousands and thousands of governmental documents.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/04186046e39802c0643bd2a9042a9edd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0esbvzibeywxsyxnacm95yww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cbsnews.com/texas/news/possible-cyber-attack-hampering-dallas-police-operations/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-19 01:02:03.456789",
+    "disclosedDate": "2023-05-19 13:53:58.575511"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-16C5D1",
+  "type": "ransomware-incident",
+  "title": "Abbott Media Productions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Abbott Media Productions",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Abbott Media Productions, based in Tucson, Arizona, specializes in 3D animation, technical animation, and a full range of video production services. They provide animation services and interactive applications, incident reenactments, product animation, and motion graphics. Their primary clients include government agencies, defense contractors, and commercial organizations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cb0d46062844a4e0a4bca000152dbb84.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwjib3r0ie1lzglhifbyb2r1y3rpb25zqgludgvybg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-16 17:24:45.381532",
+    "disclosedDate": "2026-02-16 17:25:03.381707"
+  }
+}

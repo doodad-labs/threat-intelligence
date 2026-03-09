@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-08740E",
+  "type": "ransomware-incident",
+  "title": "Istrail ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Istrail",
+    "domain": "istrail.com",
+    "country": "NO",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Istrail(founded in 1916) is a large mechanical workshop specializing in the production of semi -trailers.Istrail corporate office is located in Nordre Kullerød 17, 3241 Sandefjord, Norway.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sxn0cmfpbebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-07 05:52:39.000000",
+    "disclosedDate": "2024-10-08 05:16:40.355264"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-06A77A",
+  "type": "ransomware-incident",
+  "title": "Health People ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Health People",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 13100000000,
+    "description": "Health People (established in 1990) is a peer education, prevention and support organization in the South Bronx whose mission is to train and empower residents of communities overwhelmed by chronic disease and AIDS. Health People corporate office is located in 552 Southern Blvd Fl 2, Bronx, New York, 10455, United States and has 48 employees. The total amount of data leakage is 13.1 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvhbhroifblb3bszubtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-04 14:05:18.12345",
+    "disclosedDate": "2024-06-06 07:42:21.326147"
+  }
+}

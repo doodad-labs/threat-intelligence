@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-019277",
+  "type": "ransomware-incident",
+  "title": "etsolutions.com.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "etsolutions.com.mx",
+    "domain": "etsolutions.com.mx",
+    "country": "MX",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Somos una empresa 100% mexicana dedicada a la implementación de soluciones de infraestructura y seguridad en procesos de operación crítica. Nuestro equipo está formado por profesionales, especialistas y tecnicos certificados para ofrecer...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/60d1032cd852ede6c5979df2aff3a351.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxrzb2x1dglvbnmuy29tlm14qhrocmvlyw0=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-01 23:04:26.676154",
+    "disclosedDate": "2024-02-01 23:04:26.676181"
+  }
+}

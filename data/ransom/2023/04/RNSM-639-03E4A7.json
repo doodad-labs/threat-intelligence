@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-03E4A7",
+  "type": "ransomware-incident",
+  "title": "Corizon Healthcare ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Corizon Healthcare",
+    "domain": "corizonhealth.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Corizon Health (CMS and PHS in the past) is a private prison healthcare provider with a very interesting history. The data we took from them is not less interesting. Tons of law docs and other stuff about prisoners' health and their treatment in the institution.You are welcome!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/efccf9c132b7cbbad881718cb0157e8e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29yaxpvbibizwfsdghjyxjlqhjvewfs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-30 01:02:03.456789",
+    "disclosedDate": "2023-04-03 05:14:56.548901"
+  }
+}

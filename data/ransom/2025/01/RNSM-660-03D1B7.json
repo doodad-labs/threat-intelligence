@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-03D1B7",
+  "type": "ransomware-incident",
+  "title": "Tarnaise des Panneaux SAS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tarnaise des Panneaux SAS",
+    "domain": "tarnaisepanneaux.fr",
+    "country": "FR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tarnaise des Panneaux produces boards made of high-density wood fibres, a natural product with no synthetic binder. Also named Hardboard or Isorel®, this board features many advantages combined to Tarnaise des Panneaux know-how, naturallyhttps://www.tarnaisepanneaux.fr/en/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/125103fe0501b7e13489d7bbff734eab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgfybmfpc2ugzgvzifbhbm5lyxv4ifnbu0a4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-03 00:00:00.000000",
+    "disclosedDate": "2025-01-03 10:14:27.826115"
+  }
+}

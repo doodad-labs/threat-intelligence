@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-246CC6",
+  "type": "ransomware-incident",
+  "title": "Gujarat Mineral ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Gujarat Mineral",
+    "domain": "gmdcltd.com",
+    "country": "IN",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Gujarat Mineral Development Corporation Limited (GMDC) is a large Indian state-owned mining and brown coal company based in Ahmedabad.GMDC was founded in 1963, its product range includes basic energy minerals such as brown coal, base metals and industrial minerals such as bauxite and fluorspar, as well as participates in the business related to oil refining.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cd942235f0bae4aa0c8ad84eb2844888.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3vqyxjhdcbnaw5lcmfsqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-24 08:52:03.12345",
+    "disclosedDate": "2023-03-24 11:14:10.947089"
+  }
+}

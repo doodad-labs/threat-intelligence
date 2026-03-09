@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-062FF3",
+  "type": "ransomware-incident",
+  "title": "Arbitech (arb.local) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Arbitech (arb.local)",
+    "domain": "arbitech.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Arbitech, LLC, founded in August 2000, is the nation's leading independent IT di...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/df197a3d03049f896f53fc14b3c70537.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjiaxrly2ggkgfyyi5sb2nhbclabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-13 00:00:00.000000",
+    "disclosedDate": "2024-09-06 14:47:12.707247"
+  }
+}

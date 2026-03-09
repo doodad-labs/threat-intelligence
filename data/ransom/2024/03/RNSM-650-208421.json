@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-208421",
+  "type": "ransomware-incident",
+  "title": "ÖSTENSSONS LIVS AB ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ÖSTENSSONS LIVS AB",
+    "domain": "ostenssons.se",
+    "country": "SE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Östenssons is an independent restaurant chain that can be found in western Östergötland. You will find two shops in the Motel, two shops in Vadstena, one shop in Skenning, one shop in Borensberg, one shop in Linkoping and one shop in Northoping.ostenssons.se",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a19443abf27834a10e844d6b1d2c7301.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/w5ztvevou1nptlmgtelwuybbqka4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-20 00:00:00.000000",
+    "disclosedDate": "2024-03-20 07:15:36.268559"
+  }
+}

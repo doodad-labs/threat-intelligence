@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-23E5ED",
+  "type": "ransomware-incident",
+  "title": "xpressnebs.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "xpressnebs.com",
+    "domain": "xpressnebs.com",
+    "country": "DE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Xpress Nebs is a JCAHO certified Durable Medical Equipment company that specializes in providing hig...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e6a1dd2af7244e710fbe05320ea5f088.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ehbyzxnzbmvicy5jb21abg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-17 12:27:00.000000",
+    "disclosedDate": "2026-02-23 13:15:12.282340"
+  }
+}

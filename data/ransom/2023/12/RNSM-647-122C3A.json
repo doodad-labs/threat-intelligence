@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-647-122C3A",
+  "type": "ransomware-incident",
+  "title": "The Teaching Company, LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Teaching Company, LLC",
+    "domain": "thegreatcourses.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 60000000000,
+    "description": "The Teaching Company, doing business as The Great Courses, provides courses on digital versatile disc, audio compact disc, and other formats. 60Gb of data will be uploaded. Clients information, lots of accounting and finance data, courses info and even a holiday video! We will update soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifrlywnoaw5nienvbxbhbnksiexmq0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-12 14:24:44.325116",
+    "disclosedDate": "2023-12-12 14:24:44.477570"
+  }
+}

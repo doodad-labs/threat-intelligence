@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-26F2DF",
+  "type": "ransomware-incident",
+  "title": "prasarana.com.my ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "prasarana.com.my",
+    "domain": "prasarana.com.my",
+    "country": "MY",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Prasarana Malaysia Berhad is a major public transportation provider in Malaysia, managing urban rail and bus services in key metropolitan areas. The company operates the Rapid KL, Rapid Penang, and Rapid Kuantan networks, ensuring efficient and reliable transit solutions. Prasarana also oversees infrastructure development and maintenance, contributing to Malaysia's sustainable urban mobility.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/083abbe206e92318255c75c5c466231e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjhc2fyyw5hlmnvbs5teubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-10 00:00:00.000000",
+    "disclosedDate": "2024-08-26 01:30:43.774565"
+  }
+}

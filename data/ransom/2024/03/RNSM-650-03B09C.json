@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-03B09C",
+  "type": "ransomware-incident",
+  "title": "Eastern Rio Blanco Metropolitan ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Eastern Rio Blanco Metropolitan",
+    "domain": "erbmrec.com",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Eastern Rio Blanco Metropolitan (ERBM) Recreation & Park District is a special district in Rio Blanco County, Colorado that was founded in 1981,in 2008, Meeker Recreation Center was created on its basis.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwfzdgvybibsaw8gqmxhbmnvie1ldhjvcg9saxrhbkbtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-03 15:14:48.12345",
+    "disclosedDate": "2024-03-03 17:49:27.168636"
+  }
+}

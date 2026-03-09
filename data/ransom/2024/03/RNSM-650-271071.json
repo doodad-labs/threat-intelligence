@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-650-271071",
+  "type": "ransomware-incident",
+  "title": "UNDP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UNDP",
+    "domain": "undp.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1966, the UNDP is an organization that assists with sustainable development, democratic governance, and disaster resilience.undp.org",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e3d771799994c57c32eb2cddabacc3ab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vu5euea4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://thecyberexpress.com/cyberattack-on-undp-hr-data-breached/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-27 00:00:00.000000",
+    "disclosedDate": "2024-03-27 08:50:05.460156"
+  }
+}

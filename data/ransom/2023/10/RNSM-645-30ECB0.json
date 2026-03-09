@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-645-30ECB0",
+  "type": "ransomware-incident",
+  "title": "aiq.com.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aiq.com.mx",
+    "domain": "aiq.com.mx",
+    "country": "MX",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Aeropuerto Internacional de Querétaro - Business Information",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7e0bd6cf590928f03f05e54ea9f17940.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywlxlmnvbs5teebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.jornada.com.mx/noticia/2023/10/31/estados/aeropuerto-de-queretaro-sufre-ataque-cibernetico-por-software-malicioso-6308",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-30 20:09:00.000000",
+    "disclosedDate": "2023-10-30 21:11:07.963629"
+  }
+}

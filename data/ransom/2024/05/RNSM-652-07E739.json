@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-07E739",
+  "type": "ransomware-incident",
+  "title": "Vega Reederei GmbH & Co. KG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vega Reederei GmbH & Co. KG",
+    "domain": "vega-reederei.de",
+    "country": "DE",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "metaencryptor",
+    "name": "metaencryptor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Headquartered at the Port of Hamburg, Vega is one of the world's fastest-growing shipping companies. Vega offers its customers a wide range of services that include shipbuilding, shipping operations, chartering, ship disposal and financial services. Read less Revenue: EUR 19M Year 2022",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmvnysbszwvkzxjlasbhbwjiicygq28uiethqg1ldgflbmnyexb0b3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-07 19:49:44.802412",
+    "disclosedDate": "2024-05-07 19:49:44.802443"
+  }
+}

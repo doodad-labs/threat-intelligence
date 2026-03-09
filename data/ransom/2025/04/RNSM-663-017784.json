@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-017784",
+  "type": "ransomware-incident",
+  "title": "BenefitElect ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BenefitElect",
+    "domain": "benefitelect.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9d5a48b046c8c76dac35870789524c81.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvuzwzpdevszwn0qgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-01 08:07:16.073479",
+    "disclosedDate": "2025-04-01 08:08:33.872895"
+  }
+}

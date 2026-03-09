@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-646-20219A",
+  "type": "ransomware-incident",
+  "title": "British Library ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "British Library",
+    "domain": "bl.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "British Library The British Library is a research library in London that is the national library of the United Kingdom. It is one of the largest libraries in the worl.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9ca8331a69ffff38f73122de746d1363.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjpdglzacbmawjyyxj5qhjoexnpzge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.theregister.com/2023/10/31/british_library_it_outage/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-20 07:09:32.680713",
+    "disclosedDate": "2023-11-20 07:09:32.680737"
+  }
+}

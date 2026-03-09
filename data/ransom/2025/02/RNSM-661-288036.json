@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-288036",
+  "type": "ransomware-incident",
+  "title": "www.casinoessentials.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.casinoessentials.com",
+    "domain": "casinoessentials.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Casino Essentials is a leading company offering learning and performance management solutions to the gaming industry. They provide e-learning courses about subjects like anti-money laundering, the Bank Secrecy Act, human trafficking prevention, as well as providing software that allows gaming establishments to track and report any suspicious activity. It also offers job-based tools for employee tracking. Their clients include commercial and tribal casinos, card clubs, and lotteries in North America.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ef3b622b958f868c14ffae1406da7c19.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnhc2lub2vzc2vudglhbhmuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-28 15:42:49.000000",
+    "disclosedDate": "2025-02-28 20:36:55.305277"
+  }
+}

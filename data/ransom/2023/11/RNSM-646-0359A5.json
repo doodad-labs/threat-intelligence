@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-646-0359A5",
+  "type": "ransomware-incident",
+  "title": "unimed.coop.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "unimed.coop.br",
+    "domain": "unimed.coop.br",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Unimed is a Brazilian medical work cooperative and health insurance operator. It is considered the largest of its kind in the world, with more than 105,000 affiliated physicians, 386 branches and more than 15 million beneficiaries. Its name is a comp...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dd2a00a9f110a5431d713e8971689275.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dw5pbwvklmnvb3auynjabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://securityleaders.com.br/unimed-confirma-acidente-cibernetico-no-sistema-digital/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-03 16:59:00.000000",
+    "disclosedDate": "2023-11-03 17:33:55.307350"
+  }
+}

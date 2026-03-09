@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-31DE3A",
+  "type": "ransomware-incident",
+  "title": "Intellipop Fiber Internet ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Intellipop Fiber Internet",
+    "domain": "intellipop.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "knight",
+    "name": "knight",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Intellipop is a locally owned Internet Service Provider located in Payson, UT. We have been in service since 2014 and provide local residents a better, local alternative to internet service without the hidden fees, contracts and data limits you might find with other providers.We offer lightning fast services specializing in high speed internet in Payson and Santaquin and in all Utopia Fiber cities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/75d61bf89d7e5d15477cc5e230fe3615.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw50zwxsaxbvccbgawjlcibjbnrlcm5ldebrbmlnahq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-31 06:16:06.343446",
+    "disclosedDate": "2023-10-31 06:16:06.343467"
+  }
+}

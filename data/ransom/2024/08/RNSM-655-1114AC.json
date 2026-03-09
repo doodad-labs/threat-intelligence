@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-1114AC",
+  "type": "ransomware-incident",
+  "title": "johnllowery.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "johnllowery.com",
+    "domain": "johnllowery.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "John L. Lowery & Associates, Inc. was organized in 1964 to provide versatile and comprehensive engineering and technical services for the petrochemical industry. We have grown and now employ all levels of professional and technical personnel such as...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d31cfd20633a5942fc41e263bbaab05e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/am9obmxsb3dlcnkuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-20 00:00:00.000000",
+    "disclosedDate": "2024-08-11 07:40:11.188197"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-21BAD9",
+  "type": "ransomware-incident",
+  "title": "shamrocktradingcorp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "shamrocktradingcorp.com",
+    "domain": "shamrocktradingcorp.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Shamrock Trading Corporation is the parent company for a family of brands in transportation services, finance and technology. The company offers transportation logistics, discount programs, and international trade financing. -",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7662afcc4a07e4d2fb0eb7ca6b8f1b3f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2hhbxjvy2t0cmfkaw5ny29ycc5jb21azw1iyxjnbw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-21 17:14:21.331591",
+    "disclosedDate": "2024-05-21 22:15:26.943871"
+  }
+}

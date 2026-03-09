@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-271F52",
+  "type": "ransomware-incident",
+  "title": "COXENTERPRISES.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "COXENTERPRISES.COM",
+    "domain": "coxenterprises.com",
+    "country": "US",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Cox Enterprises, Inc. is an American conglomerate based in Atlanta, Georgia. The company was founded by James M. Cox in 1898 and primarily specializes in broadband communications, automotive services, and digital media. The conglomerate comprises Cox Communications, Cox Automotive, and Cox Media Group. They are also involved in sustainability and social initiatives.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/474f8f41fb25dc41f7c19eb929835005.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q09yru5urvjqukltrvmuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-27 11:29:12.806953",
+    "disclosedDate": "2025-10-27 11:29:29.620799"
+  }
+}

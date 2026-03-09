@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-09D493",
+  "type": "ransomware-incident",
+  "title": "Rutherford Investment Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rutherford Investment Company",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data breach of real estate investment firm: financial and Personalp identification data exposed.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/77935f6a95387f0a3094f9032d6d1b49.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/unv0agvyzm9yzcbjbnzlc3rtzw50ienvbxbhbnlayw51ymlz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-09 01:17:57.975114",
+    "disclosedDate": "2026-02-09 01:18:31.641448"
+  }
+}

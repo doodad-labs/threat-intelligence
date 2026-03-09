@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-148F5D",
+  "type": "ransomware-incident",
+  "title": "Genus ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Genus",
+    "country": "GB",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Genus is the most comprehensive low-code application development platform to rapidly build and continuously improve enterprise applications. We are ready to upload some of essentials corporate documents such as: NDA’s, contact numbers and e-mail addresses of employees and customers, financial data (audits, payment details, reports), etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2vudxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-14 00:00:00.000000",
+    "disclosedDate": "2025-02-14 14:31:40.138244"
+  }
+}

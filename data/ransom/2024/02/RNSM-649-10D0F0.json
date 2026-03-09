@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-10D0F0",
+  "type": "ransomware-incident",
+  "title": "Impact Energy Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Impact Energy Services",
+    "domain": "impact-energy.ca",
+    "country": "CA",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Canada - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/446de7db153f059eb0ee398092926145.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw1wywn0ievuzxjnesbtzxj2awnlc0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-10 19:13:51.000000",
+    "disclosedDate": "2024-02-10 19:24:03.060423"
+  }
+}

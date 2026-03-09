@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-651-1926A6",
+  "type": "ransomware-incident",
+  "title": "The law firm Dr. Fingerle Rechtsanwälte ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The law firm Dr. Fingerle Rechtsanwälte",
+    "domain": "dr-fingerle.de",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "They downloaded all the confidential data of customers, finances, personal data of personnel, judicial work, etc.  The law firm Dr. Fingerle Rechtsanwälte is established in a tradition of more than 50 years. Its more than twenty-five years            ...",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghligxhdybmaxjtierylibgaw5nzxjszsbszwnodhnhbnfdpgx0zubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-12 00:00:00.000000",
+    "disclosedDate": "2024-04-19 15:57:19.316029"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-667-17A516",
+  "type": "ransomware-incident",
+  "title": "starsalliance.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "starsalliance.com",
+    "domain": "starsalliance.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "warlock",
+    "name": "warlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The data has been purchased by other buyers",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rhcnnhbgxpyw5jzs5jb21ad2fybg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-06 00:00:00.000000",
+    "disclosedDate": "2025-08-17 09:21:35.406838"
+  }
+}

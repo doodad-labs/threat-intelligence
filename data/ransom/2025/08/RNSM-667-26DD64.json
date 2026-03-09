@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-26DD64",
+  "type": "ransomware-incident",
+  "title": "parksidegroup.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "parksidegroup.co.uk",
+    "domain": "parksidegroup.co.uk",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Parkside Group Ltd is a respected UK-based manufacturer and distributor of architectural-grade aluminium systems, operating under its prominent Comar brand. …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0c0b695d5ed7738b413e9343075611ea.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgfya3npzgvncm91cc5jby51a0bzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-11 00:00:00.000000",
+    "disclosedDate": "2025-08-26 09:49:38.268703"
+  }
+}

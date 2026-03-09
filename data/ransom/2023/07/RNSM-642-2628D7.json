@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-2628D7",
+  "type": "ransomware-incident",
+  "title": "METROBANK.COM.PH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "METROBANK.COM.PH",
+    "domain": "metrobank.com.ph",
+    "country": "PH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "You're in Good Hands - Metrobank",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/141aba9fbfd2747d0837895e36b20720.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tuvuuk9cqu5llknpts5qsebjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:45:35.707973",
+    "disclosedDate": "2023-07-26 20:45:35.707994"
+  }
+}

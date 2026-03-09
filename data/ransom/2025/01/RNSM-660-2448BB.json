@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-2448BB",
+  "type": "ransomware-incident",
+  "title": "HERTZ.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HERTZ.COM",
+    "domain": "hertz.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Hertz.com is the online portal for The Hertz Corporation, a leading car rental service in the U.S. The company provides vehicle rental services including cars, trucks, and utility vehicles to consumers and businesses globally. It also offers additional services such as car sales, vehicle leasing, and fleet management. Its website, Hertz.com, allows customers to book rentals, manage reservations, and access special deals. Founded in 1918, Hertz is a subsidiary of Hertz Global Holdings.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e66b47b34a08b1a69e5022f2eabadd97.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sevsvfouq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 09:06:13.936703",
+    "disclosedDate": "2025-01-24 09:06:13.936703"
+  }
+}

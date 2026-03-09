@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-039A43",
+  "type": "ransomware-incident",
+  "title": "Interface ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Interface",
+    "domain": "interface.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34153adb5a35f409ef8b054ae97c2d63.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw50zxjmywnlqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-03 18:07:15.000000",
+    "disclosedDate": "2024-04-03 19:28:54.619933"
+  }
+}

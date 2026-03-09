@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-18FB20",
+  "type": "ransomware-incident",
+  "title": "UCC Retrievals, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UCC Retrievals, Inc.",
+    "domain": "uccretrievals.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] UCC Retrievals, Inc. specializes in public record research and retrieval services, focusing on Uniform Commercial Code (UCC) filings. The company assists businesses and legal professionals in securing accurate and timely information related to liens, titles, and other vital records. Known for its expertise and customer service, UCC Retrievals facilitates efficient document management and compliance.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vundifjldhjpzxzhbhmsieluyy5arwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:04:36.132010",
+    "disclosedDate": "2024-11-18 21:04:39.311789"
+  }
+}

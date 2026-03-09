@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-26B029",
+  "type": "ransomware-incident",
+  "title": "kumhotire.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kumhotire.com",
+    "domain": "kumhotire.com",
+    "country": "KR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kumho Tire (formerly known as Samyang Tire) is a South Korean tire manufacturer. Kumho Tire was previously operated as a business unit of the Kumho Asiana Group. Since 2018, it is a subsidiary of Chinese tire conglomerate Doublestar.  Encrypted up...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e53089df8ae3dd74115fce1c68688512.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3vtag90axjllmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-25 00:00:00.000000",
+    "disclosedDate": "2024-09-26 19:09:40.468534"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-25DE6D",
+  "type": "ransomware-incident",
+  "title": "dienesusa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dienesusa.com",
+    "domain": "dienesusa.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Dienes USA specializes in precision cutting tools and industrial knives. They offer a range of products including slitting systems, knife holders, and circular knives, serving industries such as paper, plastics, and packaging. With a focus on innovation and quality, Dienes USA provides customized solutions and technical support to optimize cutting processes and improve efficiency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ae2adc10f4feb9194f2db5cc6c5cc957.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgllbmvzdxnhlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-25 15:09:22.000000",
+    "disclosedDate": "2024-11-25 16:51:04.530203"
+  }
+}

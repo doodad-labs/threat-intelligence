@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-13EB7D",
+  "type": "ransomware-incident",
+  "title": "VAC-U-MAX ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VAC-U-MAX",
+    "domain": "vac-u-max.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since 1954, VAC-U-MAX has designed and manufactured pneumatic conveying components and automated bulk material handling systems for conveying, weighing, and batching of powders and granular bulk materials. VAC-U-MAX has defined the leading edge of technology for bulk material handling, designing, manufacturing, selling and supporting VAC-U-MAX systems worldwide. VAC-U-MAX has been the pioneer in vacuum pneumatic conveying, developing the first air-powered venturi unit, advancing technologies for direct-loading of vacuum tolerant process equipment, and the first to design vertical-wall \"Tube Hopper\" material receivers https://www.vac-u-max.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d7306ad030ce90795328c4459c9379f1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vkfdlvuttufyqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-13 00:00:00.000000",
+    "disclosedDate": "2023-12-13 10:07:48.377417"
+  }
+}

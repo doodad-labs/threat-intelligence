@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-31DDF9",
+  "type": "ransomware-incident",
+  "title": "Chrisman Commercial ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Chrisman Commercial",
+    "domain": "chrismancommercial.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Chrisman Commercial is a professional Boulder Commercial Real Estate firm specializing in properties in the Boulder county area. Founded in 1996, their team offers over 70 years of brokerage, property development, property management and investment management experience.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c7dbbac41af76ec12650d8714b6e1353.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hyaxntyw4gq29tbwvyy2lhbebsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-31 11:29:48.267000",
+    "disclosedDate": "2025-05-31 12:06:27.609542"
+  }
+}

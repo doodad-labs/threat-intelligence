@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-080A90",
+  "type": "ransomware-incident",
+  "title": "Dragon Tax and Management INC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dragon Tax and Management INC",
+    "domain": "dragontax.com",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dragon Tax are Accountants and Enrolled Agents that provide accounting and bookkeeping services for many of our self-employed and business clients. Services include but are not limited to payroll, recording of transactions, reconciliation, managerial accounting, cost analysis, fraud prevention, tax form preparation and creation of financial statements.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhjhz29uifrhecbhbmqgtwfuywdlbwvudcbjtknaymlhbmxpyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-08 14:46:01.390218",
+    "disclosedDate": "2024-05-08 14:46:01.390242"
+  }
+}

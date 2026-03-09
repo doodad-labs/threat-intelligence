@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-646-29421C",
+  "type": "ransomware-incident",
+  "title": "AQIPA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AQIPA",
+    "domain": "aqipa.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "As a result of an attack on the corporate network of AQIPA.com, we obtained hundreds of gigabytes of data: - trade secret information (NDAs, lists of clients with full information about them, current and future projects of the company, development strategies and plans) - personal data of employees and clients (passports, insurance, driver's licenses; login data for personal accounts, social networks and messengers, etc.);  - information disclosing the peculiarities of operation - non-public reporting documents concerning finance, management, HR, etc.",
+    "claimed_data_types": [
+      "passwords",
+      "passport-numbers",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0eb34d1e7348c5fcf95fbae19fc44376.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvfjuefaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-29 16:56:59.123456",
+    "disclosedDate": "2023-11-29 17:29:43.486670"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-17C70D",
+  "type": "ransomware-incident",
+  "title": "P.N. Sakkoulas ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "P.N. Sakkoulas",
+    "domain": "sakkoulas.com",
+    "country": "GR"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "P.N. Sakkoulas publishes law books and the journals \"Criminal Chronicles\" and \"Chronicles of Private Law\".We are ready to upload a lot of essential corporate documents such as: contact numbers and e-mail addresses of employees and customers, financial data (audits, payment details, reports), confidential licenses, agreements and contracts, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uc5olibtywtrb3vsyxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-17 00:00:00.000000",
+    "disclosedDate": "2025-02-17 12:43:10.272069"
+  }
+}

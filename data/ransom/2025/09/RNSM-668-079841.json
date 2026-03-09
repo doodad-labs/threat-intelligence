@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-079841",
+  "type": "ransomware-incident",
+  "title": "GPS Trackit ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GPS Trackit",
+    "domain": "gpstrackit.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/63112f3077e555d1469c62124fb7dbdc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r1btifryywnraxraa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-07 06:13:40.659723",
+    "disclosedDate": "2025-09-07 06:13:57.129866"
+  }
+}

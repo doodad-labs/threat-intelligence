@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-219B15",
+  "type": "ransomware-incident",
+  "title": "Mutest ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mutest",
+    "domain": "mutest.fr",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c8e294c6d729658bd03943b347337bad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txv0zxn0qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-21 18:57:15.569921",
+    "disclosedDate": "2026-01-21 18:57:33.054981"
+  }
+}

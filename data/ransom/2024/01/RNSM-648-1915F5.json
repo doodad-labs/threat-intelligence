@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-648-1915F5",
+  "type": "ransomware-incident",
+  "title": "foxsemicon.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "foxsemicon.com",
+    "domain": "foxsemicon.com",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Foxsemicon Integrated Technology Inc. takes semiconductor equipment manufacturing capabilities as the foundation; Mechanical, Optical, Electrical, and Software technologies as the pillar; and builds a leading edge in R&D and manufacturing of high-end...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ac6c88d7278ada6bcf558ac0ab848ca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zm94c2vtawnvbi5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.eet-china.com/mp/a282848.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-19 11:34:00.000000",
+    "disclosedDate": "2024-01-19 13:26:55.608389"
+  }
+}

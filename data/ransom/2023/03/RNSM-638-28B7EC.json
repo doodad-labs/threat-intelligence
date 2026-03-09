@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-28B7EC",
+  "type": "ransomware-incident",
+  "title": "swiftatlanta.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "swiftatlanta.com",
+    "domain": "swiftatlanta.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Swift Atlanta was founded in Suwanee, Georgia in 1982. The business began as a manufacturer of high quality custom sheet metal components and assemblies serving the electronic and communications industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/51640354d339f629fc1bb5146f6774bb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3dpznrhdgxhbnrhlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-28 06:03:00.000000",
+    "disclosedDate": "2023-03-28 07:10:54.640284"
+  }
+}

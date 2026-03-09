@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-10C714",
+  "type": "ransomware-incident",
+  "title": "www.ugrocapital.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.ugrocapital.com",
+    "domain": "ugrocapital.com",
+    "country": "IN",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/51a19af3c559e1c4ae61da420f9427cd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnvncm9jyxbpdgfslmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-05 12:35:42.000000",
+    "disclosedDate": "2024-06-10 14:55:47.692819"
+  }
+}

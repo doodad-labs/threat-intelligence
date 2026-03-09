@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-648-16C0A1",
+  "type": "ransomware-incident",
+  "title": "nobleweb.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nobleweb.com",
+    "domain": "nobleweb.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "noname",
+    "name": "noname",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 260000000000,
+    "description": "M Since 1992, The Noble Group has built a dedicated team of professionals all working together to revitalize neighborhoods, provide new homes for families and build a better future for our investors. 260GB lists with ssn numbers, residential addresses, date of birth, salary and tax information, contracts, and other confidential forms for employees budget, cash [&#8230;]",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d3d095ebb0fd5bd791ed5e73e76abe1d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bm9ibgv3zwiuy29tqg5vbmftzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-11 23:53:00.000000",
+    "disclosedDate": "2024-01-16 20:58:52.036534"
+  }
+}

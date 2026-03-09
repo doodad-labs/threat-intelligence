@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-03B15C",
+  "type": "ransomware-incident",
+  "title": "www.myriversidedentaloffice.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.myriversidedentaloffice.com",
+    "domain": "myriversidedentaloffice.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "alphalocker",
+    "name": "alphalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "It is dental practice devoted to restoring and enhancing the natural beauty of your smile using conservative, state-of-the-art procedures that will result in beautiful, long lasting smiles!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9857ca00bb537f257b88212cabd615f4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm15cml2zxjzawrlzgvudgfsb2zmawnllmnvbubhbhboywxvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-03 19:35:49.763996",
+    "disclosedDate": "2025-11-03 19:36:05.942283"
+  }
+}

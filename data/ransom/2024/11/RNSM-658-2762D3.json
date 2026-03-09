@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-2762D3",
+  "type": "ransomware-incident",
+  "title": "Gruber Tool & Die (grubertool.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Gruber Tool & Die (grubertool.com)",
+    "domain": "grubertool.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000,
+    "description": "8,2 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/280d92d5523393dec167658fde2e6852.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3j1ymvyifrvb2wgjibeawugkgdydwjlcnrvb2wuy29tkubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 00:00:00.000000",
+    "disclosedDate": "2024-11-27 16:55:15.297166"
+  }
+}

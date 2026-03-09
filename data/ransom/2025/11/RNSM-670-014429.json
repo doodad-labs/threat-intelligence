@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-014429",
+  "type": "ransomware-incident",
+  "title": "Red Phoenix Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Red Phoenix Construction",
+    "domain": "redphoenixconstruction.com",
+    "country": "",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cab5e79cc77a09ccd93c1cccb88f869f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvkifbob2vuaxggq29uc3rydwn0aw9uqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-04 09:08:25.000000",
+    "disclosedDate": "2025-11-01 10:19:50.331439"
+  }
+}

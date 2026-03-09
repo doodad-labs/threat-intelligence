@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-11BBD9",
+  "type": "ransomware-incident",
+  "title": "Air Canada ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Air Canada",
+    "domain": "aircanada.com",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Air Canada is Canada's largest airline and the largest provider of scheduled passenger services in the Canadian market, the Canada-U.S. transborder market and in the international market to and from Canada.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwlyienhbmfkyubiawfubglhbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://mraircanada.mediaroom.com/air-canada-cyber-statement",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-11 19:01:51.800867",
+    "disclosedDate": "2023-10-11 19:01:51.800896"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-2193FB",
+  "type": "ransomware-incident",
+  "title": "INTELLINUM.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "INTELLINUM.COM",
+    "domain": "intellinum.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Intellinum Inc. is a technology company that specializes in providing mobile supply chain solutions. Its flagship solution, Express Suite, integrates advanced mobile computing, voice recognition, barcode scanning, and RFID technologies to deliver improved inventory control and reduced labor costs. Its solutions are widely used by Fortune 500 clients across various industries. Based in California, USA.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ce00b69097ac14d636b45b7b704710f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/su5uruxmsu5vts5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 17:42:34.426664",
+    "disclosedDate": "2025-11-21 17:42:50.573149"
+  }
+}

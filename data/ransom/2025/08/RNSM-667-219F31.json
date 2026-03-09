@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-219F31",
+  "type": "ransomware-incident",
+  "title": "Universal Group For Engineering and Consulting ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Universal Group For Engineering and Consulting",
+    "domain": "ug-maalem.com",
+    "country": "PS",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "00972599671642 (Office)\r ug-admin@ug-maalem.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/afb1f68cd3797feb4fa46602f7b6acec.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pdmvyc2fsiedyb3vwiezvcibfbmdpbmvlcmluzybhbmqgq29uc3vsdgluz0bpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-14 00:00:00.000000",
+    "disclosedDate": "2025-08-21 05:47:40.875125"
+  }
+}

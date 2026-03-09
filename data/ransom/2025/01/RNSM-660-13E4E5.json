@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-13E4E5",
+  "type": "ransomware-incident",
+  "title": "Nash Brothers Construction (nashdom.local) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nash Brothers Construction (nashdom.local)",
+    "domain": "nashbrothers.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in the 1890's, Nash Brothers Construction Company, Inc., has been dedicated to exceptional client service, exhaustive safety training and practices, and unsurpassed quality on each job. These values have guided our company over four generations and have built our reputation for superior underground utility construction. Nash Brothers' focus is underground utility construction across the electrical, gas, telecommunications and fiber markets. Nash Brothers has existed as an independent family-owned company for nearly 120 years. We strive to bring our experience and skill to make your project successful, on time and on budget",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/944f81fd958e95d2b94eb38c0494f302.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmfzacbccm90agvycybdb25zdhj1y3rpb24gkg5hc2hkb20ubg9jywwpqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 00:00:00.000000",
+    "disclosedDate": "2025-01-13 21:52:29.255284"
+  }
+}

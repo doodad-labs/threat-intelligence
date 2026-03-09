@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-25498F",
+  "type": "ransomware-incident",
+  "title": "Crandall ISD (CISD.crandallisd.org) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Crandall ISD (CISD.crandallisd.org)",
+    "domain": "crandallisd.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Crandall Independent School District is a 4-A school district fully accredited by the Texas Education Agency. CISD serves students in Pre-Kindergarten through 12th grade and is located in Crandall, Texas in the southwest portion of Kaufman County.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q3jhbmrhbgwgsvneichdsvnelmnyyw5kywxsaxnklm9yzylaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-20 13:40:31.828000",
+    "disclosedDate": "2024-05-25 09:29:56.513957"
+  }
+}

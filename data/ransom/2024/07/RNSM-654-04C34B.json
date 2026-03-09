@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-04C34B",
+  "type": "ransomware-incident",
+  "title": "Island Transportation Corp. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Island Transportation Corp.",
+    "domain": "islandtrans.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Island Transportation Corp is one of the largest bulk carriers in the United States servicing the petroleum industry for over 50 years. Company serves a majority of the leading oil companies in the northeast, hauling billions of gallons of product to their facilities each year.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sxnsyw5kifryyw5zcg9ydgf0aw9uienvcnauqgjpyw5sawfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-04 21:08:29.202589",
+    "disclosedDate": "2024-07-04 21:08:29.900321"
+  }
+}

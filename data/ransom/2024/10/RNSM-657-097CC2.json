@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-097CC2",
+  "type": "ransomware-incident",
+  "title": "Antenne Reunion Radio ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Antenne Reunion Radio",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 146000000000,
+    "description": "About. Antenne Réunion Television and its subsidiaries form a strong multimedia group at Réunion. The TV channel has a leading position on the local market. The group stands out for its strong local presence and notoriety among the population of the island.Geo: France - Leak size: 146 GB Archive - Contains: Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw50zw5uzsbszxvuaw9uifjhzglvqhnhcmnvbwe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-09 19:58:57.820045",
+    "disclosedDate": "2024-10-09 19:58:58.163558"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-179EBC",
+  "type": "ransomware-incident",
+  "title": "COSMED ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "COSMED",
+    "country": "IT",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 25000000000,
+    "description": "COSMED is a privately owned company manufacturing Cardio Pulmonary, Metabolic and Body Composition diagnostic equipment. We are ready to upload more than 25 GB of essential corporate documents such as: passport scans, NDAs, confidential files, financial data (audits, payment details, reports), foreigner identity cards, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q09ttuveqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-14 00:00:00.000000",
+    "disclosedDate": "2025-02-17 11:44:16.886789"
+  }
+}

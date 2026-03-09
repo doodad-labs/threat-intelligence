@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-152D1D",
+  "type": "ransomware-incident",
+  "title": "accuraterailroad.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "accuraterailroad.com",
+    "domain": "accuraterailroad.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AccurateRailroad.com specializes in providing high-quality, precision railroad modeling products and services. They cater to hobbyists and professionals alike, offering a wide range of detailed model trains, tracks, and accessories. Their commitment to accuracy and authenticity ensures that each product meets the highest standards, making them a trusted name in the railroad modeling community.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5838c7772974ecde8d803e98dc893f87.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywnjdxjhdgvyywlscm9hzc5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-22 00:00:00.000000",
+    "disclosedDate": "2024-09-15 19:13:02.935247"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-23DC97",
+  "type": "ransomware-incident",
+  "title": "VOLARIS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VOLARIS.COM",
+    "domain": "volaris.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/60d1f65e393468be1cfa125ca294deae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vk9mqvjjuy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-23 12:35:29.178496",
+    "disclosedDate": "2023-03-23 12:35:29.178522"
+  }
+}

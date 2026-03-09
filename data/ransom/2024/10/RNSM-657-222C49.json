@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-222C49",
+  "type": "ransomware-incident",
+  "title": "tkg.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tkg.com",
+    "domain": "tkg.com",
+    "country": "JP",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "From websites and marketing to IT services, TKG provides digital marketing services for clients in a variety of industries. See how we can help you.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a65751c996903a72eb36b266066e25a4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgtnlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-22 08:41:28.000000",
+    "disclosedDate": "2024-10-22 11:35:12.742791"
+  }
+}

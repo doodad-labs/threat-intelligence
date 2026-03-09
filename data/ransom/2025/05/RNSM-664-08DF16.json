@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-08DF16",
+  "type": "ransomware-incident",
+  "title": "Khidmah ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Khidmah",
+    "domain": "khidmah.com",
+    "country": "AE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Khidmah LLC is a comprehensive real estate services company based in Abu Dhabi, United Arab Emirates. Founded in 2009, the company provides a wide range of solutions including property management, leasing and sales, facilities management, home maintenance, cleaning, landscaping, and pool maintenance. With its customer-focused approach, Khidmah caters to residential, retail and commercial properties.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fa4fff68afb3e7c0e92b883370c777ab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2hpzg1haebldmvyzxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-08 05:49:43.585984",
+    "disclosedDate": "2025-05-08 05:50:56.794204"
+  }
+}

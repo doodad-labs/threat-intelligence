@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-046200",
+  "type": "ransomware-incident",
+  "title": "Frontline Bioenergy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Frontline Bioenergy",
+    "domain": "frontlinebioenergy.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since 2003, Frontline BioEnergy has been designing systems and proprietary equipment for biomass gasification. As each year passes, there is a noticeable and growing need to explore alternatives for clean fuel and energy production.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bfbf4950b6621557428bc4a1cadbb128.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnjvbnrsaw5liejpb2vuzxjneubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-04 04:02:54.182000",
+    "disclosedDate": "2025-08-04 04:34:38.933463"
+  }
+}

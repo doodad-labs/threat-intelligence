@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-651-085694",
+  "type": "ransomware-incident",
+  "title": "Paducah Dermatology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Paducah Dermatology",
+    "domain": "paducahderm.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15040000000,
+    "description": "Paducah Dermatology is a hospital & health care company. Paducah Dermatology corporate office is located in 3101 Parisa Dr Ste 402, Paducah, Kentucky, 42003, United States and has 19 employees. The total amount of data leakage is 15.04 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfkdwnhacbezxjtyxrvbg9neubtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-05 16:08:01.12345",
+    "disclosedDate": "2024-04-08 08:39:00.870218"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-641-095CD4",
+  "type": "ransomware-incident",
+  "title": "Caruso ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Caruso",
+    "domain": "caruso.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Caruso is a real estate development and hospitality company headquartered in LA. We almost ready to share their internal documentsthat include full employee data, very detailed accounting information, contracts, confidential documents and even funny incidentswith guests.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fydxnvqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-09 01:02:03.456789",
+    "disclosedDate": "2023-06-09 17:54:17.444812"
+  }
+}

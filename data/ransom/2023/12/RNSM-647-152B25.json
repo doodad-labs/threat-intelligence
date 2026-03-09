@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-152B25",
+  "type": "ransomware-incident",
+  "title": "mcs360.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mcs360.com",
+    "domain": "mcs360.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1986, the company established itself as one of the premier default and property preservation providers for the mortgage industry, building relationships with many of the largest financial institutions across the country. In 2022, MCS expan...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c55ab5d37b9408c890e3332c9b2138c3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwnzmzywlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-14 11:34:00.000000",
+    "disclosedDate": "2023-12-15 08:51:56.205880"
+  }
+}

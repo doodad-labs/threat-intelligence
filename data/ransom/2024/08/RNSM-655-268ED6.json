@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-268ED6",
+  "type": "ransomware-incident",
+  "title": "onedayonly.co.za ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "onedayonly.co.za",
+    "domain": "onedayonly.co.za",
+    "country": "ZA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "OneDayOnly is an online shopping platform offering a variety of deals on consumer products, including home and garden items, apparel, electronics, and more. The platform features limited-time promotions, clearance sales, and everyday essentials, appealing to a wide range of customers looking for discounts and unique products.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6916364330e2590a934a35ac1a44becb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b25lzgf5b25ses5jby56yubrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-26 03:19:41.694151",
+    "disclosedDate": "2024-08-26 03:19:42.241345"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-170F43",
+  "type": "ransomware-incident",
+  "title": "rehab.ie ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rehab.ie",
+    "domain": "rehab.ie",
+    "country": "IE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We don't think that it's a good idea to ignore privacy of your customers.For more than 70 years, the Rehab Group has been working to break down the barriers that prevent people with disabilities from living ordinary lives in their communities. Thro...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bf8a7f481becebd45c16cf011042aec5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmvoywiuawvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-17 00:42:00.000000",
+    "disclosedDate": "2024-04-17 01:41:04.720003"
+  }
+}

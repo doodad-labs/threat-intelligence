@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-0471A2",
+  "type": "ransomware-incident",
+  "title": "casperstruck.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "casperstruck.com",
+    "domain": "casperstruck.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "kairos",
+    "name": "kairos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "USA - Casper's Truck Equipment",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1ccff06b224e7e8828d59daafbb72be1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fzcgvyc3rydwnrlmnvbubrywlyb3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-04 21:58:30.228863",
+    "disclosedDate": "2025-02-04 21:59:41.410321"
+  }
+}

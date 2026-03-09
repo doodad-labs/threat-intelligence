@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-644-03636D",
+  "type": "ransomware-incident",
+  "title": "SKF.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SKF.com",
+    "domain": "skf.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SKF�s network was compromised(by collaboration withEverest Ransomware Group) a few days ago. The company continues to be silent about the problem.A representative of the company should contact us immediately, instructions have all been sended in the emails.Otherwise, we will start communicating with your competitors.Data stolen : 2.19 TerabytesData Info : Internal Documents, Data Bases, Customer [�]We require a ransom of $100,000",
+    "claimed_data_types": [
+      "email-addresses",
+      "internal-documents"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0tglmnvbubyyw5zb21lza==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-03 22:47:29.090329",
+    "disclosedDate": "2023-09-03 22:47:29.090353"
+  }
+}

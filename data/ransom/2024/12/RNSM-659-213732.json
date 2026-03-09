@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-213732",
+  "type": "ransomware-incident",
+  "title": "Hammons Supply Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hammons Supply Company",
+    "domain": "hammonssupply.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/13f0f62f0848b5d702c263bab32fe34e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgftbw9ucybtdxbwbhkgq29tcgfueubrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-21 21:00:56.154984",
+    "disclosedDate": "2024-12-21 21:00:57.012471"
+  }
+}

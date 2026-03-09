@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-19250A",
+  "type": "ransomware-incident",
+  "title": "VISEO ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VISEO",
+    "domain": "viseo.com",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: Next TI, VISEO, Hochschule Trier - VISEO is a global technology company offering digital transformation services, including customer experience, modern ERP cloud systems, supply chain management, finance transformation, custom development, and data analytics & AI, to help businesses optimize processes and enhance customer interactions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b3f2ec0f5fe5eb916bad26aa7ba8b2a7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vkltru9azm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 00:00:00.000000",
+    "disclosedDate": "2025-02-19 15:01:04.020563"
+  }
+}

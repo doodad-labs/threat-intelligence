@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-19DFD9",
+  "type": "ransomware-incident",
+  "title": "Equentis Wealth ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Equentis Wealth",
+    "domain": "equentis.com",
+    "country": "IN",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1090e641755c676cef111916ef3232c1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxf1zw50axmgv2vhbhroqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 03:32:13.369656",
+    "disclosedDate": "2024-11-19 03:32:14.564533"
+  }
+}

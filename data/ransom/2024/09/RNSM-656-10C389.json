@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-656-10C389",
+  "type": "ransomware-incident",
+  "title": "Kadokawa Co Jp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kadokawa Co Jp",
+    "domain": "kadokawa.co.jp",
+    "country": "JP"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "http://ng2gzceugc2df6hp6s7wtg7hpupw37vqkvamaydhagv2qbrswdqlq6ad.onion/dwango/",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fkb2thd2egq28gsnbaymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000014844.000007006.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-10 10:58:36.662032",
+    "disclosedDate": "2024-09-10 10:58:37.063373"
+  }
+}

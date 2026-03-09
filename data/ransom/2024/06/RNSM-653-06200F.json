@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-06200F",
+  "type": "ransomware-incident",
+  "title": "Women's Sports Foundation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Women's Sports Foundation",
+    "domain": "womenssportsfoundation.org",
+    "country": "US"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 36500000000,
+    "description": "The Women's Sports Foundation  (founded in 1974) - the fund provides support to girls and women in sports, implementing and conducting research and various programs.Women's Sports Foundation corporate office is located in 247 W 30th St Fl 5, New York City, New York, 10001, United States and has 105 employees.The total amount of data leakage is 36.5 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v29tzw4ncybtcg9ydhmgrm91bmrhdglvbkbtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-04 14:34:43.12345",
+    "disclosedDate": "2024-06-06 07:39:43.305143"
+  }
+}

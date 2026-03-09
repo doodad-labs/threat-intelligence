@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-219AC2",
+  "type": "ransomware-incident",
+  "title": "cabinet-paillet.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cabinet-paillet.fr",
+    "domain": "cabinet-paillet.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "accountants.people trusted their personal data and no one monitored security",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cd0739882d81b221495f63b7ac580690.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fiaw5ldc1wywlsbgv0lmzyqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-21 20:42:00.000000",
+    "disclosedDate": "2023-03-21 23:03:35.966055"
+  }
+}

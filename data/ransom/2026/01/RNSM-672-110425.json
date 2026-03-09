@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-110425",
+  "type": "ransomware-incident",
+  "title": "Youngstown Pipe & Steel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Youngstown Pipe & Steel",
+    "domain": "youngstownpipeandsteel.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Youngstown Pipe & Steel, LLC (YPS), located in Campbell, OH, is a steel service center specializing in the value-added processing and distribution of carbon and alloy steel products in an expanding array of shapes and sizes. Our company is comprised of experienced, community-minded associates. We are committed to achieving profitable growth and creating superior value for our customers by safely providing high quality products and services while delivering them on time. YPS was founded in 1979 and acquired by DNV Management Corporation in 2004. Since its acquisition, DNV has expanded product lines, installed a high definition plasma burning table, oxy-fuel burning tables, multiple saws and other equipment for value added processing. We deliver our products utilizing a dedicated fleet of trucks and in 2011, relocated to a 300,000 sq. ft. warehouse. In 2012 DNV Management created DNV Energy to concentrate on the growing product and service demands of the shale oil and gas industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e84c8e91d8e4e5763d30988ed4f125fa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ww91bmdzdg93bibqaxblicygu3rlzwxac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-11 18:40:17.595000",
+    "disclosedDate": "2026-01-11 18:55:25.032467"
+  }
+}

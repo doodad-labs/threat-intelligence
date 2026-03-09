@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-29DD38",
+  "type": "ransomware-incident",
+  "title": "Metal Finishing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Metal Finishing",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "Metal Finishing Company, Inc. was established in Wichita Kansas USA in 1940, the largest family-owned aerospace processing facility in North America.We are ready to upload more than 40 GB internal corporate documents including: NDAs, license agreements, internal financial documents, employee and customer contact emails and phones etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twv0ywwgrmluaxnoaw5nqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-22 00:00:00.000000",
+    "disclosedDate": "2024-11-29 12:59:25.501840"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-22DDDC",
+  "type": "ransomware-incident",
+  "title": "Aztec Municipal School District ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aztec Municipal School District",
+    "domain": "aztecschools.com",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Aztec Municipal Schools is a public school district based in Aztec, New Mexico, United States. The district covers a 413-square-mile area in northeastern San Juan County.Explore financial and tax disclosure materials, employee and  student data, and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cde19577d10c7ea05615ea713148b061.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxp0zwmgtxvuawnpcgfsifnjag9vbcbeaxn0cmljdebpbnrlcmxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-22 00:00:00.000000",
+    "disclosedDate": "2025-03-22 07:29:10.682140"
+  }
+}

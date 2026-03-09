@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-248DA6",
+  "type": "ransomware-incident",
+  "title": "HYTORC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HYTORC",
+    "domain": "hytorc.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/24228612c92eaf85ab23555837b71780.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sflut1jdqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-24 20:36:33.614111",
+    "disclosedDate": "2025-11-24 20:36:51.895717"
+  }
+}

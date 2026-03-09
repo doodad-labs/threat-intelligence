@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-316D10",
+  "type": "ransomware-incident",
+  "title": "fortishealthcare.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fortishealthcare.com",
+    "domain": "fortishealthcare.com",
+    "country": "IN",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fortis Hospital, Bannerghatta Road, Bengaluru, is a 284-bed hospital, well equipped with  state-of-...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/94206dd3720767c600c94f531ccf0b57.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zm9ydglzagvhbhroy2fyzs5jb21abg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-28 20:09:11.733323",
+    "disclosedDate": "2025-12-31 17:16:14.234611"
+  }
+}

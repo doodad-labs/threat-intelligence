@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-642-260F17",
+  "type": "ransomware-incident",
+  "title": "V3 Companies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "V3 Companies",
+    "domain": "v3co.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2400000000000,
+    "description": "2.4 TB data pack ia available for downloading!!!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0dbf7ccb41a71681f71b620f21521c98.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vjmgq29tcgfuawvzqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-31 08:37:30.000000",
+    "disclosedDate": "2023-07-26 16:06:33.808934"
+  }
+}

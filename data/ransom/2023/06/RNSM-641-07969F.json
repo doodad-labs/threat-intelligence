@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-07969F",
+  "type": "ransomware-incident",
+  "title": "Tour Partner Group  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tour Partner Group ",
+    "domain": "tourpartnergroup.com",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tour Partner Group is a holding company dealing with hotels and many others, Irish welcome tours and authentic holidays. The company was founded in 1992, the central office is located at 66-68 College Rd Fl 5, London, Essex, CO1 1BE, United Kingdom",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/16c534cbb09821ae7f1b56ab2ce2a8a0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vg91cibqyxj0bmvyiedyb3vwiebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-07 16:00:20.12345",
+    "disclosedDate": "2023-06-07 16:56:52.708770"
+  }
+}

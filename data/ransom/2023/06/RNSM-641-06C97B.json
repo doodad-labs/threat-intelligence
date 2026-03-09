@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-06C97B",
+  "type": "ransomware-incident",
+  "title": "jeloin.se ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jeloin.se",
+    "domain": "jeloin.se",
+    "country": "SE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Jeloin Data AB is a company that operates in the Computer Software industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f2b9206e60f9dd14ee48178aee057b21.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/amvsb2lulnnlqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-06 12:11:00.000000",
+    "disclosedDate": "2023-06-06 12:54:20.925864"
+  }
+}

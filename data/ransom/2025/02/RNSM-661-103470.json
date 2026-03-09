@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-103470",
+  "type": "ransomware-incident",
+  "title": "Marshall Motor Holdings ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Marshall Motor Holdings",
+    "domain": "marshall.co.uk",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Marshall Motor Group is the 7th largest motor dealer group in the UK. Since 2008, 92 franchise have been added and 37 non-core or loss making operations have left the portfolio. The Group operates 117 franchise dealerships representing 24 different brand partners in 28 different counties across England. Our strategy is for continuing growth in our retail business organically and through acquisitions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7e4ff34f08f4320d2833bd6ef42cf4cd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfyc2hhbgwgtw90b3igsg9szgluz3nabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-09 15:58:19.166000",
+    "disclosedDate": "2025-02-10 12:46:29.420480"
+  }
+}

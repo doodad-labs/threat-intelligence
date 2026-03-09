@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-30F6D1",
+  "type": "ransomware-incident",
+  "title": "KPI Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KPI Engineering",
+    "country": "GB",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "KPI Engineering, Inc. is a small business specializing in Mechanical, Electrical, Plumbing, and Fire Protection Engineering Services. They cater to a diverse customer base including schools, universities, hospitals, governments, utility companies, and commercial facilities. Their experienced team ensures projects are delivered with energy and close attention to serviceability for clients in various sectors such as education, government, healthcare, multi-tenant, technology, and specialty design services",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6a2361b8d43dd893f8e2b0ada37f1e17.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s1bjievuz2luzwvyaw5nqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-30 11:46:27.018395",
+    "disclosedDate": "2025-01-30 11:47:34.287748"
+  }
+}

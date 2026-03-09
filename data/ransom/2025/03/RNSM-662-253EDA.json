@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-253EDA",
+  "type": "ransomware-incident",
+  "title": "www.lions-online.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.lions-online.org",
+    "domain": "lions-online.org",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/204cec9259e59911de3bf215549df0e3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmxpb25zlw9ubgluzs5vcmdacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-08 00:00:00.000000",
+    "disclosedDate": "2025-03-25 14:47:09.130052"
+  }
+}

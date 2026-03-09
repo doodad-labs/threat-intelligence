@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-09562C",
+  "type": "ransomware-incident",
+  "title": "Clean Air ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Clean Air",
+    "domain": "cleanair.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Baker Co. specializes in the engineering, testing, and manufacturing of made-to-order laboratory safety equipment, boasting over 100 years of industry experience. Their product offerings include biological safety cabinets, clean benches, pharmaceutical isolators, and fume hoods, among others. The company serves various sectors including biotechnology, pharmaceuticals, microbiology, and life sciences. With a commitment to biosafety and contamination control, Baker Co. collaborates with scientific partners to provide tailored solutions for laboratory automation and precision cell culture.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/881587ac876df9e363b0fa8365b7f4e1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2xlyw4gqwlyqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-09 18:59:17.695000",
+    "disclosedDate": "2025-12-09 19:56:36.560815"
+  }
+}

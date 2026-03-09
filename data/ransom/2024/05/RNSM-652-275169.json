@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-652-275169",
+  "type": "ransomware-incident",
+  "title": "alliedtelesis.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "alliedtelesis.com",
+    "domain": "alliedtelesis.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The company deals with network solutions and security. There is a lot of confidential data, projects both old and new, starting around 2005,  confidential letters of correspondence,  passports of citizens of more than 10 countries in America and t...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9664f1c9e995175cb65636c36241afc7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxsawvkdgvszxnpcy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/109e7572-c480-40e0-b976-1585f64f40aa.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-27 07:35:00.000000",
+    "disclosedDate": "2024-05-27 08:31:16.529183"
+  }
+}

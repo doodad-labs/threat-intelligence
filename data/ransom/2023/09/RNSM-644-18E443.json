@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-644-18E443",
+  "type": "ransomware-incident",
+  "title": "Auckland Transport ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Auckland Transport",
+    "domain": "at.govt.nz",
+    "country": "NZ",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 2010, Auckland Transport is a company that is responsible for the region's transport infrastructure and public transport including roads and footpaths, cycling, parking, and public transportation. Auckland Transport is located in New Zealand",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9db38d9c911f901b21116cdcfaa9d144.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxvja2xhbmqgvhjhbnnwb3j0qg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.nzherald.co.nz/nz/major-cyber-hit-auckland-transports-hop-system/lcm3hektrrdi5ot7lxbkqjsbra/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-18 07:24:30.12345",
+    "disclosedDate": "2023-09-18 08:41:56.651544"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-23FF60",
+  "type": "ransomware-incident",
+  "title": "TPI ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TPI",
+    "domain": "tpicorp.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f35307559a3c616d293344169eade8ef.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfbjqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-11 00:00:00.000000",
+    "disclosedDate": "2024-06-23 21:18:25.822964"
+  }
+}

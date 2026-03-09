@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-15E4A0",
+  "type": "ransomware-incident",
+  "title": "The Paul Wilkinson Law Firm ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Paul Wilkinson Law Firm",
+    "domain": "callpaul.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Paul Wilkinson Law Firm is a Denver-based personal injury law firm that specializes in helping victims of car, truck, motorcycle, and other motor vehicle accidents. Led by Paul Wilkinson, the firm provides legal representation to clients             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1ebd3e1f10d12d5ff411a6f4ab786842.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifbhdwwgv2lsa2luc29uiexhdybgaxjtqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-15 00:00:00.000000",
+    "disclosedDate": "2025-07-15 16:52:11.219732"
+  }
+}

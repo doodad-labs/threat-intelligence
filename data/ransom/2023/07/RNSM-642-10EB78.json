@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-10EB78",
+  "type": "ransomware-incident",
+  "title": "WESTAT.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WESTAT.COM",
+    "domain": "westat.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Homepage - Westat",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/74c693d66d157bd92329ea1ce0044d37.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0vtvefulknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-10 19:45:58.735000",
+    "disclosedDate": "2023-07-10 19:45:58.735025"
+  }
+}

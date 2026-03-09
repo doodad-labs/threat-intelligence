@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26A62E",
+  "type": "ransomware-incident",
+  "title": "The Royal Commission for Riyadh City (RCRC) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Royal Commission for Riyadh City (RCRC)",
+    "domain": "rcrc.gov.sa",
+    "country": "SA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Royal Commission for Riyadh City is responsible for the overall planning and development of the Riyadh city in the fields of urban, demographic, economic, developmental, social, cultural, environmental, transport, infrastructure, and digital infrastructure. It also provides the city's needs for public services and facilities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/842c1c2e915ebbfc7585c0eeb9469d5b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifjvewfsienvbw1pc3npb24gzm9yifjpewfkacbdaxr5ichsq1jdkubhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-07-07 20:58:21.000000",
+    "disclosedDate": "2023-07-26 17:10:48.156098"
+  }
+}

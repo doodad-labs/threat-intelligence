@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-12A1B1",
+  "type": "ransomware-incident",
+  "title": "CMF ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CMF",
+    "domain": "cmf.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CMF Inc specializes in expert design assistance, fabrication, and installation services for architectural sheet metal and related products. Since 1956, they have collaborated with leading architects and builders to deliver innovative metal solutions for a variety of projects, including commercial, educational, and public spaces. Their comprehensive services encompass design-build, design-assist, CAD/BIM drawing, and all aspects of metal roofing and siding. CMF is recognized for their craftsmanship, having received multiple awards for their work on notable projects like the Apple Park Headquarters and the LACMA Resnick Pavilion.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/54d1c3f500d6d81656e345592769fbae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q01gqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-12 20:20:26.695000",
+    "disclosedDate": "2025-10-12 20:43:15.649617"
+  }
+}

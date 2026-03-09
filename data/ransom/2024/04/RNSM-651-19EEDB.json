@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19EEDB",
+  "type": "ransomware-incident",
+  "title": "revvaviation.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "revvaviation.com",
+    "domain": "revvaviation.com",
+    "country": "",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "first part of data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/101a11785b9e4dddb723fe0593c96ee0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmv2dmf2awf0aw9ulmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-03 10:05:00.000000",
+    "disclosedDate": "2024-04-19 10:48:36.402367"
+  }
+}

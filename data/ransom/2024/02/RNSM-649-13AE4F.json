@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-13AE4F",
+  "type": "ransomware-incident",
+  "title": "Communication Federal Credit Union ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Communication Federal Credit Union",
+    "domain": "comfedcu.org",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f2854b5ccb410fac921beddb0f5d9e51.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tbxvuawnhdglvbibgzwrlcmfsienyzwrpdcbvbmlvbkbodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-13 17:00:02.000000",
+    "disclosedDate": "2024-02-13 17:41:04.987400"
+  }
+}

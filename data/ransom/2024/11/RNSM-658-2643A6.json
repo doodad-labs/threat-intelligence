@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-2643A6",
+  "type": "ransomware-incident",
+  "title": "Pinnacle Plastic Products (pinnacleplasitcporducts.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pinnacle Plastic Products (pinnacleplasitcporducts.com)",
+    "domain": "pinnacleplasitcporducts.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000,
+    "description": "5,3 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/078f31908582bcb3cd58b357025cfaa7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uglubmfjbgugugxhc3rpyybqcm9kdwn0cyaocglubmfjbgvwbgfzaxrjcg9yzhvjdhmuy29tkubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-26 00:00:00.000000",
+    "disclosedDate": "2024-11-26 16:38:56.848410"
+  }
+}

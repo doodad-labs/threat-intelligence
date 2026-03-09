@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-07042B",
+  "type": "ransomware-incident",
+  "title": "D-7 Roofing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "D-7 Roofing",
+    "domain": "d7roofing.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Financial documents, accounting",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a14cf60ebe4b2a4397cb3e67a2769148.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rc03ifjvb2zpbmdabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-07 13:42:02.424383",
+    "disclosedDate": "2025-01-07 13:43:12.688238"
+  }
+}

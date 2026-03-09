@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-27E813",
+  "type": "ransomware-incident",
+  "title": "Aquasys ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aquasys",
+    "domain": "aquasys.cz",
+    "country": "CZ"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Construction company specializing in the implementation of water, environmental, transport and engineering network construction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2e187465f95f5241fec71daba4e223dc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxf1yxn5c0bkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 14:11:23.126449",
+    "disclosedDate": "2025-01-27 14:12:30.364590"
+  }
+}

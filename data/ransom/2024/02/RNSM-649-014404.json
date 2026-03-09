@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-014404",
+  "type": "ransomware-incident",
+  "title": "stemcor.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "stemcor.com",
+    "domain": "stemcor.com",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "STEMCOR is a leading independently run service provider for the steel industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c7e0a653aebfb5f3957c55f130cb439d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rlbwnvci5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-30 00:00:00.000000",
+    "disclosedDate": "2024-02-01 21:05:23.387963"
+  }
+}

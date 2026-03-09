@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-01DF8A",
+  "type": "ransomware-incident",
+  "title": "Jacklett Construction LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jacklett Construction LLC",
+    "domain": "jacklett.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The team at Jacklett Construction has experience in both residential and commercial site development.  Your project is never just another job.  We strive to produce a quality product while developing long term relationships with our clients.  Jacklett Construction relies on decades of experience and utilizes the latest technology to deliver a product that exceeds expectations.https://jacklett.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c185c54eea1b90452c4b12ff8be83f6a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smfja2xldhqgq29uc3rydwn0aw9uiexmq0a4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-01 00:00:00.000000",
+    "disclosedDate": "2023-08-01 08:38:27.663268"
+  }
+}

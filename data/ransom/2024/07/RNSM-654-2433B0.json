@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-2433B0",
+  "type": "ransomware-incident",
+  "title": "CALDAN Conveyor ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CALDAN Conveyor",
+    "domain": "caldan.dk",
+    "country": "DK",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CALDAN Conveyor is a worldwide leading, Danish supplier of overhe ad conveyor and floor conveyor systems. All the dat awill be rele ased soon. Banking information, transactions details, agreements, clients and everything else.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0fmrefoienvbnzlew9yqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-24 13:09:24.327169",
+    "disclosedDate": "2024-07-24 13:09:25.069992"
+  }
+}

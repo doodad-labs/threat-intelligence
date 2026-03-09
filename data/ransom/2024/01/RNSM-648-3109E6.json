@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-3109E6",
+  "type": "ransomware-incident",
+  "title": "Séquano ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Séquano",
+    "domain": "sequano.fr",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Séquano is the mixed economy development, urban renewal and construction company of the Seine-Saint-Denis department.sequano.fr",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/50a14866825d089e0c3b83cad018232a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u8opcxvhbm9aogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-31 00:00:00.000000",
+    "disclosedDate": "2024-01-31 04:25:08.249789"
+  }
+}

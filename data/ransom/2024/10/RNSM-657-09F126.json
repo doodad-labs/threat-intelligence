@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-09F126",
+  "type": "ransomware-incident",
+  "title": "CANEA ONE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CANEA ONE",
+    "domain": "canea.com",
+    "country": "DK",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "meow",
+    "name": "meow",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CANEA ONE is a comprehensive software suite designed to enhance organizational performance through effective management of processes, projects, documents, and strategies. It integrates various tools to streamline workflows, improve collaboration, and ensure compliance. The platform is tailored for businesses seeking to optimize efficiency and drive continuous improvement across their operations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c62599d8d01231ba5ebb6e6fb22226bf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0foruegt05fqg1lb3c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-22 00:00:00.000000",
+    "disclosedDate": "2024-10-09 14:38:37.717956"
+  }
+}

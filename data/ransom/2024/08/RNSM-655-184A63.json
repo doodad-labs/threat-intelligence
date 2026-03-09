@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-184A63",
+  "type": "ransomware-incident",
+  "title": "PER4MANCE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PER4MANCE",
+    "domain": "per4mance.cz",
+    "country": "CZ",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Headquartered in Brno and operating since April 1995, PER4MANCE has managed to establish itself as a recognised specialist systems integrator on the Czech market. The company has managed to leverage VAR, distribution and partnership relationships with an impressive list of OEMs on the back of a strong and resourceful team to build a long list of blue chip clients in the Czech Republic.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uevsne1btknfqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-18 13:12:54.362075",
+    "disclosedDate": "2024-08-18 15:12:27.178854"
+  }
+}

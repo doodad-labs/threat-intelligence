@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-103039",
+  "type": "ransomware-incident",
+  "title": "publicsafety.ohio.gov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "publicsafety.ohio.gov",
+    "domain": "example.com",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Price ??? Disclosures 0/1",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chvibgljc2fmzxr5lm9oaw8uz292qgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-10 04:04:07.888846",
+    "disclosedDate": "2026-01-10 04:04:09.287560"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-656-119CE0",
+  "type": "ransomware-incident",
+  "title": "Clatronic International GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Clatronic International GmbH",
+    "domain": "clatronic.de",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 469000000000,
+    "description": "469 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9e0b9cf1e61f4c05062b91ce084cafe7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2xhdhjvbmljieludgvybmf0aw9uywwgr21isebmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-11 13:05:37.591441",
+    "disclosedDate": "2024-09-11 13:05:38.586423"
+  }
+}

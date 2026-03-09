@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-643-06ACAA",
+  "type": "ransomware-incident",
+  "title": "IBL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IBL",
+    "domain": "iblhc.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 161000000000,
+    "description": "total size of 161Gb.   Quick scope of data we have downloaded from your network:   payments  contracts  agreements  salaries  registration documents  financial data  quality control  medicine recipes  medicine tests  medicine preparation guides  IBL OPS data  United Brands data  IBL Logistics data  Searle pharma data",
+    "claimed_data_types": [
+      "financial-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c86928d0362368bbc8a8cb9049a4605e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sujmqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-06 09:10:07.123456",
+    "disclosedDate": "2023-08-06 09:17:46.316594"
+  }
+}

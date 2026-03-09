@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-3019CF",
+  "type": "ransomware-incident",
+  "title": "inouemfg.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "inouemfg.com",
+    "domain": "inouemfg.com",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "INOUE MFG., INC.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d59d4b0cfbfef29c68a17b86be48b889.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw5vdwvtzmcuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-07 00:00:00.000000",
+    "disclosedDate": "2023-08-30 22:07:04.582915"
+  }
+}

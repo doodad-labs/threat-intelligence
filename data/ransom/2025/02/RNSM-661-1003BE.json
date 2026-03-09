@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-1003BE",
+  "type": "ransomware-incident",
+  "title": "AFFINITYCANADA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AFFINITYCANADA.COM",
+    "domain": "affinitycanada.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Affinity Canada is a business consulting firm that helps organizations to optimize their performance via innovative solutions. They are involved in areas such as digital transformation, project management, IT strategy, and business process improvement. They aim to provide comprehensive solutions through top-notch professional services that help businesses to meet their goals successfully. Affinity Canada's team focuses on providing personalized, efficient solutions tailored to a business' unique needs and challenges.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3f0fc498ce57e2aee68a87d11563e61c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/quzgsu5jvfldqu5breeuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 14:32:09.459053",
+    "disclosedDate": "2025-02-10 14:33:20.685818"
+  }
+}

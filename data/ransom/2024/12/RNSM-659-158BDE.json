@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-158BDE",
+  "type": "ransomware-incident",
+  "title": "synoveboure.wz.cz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "synoveboure.wz.cz",
+    "domain": "wz.cz",
+    "country": "CZ"
+  },
+  "actor": {
+    "id": "dragonransomware",
+    "name": "dragonransomware",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[+] https://synoveboure.wz.cz",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bf5a9b38f0358df979b5266854d66a0a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3lub3zlym91cmuud3ouy3pazhjhz29ucmfuc29td2fyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-27 01:56:09.000000",
+    "disclosedDate": "2024-12-15 10:19:54.940156"
+  }
+}

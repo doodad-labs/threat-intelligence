@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-22914A",
+  "type": "ransomware-incident",
+  "title": "Asesoría Bieito ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Asesoría Bieito",
+    "domain": "bieito.com",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 121000000000,
+    "description": "Status: 32d 1h 58m 12s - Size Data: 121 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e2fb7fdd4ca67c2697b6418c7087d527.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxnlc29yw61hiejpzwl0b0bjawnhzgezmzax",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-22 00:00:00.000000",
+    "disclosedDate": "2025-04-22 15:22:26.005944"
+  }
+}

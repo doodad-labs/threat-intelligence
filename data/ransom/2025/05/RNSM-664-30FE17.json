@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-30FE17",
+  "type": "ransomware-incident",
+  "title": "TDM Technical Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TDM Technical Services",
+    "domain": "tdm.ca",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TDM Technical Services provides the best human resources available, on an as needed contract basis.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2aefa9f107fbce042851c5a72a454ea4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vernifrly2huawnhbcbtzxj2awnlc0bkaxjld29szg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-30 23:22:38.632586",
+    "disclosedDate": "2025-05-30 23:23:46.358293"
+  }
+}

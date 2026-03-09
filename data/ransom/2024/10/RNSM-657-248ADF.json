@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-248ADF",
+  "type": "ransomware-incident",
+  "title": "modplan.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "modplan.co.uk",
+    "domain": "modplan.co.uk",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "For over 50 years, Modplan has been manufacturing and supplying leading-edge products to our installing partners for the fenestration market. Funda...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/44f6df94c10e83aeb3c2dc22f3a94e07.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw9kcgxhbi5jby51a0bhchq3mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-24 09:00:00.000000",
+    "disclosedDate": "2024-10-24 15:31:44.717175"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-11F013",
+  "type": "ransomware-incident",
+  "title": "omniumint ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "omniumint",
+    "domain": "omniumint.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1200000000000,
+    "description": "Ransom: 1.2million1.2 tband one very interesting email",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/52f467864e5023620ee43e2bce039d35.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b21uaxvtaw50qgrldm1hbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-11 12:21:07.460559",
+    "disclosedDate": "2025-11-11 12:21:40.998726"
+  }
+}

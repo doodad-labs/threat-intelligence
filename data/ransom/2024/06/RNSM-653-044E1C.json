@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-044E1C",
+  "type": "ransomware-incident",
+  "title": "BHMAC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BHMAC",
+    "domain": "bhmac.org",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bhmac is a company that operates...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1add2bbbce30506ccc773e33a033cf90.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkhnqunayxjjdxntzwrpyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-03 22:31:39.000000",
+    "disclosedDate": "2024-06-04 00:57:49.066094"
+  }
+}

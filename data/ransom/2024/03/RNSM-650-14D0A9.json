@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-650-14D0A9",
+  "type": "ransomware-incident",
+  "title": "gfad.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gfad.de",
+    "domain": "gfad.de",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 455000000000,
+    "description": "In mehr als 40 Jahren hat sich die GFAD in vielfältigen IT-Geschäftsfeldern etabliert. Jahrzehntelang von enthusiastischen Inhabern geführt, setzen wir unser kontinuierliches Wachstum als managementgesteuerte Unternehmensgruppe fort. Was uns eint? Leidenschaft für IT und der absolute Wille, unsere Kunden mit innovativen und zeitgemäßen Lösungen zu überzeugen. Unter dem Dach der GFAD haben wir ein breites Spektrum an klassischen IT- und Cloud-Lösungen gebündelt. Wir installieren und betreuen komplette IT-Infrastrukturen bei unseren Kunden und entwickeln maßgeschneiderte IT-Managementsysteme. Für die Immobilienwirtschaft haben wir eine führende Softwarelösung entwickelt und unterstützen unsere Kunden in allen Fragen rund um das Thema Datenschutz und IT-Security.SITE: www.gfad.de Address : Huttenstraße 34-35, 10553 Berlin, GermanyALL DATA SIZE: ~455gb 1. Source codes 2. UserHome data 3. Firmen data 4. Finanz documents and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/40927a4ed025f851b20b741f8bd205f6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2zhzc5kzubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-16 00:00:00.000000",
+    "disclosedDate": "2024-03-14 11:55:48.312694"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-296255",
+  "type": "ransomware-incident",
+  "title": "The Wendt Agency ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Wendt Agency",
+    "domain": "thewendtagency.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Wendt Agency is a full-service advertising agency located in downtown Great Falls, Montana, focusing on creating impactful brand stories for clients who seek authentic connections with their audience. With expertise in brand strategy development, content creation, integrated marketing, website digital development, and social media management, Wendt helps clients build engaging brands.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c03640e0190042fda95aad1b37f19342.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifdlbmr0iefnzw5jeubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-30 00:00:00.000000",
+    "disclosedDate": "2025-01-29 13:30:39.022175"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-663-08F54B",
+  "type": "ransomware-incident",
+  "title": "Bauer-Walser AG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bauer-Walser AG",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "Bauer Walser AG is a leading company in the precious metals industry with a 100-year history of success.We are ready to upload more than 50 GB of essential corporate documents such as: corporate NDA’s, contact numbers and e-mail addresses of employees and customers, financial data (audits, payment details, reports), corporate licenses, agreements and contracts, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmf1zxitv2fsc2vyiefhqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-08 00:00:00.000000",
+    "disclosedDate": "2025-04-08 12:47:42.579764"
+  }
+}

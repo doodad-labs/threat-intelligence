@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-666-01CC23",
+  "type": "ransomware-incident",
+  "title": "tokiomarine-nichido.co.jp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tokiomarine-nichido.co.jp",
+    "domain": "tokiomarine-nichido.co.jp",
+    "country": "JP",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "kawa4096",
+    "name": "kawa4096",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "tokiomarine-nichido.co.jp",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dg9raw9tyxjpbmutbmljaglkby5jby5qcebryxdhnda5ng==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-26 09:42:26.326413",
+    "disclosedDate": "2025-07-01 13:18:24.568775"
+  }
+}

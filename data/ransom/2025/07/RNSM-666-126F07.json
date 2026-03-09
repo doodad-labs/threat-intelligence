@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-126F07",
+  "type": "ransomware-incident",
+  "title": "www.intereum.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.intereum.com",
+    "domain": "intereum.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1980, Intereum is a provider of furniture, audio and visual solutions, and wall systems. Intereum products and services include modular walls, audiovisual integration, and space planning for the corporate, healthcare, education, an            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/72123f14470488a872ce5f6b3ead9630.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmludgvyzxvtlmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-11 00:00:00.000000",
+    "disclosedDate": "2025-07-12 10:21:00.597309"
+  }
+}

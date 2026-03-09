@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19D302",
+  "type": "ransomware-incident",
+  "title": "co.pickens.sc.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "co.pickens.sc.us",
+    "domain": "pickens.sc.us",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome to Pickens County, SC",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/da3f4d013a5773c56a6ba09807a0640a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y28ucglja2vucy5zyy51c0bkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-25 09:27:00.000000",
+    "disclosedDate": "2024-04-19 09:24:35.577184"
+  }
+}

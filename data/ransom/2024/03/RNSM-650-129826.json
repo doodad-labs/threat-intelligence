@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-650-129826",
+  "type": "ransomware-incident",
+  "title": "CHRG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CHRG",
+    "domain": "chrg.com.au",
+    "country": "AU",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CHRG  offer a wide range of things to enjoy – from dining, live music and social events, to sports, recreation and educational programs. CHRG also supports a multitude of community services and activities, providing support for veterans, sponsoring youth programs, getting behind the arts, and providing grants to a number of local sporting groups.chrg.com.au",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6e7ca43ed51daf1a83d1a315ed705b7a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0hsr0a4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cyberdaily.au/security/10313-aussie-rsl-group-falls-victim-to-8base-ransomware-attack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-28 00:00:00.000000",
+    "disclosedDate": "2024-03-12 04:13:28.980478"
+  }
+}

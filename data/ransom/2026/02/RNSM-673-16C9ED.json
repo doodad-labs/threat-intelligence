@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-16C9ED",
+  "type": "ransomware-incident",
+  "title": "Modoc Medical Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Modoc Medical Center",
+    "domain": "modocmedicalcenter.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Modoc Medical Center is a healthcare service provider in Alturas, California. It offers a wide range of medical services, including a 24-hour emergency department, surgery, laboratory services, radiology, physical rehabilitation and more. It also houses a skilled nursing facility, provides primary and specialty care through its clinics. The center aims to deliver the highest quality healthcare in Modoc County.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/14b3847b6da6de2a5804256291be7772.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw9kb2mgtwvkawnhbcbdzw50zxjad29ybgrszwfrcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-16 16:08:26.000000",
+    "disclosedDate": "2026-02-16 18:06:57.499217"
+  }
+}

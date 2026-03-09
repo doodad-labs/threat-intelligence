@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-664-198365",
+  "type": "ransomware-incident",
+  "title": "Indigo Group S.A. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Indigo Group S.A.",
+    "domain": "group-indigo.com",
+    "country": "FR",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Indigo Group S.A. is a leading company operating in the parking management industry and urban mobility sector. Established in France, it has now expanded globally. The company offers a wide range of services related to parking like car park design, construction, and management. Additionally, it operates in sectors like rentals of shared private cars and two-wheelers. It is also dedicated to the development of digital platforms for parking reservations to ease urban mobility.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/211cf10c8744a08ae084397f7bc6d44f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5kawdviedyb3vwifmuqs5ad29ybgrszwfrcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.group-indigo.com/en/indigo-incident-alert/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-21 00:00:00.000000",
+    "disclosedDate": "2025-05-19 23:17:23.849853"
+  }
+}

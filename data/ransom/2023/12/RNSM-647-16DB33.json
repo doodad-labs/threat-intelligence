@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-647-16DB33",
+  "type": "ransomware-incident",
+  "title": "Spaulding Clinical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Spaulding Clinical",
+    "domain": "spauldingclinical.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "snatch",
+    "name": "snatch",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 2007, Spaulding Clinical is a full-service, state-of-the-art paperless Phase I clinical pharmacology unit. Our facility, originally a hospital, features fully integrated bedside electronic data capture and sets the standard for patient care. We specialize in IND-enabling clinical pharmacology studies, cardiovascular safety, and clinical",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3bhdwxkaw5niensaw5py2fsqhnuyxrjaa==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-14 22:08:00.000000",
+    "disclosedDate": "2023-12-16 17:22:50.342349"
+  }
+}

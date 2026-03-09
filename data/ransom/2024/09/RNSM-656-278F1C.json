@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-278F1C",
+  "type": "ransomware-incident",
+  "title": "gccustommetal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gccustommetal.com",
+    "domain": "gccustommetal.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "G&C Custom Metal Fabricators specializes in bespoke metalwork solutions, offering services such as laser cutting, welding, and precision fabrication. Catering to various industries, the company prides itself on high-quality craftsmanship and innovative design. With a focus on customer satisfaction, they deliver custom metal products tailored to meet specific project needs and specifications.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2njdxn0b21tzxrhbc5jb21arwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-27 12:31:27.520444",
+    "disclosedDate": "2024-09-27 12:31:29.418882"
+  }
+}

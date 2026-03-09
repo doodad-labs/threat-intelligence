@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-096A2E",
+  "type": "ransomware-incident",
+  "title": "emefarmario.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "emefarmario.com.br",
+    "domain": "emefarmario.com.br",
+    "country": "BR",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are the Emefarma Group! A leading pharmaceutical distribution company that grew with the purpose of bringing health and well-being to people's l...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/65051c39625529e490b0eea4ce0b5add.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw1lzmfybwfyaw8uy29tlmjyqgfwddcz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-09 12:10:25.367829",
+    "disclosedDate": "2024-11-09 12:10:26.263248"
+  }
+}

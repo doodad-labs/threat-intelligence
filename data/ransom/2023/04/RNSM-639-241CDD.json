@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-241CDD",
+  "type": "ransomware-incident",
+  "title": "esinsa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "esinsa.com",
+    "domain": "esinsa.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Esinsa is a company that operates in the Machinery industry. It employs 21-50 people and has $10M-$25M of revenue.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b8ab68dcd4b4ec31d67903ba4ecfa658.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxnpbnnhlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-24 05:30:00.000000",
+    "disclosedDate": "2023-04-24 06:50:13.922700"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-022E70",
+  "type": "ransomware-incident",
+  "title": "www.hauptmann.at ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.hauptmann.at",
+    "domain": "hauptmann.at",
+    "country": "AT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1026af9d8dadb3b8cb85299b9fd2c9a0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmhhdxb0bwfubi5hdebyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-29 18:36:55.000000",
+    "disclosedDate": "2024-07-02 19:46:03.937086"
+  }
+}

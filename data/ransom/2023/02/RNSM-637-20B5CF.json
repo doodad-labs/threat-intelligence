@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-20B5CF",
+  "type": "ransomware-incident",
+  "title": "UNIS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UNIS",
+    "domain": "unisco.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1989, Unis LLC has grown into a majority, nationally recognized Third-Party Logistics Provider (3PL). From humble beginnings with just a few trucks operating in Southern California, Unis has expanded into all major US markets, impacting the successful flow of commerce with superior technology, smarter supply chains, and faster execution.We credit our growth to an agile, customer-driven mindset, and strategic investments in technologies that give our clients the visibility and operational insights they require in today’s dynamic supply chain environment",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vu5ju0byb3lhba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-20 01:02:03.456789",
+    "disclosedDate": "2023-02-20 15:16:36.970101"
+  }
+}

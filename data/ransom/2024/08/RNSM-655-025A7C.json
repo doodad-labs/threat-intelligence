@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-655-025A7C",
+  "type": "ransomware-incident",
+  "title": "q-cells.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "q-cells.de",
+    "domain": "q-cells.de",
+    "country": "DE",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5400000000000,
+    "description": "q-cells.de 5.4Tb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cs1jzwxscy5kzubhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.heise.de/news/nach-cyberangriff-solaranbieter-qcells-informiert-kunden-ueber-datenleck-9852641.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-02 13:46:24.808067",
+    "disclosedDate": "2024-08-02 13:46:25.432742"
+  }
+}

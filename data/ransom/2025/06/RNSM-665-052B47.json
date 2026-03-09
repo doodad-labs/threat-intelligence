@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-052B47",
+  "type": "ransomware-incident",
+  "title": "golf-schoenenberg.ch ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "golf-schoenenberg.ch",
+    "domain": "golf-schoenenberg.ch",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 16.06.2025. The famous Schönenberg Golf and Country Club. In this privileged geographical location, a challenging 18-hole golf course was built in 1967, which has since met the highe            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/08f96ffa221835377fccd02b4b511ca3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z29szi1zy2hvzw5lbmjlcmcuy2hacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-05 00:00:00.000000",
+    "disclosedDate": "2025-06-05 21:56:15.749162"
+  }
+}

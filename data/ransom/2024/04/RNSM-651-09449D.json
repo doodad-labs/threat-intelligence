@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-09449D",
+  "type": "ransomware-incident",
+  "title": "robar.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "robar.com",
+    "domain": "robar.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 480000000000,
+    "description": "Robar Enterprises, Inc.– the holding company that brings you Endura Steel, Smith Ironworks, Hi-Grade Materials, and AsCon Recycling – a division of Hi-Grade Materials. In business for over half a century, we are the leading supplier of construction materials throughout Southern California, Southern Nevada, and Western Arizona.SITE: www.robar.com Address : Hesperia, 17671 Bear Valley Rd, United StatesALL DATA SIZE: ~480gb 1. Departments 2. Financial data 3. Payroll Departments 4. Human Resources departments & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/568e0b973b7324eb70862cdb92caf993.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm9iyxiuy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-27 00:00:00.000000",
+    "disclosedDate": "2024-04-09 17:02:03.041012"
+  }
+}

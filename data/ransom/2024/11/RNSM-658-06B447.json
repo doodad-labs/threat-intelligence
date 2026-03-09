@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-658-06B447",
+  "type": "ransomware-incident",
+  "title": "SANJACINTOCOUNY ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SANJACINTOCOUNY",
+    "country": "US"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.co.san-jacinto.tx.us",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/946036acff3e60a3e16c9438efc2ea58.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0foskfdsu5ut0npvu5zqghlbgxkb3du",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-06 23:13:41.672788",
+    "disclosedDate": "2024-11-06 23:13:42.346201"
+  }
+}

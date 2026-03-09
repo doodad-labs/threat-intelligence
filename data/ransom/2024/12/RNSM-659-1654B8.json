@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-1654B8",
+  "type": "ransomware-incident",
+  "title": "SWDAKOTAH.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SWDAKOTAH.COM",
+    "domain": "swdakotah.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] SWDAKOTAH.COM is a company that specializes in offering products and services inspired by the culture, heritage, and natural beauty of South Dakota. They focus on regional crafts, local artwork, and tourism services, providing customers with authentic and high-quality items. The company is dedicated to promoting local artisans and supporting sustainable practices in the region.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/78accade23249a14d109c53d4426b45e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1dequtpvefilknptubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-16 17:25:25.000000",
+    "disclosedDate": "2024-12-16 19:06:16.219710"
+  }
+}

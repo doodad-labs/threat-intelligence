@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-30F2B7",
+  "type": "ransomware-incident",
+  "title": "canstarrestorations.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "canstarrestorations.com",
+    "domain": "canstarrestorations.com",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Canstar Restorations is a full-service restoration company offering a complete range of building and contents restoration services. In addition to repairing fire, water, and storm damage, we clean up and safely dispose of hazardous materials             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e9c6dd0a944524e8f83b75def10dc990.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fuc3rhcnjlc3rvcmf0aw9ucy5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-30 00:00:00.000000",
+    "disclosedDate": "2024-09-30 17:39:14.543763"
+  }
+}

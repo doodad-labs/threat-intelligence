@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-1680AA",
+  "type": "ransomware-incident",
+  "title": "getriebetech.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "getriebetech.de",
+    "domain": "getriebetech.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Getriebetech.de\" is based in Germany and functions as a provider of exceptional transmission technology services. Their offer ranges from automatic, manual, CVT to DSG transmissions. Their team of expert engineers conduct comprehensive repairs and maintenance on these transmissions. They pride themselves on delivering quality workmanship, using cutting-edge equipment for diagnostics and resolution of complex transmission issues. They serve both private car owners and partners in the automotive industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a96f37e36676b20e12875f0aca268fd2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2v0cmllymv0zwnolmrlqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-16 23:25:30.288761",
+    "disclosedDate": "2025-04-16 23:26:57.134520"
+  }
+}

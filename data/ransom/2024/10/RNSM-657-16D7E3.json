@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-16D7E3",
+  "type": "ransomware-incident",
+  "title": "Cordogan Clark and Associates (cordoganclark.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cordogan Clark and Associates (cordoganclark.com)",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 107000000000,
+    "description": "107 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/03ea3d38468cb5c11e94901a6e626ead.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29yzg9nyw4gq2xhcmsgyw5kiefzc29jawf0zxmgkgnvcmrvz2fuy2xhcmsuy29tkubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-16 00:00:00.000000",
+    "disclosedDate": "2024-10-16 18:02:19.976714"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-047DE5",
+  "type": "ransomware-incident",
+  "title": "Balmit Bulgaria ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Balmit Bulgaria",
+    "domain": "balmit.bg",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have successfuly obtained all data from Balmit.bg. We have got all of their data + source + private data from their servers.We require a ransom of$100,000$80,000",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfsbwl0iej1bgdhcmlhqhjhbnnvbwvk",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-04 14:34:10.297562",
+    "disclosedDate": "2023-09-04 14:34:10.297584"
+  }
+}

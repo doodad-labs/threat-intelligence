@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-10422C",
+  "type": "ransomware-incident",
+  "title": "LiveHelpNow ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LiveHelpNow",
+    "domain": "livehelpnow.net",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4fe73e600089b4bb6cd6aea9aa47fcdc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgl2zuhlbhbob3dacgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-27 00:00:00.000000",
+    "disclosedDate": "2024-05-10 18:36:03.080169"
+  }
+}

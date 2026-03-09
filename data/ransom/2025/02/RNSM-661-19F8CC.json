@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-19F8CC",
+  "type": "ransomware-incident",
+  "title": "BeniPlus ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BeniPlus",
+    "domain": "beniplus.ca",
+    "country": "CA",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/05fe2418caa562fe72bde56f054ac6e9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvuavbsdxnaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 06:02:29.158276",
+    "disclosedDate": "2025-02-19 06:03:44.936136"
+  }
+}

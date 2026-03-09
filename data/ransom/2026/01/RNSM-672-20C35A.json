@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-20C35A",
+  "type": "ransomware-incident",
+  "title": "Orlík Compressors ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Orlík Compressors",
+    "domain": "orlik.cz",
+    "country": "CZ",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.orlik.cz https://www.zoominfo.com/c/orli%CC%81k-compressors/399403693 Orlik specializes in the production and sale of compressors and related accessories, offering a range of piston, screw, and spiral compressors, as well as dryers and pneumatic tools. Their products are designed for industrial use, emphasizing high efficiency, reliability, and low maintenance requirements. In addition to product sales, Orlik provides services related to compressed air, including rental, servicing, and air consumption audits. Their intended clients include various industrial sectors that require reliable compressed air solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3jsw61rienvbxbyzxnzb3jzqhrozwdlbnrszw1lbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-20 17:47:03.000000",
+    "disclosedDate": "2026-01-20 19:10:02.375314"
+  }
+}

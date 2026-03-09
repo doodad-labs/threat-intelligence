@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-137A39",
+  "type": "ransomware-incident",
+  "title": "kansasrmc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kansasrmc.com",
+    "domain": "kansasrmc.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "kairos",
+    "name": "kairos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "usa - Kansas Regenerative medicine centre",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/80e75a458489ed35732c152a5a535816.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2fuc2fzcm1jlmnvbubrywlyb3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-13 07:19:52.052004",
+    "disclosedDate": "2024-11-13 07:19:53.301932"
+  }
+}

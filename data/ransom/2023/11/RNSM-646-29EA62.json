@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-29EA62",
+  "type": "ransomware-incident",
+  "title": "NCCU.EDU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NCCU.EDU",
+    "domain": "nccu.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Attention Required! - Cloudflare",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/824e752291df56cfbb5d563af10dc75e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tkndvs5frfvay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-29 14:54:38.614335",
+    "disclosedDate": "2023-11-29 14:54:38.614459"
+  }
+}

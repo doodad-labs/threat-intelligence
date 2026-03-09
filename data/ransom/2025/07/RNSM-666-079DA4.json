@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-666-079DA4",
+  "type": "ransomware-incident",
+  "title": "heimhaus.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "heimhaus.de",
+    "domain": "heimhaus.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "kawa4096",
+    "name": "kawa4096",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.heimhaus.de",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agvpbwhhdxmuzgvaa2f3ytqwoty=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-22 19:47:48.119058",
+    "disclosedDate": "2025-07-07 11:55:03.194176"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-1310C1",
+  "type": "ransomware-incident",
+  "title": "Owens Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Owens Group",
+    "domain": "owensgroup.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dacea9df9a192d4e1329491170b155eb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3dlbnmgr3jvdxbaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-12 18:54:48.000000",
+    "disclosedDate": "2023-11-13 14:47:05.602386"
+  }
+}

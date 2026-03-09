@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-231455",
+  "type": "ransomware-incident",
+  "title": "Hilliard Enterprises ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hilliard Enterprises",
+    "domain": "locomotiveparts.net",
+    "country": "US"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hilliard Enterprises, Incorporated specializes in the worldwide sale, service, and parts supply for used locomotives and marine engines. They pride themselves on providing world-class service and quality parts tailored to meet the unique needs of each customer. Their extensive inventory includes a variety of used Detroit engines, traction motors, and parts from various manufacturers. Hilliard Enterprises serves a diverse clientele in the locomotive and marine industries, ensuring expert support and solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6fb91bfa288aef0b237ed442a60d5476.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sglsbglhcmqgrw50zxjwcmlzzxnazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-23 15:12:41.267293",
+    "disclosedDate": "2025-06-23 15:54:51.879314"
+  }
+}

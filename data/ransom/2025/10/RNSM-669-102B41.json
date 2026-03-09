@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-669-102B41",
+  "type": "ransomware-incident",
+  "title": "Brevard Skin ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Brevard Skin",
+    "domain": "brevardskin.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "pear",
+    "name": "pear",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dedicated to providing comprehensive dermatological care to address a wide range of skin, hair, and nail conditions",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fb4ccc7ba94a4f724d6a746a716184c6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjldmfyzcbta2luqhblyxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.hipaajournal.com/brevard-skin-and-cancer-center-data-breach/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-10 20:16:53.863900",
+    "disclosedDate": "2025-10-10 20:17:10.535653"
+  }
+}

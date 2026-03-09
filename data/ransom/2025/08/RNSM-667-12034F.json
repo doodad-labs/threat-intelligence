@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-12034F",
+  "type": "ransomware-incident",
+  "title": "Nutis Press ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nutis Press",
+    "domain": "nutis.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Nutis Press is a family-owned business that specializes in producing point-of-purchase (POP) visual merchandising and store fixtures for global retailers and brands. Established in 1949, they offer services like in-house design, digital printing, screen printing, die cutting, milling, and edgebanding. They are recognized for innovative solutions and commitment to quality.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b69877eff57d54b7932e4b456324f5fc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tnv0axmguhjlc3nad29ybgrszwfrcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-06-23 18:57:09.000000",
+    "disclosedDate": "2025-08-12 14:37:57.360775"
+  }
+}

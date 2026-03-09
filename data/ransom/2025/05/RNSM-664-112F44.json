@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-112F44",
+  "type": "ransomware-incident",
+  "title": "lifesafeservices.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lifesafeservices.com",
+    "domain": "lifesafeservices.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Lifesafe Services specializes in providing a comprehensive range of safety solutions to both commercial and government outlets. Their services include life-saving equipment, safety training, preventive maintenance & repair services, corporate compliance, and safety program management. They cater to various markets including education, hospitality, construction, healthcare and more. Their aim is to create a safe working environment for their clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0672266ee499afa5acac4ff1b1f52f75.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bglmzxnhzmvzzxj2awnlcy5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-11 22:00:06.858301",
+    "disclosedDate": "2025-05-11 22:01:22.619090"
+  }
+}

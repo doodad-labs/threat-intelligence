@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-27592F",
+  "type": "ransomware-incident",
+  "title": "Eight8Ate Holdings, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Eight8Ate Holdings, Inc",
+    "domain": "eight8ate.ph",
+    "country": "PH"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e63df1e2dabf0d76fe39945cd41ea30e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwlnahq4qxrliehvbgrpbmdzlcbjbmnaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-27 11:38:26.000000",
+    "disclosedDate": "2025-05-27 11:52:54.367563"
+  }
+}

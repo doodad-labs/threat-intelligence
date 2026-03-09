@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-03BDE4",
+  "type": "ransomware-incident",
+  "title": "Jay Enn Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jay Enn Corporation",
+    "domain": "jayenn.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Jay Enn is established as a premier supplier providing services for Design, Manufacturing, Assembly, and Certification of Precision Tools, Fixtures, Jigs, Carts and Equipment for Automotive, Aerospace and Defense industries. Jay Enn Corporation is a Facilities Services company located in 33943 Dequindre Rd, Troy, Michigan, United Stateshttps://www.jayenn.com/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d50e91a657520e8ef089d0ca9d909ed9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smf5ievubibdb3jwb3jhdglvbka4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-03 00:00:00.000000",
+    "disclosedDate": "2025-01-03 10:15:28.910079"
+  }
+}

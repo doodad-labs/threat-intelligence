@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-22E555",
+  "type": "ransomware-incident",
+  "title": "hitachi-tds.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hitachi-tds.com",
+    "domain": "hitachi-tds.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hitachi T&D Solutions, Inc. is a premier international supplier of electrical equipment including dead tank high-voltage circuit breakers, gas-insulated switchgear, transformers, and generator main circuit breakers. One of the company's recent accomplishments is the creation of the industry's first environmentally conscious high voltage vacuum circuit breaker, a 72.5kV dry air insulated solution that eliminates SF6 gas. It provides exceptionally low maintenance and operation costs, and poses no threat to the environment as the insulating dry air can be released into the atmosphere with no adverse consequences. Hitachi T&D Solutions, Inc. is dedicated to continuing the expansion and integration of its present products while developing new and improved product solutions to meet future energy demands.\r Employees: 120\r Revenue:$69.5 Million\r Industry:Manufacturing\r Phone Number:(770) 495-1755",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0cbed6fd91edd7e412b60404b8f8efba.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agl0ywnoas10zhmuy29tqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-15 00:00:00.000000",
+    "disclosedDate": "2025-07-22 03:55:06.075622"
+  }
+}

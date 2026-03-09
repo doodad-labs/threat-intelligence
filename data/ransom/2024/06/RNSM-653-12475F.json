@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-653-12475F",
+  "type": "ransomware-incident",
+  "title": "Concrete ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Concrete",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Canada - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a4556d26475e7650e468957298ecb5cf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29uy3jldgvaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-12 15:15:43.000000",
+    "disclosedDate": "2024-06-12 15:47:33.187202"
+  }
+}

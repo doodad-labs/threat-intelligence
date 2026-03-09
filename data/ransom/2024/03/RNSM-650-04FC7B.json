@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-04FC7B",
+  "type": "ransomware-incident",
+  "title": "Paul Davis Restoration ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Paul Davis Restoration",
+    "domain": "pauldavis.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Paul Davis Restoration - founded in 1966, the company currently operates throughout North America (including franchises) and specializes in disaster recovery, restoration and reconstruction.. Paul Davis Restoration corporate office is located in 21 Harvey St, Kingston, Ontario, K7K 5C1, Canada and has 467 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugf1bcbeyxzpcybszxn0b3jhdglvbkbtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-04 16:18:48.12345",
+    "disclosedDate": "2024-03-04 22:05:44.237550"
+  }
+}

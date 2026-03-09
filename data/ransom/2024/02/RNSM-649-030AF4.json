@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-030AF4",
+  "type": "ransomware-incident",
+  "title": "pbwtulsa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pbwtulsa.com",
+    "domain": "pbwtulsa.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data on lawyers/employees (ssn, ein, residential address, DOB, contracts, scans of passports and ID), financial documents (balance sheet, audits, tax forms, various financial statements, statements),Client databases, client cases containing confide...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2fd8852f14fdd8f61d4c1a677a1d9df6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgj3dhvsc2euy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-03 10:18:00.000000",
+    "disclosedDate": "2024-02-03 12:07:01.416724"
+  }
+}

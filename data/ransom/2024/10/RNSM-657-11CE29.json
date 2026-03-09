@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-11CE29",
+  "type": "ransomware-incident",
+  "title": "[i2p-torrent]Jangho Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "[i2p-torrent]Jangho Group",
+    "domain": "jangho.com",
+    "country": "CN",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Jangho Group Co., Ltd. (hereinafter referred to as “Jangho Group”, “the Company” or “we”, stock code: 601886) is a large multinational corporation listed on SSE A-share mainboard. Headquartered in Beijing, the Company was established in 1999 and formerly known as Beijing Jangho Curtain Wall Co., Ltd. By upholding the holy mission of “working for human’s living environment and health”, we are devoted to supplying green building system services and high-quality medical health services. The Company has two business sectors, i.e., building decoration and medical health, and has established several world’s famous brands such as JANGHO, Sundart, Gangyuan, SLD and Vision. With our business involving more than 20 countries and regions worldwide, we take lead in such fields as building curtain wall, interior decoration and design, PV building and eye medical treatment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c09262e2e245bb3269919b74c05202f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/w2kycc10b3jyzw50xuphbmdobybhcm91cebyyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-11 00:00:00.000000",
+    "disclosedDate": "2024-10-11 16:11:01.279104"
+  }
+}

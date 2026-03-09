@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-07CF3B",
+  "type": "ransomware-incident",
+  "title": "NVHG.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NVHG.COM",
+    "domain": "nvhg.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/82559f78bf61cb55801a8e5dbdda3881.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tlziry5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 21:01:27.056570",
+    "disclosedDate": "2026-02-07 21:01:40.306931"
+  }
+}

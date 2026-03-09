@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-644-226038",
+  "type": "ransomware-incident",
+  "title": "CLX Logistics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CLX Logistics",
+    "domain": "clxlogistics.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 26000000000,
+    "description": "CLX Logistics, LLC is a global 3PL provider of transportation management systems, managed services, supply chain consulting and intermodal transportation services for a broad base of industry verticals. We almost finished their data transportation and will upload 26GB of their data soon. Tons of business information: clients, personal information, a few confidential docs. We will update.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0xyiexvz2lzdgljc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-22 20:34:02.050981",
+    "disclosedDate": "2023-09-22 20:34:02.169775"
+  }
+}

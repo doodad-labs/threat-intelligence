@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-14CABE",
+  "type": "ransomware-incident",
+  "title": "Bancroft Wines ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bancroft Wines",
+    "domain": "bancroftwines.com",
+    "country": "GB",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bancroft Wines is an award- winning London-based wine distributor offering a complete and competitive range of wines. They supply the on-trade, independent off-trade, private clients and several select national accounts nationwide. Their team is dedicated to delivering excellent advice and service and to forming long-term relationships with their clients and producers alike.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e485db427c05c3fc020b8acac7a57ddb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfuy3jvznqgv2luzxnaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-15 00:00:00.000000",
+    "disclosedDate": "2025-03-14 11:49:31.544216"
+  }
+}

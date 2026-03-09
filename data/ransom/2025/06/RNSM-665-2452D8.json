@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-665-2452D8",
+  "type": "ransomware-incident",
+  "title": "hawaiiunified.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hawaiiunified.com",
+    "domain": "hawaiiunified.com",
+    "country": "US",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 65000000000,
+    "description": "HAWAI'I UNIFIED is a licensed General Contractor, Electrical Contractor, Plumbing Contractor, Steel Door Contractor, and Fencing Contractor providing services t... - We hacked Hawai'i Unified. Today, we disclose 65 GB of data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4234dc8296c492c28795511a888d9df5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agf3ywlpdw5pzmllzc5jb21azw1iyxjnbw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-02 06:59:58.969983",
+    "disclosedDate": "2025-06-24 15:45:53.543333"
+  }
+}

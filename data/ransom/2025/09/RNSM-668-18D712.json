@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-18D712",
+  "type": "ransomware-incident",
+  "title": "cardiofocus.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cardiofocus.com",
+    "domain": "cardiofocus.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CardioFocus specializes in offering innovative tools for electrophysiologists to treat atrial fibrillation. Their advanced technologies, including the HeartLight X3 and Centauri System, leverage laser and PFA technology for precise and effective treatment. The company focuses on enhancing procedural efficiency and patient outcomes through shorter procedure times and advanced customization. Their primary clients are electrophysiologists looking to improve care standards in managing complex cardiac arrhythmias.\r Employees: 87\r Revenue: $29.1 Million\r Industry: Retail \r Phone Number:(508) 658-7200",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/03cbadd8384911034da25dd07f80defc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fyzglvzm9jdxmuy29tqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-31 00:00:00.000000",
+    "disclosedDate": "2025-09-18 20:58:28.114851"
+  }
+}

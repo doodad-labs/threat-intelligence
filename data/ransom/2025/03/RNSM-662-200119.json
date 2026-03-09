@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-200119",
+  "type": "ransomware-incident",
+  "title": "fr.sodexo.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fr.sodexo.com",
+    "domain": "sodexo.com",
+    "country": "FR",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "fr.sodexo.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e0faf9ca53d145bef8f6de5a44767a96.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zniuc29kzxhvlmnvbubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-20 13:56:21.348726",
+    "disclosedDate": "2025-03-20 13:57:27.548048"
+  }
+}

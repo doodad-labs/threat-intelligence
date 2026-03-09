@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-01AF33",
+  "type": "ransomware-incident",
+  "title": "StudioVaiani ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "StudioVaiani",
+    "domain": "studiovaiani.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Studio Vaiani is an Italian accounting and consulting firm based in Crema, founded in the early 1970s by Ernesto Vaiani. The firm offers a wide range of professional services, including corporate, tax, financial, labor, and contractual consulting. Their expertise encompasses accounting, tax compliance, business planning, financial analysis, and legal auditing. Studio Vaiani serves as a reliable partner for entrepreneurs, providing tailored solutions to meet clients' needs in Italy and internationally.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d2a58a41e3a42104f3d9fb63f3be6ba0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3r1zglvvmfpyw5pqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-01 00:00:00.000000",
+    "disclosedDate": "2025-05-01 14:57:57.939670"
+  }
+}

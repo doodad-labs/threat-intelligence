@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-649-04A69A",
+  "type": "ransomware-incident",
+  "title": "Commonwealth Sign ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Commonwealth Sign",
+    "domain": "commonwealthsign.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The company has chosen to ignore us means its data will be open and available for download below.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tbw9ud2vhbhroifnpz25acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-04 13:41:33.459247",
+    "disclosedDate": "2024-02-04 13:41:33.459268"
+  }
+}

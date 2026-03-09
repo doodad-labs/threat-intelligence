@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-2465C5",
+  "type": "ransomware-incident",
+  "title": "MBC Law Professional Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MBC Law Professional Corporation",
+    "domain": "mbclaw.ca",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MBC Law Professional Corp is a company that operates in the Legal Services industry. It employs 11-20 people and has $5M-$10M of revenue. The company is headquartered in Ottawa, Ontario, Canada",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/83a16fcb4abd7eaf267ba38d0519f332.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tujdiexhdybqcm9mzxnzaw9uywwgq29ycg9yyxrpb25aywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-24 02:09:00.123456",
+    "disclosedDate": "2024-01-24 02:58:33.357347"
+  }
+}

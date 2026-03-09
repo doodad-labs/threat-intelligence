@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-161FFA",
+  "type": "ransomware-incident",
+  "title": "selmi.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "selmi.com.br",
+    "domain": "selmi.com.br",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "- Established in 1966;- Manufacturer of flour based products, such as dry pasta, traditional pasta, cookies, crackers, cakes and baking mixes;- Over 1,000 employees;- Two production sites;- Thirteen distribution centers across the country;-...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e7d17f00e164bf4c3dd1ae2cece7672a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vsbwkuy29tlmjyqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-11 19:08:00.000000",
+    "disclosedDate": "2023-07-16 19:56:53.116331"
+  }
+}

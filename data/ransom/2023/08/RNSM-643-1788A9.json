@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-1788A9",
+  "type": "ransomware-incident",
+  "title": "KOMORI.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KOMORI.COM",
+    "domain": "komori.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "KOMORI Corporation",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/147148d0e50f952ef17941706944c1fc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s09nt1jjlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-17 09:12:29.208946",
+    "disclosedDate": "2023-08-17 09:12:29.208992"
+  }
+}

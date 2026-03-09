@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-27953D",
+  "type": "ransomware-incident",
+  "title": "www.shootinghouse.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.shootinghouse.com.br",
+    "domain": "shootinghouse.com.br",
+    "country": "BR"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.shootinghouse.com.br",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9e28eab1cc8998a942626ab6d7ab5cb4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnob290aw5nag91c2uuy29tlmjyqgjhynvrmg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:39:16.857312",
+    "disclosedDate": "2025-01-27 07:40:30.365873"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-26DEF8",
+  "type": "ransomware-incident",
+  "title": "St. Johns River Water Management District ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "St. Johns River Water Management District",
+    "domain": "sjrwmd.com",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/653170d4fa9260d54781b58a6d022591.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3quiepvag5zifjpdmvyifdhdgvyie1hbmfnzw1lbnqgrglzdhjpy3racwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-01 16:01:24.000000",
+    "disclosedDate": "2025-11-26 18:49:24.758448"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-1927B3",
+  "type": "ransomware-incident",
+  "title": "RM Medics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RM Medics",
+    "domain": "rmmedics.com",
+    "country": "GB",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "RM Medics is a medical recruitment agency specializing in placing healthcare professionals, particularly locum doctors, in NHS hospitals throughout the UK. The company prides itself on its exceptional recruitment consultants and a commitment to providing quality assurance and compliance with NHS standards. With over 30 years of experience, RM Medics offers an out-of-hours service, ensuring quick and efficient solutions for hospitals in urgent need. Their client base primarily includes NHS hospitals requiring both temporary and permanent locum placements.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e1e78d5951651f309b9ce3f7ea6255b7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uk0gtwvkawnzqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-19 21:48:32.131000",
+    "disclosedDate": "2025-12-19 22:26:38.794641"
+  }
+}

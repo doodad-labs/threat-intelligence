@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-646-28A18E",
+  "type": "ransomware-incident",
+  "title": "Medi-Market ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Medi-Market",
+    "domain": "medi-market.be",
+    "country": "BE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MEDI-MARKET is a new chain of pharmacies and parapharmacies offering, for the first time in Belgium, 1,000 m² dedicated to health. Our innovative concept offers customers personalized advice from specialists and a wide range of products in the health care, natural medicine, cosmetics, nutrition and baby care sectors.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvkas1nyxjrzxray2fjdhvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-31 00:00:00.000000",
+    "disclosedDate": "2023-11-28 11:35:38.663639"
+  }
+}

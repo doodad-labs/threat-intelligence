@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19C161",
+  "type": "ransomware-incident",
+  "title": "tedpella.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tedpella.com",
+    "domain": "tedpella.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We manufacture and sell instruments and supplies to serve laboratories dedicated to a variety of types of microscopy: Transmission and Scanning Electron Microscopy, Electron Microprobe Analysis, Atomic Force Microscopy, Confocal Laser Microscopy and...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9aaa5a98daa0616a1aeb431e8f6840c4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvkcgvsbgeuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-03 13:27:00.000000",
+    "disclosedDate": "2024-04-19 10:03:25.788321"
+  }
+}

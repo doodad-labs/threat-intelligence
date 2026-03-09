@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-670-051BB6",
+  "type": "ransomware-incident",
+  "title": "KISS FM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KISS FM",
+    "country": "",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "KISS FM Spanish radio station KISS FM, which broadcasts popular music and entertainment programs. The radio is available online, as well as traditionally on radio waves in Spain. The station is owned by the Spanish media group Mediaset Espana.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0ltuybgtubyahlzawrh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-05 16:21:56.644055",
+    "disclosedDate": "2025-11-05 16:22:02.964604"
+  }
+}

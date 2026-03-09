@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-160CFA",
+  "type": "ransomware-incident",
+  "title": "A & L Auto Recyclers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "A & L Auto Recyclers",
+    "domain": "auto-recyclers.com",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] A & L Auto Recyclers is an auto recycling and parts company located in Lakeshore, Ontario, Canada. This eco-friendly organization specializes in the purchase and resale of used auto parts. Their salvage yard holds a wide array of vehicles of various makes and models, offering consumers cost-effective options for parts. They also provide services for unwanted vehicles, acquiring them for parts or scrap and ensuring environmentally safe disposal.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6daaab0a553918e8475a6b2f90194d2f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qsamiewgqxv0bybszwn5y2xlcnnaymxhy2tsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:04:02.417350",
+    "disclosedDate": "2025-05-16 13:36:22.106867"
+  }
+}

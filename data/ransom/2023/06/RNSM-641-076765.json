@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-076765",
+  "type": "ransomware-incident",
+  "title": "knipmeijerenblok.nl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "knipmeijerenblok.nl",
+    "domain": "knipmeijerenblok.nl",
+    "country": "NL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We can help you with a whole range of expertise such as various types of electrical installations, security solutions, various ICT applications and rapidly developing sustainability innovations. Of course we like to look with you from the start, but...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cb0c06882b35d521838e6c181ec77c3c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a25pcg1lawplcmvuymxvay5ubebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-07 20:34:00.000000",
+    "disclosedDate": "2023-06-07 21:53:47.470241"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-05B1C4",
+  "type": "ransomware-incident",
+  "title": "belfius.be ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "belfius.be",
+    "domain": "belfius.be",
+    "country": "BE",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Belfius Bank, founded in 1996 and headquartered in Brussels, Belgium, provides banking services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7b0c581be7c44b72a137dc814b7dffa3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymvszml1cy5izubrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-05 23:15:07.757733",
+    "disclosedDate": "2024-09-05 23:15:08.197277"
+  }
+}

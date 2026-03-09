@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-2117EC",
+  "type": "ransomware-incident",
+  "title": "Langford Tool And Drill Co ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Langford Tool And Drill Co",
+    "domain": "langfordtool.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6a94d4f57dff4f97a7c43acbbab22eb9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgfuz2zvcmqgvg9vbcbbbmqgrhjpbgwgq29aa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-21 20:51:43.602671",
+    "disclosedDate": "2024-12-21 20:51:44.377235"
+  }
+}

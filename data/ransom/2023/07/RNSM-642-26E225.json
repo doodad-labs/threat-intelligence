@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26E225",
+  "type": "ransomware-incident",
+  "title": "E4NET ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "E4NET",
+    "domain": "e4net.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "E4NET is a total localization solutions provider specializing in Asian localization covering all major Asian languages and other regional tiers. We have 25+ years of successful experience delivering a variety of major projects for global customers, such as IBM, SAP, Oracle, LG Electronics, Epic Games, Panasonic, and more. E4NET specializes in IT and life science but covers other industries such as patents, travel, fashion, games, finances, government, and automobiles. In addition, we are continuously developing and applying innovative, leading-edge technology such as MT throughout our production process, as well as providing associated services to maximize production/service efficiency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a688c45f8c2c8ab52519edb267770de1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rtrorvraywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-18 13:11:08.000000",
+    "disclosedDate": "2023-07-26 14:49:26.605883"
+  }
+}

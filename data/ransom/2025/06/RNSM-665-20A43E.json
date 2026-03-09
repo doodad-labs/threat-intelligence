@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-20A43E",
+  "type": "ransomware-incident",
+  "title": "diffazur.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "diffazur.fr",
+    "domain": "diffazur.fr",
+    "country": "FR",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "j",
+    "name": "J",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Diffazur is one of the leading French companies that specializes in designing and building customized, concrete swimming pools. With over 50 years of experience, Diffazur incorporates creativity, quality work, and technical expertise to deliver unique and sustainable pool solutions. They also provide pool maintenance and renovation services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e5fa553d04d282318f2925bc05f4fc6b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zglmzmf6dxiuznjasg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-17 00:00:00.000000",
+    "disclosedDate": "2025-06-20 12:36:08.721257"
+  }
+}

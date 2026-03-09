@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-199E0C",
+  "type": "ransomware-incident",
+  "title": "snowbrand.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "snowbrand.com.au",
+    "domain": "snowbrand.com.au",
+    "country": "AU",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $9.5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c25vd2jyyw5klmnvbs5hdubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-26 00:00:00.000000",
+    "disclosedDate": "2024-11-19 22:48:41.589900"
+  }
+}

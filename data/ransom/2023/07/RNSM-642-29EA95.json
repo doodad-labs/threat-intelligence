@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-29EA95",
+  "type": "ransomware-incident",
+  "title": "AT&S ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AT&S",
+    "domain": "atssh.com",
+    "country": "SG",
+    "sector": ""
+  },
+  "actor": {
+    "id": "nokoyawa",
+    "name": "nokoyawa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AT&S was incorporated in Singapore in 2009 with the goal to provide the entire spectrum of products and services to the Oil & Gas and Marine sectors, bringing AquaTerra and SSH together in a synergistic manner. At formation, we became the only Singapore-based company and one of the largest in the...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c11460329a5280215ad635a8bb5c13ed.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvqmu0bub2tvewf3yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-29 16:26:14.267000",
+    "disclosedDate": "2023-07-29 19:24:41.631571"
+  }
+}

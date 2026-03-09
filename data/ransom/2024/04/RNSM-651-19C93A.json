@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-651-19C93A",
+  "type": "ransomware-incident",
+  "title": "cavotec.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cavotec.com",
+    "domain": "cavotec.com",
+    "country": "CH",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 800000000000,
+    "description": "Cavotec is a leading cleantech company that designs and delivers connection and electrification solutions to enable the decarbonization of ports and industrial applications. Backed by more than 40 years of experience, our systems ensure safe, efficient and sustainable operations for a wide variety of customers and applications worldwide. Cavotec’s personnel, located in some 30 countries around the world, represent a large number of cultures, and provide customers with local support, backed by the Group’s global network of engineering expertise.SITE: www.cavotec.com Address : Cavotec SA Corso Elvezia 16 - CH-6900 Lugano, SwitzerlandALL DATA SIZE: ~800gb 1. Engeneering and projects 2. Technical R&D and drawings 3. Accounting and finance 4. HR and personal users data & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2f2b3rlyy5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-04 00:00:00.000000",
+    "disclosedDate": "2024-04-19 12:43:06.980235"
+  }
+}

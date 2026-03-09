@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-114727",
+  "type": "ransomware-incident",
+  "title": "igpi.co.jp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "igpi.co.jp",
+    "domain": "igpi.co.jp",
+    "country": "JP",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] IGPI (Industrial Growth Platform, Inc.) is a Tokyo-based management consulting firm. The company offers assistance in operational improvement, M&A strategies, business turnaround, and global expansion. They cater to businesses in various industries including healthcare, manufacturing, and technology. Promoting growth for their client companies is their primary aim.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/662045762a1e7d720dfb72334a523864.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awdwas5jby5qcebzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-31 00:00:00.000000",
+    "disclosedDate": "2025-05-11 22:04:34.704543"
+  }
+}

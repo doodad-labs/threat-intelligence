@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-22B852",
+  "type": "ransomware-incident",
+  "title": "softland.cl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "softland.cl",
+    "domain": "softland.cl",
+    "country": "CL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Softland, líder en soluciones de software empresarial en Latinoamérica.Fundado en 1982, Softland, con base en Madrid, España, es una empresa multinacional líder en el área de soluciones de software para la gestión empresarial en Latinoamérica....",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/570ac646729135a13031276f5154ff06.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c29mdgxhbmquy2xabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-22 04:35:00.000000",
+    "disclosedDate": "2023-05-22 05:48:58.722771"
+  }
+}

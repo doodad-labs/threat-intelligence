@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-09A151",
+  "type": "ransomware-incident",
+  "title": "sincorpe.org.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sincorpe.org.br",
+    "domain": "sincorpe.org.br",
+    "country": "BR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Sincorpe.org.br represents SINCOR-PE, the Insurance Brokers' Union of Pernambuco in Brazil. It is dedicated to supporting and advocating for insurance brokers in the region. The organization provides resources, training, and guidance to its members, aiming to enhance professional standards and promote the interests of insurance brokers within the industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/04973daf63737566137e888633ef5093.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2luy29ycguub3jnlmjyqgz1bmtzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-09 15:19:41.346498",
+    "disclosedDate": "2024-12-09 15:19:42.633363"
+  }
+}

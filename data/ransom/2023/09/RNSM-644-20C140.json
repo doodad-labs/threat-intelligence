@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-20C140",
+  "type": "ransomware-incident",
+  "title": "compass-inc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "compass-inc.com",
+    "domain": "compass-inc.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Provider of health care consulting services based in Portland, Maine. The company's thorough and accurate analysis of health care costs, financial risk, regulatory issues, enable their clients to improve efficiency and save costs.File list and sa...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f7ebd5a21852689ed53c4a18a899bbb4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29tcgfzcy1pbmmuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-20 15:19:00.000000",
+    "disclosedDate": "2023-09-20 16:01:25.927354"
+  }
+}

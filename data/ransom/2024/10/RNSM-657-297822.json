@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-657-297822",
+  "type": "ransomware-incident",
+  "title": "daserv.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "daserv.com",
+    "domain": "daserv.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 450000000000,
+    "description": "Distribution Alternatives, Inc. (DA) is a third-party logistics (3PL) company that offers warehousing, fulfillment, and distribution services: DA offers a range of services, including warehousing, pick and pack fulfillment, LTL shipping, EDI processing, and more. They also provide direct-to-consumer fulfillment for e-commerce and catalog orders.SITE: www.daserv.com Address : 6870 21st Avenue South Lino Lakes, Minnesota 55038 United StitesTEL#: 800-346-3245ALL DATA SIZE: ≈450gb 1. Financial data, Accounting 2. Employees, Customers forms with personal info 3. Human Resources 4. Users folders with personal docs 5. Tax, 401k data forms, confidential agrements, NDAs… & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/301f5d002c409af2d1cda4d4093328b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgfzzxj2lmnvbubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-10 00:00:00.000000",
+    "disclosedDate": "2024-10-29 19:17:35.564909"
+  }
+}

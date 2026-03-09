@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-173FD2",
+  "type": "ransomware-incident",
+  "title": "Formosa Plastics USA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Formosa Plastics USA",
+    "domain": "fpcusa.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2fefa37a775df2dcab13b098070e5b42.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rm9ybw9zysbqbgfzdgljcybvu0faahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-17 03:24:36.000000",
+    "disclosedDate": "2024-05-17 04:32:27.894901"
+  }
+}

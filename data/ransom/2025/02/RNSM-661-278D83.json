@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-278D83",
+  "type": "ransomware-incident",
+  "title": "WHEELS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WHEELS.COM",
+    "domain": "wheels.com",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] WHEELS.COM is an automotive services company that specializes in fleet management. They provide a broad range of services intended to simplify vehicle leasing, fleet management, and driver support. They combine expert advice, powerful technology, and data-driven strategies to streamline fleet operations, helping businesses manage their vehicles more effectively while ensuring drivers’ safety and satisfaction. They cater to various sectors including pharmaceutical, infrastructure, and food & beverage.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0hfruxtlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:49:26.655768",
+    "disclosedDate": "2025-02-27 17:49:34.097691"
+  }
+}

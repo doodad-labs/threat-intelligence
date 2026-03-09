@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-20EB14",
+  "type": "ransomware-incident",
+  "title": "Juice Generation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Juice Generation",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "10 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/afb65f719b768ec8ec9d4b9d55f0fdc9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/snvpy2ugr2vuzxjhdglvbkbmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-20 16:31:59.497333",
+    "disclosedDate": "2024-09-20 16:32:00.912040"
+  }
+}

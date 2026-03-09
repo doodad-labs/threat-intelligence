@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-655-2293E2",
+  "type": "ransomware-incident",
+  "title": "Larc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Larc",
+    "domain": "larcinc.org",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LARC operates a 16,000 square foot workshop that provides a setting to not only provide training of job skills but also to give the individual an opportunity to feel good about his or her achievement and earn a paycheck. LARC works with companies and subcontracts work such as sorting, collating, packaging, boxing and labeling among others.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3e6287005755936d294ad64acc244d2d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgfyy0bpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-24 00:00:00.000000",
+    "disclosedDate": "2024-08-22 06:04:40.689893"
+  }
+}

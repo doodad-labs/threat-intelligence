@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-658-06B0DB",
+  "type": "ransomware-incident",
+  "title": "klinkamkurpark ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "klinkamkurpark",
+    "domain": "klinik-am-kurpark.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "klinik-am-kurpark.de",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/915e801122cf2ac2713e0213142755ce.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2xpbmthbwt1cnbhcmtaagvsbgrvd24=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.it-boltwise.de/hackerangriff-auf-klinik-am-kurpark-it-systeme-in-reinhardshausen-betroffen.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-06 23:40:11.554119",
+    "disclosedDate": "2024-11-06 23:40:11.858876"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-2507E4",
+  "type": "ransomware-incident",
+  "title": "arangobillboard.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "arangobillboard.com",
+    "domain": "arangobillboard.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Arango Billboard & Construction Co LLC is a company that operates in the Construction industry. It employs 21-50 people and has $5M-$10M of revenue.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1659f9dafefb4c5765173fe791edc985.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxjhbmdvymlsbgjvyxjklmnvbubibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-25 08:25:55.665767",
+    "disclosedDate": "2024-06-25 08:25:56.496468"
+  }
+}

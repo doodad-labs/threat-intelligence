@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-30B35C",
+  "type": "ransomware-incident",
+  "title": "Globalresultspr.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Globalresultspr.com",
+    "domain": "globalresultspr.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 123000000000,
+    "description": "Globalresultspr.comCountry: USAPublic123GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2xvymfscmvzdwx0c3bylmnvbubjbg9haw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 17:16:44.000000",
+    "disclosedDate": "2024-11-30 19:41:50.725768"
+  }
+}

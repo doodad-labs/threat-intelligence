@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-662-27D24B",
+  "type": "ransomware-incident",
+  "title": "REIMERS FURNITURE MFG INC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "REIMERS FURNITURE MFG INC",
+    "domain": "rfmseating.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 58000000000,
+    "description": "RFM seating create chairs that are customizable, long lasting, and available for all body types so that every customer finds a chair that truly fits them.We are ready to upload more than 58 GB of essential corporate documents such as: corporate licenses, agreements and contracts, corporate NDA’s, resident cards, driver licenses, personal SSN’s, contact numbers and e-mail addresses of employees and customers, HRdocuments, family member informations, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukvjtuvsuybgvvjosvrvukugtuzhieloq0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-27 00:00:00.000000",
+    "disclosedDate": "2025-03-27 14:14:27.904174"
+  }
+}

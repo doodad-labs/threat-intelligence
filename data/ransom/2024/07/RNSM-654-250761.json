@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-654-250761",
+  "type": "ransomware-incident",
+  "title": "Vivara ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vivara",
+    "domain": "vivara.com.br",
+    "country": "BR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1180000000000,
+    "description": "Vivara is the largest retailer of jewelry in Brazil, with over 200 stores in major cities. The company also sells a wide range of design watches fr om brands such as Coach, Juicy Couture, Gucci, Lacoste, and more. Vivara corporate office is located in lj 207 Sai so 6580, Guara, Federal District, 71000-000, Brazil and has 1,167 employees. The total amount of data leakage is 1.18Tb and includes confidential data of CEO, top management team, employees and customers. Data also includes company's many hidden illegal activities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0afe61a425ebb43bf948a68dacc96c11.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vml2yxjhqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://financenews.com.br/2024/07/vivara-viva3-se-manifesta-sobre-ataque-cibernetico/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-24 17:05:36.000000",
+    "disclosedDate": "2024-07-25 07:28:17.940019"
+  }
+}

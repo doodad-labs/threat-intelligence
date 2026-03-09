@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-030D1A",
+  "type": "ransomware-incident",
+  "title": "KWS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KWS",
+    "domain": "kwsmfg.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8ddb32ca7b40e547872870ad7f4427d8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s1dtqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-14 00:00:00.000000",
+    "disclosedDate": "2025-02-03 21:04:30.629145"
+  }
+}

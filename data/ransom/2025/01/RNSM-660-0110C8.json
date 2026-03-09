@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-0110C8",
+  "type": "ransomware-incident",
+  "title": "lianbeng.sg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lianbeng.sg",
+    "domain": "lianbeng.sg",
+    "country": "SG",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Lian Beng Group Ltd, based in Singapore, is a leading construction and civil engineering company. Established in 1973, it specializes in integrated construction services, including building construction, civil engineering, and property development. The company also operates in construction-related fields like equipment rental, concrete supply, and engineering services, making it a key player in Singapore's infrastructure development.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/75887b154315f08f5f0de14a6d06f84c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bglhbmjlbmcuc2dacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-01 06:31:22.000000",
+    "disclosedDate": "2025-01-01 13:43:53.181133"
+  }
+}

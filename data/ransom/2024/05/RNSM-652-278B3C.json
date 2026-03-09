@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-278B3C",
+  "type": "ransomware-incident",
+  "title": "Natsume Tax Accountant Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Natsume Tax Accountant Corporation",
+    "domain": "natsumeoffice.or.jp",
+    "country": "JP",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We work diligently, reliably and sensitively as your trusted partner, paying special attention to tax returns and tax advice.Partnership with everyone is the basis of our daily workThis is a tax accounting department located in Shinagawa.https://www.natsumeoffice.or.jp/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f878ec57ad0b2d24b6ac8cabf32ee59c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf0c3vtzsbuyxggqwnjb3vudgfudcbdb3jwb3jhdglvbka4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-27 00:00:00.000000",
+    "disclosedDate": "2024-05-27 11:29:51.425545"
+  }
+}

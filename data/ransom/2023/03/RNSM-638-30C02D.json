@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-30C02D",
+  "type": "ransomware-incident",
+  "title": "MULTIPLAN.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MULTIPLAN.COM",
+    "domain": "multiplan.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c8aed1516aa99f2d7967e8539007ce4d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tvvmvelqtefolknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-30 19:12:13.887172",
+    "disclosedDate": "2023-03-30 19:12:13.887191"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-02E39A",
+  "type": "ransomware-incident",
+  "title": "Riverdell Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Riverdell Construction",
+    "domain": "riverdellconstruction.com",
+    "country": "",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Commercial & Residential ConstructionOregon, United States<25 EmployeesRiverdell Construction is a premier custom home builder based in Southern Oregon, specializing in luxury custom homes and high-end residential properties across Medford, Jacksonville, Ashland, and Applegate.Revenue <$5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4c36a2242a542004e64480776424c3df.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uml2zxjkzwxsienvbnn0cnvjdglvbkbibgfja2xvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-02 17:00:53.000000",
+    "disclosedDate": "2025-06-02 19:11:44.302070"
+  }
+}

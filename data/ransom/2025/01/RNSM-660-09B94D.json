@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-660-09B94D",
+  "type": "ransomware-incident",
+  "title": "hapsch.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hapsch.de",
+    "domain": "hapsch.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The clinic of a Schulstrasse family doctor who apparently doesn't care about his patients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfwc2nolmrlqhrocmvlyw0=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 00:00:00.000000",
+    "disclosedDate": "2025-01-09 13:02:18.818828"
+  }
+}

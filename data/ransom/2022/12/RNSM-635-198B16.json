@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-635-198B16",
+  "type": "ransomware-incident",
+  "title": "mercuryit.co.nz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mercuryit.co.nz",
+    "country": "NZ",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 500000000000000,
+    "description": "IT is a company that provides services in its field to many companies in New Zealand and Australia. Unfortunately, this company could not protect itself and its customers. As a result of our attack, more than 500 TB of customer data was encrypted...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwvyy3vyewl0lmnvlm56qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-19 12:13:54.026259",
+    "disclosedDate": "2022-12-19 12:13:54.026259"
+  }
+}

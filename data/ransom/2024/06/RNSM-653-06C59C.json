@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-06C59C",
+  "type": "ransomware-incident",
+  "title": "Market Pioneer International Corp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Market Pioneer International Corp",
+    "domain": "marketpioneer.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 42200000000,
+    "description": "Market Pioneer International Corp. was established in 1988  is  international freight forwarders in global logistics marketplace, сarrying out the processing and coordination of logistics of international cargoes.Market Pioneer International corporate office is located in 17915 149th Rd, Jamaica, New York, 11434, United States and has 64 employees. The total amount of data leakage is 42.2 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfya2v0ifbpb25lzxigsw50zxjuyxrpb25hbcbdb3jwqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-04 14:25:43.12345",
+    "disclosedDate": "2024-06-06 07:41:42.646364"
+  }
+}

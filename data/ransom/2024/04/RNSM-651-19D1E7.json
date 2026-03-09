@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19D1E7",
+  "type": "ransomware-incident",
+  "title": "younghomes.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "younghomes.com",
+    "domain": "younghomes.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Young Homes is a builder you can trust because its goal has never changed, wavered, or varied. This goal has been, and always will be, home buyer satisfaction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7c08460c38ee1165905637da272e8083.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ew91bmdob21lcy5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-29 17:54:00.000000",
+    "disclosedDate": "2024-04-19 09:53:02.373926"
+  }
+}

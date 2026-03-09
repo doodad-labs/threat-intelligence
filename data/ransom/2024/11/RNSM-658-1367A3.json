@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-1367A3",
+  "type": "ransomware-incident",
+  "title": "Hellmich ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hellmich",
+    "domain": "hellmich.com",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hellmich systems for flue gas cleaning and dedusting ensure clean air in industrial production around the globe - for the ceramics industry and other sectors. Hellmich GmbH has been supplying innovative, professional, state-of-the-art dedusting and flue gas cleaning systems worldwide for over 50 years - all made in Germany.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7fc1888d3af45ef4d34d97a3a78e04c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvsbg1py2hacmfuc29tag91c2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-10 00:00:00.000000",
+    "disclosedDate": "2024-11-13 16:52:17.547836"
+  }
+}

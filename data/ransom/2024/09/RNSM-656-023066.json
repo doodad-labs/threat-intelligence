@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-023066",
+  "type": "ransomware-incident",
+  "title": "Shomof Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Shomof Group",
+    "domain": "shomofgroup.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 130000000000,
+    "description": "Shomof Group is the developer to utilize the City’s Adaptive Reuse Ordinance, engaged in reconstruction of office buildings in the center of Los Angeles. Shomof Group real estate portfolio also applies to Los Angeles, Long Beach, Orange County, the San Fernando Valley, and Las Vegas with low-income housing specialization. Shomof Group corporate office is located in 9708 Gilespie St, Las Vegas, Nevada, 89183, United States and has 12 employees. The total amount of data leakage is 130.00 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2hvbw9miedyb3vwqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-02 10:15:46.000000",
+    "disclosedDate": "2024-09-02 14:23:22.445872"
+  }
+}

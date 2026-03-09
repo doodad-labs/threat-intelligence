@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-648-171D51",
+  "type": "ransomware-incident",
+  "title": "DENHAM the Jeanmaker ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DENHAM the Jeanmaker",
+    "domain": "denhamthejeanmaker.com",
+    "country": "NL",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "The company manufactures and sells men and womens, outerwear, tops, bottoms and accessories. In the 100Gb data archive we are going to upload you will find HR files with personal documents, client information, some confidential files, finance and accounting information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/revosefnihrozsbkzwfubwfrzxjaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-17 16:21:02.941593",
+    "disclosedDate": "2024-01-17 16:21:02.998740"
+  }
+}

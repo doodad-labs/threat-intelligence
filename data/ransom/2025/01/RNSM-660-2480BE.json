@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-660-2480BE",
+  "type": "ransomware-incident",
+  "title": "www.lnrbda.gov.ng ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.lnrbda.gov.ng",
+    "domain": "lnrbda.gov.ng",
+    "country": "NG",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "gdlockersec",
+    "name": "GDLockerSec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000,
+    "description": "5MB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ec8d13fe34e7d2312e75cbb6b8df966e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmxucmjkys5nb3yubmdar0rmb2nrzxjtzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 16:42:39.484480",
+    "disclosedDate": "2025-01-24 16:43:45.129184"
+  }
+}

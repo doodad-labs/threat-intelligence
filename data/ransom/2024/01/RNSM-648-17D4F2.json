@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-17D4F2",
+  "type": "ransomware-incident",
+  "title": "Nexus Telecom Switzerland AG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nexus Telecom Switzerland AG",
+    "domain": "nexustelecom.com",
+    "country": "CH",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Nexus Telecom provides telecom management systems including network monitoring, VoIP & VoLTE / IMS service assurance and customer experience information.nexustelecom.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/92ab4e54c75993436fb548c9e2b65182.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv4dxmgvgvszwnvbsbtd2l0emvybgfuzcbbr0a4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-16 00:00:00.000000",
+    "disclosedDate": "2024-01-17 05:42:07.814019"
+  }
+}

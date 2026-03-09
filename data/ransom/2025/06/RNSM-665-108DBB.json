@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-108DBB",
+  "type": "ransomware-incident",
+  "title": "palawancoop hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "palawancoop hospital",
+    "domain": "palawancoophospital.com",
+    "country": "PH",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 22.06.2025  The MMG-PPC Cooperative Hospital now known as Palawan Medical Mission Group Multipurpose Cooperative (PMMGMPC) is owned and managed by its members whose aim is to provide             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/26fe59da74c8f61d5775aff41b7f8b72.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgfsyxdhbmnvb3agag9zcgl0ywxacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-10 00:00:00.000000",
+    "disclosedDate": "2025-06-10 14:45:15.058552"
+  }
+}

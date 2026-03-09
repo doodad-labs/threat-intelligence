@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-1724E6",
+  "type": "ransomware-incident",
+  "title": "armourhome.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "armourhome.co.uk",
+    "domain": "armourhome.co.uk",
+    "country": "GB",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Armour Home is a UK-based designer, manufacturer and distributor of hi-fi, home-cinema and multi-room audio furniture and electronic solutions. The …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0a61bba115d790ca7e182481c49e9e41.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxjtb3vyag9tzs5jby51a0bzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-21 00:00:00.000000",
+    "disclosedDate": "2025-09-17 20:11:04.188621"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-2868E3",
+  "type": "ransomware-incident",
+  "title": "VIRTUALWEB.US ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VIRTUALWEB.US",
+    "domain": "virtualweb.us",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5de57379692e6ed496e075e460d195c1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vklsvfvbtfdfqi5vu0bccmfpbknpcghlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-28 21:05:13.228763",
+    "disclosedDate": "2025-07-28 21:05:44.322380"
+  }
+}

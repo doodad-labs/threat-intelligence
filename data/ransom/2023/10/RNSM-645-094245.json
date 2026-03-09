@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-094245",
+  "type": "ransomware-incident",
+  "title": "atlantatech.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "atlantatech.edu",
+    "domain": "atlantatech.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Atlanta Technical College is a public technical college in Atlanta, Georgia. It is part of the Technical College System of Georgia and provides education services for Fulton and Clayton counties.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b4247e9857465917c1f226dd04a844e5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxrsyw50yxrly2guzwr1qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-09 16:58:00.000000",
+    "disclosedDate": "2023-10-09 17:39:24.514862"
+  }
+}

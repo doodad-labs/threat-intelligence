@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-13594A",
+  "type": "ransomware-incident",
+  "title": "zapopan.gob.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "zapopan.gob.mx",
+    "domain": "zapopan.gob.mx",
+    "country": "MX",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Zapopan.gob.mx\" is the official website of the Municipality of Zapopan, a city located in the state of Jalisco, Mexico. It provides information about the local government's services, events, initiatives, and policies. It also allows citizens to pay for their municipal services online, request assistance, and stay updated with local news. The platform is a significant bridge between the Zapopan government and its citizens.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6d21542c6db973cd97df151f3d22d3ca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/emfwb3bhbi5nb2iubxhaznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-13 12:27:08.483535",
+    "disclosedDate": "2025-01-13 12:27:08.483535"
+  }
+}

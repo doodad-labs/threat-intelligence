@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-298EB1",
+  "type": "ransomware-incident",
+  "title": "psenergy.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "psenergy.com",
+    "domain": "psenergy.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1985, PS Energy Group, Inc. is a privately-owned, Atlanta-based corporation and one of the nation’s top diversity and woman-owned businesses.  We are an energy expert and a premier partner to Fortune 500 companies and governments — strateg...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b006b609a08f355b3e3ccce1a64f21c5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chnlbmvyz3kuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-29 13:57:00.000000",
+    "disclosedDate": "2023-03-29 15:43:30.343794"
+  }
+}

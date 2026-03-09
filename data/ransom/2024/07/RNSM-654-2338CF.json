@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-2338CF",
+  "type": "ransomware-incident",
+  "title": "eurovilla.hr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "eurovilla.hr",
+    "domain": "eurovilla.hr",
+    "country": "HR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Eurovilla real estate agency founded in 2002. has become one of the leading agencies in the Croatia, with an emphasis on exclusive properties in Zagreb and the coastal zone. It deals with the sale and rental of residential and business facilities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/96893ef7741fbe59af48d189c74139c8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxvyb3zpbgxhlmhyqgrhcmt2yxvsda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-23 00:00:00.000000",
+    "disclosedDate": "2024-07-23 15:07:19.922104"
+  }
+}

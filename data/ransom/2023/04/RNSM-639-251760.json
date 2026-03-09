@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-639-251760",
+  "type": "ransomware-incident",
+  "title": "Bilstein GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bilstein GmbH",
+    "domain": "bilstein.com",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Family-run and independent specialist for automotive replacement parts based in Germany.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmlsc3rlaw4gr21isebiawfubglhbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-25 11:50:27.931044",
+    "disclosedDate": "2023-04-25 11:50:27.931062"
+  }
+}

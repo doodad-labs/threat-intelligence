@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-14C223",
+  "type": "ransomware-incident",
+  "title": "Pre-Con Builders ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pre-Con Builders",
+    "domain": "preconbuilders.com",
+    "country": "CA",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c87c808984c68f68944c1a11eafc6db8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjllunvbibcdwlszgvyc0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-14 17:18:35.346408",
+    "disclosedDate": "2026-01-14 17:18:53.020142"
+  }
+}

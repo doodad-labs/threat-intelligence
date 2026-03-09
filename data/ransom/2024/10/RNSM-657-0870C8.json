@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-0870C8",
+  "type": "ransomware-incident",
+  "title": "htetech.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "htetech.com",
+    "domain": "htetech.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HTE Technologies is a company specializing in industrial automation solutions, providing products and services that enhance manufacturing efficiency and productivity. They offer a range of equipment, including robotics, pneumatics, and motion control systems, along with maintenance and repair services. Their focus is on optimizing processes for industries like automotive, packaging, and food and beverage.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahrldgvjac5jb21arwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-27 00:00:00.000000",
+    "disclosedDate": "2024-10-08 06:43:25.353486"
+  }
+}

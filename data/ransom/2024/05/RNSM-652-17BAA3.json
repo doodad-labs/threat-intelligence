@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-17BAA3",
+  "type": "ransomware-incident",
+  "title": "aharvey.nf.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aharvey.nf.ca",
+    "domain": "aharvey.nf.ca",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A. Harvey and Co Ltd. is a leading supplier of logistic support services to the Canadian east coast offshore oil and gas and marine industries. The A. Harvey Marine Base is situated on the harbour front in St. John's Newfoundland, and is the closest service point to the Grand Banks, Hibernia, White Rose, and Terra Nova oil fields",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywhhcnzles5uzi5jyubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-08 14:01:22.774000",
+    "disclosedDate": "2024-05-17 08:35:06.909493"
+  }
+}

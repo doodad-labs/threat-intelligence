@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-306068",
+  "type": "ransomware-incident",
+  "title": "theus-industries.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "theus-industries.fr",
+    "domain": "theus-industries.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "THEUS INDUSTRIES, est le prolongement d’un atelier de chaudronnerie créé en 1892. Elle est l’héritière de plus de cent années d’expérience dans le travail de l’acier. Tous les produits FOCUS CREATION sont fabriqués ici, à Cavaillon, au cœur du parc n...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6ac39418ad797f998ef6f32a151e52f3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghldxmtaw5kdxn0cmllcy5mckbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-30 14:21:00.000000",
+    "disclosedDate": "2023-03-30 15:07:22.308428"
+  }
+}

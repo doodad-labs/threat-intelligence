@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-03DEDF",
+  "type": "ransomware-incident",
+  "title": "ISOR ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ISOR",
+    "domain": "isor.fr",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1600000000000,
+    "description": "Status: 29d 22h 21m 59s - Size Data: 1600 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c866893d56840eb733e3a4b8ed4b5c60.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/svnpukbjawnhzgezmzax",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-03 00:00:00.000000",
+    "disclosedDate": "2025-01-03 15:46:36.472356"
+  }
+}

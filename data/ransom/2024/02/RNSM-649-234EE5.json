@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-234EE5",
+  "type": "ransomware-incident",
+  "title": "remkes.nl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "remkes.nl",
+    "domain": "remkes.nl",
+    "country": "NL",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1: https://***************.onion/REMKESBV/PROOFMirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/REMKESBV/PROOF",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d808bb77ba2eebea1d005e4ad91f36a4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmvta2vzlm5sqgnhy3r1cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-29 00:00:00.000000",
+    "disclosedDate": "2024-02-23 19:24:22.912687"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-666-30BE10",
+  "type": "ransomware-incident",
+  "title": "Bitbox ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bitbox",
+    "country": "CH",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Bitbox is a technology company that specializes in creating video games. It was founded in 2010 and is headquartered in Russia. The company is mainly known for developing and maintaining the medieval-themed massively multiplayer online game, \"Life is Feudal\". BitBox is committed to creating detailed, immersive worlds, focusing on real effects and player collaboration. They typically favor sandbox-style games where players have control over their own experiences.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5caad377d4d7e13f5f0983ee40fdcb96.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qml0ym94qgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-26 00:00:00.000000",
+    "disclosedDate": "2025-07-30 14:47:48.416511"
+  }
+}

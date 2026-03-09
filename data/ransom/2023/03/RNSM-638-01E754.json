@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-01E754",
+  "type": "ransomware-incident",
+  "title": "Ring LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ring LLC",
+    "domain": "ring.com",
+    "country": "US",
+    "sector": "Information Technology"
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ring LLC is a manufacturer of home security and smart home devices owned by Amazon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/434d86239c7f28cdca1a9a48e9ec7caf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umluzybmtenaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-01 00:00:00.000000",
+    "disclosedDate": "2023-03-01 00:00:00.000000"
+  }
+}

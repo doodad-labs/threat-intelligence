@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-662-2452E1",
+  "type": "ransomware-incident",
+  "title": "iTEK Services, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "iTEK Services, Inc.",
+    "domain": "itekservices.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "frag",
+    "name": "frag",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "IT Services and IT ConsultingRetail is a core competency; however iTEK have subject matter knowledge, solutions and services for a number of other industries – QSR (Quick Serve Restaurants), Distribution Centers / Supply Chain, Transportation, Manufacturing and Entertainment.Our team was successful in extracting the following documents:Human Resources documentsPartnership agreements, licenses and contractsFinancial statements of the companyContact information of clients and employeesThe icing on the cake:Employee and clients social security numbers",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/avrfsybtzxj2awnlcywgsw5jlkbmcmfn",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-01 00:00:00.000000",
+    "disclosedDate": "2025-03-24 19:23:56.753771"
+  }
+}

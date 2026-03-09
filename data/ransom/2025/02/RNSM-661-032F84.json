@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-032F84",
+  "type": "ransomware-incident",
+  "title": "smithmidland.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "smithmidland.com",
+    "domain": "smithmidland.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Smith-Midland Corporation is a pioneer in the manufacturing of precast concrete products. Based in Virginia, it's known for its innovative, high-quality products that span diverse industry sectors including building systems, highways, utilities and farming. Also, the company has developed several patented products. They consistently work on design advancements to satisfy their customers' unique requirements.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/96c98e75d5d601909b00d7447cf86986.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c21pdghtawrsyw5klmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-03 14:44:53.333319",
+    "disclosedDate": "2025-02-03 14:46:16.806666"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-655-1734B3",
+  "type": "ransomware-incident",
+  "title": "www.martinswood.herts.sch.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.martinswood.herts.sch.uk",
+    "country": "GB",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Martins Wood Primary School is an educational institution located in Hertfordshire, UK. It provides comprehensive primary education for children, focusing on a nurturing and inclusive learning environment. The school emphasizes academic excellence, personal growth, and community engagement, offering a range of extracurricular activities to support holistic development.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dae6bb2fca1d4c849e721eb36bd10725.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1hcnrpbnn3b29klmhlcnrzlnnjac51a0byyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-17 17:35:04.000000",
+    "disclosedDate": "2024-08-17 19:17:53.264433"
+  }
+}

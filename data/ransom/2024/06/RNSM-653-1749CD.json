@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-1749CD",
+  "type": "ransomware-incident",
+  "title": "Virum Apotek ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Virum Apotek",
+    "domain": "apoteket-online.dk",
+    "country": "DK",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Apoteket tilbyder en lang række sundhedsydelser til for eksempel borgere, hjemmeplejen, plejehjem og bosteder. Med udgangspunkt i den lægemiddelfaglige viden tilbyder apotekets personale blandt andet undervisning, medicingennemgang og kvalitetssikring af medicinhåndtering.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2b8c71779ca32d2f808228f57a980421.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmlydw0gqxbvdgvrqhjhbnnvbwhvdxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-01 00:00:00.000000",
+    "disclosedDate": "2024-06-17 14:48:40.597991"
+  }
+}

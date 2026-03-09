@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-654-109F35",
+  "type": "ransomware-incident",
+  "title": "Beowulfchain ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Beowulfchain",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "vanirgroup",
+    "name": "vanirgroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Beowulfchain is the decentralized communication and data network enabling businesses to communicate without barriers. They were exfiltrated and locked by Vanir on the 7th of July 2024",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvvd3vszmnoywluqhzhbmlyz3jvdxa=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-10 13:54:51.968891",
+    "disclosedDate": "2024-07-10 13:54:52.476485"
+  }
+}

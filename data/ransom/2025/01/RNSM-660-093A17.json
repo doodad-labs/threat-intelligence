@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-093A17",
+  "type": "ransomware-incident",
+  "title": "carc.gov.jo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "carc.gov.jo",
+    "domain": "carc.gov.jo",
+    "country": "JO",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Carc.gov.jo is the website for the Civil Aviation Regulatory Commission (CARC) of Jordan. CARC is responsible for regulating civil aviation activities, ensuring safety, and improving services in the aviation sector within Jordan. The organization works to develop and implement effective regulatory frameworks, manage air navigation and airport standards, and enforce aviation safety and security regulations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7a1ffd0ec7c1c9e431d8c235657d4df5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fyyy5nb3yuam9aznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-09 00:58:48.021903",
+    "disclosedDate": "2025-01-09 00:58:48.021903"
+  }
+}

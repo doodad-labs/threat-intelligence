@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-121A33",
+  "type": "ransomware-incident",
+  "title": "fidcornelis.be ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fidcornelis.be",
+    "domain": "fidcornelis.be",
+    "country": "BE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fiduciaire Cornelis & Budts Informatie Bisschoppenhoflaan 384 bus 3, 2100 Antwerpen",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/38a749b1d7dc9851680140f30748990b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmlky29ybmvsaxmuymvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 08:30:00.000000",
+    "disclosedDate": "2024-02-12 10:29:57.123534"
+  }
+}

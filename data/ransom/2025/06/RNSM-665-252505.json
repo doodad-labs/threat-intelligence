@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-252505",
+  "type": "ransomware-incident",
+  "title": "gudeco.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gudeco.de",
+    "domain": "gudeco.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Gudeco Elektronik has been a contractual partner of leading manufacturers in the electronics industry for more than 40 years – well known as a specialist and distributor for electronic components / passive and electromechanical components,             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b5f3a57d755ac6b1449f66cdf4c58311.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3vkzwnvlmrlqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-13 00:00:00.000000",
+    "disclosedDate": "2025-06-25 14:44:00.250185"
+  }
+}

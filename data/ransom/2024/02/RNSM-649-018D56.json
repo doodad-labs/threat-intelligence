@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-018D56",
+  "type": "ransomware-incident",
+  "title": "manchesterfertility.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "manchesterfertility.com",
+    "domain": "manchesterfertility.com",
+    "country": "GB",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Manchester Fertility is a long-established, trusted fertility clinic with true heritage - in the early days of IVF we were instrumental in its widespread development. Our founder Professor Brian Lieberman launched the UK's first, fully-funded NHS IVF...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2c541a0d8dd4c09299bb3c544237fd22.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfuy2hlc3rlcmzlcnrpbgl0es5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-01 18:52:00.000000",
+    "disclosedDate": "2024-02-01 21:05:54.727345"
+  }
+}

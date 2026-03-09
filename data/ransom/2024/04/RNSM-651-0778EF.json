@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-0778EF",
+  "type": "ransomware-incident",
+  "title": "PalauGov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PalauGov",
+    "domain": "palaugov.pw",
+    "country": "PW",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have read the article that was published here (https://*.media/palau-attack-who-was-behind-china-us) and would like to point out that our motivation is financial and we have nothing to do with political issues. Representatives of this state came to us, but for some reason they did not clarify the information about the leak. In three days, all the data from Palau will be available on our blog. You can find a lot of interesting information there. Thank you for your attention. Remember, this is just the beginning.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfsyxvhb3zazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.mvariety.com/news/regional_world/palau-scrambles-after-cyberattack-cripples-financial-systems/article_72cf17da-efe1-11ee-9529-ebb09296e67b.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-07 20:20:34.418817",
+    "disclosedDate": "2024-04-07 22:29:16.960380"
+  }
+}

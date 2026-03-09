@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-643-2909F7",
+  "type": "ransomware-incident",
+  "title": "Green Diamond Resource ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Green Diamond Resource",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "Green Diamond is a fifth-generation, family-owned forest productscompany that owns and manages working forests in nine states throughout the western and southern U.S. Working the forest for so long seems to have taken away the management of this company of their ability to communicate with people. They didn't utter a word for about two weeks after the hack.We found some interesting data on their network and are posting over 30GB of their business information, including personal information, here.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jlzw4grglhbw9uzcbszxnvdxjjzubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-10 16:04:32.538827",
+    "disclosedDate": "2023-08-29 16:04:32.649107"
+  }
+}

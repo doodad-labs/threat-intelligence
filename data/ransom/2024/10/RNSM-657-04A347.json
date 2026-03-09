@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-04A347",
+  "type": "ransomware-incident",
+  "title": "Dreyfuss + Blackford Architecture ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dreyfuss + Blackford Architecture",
+    "domain": "dreyfussblackford.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ed70193d7a82a4f5e6e9c12e19c755ed.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhjlewz1c3mgkybcbgfja2zvcmqgqxjjagl0zwn0dxjlqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-04 11:23:33.000000",
+    "disclosedDate": "2024-10-04 12:14:10.529245"
+  }
+}

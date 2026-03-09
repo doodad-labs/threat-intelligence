@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-274D4F",
+  "type": "ransomware-incident",
+  "title": "VSSLOGISTICS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VSSLOGISTICS.COM",
+    "domain": "vsslogistics.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] VSS Logistics is a customer-centric business that specializes in providing logistic and supply chain solutions. They cater to both government and commercial clientele, offering services ranging from automotive parts distribution, supply chain management, fleet maintenance, warehousing and storage, and global parts sourcing. Their focus is on providing innovative, reliable and cost-effective services to meet clients' needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vlntte9hsvnusuntlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:46:56.167737",
+    "disclosedDate": "2025-02-27 17:47:01.050132"
+  }
+}

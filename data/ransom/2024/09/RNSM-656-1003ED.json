@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-1003ED",
+  "type": "ransomware-incident",
+  "title": "HDI ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HDI",
+    "domain": "hdimining.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HDI is a diversified, global mining group with more than 25 years of mineral development success.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0522f2d98d7023959c8de232bb8743d9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/serjqgjpyw5sawfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-10 13:58:22.977974",
+    "disclosedDate": "2024-09-10 13:58:23.992671"
+  }
+}

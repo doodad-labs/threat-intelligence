@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-642-06BD6E",
+  "type": "ransomware-incident",
+  "title": "ASIC Soluciones ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ASIC Soluciones",
+    "domain": "asicamericas.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ASIC is an IT solutions company that provides data, analytics and artificial intelligence services.  The data dump is provided below for your review.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvnjqybtb2x1y2lvbmvzqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-06 11:01:30.590248",
+    "disclosedDate": "2023-07-06 11:01:30.590270"
+  }
+}

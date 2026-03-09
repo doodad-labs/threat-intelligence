@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-117387",
+  "type": "ransomware-incident",
+  "title": "SINTTEL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SINTTEL",
+    "domain": "sinttelmg.org.br",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The SINTTEL trade union was worked out by us, as it has a percentage of unions that still remains above the average in Brazil, taking into account several professional categories. Proof of your authority among the workers. After all, they are the ones who produce SINTTEL and keep its history.https://sinttelmg.org.br/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/db3d3ab5711fcfd9239697d56d5a3bfd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0lovfrftea4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-10 00:00:00.000000",
+    "disclosedDate": "2023-06-11 11:03:56.812944"
+  }
+}

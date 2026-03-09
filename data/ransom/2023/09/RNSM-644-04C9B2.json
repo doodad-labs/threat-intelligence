@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-644-04C9B2",
+  "type": "ransomware-incident",
+  "title": "HBME LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HBME LLC",
+    "domain": "hbme.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 25000000000,
+    "description": "HBME LLC is an accounting company that provides tax planning, consultation, business accounting and IRS audit representation services. The company has been successfully compromised and we have 25GB of service data from 2...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3f1f46886ff185e5acf881937deaf1c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sejnrsbmtenabm9lc2nhcgu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-28 00:00:00.000000",
+    "disclosedDate": "2023-09-04 19:07:31.207986"
+  }
+}

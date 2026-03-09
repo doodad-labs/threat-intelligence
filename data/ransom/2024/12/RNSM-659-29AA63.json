@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-659-29AA63",
+  "type": "ransomware-incident",
+  "title": "spiro.k12.ok.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "spiro.k12.ok.us",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3bpcm8uazeylm9rlnvzqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-29 23:55:04.752968",
+    "disclosedDate": "2024-12-29 23:55:05.533476"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-668-308C22",
+  "type": "ransomware-incident",
+  "title": "Von Paris Moving ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Von Paris Moving",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Von Paris Moving is a moving company that provides services in the moving and storage industry.We are going to upload corporate data. Employee detailed information (name, address, DOB, phones and so on), financials, clients documents, contracts and agreements, projects, and of other files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vm9uifbhcmlzie1vdmluz0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-29 00:00:00.000000",
+    "disclosedDate": "2025-09-30 11:45:21.448214"
+  }
+}

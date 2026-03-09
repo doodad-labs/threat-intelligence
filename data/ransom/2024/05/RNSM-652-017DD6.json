@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-017DD6",
+  "type": "ransomware-incident",
+  "title": "PINNACLEENGR.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PINNACLEENGR.COM",
+    "domain": "pinnacleengr.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pinnacle Engineering - Your Partner in Offshore Success",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uelotkfdtevftkdslknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-01 10:27:20.980412",
+    "disclosedDate": "2024-05-01 10:27:20.980431"
+  }
+}

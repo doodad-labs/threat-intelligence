@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-666-255CEE",
+  "type": "ransomware-incident",
+  "title": "jorgefernandez.es ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jorgefernandez.es",
+    "domain": "jorgefernandez.es",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Jorgefernandez.es\" is a Spain-based company engaged in the distribution of home improvement materials and tools. Their vast catalog includes supplies for plumbing, heating, electrical, lumber, and tools. They cater to individual consumers and also supply to professional building and construction businesses. In addition to product sales, they provide customer service and support.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7fdc4a09c9b0b3450cc4f22a218026d1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/am9yz2vmzxjuyw5kzxouzxnaqnjhaw5daxbozxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-25 19:47:26.130961",
+    "disclosedDate": "2025-07-25 19:48:15.338441"
+  }
+}

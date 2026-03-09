@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-648-16233B",
+  "type": "ransomware-incident",
+  "title": "Donear Industries ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Donear Industries",
+    "domain": "donear.com",
+    "country": "IN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Donear Industries Limited manufactures Cotton Fabrics and Polyester Viscose Fabrics.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rg9uzwfyieluzhvzdhjpzxnaymlhbmxpyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-16 07:19:25.435233",
+    "disclosedDate": "2024-01-16 07:19:25.435253"
+  }
+}

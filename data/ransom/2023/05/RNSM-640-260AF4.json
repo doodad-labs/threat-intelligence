@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-640-260AF4",
+  "type": "ransomware-incident",
+  "title": "Volt ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Volt",
+    "domain": "volt.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 249000000000,
+    "description": "Volt Information Sciences, Inc. provides staffing and information technology (IT) infrastructure services in the United States and internationally.Total downloaded data  -  249gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ca1cd67be96bd24bed92d096e20e293.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vm9sdebyb3lhba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-26 01:02:03.456789",
+    "disclosedDate": "2023-05-26 13:01:02.666645"
+  }
+}

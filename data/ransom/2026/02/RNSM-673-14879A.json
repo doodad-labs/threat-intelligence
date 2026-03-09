@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-14879A",
+  "type": "ransomware-incident",
+  "title": "RBDCONSTRUCTION.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RBDCONSTRUCTION.COM",
+    "domain": "rbdconstruction.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] RBD Construction is a company focused on providing a wide range of construction services. These include but are not limited to residential construction, commercial development, and various renovation projects. Additional services comprise of project management, planning, and consulting. A team of dedicated professionals ensures delivery of high quality work, adhering to customer specifications and industry safety standards.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4acb234a9476b28ca23e953d7ab05637.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukjeq09ou1rsvunusu9olknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-14 10:45:31.246480",
+    "disclosedDate": "2026-02-14 10:45:44.483880"
+  }
+}

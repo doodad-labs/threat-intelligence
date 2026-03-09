@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-665-06A025",
+  "type": "ransomware-incident",
+  "title": "Optima Tax Relief ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Optima Tax Relief",
+    "domain": "optimataxrelief.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Operating in the state of California, Optima Tax Relief LLC provides consulting services. The company also offers tax liability investigation and resolution, tax preparation and compliance, settlement and negotiation services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/de5bad7da58b9acebf05f627a09515f5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3b0aw1hifrhecbszwxpzwzay2hhb3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6861f67f-29cd-41fe-a612-bfc03b222a37.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-06 17:06:11.489994",
+    "disclosedDate": "2025-06-06 17:07:16.419026"
+  }
+}

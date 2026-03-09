@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-043C57",
+  "type": "ransomware-incident",
+  "title": "Groupe Devimco ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Groupe Devimco",
+    "domain": "devimco.com",
+    "country": "CA",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "metaencryptor",
+    "name": "metaencryptor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "As a leader in real estate development in Quebec, Groupe Devimco has been designing and creating unique and mixed-use living environments for 30 years.Revenue 2024 : $ 44 M",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/917e4fea6d63a264bba7d7154f68dd97.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jvdxblierldmlty29abwv0ywvuy3j5chrvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-04 22:15:49.391719",
+    "disclosedDate": "2025-06-04 22:17:01.818422"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-652-18F21D",
+  "type": "ransomware-incident",
+  "title": "unisi.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "unisi.it",
+    "domain": "unisi.it",
+    "country": "IT",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 514000000000,
+    "description": "The University of Siena (Università degli Studi di Siena, abbreviation: UNISI) in Siena, Tuscany, is one of the oldest and first publicly funded universities in Italy. 514 gigabytes of files were stolen, including: Documents with budgets (expenses b...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/14e74b48b4ef82bddb42f104cb9424a2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dw5pc2kuaxrabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://sienafree.it/157720-infrastruttura-di-rete-delluniversita-di-siena-colpita-da-attacco-hacker",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-03 00:00:00.000000",
+    "disclosedDate": "2024-05-18 18:30:00.222658"
+  }
+}

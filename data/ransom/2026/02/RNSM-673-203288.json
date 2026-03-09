@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-673-203288",
+  "type": "ransomware-incident",
+  "title": "McFarlane Agencies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "McFarlane Agencies",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "McFarlane Agencies is an independent insurance brokerage located in Okotoks, Alberta, specializing in a wide range of insurance and financial services since 1975. They offer automobile, recreational, commercial, travel, pet, farm, acreage, and property insurance, along with financial services through a partnership with Desjardins Financial Security Investments Inc.We will upload 10gb of corporate data soon. Detailed clients' personal documents (SSNs, passports, DLs, addresses, phones and so on), employee information, financials, client information, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twngyxjsyw5liefnzw5jawvzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-20 00:00:00.000000",
+    "disclosedDate": "2026-02-20 17:58:47.087539"
+  }
+}

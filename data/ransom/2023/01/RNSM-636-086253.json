@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-636-086253",
+  "type": "ransomware-incident",
+  "title": "millennia.pro ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "millennia.pro",
+    "domain": "millennia.pro",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 22440000000,
+    "description": "ENGINEERING  CONSULTING SERVICES 22.44 GB DATA",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwlsbgvubmlhlnbyb0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-08 11:22:44.132072",
+    "disclosedDate": "2023-01-08 11:22:44.132072"
+  }
+}

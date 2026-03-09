@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-198EDC",
+  "type": "ransomware-incident",
+  "title": "jonti-craft.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jonti-craft.com",
+    "domain": "jonti-craft.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "Jonti-Craft is a family-owned company that manufactures children’s furniture for a variety of settings, including classrooms, daycares, and waiting rooms.SITE: www.jonti-craft.com Address : 171 State Highway 68 PO Box 30, Wabasso MN 56293 USATEL#: (507) 342-5169ALL DATA SIZE: ≈700gb 1. Home users data 2. Financial data, Payroll 3. Personal 4. Human Resources 5. Engineering 6. Depts & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0d499e15a0733a37821180a9cce48d8d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/am9udgkty3jhznquy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-18 00:00:00.000000",
+    "disclosedDate": "2024-11-19 11:55:11.187181"
+  }
+}

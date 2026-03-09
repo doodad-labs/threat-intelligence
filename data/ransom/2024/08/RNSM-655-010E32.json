@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-655-010E32",
+  "type": "ransomware-incident",
+  "title": "Ali Gohar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ali Gohar",
+    "domain": "aligohar.com",
+    "country": "PK",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 51900000000,
+    "description": "Ali Gohar & Company (founded in 1950) - are a comprehensive and distribution company that provides services in the pharmaceutical and medical sector. Ali Gohar corporate office is located in 1-b I.i.chundrigar Rd, Karachi, Sindh, 74000, Pakistan and has 375 employees. The total amount of data leakage is 51.9 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b434b0fd88b6744a833e53f0eefed764.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxpiedvagfyqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-01 16:52:48.000000",
+    "disclosedDate": "2024-08-01 20:33:52.375772"
+  }
+}

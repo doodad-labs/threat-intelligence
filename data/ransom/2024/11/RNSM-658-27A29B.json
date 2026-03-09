@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-27A29B",
+  "type": "ransomware-incident",
+  "title": "www.polleninformation.at ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.polleninformation.at",
+    "domain": "polleninformation.at",
+    "country": "AT",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pollen situation informational site. Personal info + Pass. 22140 lines",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/86fd26623e3bf71a28c2798c48e5fa6a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnbvbgxlbmluzm9ybwf0aw9ulmf0qgfwddcz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 20:41:39.627881",
+    "disclosedDate": "2024-11-27 20:41:40.482339"
+  }
+}

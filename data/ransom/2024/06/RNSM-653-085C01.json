@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-653-085C01",
+  "type": "ransomware-incident",
+  "title": "Above All Store Fronts ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Above All Store Fronts",
+    "domain": "aboveallstorefronts.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 7000000000000,
+    "description": "We have about 1,7TB of confidential company data. Since 1993, Above All Store Fronts has provided the greater New York area with top-tier architectural glazing and cladding services. The relationships we continue developing with architects, c            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5ab431cb64016db27b147c3f93f767f1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwjvdmugqwxsifn0b3jliezyb250c0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-27 00:00:00.000000",
+    "disclosedDate": "2024-06-08 12:41:29.334002"
+  }
+}

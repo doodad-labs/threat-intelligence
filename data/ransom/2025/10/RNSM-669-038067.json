@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-038067",
+  "type": "ransomware-incident",
+  "title": "Pandora.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pandora.net",
+    "domain": "pandora.net",
+    "country": "DK",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "shinyhunters",
+    "name": "shinyhunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Pandora.net is the official website of Pandora A/S, a company based in Denmark. It specializes in the design, manufacturing, and selling of high-quality hand-finished jewelry. Pandora's product range includes bracelets, charms, rings, earrings, and necklaces, among others. Its jewelry combines traditional crafting techniques with modern technology. They target customers seeking affordable luxury jewelry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/486df819aa4545573527b471a8ebd682.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfuzg9yys5uzxrac2hpbnlodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-30 00:00:00.000000",
+    "disclosedDate": "2025-10-03 15:53:25.570623"
+  }
+}

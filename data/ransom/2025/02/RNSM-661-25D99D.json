@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-661-25D99D",
+  "type": "ransomware-incident",
+  "title": "First Defense Fire Protection ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "First Defense Fire Protection",
+    "domain": "firstdefensefire.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Leaked blueprints for casinos, airports and hundreds of other companies.",
+    "claimed_data_types": [
+      "blueprints"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9da4ea10fbbd8be145ba0b9cc3d58123.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmlyc3qgrgvmzw5zzsbgaxjlifbyb3rly3rpb25ayw51ymlz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-25 07:44:34.691940",
+    "disclosedDate": "2025-02-25 07:45:41.231524"
+  }
+}

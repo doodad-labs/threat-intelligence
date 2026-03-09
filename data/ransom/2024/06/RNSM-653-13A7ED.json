@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-653-13A7ED",
+  "type": "ransomware-incident",
+  "title": "Diogenet S.r.l. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Diogenet S.r.l.",
+    "domain": "diogenet.it",
+    "country": "IT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 115000000000,
+    "description": "Company has the last 48 hours to contact us using the instructions left.In case of silence, all data will be published and clients notifiedTotal amount of stolen data : 115 GB https://www.diogenet.it/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d8cc42a17812b07bdeeb3fe5d7fa475a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rglvz2vuzxqguy5ylmwuqgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-13 17:43:08.786862",
+    "disclosedDate": "2024-06-13 17:43:09.534908"
+  }
+}

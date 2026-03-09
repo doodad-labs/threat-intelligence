@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-1681DE",
+  "type": "ransomware-incident",
+  "title": "Lein Law Offices ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lein Law Offices",
+    "domain": "leinlawoffices.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lein Law Offices is a personal injury law firm that provides legal advisory services. Its practice areas include wrongful death, dog bites, bankruptcy, estate planning and probate, title insurance, third-party negligence claims, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e53e9e3c8fab7586ba7f850b7e962b38.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvpbibmyxcgt2zmawnlc0biawfubglhbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-16 00:03:15.652190",
+    "disclosedDate": "2024-10-16 00:03:16.895005"
+  }
+}

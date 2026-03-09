@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-668-031251",
+  "type": "ransomware-incident",
+  "title": "The Bank of Romney ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Bank of Romney",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Bank of Romney is a locally owned and operated community bankserving Hampshire County and surrounding areas since 1888. The bank offers a range of personal and business banking services, including checking and savings accounts, various loan options, and merchant services.We are going to upload corporate data soon. You will find financial information, clients information, a bit of accounting files, employee files, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghliejhbmsgb2ygum9tbmv5qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-03 00:00:00.000000",
+    "disclosedDate": "2025-09-03 16:07:42.662218"
+  }
+}

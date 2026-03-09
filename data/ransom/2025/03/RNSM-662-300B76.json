@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-300B76",
+  "type": "ransomware-incident",
+  "title": "prestigeer.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "prestigeer.com",
+    "domain": "prestigeer.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Prestige ER is a medical care organization located in Plano, Texas. Open 24/7, this emergency room provides immediate treatment for life-threatening conditions like heart attacks and strokes, as well as less severe issues like minor fractures and cuts. Their team of professionals includes board-certified physicians and experienced staff that utilize advanced facilities for quick diagnosis and treatments. This ER is independent from any hospital system and offers little to no wait time.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjlc3rpz2vlci5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-20 00:00:00.000000",
+    "disclosedDate": "2025-03-30 02:41:33.775165"
+  }
+}

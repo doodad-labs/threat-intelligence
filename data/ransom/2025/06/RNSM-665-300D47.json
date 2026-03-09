@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-665-300D47",
+  "type": "ransomware-incident",
+  "title": "simmons-Boardman Publishing, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "simmons-Boardman Publishing, Inc",
+    "domain": "simmonsboardman.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Simmons-Boardman Publishing Corporation is one of the oldest, most well-respected, privately held B2B publishers. Our diverse portfolio of print and digital products includes magazines, books, directories, email newsletters, conferences, webs            ...",
+    "claimed_data_types": [
+      "email-addresses"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/14057847e1862a37a2d938b23ecff3ea.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2ltbw9ucy1cb2fyzg1hbibqdwjsaxnoaw5nlcbjbmnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-30 00:00:00.000000",
+    "disclosedDate": "2025-06-30 21:29:43.635035"
+  }
+}

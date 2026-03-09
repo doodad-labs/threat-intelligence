@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-29A524",
+  "type": "ransomware-incident",
+  "title": "TBM Service Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TBM Service Group",
+    "domain": "tbmservicegroup.com",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TBM Service Group is a full spectrum onsite managed services company offering a range from nightly maintenance and customer services in public tran...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/927c8e647148f4ead3b687a0827eeda9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vejnifnlcnzpy2ugr3jvdxbay29pbmjhc2vjyxj0zww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-29 18:44:27.018329",
+    "disclosedDate": "2025-10-29 18:44:39.901467"
+  }
+}

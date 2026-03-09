@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-0835FA",
+  "type": "ransomware-incident",
+  "title": "gitiusa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gitiusa.com",
+    "domain": "gitiusa.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GITI Tire USA, one of the largest tire companies in the world. Revenu of the organization $230M. All confidential information in the USA has been accessed. Information that will be published soon, more than 100 thousand files: confidential informatio...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ca7f83ac23fb25294e95b18759f43e88.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2l0axvzys5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-28 00:00:00.000000",
+    "disclosedDate": "2023-11-08 04:02:04.311449"
+  }
+}

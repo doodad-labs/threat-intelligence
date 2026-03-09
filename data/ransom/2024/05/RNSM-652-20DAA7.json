@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-20DAA7",
+  "type": "ransomware-incident",
+  "title": "Jess-link Products ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jess-link Products",
+    "domain": "jpcco.com",
+    "country": "TW",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Taiwan - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/223c09c614b64a4a660ef3b8b200ccf3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smvzcy1saw5rifbyb2r1y3rzqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-20 15:51:12.000000",
+    "disclosedDate": "2024-05-20 19:59:09.664178"
+  }
+}

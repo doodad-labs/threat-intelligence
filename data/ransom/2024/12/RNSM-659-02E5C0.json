@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-02E5C0",
+  "type": "ransomware-incident",
+  "title": "Conlin's Pharmacy (conlinspharmacy.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Conlin's Pharmacy (conlinspharmacy.com)",
+    "domain": "conlinspharmacy.com",
+    "country": "IE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "10 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b0529c8bf7a8ddc7c2bfaf7cbd2ef48a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29ubgluj3mgughhcm1hy3kgkgnvbmxpbnnwagfybwfjes5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-02 00:00:00.000000",
+    "disclosedDate": "2024-12-02 14:10:40.022579"
+  }
+}

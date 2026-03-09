@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-636-24F243",
+  "type": "ransomware-incident",
+  "title": "elsan.care ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "elsan.care",
+    "domain": "elsan.care",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 821000000000,
+    "description": "stolen: 821 GB.data: marketing, finance, information of all departments of one of the company's clinics, numbers, personal data of employees, contracts, reports, internal and external contracts with policyholders, subsidiaries, etc.Elsan is a m...",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwxzyw4uy2fyzubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-24 13:52:08.758600",
+    "disclosedDate": "2023-01-24 13:52:08.758600"
+  }
+}

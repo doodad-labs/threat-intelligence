@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27ED4F",
+  "type": "ransomware-incident",
+  "title": "SPARTANLOGISTICS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SPARTANLOGISTICS.COM",
+    "domain": "spartanlogistics.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Spartan Logistics is a third-party logistics (3PL) provider specializing in warehousing and transportation services. With over 30 years of experience, the company offers tailored logistics solutions including inventory management, packaging, cross-docking, and order fulfillment. They operate across numerous warehouses in the US, handling a wide range of goods from food products to industrial supplies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1bbulrbtkxpr0ltvelduy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:23:02.463228",
+    "disclosedDate": "2025-02-27 17:23:07.323977"
+  }
+}

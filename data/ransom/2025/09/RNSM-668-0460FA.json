@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-0460FA",
+  "type": "ransomware-incident",
+  "title": "volanno.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "volanno.com",
+    "domain": "volanno.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Volanno is a software company providing software development, data analytics, and technology implementation services. Founded in 2003, Volanno is headquartered in Washington, D.C.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/60e39bd6f3cca63e40a4fb87f94e3f37.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dm9syw5uby5jb21abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-04 13:57:00.363000",
+    "disclosedDate": "2025-09-04 14:15:49.580048"
+  }
+}

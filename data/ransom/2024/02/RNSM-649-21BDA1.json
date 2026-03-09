@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-21BDA1",
+  "type": "ransomware-incident",
+  "title": "doneff.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "doneff.com",
+    "domain": "doneff.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "From luxury apartments and exclusive active adult housing to affordable, moderate family living, Doneff Companies LLC has built and manages more than 1,056 apartment homes across central and eastern Wisconsin.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3dd07eaeeddf305e13b782a14c29032a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zg9uzwzmlmnvbub0ahjlzwft",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-21 12:44:37.055087",
+    "disclosedDate": "2024-02-21 12:44:37.055126"
+  }
+}

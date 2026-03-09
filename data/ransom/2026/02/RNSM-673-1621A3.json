@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-1621A3",
+  "type": "ransomware-incident",
+  "title": "Efficy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Efficy",
+    "domain": "efficy.com",
+    "country": "BE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Efficy is a Belgian software company specializing in creating customer relationship management (CRM) solutions. Their products assist businesses in managing, organizing and analyzing customer data. Efficy's offerings are suited to enterprises of all sizes, across multiple industries, and offer solutions such as sales cycle management, marketing automation, customer support, reporting and forecasting.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f3a89c3f0365e880fd8abc916b09b7c6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwzmawn5qgnvaw5iyxnly2fydgvs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-16 19:47:17.811462",
+    "disclosedDate": "2026-02-16 19:47:34.805720"
+  }
+}

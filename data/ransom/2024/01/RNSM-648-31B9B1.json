@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-31B9B1",
+  "type": "ransomware-incident",
+  "title": "LeClair Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LeClair Group",
+    "domain": "leclairgroup.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "6701 Upper Afton Rd, Saint Paul, Minnesota, 551... Phone Number(877) 532-5247 LeClair Group is an insurance brokerage general agency dedicated to supporting the growth and success of the independent insur",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b6eb2cf7d810c595b574f1c74b97511a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvdbgfpcibhcm91cebhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-13 00:00:00.000000",
+    "disclosedDate": "2024-01-31 18:01:27.805629"
+  }
+}

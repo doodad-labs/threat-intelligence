@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-06537E",
+  "type": "ransomware-incident",
+  "title": "qsoftnet.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "qsoftnet.com",
+    "domain": "qsoftnet.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "QSOFT's free billing program also includes a free integrated web and virtual store and the WooCommerce, PrestaShop and osCommerce connector. Try its advantages! and discover why our software is the best eCommerce solution.Qsoft is the leading busin...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e2ed273a9fcbbb4a5b37dbf7524cae7a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cxnvznruzxquy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-06 22:56:00.000000",
+    "disclosedDate": "2023-09-06 23:31:26.571998"
+  }
+}

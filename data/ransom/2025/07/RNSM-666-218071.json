@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-218071",
+  "type": "ransomware-incident",
+  "title": "Somotsoft ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Somotsoft",
+    "domain": "somotsoft.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Somotsoft is a technology company specializing in custom software development, consulting and technology services. Established in 2002, they address the IT needs of businesses across various industries. Using their own methodology known as the \"Somotsoft Way\", they provide solutions to clients by leveraging the latest technologies. They also offer IT managed services and mobile application development. Their operations are global, with offices in the USA and Vietnam.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ee8d627942267f5218d65b705d5198c4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u29tb3rzb2z0qhdvcmxkbgvha3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-02 17:34:41.000000",
+    "disclosedDate": "2025-07-21 14:10:21.348158"
+  }
+}

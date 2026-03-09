@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-28E6D3",
+  "type": "ransomware-incident",
+  "title": "nokair.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nokair.com",
+    "domain": "nokair.com",
+    "country": "TH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Nok Air is a low-cost airline in Thailand operating mostly domestic services out of Bangkok's Don Mueang International Airport. Thai Airways International owns the fourth-largest stake in the airline.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bm9rywlylmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-28 13:25:45.610672",
+    "disclosedDate": "2023-02-28 13:25:45.610688"
+  }
+}

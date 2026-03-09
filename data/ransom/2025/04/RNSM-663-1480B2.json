@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-1480B2",
+  "type": "ransomware-incident",
+  "title": "Oklahoma Steel & Wire ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Oklahoma Steel & Wire",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 129000000000,
+    "description": "Oklahoma Steel & Wire Co Inc. offers a complete line in both agricultural and industrial wire products.We are ready to upload more than 129 GB of essential corporate documents such as: corporate licenses, agreements and contracts, contact numbers and e-mail addresses of employees and customers, financial data (audits, payment details, reports), etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2tsywhvbwegu3rlzwwgjibxaxjlqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-14 00:00:00.000000",
+    "disclosedDate": "2025-04-14 11:52:50.485089"
+  }
+}

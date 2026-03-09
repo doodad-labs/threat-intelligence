@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-05D1E2",
+  "type": "ransomware-incident",
+  "title": "wildbunchdistribution.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wildbunchdistribution.com",
+    "domain": "wildbunchdistribution.com",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wild Bunch Distribution is a Paris-based media and entertainment company that connects filmmakers with audiences. Located in the heart of Paris, they work with movie producers, theaters, and streaming platforms to bring great films to people across France and beyond. Their team helps distribute movies, manage film rights, and support creative storytelling in the entertainment industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4321844550941013fe7c9068a872a6b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2lszgj1bmnozglzdhjpynv0aw9ulmnvbubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 08:34:14.775000",
+    "disclosedDate": "2026-01-05 09:31:36.535761"
+  }
+}

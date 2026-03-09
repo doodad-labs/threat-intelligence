@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-0606B9",
+  "type": "ransomware-incident",
+  "title": "Renesas Electronics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Renesas Electronics",
+    "domain": "renesas.com",
+    "country": "JP",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Renesas Electronics Corporation delivers trusted embedded design innovation with complete semiconductor solutions. Renesas provides quality and com...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/17b4ca7a000d7cc8f696208b1ebc45a4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvuzxnhcybfbgvjdhjvbmljc0bjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-06 09:15:52.818555",
+    "disclosedDate": "2025-12-06 09:16:11.345846"
+  }
+}

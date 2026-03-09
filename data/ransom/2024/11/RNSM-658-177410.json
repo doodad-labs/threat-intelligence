@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-177410",
+  "type": "ransomware-incident",
+  "title": "paaf.gov.kw ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "paaf.gov.kw",
+    "domain": "paaf.gov.kw",
+    "country": "KW",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "chort",
+    "name": "chort",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Status: Published - details:  Databases + Files of This Company",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgfhzi5nb3yua3day2hvcnq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-17 10:24:13.683626",
+    "disclosedDate": "2024-11-17 10:24:14.411287"
+  }
+}

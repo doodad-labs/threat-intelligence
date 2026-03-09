@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09086E",
+  "type": "ransomware-incident",
+  "title": "iaconnecticut.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "iaconnecticut.com",
+    "domain": "iaconnecticut.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome to the Insurance Association of Connecticut. For over 50 years, the Insurance Association of Connecticut (IAC) has been the voice of insurers doing business in Connecticut. We represent the interests of insurers both large and small, foreign...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/91e377ed793d51880ca81b583ba313be.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awfjb25uzwn0awn1dc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-26 00:00:00.000000",
+    "disclosedDate": "2024-05-09 22:37:43.753499"
+  }
+}

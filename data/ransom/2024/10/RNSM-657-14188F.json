@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-14188F",
+  "type": "ransomware-incident",
+  "title": "compra-aruba.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "compra-aruba.com",
+    "domain": "compra-aruba.com",
+    "country": "AW",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Compra-aruba.com is an online platform specializing in providing shopping and shipping services for residents of Aruba. The company facilitates purchasing from U.S. online stores by offering a U.S. shipping address, which allows customers to consolidate their orders and have them shipped to Aruba efficiently. Their services aim to simplify international shopping, making it more accessible and convenient for Arubans.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29tchjhlwfydwjhlmnvbubfbervcmfkbw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-14 16:31:01.807163",
+    "disclosedDate": "2024-10-14 16:31:04.305210"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-181E98",
+  "type": "ransomware-incident",
+  "title": "www.qal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.qal.com",
+    "domain": "qal.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Quality Assured Label offers innovative packaging solutions for pressure sensitive labels, booklet / multi-page labels, roll-fed labels, and carded packaging.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/84c53a3ef40cc1cab5c9298fef1b7378.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnfhbc5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-18 07:36:04.000000",
+    "disclosedDate": "2024-10-18 09:12:45.263820"
+  }
+}

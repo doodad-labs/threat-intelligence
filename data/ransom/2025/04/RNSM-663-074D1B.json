@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-074D1B",
+  "type": "ransomware-incident",
+  "title": "Metal Sales Manufacturing Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Metal Sales Manufacturing Corporation",
+    "domain": "metalsales.us.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "morpheus",
+    "name": "morpheus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "**Website**: metalsales.us.com**Revenue**: $270.1 MillionMetal Sales  is the largest manufacturer of metal roofing, wall, and building systems in the United States, also offering metal fabrication",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twv0ywwgu2fszxmgtwfudwzhy3r1cmluzybdb3jwb3jhdglvbkbtb3jwagv1cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-04 06:24:05.582000",
+    "disclosedDate": "2025-04-07 17:08:41.517980"
+  }
+}

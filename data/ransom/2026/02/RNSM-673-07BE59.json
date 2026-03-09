@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-07BE59",
+  "type": "ransomware-incident",
+  "title": "SchureMed ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SchureMed",
+    "domain": "schuremed.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "insomnia",
+    "name": "insomnia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SchureMed makes surgical patient-positioning equipment that improves safety, comfort, and outcomes. Their range covers orthopedic, laparoscopic, and custom OR solutions, backed by in-house R&D, manufacturing, competitive pricing, and tailored customer service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/52aaf3685cf0a3e75f8f83852a360c16.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2nodxjltwvkqgluc29tbmlh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-19 00:00:00.000000",
+    "disclosedDate": "2026-02-07 21:26:54.419494"
+  }
+}

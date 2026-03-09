@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-643-24D796",
+  "type": "ransomware-incident",
+  "title": "Ontellus ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ontellus",
+    "domain": "ontellus.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbyte",
+    "name": "blackbyte",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Established in 1975, and rebranded in 2017 Ontellus provides internet-based record retrieving and billing services. Their headquarters are located in Houston, Texas",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t250zwxsdxnaymxhy2tiexrl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-24 12:42:11.138097",
+    "disclosedDate": "2023-08-24 12:42:11.138149"
+  }
+}

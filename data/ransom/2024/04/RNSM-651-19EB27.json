@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19EB27",
+  "type": "ransomware-incident",
+  "title": "pro2col.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pro2col.com",
+    "domain": "pro2col.com",
+    "country": "GB",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "pro2col.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/935603c856c1f88c4ce2de8f71fcb2da.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjvmmnvbc5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-08-12 07:18:00.000000",
+    "disclosedDate": "2024-04-19 12:14:20.951597"
+  }
+}

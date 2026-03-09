@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-0578EE",
+  "type": "ransomware-incident",
+  "title": "canstarrestorations.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "canstarrestorations.com",
+    "domain": "canstarrestorations.com",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Canstar Restorations is a company specializing in property damage restoration services. They offer a range of services, including fire and water damage restoration, mold remediation, and reconstruction. With a focus on quick response and quality service, they cater to both residential and commercial clients. Their team of professionals is equipped to handle emergencies and restore properties efficiently.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/022290c67e213f188cb7f4d32aba120e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fuc3rhcnjlc3rvcmf0aw9ucy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-05 19:21:14.000000",
+    "disclosedDate": "2024-10-05 20:32:49.915768"
+  }
+}

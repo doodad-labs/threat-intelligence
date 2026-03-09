@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-065213",
+  "type": "ransomware-incident",
+  "title": "tdt.aero ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tdt.aero",
+    "domain": "tdt.aero",
+    "country": "",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Anasayfa - TD Team. World Class Aircraft Maintenance. TD Team aircraft line maintenance company was established in 2007. TD Team, successfully taking its place among the 100 fastest growing companies in Turkey, has the authorizations of SHT-145, OTAR...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dedeb798f2d8fc651684a5eb332bc2db.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgr0lmflcm9abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-06 11:27:00.000000",
+    "disclosedDate": "2024-05-06 13:40:17.375194"
+  }
+}

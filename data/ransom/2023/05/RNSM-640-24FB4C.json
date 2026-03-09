@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-24FB4C",
+  "type": "ransomware-incident",
+  "title": "globalinfovision.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "globalinfovision.com",
+    "domain": "globalinfovision.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome to Global InfoVision. We are a leading provider of various Information Technology solutions and data services. Since 1996, we are actively involved in Software Development Services and IT/BPO solutions including Litigation Support.We offe...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c47b65a7b51efc28c1796a9b8db380ac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2xvymfsaw5mb3zpc2lvbi5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-24 22:53:00.000000",
+    "disclosedDate": "2023-05-24 23:52:52.696836"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-058B9B",
+  "type": "ransomware-incident",
+  "title": "Reilly Foam Corp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Reilly Foam Corp",
+    "domain": "reillyfoam.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Reilly Foam Corporation manufactures fabricated foam components for several industries & applications",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/45a91d7f9fe39d155fda1f1cd4305e04.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvpbgx5iezvyw0gq29ycebzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-05 19:12:43.363000",
+    "disclosedDate": "2026-02-05 19:41:58.746999"
+  }
+}

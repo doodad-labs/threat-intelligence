@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-270812",
+  "type": "ransomware-incident",
+  "title": "isophon glas GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "isophon glas GmbH",
+    "domain": "isophonglas.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Isolierglas-Produktion auf höchstem Qualitätsniveau Welcome to isophon glas, your reliable partner from Hann. Münden in the heart of Germany. With our state-of-the-art machinery and decades of experience, we are proud to take care of your glass projects with perfect precision and highest quality.www.isophonglas.de",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f7c90945b82151a941ab8e780797ef68.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axnvcghvbibnbgfziedtykhaogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-27 00:00:00.000000",
+    "disclosedDate": "2024-03-27 08:47:47.818109"
+  }
+}

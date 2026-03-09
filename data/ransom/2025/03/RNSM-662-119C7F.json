@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-119C7F",
+  "type": "ransomware-incident",
+  "title": "All4Labels - Global Packaging Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "All4Labels - Global Packaging Group",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 192000000000,
+    "description": "All4Labels, headquartered in Hamburg, is one of the world’s top label manufacturers and the leading provider of digital printing solutions with a specialization on the home and personal care as well as food & beverage markets. We are ready to upload more than 192 GB of essential corporate documents such as: financial data (audits, payment details, reports), contact numbers and e-mail addresses of employees and customers, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxsnexhymvscyatiedsb2jhbcbqywnrywdpbmcgr3jvdxbaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-11 00:00:00.000000",
+    "disclosedDate": "2025-03-11 12:47:36.823585"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-12A139",
+  "type": "ransomware-incident",
+  "title": "prolinerrescue.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "prolinerrescue.com",
+    "domain": "prolinerrescue.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Proliner is an independently owned and operated family business. Our staff is comprised of highly experienced, knowledgeable certified technicians. We take the time to know our customers needs. When you deal with us, you're not just a number, you're...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fa438f3a29c1d356be9f686bbc857ae0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjvbgluzxjyzxnjdwuuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-12 10:11:00.000000",
+    "disclosedDate": "2023-05-12 10:51:05.685995"
+  }
+}

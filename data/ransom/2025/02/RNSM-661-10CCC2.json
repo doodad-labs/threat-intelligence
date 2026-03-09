@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10CCC2",
+  "type": "ransomware-incident",
+  "title": "cesarcastillo.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cesarcastillo.com",
+    "domain": "cesarcastillo.com",
+    "country": "PR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Cesar Castillo Inc. is a trade distribution company based in San Juan, Puerto Rico, specializing in the sales and distribution of various consumer goods. The company predominantly operates within the pharmaceutical, personal care, food, beverage, tobacco, and household goods industries. Established in 1916, the organization has built a broad spectrum of services that include sales and marketing strategies, warehousing, and supply chain management.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2vzyxjjyxn0awxsby5jb21ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:48:40.852987",
+    "disclosedDate": "2025-02-10 19:48:46.380632"
+  }
+}

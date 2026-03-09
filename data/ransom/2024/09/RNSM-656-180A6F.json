@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-180A6F",
+  "type": "ransomware-incident",
+  "title": "agricola ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "agricola",
+    "domain": "agricola.ro",
+    "country": "RO",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "For over half a century we offer our buyers and customers quality products and responsible services, with professionalism. The company refuses to pay, tomorrow we will post the data of  the company.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ff34bba54706b1191261342784d023b8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywdyawnvbgfacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-19 00:00:00.000000",
+    "disclosedDate": "2024-09-18 14:35:47.101683"
+  }
+}

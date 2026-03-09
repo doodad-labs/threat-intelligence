@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-645-19F982",
+  "type": "ransomware-incident",
+  "title": "Government of Brazil - Business Information Brazil ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Government of Brazil - Business Information Brazil",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Presidncia da Repblica is a company that operates in the Government industry. It employs 2,001-5,000 people and has $250M-$500M of revenue.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ef810ea741421470a2251dc6585c93b1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r292zxjubwvudcbvzibccmf6awwglsbcdxnpbmvzcybjbmzvcm1hdglvbibccmf6awxaymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.aliadosbrasiloficial.com.br/noticia/sistema-eletronico-de-informacoes-do-governo-sai-do-ar-suspeita-e-de-ataque-hacker",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-19 19:11:47.320548",
+    "disclosedDate": "2023-10-19 19:11:47.320570"
+  }
+}

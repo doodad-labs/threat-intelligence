@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-210748",
+  "type": "ransomware-incident",
+  "title": "Vibo.dk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vibo.dk",
+    "domain": "vibo.dk",
+    "country": "DK",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country: Denmark",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmliby5ka0bjbg9haw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-21 17:46:47.805532",
+    "disclosedDate": "2024-08-21 17:46:48.322901"
+  }
+}

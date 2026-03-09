@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-29032F",
+  "type": "ransomware-incident",
+  "title": "fimadev.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fimadev.fr",
+    "domain": "fimadev.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fimadev group of companies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/061b2f31bb38fa0647125813a3b2f5a0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmltywrldi5mckbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-29 18:29:00.000000",
+    "disclosedDate": "2023-08-29 19:05:33.043593"
+  }
+}

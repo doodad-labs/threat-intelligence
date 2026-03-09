@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-19D27C",
+  "type": "ransomware-incident",
+  "title": "tritonsourcing.co.nz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tritonsourcing.co.nz",
+    "domain": "tritonsourcing.co.nz",
+    "country": "NZ",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "ZIP-10GB - Revenue $5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhjpdg9uc291cmnpbmcuy28ubnpac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-08 00:00:00.000000",
+    "disclosedDate": "2024-11-19 22:44:34.770006"
+  }
+}

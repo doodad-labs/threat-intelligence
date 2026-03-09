@@ -1,0 +1,31 @@
+{
+  "id": "RNSM-667-1700AB",
+  "type": "ransomware-incident",
+  "title": "nszi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nszi",
+    "country": ""
+  },
+  "actor": {
+    "id": "warlock",
+    "name": "warlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The customer has not paid, and there are no other buyers within the validity period, please enjoy your data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bnn6aub3yxjsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-25 00:00:00.000000",
+    "disclosedDate": "2025-08-17 09:24:15.446238"
+  }
+}

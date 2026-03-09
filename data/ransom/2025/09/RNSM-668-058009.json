@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-668-058009",
+  "type": "ransomware-incident",
+  "title": "RelationMedia A/S ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RelationMedia A/S",
+    "country": "DK"
+  },
+  "actor": {
+    "id": "obscura",
+    "name": "obscura",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "RelationMedia A/S is the leading agency in Denmark within sales forces, merchandising, marketing, data collection, sampling, product presentation and events.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8548448ca119b41cbd2d49bfbbee8f0b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvsyxrpb25nzwrpysbbl1nab2jzy3vyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-16 00:00:00.000000",
+    "disclosedDate": "2025-09-05 17:34:43.740942"
+  }
+}

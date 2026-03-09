@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-11E8DE",
+  "type": "ransomware-incident",
+  "title": "www.regencyrestors.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.regencyrestors.com",
+    "domain": "regencyrestors.com",
+    "country": "",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Full customer reservation databases (names, phones, emails, addresses, booking dates)        Scanned ID documents (passports, national IDs)                Internal emails via OWA                 Employee and customer email lists                RDP credential files (with usernames/passwords)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/db89046eb3b303e63989016b517b5092.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnjlz2vuy3lyzxn0b3jzlmnvbubzdg9ybw91cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-11 03:37:40.289193",
+    "disclosedDate": "2025-05-11 03:38:48.104232"
+  }
+}

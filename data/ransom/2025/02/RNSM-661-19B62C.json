@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-19B62C",
+  "type": "ransomware-incident",
+  "title": "NimuSoft ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NimuSoft",
+    "domain": "nimusoft.com",
+    "country": "FI"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c816c795155854dc090dccb9baa7e718.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmltdvnvznraa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 05:55:44.536996",
+    "disclosedDate": "2025-02-19 05:57:04.741347"
+  }
+}

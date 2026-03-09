@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-07B616",
+  "type": "ransomware-incident",
+  "title": "CERALP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CERALP",
+    "domain": "ceralp.fr",
+    "country": "FR",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "For 30 years, the CRAP company, located in Beaujolais and Leon, has been carrying out regular or one-time missions throughout France.Over the years, she has acquired new partners and now has 7 accountants and auditors.ceralp.fr",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/410fb902abdd71da457008e05590bd1f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0vsquxqqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-24 00:00:00.000000",
+    "disclosedDate": "2024-02-07 02:58:08.127264"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-272920",
+  "type": "ransomware-incident",
+  "title": "Signal Health Washington (signalhealthwa.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Signal Health Washington (signalhealthwa.com)",
+    "domain": "signalhealthwa.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000,
+    "description": "1 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/543c044cc0291ef38f545e8319ab10f3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2lnbmfsiehlywx0acbxyxnoaw5ndg9uichzawduywxozwfsdgh3ys5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 00:00:00.000000",
+    "disclosedDate": "2024-11-27 14:07:50.803238"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-647-232522",
+  "type": "ransomware-incident",
+  "title": "quakerwindows.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "quakerwindows.com",
+    "domain": "quakerwindows.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://6wuivqgrv2g7brcwhjw5co3vligiqowpumzkcyebku7i2busrvlxnzid.onion/QUAKER/PROOF/",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cxvha2vyd2luzg93cy5jb21ay2fjdhvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-25 00:00:00.000000",
+    "disclosedDate": "2023-12-23 13:16:02.409749"
+  }
+}

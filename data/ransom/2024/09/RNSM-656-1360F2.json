@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-1360F2",
+  "type": "ransomware-incident",
+  "title": "www.southeasternretina.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.southeasternretina.com",
+    "domain": "southeasternretina.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Southeastern Retina Associates is a specialized medical practice focusing on the diagnosis and treatment of retinal and vitreous diseases. With a team of experienced ophthalmologists, the company offers advanced care for conditions such as macular degeneration, diabetic retinopathy, and retinal detachment. They provide state-of-the-art treatments and personalized care to improve and preserve patients' vision.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a84d2e0393c6dba966ea7efedb738bf5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnvdxrozwfzdgvybnjldgluys5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-12 20:34:57.000000",
+    "disclosedDate": "2024-09-13 10:37:45.923623"
+  }
+}

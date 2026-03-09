@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-14155C",
+  "type": "ransomware-incident",
+  "title": "https://seha.org.sa ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "https://seha.org.sa",
+    "country": "SA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "tengu",
+    "name": "tengu",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://seha.org.sa/ This is the official website of the Health Services Association in the Qassim region of Saudi Arabia. It is a non-profit/charitable organization that provides health and social services to those in need.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f906a5b975b6bad9831708bd7f258e10.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahr0chm6ly9zzwhhlm9yzy5zyub0zw5ndq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-14 15:26:56.943280",
+    "disclosedDate": "2026-01-14 15:27:16.739537"
+  }
+}

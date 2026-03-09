@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-1071F9",
+  "type": "ransomware-incident",
+  "title": "ANDROSNA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ANDROSNA.COM",
+    "domain": "androsna.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ANDROSNA.COM appears to be a private company engaged in buying and selling properties. It offers a broad range of real estate services including residential, commercial, and investment properties. Its goal is to simplify the buying and selling process for its clients by offering efficient and streamlined services. However, further details such as its location, team, or history aren't readily available and may require direct contact or further research to obtain.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5999a307f0af66415b378eed1bdb9d82.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qu5euk9ttkeuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 14:46:02.149535",
+    "disclosedDate": "2025-02-10 14:47:12.740130"
+  }
+}

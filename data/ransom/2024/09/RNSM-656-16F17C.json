@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-16F17C",
+  "type": "ransomware-incident",
+  "title": "ExcelPlast Tunisie ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ExcelPlast Tunisie",
+    "domain": "excelplastunisie.com",
+    "country": "TN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "orca",
+    "name": "orca",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Company product portfolio covers PP and Polyester plastic sheeting with a good r...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/062cf27c240dae2f816a8f76a58a2ca3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxhjzwxqbgfzdcbudw5pc2llqg9yy2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-16 11:12:23.532268",
+    "disclosedDate": "2024-09-16 11:12:24.408021"
+  }
+}

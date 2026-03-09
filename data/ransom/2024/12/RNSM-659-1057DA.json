@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-1057DA",
+  "type": "ransomware-incident",
+  "title": "Matandy (matandy.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Matandy (matandy.com)",
+    "domain": "matandy.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Matandy Steel & Metal Products, LLC, is a steel service center specializing in the processing of flat rolled material, including aluminized, hot dip galvanized, electro-galvanized, cold rolled, galvannealed, galvalume, and hot rolled pickled and oiled.We are ready to upload a lot of internal corporate documents including: inside financial documents, employee and customer contactsand personal files, SSNs etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twf0yw5kesaobwf0yw5kes5jb20pqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 00:00:00.000000",
+    "disclosedDate": "2024-12-10 14:28:45.774223"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-1006BB",
+  "type": "ransomware-incident",
+  "title": "BEINOGLOU.GR ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BEINOGLOU.GR",
+    "domain": "beinoglou.gr",
+    "country": "GR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] BEINOGLOU.GR is a leading Greek logistics company founded in 1923. Its services encompass freight forwarding, supply chain solutions, international removals, and special logistics, catering to both business and individual clients. BEINOGLOU.GR has a broad network across Greece and globally, driven by innovation and fueled by a commitment to providing a high level of service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2b62475975fdb17b3fc233f8faf3c937.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkvjtk9hte9vlkdsqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 15:17:05.692196",
+    "disclosedDate": "2025-02-10 15:18:18.099586"
+  }
+}

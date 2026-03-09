@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-098371",
+  "type": "ransomware-incident",
+  "title": "Inter care ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Inter care",
+    "domain": "theintracare.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Full quickbooks dump, patients data, and financial data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc654c1e2d252ab393a435186dfc3205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw50zxigy2fyzubkzxztyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-08 00:00:00.000000",
+    "disclosedDate": "2025-12-09 18:15:14.631744"
+  }
+}

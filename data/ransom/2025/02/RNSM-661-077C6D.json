@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-077C6D",
+  "type": "ransomware-incident",
+  "title": "3SS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "3SS",
+    "domain": "3ss.tv",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: Chalmers tekniska högskola, Fligno, 3SS",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/m1ntqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-07 23:45:53.754576",
+    "disclosedDate": "2025-02-07 23:45:54.696059"
+  }
+}

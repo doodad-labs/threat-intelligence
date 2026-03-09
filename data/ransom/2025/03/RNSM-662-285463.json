@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-285463",
+  "type": "ransomware-incident",
+  "title": "Lupin Limited ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lupin Limited",
+    "domain": "lupin.com",
+    "country": "IN",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/20570a485eb9306631c013ea340bef4d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/thvwaw4gtgltaxrlzebrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-28 07:24:06.768823",
+    "disclosedDate": "2025-03-28 07:25:33.576165"
+  }
+}

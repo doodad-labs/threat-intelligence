@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-10273C",
+  "type": "ransomware-incident",
+  "title": "agnesb.eu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "agnesb.eu",
+    "domain": "agnesb.eu",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.agnesb.co.jp www.agnesb.com.hk Agnès b. is a French fashion house founded in 1975 by Agnès b.. The company offers a wide range of clothing, accessories, and home goods. Agnès b. is known for its casual, timeless style.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5597bcf9f71b57c969e346412420397e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywduzxnilmv1qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-10 11:12:00.000000",
+    "disclosedDate": "2024-01-10 13:12:11.552741"
+  }
+}

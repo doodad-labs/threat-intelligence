@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-654-11FAAE",
+  "type": "ransomware-incident",
+  "title": "www.eurostrand.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.eurostrand.de",
+    "country": "DE",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f284142d80c125c7dea15b295957579a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmv1cm9zdhjhbmquzgvacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-11 16:06:18.000000",
+    "disclosedDate": "2024-07-11 18:04:19.165148"
+  }
+}

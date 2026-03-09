@@ -1,0 +1,31 @@
+{
+  "id": "RNSM-665-12FBDC",
+  "type": "ransomware-incident",
+  "title": "wow pictures ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wow pictures",
+    "country": ""
+  },
+  "actor": {
+    "id": "apos",
+    "name": "apos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "we exfiltrate all the data from server ,if ransom not paid we can publish all the data or sale to competitors",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d293ihbpy3r1cmvzqgfwb3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-12 09:07:52.718168",
+    "disclosedDate": "2025-06-12 09:07:55.421959"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-271A54",
+  "type": "ransomware-incident",
+  "title": "larosadelmonte.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "larosadelmonte.com",
+    "domain": "larosadelmonte.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "La Rosa Del Monte is a long-standing family-owned moving and logistics company based in Bronx, New York, with operations extending …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3cf85fd49db56ad557b24369995fbe8e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgfyb3nhzgvsbw9udguuy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-27 20:39:25.394078",
+    "disclosedDate": "2025-12-27 20:39:38.163254"
+  }
+}

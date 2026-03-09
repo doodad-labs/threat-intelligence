@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-2378E7",
+  "type": "ransomware-incident",
+  "title": "Pressco Technology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pressco Technology",
+    "domain": "pressco.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pressco Technology, founded in 1966 and headquartered in Cleveland, Ohio, is a manufacturer of equipment that specializes in inspection manufacturing process. Pressco Technology corporate office is located in 29200 Aurora Rd, Cleveland, Ohio, 44139, United States and has 212 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cc30b8d01193d98c87bbc62af8edd0d5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjlc3njbybuzwnobm9sb2d5qg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-23 13:22:39.12345",
+    "disclosedDate": "2024-02-23 14:46:48.280589"
+  }
+}

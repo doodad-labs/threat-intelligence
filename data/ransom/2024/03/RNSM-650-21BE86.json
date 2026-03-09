@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-650-21BE86",
+  "type": "ransomware-incident",
+  "title": "La Pastina  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "La Pastina ",
+    "domain": "lapastina.com",
+    "country": "BR",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 6000000000,
+    "description": "Visits: 50 Data Size: 6GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c60c143b431444c7c12db25df73c8888.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgegugfzdgluysbacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-21 13:22:47.212626",
+    "disclosedDate": "2024-03-21 13:22:47.212649"
+  }
+}

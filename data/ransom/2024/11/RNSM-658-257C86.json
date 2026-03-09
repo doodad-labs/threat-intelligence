@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-257C86",
+  "type": "ransomware-incident",
+  "title": "glts.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "glts.net",
+    "domain": "glts.net",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Greater Lawrence Technical School is a regional technical high school serving the four communities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2x0cy5uzxraywj5c3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-25 20:03:44.123636",
+    "disclosedDate": "2024-11-25 20:03:45.767079"
+  }
+}

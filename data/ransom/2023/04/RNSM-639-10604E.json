@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-10604E",
+  "type": "ransomware-incident",
+  "title": "fiamma.com.my ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fiamma.com.my",
+    "domain": "fiamma.com.my",
+    "country": "MY",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fiamma has more than 40 years experience in the distribution of electrical home appliances. From the distribution of cooking range of home appliances initially, its range of products now include home laundry, air conditioners, refrigerators, freezers...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8f9ae005bb077025f286789db9d3afb4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmlhbw1hlmnvbs5teubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-10 15:04:00.000000",
+    "disclosedDate": "2023-04-10 16:46:36.505949"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-276315",
+  "type": "ransomware-incident",
+  "title": "www.siea.sk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.siea.sk",
+    "domain": "siea.sk",
+    "country": "SK",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.siea.sk",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1efe3657c77fb15190048f5237250d12.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnpzweuc2taymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:30:10.315194",
+    "disclosedDate": "2025-01-27 07:31:15.560110"
+  }
+}

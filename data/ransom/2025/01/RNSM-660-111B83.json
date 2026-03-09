@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-660-111B83",
+  "type": "ransomware-incident",
+  "title": "granbyindustries.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "granbyindustries.com",
+    "domain": "granbyindustries.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1200000000000,
+    "description": "Granby Industries, founded in 1954, is a leading manufacturer and distributor of storage tanks and heating products in North America. The company is headquartered in Cowansville, Quebec, Canada, and operates primarily in the United States and Canada.SITE: www.granbyindustries.comADDRESS:98, rue des IndustriesCowansville, Quebec J2K 0A1CanadaTEL#: (800) 839-2070ALL DATA SIZE: ≈1.2tb1. Corp data, Financial data, Accounting, Payroll2. Personal employees data and documents3. Human Resources, Personal info forms, Tax forms4. R&D, Engeneering, Drawings, Projects& etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3ed43df891de2972c3d02d1698dfc4e1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jhbmj5aw5kdxn0cmllcy5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-21 00:00:00.000000",
+    "disclosedDate": "2025-01-11 11:32:55.117799"
+  }
+}

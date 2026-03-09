@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-649-14B2ED",
+  "type": "ransomware-incident",
+  "title": "studiogalbusera.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "studiogalbusera.com",
+    "domain": "studiogalbusera.com",
+    "country": "IT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 500000000000,
+    "description": "Studio Galbusera Commercialisti AssociatiWe have full data from File server and another critical data (more 500gb)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6120142b89c294f6887275346c1b5c4f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3r1zglvz2fsynvzzxjhlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-14 11:53:00.000000",
+    "disclosedDate": "2024-02-14 17:57:25.297808"
+  }
+}

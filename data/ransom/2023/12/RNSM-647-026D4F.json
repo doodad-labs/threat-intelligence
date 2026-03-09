@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-026D4F",
+  "type": "ransomware-incident",
+  "title": "bboed.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bboed.org",
+    "domain": "bboed.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bayonne Board of Education is a comprehensive public school district serving students from pre-kindergarten through twelfth grade from Bayonne in Hudson County, New Jersey.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4d891774ae8e32911301e0b133cce88e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymjvzwqub3jnqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-02 20:39:00.000000",
+    "disclosedDate": "2023-12-02 21:58:39.732703"
+  }
+}

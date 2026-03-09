@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-2357A7",
+  "type": "ransomware-incident",
+  "title": "hundhausen.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hundhausen.de",
+    "domain": "hundhausen.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/HUNDHAUSEN/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/HUNDHAUSEN/PROOF/DATA DESCRIPTIONS: Corporate confidential data: projects, drawings, financial documents\\payrolls, correspondence etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9475d7b6ce59006036c8670b87671b6b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahvuzghhdxnlbi5kzubjywn0dxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-15 00:00:00.000000",
+    "disclosedDate": "2024-06-23 19:42:47.841585"
+  }
+}

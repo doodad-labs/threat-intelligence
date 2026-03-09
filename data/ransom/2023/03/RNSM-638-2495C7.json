@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-2495C7",
+  "type": "ransomware-incident",
+  "title": "UNIMELB.EDU.AU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UNIMELB.EDU.AU",
+    "domain": "unimelb.edu.au",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The University of Melbourne, Australia - Australia's best university and one of the world's finest",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7a35235ad32edc06169832a1c736eb30.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vu5jtuvmqi5frfuuqvvay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-24 11:07:36.415019",
+    "disclosedDate": "2023-03-24 11:07:36.415033"
+  }
+}

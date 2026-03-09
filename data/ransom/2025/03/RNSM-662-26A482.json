@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-26A482",
+  "type": "ransomware-incident",
+  "title": "R&K Drysdales ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "R&K Drysdales",
+    "country": "GB",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 80000000000,
+    "description": "Part of the ESG groupEast of Scotland Growers are a farmer owned growing cooperative based in Cupar, Fife. Our main crops are Broccoli, Brussels sprouts & Cauliflower, along with a wider range of vegetable crops produced in the fertile Scottish soils over a 180 mile radius.Established in 1987 with the purpose of providing the individual grower the benefits of being part of a larger group, allowing all members to grow together for the future.  ESG are recognised by the European Union as a Producer Organisation; a producer organisation being a group of growers that work collectively as an organisation for the benefit of the grower. ESG take great pride in this recognition.Geo: United Kingdom - Leak size: 80 GB Archive - Contains: Files, SQL",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uizlieryexnkywxlc0bzyxjjb21h",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-26 08:46:51.859932",
+    "disclosedDate": "2025-03-26 08:46:53.665112"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-10E105",
+  "type": "ransomware-incident",
+  "title": "jmthompson.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jmthompson.com",
+    "domain": "jmthompson.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/JMT/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/JMT/PROOF/DATA DESCRIPTIONS: Personal identification documents, employee personal files, confidential corporate data, projects, drawings, financial documents, supplier\\customer information,  corporate and personal correspondence, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/19a8d8a241d5bbe89f78673fd95e7e61.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/am10ag9tchnvbi5jb21ay2fjdhvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-25 00:00:00.000000",
+    "disclosedDate": "2024-06-10 13:47:03.022229"
+  }
+}

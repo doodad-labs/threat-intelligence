@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-229303",
+  "type": "ransomware-incident",
+  "title": "Doumen ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Doumen",
+    "domain": "doumen.fr",
+    "country": "FR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1915, the Doumen Group is a family-owned company with branches in Périgueux, Bordeaux, Villeneuve-sur-Lot, Nmes and Avignon. Its development is based on the experience and skills of more than 600 employees who offer you a wide range of solutions in transportation, logistics and material handling. It is a true diversification aimed at supporting our customers in their various projects, with a priority that drives us every day: quality of service and reliable feedback is ------ IMPOSSIBLE.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f07fa11cf3af980c6e32a1daa5b0a85b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rg91bwvuqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-14 00:00:00.000000",
+    "disclosedDate": "2025-03-22 23:05:03.166209"
+  }
+}

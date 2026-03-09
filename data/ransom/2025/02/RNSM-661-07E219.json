@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-07E219",
+  "type": "ransomware-incident",
+  "title": "teamues.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "teamues.com",
+    "domain": "teamues.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] TeamUES is a professional service company that offers inspection, repair, and maintenance services to real estate owners and managers. The company mainly focuses on providing façade inspections, roofing inspections, and other construction-related tests. They have a team of licensed engineers and architects who perform required inspections to ensure buildings meet regulatory standards.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9fc37910792229930ae9688ba431d04f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvhbxvlcy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-06 17:39:58.000000",
+    "disclosedDate": "2025-02-07 16:23:13.817781"
+  }
+}

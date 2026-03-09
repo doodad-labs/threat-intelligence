@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-13E157",
+  "type": "ransomware-incident",
+  "title": "midstatesindustrial.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "midstatesindustrial.com",
+    "domain": "midstatesindustrial.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mid-States Industrial, Incorporated was founded in 1992 with the objective of providing quality tank repair paired with specialized in-house engineering services.  For over 30 years, Mid-States has provided industrial maintenance, repair, and new...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwlkc3rhdgvzaw5kdxn0cmlhbc5jb21adghyzwvhbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-13 11:52:32.601846",
+    "disclosedDate": "2024-11-13 11:52:33.763352"
+  }
+}

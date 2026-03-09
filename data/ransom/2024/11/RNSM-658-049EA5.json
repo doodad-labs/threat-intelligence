@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-658-049EA5",
+  "type": "ransomware-incident",
+  "title": "AXIOM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AXIOM",
+    "domain": "axiom.work",
+    "country": "AE"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Axiom Constructors is a local, family-owned business dedicated to providing sustainable and quality concrete solutions to the Salt Lake City community. Our founder, Richard Jessop, grew up in the trade and worked for several small concrete co            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/615a977a58e3db2ce1c724edc797c598.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvhjt01acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-22 00:00:00.000000",
+    "disclosedDate": "2024-11-04 22:19:13.135926"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-1213D0",
+  "type": "ransomware-incident",
+  "title": "paltertonprimary.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "paltertonprimary.co.uk",
+    "domain": "paltertonprimary.co.uk",
+    "country": "GB",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Palterton Primary School",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e3d5c514fafbc4f506b07539818bda9c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgfsdgvydg9uchjpbwfyes5jby51a0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 08:15:00.000000",
+    "disclosedDate": "2024-02-12 10:30:42.644079"
+  }
+}

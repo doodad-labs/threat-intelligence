@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-30CDBC",
+  "type": "ransomware-incident",
+  "title": "strikeusa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "strikeusa.com",
+    "domain": "strikeusa.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Civil Engineering Construction  Strike is a leading pipeline and facilities solutions provider, delivering integrated EPC, maintenance",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1f16d72049d0f5bf58d121ab73a515cf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3ryawtldxnhlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-30 22:45:00.000000",
+    "disclosedDate": "2024-05-30 23:35:01.001862"
+  }
+}

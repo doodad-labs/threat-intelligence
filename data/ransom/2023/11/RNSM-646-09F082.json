@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-646-09F082",
+  "type": "ransomware-incident",
+  "title": "Autocommerce ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Autocommerce",
+    "country": "SI",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "The company Autocommerce, d.o.o. is a company that represents theMercedes-Benz brand on the Slovenian car market. We will organize an exhibition hall with the data we exfiltrated from them for everyone interested soon (about 10Gb   DB). Welcome everyone!",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxv0b2nvbw1lcmnlqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-09 14:27:32.799636",
+    "disclosedDate": "2023-11-09 14:27:32.933817"
+  }
+}

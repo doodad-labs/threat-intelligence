@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-2838A0",
+  "type": "ransomware-incident",
+  "title": "Queens Center For Change ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Queens Center For Change",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Queens Counseling for Change (QCC) provides behavioral counseling services. Services are provided by licensed counselors with many years of experience in the field. The agency is led by Larry Menzie, LCSW/R and Lillian Passoni, LCSW/R social workers with over 25yrs of experience providing services in a variety of settings.  QCC provides a myriad of services: problematic sexual behaviors, sexual offenses, batterers, anger management, bias crimes, animal cruelty education, and DWI (evaluations only).",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d337e11196fd8e3f71d344194097ba5b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uxvlzw5zienlbnrlcibgb3igq2hhbmdlqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-09 12:22:51.974000",
+    "disclosedDate": "2025-09-28 21:48:47.197841"
+  }
+}

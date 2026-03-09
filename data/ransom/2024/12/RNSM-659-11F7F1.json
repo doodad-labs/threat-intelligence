@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-11F7F1",
+  "type": "ransomware-incident",
+  "title": "quiztarget.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "quiztarget.com",
+    "domain": "quiztarget.com",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] QuizTarget.com is a platform designed to help businesses and marketers create engaging quizzes for lead generation and audience interaction. It offers customizable quiz templates and tools to capture leads, integrate with email marketing services, and analyze user responses. The platform aims to boost engagement by providing interactive content that can be shared across various digital channels.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cxvpenrhcmdldc5jb21aznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-11 16:47:26.814416",
+    "disclosedDate": "2024-12-11 16:47:30.235225"
+  }
+}

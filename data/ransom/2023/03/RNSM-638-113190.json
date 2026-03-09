@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-113190",
+  "type": "ransomware-incident",
+  "title": "cqservice.sk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cqservice.sk",
+    "domain": "cqservice.sk",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Spoločnosť CQ service, spol. s r.o. pôsobí na trhu informačných technológií už od roku 1992. Po úvodných rokoch dodávok výpočtovej techniky sa začala orientovať aj na poskytovanie služieb spojených s výpočtovou technikou.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3fzzxj2awnllnnrqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-11 10:22:00.000000",
+    "disclosedDate": "2023-03-11 13:20:51.110776"
+  }
+}

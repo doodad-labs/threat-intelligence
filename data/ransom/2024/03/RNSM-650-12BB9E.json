@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-12BB9E",
+  "type": "ransomware-incident",
+  "title": "QEO Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "QEO Group",
+    "domain": "qeo.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/641d35291c02ea9145ea862809497bac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uuvpiedyb3vwqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-21 00:00:00.000000",
+    "disclosedDate": "2024-03-12 23:48:36.485411"
+  }
+}

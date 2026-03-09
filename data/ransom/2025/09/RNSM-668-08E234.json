@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-08E234",
+  "type": "ransomware-incident",
+  "title": "www.thepromisenig.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.thepromisenig.com",
+    "domain": "thepromisenig.com",
+    "country": "NG"
+  },
+  "actor": {
+    "id": "yurei",
+    "name": "yurei",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Promise Nigeria Ltd is a leading brand in Nigeria’s fast-food and catering industry, renowned for its dedication to quality, freshness, and customer satisfaction. Established in 2000 and incorporated in 2003, the company has steadily expanded its presence, earning a strong reputation as one of the most trusted names in quick service dining and integrated catering solutions. From freshly prepared meals to large-scale corporate catering, The Promise has become a household name across Port Harcourt and beyond.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/efedd75deb6d04f39ad73cab7753b408.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnrozxbyb21pc2vuawcuy29tqhl1cmvp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-08 15:45:18.499752",
+    "disclosedDate": "2025-09-08 15:45:38.313765"
+  }
+}

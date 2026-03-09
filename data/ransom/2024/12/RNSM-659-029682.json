@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-029682",
+  "type": "ransomware-incident",
+  "title": "salesgig.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "salesgig.com",
+    "domain": "salesgig.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SalesGig provides outsourced sales development to support our B2B clients generate leads. We deploy proven outbound strategies to expand reach, open conversations, and set sales meetings.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/052d609d56a432f3005ef0449e11d226.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2fszxnnawcuy29tqgrhcmt2yxvsda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-02 00:00:00.000000",
+    "disclosedDate": "2024-12-02 21:22:42.099877"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-012EEF",
+  "type": "ransomware-incident",
+  "title": "suntreeinternalmedicine.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "suntreeinternalmedicine.com",
+    "domain": "suntreeinternalmedicine.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Suntree Internal Medicine is a medical center located in the Suntree neighborhood of Melbourne, FL, offering a wide range of healthcare services including preventive care, diagnostic testing, and weight reduction programs. They emphasize personalized, compassionate care and aim to provide swift and efficient visits while maintaining a focus on patient comfort and wellbeing. The center is open seven days a week and provides same-day appointments for convenient access to healthcare. They also offer free in-house antibiotics to expedite recovery for their patients",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5784cea3bad1789aa4bea8b22ae4b986.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3vudhjlzwludgvybmfsbwvkawnpbmuuy29tqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-01 12:00:00.000000",
+    "disclosedDate": "2025-10-01 21:53:29.964819"
+  }
+}

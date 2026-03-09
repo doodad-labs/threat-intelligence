@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-13F58C",
+  "type": "ransomware-incident",
+  "title": "Forrec ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Forrec",
+    "domain": "forrec.it",
+    "country": "IT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Forrec un'azienda italiana leader nella produzione di trituratori, macinatori e granulatori per il trattamento dei rifiuti.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/518e45f391db111b637bd716da65e3c2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rm9ycmvjqgjsywnrc3vpda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-10 00:00:00.000000",
+    "disclosedDate": "2024-08-13 21:59:19.978546"
+  }
+}

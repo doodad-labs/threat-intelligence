@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-04ED71",
+  "type": "ransomware-incident",
+  "title": "Lyomark Pharma ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lyomark Pharma",
+    "domain": "lyomark.com",
+    "country": "DE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lyomark Pharma was founded in Oberhaching, near Munich, in 1989 as a contract manufacturer and active ingredient manufacturer for niche products. As the name suggests, Lyomark supplies sterile lyophilised and liquid products, and has firmly established itself in this sector of the pharmaceutical industry over the last 25 years.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/thlvbwfyaybqagfybwfazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-03 16:58:15.498649",
+    "disclosedDate": "2024-10-04 07:00:59.422682"
+  }
+}

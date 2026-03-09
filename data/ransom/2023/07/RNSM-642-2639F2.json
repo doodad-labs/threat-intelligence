@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-642-2639F2",
+  "type": "ransomware-incident",
+  "title": "Yucatan ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Yucatan",
+    "domain": "yucatan.gob.mx",
+    "country": "MX",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Yucatan city data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8004d1875002705a3b16141d91668284.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wxvjyxrhbkbhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://reporteroshoy.mx/noticias/nuevo-ataque-cibernetico-detectado-en-gobierno-estatal/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-13 08:02:28.000000",
+    "disclosedDate": "2023-07-26 15:25:35.216202"
+  }
+}

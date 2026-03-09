@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-227AE2",
+  "type": "ransomware-incident",
+  "title": "VF Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VF Corporation",
+    "domain": "vfc.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "VF Corporation is an American global apparel and footwear company founded in 1899 by John Barbey and headquartered in Denver, Colorado. The company's 13 brands are organized into three categories: Outdoor, Active and Work. In 2015, the company controlled 55% of the U.S. backpack market with the JanSport, Eastpak, Timberland, and The North Face brands.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2e3357d3097964086192a0d636f486c5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vkygq29ycg9yyxrpb25aywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-22 21:48:46.123456",
+    "disclosedDate": "2023-12-22 22:19:54.099422"
+  }
+}

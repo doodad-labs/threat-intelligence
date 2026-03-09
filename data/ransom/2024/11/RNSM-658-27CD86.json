@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-27CD86",
+  "type": "ransomware-incident",
+  "title": "ahn.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ahn.org",
+    "domain": "ahn.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Greetings!  Today we are posting here the new company, \"West Penn Allegheny Health System .Inc\".  Company Description: West Penn Hospital, centrally located in Pittsburgh’s Bloomfield neighborhood since 1848, is regionally and nationally known fo...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywhulm9yz0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-13 00:00:00.000000",
+    "disclosedDate": "2024-11-27 22:59:57.382956"
+  }
+}

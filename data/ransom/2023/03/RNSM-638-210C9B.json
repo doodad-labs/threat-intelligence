@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-638-210C9B",
+  "type": "ransomware-incident",
+  "title": "jones-hamilton.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jones-hamilton.com",
+    "domain": "jones-hamilton.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 230000000000,
+    "description": "Jones-Hamilton Co. 230Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/am9uzxmtagftawx0b24uy29tqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-21 09:55:39.257626",
+    "disclosedDate": "2023-03-21 09:55:39.257647"
+  }
+}

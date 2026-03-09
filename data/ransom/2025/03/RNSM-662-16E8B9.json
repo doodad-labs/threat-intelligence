@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-16E8B9",
+  "type": "ransomware-incident",
+  "title": "sitro.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sitro.com.au",
+    "domain": "sitro.com.au",
+    "country": "AU"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Finetech is a leading manufacturer of equipment for submicron die bonding and advanced SMD rework.\r We offer solutions for every step of your journey - from R&D to automated industrial production.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d2d91fac189f4685b698fde7fd470a94.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2l0cm8uy29tlmf1qgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 00:00:00.000000",
+    "disclosedDate": "2025-03-16 20:52:44.639359"
+  }
+}

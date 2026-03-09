@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-102410",
+  "type": "ransomware-incident",
+  "title": "Evidn ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Evidn",
+    "domain": "evidn.com",
+    "country": "AU",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Total amount of stolen data : 50GBhttps://www.evidn.comCompany representative should follow the instructions to contact us before time runs out",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0f5d091715ded51c628c835e2c33fb23.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxzpzg5azxzlcmvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-10 00:22:01.801902",
+    "disclosedDate": "2025-01-10 00:22:01.801902"
+  }
+}

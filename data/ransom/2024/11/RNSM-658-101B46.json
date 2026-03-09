@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-101B46",
+  "type": "ransomware-incident",
+  "title": "Immuno Laboratories, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Immuno Laboratories, Inc",
+    "domain": "immunolabs.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Immuno is a federally licensed medical laboratory. Immuno provides products and services to physicians with a focus on helping physicians by providing real relief for their patients with chronic unsolved conditions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4cdcd155f4dd50f5a1df0353b2442e46.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw1tdw5viexhym9yyxrvcmllcywgsw5jqgjpyw5sawfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-10 00:09:36.275779",
+    "disclosedDate": "2024-11-10 00:09:37.215121"
+  }
+}

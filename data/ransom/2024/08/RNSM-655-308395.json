@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-308395",
+  "type": "ransomware-incident",
+  "title": "sampoernaagro.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sampoernaagro.com",
+    "domain": "sampoernaagro.com",
+    "country": "ID",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1993 and headquartered in South Sumatra, Indonesia, PT Sampoerna Agro Tbk is a palm oil manufacturer. They engage in the production of p...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d106294c2fd0f9e7bf9640b2210c8f2b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2ftcg9lcm5hywdyby5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-06 00:00:00.000000",
+    "disclosedDate": "2024-08-30 08:04:18.491543"
+  }
+}

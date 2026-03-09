@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-277523",
+  "type": "ransomware-incident",
+  "title": "OLDSPRODUCTS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OLDSPRODUCTS.COM",
+    "domain": "oldsproducts.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] OLDSPRODUCTS.COM is a niche online marketplace that specializes in selling vintage and old products. The diverse product range includes everything from antique furniture, collectibles, vinyl records to retro toys and clothing. Catering to collectors, enthusiasts, and people with a love for nostalgia, the online platform ensures a seamless shopping experience with secure payment gateways and convenient delivery options.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t0xeu1bst0rvq1rtlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:57:53.733334",
+    "disclosedDate": "2025-02-27 16:57:58.425328"
+  }
+}

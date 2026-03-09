@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-1444D3",
+  "type": "ransomware-incident",
+  "title": "Nelson & Townsend, CPA's ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nelson & Townsend, CPA's",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Nelson & Townsend, CPA's perform tax returns for individuals and businesses, accounting services (payroll services, bookkeeping), and business/client support.We are ready to upload a lot of essentials corporate documents such as: driver licenses, financial data (audits, payment details, reports), contact numbers and e-mail addresses of employees and customers, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmvsc29uicygvg93bnnlbmqsienqqsdzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-14 00:00:00.000000",
+    "disclosedDate": "2025-02-14 15:49:56.873458"
+  }
+}

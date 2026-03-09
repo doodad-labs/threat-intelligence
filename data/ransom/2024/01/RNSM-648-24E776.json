@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-24E776",
+  "type": "ransomware-incident",
+  "title": "Glimstedt ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Glimstedt",
+    "domain": "glimstedt.se",
+    "country": "SE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1935, Glimstedt is a Swedish and Pan-Baltic law firm specializing In legal services in business areas.glimstedt.se",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/187305ef0f3fdb9d8588ef8912e3df16.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2xpbxn0zwr0qdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-24 00:00:00.000000",
+    "disclosedDate": "2024-01-24 02:52:34.314178"
+  }
+}

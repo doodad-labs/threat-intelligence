@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-136C7C",
+  "type": "ransomware-incident",
+  "title": "G-One Auto Parts de México S.A. de C.V. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "G-One Auto Parts de México S.A. de C.V.",
+    "domain": "g-one.com.mx",
+    "country": "MX",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] G-One Auto Parts de México S.A. de C.V. is a Mexican company specializing in the distribution and sale of automotive parts. It focuses on providing high-quality components for various vehicle makes and models, serving both retail and wholesale markets. The company is known for its customer-centric approach, competitive pricing, and extensive inventory, catering to the needs of automotive professionals and enthusiasts alike.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/774d4ab9afe8c1b471ce4464bc664a2e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ry1pbmugqxv0bybqyxj0cybkzsbnw6l4awnvifmuqs4gzgugqy5wlkbccmfpbknpcghlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-13 16:39:41.390965",
+    "disclosedDate": "2024-11-13 16:39:45.176909"
+  }
+}

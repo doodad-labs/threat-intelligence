@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-23CA8E",
+  "type": "ransomware-incident",
+  "title": "SHOLASTIC.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SHOLASTIC.COM",
+    "domain": "sholastic.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "404 Not Found",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3022c5ae46ec55d766f1dc1169adf170.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0hpteftveldlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-23 13:26:52.847777",
+    "disclosedDate": "2023-03-23 13:26:52.847795"
+  }
+}

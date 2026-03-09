@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-26C157",
+  "type": "ransomware-incident",
+  "title": "South American Tours ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "South American Tours",
+    "domain": "southamericantours.de",
+    "country": "PE",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "meow",
+    "name": "meow",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "South American Tours is a specialized travel company dedicated to offering immersive and custom-tailored experiences across South America. They cater to diverse interests, including adventure, culture, nature, and luxury travel. With extensive local knowledge and a network of expert guides, they ensure high-quality, personalized service for both individual travelers and groups, making each journey unique and memorable.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6f4560b35fe74ba17c0edd0955db374e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u291dgggqw1lcmljyw4gvg91cnnabwvvdw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-26 19:08:57.233282",
+    "disclosedDate": "2024-08-26 19:09:01.375577"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-660-13119B",
+  "type": "ransomware-incident",
+  "title": "healthcarewithinreach.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "healthcarewithinreach.org",
+    "domain": "healthcarewithinreach.org",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Healthcarewithinreach.org is a not-for-profit organization dedicated to promoting accessible healthcare services for all. They strive to educate and advocate for health justice, focusing on marginalized communities and individuals facing barriers to healthcare. Their approach includes creating awareness about policy and practice changes and providing resources to aid more accessible healthcare provision.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1eef4ee269b34d3e1cec6b5361c6487a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agvhbhroy2fyzxdpdghpbnjlywnolm9yz0byyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://eu.pnj.com/story/news/2024/12/27/community-health-northwest-florida-targeted-in-cyber-attack/77270371007/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-13 19:15:14.636405",
+    "disclosedDate": "2025-01-13 19:16:35.323065"
+  }
+}

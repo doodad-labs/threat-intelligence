@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-032FF0",
+  "type": "ransomware-incident",
+  "title": "coel.com.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "coel.com.mx",
+    "domain": "coel.com.mx",
+    "country": "MX",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ID,Name,Email,Group,Phone,ZIP,Country,State/Province,\"Customer Since\",\"Web Site\",\"Confirmed email...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3195815082e6b9ea443b9ac52ab20cad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29lbc5jb20ubxhayxb0nzm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-03 11:18:50.792621",
+    "disclosedDate": "2025-02-03 11:18:50.792621"
+  }
+}

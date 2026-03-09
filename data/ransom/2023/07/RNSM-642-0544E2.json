@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-0544E2",
+  "type": "ransomware-incident",
+  "title": "eurosupport.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "eurosupport.com",
+    "domain": "eurosupport.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Started as a family business in 1987, Euro Support has been the partner of choice to independent technology developers and major catalyst producers… working under the motto: no batch is too small, no challenge too great. During those 30 years, we hav...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c820d9e5074f4ca5afbb081937e718cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxvyb3n1chbvcnquy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-05 09:37:00.000000",
+    "disclosedDate": "2023-07-05 10:59:56.915815"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-06EC09",
+  "type": "ransomware-incident",
+  "title": "syntax-architektur.at ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "syntax-architektur.at",
+    "domain": "syntax-architektur.at",
+    "country": "AT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Die Definition der Syntax (der Muster und Regeln) der projektspezifischen Rahmenbedingungen sehen wir als grundlegendes Ziel unserer Arbeit. Diese Definition führt zu optimalen formalen und strukturell organisierten Beziehungsprinzipien. Die Qualität...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3ludgf4lwfyy2hpdgvrdhvylmf0qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-06 13:45:00.000000",
+    "disclosedDate": "2024-05-06 16:56:39.487303"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-2318AF",
+  "type": "ransomware-incident",
+  "title": "PHOENIX.TECH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PHOENIX.TECH",
+    "domain": "phoenix.tech",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sucuri WebSite Firewall - Access Denied",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9a02158333f4108ecc00d8745bebd0ef.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uehpru5jwc5uruniqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-23 13:35:21.310614",
+    "disclosedDate": "2023-03-23 13:35:21.310631"
+  }
+}

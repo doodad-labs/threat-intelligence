@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26AD22",
+  "type": "ransomware-incident",
+  "title": "RecordTV ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RecordTV",
+    "domain": "r7.com",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "formerly known as Rede Record, is a Brazilian free-to-air television network. It is currently the second largest commercial TV station in Brazil, and the 28th largest in the 2012 world ranking",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d3057f7faee31957bbfbbdf44fc4c76f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvjb3jkvfzaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-10-13 21:13:35.000000",
+    "disclosedDate": "2023-07-26 16:40:53.858362"
+  }
+}

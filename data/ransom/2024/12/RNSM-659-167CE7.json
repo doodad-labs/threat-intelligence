@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-167CE7",
+  "type": "ransomware-incident",
+  "title": "scania.pl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "scania.pl",
+    "domain": "scania.pl",
+    "country": "PL",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Scania.pl is the Polish branch of Scania AB, a leading global manufacturer of heavy trucks, buses, and industrial engines. Known for its commitment to sustainability and innovation, Scania.pl offers a range of transport solutions tailored to customer needs, emphasizing fuel efficiency and reduced emissions. The company also provides maintenance, repair services, and financial solutions to support its vehicles.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1cf69d26ec30499e6186b10dd60abaeb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2nhbmlhlnbsqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-16 09:46:30.000000",
+    "disclosedDate": "2024-12-16 10:01:37.372458"
+  }
+}

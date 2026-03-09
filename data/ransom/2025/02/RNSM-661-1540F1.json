@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-1540F1",
+  "type": "ransomware-incident",
+  "title": "Empire Home Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Empire Home Center",
+    "domain": "empirehomecenter.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ccea680e42885f1e464421d9b276dc22.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw1waxjliehvbwugq2vudgvyqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-23 00:00:00.000000",
+    "disclosedDate": "2025-02-15 08:23:12.427064"
+  }
+}

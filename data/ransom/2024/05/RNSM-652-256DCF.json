@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-256DCF",
+  "type": "ransomware-incident",
+  "title": "pressurejet.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pressurejet.com",
+    "domain": "pressurejet.com",
+    "country": "IN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PressureJet is ready to prove \"THE BEST QUALITY\" among all manufactures in India and also guarantes \"THE MOST REASONABLE PRICE\"",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b54a41c45ae5cbd9c058f41659ff3393.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjlc3n1cmvqzxquy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-09 00:00:00.000000",
+    "disclosedDate": "2024-05-25 12:55:17.877131"
+  }
+}

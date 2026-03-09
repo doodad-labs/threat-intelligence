@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-02432D",
+  "type": "ransomware-incident",
+  "title": "ironmetals.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ironmetals.com",
+    "domain": "ironmetals.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ironmetals.com is a comprehensive online platform dedicated to the metal industry. It offers a wide range of products, including steel, aluminum, copper, and other metals, catering to various industrial needs. The company emphasizes quality, competitive pricing, and efficient delivery services. Additionally, Ironmetals.com provides industry insights, technical support, and custom solutions to meet specific client requirements.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/81db42286ded4f9f4b928ac0021509c6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axjvbm1ldgfscy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-02 00:00:00.000000",
+    "disclosedDate": "2024-10-02 20:40:16.386784"
+  }
+}

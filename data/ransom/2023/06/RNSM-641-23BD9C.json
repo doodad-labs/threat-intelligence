@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-23BD9C",
+  "type": "ransomware-incident",
+  "title": "Credit Team ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Credit Team",
+    "domain": "creditteam.eu",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Provider of subsidized finance and credit brokerage intended to increase liquidity and company growth. The company's services include obtaining non-repayable grants, tax bonuses and subsidized loans for micro SMEs, start...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/543f3dd43bae144e2d87a95f473a6c97.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q3jlzgl0ifrlyw1abm9lc2nhcgu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-19 00:00:00.000000",
+    "disclosedDate": "2023-06-23 18:00:17.409962"
+  }
+}

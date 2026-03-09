@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-203F85",
+  "type": "ransomware-incident",
+  "title": "Pearl Institute for Clinical Research LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pearl Institute for Clinical Research LLC",
+    "domain": "pi-cr.net",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data is not available for now.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvhcmwgsw5zdgl0dxrligzvcibdbgluawnhbcbszxnlyxjjacbmtenabmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-01 00:00:00.000000",
+    "disclosedDate": "2026-02-20 11:09:57.691641"
+  }
+}

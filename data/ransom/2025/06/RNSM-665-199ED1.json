@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-199ED1",
+  "type": "ransomware-incident",
+  "title": "RADIX ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RADIX",
+    "domain": "radix.ch",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000000,
+    "description": "RADIXRADIX has existed as a non-profit, private-law foundation since 1972. The Swiss Foundation for Health Education, founded at that time, merged with the RADIX Community Health Promotion Association in 1992.The purpose of RADIX is to encourage municipal and cantonal authorities and decision-makers in organizations to recognize health promotion as an important ongoing task and implement appropriate measures.The strategic management of RADIX is the responsibility of the Foundation Board, which appoints the Executive Board, which is responsible for operational management.Geo: Switzerland - Leak size: 2 TB - Contains: Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukfesvhac2fyy29tyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.radix.ch/media/jq4f1wnr/informations-radix_20251906-fr.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-19 05:15:53.429209",
+    "disclosedDate": "2025-06-19 05:15:54.556378"
+  }
+}

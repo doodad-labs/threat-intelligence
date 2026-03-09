@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-663-09F228",
+  "type": "ransomware-incident",
+  "title": "chesterfieldtwp.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "chesterfieldtwp.org",
+    "domain": "chesterfieldtwp.org",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 49000000000,
+    "description": "The Chesterfield Township Library provides meeting rooms so that the library can promote its program of service to the community. The library board of trustees recognizes that the library facilities belong to the community and permits facilities use by established local non-commercial groups and organizations. The policy is subject to change at any time.\r ===>\r Phone Number: (504) 896-7800\r Revenue: $21.3 Million\r Employees: 174\r Data:49gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d11a0136ff42749a3a9492c892306682.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2hlc3rlcmzpzwxkdhdwlm9yz0bpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-06 00:00:00.000000",
+    "disclosedDate": "2025-04-09 23:53:22.337209"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-1123CF",
+  "type": "ransomware-incident",
+  "title": "Kansas medical center LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kansas medical center LLC",
+    "domain": "kansasmedicalcenter.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kansas Medical Center is a fully physician owned hospital. In addition to our owners, we have many doctors on staff that cover a wide array of specialties.Through the dedicated service of physicians and staff practicing in a state of the art facility with the most advanced integrated equipment and information technology, the Kansas Medical Center brings comprehensive health care of the highest caliber to patients in Andover, and the communities throughout Kansas.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1643f4a7b6996ca2805525895ea54234.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fuc2fzig1lzgljywwgy2vudgvyiexmq0a4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-08 00:00:00.000000",
+    "disclosedDate": "2023-07-11 08:49:57.737261"
+  }
+}

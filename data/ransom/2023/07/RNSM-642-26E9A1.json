@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26E9A1",
+  "type": "ransomware-incident",
+  "title": "VOG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VOG",
+    "domain": "vog.it",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "VOG PRODUCTS is a producer of natural ingredients for the food and beverage industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cc1f1c07ea6fb9d0eac19526499994c9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vk9hqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-19 00:02:00.000000",
+    "disclosedDate": "2023-07-26 14:07:50.032984"
+  }
+}

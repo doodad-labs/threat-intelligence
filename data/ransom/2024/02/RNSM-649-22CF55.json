@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-649-22CF55",
+  "type": "ransomware-incident",
+  "title": "usmerchants.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "usmerchants.com",
+    "domain": "usmerchants.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 245000000000,
+    "description": "US Merchants is a vertically integrated packaging and distribution company. We purchase raw packaging materials and then use those ingredients to manufacture finished packaging products. Everything involved in producing and delivering clamshell blister packaging, two-piece blister packaging, blister cards, and our retail molded plastic products is done in-house from start to finish. This vertical operation reduces costs and helps to insulate suppliers, retailers, and end-customers from the reliability problems that result in more horizontal supply chains.SITE: www.usmerchants.com Address : Corporate Headquarters 8737 Wilshire Blvd Beverly Hills, CA 90211ALL DATA SIZE: ~245gb 1. Corporate documents 2. Employees folders 3. Payroll 4. Scans 5. HR / Accounting / Financial data and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fd1dfeac22ed02310ffee69c5a3bc46c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dxntzxjjagfudhmuy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-13 00:00:00.000000",
+    "disclosedDate": "2024-02-22 11:40:37.984106"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-214C28",
+  "type": "ransomware-incident",
+  "title": "Heras  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Heras ",
+    "domain": "heras.com",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 393140000000,
+    "description": "Heras (founded in 1952) is an  end-to-end supplier of permanent and mobile perimeterprotection solutions. They design, manufacture, install and service temporary and permanent perimeter protection solutions for customers across business, community and industry sectors. Heras UK corporate office is located in Apex Building 1 Water Vole Way, Doncaster, South Yorkshire, DN4 5JP, United Kingdom and has 6 employees. The total amount of data leakage is 393.14 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvyyxmgqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-20 13:58:40.12345",
+    "disclosedDate": "2024-05-21 06:07:36.366200"
+  }
+}

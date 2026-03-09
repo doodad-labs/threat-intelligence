@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-2322D6",
+  "type": "ransomware-incident",
+  "title": "www.datacampos.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.datacampos.com",
+    "domain": "datacampos.com",
+    "country": "UY",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DataCampos specializes in advanced data solutions, offering comprehensive services such as data analytics, management, and visualization. The company leverages cutting-edge technology to help businesses optimize their data processes, drive decision-making, and enhance operational efficiency. With a focus on innovation and customer satisfaction, DataCampos delivers tailored solutions to meet diverse industry needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmrhdgfjyw1wb3muy29tqevsrg9yywrv",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-23 20:36:38.374204",
+    "disclosedDate": "2024-09-23 20:36:40.597798"
+  }
+}

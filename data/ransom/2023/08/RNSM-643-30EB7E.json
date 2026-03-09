@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-30EB7E",
+  "type": "ransomware-incident",
+  "title": "mariocoelho.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mariocoelho.com",
+    "domain": "mariocoelho.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mario Coelho Ltd",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e856515d59b5a8c28d3983d88165ff3c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfyaw9jb2vsag8uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-30 22:59:00.000000",
+    "disclosedDate": "2023-08-30 23:36:38.595416"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19D7E4",
+  "type": "ransomware-incident",
+  "title": "plasmasurgical.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "plasmasurgical.com",
+    "domain": "plasmasurgical.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PlasmaJet – the first device to use entirely Pure-Plasma for surgery – is privately held by Plasma Surgical based in Atlanta (GA), USA We are experts in plasma energy with pioneering research in medical plasma technology and a robust patent portfol...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7fa726bde0ccf75237895346f874d825.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgxhc21hc3vyz2ljywwuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-02 22:01:00.000000",
+    "disclosedDate": "2024-04-19 10:59:44.444069"
+  }
+}

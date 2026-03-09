@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-645-04D85A",
+  "type": "ransomware-incident",
+  "title": "Gruskin Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Gruskin Group",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 37000000000,
+    "description": "Gruskin Group is an integrated design firm that builds unified brand experiences through architecture, brand development, visual communications, web/interactive, industrial design, interior design, strategic consulting, and sustainable design. They've lost 37 Gb of data and we wanted help them but they refused. As a result,their files (accounting, HR, projects and so on) will be uploaded here and available for downloading.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3j1c2tpbibhcm91cebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-04 17:16:24.721578",
+    "disclosedDate": "2023-10-04 17:16:24.842282"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-04B403",
+  "type": "ransomware-incident",
+  "title": "www.galgorm.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.galgorm.com",
+    "domain": "galgorm.com",
+    "country": "GB",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Galgorm is a premier luxury resort located in Northern Ireland, renowned for its exceptional hospitality and stunning surroundings. It offers a range of high-end accommodations, including rooms, suites, and cottages, all set amidst lush parkland. The resort features a world-class spa, fine dining options, and various leisure activities, making it an ideal destination for relaxation and indulgence.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a5a633855fa59048041e339fe368bdde.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmdhbgdvcm0uy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-04 11:35:58.000000",
+    "disclosedDate": "2024-09-04 18:37:26.950444"
+  }
+}

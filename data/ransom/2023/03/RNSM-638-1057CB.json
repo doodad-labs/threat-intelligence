@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-1057CB",
+  "type": "ransomware-incident",
+  "title": "kisp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kisp.com",
+    "domain": "kisp.com",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "KiSP creates, develops and provides client-facing solutions to manufacturers, dealers, interior designers and customers in the office furniture industry. Founded in 1993, KiSP is headquartered in Toronto, Canada, with additional offices in Costa...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2lzcc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-10 11:59:00.000000",
+    "disclosedDate": "2023-03-10 19:04:56.819386"
+  }
+}

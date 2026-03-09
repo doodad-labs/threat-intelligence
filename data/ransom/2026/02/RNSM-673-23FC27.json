@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-23FC27",
+  "type": "ransomware-incident",
+  "title": "tektreeinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tektreeinc.com",
+    "domain": "tektreeinc.com",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "cipherforce",
+    "name": "cipherforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] TektTree Inc. is a global technology consulting and IT service provider that offers services in software development, IT consulting, and project management. The company is dedicated to helping customers build effective, efficient and collaborative systems. They have a team of experienced professionals who specialize in different sectors such as banking, healthcare, retail, and telecommunications.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9ba23499b1b994b5fb481977b6d5c398.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvrdhjlzwluyy5jb21ay2lwagvyzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-23 13:25:02.286735",
+    "disclosedDate": "2026-02-23 13:25:16.868216"
+  }
+}

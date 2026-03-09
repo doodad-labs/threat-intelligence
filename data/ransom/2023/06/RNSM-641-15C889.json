@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-15C889",
+  "type": "ransomware-incident",
+  "title": "POWERFI.ORG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "POWERFI.ORG",
+    "domain": "powerfi.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Power Financial Credit Union - South Florida Credit Union - Loans",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ff03dc1f69d7eeac2fa93b4a3b2d368f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ue9xrvjgss5pukday2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-15 21:10:16.415068",
+    "disclosedDate": "2023-06-15 21:10:16.415088"
+  }
+}

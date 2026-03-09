@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-1981A4",
+  "type": "ransomware-incident",
+  "title": "First Baptist Medical Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "First Baptist Medical Center",
+    "domain": "fbmchealth.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "moneymessage",
+    "name": "moneymessage",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4a3bee41e75c432dacd07bb978c8f3cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmlyc3qgqmfwdglzdcbnzwrpy2fsienlbnrlckbtb25lew1lc3nhz2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-19 11:44:43.267248",
+    "disclosedDate": "2024-06-19 11:44:43.899838"
+  }
+}

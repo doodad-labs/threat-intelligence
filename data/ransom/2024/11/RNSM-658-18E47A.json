@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-18E47A",
+  "type": "ransomware-incident",
+  "title": "PC AfterHours ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PC AfterHours",
+    "domain": "pcafterhours.net",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Consumer Services · Minnesota, United States.PC-AfterHours offers a variety of technical support services for Windows based computers and networks.< 25 EmployeesRevenue < $5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uemgqwz0zxjib3vyc0bfbervcmfkbw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-15 00:00:00.000000",
+    "disclosedDate": "2024-11-18 20:58:55.384169"
+  }
+}

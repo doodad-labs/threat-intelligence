@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-650-0308F2",
+  "type": "ransomware-incident",
+  "title": "earnesthealth.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "earnesthealth.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome to Ernest Health. Ernest Health is a network of rehabilitation and long-term acute care hospitals. Ernest Health hospitals provide specialized medical and rehabilitative services to patients recovering from disabilities caused by injuries or...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6dfd15782fc03839c8d271be5e42bf54.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwfybmvzdghlywx0ac5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-03 12:52:00.000000",
+    "disclosedDate": "2024-03-03 14:48:19.992964"
+  }
+}

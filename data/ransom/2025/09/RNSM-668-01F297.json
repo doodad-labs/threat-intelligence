@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-01F297",
+  "type": "ransomware-incident",
+  "title": "SISTRAN Consultores ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SISTRAN Consultores",
+    "domain": "sistran.com",
+    "country": "MX",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blacknevas",
+    "name": "blacknevas",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "538k files1.1TBlisting data https://gofile.io/d/r8a9GVThe company specializes in providing IT services, software development, and consulting solutions, primarily focused on the insurance industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9581410203252039e8847ee0ce9bcaa8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0ltvfjbtibdb25zdwx0b3jlc0bibgfja25ldmfz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-01 16:53:58",
+    "disclosedDate": "2025-09-01 17:51:30.096391"
+  }
+}

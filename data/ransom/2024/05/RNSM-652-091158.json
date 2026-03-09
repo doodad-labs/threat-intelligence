@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-091158",
+  "type": "ransomware-incident",
+  "title": "grc-c.co.il ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "grc-c.co.il",
+    "domain": "grc-c.co.il",
+    "country": "IL",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Company G. R. si. Consultants Ltd. (formerly Audit Plus Ltd.) has been operating since 2007 in the areas of internal audit, internal control and risk management and assessment. The company employs lawyers, economists, internal auditors and profession...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9cf4d983f352a04e35a770f48b654b6c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jjlwmuy28uawxabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-29 00:00:00.000000",
+    "disclosedDate": "2024-05-09 13:22:20.751549"
+  }
+}

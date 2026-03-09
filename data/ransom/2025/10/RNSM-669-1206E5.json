@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-1206E5",
+  "type": "ransomware-incident",
+  "title": "Ministerio de Salud de la Nación argentina ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ministerio de Salud de la Nación argentina",
+    "country": "AR",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Ministry of Health of Argentina is the agency responsible for coordinating and overseeing public health policy in the country. Its objective is to strengthen the health system in a federal and equitable manner, ensuring access to quality health services for the population. Since September 30, 2024, the Minister of Health is Mario Lugones, who assumed the position following the departure of Mario Russo. The ministry is also responsible for epidemiology, vaccination campaigns, and border health control, among other functions - The data include high sansitive informations for more then 2 millions patients in xlsx files , (APPLICATION_DATE;MONTH;PROVINCE;DEPARTMENT;LOCALITY;VACCINE;CONDITION;AGE_RANGE;REGISTRATION_DELAY_RANGE_DAYS;SEX;GENERIC_DOSE;QUANTITY - FECHA_APLICACION;MES;PROVINCIA;DEPARTAMENTO;LOCALIDAD;VACUNA;CONDICION;RANGO_ETARIO;RANGO_DEMORA_REGISTRO_DIAS;SEXO;DOSIS_GENERICA;CANTIDAD and lot more) we don't provide samples becouse its very private data but we provide tree to folders , all files in XLSx-organized files, get in touch",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/482843c62caf5c7cf2db2673c0d97ee2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twluaxn0zxjpbybkzsbtywx1zcbkzsbsysboywnpw7nuigfyz2vudgluyubub3zh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-12 16:08:04.338085",
+    "disclosedDate": "2025-10-12 16:08:45.904277"
+  }
+}

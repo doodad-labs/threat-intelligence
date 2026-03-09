@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-651-01CB1F",
+  "type": "ransomware-incident",
+  "title": "Roberson & Sons Insurance Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Roberson & Sons Insurance Services",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Roberson Insurance downloaded over 2000 customers (including SSN, DL number, DOB), their vehicle data(vehicle VIN numbers, addresses, mail, phone numbers, TaxID, etc.), documents, DL copies, contracts, insurance payments, financials, etc.",
+    "claimed_data_types": [
+      "phone-numbers",
+      "addresses",
+      "government-identifiers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um9izxjzb24gjibtb25zieluc3vyyw5jzsbtzxj2awnlc0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-01 23:57:10.387565",
+    "disclosedDate": "2024-04-01 23:57:10.387588"
+  }
+}

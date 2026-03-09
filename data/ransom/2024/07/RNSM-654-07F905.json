@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-07F905",
+  "type": "ransomware-incident",
+  "title": "Harry Perkins Institute of medical research ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Harry Perkins Institute of medical research",
+    "country": "AU",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 4600000000000,
+    "description": "The Harry Perkins Institute of medical research is a leading Western Australian medical research centre, dedicated to tackling some of the world’s biggest health issues. Harry Perkins Institute of Medical Research corporate office is located in PO Box 7214, Australia and has 172 employees. 4.6TB of internal building carmera recordings have been uploaded.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgfycnkgugvya2lucybjbnn0axr1dgugb2ygbwvkawnhbcbyzxnlyxjjaebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-07 11:42:52.754834",
+    "disclosedDate": "2024-07-07 11:42:53.459324"
+  }
+}

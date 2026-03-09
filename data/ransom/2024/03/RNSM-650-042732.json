@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-042732",
+  "type": "ransomware-incident",
+  "title": "Veeco ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Veeco",
+    "domain": "veeco.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Veeco is a company that operates in the machinery industry. It employs 11-20 people and has $5M-$10M of revenue. The company is headquartered in Riverside, California.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmvly29abwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-04 16:20:18.12345",
+    "disclosedDate": "2024-03-04 22:05:24.171257"
+  }
+}

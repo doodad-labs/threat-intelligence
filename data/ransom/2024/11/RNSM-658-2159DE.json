@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-2159DE",
+  "type": "ransomware-incident",
+  "title": "Hogan Mfg (hoganmfg.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hogan Mfg (hoganmfg.com)",
+    "domain": "hoganmfg.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000,
+    "description": "10,5 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ec20a9aac714ef34e30ee763ead04ceb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9nyw4gtwznichob2dhbm1mzy5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-21 00:00:00.000000",
+    "disclosedDate": "2024-11-21 14:38:30.074738"
+  }
+}

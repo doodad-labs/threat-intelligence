@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26F465",
+  "type": "ransomware-incident",
+  "title": "INFORMATICA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "INFORMATICA.COM",
+    "domain": "informatica.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Enterprise Cloud Data Management - Informatica",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/37fc50bcf7fffaaaf8cc438ad1c89a12.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/su5gt1jnqvrjq0euq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:57:28.843369",
+    "disclosedDate": "2023-07-26 20:57:28.843391"
+  }
+}

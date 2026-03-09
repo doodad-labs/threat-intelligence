@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10A23A",
+  "type": "ransomware-incident",
+  "title": "editel.eu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "editel.eu",
+    "domain": "editel.eu",
+    "country": "AT",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] EDITEL is an international specialist for electronic data interchange (EDI) solutions offering services to organizations to exchange business documents electronically. The company provides consulting, implementation, and outsourcing services for optimizing supply chain processes. They cater to a broad range of sectors including retail, automotive, logistics, and the consumer goods industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwrpdgvslmv1qgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 20:09:47.479223",
+    "disclosedDate": "2025-02-10 20:09:52.323582"
+  }
+}

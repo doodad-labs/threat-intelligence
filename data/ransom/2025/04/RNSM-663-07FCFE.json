@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-07FCFE",
+  "type": "ransomware-incident",
+  "title": "CVTE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CVTE",
+    "domain": "cvte.com",
+    "country": "CN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hellcat",
+    "name": "hellcat",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have breached the internal systems of Guangzhou Shiyuan Electronic Technology, securing sensitive files that, if exposed, would cause serious disruption across operations and partnerships.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1zurubozwxsy2f0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-07 17:51:34.000000",
+    "disclosedDate": "2025-04-07 19:02:22.988539"
+  }
+}

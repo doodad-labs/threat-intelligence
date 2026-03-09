@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-0571D5",
+  "type": "ransomware-incident",
+  "title": "www.sje.vic.edu.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.sje.vic.edu.au",
+    "domain": "sje.vic.edu.au",
+    "country": "AU",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "St Joseph's College Echuca is a Kildare Education Ministries Catholic co-educational secondary college that has been serving the Echuca Moama region for nearly 140 years. The college focuses on providing quality education in a vibrant community, promoting excellence and equity among students.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/70bd626e1019a2782de19d060e71d1af.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnqzs52awmuzwr1lmf1qgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 15:24:38.048000",
+    "disclosedDate": "2026-01-05 16:27:41.739807"
+  }
+}

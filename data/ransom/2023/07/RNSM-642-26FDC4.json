@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-642-26FDC4",
+  "type": "ransomware-incident",
+  "title": "Hometrust Mortgage Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hometrust Mortgage Company",
+    "domain": "hometrust.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ALL DATA AVAILABLE FOR DOWNLOADING!!!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9023b2ec656c3f4915b1d22c0be77795.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9tzxrydxn0ie1vcnrnywdlienvbxbhbnlaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/206c9dd4-0639-4f2c-9fff-78ff256df01a.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-08-15 16:34:47.000000",
+    "disclosedDate": "2023-07-26 16:58:30.586243"
+  }
+}

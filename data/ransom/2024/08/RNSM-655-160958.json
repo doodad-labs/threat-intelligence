@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-160958",
+  "type": "ransomware-incident",
+  "title": "SuperDrob S.A. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SuperDrob S.A.",
+    "domain": "superdrob.pl",
+    "country": "PL",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Poland - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3db214705c5ffc98ef1f948ba034f08d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vwzxjecm9iifmuqs5aahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-16 15:30:44.000000",
+    "disclosedDate": "2024-08-16 16:53:37.264997"
+  }
+}

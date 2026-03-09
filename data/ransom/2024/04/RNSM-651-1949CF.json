@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-1949CF",
+  "type": "ransomware-incident",
+  "title": "bankwithunited.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bankwithunited.com",
+    "domain": "bankwithunited.com",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "bankwithunited.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f86c4df34ffc6ff5cf779a7584bc8540.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymfua3dpdgh1bml0zwquy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-10-11 22:24:00.000000",
+    "disclosedDate": "2024-04-19 11:53:01.851082"
+  }
+}

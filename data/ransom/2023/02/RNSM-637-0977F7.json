@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-0977F7",
+  "type": "ransomware-incident",
+  "title": "phihong.com.tw ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "phihong.com.tw",
+    "domain": "phihong.com.tw",
+    "country": "TW",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Phihong Technology Co., Ltd. manufactures and sells power supply products in Taiwan and internationally. The company offers power adaptors, power over Ethernet products, EV chargers, and worksite radios for personal electronics, networking, POS, smal...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cghpag9uzy5jb20udhdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-09 05:20:22.159516",
+    "disclosedDate": "2023-02-09 05:20:22.159516"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-218E52",
+  "type": "ransomware-incident",
+  "title": "JDC Air & Sea Freight (HEUEL LOGISTICS Group) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JDC Air & Sea Freight (HEUEL LOGISTICS Group)",
+    "country": "DE",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "The JDC Air & Sea Freight is part of the HEUEL LOGISTICS Group. As an international freight forwarder, the company has its focus on air and sea cargo, as well as contract logistics.We are going to upload about 20 GB of corporate data. Employee personal information, lots of agreements and contracts, client information, detailed financial data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/skrdiefpciamifnlysbgcmvpz2h0ichirvvftcbmt0dju1rjq1mgr3jvdxapqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-21 00:00:00.000000",
+    "disclosedDate": "2025-05-21 13:10:33.257842"
+  }
+}

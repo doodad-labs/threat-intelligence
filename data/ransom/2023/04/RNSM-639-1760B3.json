@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-1760B3",
+  "type": "ransomware-incident",
+  "title": "Winter Park Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Winter Park Construction",
+    "domain": "wpc.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "trigona",
+    "name": "trigona",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Winter Park Construction (WPC) is a well-established company that has been providing general contractor, pre-construction, construction management and renovation services to Central Florida and the southeast United States since 1974. With over $200M in projects set for completion in 2020 and employment for 140+ full-time employees, WPC has established itself as a leader in the construction industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c8f95c1e04f7adaeb64233c59aaea32a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2ludgvyifbhcmsgq29uc3rydwn0aw9uqhryawdvbme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-17 19:17:27.515324",
+    "disclosedDate": "2023-04-17 19:17:27.515324"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-288613",
+  "type": "ransomware-incident",
+  "title": "Al-Hejailan Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Al-Hejailan Group",
+    "domain": "hejailan.com",
+    "country": "SA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "​​​​​Data has been leaked shame on you and all who work with you",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ac93c55b90744bbf452e2a2497de437.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwwtsgvqywlsyw4gr3jvdxbabm92yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-14 00:00:00.000000",
+    "disclosedDate": "2025-04-28 13:24:24.522579"
+  }
+}

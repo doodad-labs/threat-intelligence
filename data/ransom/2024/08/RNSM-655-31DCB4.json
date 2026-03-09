@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-31DCB4",
+  "type": "ransomware-incident",
+  "title": "NOBI AS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NOBI AS",
+    "domain": "nobi.no",
+    "country": "NO",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "meow",
+    "name": "meow",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "NOBI AS is a Norwegian company specializing in innovative smart home solutions. It focuses on enhancing the quality of life for the elderly and individuals with special needs by integrating advanced technology into everyday living environments. Their products typically include smart lighting, sensors, and automated systems designed to promote safety, independence, and well-being.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tk9cssbbu0btzw93",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-31 20:25:30.272934",
+    "disclosedDate": "2024-08-31 20:25:32.332753"
+  }
+}

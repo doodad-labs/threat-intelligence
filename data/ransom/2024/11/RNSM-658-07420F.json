@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-07420F",
+  "type": "ransomware-incident",
+  "title": "www.msdl.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.msdl.ca",
+    "domain": "msdl.ca",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[IA generated] www.msdl.ca is the website for MSDL, which stands for Multinational School Development Limited. The company specializes in educational consultancy and management services, focusing on establishing and managing international schools. They offer expertise in curriculum development, school operations, and staff training, aiming to deliver high-quality education in diverse global settings.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1318e0127a69f97692fa0dbad3efd040.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1zzgwuy2facmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-06 22:37:16.000000",
+    "disclosedDate": "2024-11-07 00:23:12.820413"
+  }
+}

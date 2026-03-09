@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-106101",
+  "type": "ransomware-incident",
+  "title": "conbraco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "conbraco.com",
+    "domain": "conbraco.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Conbraco Industries Inc is a manufacturer and supplier of flow control products for US and international markets. Their products include relief valves, backflow prevention devices, strainers, temperature control valves, and more. The company, under the brand name Apollo Valves, has been operating since 1928. Its manufacturing, research, and development operations are located in South Carolina, USA.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29uynjhy28uy29tqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:56:28.005803",
+    "disclosedDate": "2025-02-10 19:56:34.040909"
+  }
+}

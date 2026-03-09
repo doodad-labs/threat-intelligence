@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-240FB6",
+  "type": "ransomware-incident",
+  "title": "Sunfab Hydraulics AB ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sunfab Hydraulics AB",
+    "domain": "sunfab.se",
+    "country": "SE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sunfab Hydraulics develops, produces and sells system components for the operation of hydraulic equipment in mobile hydraulics. sunfab.se",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8a0237587cd074387fb2208ee02eddf6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vuzmfiieh5zhjhdwxpy3mgqujaogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-24 00:00:00.000000",
+    "disclosedDate": "2024-01-24 02:53:25.537440"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26A7BB",
+  "type": "ransomware-incident",
+  "title": "AMF.SE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AMF.SE",
+    "domain": "amf.se",
+    "country": "SE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AMF - Pensionen från jobbet - amf.se",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b6180d3b8ac4b5c7e13fe3a969aed91e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qu1gllnfqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:33:11.272398",
+    "disclosedDate": "2023-07-26 20:33:11.272439"
+  }
+}

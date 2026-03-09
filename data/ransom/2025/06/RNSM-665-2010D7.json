@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-2010D7",
+  "type": "ransomware-incident",
+  "title": "Disneyland Paris ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Disneyland Paris",
+    "country": "FR",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Confidential Disneyland documents.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5198ed1583a8ac89515512f07d3a5de8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rglzbmv5bgfuzcbqyxjpc0bhbnviaxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-20 15:39:31.400355",
+    "disclosedDate": "2025-06-20 15:40:06.281044"
+  }
+}

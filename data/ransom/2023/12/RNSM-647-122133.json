@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-122133",
+  "type": "ransomware-incident",
+  "title": "shareharris.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "shareharris.com",
+    "domain": "shareharris.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Share & Harris LLC is a company that operates in the Accounting industry. It employs 11-20 people and has $1M-$5M of revenue. The company is headquartered in East Brunswick, New Jersey, 08816, United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cba01a136fa7b36f7389a68e3d941dd2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2hhcmvoyxjyaxmuy29tqhrocmvlyw0=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-12 17:42:04.877888",
+    "disclosedDate": "2023-12-12 17:42:04.877909"
+  }
+}

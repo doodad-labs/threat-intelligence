@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-660-084147",
+  "type": "ransomware-incident",
+  "title": "Slawson Companies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Slawson Companies",
+    "domain": "slawsoncompanies.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Slawson Companies is a community builder that has diversified into commercial and residential real estate development, restaurants, and hotels. We are ready to upload more than 20 GB of private corporate documents including: driver licenses, NDAs, credit cards info, internal financial documents, vaccination certificates, contact numbers and e-mail addresses of employees and customers etc.",
+    "claimed_data_types": [
+      "financial-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2xhd3nvbibdb21wyw5pzxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-12 00:00:00.000000",
+    "disclosedDate": "2025-01-08 12:05:18.839866"
+  }
+}

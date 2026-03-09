@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-09D514",
+  "type": "ransomware-incident",
+  "title": "pilini.bg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pilini.bg",
+    "domain": "pilini.bg",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "You have been hacked, all your data is now mine, if you want to get your backups back you will have to pay us.We require a ransom of $8,000",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cglsaw5plmjnqhjhbnnvbwvk",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-09 15:07:23.574592",
+    "disclosedDate": "2023-09-09 15:07:23.574620"
+  }
+}

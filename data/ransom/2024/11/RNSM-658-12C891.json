@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-12C891",
+  "type": "ransomware-incident",
+  "title": "Giggle Finance ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Giggle Finance",
+    "domain": "gigglefinance.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/241474dc2937a2cca2adbfb7acd24f2c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2lnz2xliezpbmfuy2vaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-12 23:10:04.038997",
+    "disclosedDate": "2024-11-12 23:10:05.802277"
+  }
+}

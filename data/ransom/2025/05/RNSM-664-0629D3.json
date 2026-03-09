@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-664-0629D3",
+  "type": "ransomware-incident",
+  "title": "44North ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "44North",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "44North, headquartered in Cadillac, Michigan, provides health benefit consulting and plan design. Thei…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ndrob3j0aebtawxlbnrsyw5zb21hcm91ca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-05 10:55:11.495828",
+    "disclosedDate": "2025-05-06 18:15:34.302854"
+  }
+}

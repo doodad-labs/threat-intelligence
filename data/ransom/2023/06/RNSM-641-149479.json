@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-149479",
+  "type": "ransomware-incident",
+  "title": "oekk.ch ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "oekk.ch",
+    "domain": "oekk.ch",
+    "country": "CH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ÖKK – Die Krankenkasse mit gesunden Bündnerverstand",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cbfddd2519998fd0fe859192bedbd2c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b2vray5jaebjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-14 20:19:36.816250",
+    "disclosedDate": "2023-06-14 20:19:36.816271"
+  }
+}

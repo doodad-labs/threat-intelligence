@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-1458BE",
+  "type": "ransomware-incident",
+  "title": "dhanisisd.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dhanisisd.net",
+    "domain": "dhanisisd.net",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "D'Hanis Independent School District is a public school district in Texas.You can contact the main system administrator on the contacts below, waiting for an answer can take some time from 1 minute to several days depending on the workload.Conta...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b885bb0ab4fa19a128e76fce022676f9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zghhbmlzaxnklm5ldebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-06 00:00:00.000000",
+    "disclosedDate": "2024-03-14 13:16:10.403374"
+  }
+}

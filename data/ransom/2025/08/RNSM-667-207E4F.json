@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-207E4F",
+  "type": "ransomware-incident",
+  "title": "garnertrucking.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "garnertrucking.com",
+    "domain": "garnertrucking.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Garner is a company specializing in dry freight transportation, located in northwestern Ohio.1.The document dated June 2, 2025, is the annual report on school tax withholdings in Ohio for 2021 for Garner Contract Maintenance.2.The documen            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/67241dba670166eb0509569c7d3c9b21.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2fybmvydhj1y2tpbmcuy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-20 00:00:00.000000",
+    "disclosedDate": "2025-08-20 14:11:07.073847"
+  }
+}

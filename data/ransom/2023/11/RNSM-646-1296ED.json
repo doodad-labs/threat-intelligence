@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-1296ED",
+  "type": "ransomware-incident",
+  "title": "wombleco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wombleco.com",
+    "domain": "wombleco.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Womble Company has been protecting your investment for over 40 years. We apply both internal and external pipeline coating systems. The amount of pipe we have coated could circle the earth 3 times.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7cafdd01bcd90872b96f83a6fc196ab3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d29tymxly28uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-12 18:14:00.000000",
+    "disclosedDate": "2023-11-12 18:57:45.001993"
+  }
+}

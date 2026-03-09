@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-1016F6",
+  "type": "ransomware-incident",
+  "title": "ekonom.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ekonom.com",
+    "domain": "ekonom.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Ekonom.com\" is an online platform that offers business and economics-related news, articles, and interviews. Based in Czech Republic, the website is dedicated to providing in-depth and informative content related to the country's as well as global economy. It covers an array of sectors including finance, real estate, and entrepreneurship. Notably, it also publishes content on career advice and lifestyle targeting the business community.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwtvbm9tlmnvbubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 20:10:14.778951",
+    "disclosedDate": "2025-02-10 20:10:24.442348"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-254A7B",
+  "type": "ransomware-incident",
+  "title": "RiverRestHome ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RiverRestHome",
+    "domain": "rivervalleyresthome.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "River Valley Rest Home is a Level IV Rest Home licensed for 25 beds with CSF (Community Support Facility) designation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/954280a764ab8dde542cad43c8af25a1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uml2zxjszxn0sg9tzubrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-25 03:38:59.838060",
+    "disclosedDate": "2024-11-25 03:39:01.107327"
+  }
+}

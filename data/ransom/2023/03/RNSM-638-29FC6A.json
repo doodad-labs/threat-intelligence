@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-638-29FC6A",
+  "type": "ransomware-incident",
+  "title": "Savanna Technical College ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Savanna Technical College",
+    "domain": "savannahtech.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "Savannah Technical College provides dynamic education and variable services to its students in many locations. They've lost almost 100GB of their internal information. We are ready to share it with you.You can find there tons of personal data of their employees, financial documents, auto park information, insurance, passports, and even a note from sheriff.You are welcome!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1715dd0e2e82fac1da0fa2fbbca62968.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2f2yw5uysbuzwnobmljywwgq29sbgvnzubyb3lhba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-27 01:02:03.456789",
+    "disclosedDate": "2023-03-29 02:36:18.255456"
+  }
+}

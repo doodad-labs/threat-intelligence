@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-30B296",
+  "type": "ransomware-incident",
+  "title": "entab.se ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "entab.se",
+    "domain": "entab.se",
+    "country": "SE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "global",
+    "name": "global",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ENT Energiteknik AB is a company that operates in the Cultural & Informational Centers industry. The company is headquartered in Stockholm, Sweden.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw50ywiuc2vaz2xvymfs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-30 00:00:00.000000",
+    "disclosedDate": "2025-06-30 16:14:53.313384"
+  }
+}

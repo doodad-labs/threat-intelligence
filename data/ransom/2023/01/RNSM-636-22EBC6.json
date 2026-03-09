@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-636-22EBC6",
+  "type": "ransomware-incident",
+  "title": "ibb-business-team.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ibb-business-team.de",
+    "domain": "ibb-business-team.de",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Financing offers in Berlin for start-ups, SMEs and real estateIBB Business Team GmbH is a 100% subsidiary of the IBB Group.On behalf of the State of Berlin and the Investment Bank of Berlin (IBB), it implements various grants for start-ups, SME...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awjilwj1c2luzxnzlxrlyw0uzgvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-22 07:28:01.157308",
+    "disclosedDate": "2023-01-22 07:28:01.157308"
+  }
+}

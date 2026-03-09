@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-0712AD",
+  "type": "ransomware-incident",
+  "title": "newhorizonsmedical.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "newhorizonsmedical.org",
+    "domain": "newhorizonsmedical.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The mission of New Horizons Medical is to provide patients with compassionate, comprehensive, and evidence-based treatments for substance use disorders and psychiatric diagnoses. Each and every patient is treated as an individual with distinctive req...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2fe0d9f432092b18530037150e6fbde1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmv3ag9yaxpvbnntzwrpy2fslm9yz0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-07 10:38:00.000000",
+    "disclosedDate": "2023-06-07 11:52:08.011286"
+  }
+}

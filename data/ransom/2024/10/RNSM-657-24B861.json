@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-24B861",
+  "type": "ransomware-incident",
+  "title": "robinhood.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "robinhood.com",
+    "domain": "robinhood.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Robinhood Broker Clients' Data.7 732 244 lines of emails",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/788339caa92d5081cd0e132a7a491c0f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm9iaw5ob29klmnvbubhchq3mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-17 09:00:00.000000",
+    "disclosedDate": "2024-10-24 13:51:43.397411"
+  }
+}

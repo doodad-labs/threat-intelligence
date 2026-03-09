@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-661-062B89",
+  "type": "ransomware-incident",
+  "title": "northernresponse.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "northernresponse.com",
+    "domain": "northernresponse.com",
+    "country": "CA",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "<p>Retail.<br><br>“Located in Toronto, Ontario, Canada, Northern Response has been a pioneer in the Canadian market since 1984, building brands and scaling distribution via omni-channel marketing platforms including Live Shopping, TV, Print, Mass + Travel Retail and Online (TikTok, Facebook, Instagram, Twitter, Amazon etc.). ”<br><br>Website: <a href=\"https://northernresponse.com/\">https://northernresponse.com/</a><br><br>Revenue : $17.4M<br><br>Address: 50 Staples Ave, Richmond Hill, Ontario, L4B 0A7, Canada<br><br>Phone Number: (905) 737-6698<br><br><mark class=\"marker-yellow\"><strong>Download link #1:</strong></mark> <a href=\"https://6wuivqgrv2g7brcwhjw5co3vligiqowpumzkcyebku7i2busrvlxnzid.onion/NRESPONSE/PROOF/\">https://6wuivqgrv2g7brcwhjw5co3vligiqowpumzkcyebku7i2busrvlxnzid.onion/NRESPONSE/PROOF/</a><br><br><mark class=\"marker-yellow\"><strong>Mirror:</strong></mark> <a href=\"https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/NRESPONSE/PROOF/\">https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/NRESPONSE/PROOF/</a><br><br><mark class=\"marker-yellow\"><strong>DATA DESCRIPTIONS:</strong></mark> Personal identifiable information, database backups (including customers information), employees and executives personal folders, corporate OneDrive, financial data, legal docs, contracts\\NDAs, corporate correspondence, etc.</p><p><img src=\"/uploads/RS_PASSPORT_5bdc6aba55.png\" alt=\"RS PASSPORT.png\"><img src=\"/uploads/LR_3_dd95e7a48e.png\" alt=\"LR3.png\"><img src=\"/uploads/Northern_Response_International_Ltd_20240331_95831d7424.png\" alt=\"Northern Response (International) Ltd (20240331).png\"><img src=\"/uploads/Personal_and_Confidential_NW_02_28_2023_A_1f8259f3d3.png\" alt=\"Personal&amp; Confidential - NW02.28.2023A.png\"><img src=\"/uploads/KWONG_MING_KO_Driver_Licence_0999d6b004.png\" alt=\"KWONG MING KO_Driver_Licence.png\"></p>",
+    "claimed_data_types": [
+      "phone-numbers",
+      "passport-numbers",
+      "financial-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/00d9253410f35cf0bd43d57775dcc47f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bm9ydghlcm5yzxnwb25zzs5jb21ay2fjdhvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 00:00:00.000000",
+    "disclosedDate": "2025-02-06 19:26:14.876501"
+  }
+}

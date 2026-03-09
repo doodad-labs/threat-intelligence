@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-147890",
+  "type": "ransomware-incident",
+  "title": "Xerox ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Xerox",
+    "domain": "xerox.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Xerox Corporation provides document management solutions worldwide. The company's Document Technology segment offers desktop monochrome and color printers, multifunction printers, copiers, digital printing presses, and light production devices; and production printing and publishing systems for the graphic communications marketplace and large enterprises. Its Services segment provides document outsourcing services comprising managed print, workflow automation, and communication and marketing services. The company also sells paper, wide-format systems, global imaging systems network integration solutions, and electronic presentation systems. The company sells its products and services directly to its customers; and through its sales force, as well as through a network of independent agents, dealers, value-added resellers, systems integrators, and the Web. Xerox Corporation was founded in 1906 and is headquartered in Norwalk.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/804faf17ec46c46e5378f8569d5f32e0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wgvyb3haaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-10 00:00:00.000000",
+    "disclosedDate": "2025-09-14 13:48:45.108174"
+  }
+}

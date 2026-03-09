@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-643-24EDEA",
+  "type": "ransomware-incident",
+  "title": "Edmonds School District ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Edmonds School District",
+    "domain": "wednet.edu",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "Edmonds School District's 35 schools cover approximately 36 square miles within the communities of Brier, Edmonds, Lynnwood, Mountlake Terrace, Woodway and portions of unincorporated Snohomish County. Edmonds School District's data covers approximately 10GB ( sql file) on our server and seems not to be very interested in saving it. So we are ready to share it with everyone interested. I think you can imagine what data will be released: personal students documents, employees info, financials, accounting and much other. We are working on the release.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwrtb25kcybty2hvb2wgrglzdhjpy3raywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.seattletimes.com/seattle-news/education/technology-issues-causes-late-start-confusion-at-edmonds-schools/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-24 18:08:54.535104",
+    "disclosedDate": "2023-08-24 18:08:54.682976"
+  }
+}

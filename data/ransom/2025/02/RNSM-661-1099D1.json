@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-1099D1",
+  "type": "ransomware-incident",
+  "title": "SimonMed Imaging ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SimonMed Imaging",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 212616000000,
+    "description": "SimonMed Imaging (founded in 2003) is an outpatient medical imaging provider operating across United States with over 150 accredited facilities that are ACR-RADSITE certified with certified technologists and equipment. SimonMed Imaging corporate office is located in 16220 N Scottsdale Rd Ste 600, Scottsdale, Arizona, 85254, United States and has 2,030 employees. The total amount of data leakage is 212.616 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0782187cc05a4b785500d4400dbe3e17.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2ltb25nzwqgsw1hz2luz0btzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-07 11:47:50.000000",
+    "disclosedDate": "2025-02-10 16:00:08.660884"
+  }
+}

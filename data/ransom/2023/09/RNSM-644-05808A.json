@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-05808A",
+  "type": "ransomware-incident",
+  "title": "godbeylaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "godbeylaw.com",
+    "domain": "godbeylaw.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Personal Injury & Family Law Attorneys Cincinnati Ohio & Northern Kentucky",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7eb24c61930f9086565251f9fe5f8c53.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z29kymv5bgf3lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-05 04:53:00.000000",
+    "disclosedDate": "2023-09-05 05:31:52.031572"
+  }
+}

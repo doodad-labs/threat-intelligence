@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-072C00",
+  "type": "ransomware-incident",
+  "title": "DeVal LCS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DeVal LCS",
+    "domain": "devallcs.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "insomnia",
+    "name": "insomnia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DeVal LCS is a U.S. mechanical and electro-mechanical manufacturer specializing in armament and ground‑support equipment for the DoD. An AS9100D-certified business, DeVal provides build-to-print turnkey manufacturing, precision machining, and assembly.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f87310ba0b5a56ed84ddc764aa3c8cfc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvwywwgtentqgluc29tbmlh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-29 00:00:00.000000",
+    "disclosedDate": "2026-02-07 21:27:35.435996"
+  }
+}

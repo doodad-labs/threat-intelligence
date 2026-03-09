@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-269B9C",
+  "type": "ransomware-incident",
+  "title": "ABBVIE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ABBVIE.COM",
+    "domain": "abbvie.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pharmaceutical Research & Development - AbbVie",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d9e98e88660c1967a1521069fc9573fe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qujcvklflknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-26 22:24:56.645756",
+    "disclosedDate": "2023-06-26 22:24:56.645776"
+  }
+}

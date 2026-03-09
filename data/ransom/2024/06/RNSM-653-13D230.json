@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-13D230",
+  "type": "ransomware-incident",
+  "title": "Borrer Executive Search ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Borrer Executive Search",
+    "domain": "borrerexecutive.com",
+    "country": "CH",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Borrer Executive Search is an AESC accredited boutique search and selection firm based in Lausanne, Switzerland. internal documents, agreements...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4781a11d907fc5c14fa5f8ce4f183b5b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qm9ycmvyiev4zwn1dgl2zsbtzwfyy2hayxb0nzm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-13 17:37:10.240848",
+    "disclosedDate": "2024-06-13 17:37:11.181762"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-09EB28",
+  "type": "ransomware-incident",
+  "title": "Arabian Escapes ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Arabian Escapes",
+    "domain": "arabianescapes.com",
+    "country": "AE",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "No description available.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3af250b39234c0b1497b238928531284.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjhymlhbibfc2nhcgvzqgnvaw5iyxnly2fydgvs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-09 05:17:19.722329",
+    "disclosedDate": "2025-12-09 05:17:30.540791"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-2357E2",
+  "type": "ransomware-incident",
+  "title": "www.missionbank.bank ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.missionbank.bank",
+    "domain": "missionbank.bank",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Mission Bank is a full-service, community-based bank based in California. They offer an array of products and services like personal banking, commercial banking, wealth management and online banking. Their goal is to foster community growth by providing personalized financial solutions to local businesses and individuals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/58cfa1a35a5b7125883ca2b93a0763ed.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1pc3npb25iyw5rlmjhbmtacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-23 09:37:06.316442",
+    "disclosedDate": "2025-01-23 09:38:15.724710"
+  }
+}

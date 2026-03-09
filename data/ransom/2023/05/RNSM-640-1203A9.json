@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-640-1203A9",
+  "type": "ransomware-incident",
+  "title": "pwlawfirm.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pwlawfirm.com",
+    "domain": "pwlawfirm.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Piasecki & Whitelaw, LLC 385G uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chdsyxdmaxjtlmnvbubhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-12 06:47:35.033790",
+    "disclosedDate": "2023-05-12 06:47:35.033815"
+  }
+}

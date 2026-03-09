@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-119101",
+  "type": "ransomware-incident",
+  "title": "metten-maas.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "metten-maas.de",
+    "domain": "metten-maas.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ebd723b7f572912fa8fcfc5faff8db76.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwv0dgvulw1hyxmuzgvac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-04 00:00:00.000000",
+    "disclosedDate": "2025-05-11 21:52:00.052087"
+  }
+}

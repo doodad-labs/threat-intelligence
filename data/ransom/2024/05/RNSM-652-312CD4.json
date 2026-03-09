@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-312CD4",
+  "type": "ransomware-incident",
+  "title": "biremote.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "biremote.net",
+    "domain": "biremote.net",
+    "country": "PR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "B & I CONSULTING SERVICES GROUP",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymlyzw1vdguubmv0qgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-31 15:25:43.557113",
+    "disclosedDate": "2024-05-31 16:29:45.171895"
+  }
+}

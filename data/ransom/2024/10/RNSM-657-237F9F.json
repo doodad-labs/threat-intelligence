@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-657-237F9F",
+  "type": "ransomware-incident",
+  "title": "Mar-Bal (mar-bal.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mar-Bal (mar-bal.com)",
+    "domain": "mar-bal.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 37000000000,
+    "description": "37 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d8f0e31ca2b2ce5310a9558875ba00a3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfylujhbcaobwfylwjhbc5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-23 00:00:00.000000",
+    "disclosedDate": "2024-10-23 13:09:56.653978"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-23C2BC",
+  "type": "ransomware-incident",
+  "title": "KANNACT.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KANNACT.COM",
+    "domain": "kannact.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kannact",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a13be484fa937b5c827c72ecd5a56a7c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0fotkfdvc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-23 11:12:49.018737",
+    "disclosedDate": "2023-03-23 11:12:49.018759"
+  }
+}

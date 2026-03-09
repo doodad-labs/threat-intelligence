@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-117FD1",
+  "type": "ransomware-incident",
+  "title": "Wakefield & Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wakefield & Associates",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 13000000000,
+    "description": "Wakefield & Associates is a financial services company that specializes in debt collection and billing services.We are ready to upload more than 13 GB of sensitive private corporate documents such as: SSNs, passport numbers, confidential licenses, agreements and contracts, financial data (audits, payment details, reports), contact numbers and e-mail addresses of employees and customers, medical insurance documents, internal correspondences, medicare numbers, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2frzwzpzwxkicygqxnzb2npyxrlc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-30 13:34:55.542519",
+    "disclosedDate": "2025-02-11 13:26:21.486597"
+  }
+}

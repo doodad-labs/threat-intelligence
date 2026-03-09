@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-04367B",
+  "type": "ransomware-incident",
+  "title": "Rivertown Surgey Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rivertown Surgey Center",
+    "domain": "rivertownsurgerycenter.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rivertown Surgery Center is a Medicare-certified ambulatory surgical center specializing in outpatient procedures.The facility offers general surgery, pain management, foot surgery, and radiology services, supported by modern equipment.It            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bc0272e4ff84fade5f1da7e0e01cef7b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uml2zxj0b3duifn1cmdlesbdzw50zxjacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-30 00:00:00.000000",
+    "disclosedDate": "2025-09-04 02:42:09.822123"
+  }
+}

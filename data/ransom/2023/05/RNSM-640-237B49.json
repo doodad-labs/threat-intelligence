@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-237B49",
+  "type": "ransomware-incident",
+  "title": "surfsidefoods.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "surfsidefoods.com",
+    "domain": "surfsidefoods.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Based in Port Norris, N.J., Surfside Foods is now the leader in harvesting and processing sustainable clams.  Our exclusive focus on supplying Ocean Quahog (Arctica islandica) and Atlantic Surf (Spisula solida) clams and clam juice ingredients at ind...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d5ef2991cca286813fc5ebdac3892bba.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3vyznnpzgvmb29kcy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-23 11:27:00.000000",
+    "disclosedDate": "2023-05-23 12:53:25.565684"
+  }
+}

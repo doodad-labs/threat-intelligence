@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-158B48",
+  "type": "ransomware-incident",
+  "title": "azpiaran.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "azpiaran.com",
+    "domain": "azpiaran.com",
+    "country": "ES",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Inicio | Azpiaran - The group specializes in Progressive stamping, Fine Blanking, Transfer stamping and Forming technology, azpiaran, Fine Blanking, Progressive stamping, Transfer stamping and Forming technology",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9fc0f00bf84cd1ee9b11ccee64cf86bf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxpwawfyyw4uy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-09 00:00:00.000000",
+    "disclosedDate": "2025-05-15 20:56:54.793229"
+  }
+}

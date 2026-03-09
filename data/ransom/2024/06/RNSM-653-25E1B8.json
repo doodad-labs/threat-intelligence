@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-25E1B8",
+  "type": "ransomware-incident",
+  "title": "ibewlocal1.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ibewlocal1.org",
+    "domain": "ibewlocal1.org",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Frank Jacobs, Business Manager",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/66ea67c7c1b1cf8ae20ea695d5ce1d5d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awjld2xvy2fsms5vcmdaymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-25 08:28:22.623342",
+    "disclosedDate": "2024-06-25 08:28:23.223418"
+  }
+}

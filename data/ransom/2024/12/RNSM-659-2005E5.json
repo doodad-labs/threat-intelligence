@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-2005E5",
+  "type": "ransomware-incident",
+  "title": "PT Pertamina ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PT Pertamina",
+    "domain": "pertamina.com",
+    "country": "ID",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9cb06d0e5217e9d97121f1ad4ef02ea6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ufqgugvydgftaw5hqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-20 13:24:52.596427",
+    "disclosedDate": "2024-12-20 13:24:53.567651"
+  }
+}

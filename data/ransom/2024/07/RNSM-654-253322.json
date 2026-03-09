@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-654-253322",
+  "type": "ransomware-incident",
+  "title": "Odessa College ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Odessa College",
+    "domain": "odessa.edu",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 18000000000,
+    "description": "18 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3f3c6419933ec8731811b81af0d70f78.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2rlc3nhienvbgxlz2vazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-25 17:41:52.797754",
+    "disclosedDate": "2024-07-25 17:41:53.770880"
+  }
+}

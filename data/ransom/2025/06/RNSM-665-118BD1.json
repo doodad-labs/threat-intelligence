@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-118BD1",
+  "type": "ransomware-incident",
+  "title": "www.kerrvilleisd.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.kerrvilleisd.net",
+    "domain": "kerrvilleisd.net",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1890, Kerville Public School District is an accredited 5-A school district located in Texas Hill Country. The District is home to seven traditional campuses, one early childhood center, and an academic alternative high school. The             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1607a7fa4bbe64e9ac3e76a9e81797a0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmtlcnj2awxszwlzzc5uzxracwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-10 00:00:00.000000",
+    "disclosedDate": "2025-06-11 19:46:05.453983"
+  }
+}

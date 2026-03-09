@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-213535",
+  "type": "ransomware-incident",
+  "title": "thecitybank.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "thecitybank.com",
+    "domain": "thecitybank.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] City Bank is one of the oldest private Commercial Banks operating in Bangladesh. It offers different types of banking services like retail banking, SME, credit cards, treasury, and corporate banking. The bank shows remarkable growth through the adoption of modern technology, efficient customer service, and a variety of banking products. It's committed to satisfy stakeholders and contribute to the country's economy.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ad605b3c722cf3820a56dadca85b312e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghly2l0ewjhbmsuy29tqgz1bmtzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-21 14:43:08.624632",
+    "disclosedDate": "2025-01-21 14:43:08.624632"
+  }
+}

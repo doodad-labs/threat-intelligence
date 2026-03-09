@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-1053A8",
+  "type": "ransomware-incident",
+  "title": "rotaryeng.com.sg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rotaryeng.com.sg",
+    "domain": "rotaryeng.com.sg",
+    "country": "SG",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1972, Rotary is one of the region’s leading oil and gas infrastructure services companies with extensive international experience offering fully inte... - On 31 May 2025, we hacked rotaryeng.com.sg and exfiltrated 4+ TB of data. Today, we make the first disclosure which incl...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3ffd875a632b952d815a20b81e65fcd8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm90yxj5zw5nlmnvbs5zz0blbwjhcmdv",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-10 18:24:58.106465",
+    "disclosedDate": "2025-06-10 20:19:28.906044"
+  }
+}

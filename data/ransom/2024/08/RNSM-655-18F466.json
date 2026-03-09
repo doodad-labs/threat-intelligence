@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-18F466",
+  "type": "ransomware-incident",
+  "title": "J&J Network Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "J&J Network Engineering",
+    "domain": "jjnetwork.com.hk",
+    "country": "HK",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have success to gain a group of renowned customers and J&J is recognized in the Building Automation and HVAC Control industrial.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sizkie5ldhdvcmsgrw5naw5lzxjpbmdazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-17 21:27:01.147944",
+    "disclosedDate": "2024-08-18 15:14:31.975955"
+  }
+}

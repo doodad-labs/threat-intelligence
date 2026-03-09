@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-27E2E6",
+  "type": "ransomware-incident",
+  "title": "JPWEST.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JPWEST.COM",
+    "domain": "jpwest.com",
+    "country": "JP"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] JPWEST.COM is a multidisciplinary business solutions company. They provide a range of services for businesses, including business consulting, sales and marketing solutions, supply chain management, IT services, project management, and human resources solutions. Recognized for their holistic approach, they assist businesses in streamlining operations, reducing costs, increasing efficiency, and bolstering growth.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/slbxrvnulknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:30:14.265002",
+    "disclosedDate": "2025-02-27 16:30:19.309744"
+  }
+}

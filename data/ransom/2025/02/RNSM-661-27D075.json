@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27D075",
+  "type": "ransomware-incident",
+  "title": "SEA-JET.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SEA-JET.COM",
+    "domain": "sea-jet.com",
+    "country": "GR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] SEA-JET.COM is a maritime travel company, providing fast and reliable ferry services across various routes. They facilitate efficient sea transportation with their fleet of jet-powered, high-speed ferries. SEA-JET.COM is reputed for its commitment to safety, punctuality, and excellent customer service. They offer services including tickets, vehicle transport, and special trip packages, making sea travel convenient and enjoyable for all.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0vblupfvc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:19:36.961152",
+    "disclosedDate": "2025-02-27 17:19:43.050402"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-067EDE",
+  "type": "ransomware-incident",
+  "title": "Johnson Laschober & Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Johnson Laschober & Associates",
+    "domain": "thejlagroup.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Johnson, Laschober & Associates, P.C. (JLA) is a professional architecture, engi...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ca6c16392be90590d8891b3bffda170.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sm9obnnvbibmyxnjag9izxigjibbc3nvy2lhdgvzqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-23 00:00:00.000000",
+    "disclosedDate": "2024-08-06 23:19:28.936449"
+  }
+}

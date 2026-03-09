@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-16E59A",
+  "type": "ransomware-incident",
+  "title": "Bells Tax Service ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bells Tax Service",
+    "domain": "bellstaxservice.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Accounting Services · California,United StatesBells Tax Service | Bells Tax Service Modesto California Modesto Tax Services Bells Tax Service modesto, tax, preparation, corporate, trusts...< 25 EmployeesRevenue < $5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/56ea735bab5014571dec479161044277.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvsbhmgvgf4ifnlcnzpy2vaymxhy2tsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 20:58:12.459993",
+    "disclosedDate": "2025-05-16 13:08:12.859159"
+  }
+}

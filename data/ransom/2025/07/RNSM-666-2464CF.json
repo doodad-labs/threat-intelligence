@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-666-2464CF",
+  "type": "ransomware-incident",
+  "title": "www.labiennale.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.labiennale.org",
+    "domain": "labiennale.org",
+    "country": "IT",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Venice Biennale was founded in 1895 and is considered one of the most renowned and prestigious cultural institutions in the world. \r At the forefront of research and the dissemination of new contemporary artistic trends, the Venice Biennale organizes exhibitions, performances, research, and educational activities in all its Departments—Art (1895), Architecture (1980), Cinema (1932), Dance (1999), Theatre (1934), and Music (1930).\r \r PRESIDENT\r Pietrangelo Buttafuoco\r \r Now we know how much the The Venice Biennale earns, how much money sponsors and other partners transfer to them!\r We publish only a small part of 800+ gigabytes of data!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/594486deffe5952d2c78444205b85383.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmxhymllbm5hbguub3jnqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://tg.la7.it/cronaca/venezia-attacco-informatico-sistemi-biennale-18-07-2025-241317",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-24 01:00:00.000000",
+    "disclosedDate": "2025-07-24 01:50:37.868020"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-673-05C25A",
+  "type": "ransomware-incident",
+  "title": "Conpet S.A. (COTE.RO) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Conpet S.A. (COTE.RO)",
+    "domain": "conpet.ro",
+    "country": "RO",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a00068e62e7c38b7bc8a85c2595ee7a5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29ucgv0ifmuqs4gkenpveuuuk8pqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-05 00:00:00.000000",
+    "disclosedDate": "2026-02-05 08:19:47.435039"
+  }
+}

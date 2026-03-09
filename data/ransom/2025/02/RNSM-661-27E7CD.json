@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-27E7CD",
+  "type": "ransomware-incident",
+  "title": "REDDYICE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "REDDYICE.COM",
+    "domain": "reddyice.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ReddyIce.com is the online home of Reddy Ice Corporation, a leading US manufacturer and distributor of packaged ice products. The company primarily caters to commercial businesses, including supermarkets, and also serves events, parties, and construction industries. Apart from regular ice, Reddy Ice offers other products like dry ice, ice sculptures, emergency ice delivery and storage solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukverfljq0uuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:12:08.083837",
+    "disclosedDate": "2025-02-27 17:12:17.962515"
+  }
+}

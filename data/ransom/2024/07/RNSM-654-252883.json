@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-252883",
+  "type": "ransomware-incident",
+  "title": "CertiCon ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CertiCon",
+    "domain": "certicon.cz",
+    "country": "CZ",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CertiCon is a Czech company engaged in technological innovation and development of software and hardware solutions for healthcare, telecommunication.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2vydgldb25azhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-25 10:26:15.383049",
+    "disclosedDate": "2024-07-25 12:15:07.681524"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-263992",
+  "type": "ransomware-incident",
+  "title": "KELLYSERVICES.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KELLYSERVICES.COM",
+    "domain": "kellyservices.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Staffing Agencies - Workforce & Staffing Solutions by Kelly Services",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9cbdd861879d530b4f55dd40a5f4dda3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0vmtfltrvjwsunfuy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:54:56.601619",
+    "disclosedDate": "2023-07-26 20:54:56.601641"
+  }
+}

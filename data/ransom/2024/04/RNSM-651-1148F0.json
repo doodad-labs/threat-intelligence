@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-651-1148F0",
+  "type": "ransomware-incident",
+  "title": "Theharriscenter.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Theharriscenter.org",
+    "domain": "theharriscenter.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country: USA",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlagfycmlzy2vudgvylm9yz0bjbg9haw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-11 20:23:52.960640",
+    "disclosedDate": "2024-04-11 20:23:52.960671"
+  }
+}

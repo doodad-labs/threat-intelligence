@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-059D44",
+  "type": "ransomware-incident",
+  "title": "Sturdevant's Auto Parts ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sturdevant's Auto Parts",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 16000000000,
+    "description": "Sturdevant's Auto parts is the regions largest automotive parts &accessory business with 40  locally owned stores in SD, ND, Iowa, Minnesota & Nebraska.We are going to upload about 16 GB of corporate data. Personal documents, lots of contracts and agreements, client data, financialdata (audits, payment details, reports), etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3r1cmrldmfudcdzief1dg8gugfydhnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-05 00:00:00.000000",
+    "disclosedDate": "2025-06-05 14:18:34.083944"
+  }
+}

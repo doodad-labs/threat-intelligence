@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-659-05424B",
+  "type": "ransomware-incident",
+  "title": "Anonymous Victim ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Anonymous Victim",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "Anonymous VictimGeo: Italy - Leak size: 200GB - Contains: N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw5vbnltb3vzifzpy3rpbubzyxjjb21h",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-05 15:16:24.301438",
+    "disclosedDate": "2024-12-05 15:16:24.892524"
+  }
+}

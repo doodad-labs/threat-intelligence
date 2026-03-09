@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-267A0C",
+  "type": "ransomware-incident",
+  "title": "Direct Traffic Control ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Direct Traffic Control",
+    "domain": "directtrafficcontrol.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Direct Traffic Control, Inc., an Oklahoma owned and operated corporation, is an experienced team of traffic control specialists with know-how and integrity. Our expert traffic control team also includes superior striping teams with experience available to answer any questions you may incur along the way. Our combined abilities make a team that we are glad to say can support the Direct Traffic Control name.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/76ddcd3e6ff05fabb13fc1c480015364.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rglyzwn0ifryywzmawmgq29udhjvbebsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-25 13:24:50.619000",
+    "disclosedDate": "2025-03-26 00:59:14.587283"
+  }
+}

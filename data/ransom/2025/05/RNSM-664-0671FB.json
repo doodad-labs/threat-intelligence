@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-664-0671FB",
+  "type": "ransomware-incident",
+  "title": "JMJ Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JMJ Associates",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "JMJ Associates, LLC provides management consulting services primarily for the energy, mining, and cons…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sk1kiefzc29jawf0zxnau2lszw50umfuc29tr3jvdxa=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-13 21:27:04.130590",
+    "disclosedDate": "2025-05-06 18:14:37.395444"
+  }
+}

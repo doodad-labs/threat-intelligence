@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-0781B7",
+  "type": "ransomware-incident",
+  "title": "namibmills.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "namibmills.com",
+    "domain": "namibmills.com",
+    "country": "NA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Namib Mills Ltd, established in 1982, is the largest grain processing company in Namibia. It produces flour, pasta, animal feeds and other products from raw materials including maize, much of which is imported, and local varieties of pearl millet (ma...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/83e2037df0c67adfdaca5dc4cc4fe76d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmftawjtawxscy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-07 15:22:00.000000",
+    "disclosedDate": "2023-05-07 15:50:57.266118"
+  }
+}

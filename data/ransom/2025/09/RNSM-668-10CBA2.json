@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-668-10CBA2",
+  "type": "ransomware-incident",
+  "title": "www.melenco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.melenco.com",
+    "domain": "melenco.com",
+    "country": "AE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 226000000000,
+    "description": "226gb data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a72341b373040c946fd4726ee1e9ffff.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1lbgvuy28uy29tqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-10 06:23:00.000000",
+    "disclosedDate": "2025-09-10 14:14:36.502006"
+  }
+}

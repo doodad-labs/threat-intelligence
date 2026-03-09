@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-1178AD",
+  "type": "ransomware-incident",
+  "title": "TMC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TMC",
+    "domain": "tmc.com.mx",
+    "country": "MX"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/779d2e62ca2c511e11f98dd9c6db3f12.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ve1dqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-21 10:00:00.000000",
+    "disclosedDate": "2025-02-11 04:19:50.209918"
+  }
+}

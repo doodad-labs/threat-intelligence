@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-1574DB",
+  "type": "ransomware-incident",
+  "title": "Mountjoy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mountjoy",
+    "domain": "mountjoy.co.uk",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mountjoy is a provider of building and maintenance support services across southern England.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8fb8f2ccd51a7608422be2f496013d3f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw91bnrqb3laymlhbmxpyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-15 01:21:20.859588",
+    "disclosedDate": "2024-06-15 01:21:21.616483"
+  }
+}

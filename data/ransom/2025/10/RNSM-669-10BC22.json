@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-10BC22",
+  "type": "ransomware-incident",
+  "title": "Den Hartogh Logistics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Den Hartogh Logistics",
+    "country": "NL",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data leak at one of the world's leading logistics service providers",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b75fedb715c446736796fe1337518455.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvuiehhcnrvz2ggtg9naxn0awnzqgfudwjpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-10 15:39:02.762258",
+    "disclosedDate": "2025-10-10 15:39:25.606234"
+  }
+}

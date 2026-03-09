@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-202772",
+  "type": "ransomware-incident",
+  "title": "idscorporation.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "idscorporation.com",
+    "domain": "idscorporation.com",
+    "country": "JP",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "It is a systems engineering company providing consulting, design, and manufacturing services for a wide range of airborne and ground-based unmanned systems.1.Technical appendix with a statement of compliance with the requirements of the Ken            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c607c767269bb4d54569a013e82b152d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awrzy29ycg9yyxrpb24uy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-20 00:00:00.000000",
+    "disclosedDate": "2025-08-20 14:10:27.771381"
+  }
+}

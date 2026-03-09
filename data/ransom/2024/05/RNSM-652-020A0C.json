@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-020A0C",
+  "type": "ransomware-incident",
+  "title": "GWF Frankenwein ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GWF Frankenwein",
+    "domain": "frankenwein.de",
+    "country": "DE",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "raworld",
+    "name": "raworld",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/413d095ce809064a3f8556fec477926c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r1dgiezyyw5rzw53zwluqhjhd29ybgq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-02 14:13:50.556269",
+    "disclosedDate": "2024-05-02 14:13:50.556330"
+  }
+}

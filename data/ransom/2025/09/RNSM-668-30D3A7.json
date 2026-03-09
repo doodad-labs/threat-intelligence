@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-30D3A7",
+  "type": "ransomware-incident",
+  "title": "MCBS, LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MCBS, LLC",
+    "domain": "mcbs.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "pear",
+    "name": "pear",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Provides a complete range of management services to healthcare providers",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/40da0b013660d479c6bdb536e26903a5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tuncuywgtexdqhblyxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-25 00:00:00.000000",
+    "disclosedDate": "2025-09-30 08:20:10.633423"
+  }
+}

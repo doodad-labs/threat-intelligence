@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-671-18806C",
+  "type": "ransomware-incident",
+  "title": "The Araneta Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Araneta Group",
+    "domain": "aranetacity.com",
+    "country": "PH"
+  },
+  "actor": {
+    "id": "osiris",
+    "name": "osiris",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Araneta Group is a private, diversified conglomerate in the Philippines — active in property development, food service, leisure & entertainment, and hospitality — and is composed of five main business units including ACI, Inc., PPI Holdings Inc., Uniprom Inc., Araneta Hotels Inc. and Progressive Development Corporation. aranetacity.com, aranetagroup.comThe group employs around 12,000 people. While publicly available consolidated revenue figures for the entire group are not clearly disclosed, one of its listed related entities (separate from the core private group) — Araneta Properties, Inc. (PSE: ARA) — reported gross revenue of ₱706.7 million in 2024",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghliefyyw5ldgegr3jvdxbab3npcmlz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-10 00:00:00.000000",
+    "disclosedDate": "2025-12-18 09:29:57.951971"
+  }
+}

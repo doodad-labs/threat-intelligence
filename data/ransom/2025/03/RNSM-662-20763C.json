@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-20763C",
+  "type": "ransomware-incident",
+  "title": "www.georgehay.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.georgehay.co.uk",
+    "domain": "georgehay.co.uk",
+    "country": "GB",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] George Hay Chartered Accountants is a UK-based financial company providing comprehensive financial services including auditing, accounting, corporate taxation, and business consultancy. They cater to a mix of local, national and international clients across various sectors from multiple office locations in Biggleswade, Huntingdon and Letchworth Garden City.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4881c8bb4a654f11fc178ef18919abde.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmdlb3jnzwhhes5jby51a0byyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-26 12:58:21.000000",
+    "disclosedDate": "2025-03-20 18:48:13.569186"
+  }
+}

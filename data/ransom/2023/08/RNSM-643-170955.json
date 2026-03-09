@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-170955",
+  "type": "ransomware-incident",
+  "title": "Contact 121 Pty Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Contact 121 Pty Ltd",
+    "domain": "contact121.com.au",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Contact 1-2-1 is an award-winning company that provides call centre and BPO outsourcing services to some of the largest global companies in Australia and overseas.Some of the largest global brands have entrusted Contact ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/44c6203234555f815890ab6c21403dbc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29udgfjdcaxmjeguhr5iex0zebub2vzy2fwzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-11 00:00:00.000000",
+    "disclosedDate": "2023-08-17 23:40:50.074499"
+  }
+}

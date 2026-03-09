@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-657-017DEB",
+  "type": "ransomware-incident",
+  "title": "Cascade Columbia Distribution ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cascade Columbia Distribution",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cascade Columbia Dist Co is a chemicals company based out in the United States. We are going to release the data soon. Accounting and financial data, detailed employees data, projects, contracts,customer files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fzy2fkzsbdb2x1bwjpysbeaxn0cmlidxrpb25aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-01 17:34:44.365275",
+    "disclosedDate": "2024-10-01 17:34:45.039363"
+  }
+}

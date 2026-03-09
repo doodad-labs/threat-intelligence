@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-158423",
+  "type": "ransomware-incident",
+  "title": "regulatormarine.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "regulatormarine.com",
+    "domain": "regulatormarine.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/BOATS/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/BOATS/PROOF/DATA DESCRIPTIONS: Thousands of engineering documents and drawings, administrative docs, corporate correspondence, employees and executive managers personal data, Personal Identifying information, database backups\\exports, etc",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc5828d2b44d7d0cceaf87173a57a6f9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmvndwxhdg9ybwfyaw5llmnvbubjywn0dxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-19 00:00:00.000000",
+    "disclosedDate": "2024-04-15 19:18:57.032640"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-635-261161",
+  "type": "ransomware-incident",
+  "title": "Hughes Systems Industrial ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hughes Systems Industrial",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "avoslocker",
+    "name": "avoslocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All company projects includes drawings, contracts, and all details     employees social security number 401K plans     company financial data includes bank accounts information, and taxation reports      and more",
+    "claimed_data_types": [
+      "government-identifiers",
+      "financial-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/shvnagvzifn5c3rlbxmgsw5kdxn0cmlhbebhdm9zbg9ja2vy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-26 16:12:20.611528",
+    "disclosedDate": "2022-12-26 16:12:20.611528"
+  }
+}

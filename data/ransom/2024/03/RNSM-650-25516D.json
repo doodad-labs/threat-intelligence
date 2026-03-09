@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-25516D",
+  "type": "ransomware-incident",
+  "title": "CLARK Material Handling Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CLARK Material Handling Company",
+    "domain": "clarkmhc.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/114b3b4383a51a7ab0a9fa2c4140351e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0xbuksgtwf0zxjpywwgsgfuzgxpbmcgq29tcgfueubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-25 20:37:36.000000",
+    "disclosedDate": "2024-03-25 20:48:07.501056"
+  }
+}

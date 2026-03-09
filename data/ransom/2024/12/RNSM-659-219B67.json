@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-219B67",
+  "type": "ransomware-incident",
+  "title": "Allied Packing And Rubber Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Allied Packing And Rubber Inc",
+    "domain": "alliedpackingandrubber.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8cfcf814a9a9f000b502cb05224b0440.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxsawvkifbhy2tpbmcgqw5kifj1ymjlcibjbmnaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-21 17:26:30.160528",
+    "disclosedDate": "2024-12-21 17:26:31.171294"
+  }
+}

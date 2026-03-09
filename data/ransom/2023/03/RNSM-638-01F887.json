@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-01F887",
+  "type": "ransomware-incident",
+  "title": "tjel.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tjel.net",
+    "domain": "tjel.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AboutUs: Thai Jurong Engineering Limited (TJEL) was incorporated in December 1988. The company's core business is to provide engineering and construction services in the power generation sector. It also undertakes plant erection for industrial plant...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgplbc5uzxrabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-01 11:13:41.946121",
+    "disclosedDate": "2023-03-01 11:13:41.946144"
+  }
+}

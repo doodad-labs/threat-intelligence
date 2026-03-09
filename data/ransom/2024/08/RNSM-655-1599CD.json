@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-1599CD",
+  "type": "ransomware-incident",
+  "title": "www.atwoodcherny.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.atwoodcherny.com",
+    "domain": "atwoodcherny.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Atwood & Cherny is a reputable law firm based in Boston, specializing in family law and divorce litigation. The firm is known for its personalized approach, offering services in areas such as asset division, child custody, and prenuptial agreements. With a team of experienced attorneys, Atwood & Cherny is dedicated to providing compassionate and effective legal solutions to its clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c88a883231678522dd07a6c3ab7bb116.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmf0d29vzgnozxjues5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-15 11:48:48.000000",
+    "disclosedDate": "2024-08-15 21:32:50.560398"
+  }
+}

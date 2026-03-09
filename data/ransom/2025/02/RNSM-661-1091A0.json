@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-1091A0",
+  "type": "ransomware-incident",
+  "title": "chemstarcorp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "chemstarcorp.com",
+    "domain": "chemstarcorp.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Chemstar Corporation is a privately owned business based in Minneapolis, Minnesota. Established in 1968, the company specializes in providing water and process treatment solutions for various industries such as food and beverage, biofuels, institutional, mining, and water treatment. In addition to these services, Chemstar Corp also offers an array of high-performance polymers and starches.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2hlbxn0yxjjb3jwlmnvbubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:49:39.078671",
+    "disclosedDate": "2025-02-10 19:49:46.117770"
+  }
+}

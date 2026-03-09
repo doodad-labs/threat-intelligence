@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-196BDD",
+  "type": "ransomware-incident",
+  "title": "advbe.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "advbe.com",
+    "domain": "advbe.com",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "advbe.com is a company specializing in organizing business-to-business (B2B) events, particularly in advanced technologies and industries. They facilitate networking and collaboration through conferences, workshops, and one-on-one meetings. Their events cater to sectors like aerospace, automotive, and energy, aiming to drive innovation and strategic partnerships among industry professionals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fa5b244fc4c54e50f134bebd2a78b90e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywr2ymuuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-05 00:00:00.000000",
+    "disclosedDate": "2024-09-19 18:04:50.727201"
+  }
+}

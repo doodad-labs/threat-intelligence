@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-14448A",
+  "type": "ransomware-incident",
+  "title": "Belk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Belk",
+    "domain": "belk.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Headquartered in Monroe, North Carolina, Belk is a department store that offers apparel, shoes, accessories, cosmetics, home furnishings and wedding registry online and in-store.Public Statement: Our intention was never to destroy your business. We provided you with the opportunity to address your negligence and keep your customer data intact, but you chose to refuse payment at the agreement stage. As a result, people have suffered. We hope this serves as a lesson for others.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvsa0bkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bizjournals.com/charlotte/news/2025/06/05/belk-cyber-incident-data-breach-sales-retail.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-14 11:56:26.966495",
+    "disclosedDate": "2025-07-14 12:45:06.645529"
+  }
+}

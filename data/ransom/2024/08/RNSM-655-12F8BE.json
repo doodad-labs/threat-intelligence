@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-12F8BE",
+  "type": "ransomware-incident",
+  "title": "fabamaq.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fabamaq.com",
+    "domain": "fabamaq.com",
+    "country": "AR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/44b0fe32b585e5f73f4d1b0c4c21758a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmfiyw1hcs5jb21aqnjhaw5daxbozxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-12 23:02:40.598135",
+    "disclosedDate": "2024-08-12 23:02:42.241256"
+  }
+}

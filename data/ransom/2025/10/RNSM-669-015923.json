@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-669-015923",
+  "type": "ransomware-incident",
+  "title": "Climatron ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Climatron",
+    "country": "ZA"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HVAC equipment company. Bank payment data, taxes, and technical documentation",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/10959be8f640f4c0f14d9bb1449aad25.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2xpbwf0cm9uqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-01 12:00:00.000000",
+    "disclosedDate": "2025-10-01 12:54:36.281842"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-252DC4",
+  "type": "ransomware-incident",
+  "title": "hydrometrics.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hydrometrics.com",
+    "domain": "hydrometrics.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hydrometrics, Inc., USA delivers professional scientific and engineering services to various sectors including industrial, commercial, municipal, and private clients across the United States. With over 40 years of experience, the company spec            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/47613654e96d4ec0b97c03fbae7c74b1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahlkcm9tzxryawnzlmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-25 00:00:00.000000",
+    "disclosedDate": "2025-08-25 22:38:16.926549"
+  }
+}

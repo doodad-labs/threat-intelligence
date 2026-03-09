@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-670-196FAD",
+  "type": "ransomware-incident",
+  "title": "MCC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MCC",
+    "domain": "mcchemical.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 80000000000,
+    "description": "Ransom: 200k80gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/914ee15d2ff4592f04b24a6a671ffcc9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tundqgrldm1hbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-19 13:42:35.587435",
+    "disclosedDate": "2025-11-19 13:43:11.839293"
+  }
+}

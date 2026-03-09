@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-097236",
+  "type": "ransomware-incident",
+  "title": "alian.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "alian.mx",
+    "domain": "alian.mx",
+    "country": "MX",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "With a history of more than 25 years, Alian is fully prepared to supply the plastic component and assembly needs you require.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d23d3df874ca4499d8ced00fce45ea72.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxpyw4ubxhabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-27 00:00:00.000000",
+    "disclosedDate": "2024-05-09 12:54:08.563443"
+  }
+}

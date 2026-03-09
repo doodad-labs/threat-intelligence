@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-664-14D8A1",
+  "type": "ransomware-incident",
+  "title": "Av Alumitran ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Av Alumitran",
+    "domain": "avalumitran.com",
+    "country": "ES",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 80000000000,
+    "description": "AV Alumitran is an established company with more than 40 years ofexperience in aluminium extrusion.We are going to upload more than 80GB of corporate data. A lot ofproject data (descriptions, drawings and so on), agreements, very detailed financial data (audits, payment details, reports, invoices), etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxygqwx1bwl0cmfuqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-14 00:00:00.000000",
+    "disclosedDate": "2025-05-14 15:40:49.932657"
+  }
+}

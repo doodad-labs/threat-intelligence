@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-22C7D2",
+  "type": "ransomware-incident",
+  "title": "SMDEA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SMDEA",
+    "domain": "smdea09.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The SMDEA, a public operator, is an intermunicipal cooperation tool specializing in the areas of water and sanitation; domestic cycle and large cycle.  The company decided to ignore the gigabytes of data taken from their servers. That's wh            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/43581f3a26e145dee5c3d0102a7244f8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u01erufacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-22 21:56:31.155062",
+    "disclosedDate": "2023-05-22 21:56:31.155085"
+  }
+}

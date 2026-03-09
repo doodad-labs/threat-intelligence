@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-650-27A1BD",
+  "type": "ransomware-incident",
+  "title": "carolinafoodsinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "carolinafoodsinc.com",
+    "domain": "carolinafoodsinc.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 450000000000,
+    "description": "CAROLINA FOODS INC., creator of one of America’s first honey buns and the Duchess brand, is a sweet goods bakery located in Charlotte, North Carolina. For decades, our customers have enjoyed our honey buns, donuts, pastries and pies. Our products bring families together for breakfast, snacks, and on holidays and special occasions. At Carolina Foods, we make all of our products using the finest ingredients, blended in house to ensure that we have superior taste and quality. Once you taste our treats you will come back wanting more. Product quality is our number one priority, and we go to great lengths to ensure that our products are recognized as the “best in class” in their respective categories. Every day we strive to create a product that is loved by many. Quality, taste, and value bring our customers back for more. Honey buns are one of our many specialties, and while there are many brands on the market today, we challenge you to find one that tastes better than ours. Once you bite into a delicious, melt in your mouth Duchess honey bun, you will never buy another brand.SITE: www.carolinafoodsinc.com Address : 1807 SOUTH TRYON STREET CHARLOTTE, NC 28203 USAALL DATA SIZE: ~450gb 1. All data company 2. Users personal data 3. Accounting & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/78ba2650eda5f1cedaebfa80a9d64cf4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fyb2xpbmfmb29kc2luyy5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-12 00:00:00.000000",
+    "disclosedDate": "2024-03-27 19:25:05.176946"
+  }
+}

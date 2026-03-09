@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-30FC5D",
+  "type": "ransomware-incident",
+  "title": "Covenant Care ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Covenant Care",
+    "domain": "covenantcare.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9f504f22b7d3277f0532136eb2908ff8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q292zw5hbnqgq2fyzubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-30 14:24:33.000000",
+    "disclosedDate": "2023-11-30 14:30:41.301963"
+  }
+}

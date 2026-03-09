@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-666-079758",
+  "type": "ransomware-incident",
+  "title": "wmat.nsn.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wmat.nsn.us",
+    "domain": "wmat.nsn.us",
+    "country": "US"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ba4d7a5d77838876d4b389030e8fc5d0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d21hdc5uc24udxnac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-27 00:00:00.000000",
+    "disclosedDate": "2025-07-07 22:48:55.010477"
+  }
+}

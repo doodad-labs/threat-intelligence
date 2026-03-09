@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-650-24F424",
+  "type": "ransomware-incident",
+  "title": "Vhs-vaterstetten.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vhs-vaterstetten.de",
+    "domain": "vhs-vaterstetten.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country: germany",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmhzlxzhdgvyc3rldhrlbi5kzubjbg9haw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.merkur.de/lokales/ebersberg/vaterstetten-ort29638/cyberangriff-auf-die-vhs-vaterstetten-helmut-ertel-polizei-sicherungsmassnahmen-92804982.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-24 13:52:15.485187",
+    "disclosedDate": "2024-03-24 13:52:15.485215"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-19873A",
+  "type": "ransomware-incident",
+  "title": "mcauslan.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mcauslan.com",
+    "domain": "mcauslan.com",
+    "country": "CA",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "ZIP-50GB - Revenue $16.1 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwnhdxnsyw4uy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-27 00:00:00.000000",
+    "disclosedDate": "2024-11-19 22:24:01.406859"
+  }
+}

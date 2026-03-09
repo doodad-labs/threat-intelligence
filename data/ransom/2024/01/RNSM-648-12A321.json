@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-12A321",
+  "type": "ransomware-incident",
+  "title": "Alliedwoundcare ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Alliedwoundcare",
+    "domain": "alliedwoundcare.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Company has the last 24 hours to contact us using the instructions left. In case of silence, all data will be published here https://alliedwoundcare.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bfdba55f06d576943583a77654c31e09.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxsawvkd291bmrjyxjlqgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-12 04:16:34.540500",
+    "disclosedDate": "2024-01-12 04:16:34.540520"
+  }
+}

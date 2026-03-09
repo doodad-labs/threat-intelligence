@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-127F69",
+  "type": "ransomware-incident",
+  "title": "extremeperformance.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "extremeperformance.com",
+    "domain": "extremeperformance.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ExtremePerformance.com is a company that specializes in providing high-performance parts for motorcycles and off-roading vehicles. Offering a variety of parts such as wheels, suspensions, tires, and more, the company caters to customers looking for products that can enhance the speed, power, and durability of their vehicles. ExtremePerformance.com is known for their quality offerings and their commitment to customer satisfaction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ee5287ce4b8c413800854a0032e7b092.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxh0cmvtzxblcmzvcm1hbmnllmnvbubmdw5rc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-12 14:27:03.942213",
+    "disclosedDate": "2025-03-12 14:28:17.731390"
+  }
+}

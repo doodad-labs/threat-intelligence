@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-26DCDF",
+  "type": "ransomware-incident",
+  "title": "Brookshire Dental - Hospitals & Clinics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Brookshire Dental - Hospitals & Clinics",
+    "domain": "brookshiredental.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dr. Frieda V. Brookshire has been providing dental care in Tustin for over 22 years and practices compassionate, gentle dentistry. She also employs cutting-edge dental technology to ensure precision and comfort while you are in her chair.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e97678b9736ade626084211846d8c562.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjvb2tzaglyzsbezw50ywwglsbib3nwaxrhbhmgjibdbgluawnzqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-26 00:00:00.000000",
+    "disclosedDate": "2024-08-26 16:22:39.620225"
+  }
+}

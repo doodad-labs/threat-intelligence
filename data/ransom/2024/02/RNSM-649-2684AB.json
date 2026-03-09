@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-2684AB",
+  "type": "ransomware-incident",
+  "title": "The Professional Liability Fund  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Professional Liability Fund ",
+    "domain": "osbplf.org",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Professional Liability Fund (PLC) was established in 1977 in accordance with state law (ORS 9.080) and with the approval of OSB members. PLF began its operations on July 1, 1978 and since that date has been a mandatory provider of primary negligence insurance for lawyers (more than 7,000 people) in the state of Oregon, the only U.S. state in which such insurance is mandatory. Professional Liability Fund corporate office is located in 16037 SW Upper Boones Ferry Rd Ste 300, Portland, Oregon, 97224, United States and has 68 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/da52f6bbce0494d2c368573701e0215d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifbyb2zlc3npb25hbcbmawfiawxpdhkgrnvuzcbabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-26 14:42:27.12345",
+    "disclosedDate": "2024-02-26 19:22:33.527029"
+  }
+}

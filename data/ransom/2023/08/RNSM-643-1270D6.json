@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-1270D6",
+  "type": "ransomware-incident",
+  "title": "National Institute of Social Services for Retirees and Pensioners ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "National Institute of Social Services for Retirees and Pensioners",
+    "domain": "pami.org.ar",
+    "country": "AR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "National Institute of Social Services for Retirees and Pensioners",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf0aw9uywwgsw5zdgl0dxrlig9mifnvy2lhbcbtzxj2awnlcybmb3igumv0axjlzxmgyw5kifblbnnpb25lcnnacmh5c2lkyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.clarin.com/tecnologia/pami-confirmo-ciberataque-ransomware-aseguran-mitigado-_0_u29wnr9sri.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-12 09:07:15.976556",
+    "disclosedDate": "2023-08-12 09:07:15.976579"
+  }
+}

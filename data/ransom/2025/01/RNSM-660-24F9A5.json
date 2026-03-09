@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-660-24F9A5",
+  "type": "ransomware-incident",
+  "title": "ELTEK Group (eltekgroup.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ELTEK Group (eltekgroup.com)",
+    "domain": "eltekgroup.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 13000000000,
+    "description": "13 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ruxurusgr3jvdxagkgvsdgvrz3jvdxauy29tkubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 12:01:06.618385",
+    "disclosedDate": "2025-01-24 12:01:39.349022"
+  }
+}

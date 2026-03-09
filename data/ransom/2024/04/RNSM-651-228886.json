@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-228886",
+  "type": "ransomware-incident",
+  "title": "www.rosalvoautomoveis.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.rosalvoautomoveis.com.br",
+    "domain": "rosalvoautomoveis.com.br",
+    "country": "BR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qiulong",
+    "name": "qiulong",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A Rosalvo Automóveis foi fundada em 1988 com o objetivo de revolucionar o conceito de comercialização de veículos semi-novos. Data Available Soon",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6010fa80eeebd11a92d1fcf0c2667aaf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnjvc2fsdm9hdxrvbw92zwlzlmnvbs5ickbxaxvsb25n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-19 21:41:15.000000",
+    "disclosedDate": "2024-04-22 04:37:14.113846"
+  }
+}

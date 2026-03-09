@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-665-1174A2",
+  "type": "ransomware-incident",
+  "title": "Asefa Insuarance ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Asefa Insuarance",
+    "domain": "asefa.es",
+    "country": "ES",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in Spain in 1972, Asefa was part of the SMABTP group, a leader French insurer in building and civil works in France with more 160 years of experience. In Asefa Seguros they have been committed to the needs of clients and collaborators            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc8c875e6195fd726015374a1944cb8f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxnlzmegsw5zdwfyyw5jzubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.asefa.es/indispo.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-20 00:00:00.000000",
+    "disclosedDate": "2025-06-11 17:37:46.831638"
+  }
+}

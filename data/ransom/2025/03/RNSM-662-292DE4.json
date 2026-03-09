@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-292DE4",
+  "type": "ransomware-incident",
+  "title": "blue-hive.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "blue-hive.com",
+    "domain": "blue-hive.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 08.04.2025. BlueHive Exhibits is a bold creative force that helps brands create engaging environments and experiences to connect with their customers and make an impact, from the even            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/41de0f9af4431c98e63a1830ef0f1060.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymx1zs1oaxzllmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-20 00:00:00.000000",
+    "disclosedDate": "2025-03-29 12:44:17.594485"
+  }
+}

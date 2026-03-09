@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-645-20A626",
+  "type": "ransomware-incident",
+  "title": "UK Stratton Primary School ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UK Stratton Primary School",
+    "domain": "stratton.cornwall.sch.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vusgu3ryyxr0b24guhjpbwfyesbty2hvb2xaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-12 23:01:01.000000",
+    "disclosedDate": "2023-10-20 17:07:42.212720"
+  }
+}

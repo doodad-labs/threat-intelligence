@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-2250CE",
+  "type": "ransomware-incident",
+  "title": "Raifalsa-Alelor ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Raifalsa-Alelor",
+    "domain": "alelor.fr",
+    "country": "FR",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Raifalsa-Alelor is a company that operates in the Food & Beverage industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umfpzmfsc2etqwxlbg9yqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-22 11:39:28.244230",
+    "disclosedDate": "2024-08-22 21:32:35.745842"
+  }
+}

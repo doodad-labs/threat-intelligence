@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-655-3189CF",
+  "type": "ransomware-incident",
+  "title": "Khoo and Company, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Khoo and Company, Inc",
+    "domain": "khoocpa.com",
+    "country": "SG"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are a small but qualified and experienced team of professionals that work very closely together to ensure a focused, efficient, and personal approach to delivering our services. Our team members are qualified and trained both internally and externally in domestic and international taxation planning and compliance. Each holds an accounting degree, a CPA certification or is a candidate, and some have obtained or are pursuing a Master’s degree in Taxation.  Our Principal Eng Kuan Khoo, CPA",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c9fb00b70f20f448078775ef115bf7b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2hvbybhbmqgq29tcgfueswgsw5jqgnpy2fkytmzmde=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-24 00:00:00.000000",
+    "disclosedDate": "2024-08-31 13:00:08.955792"
+  }
+}

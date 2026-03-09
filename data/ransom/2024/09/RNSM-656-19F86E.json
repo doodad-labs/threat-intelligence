@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-656-19F86E",
+  "type": "ransomware-incident",
+  "title": "Wilson & Lafleur ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wilson & Lafleur",
+    "domain": "librairiewilsonlafleur.com",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wilson & Lafleur (founded in 1909) - literary publishing house also owning a bookstore. Wilson & Lafleur Ltée corporate office is located in 40 Notre-dame Rue E, Montreal, Quebec, H2Y 1B9, Canada and has 19 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lsc29uicygtgfmbgv1ckbtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-10 00:00:00.000000",
+    "disclosedDate": "2024-09-19 20:07:45.913812"
+  }
+}

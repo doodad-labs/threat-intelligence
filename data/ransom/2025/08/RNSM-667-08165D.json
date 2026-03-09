@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-08165D",
+  "type": "ransomware-incident",
+  "title": "CIMEXSTEEL.CZ ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CIMEXSTEEL.CZ",
+    "domain": "cssteel.cz",
+    "country": "CZ",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Czech holding company CS STEEL a.s. manufactures and sells metal structures for private and public sector clients. A small company that failed to protect its infrastructure has put dozens of its clients at risk. These are not private indi            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5dc04d23fdfd322ac978ba4f7549ef40.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0lnrvhtvevftc5dwkbxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-07 00:00:00.000000",
+    "disclosedDate": "2025-08-08 21:27:48.500290"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-23220C",
+  "type": "ransomware-incident",
+  "title": "www.semfin.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.semfin.com",
+    "domain": "semfin.com",
+    "country": "CH",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Certainly! SEMFIN is a company specializing in financial services, offering solutions tailored to meet the diverse needs of businesses and individuals. Their expertise spans areas such as investment management, financial planning, risk assessment, and strategic consulting. With a focus on personalized service, SEMFIN aims to empower clients to achieve their financial goals through innovative and reliable advice.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/329e2d7f1518042620f6d87525ac9ed0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnlbwzpbi5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-23 12:49:31.000000",
+    "disclosedDate": "2024-12-23 19:24:58.104558"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-665-01DA9C",
+  "type": "ransomware-incident",
+  "title": "RE/MAX ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RE/MAX",
+    "domain": "remax.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 151800000000,
+    "description": "RE/MAX (founded in 1973) is the global real estate franchisors and a subsidiary of RE/MAX Holdings.RE/MAX corporate office is located in 5075 S Syracuse St, Denver, Colorado, 80237, United States and has 140,000 employees. The total amount of data leakage is 151.80 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/430d4a3e37dfd65ec53cc3a056ad8bb8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukuvtufyqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-27 05:56:38.000000",
+    "disclosedDate": "2025-06-01 00:42:27.460437"
+  }
+}

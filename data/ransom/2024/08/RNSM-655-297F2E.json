@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-655-297F2E",
+  "type": "ransomware-incident",
+  "title": "rmn.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rmn.fr",
+    "domain": "rmn.fr",
+    "country": "FR",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Réunion des Musées Nationaux-Grand Palais (RMN-GP) is a French cultural institution dedicated to managing and promoting national museums and monuments. It organizes exhibitions, publishes art books, and oversees museum shops and cafes. RMN-GP plays a crucial role in preserving and showcasing France's cultural heritage to a global audience.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9734a16f53b896e9c1aacb26a467dfda.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm1ulmzyqejyywluq2lwagvy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.leparisien.fr/high-tech/cybersecurite-le-grand-palais-et-plusieurs-musees-dont-le-louvre-victimes-dune-attaque-par-rancongiciel-05-08-2024-lya4yvraw5cqhpvrhsc3lagphm.php",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-29 01:13:41.463938",
+    "disclosedDate": "2024-08-29 01:13:43.067319"
+  }
+}

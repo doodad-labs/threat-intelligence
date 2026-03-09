@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-01F435",
+  "type": "ransomware-incident",
+  "title": "Super Gardens ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Super Gardens",
+    "domain": "supergardens.com.au",
+    "country": "AU",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1989, Super Gardens is a commercial grounds and landscaping company. Services include Commercial Mowing, Garden Maintenance, Complete Am enity, and Fine Turf Management, Playground Construction, and more. The company is headquartered in Mulgrave, Victoria, Australia.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vwzxigr2fyzgvuc0bkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-01 21:03:37.212450",
+    "disclosedDate": "2024-07-01 21:13:16.616740"
+  }
+}

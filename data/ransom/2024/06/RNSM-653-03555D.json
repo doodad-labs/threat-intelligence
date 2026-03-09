@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-653-03555D",
+  "type": "ransomware-incident",
+  "title": "Northern Minerals Limited ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Northern Minerals Limited",
+    "domain": "northernminerals.com.au",
+    "country": ""
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Northern Minerals Limited (ASX: NTU) is focused on development of rare earth elements. It is a publicly traded company that operates in critical mineral supply chains.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/621578c8fb2bee5c7184fa217b656770.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9ydghlcm4gtwluzxjhbhmgtgltaxrlzebiawfubglhbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cyberdaily.au/security/10662-exclusive-aussie-rare-earth-metals-producer-northern-minerals-confirms-ransomware-attack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-03 19:07:03.232329",
+    "disclosedDate": "2024-06-03 19:07:03.232357"
+  }
+}

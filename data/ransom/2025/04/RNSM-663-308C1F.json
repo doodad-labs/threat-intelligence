@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-308C1F",
+  "type": "ransomware-incident",
+  "title": "Digestive Specialists ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Digestive Specialists",
+    "domain": "digestivespecialists.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : no - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a74819c7531c573edbebd6aaff8f6660.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rglnzxn0axzlifnwzwnpywxpc3rzqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-30 13:06:05.000000",
+    "disclosedDate": "2025-04-30 13:26:06.098243"
+  }
+}

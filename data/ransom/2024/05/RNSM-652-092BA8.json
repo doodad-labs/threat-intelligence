@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-092BA8",
+  "type": "ransomware-incident",
+  "title": "snk.sk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "snk.sk",
+    "domain": "snk.sk",
+    "country": "SK",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Slovenská národná knižnica is a company that operates in the Libraries industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/adea0adeb88046cd01d16175e23074c8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c25rlnnrqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-13 00:00:00.000000",
+    "disclosedDate": "2024-05-09 13:11:54.834810"
+  }
+}

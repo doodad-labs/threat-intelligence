@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-13964A",
+  "type": "ransomware-incident",
+  "title": "DAIHO INDUSTRIAL Co.,Ltd. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DAIHO INDUSTRIAL Co.,Ltd.",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "knight",
+    "name": "knight",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 104310,
+    "description": "Since its foundation in 1937, the Daiho Group has enjoyed a top-rank reputation in the plastics processing industry in Japan. They have been manufacturing and selling various plastic processed products meeting the needs of companies representing Japan for nearly 80 years. The company's products are used for home electronics, automobiles , office automation equipments, housing goods etc. which are indispensable for our daily lives. Daiho has now made a progress to support various key industries in Japan. Unfortunately, they failed to support their cyber security infrastructure... We have access to all accounting, finances, IT, audits, QA, HR and a&nbsp; lot of sensitive data. We also have access to all files from all workstations, including the president's desktop. We also locked all your backups. UPDATE : We're not playing. Get in contact with us ASAP or we leak everything. Here's more files leaked as proof : kataoka_passport.png 894.65 KBMr.Kataoka.JPG 599.8 KBpachern_passport.png 1.64 MBnetwork.png 243.96 KBserver_room.jpg 260.28 KBcctv.png 800.58 KBbackups.png 104.31 KB----------------------------------------------------------------------------------------------------------------------------annual_plan_2023.png 126.46 KBaruba.png 117.12 KBDB.png 234.73 KBIT_inventory.png 251.43 KBRoH.png 581.6 KBQAC.png 218.38 KB10098.jpg 51.49 KB8113.jpg 46.69 KB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/13bd71bedcbb66bb140d54967ba8f662.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/refjse8gsu5evvnuuklbtcbdby4sthrklkbrbmlnahq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-13 23:24:05.274538",
+    "disclosedDate": "2023-12-13 23:24:05.274570"
+  }
+}

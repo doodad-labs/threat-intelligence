@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-663-154F0F",
+  "type": "ransomware-incident",
+  "title": "iescomm.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "iescomm.com",
+    "domain": "iescomm.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "904.6 Million | Commercial & Residential ConstructionIES Communications, LLC (Integrated Electrical Services) We are the national leading provider of communications technology, systems, and services. IES Communications, LLC; The right team to get the job done",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/efe34aeae3c725ae78b04474c38c32d3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awvzy29tbs5jb21ay2hhb3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4587bc37-1195-40be-a811-bf0b776e422a.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 00:00:00.000000",
+    "disclosedDate": "2025-04-15 16:55:26.485847"
+  }
+}

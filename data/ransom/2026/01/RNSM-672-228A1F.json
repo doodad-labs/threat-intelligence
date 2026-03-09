@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-228A1F",
+  "type": "ransomware-incident",
+  "title": "California Tax Data ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "California Tax Data",
+    "domain": "californiataxdata.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dea4ce62659aa17a3b900bccb41a9ca2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fsawzvcm5pysbuyxggrgf0yubwbgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-17 00:00:00.000000",
+    "disclosedDate": "2026-01-22 21:33:53.884058"
+  }
+}

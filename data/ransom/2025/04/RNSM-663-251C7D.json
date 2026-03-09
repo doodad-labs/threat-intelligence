@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-251C7D",
+  "type": "ransomware-incident",
+  "title": "Kasb Bank - K-Trade ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kasb Bank - K-Trade",
+    "domain": "kasb.com",
+    "country": "PK",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1d557aeeca1dadbdf779777857a3023c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fzyibcyw5ric0gsy1ucmfkzubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-25 13:26:08.000000",
+    "disclosedDate": "2025-04-25 13:38:42.148443"
+  }
+}

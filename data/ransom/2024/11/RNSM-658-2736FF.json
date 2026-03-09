@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-658-2736FF",
+  "type": "ransomware-incident",
+  "title": "藤森工業株式会社 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "藤森工業株式会社",
+    "domain": "zacros.co.jp",
+    "country": "JP",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "argonauts",
+    "name": "argonauts",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 140000000000,
+    "description": "ALL DATA SIZE: 140GB [news:00.pdf] Due to the company’s refusal to pay the ransom,We continue to sell",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/51184780b84faacdb0da3afd35a44f57.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/6jek5qou5bel5qwt5qcq5byp5lya56s+qgfyz29uyxv0cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.zacros.co.jp/news/news-1302/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-09 21:30:35.000000",
+    "disclosedDate": "2024-11-27 16:45:47.150649"
+  }
+}

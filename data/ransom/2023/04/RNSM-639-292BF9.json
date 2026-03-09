@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-292BF9",
+  "type": "ransomware-incident",
+  "title": "conver-pack.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "conver-pack.com",
+    "domain": "conver-pack.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ConverPack is a leading global manufacturer of  single-use hot and cold paper cups and accessories. Since 2010, we have provided our customers with the highest quality and most cost-effective wholesale paper products made in the United States. Locate...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/66a27d2bb706198f8608c186a645c288.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29udmvylxbhy2suy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-24 18:14:00.000000",
+    "disclosedDate": "2023-04-29 18:49:44.109936"
+  }
+}

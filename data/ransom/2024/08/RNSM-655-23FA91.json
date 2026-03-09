@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-23FA91",
+  "type": "ransomware-incident",
+  "title": "rsk-immobilien ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rsk-immobilien",
+    "domain": "rsk-immobilien.de",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.rsk-immobilien.de",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b56073bfe1f23d5ac3f2c189870432e6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cnnrlwltbw9iawxpzw5aagvsbgrvd24=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-23 15:41:56.735507",
+    "disclosedDate": "2024-08-23 15:41:57.737545"
+  }
+}

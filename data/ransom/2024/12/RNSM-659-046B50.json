@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-046B50",
+  "type": "ransomware-incident",
+  "title": "lornestewartgroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lornestewartgroup.com",
+    "domain": "lornestewartgroup.com",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "Lorne Stewart Group is a UK-based engineering and construction company that specializes in mechanical and electrical engineering, integrated facilities management, and off-site modular design and construction. The company has a long-standing heritage in the industry, providing services across various sectors including public and private projects.SITE: www.lornestewartgroup.com Address : Aladdin Building, Western Avenue Greenford, Middlesex UB6 8UY United KingdomTEL#: 020 8732 2000ALL DATA SIZE: ≈1tb 1. Financial data 2. Personal employees data, docs 3. Confidential data, NDA’s, Clients data 4. Engeneering, Projects & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ecec6b08152906df9bacc8f4c1104b2c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bg9ybmvzdgv3yxj0z3jvdxauy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-14 00:00:00.000000",
+    "disclosedDate": "2024-12-04 12:50:41.939620"
+  }
+}

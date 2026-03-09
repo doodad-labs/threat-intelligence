@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-288FEC",
+  "type": "ransomware-incident",
+  "title": "www.keizers.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.keizers.ca",
+    "domain": "keizers.ca",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[IA generated] Keizers Contracting is a Canadian company that specializes in home improvement and renovation services. They offer a range of services including roofing, siding, windows, doors, and custom home projects. Known for their commitment to quality and customer satisfaction, Keizers Contracting serves clients by providing expert craftsmanship and personalized service to enhance and maintain residential properties.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmtlaxplcnmuy2farwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-28 18:19:44.521784",
+    "disclosedDate": "2024-10-28 18:19:46.455726"
+  }
+}

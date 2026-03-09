@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-643-1499D4",
+  "type": "ransomware-incident",
+  "title": "Agriloja.pt ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Agriloja.pt",
+    "domain": "agriloja.pt",
+    "country": "PT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "464574 internal documents and files stolen.1.2 TBSQL DBs, Email Archives, Personal information,employee data,,IDs,various company documents… To restore damaged system and prevent data from publication company’s representative should contact us in next 72 hrs. Full filetree can be provided as a proof.",
+    "claimed_data_types": [
+      "email-addresses",
+      "employee-records",
+      "internal-documents",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3dd4b7526a4dcb8022a0576d82b019ad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwdyawxvameuchrazxzlcmvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-14 10:07:23.814955",
+    "disclosedDate": "2023-08-14 10:07:23.814979"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-162F3B",
+  "type": "ransomware-incident",
+  "title": "ance.org.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ance.org.mx",
+    "domain": "ance.org.mx",
+    "country": "MX",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ANCE is a nonprofit organization that offers inspection, standardization, certification, laboratory, calibration and training services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6c7cb62fc9479978d5a12a842fdf449e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw5jzs5vcmcubxhabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-16 20:03:00.000000",
+    "disclosedDate": "2023-05-16 20:54:28.550089"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-18BB56",
+  "type": "ransomware-incident",
+  "title": "jergenspiping.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jergenspiping.com",
+    "domain": "jergenspiping.com",
+    "country": "NO",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Jergens Piping is a company specializing in high-quality piping solutions and services. They focus on delivering reliable and efficient piping systems for various industries, including industrial, commercial, and residential sectors. Their offerings typically include installation, maintenance, and repair of piping systems, emphasizing customer satisfaction and adherence to safety standards.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/610002f9a5c24fba95df31c4d4148210.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/amvyz2vuc3bpcgluzy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-16 00:00:00.000000",
+    "disclosedDate": "2024-11-18 18:05:32.826963"
+  }
+}

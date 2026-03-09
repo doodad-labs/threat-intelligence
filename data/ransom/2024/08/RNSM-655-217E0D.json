@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-655-217E0D",
+  "type": "ransomware-incident",
+  "title": "HOERBIGER Holding ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HOERBIGER Holding",
+    "domain": "hoerbiger.com",
+    "country": "CH",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "Hoerbiger Holding AG is a globally active group headquartered in  Zug, Switzerland. 50GB of files to be released soon. Employee per sonal information, clients and customers information, confidentia l agreements, contracts, NDAs, some medical files. Lots of accoun ting and financial data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/se9fukjjr0vsiehvbgrpbmdaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-21 13:46:57.834492",
+    "disclosedDate": "2024-08-21 13:46:58.906111"
+  }
+}

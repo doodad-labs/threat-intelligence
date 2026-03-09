@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-302431",
+  "type": "ransomware-incident",
+  "title": "Fitzpatrickhotels.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fitzpatrickhotels.com",
+    "domain": "fitzpatrickhotels.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Fitzpatrick Hotels operates two boutique hotels in New York City, providing Irish-style hospitality to guests. Established in the late 20th century, the family-owned business primarily caters to those who value warmth, charm, and a touch of old-world elegance. Their hotels, Fitzpatrick Manhattan and Fitzpatrick Grand Central, boast a strategic location, iconic Irish pub-style restaurants, sophisticated amenities, and rooms.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rml0enbhdhjpy2tob3rlbhmuy29tqgnsb2fr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-30 11:17:13.326856",
+    "disclosedDate": "2025-12-30 11:17:18.096092"
+  }
+}

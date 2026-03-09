@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-27ED7F",
+  "type": "ransomware-incident",
+  "title": "PELLONPROJECTS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PELLONPROJECTS.COM",
+    "domain": "pellonprojects.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] PellonProjects.com is a website dedicated to crafting and sewing projects. The company is associated with Pellon, a well-known supplier of interfacing and other materials used in sewing. The website offers a variety of resources to help both novice and experienced crafters create beautiful projects. This includes step-by-step project instructions, tips, and tutorials. It also provides information about Pellon products to guide users in purchasing the right materials for their crafts.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uevmte9oufjpskvdvfmuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:03:48.627278",
+    "disclosedDate": "2025-02-27 17:03:55.839659"
+  }
+}

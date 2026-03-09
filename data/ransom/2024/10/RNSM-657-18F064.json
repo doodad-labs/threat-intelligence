@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-18F064",
+  "type": "ransomware-incident",
+  "title": "INDIBA Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "INDIBA Group",
+    "domain": "indiba.com",
+    "country": "ES",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "!!! IF THE COMPANY DOES NOT CONTACT US SOON, THE DATA WILL BE PUBLISHED !!!!  INDIBA Group, based in Barcelona and Treviso, is a global medtech leader across the Aesthetics, Rehabilitation, and Animal Health industries, with a 40-year legacy of scientific research, strengthened further by the recent addition of K-Laser.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/413f719b5421bea79a35b5bb4ab479a3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/su5esujbiedyb3vwqgnpy2fkytmzmde=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-05 00:00:00.000000",
+    "disclosedDate": "2024-10-18 20:05:08.830617"
+  }
+}

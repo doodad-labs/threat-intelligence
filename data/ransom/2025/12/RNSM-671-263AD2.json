@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-263AD2",
+  "type": "ransomware-incident",
+  "title": "mc2engineers.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mc2engineers.com",
+    "domain": "mc2engineers.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MC Squared is a regional engineering consulting firm specializing in geotechnical, environmental, ma...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5ee192567b9246b7795eaaa7fb504e6b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwmyzw5naw5lzxjzlmnvbubsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-25 13:39:00.000000",
+    "disclosedDate": "2025-12-26 15:37:30.654779"
+  }
+}

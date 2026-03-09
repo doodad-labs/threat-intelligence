@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-627-127768",
+  "type": "ransomware-incident",
+  "title": "JetStar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JetStar",
+    "country": "AU",
+    "sector": "Transportation"
+  },
+  "actor": {
+    "id": "quantum",
+    "name": "quantum",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "JetStar is an Australian low-cost airline that offers multiple flights at very low costs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smv0u3rhckbxdwfudhvt",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-04-12 12:16:37.633545",
+    "disclosedDate": "2022-04-12 12:16:37.633545"
+  }
+}

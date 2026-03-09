@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-657-31790C",
+  "type": "ransomware-incident",
+  "title": "sandray.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sandray.com",
+    "domain": "sandray.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sandray Precision Grinding Inc is located in Rockford, Illinois and has served the Midwest region for 50 years of grinding experience. Sandray Precision Grinding Inc operates in 2 buildings with 34,000 square feet and has a wide variety of...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2fuzhjhes5jb21adghyzwvhbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-10 00:00:00.000000",
+    "disclosedDate": "2024-10-31 13:26:09.238307"
+  }
+}

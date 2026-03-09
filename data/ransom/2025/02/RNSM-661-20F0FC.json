@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-661-20F0FC",
+  "type": "ransomware-incident",
+  "title": "www.riverdale.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.riverdale.edu",
+    "domain": "riverdale.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Riverdale Country School is a top-tier K-12 school based in New York City, USA. It offers prekindergarten through Grade 12, with two separate campus locations. Known for its commitment to academic excellence and individual growth, it emphasizes intellectual engagement, strength of character, and an innovative teaching approach.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c49826fe67a80ce5bab5b5af4f43227d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnjpdmvyzgfszs5lzhvacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d254fe62-1a28-4e77-8a3f-d49e76d3e54d.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-07 00:00:00.000000",
+    "disclosedDate": "2025-02-20 11:06:46.915646"
+  }
+}

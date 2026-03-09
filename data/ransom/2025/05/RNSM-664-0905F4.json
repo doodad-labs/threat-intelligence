@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-0905F4",
+  "type": "ransomware-incident",
+  "title": "CHECKCITY.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CHECKCITY.COM",
+    "domain": "checkcity.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] CheckCity.com is a financial services company based in Provo, Utah. It offers a variety of services, including payday loans, cash advances, title loans, and check cashing. It also provides money orders, wire transfers, tax services, and prepaid debit cards. Founded in 1986, CheckCity operates both online and through physical branches. It serves clients across multiple states in the US.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a984a5c4251b7f2dfc290930f183c0aa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0hfq0tdsvrzlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-09 17:53:34.397116",
+    "disclosedDate": "2025-05-09 17:54:09.464682"
+  }
+}

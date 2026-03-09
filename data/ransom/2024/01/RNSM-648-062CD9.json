@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-648-062CD9",
+  "type": "ransomware-incident",
+  "title": "The Lutheran World Federation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Lutheran World Federation",
+    "domain": "lutheranworld.org",
+    "country": "CH",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Lutheran World Federation",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghliex1dghlcmfuifdvcmxkiezlzgvyyxrpb25acmh5c2lkyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-06 01:22:57.115471",
+    "disclosedDate": "2024-01-06 01:22:57.115490"
+  }
+}

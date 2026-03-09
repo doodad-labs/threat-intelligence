@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-16496D",
+  "type": "ransomware-incident",
+  "title": "Réseau Ribé ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Réseau Ribé",
+    "domain": "ribegroupe.fr",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : France - Exfiltraded data : no - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9e7f4afedaf316c1254c88e0e1bc3d05.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/usopc2vhdsbsawldqubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-16 07:13:04.000000",
+    "disclosedDate": "2024-02-16 16:44:28.457124"
+  }
+}

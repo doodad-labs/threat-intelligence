@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-653-254E92",
+  "type": "ransomware-incident",
+  "title": "Beckett Thermal Solutions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Beckett Thermal Solutions",
+    "domain": "beckettthermal.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 11000000000,
+    "description": "Beckett Thermal Solutions is a global pioneer of combustion techn ologies. 11 Gb of data. Lots of projects files, employees names,  addresses, emails and other HR information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvja2v0dcbuagvybwfsifnvbhv0aw9uc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-25 18:16:40.375465",
+    "disclosedDate": "2024-06-25 18:16:41.142678"
+  }
+}

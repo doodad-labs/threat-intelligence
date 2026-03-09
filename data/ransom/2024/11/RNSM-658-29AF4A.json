@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-29AF4A",
+  "type": "ransomware-incident",
+  "title": "Bennett Porter Wealth Management Insurance ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bennett Porter Wealth Management Insurance",
+    "domain": "bennettandporter.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "Bennett & Porter is designed to operate as a \"multi-family office\" model; offering a breadth of services that allow individuals, families and businesses to have a single point-of-contact for all their wealth management and insurance needs.We are ready to upload more than 50 GB of internal corporate documents including: inside financial information, customer contacts,personal employees data and SSNs..",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvubmv0dcbqb3j0zxigv2vhbhroie1hbmfnzw1lbnqgsw5zdxjhbmnlqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 00:00:00.000000",
+    "disclosedDate": "2024-11-29 13:00:12.997523"
+  }
+}

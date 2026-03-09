@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-653-2373E4",
+  "type": "ransomware-incident",
+  "title": "Belle Tire ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Belle Tire",
+    "domain": "belletire.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/de3254944f90fc6d28b881d538091751.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvsbgugvglyzubwbgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://cybernews.com/news/belle-tire-data-breach-exposed-thousands/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-10 00:00:00.000000",
+    "disclosedDate": "2024-06-23 21:17:24.697799"
+  }
+}

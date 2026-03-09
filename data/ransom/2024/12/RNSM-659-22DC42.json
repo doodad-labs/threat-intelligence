@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-22DC42",
+  "type": "ransomware-incident",
+  "title": "ibericar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ibericar",
+    "domain": "caetanoretail.es",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "monti",
+    "name": "monti",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Auto Suckers",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ed5af39e72ad54c97dd41f5eba9c511.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awjlcmljyxjabw9udgk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-22 13:16:59.272285",
+    "disclosedDate": "2024-12-22 13:17:00.017111"
+  }
+}

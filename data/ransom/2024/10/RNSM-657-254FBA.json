@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-254FBA",
+  "type": "ransomware-incident",
+  "title": "Aspen Healthcare ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aspen Healthcare",
+    "domain": "aspenhealthcareservices.com",
+    "country": "GB",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "More than 1500 Medical Records and Personal Information https://aspenhealthcareservices.com Time until publication:",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0c51af96dc28d5aa73c6736bf295d657.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxnwzw4gsgvhbhroy2fyzubldmvyzxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 00:35:56.098395",
+    "disclosedDate": "2024-10-25 00:35:57.467034"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-103B3B",
+  "type": "ransomware-incident",
+  "title": "ACCEM.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ACCEM.COM",
+    "domain": "accem.com",
+    "country": "ES",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Accem is a non-governmental organization based in Spain that specializes in providing assistance, services, shelter, and integration programs for refugees, immigrants, and displaced persons across various continents. They work to protect human rights and promote social interaction. Their goal is to improve the living conditions of people in vulnerable situations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aa95108e2cccc94c591924ae9e2981cc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qundru0uq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 14:27:33.437448",
+    "disclosedDate": "2025-02-10 14:28:43.120053"
+  }
+}

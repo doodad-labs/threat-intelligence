@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-663-1550F5",
+  "type": "ransomware-incident",
+  "title": "Astra Products ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Astra Products",
+    "domain": "astraproducts.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Astra Products of Ohio is a supplier to the window covering industry.  We do not fabricate or install window coverings.  We offer products that allow for our customers to fabricate window coverings that meet the ANSI/WCMA A100.1-2022 standards.  We are committed to continue our search for new, child safe products to offer our customers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/76c1a5a2786a65d4edf3e5f1fcb9efaf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxn0cmeguhjvzhvjdhnabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-15 19:46:38.781000",
+    "disclosedDate": "2025-04-15 20:39:30.926714"
+  }
+}

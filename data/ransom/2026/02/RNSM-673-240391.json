@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-240391",
+  "type": "ransomware-incident",
+  "title": "Jac Vandenberg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jac Vandenberg",
+    "domain": "jacvandenberg.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Jac Vandenberg is a company dedicated to providing fresh produce, including citrus, grapes, pome fruits, and stone fruits, sourced responsibly from farm to store. They emphasize food safety, sustainability, and innovation in their operations. The company targets grocery stores across America, aiming to deliver high-quality fruits that cater to consumer preferences.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5cc5f301c70989c2739d54c35e189ef8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smfjifzhbmrlbmjlcmdazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-24 07:31:50.919606",
+    "disclosedDate": "2026-02-24 08:35:22.610380"
+  }
+}

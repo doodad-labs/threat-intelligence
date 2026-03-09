@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-2174D3",
+  "type": "ransomware-incident",
+  "title": "Luminus Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Luminus Management",
+    "domain": "luminusmgmt.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Luminus Management is an investment management firm founded in 2002 with offices in New York, NY and Houston, TX. The firm focuseson a low net, long/short, relative value oriented strategy that invests opportunistically across the capital structure of companies.We are ready to upload a lot of essentials corporate documents such as: NDA’s, driver licenses, passports, financial data (audits,payment details, reports), employee medical documents, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/thvtaw51cybnyw5hz2vtzw50qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-04 00:00:00.000000",
+    "disclosedDate": "2025-02-21 16:37:44.440631"
+  }
+}

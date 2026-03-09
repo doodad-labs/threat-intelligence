@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-14A5E8",
+  "type": "ransomware-incident",
+  "title": "jhillburn.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jhillburn.com",
+    "domain": "jhillburn.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "J.Hilburn started with one mission: to guarantee fit and eliminate unnecessary markups in menswear.We obsessively re-engineered menswear to provide men with a custom-made wardrobe that fits - fits his body, fits his personality, and fits his life...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4a6c612cdb16b249326ece62a2d3d1ac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/amhpbgxidxjulmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-14 20:44:00.000000",
+    "disclosedDate": "2023-08-14 21:59:13.212885"
+  }
+}

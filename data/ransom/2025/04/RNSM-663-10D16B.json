@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-663-10D16B",
+  "type": "ransomware-incident",
+  "title": "Správa služeb hlavního města Prahy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Správa služeb hlavního města Prahy",
+    "domain": "sshmp.cz",
+    "country": "CZ",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "Status: 29d 13h 39m 0s - Size Data: 200 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2e4afd3bf7f4135d779c3e6e065f8567.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3byw6f2ysbzbhxfvmviighsyxzuw61obybtxjtzdgeguhjhahlay2ljywrhmzmwmq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-09 00:00:00.000000",
+    "disclosedDate": "2025-04-10 04:19:28.613792"
+  }
+}

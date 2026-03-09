@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-29CA67",
+  "type": "ransomware-incident",
+  "title": "ese.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ese.com",
+    "domain": "ese.com",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ESE is the market leader for temporary storage solutions for waste and recyclable materials. We offer a large selection of high-quality products and services, which enable our customers in the waste management industry to streamline their processes a...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fbd1cff341c67f98036097389e89ff57.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxnllmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-29 19:07:00.000000",
+    "disclosedDate": "2024-01-29 20:23:48.060603"
+  }
+}

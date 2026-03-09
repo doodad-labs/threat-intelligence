@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10FA29",
+  "type": "ransomware-incident",
+  "title": "datapakservices.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "datapakservices.com",
+    "domain": "datapakservices.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Data Pak Services is a technology company specializing in data and software management services, CRM solutions, and marketing automation. Their offerings include database hosting, email broadcasting, personalized URLs, microsites, lead tracking and analytics. As a certified Microsoft partner, they work with businesses across various industries to improve efficiency, scalability, and customer engagement in their operations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgf0yxbha3nlcnzpy2vzlmnvbubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:59:58.096011",
+    "disclosedDate": "2025-02-10 20:00:04.786157"
+  }
+}

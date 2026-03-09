@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-26DC8C",
+  "type": "ransomware-incident",
+  "title": "Laiho Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Laiho Group",
+    "domain": "laihogroup.fi",
+    "country": "FI",
+    "sector": ""
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Finland",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6664862d728f79267465de36560cee21.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgfpag8gr3jvdxbacgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-20 18:12:00.381017",
+    "disclosedDate": "2023-10-26 18:12:00.543250"
+  }
+}

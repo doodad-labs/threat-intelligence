@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-287866",
+  "type": "ransomware-incident",
+  "title": "Parrish Tire ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Parrish Tire",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "Parrish Tire Company is one of the largest tire dealers in the Southeast, operating wholesale, retail, and commercial truck tire centers in NC, SC, VA, GA, and OH.We are ready to upload 10GB files of corporate documents such as:personal employee data, client data (~150 credit cards details, and other information), financials, agreements and contracts, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfycmlzacbuaxjlqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-28 00:00:00.000000",
+    "disclosedDate": "2025-11-28 15:18:58.744205"
+  }
+}

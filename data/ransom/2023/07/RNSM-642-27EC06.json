@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-642-27EC06",
+  "type": "ransomware-incident",
+  "title": "Morehead State University (MSU) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Morehead State University (MSU)",
+    "domain": "moreheadstate.edu",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Morehead State University is a comprehensive public university with undergraduate and graduate programs, emerging doctoral programs, and an emphasis on regional engagement. This university underwent our attack and lost a lot of data. President Jay Morgan said \"no personal data has been compromised\" (https://www.wmky.org/news/2023-07-13/morehead-state-university-hit-by-cyber-attack). But that was only a matter of time. Since we haven't been contacted from their part, we will upload every file of this university we have. Complete personal information of students and employees, finance and marketing data will be available soon.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw9yzwhlywqgu3rhdgugvw5pdmvyc2l0esaotvnvkubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.wmky.org/news/2023-07-13/morehead-state-university-hit-by-cyber-attack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-27 01:02:03.456789",
+    "disclosedDate": "2023-07-27 16:54:25.126307"
+  }
+}

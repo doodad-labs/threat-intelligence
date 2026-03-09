@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-651-288F56",
+  "type": "ransomware-incident",
+  "title": "Magicolor ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Magicolor",
+    "domain": "magicolor.ca",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Canada - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c2d787061cc8ecec204ad0851b639167.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfnawnvbg9yqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-28 17:02:20.000000",
+    "disclosedDate": "2024-04-28 18:10:23.802731"
+  }
+}

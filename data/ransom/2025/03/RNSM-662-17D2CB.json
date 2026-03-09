@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-662-17D2CB",
+  "type": "ransomware-incident",
+  "title": "RAE (Real Academia Española) (rae.es) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RAE (Real Academia Española) (rae.es)",
+    "domain": "rae.es",
+    "country": "ES",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000,
+    "description": "<1 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e8d4c56320901e666e0734ea9b64e7e3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukffichszwfsiefjywrlbwlhievzcghdsw9syskgkhjhzs5lcylazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-17 00:00:00.000000",
+    "disclosedDate": "2025-03-17 14:54:26.150096"
+  }
+}

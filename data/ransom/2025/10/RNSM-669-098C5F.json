@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-098C5F",
+  "type": "ransomware-incident",
+  "title": "www.msssolutions.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.msssolutions.com",
+    "domain": "zoominfo.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1996, MSS Solutions is a full-service Mechanical Contractor offering Design-Build, Design-Assist, and complete implementation services. The company specializes in new construction, large-scale renovations, and retrofit/replacement projects for HVAC, Fire, Security and Controls systems. Th…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a6436e94d98771b0d5695c55b8cd51f0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1zc3nvbhv0aw9ucy5jb21ay2hhb3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 00:00:00.000000",
+    "disclosedDate": "2025-10-09 15:41:43.030499"
+  }
+}

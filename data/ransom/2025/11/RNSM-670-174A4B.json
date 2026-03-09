@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-670-174A4B",
+  "type": "ransomware-incident",
+  "title": "Charles Rutenberg Realty ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Charles Rutenberg Realty",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 91000000000,
+    "description": "Charles Rutenberg Realty, Inc., servicing Pinellas, Pasco, Hillsborough, & Hernando County real estate.We will upload 91gb of corporate documents soon. Their downloads folder contains so many personal docs (more than 1,5gb of just scanned docs), (passports, driver licenses, SSNs, phones, addresses, email addresses, credit card details, employee headshots), financials, contracts and agreements, NDA, clients' information, projects, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hhcmxlcybsdxrlbmjlcmcgumvhbhr5qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-17 00:00:00.000000",
+    "disclosedDate": "2025-11-17 16:06:45.115480"
+  }
+}

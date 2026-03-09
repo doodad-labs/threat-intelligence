@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-015928",
+  "type": "ransomware-incident",
+  "title": "Primeimaging database for sale ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Primeimaging database for sale",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1800000000000,
+    "description": "1.8 Terabytes of company internal data for salePersonal medical records, onco results, clients and employee personal data, passports and other documents Price 20,000$ https://primeimaging.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d6a1ac19f21485196f275db9d1c8055c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjpbwvpbwfnaw5nigrhdgfiyxnligzvcibzywxlqgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-01 01:27:17.277939",
+    "disclosedDate": "2024-02-01 01:27:17.277961"
+  }
+}

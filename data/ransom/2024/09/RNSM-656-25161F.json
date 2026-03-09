@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-25161F",
+  "type": "ransomware-incident",
+  "title": "Pennvet.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pennvet.com",
+    "domain": "pennvet.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country: USA",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvubnzldc5jb21ay2xvyws=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-25 13:26:57.548752",
+    "disclosedDate": "2024-09-25 13:26:58.048114"
+  }
+}

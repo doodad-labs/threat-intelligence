@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-09A11B",
+  "type": "ransomware-incident",
+  "title": "argofinance.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "argofinance.org",
+    "domain": "argofinance.org",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are an investment company, using blockchain technology to drive secure and profitable investments and manage portfolios for our clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9ba3df8d17aea5915ef4f3f7320189a6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxjnb2zpbmfuy2uub3jnqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-09 21:42:09.373073",
+    "disclosedDate": "2024-10-09 21:42:10.180423"
+  }
+}

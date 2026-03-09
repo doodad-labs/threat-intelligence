@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-2450AF",
+  "type": "ransomware-incident",
+  "title": "gouverneur.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gouverneur.com",
+    "domain": "gouverneur.com",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Gouvernor Hotels",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/db8d248fe9d0fdf5c5c36eead84aad13.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z291dmvybmv1ci5jb21abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-11 00:00:00.000000",
+    "disclosedDate": "2025-06-24 01:06:34.369911"
+  }
+}

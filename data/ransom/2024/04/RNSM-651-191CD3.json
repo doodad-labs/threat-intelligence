@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-191CD3",
+  "type": "ransomware-incident",
+  "title": "gensler.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gensler.com",
+    "domain": "gensler.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "gensler.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/22079c04d62e8bdf27eb96b6a04b8908.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2vuc2xlci5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-19 12:30:10.813046",
+    "disclosedDate": "2024-04-19 12:30:10.813046"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-670-20CE8C",
+  "type": "ransomware-incident",
+  "title": "Söllner ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Söllner",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 286000000000,
+    "description": "SöllnerSöllner GmbH & Co. KG is a family-owned roofing company based in Plettenberg, operating for four generations since 1902. The company specializes in roofing, carpentry, facade construction, scaffolding, and offers additional services such as container service and crane rentals. Recently, they have expanded into architecture, providing comprehensive services from design to execution. With a team of qualified professionals, Söllner serves both regional and national clients in the industrial, commercial, public, and private sectorsGeo: Germany - Leak size: 286 GB Archive - Contains: Files, SQL",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u8o2bgxuzxjac2fyy29tyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-20 11:21:10.130247",
+    "disclosedDate": "2025-11-20 11:21:13.778618"
+  }
+}

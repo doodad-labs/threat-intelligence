@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-064DA6",
+  "type": "ransomware-incident",
+  "title": "netspectrum.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "netspectrum.ca",
+    "domain": "netspectrum.ca",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Netspectrum offers Fibre, Cable, Wireless and DSL Internet services to communities in Northern Ontario. Learn about their packages, blog posts and customer service on their website.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f54e973e637e1484d58f035e8c36fc3d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmv0c3bly3rydw0uy2fabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-06 13:41:00.000000",
+    "disclosedDate": "2024-05-06 16:58:23.689325"
+  }
+}

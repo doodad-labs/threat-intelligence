@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-086771",
+  "type": "ransomware-incident",
+  "title": "Denninger’s  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Denninger’s ",
+    "domain": "denningers.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Denninger’s - the food company that owns: 5 retail locations, a manufacturing plant and a warehouse. Denningers corporate office is located in 826 Queenston Rd, Stoney Creek, Ontario, L8G 4A8, Canada and has 76 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvubmluz2vy4oczcybabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-08 14:20:54.12345",
+    "disclosedDate": "2024-03-08 15:36:41.682181"
+  }
+}

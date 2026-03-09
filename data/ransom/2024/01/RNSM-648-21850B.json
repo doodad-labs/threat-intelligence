@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-648-21850B",
+  "type": "ransomware-incident",
+  "title": "tvjahnrheine.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tvjahnrheine.de",
+    "domain": "tvjahnrheine.de",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TV Jahn-Rheine is a company that operates in the Health, Wellness and Fitness industry. The company is headquartered in Rheine, Nordrhein-Westfalen, Germany.We have stolen a ton of accounting data, email conversations, human resources, etc.",
+    "claimed_data_types": [
+      "email-addresses"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/86294ac7e7300c0b0ed4245e08aa8ff1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhzqywhucmhlaw5llmrlqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-21 00:37:00.000000",
+    "disclosedDate": "2024-01-21 02:42:41.832025"
+  }
+}

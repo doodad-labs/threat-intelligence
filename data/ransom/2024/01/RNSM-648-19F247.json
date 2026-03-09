@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-19F247",
+  "type": "ransomware-incident",
+  "title": "dywidag.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dywidag.com",
+    "domain": "dywidag.com",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2f402c952b10165762d92a31a0761907.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zhl3awrhzy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-19 19:25:00.000000",
+    "disclosedDate": "2024-01-19 20:59:58.510509"
+  }
+}

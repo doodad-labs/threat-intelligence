@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-27DC0A",
+  "type": "ransomware-incident",
+  "title": "Cape Robbin Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cape Robbin Inc",
+    "domain": "caperobbin.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cape Robbin is the ultimate runway-inspired fashion brand for women’s shoes, offering a combination of style and affordability. Featuring bold heels and chic sandals, each designed with the fashion-conscious woman in mind. Cape Robbin is a             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f947300e48a451c0a57c803b54b85824.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fwzsbsb2jiaw4gsw5jqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-27 00:00:00.000000",
+    "disclosedDate": "2025-05-27 19:55:21.103802"
+  }
+}

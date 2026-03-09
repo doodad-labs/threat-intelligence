@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-179FC4",
+  "type": "ransomware-incident",
+  "title": "www.macter.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.macter.com",
+    "domain": "macter.com",
+    "country": "PK",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Macter International Ltd is a pharmaceutical manufacturing company based in Karachi, Pakistan. It is among the leading pharmaceutical companies in the country. Macter manufactures a wide range of products including antibiotics, analgesics, antidiabetics, antifungal, and gastrointestinal treatments. The company is renowned for its quality, affordability, and competitiveness in both domestic and international marketplaces.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/52942fe14794f3bab2d770e221bb0116.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1hy3rlci5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-17 19:54:02.000000",
+    "disclosedDate": "2025-02-17 21:50:10.085055"
+  }
+}

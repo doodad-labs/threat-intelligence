@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-1399F3",
+  "type": "ransomware-incident",
+  "title": "Toyota Brazil ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Toyota Brazil",
+    "domain": "toyota.com.br",
+    "country": "BR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Brazil - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/abeb34163dc6599116050562303efdec.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vg95b3rhiejyyxppbebodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-13 10:09:24.000000",
+    "disclosedDate": "2024-04-13 10:40:08.862780"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-1699D2",
+  "type": "ransomware-incident",
+  "title": "DoctorsToYou.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DoctorsToYou.com",
+    "domain": "doctorstoyou.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DoctorsToYou.com is a healthcare service company that connects patients with medical professionals, providing timely and convenient access to care. It focuses on delivering personalized medical services, often offering telemedicine options and in-person visits. The company aims to enhance patient experience by ensuring quick response times and high-quality, compassionate care tailored to individual needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a92034a6abe08d9670fe31c866bbfb6a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rg9jdg9yc1rvww91lmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-16 12:14:20.000000",
+    "disclosedDate": "2024-10-16 13:47:37.276645"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-1301DD",
+  "type": "ransomware-incident",
+  "title": "PAYCOM.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PAYCOM.COM",
+    "domain": "paycom.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Online Payroll Services - HR Payroll Software - Paycom",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/58fa1b942cc8a1ca69d35b81a40ace44.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uefzq09nlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-13 12:42:12.162835",
+    "disclosedDate": "2023-07-13 12:42:12.162858"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-1226C8",
+  "type": "ransomware-incident",
+  "title": "vhprimary.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "vhprimary.com",
+    "domain": "vhprimary.com",
+    "country": "AE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Victory Heights - A British-curriculum Primary School in Dubai",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e03847f232e7c0e101613cb84fc7b116.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmhwcmltyxj5lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 11:48:00.000000",
+    "disclosedDate": "2024-02-12 13:28:59.045352"
+  }
+}

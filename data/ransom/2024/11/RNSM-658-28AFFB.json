@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-28AFFB",
+  "type": "ransomware-incident",
+  "title": "midlandtool.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "midlandtool.com",
+    "domain": "midlandtool.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $126  Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwlkbgfuzhrvb2wuy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-28 08:07:08.412683",
+    "disclosedDate": "2024-11-28 08:07:09.717247"
+  }
+}

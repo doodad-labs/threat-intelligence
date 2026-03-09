@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-640-220324",
+  "type": "ransomware-incident",
+  "title": "Trinity Exploration and Production ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Trinity Exploration and Production",
+    "domain": "trinityexploration.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 54000000000,
+    "description": "Trinity Exploration & Production plc, an independent oil company, engages in the exploration, development, production, and sale of crude oil in Trinidad & Tobago. Total downloaded data - 54gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/45fde1215cf0d96d67d43ed56d168099.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjpbml0esbfehbsb3jhdglvbibhbmqguhjvzhvjdglvbkbyb3lhba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-22 01:02:03.456789",
+    "disclosedDate": "2023-05-22 11:57:21.735049"
+  }
+}

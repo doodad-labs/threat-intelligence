@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-654-247017",
+  "type": "ransomware-incident",
+  "title": "forestparkga.gov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "forestparkga.gov",
+    "domain": "forestparkga.gov",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "monti",
+    "name": "monti",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "City & PD",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2f8a0bc3c2d60fa23dce0a5b5d2cdebe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zm9yzxn0cgfya2dhlmdvdkbtb250aq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.11alive.com/article/news/local/forest-park-malicious-technology-network-intrusion-monday/85-6dfb87bd-2ebd-48de-b566-846f6c965965",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-24 11:15:24.653177",
+    "disclosedDate": "2024-07-24 11:15:25.618342"
+  }
+}

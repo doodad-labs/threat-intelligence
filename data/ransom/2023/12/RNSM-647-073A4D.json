@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-647-073A4D",
+  "type": "ransomware-incident",
+  "title": "usherbrooke.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "usherbrooke.ca",
+    "domain": "usherbrooke.ca",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Université de Sherbrooke is a public Roman Catholic university located in Quebec, Canada.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/08058e32eba91ddeb95aa0f6fc59d02a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dxnozxjicm9va2uuy2fabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ici.radio-canada.ca/nouvelle/2033246/cyber-attaque-udes-universite-sherbrooke",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-07 07:33:00.000000",
+    "disclosedDate": "2023-12-07 08:33:37.951064"
+  }
+}

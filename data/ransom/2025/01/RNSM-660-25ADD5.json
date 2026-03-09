@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-25ADD5",
+  "type": "ransomware-incident",
+  "title": "paradiseschools.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "paradiseschools.org",
+    "domain": "paradiseschools.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Paradise Schools is a network of K-12 charter schools located in Surprise, Arizona. The organization, established in 1997, comprises three schools - Paradise Honors High School, Paradise Honors Middle School, and Paradise Education Center. It offers a comprehensive curriculum aligned with state and national standards. The student-centric institution strives to cultivate creativity, critical thinking, leadership, and character development in a safe and inclusive environment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgfyywrpc2vzy2hvb2xzlm9yz0bzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-29 00:00:00.000000",
+    "disclosedDate": "2025-01-25 20:28:29.030300"
+  }
+}

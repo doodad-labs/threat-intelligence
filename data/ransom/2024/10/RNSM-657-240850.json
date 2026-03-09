@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-240850",
+  "type": "ransomware-incident",
+  "title": "appen.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "appen.com",
+    "domain": "appen.com",
+    "country": "AU",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Registered user base of the appen.com platform (AI training company).5 887 922 linesemail addresses, employers, IP addresses, names, passwords,...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f24b1fc5250a3eae20d0aa19c95801be.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxbwzw4uy29tqgfwddcz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-17 09:00:00.000000",
+    "disclosedDate": "2024-10-24 14:00:47.123886"
+  }
+}

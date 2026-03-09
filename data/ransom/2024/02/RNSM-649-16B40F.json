@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-16B40F",
+  "type": "ransomware-incident",
+  "title": "The Chas. E. Phipps ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Chas. E. Phipps",
+    "domain": "chasephipps.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Chas. E. Phipps - the company was founded in 1921, and currently employs 67 employees. The company supplies concrete accessories, concrete repair materials, sealants, coatings and various building materials to contractors. The Chas E Phipps corporate office is located in 4560 Willow Pkwy, Cleveland, Ohio, 44125, United States.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/48489ef9c0a4f660a351a482cede9f02.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlienoyxmuieuuifboaxbwc0btzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-16 20:21:17.12345",
+    "disclosedDate": "2024-02-16 21:15:43.882248"
+  }
+}

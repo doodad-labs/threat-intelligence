@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-25FD4A",
+  "type": "ransomware-incident",
+  "title": "WORKFORCESOFTWARE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WORKFORCESOFTWARE.COM",
+    "domain": "workforcesoftware.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] WorkForce Software is a leading global provider of cloud-based workforce management solutions. The company’s WorkForce Suite adapts to each organization’s needs—no matter how unique their pay rules, labor regulations, and schedules—while delivering a break-through employee experience at the time and place work happens.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/11ebbded2835931f81b3cdb8c4443585.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v09ss0zpuknfu09gvfdbukuuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 14:53:18.489617",
+    "disclosedDate": "2026-01-25 14:53:32.742408"
+  }
+}

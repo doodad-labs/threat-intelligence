@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-639-10F781",
+  "type": "ransomware-incident",
+  "title": "Stanley Electric U.S. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Stanley Electric U.S.",
+    "domain": "stanleyelectricus.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Stanley Electric US is a manufacturer of motorcycle and automotive lighting equipment for Honda and Nissan. This real big fish is going to lose it's internal data of a great size - more than 2TBs. We have not only interesting details about their cooperation with big business names like JP Morgan, Nissan, Honda and others, but also their employees' personal information: thousands of SSNs, passports, medical information, vaccination information. And there are more: incidents, violations, confidential info, tons of contracts and so on and so forth.Priceless data for you soon.",
+    "claimed_data_types": [
+      "government-identifiers",
+      "passport-numbers",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b542ba47431fd03f9d70c39cc85300ec.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rhbmxlesbfbgvjdhjpyybvllmuqhjvewfs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-10 01:02:03.456789",
+    "disclosedDate": "2023-04-10 19:50:45.477014"
+  }
+}

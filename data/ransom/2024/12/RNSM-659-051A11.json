@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-659-051A11",
+  "type": "ransomware-incident",
+  "title": "Donnewalddistributing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Donnewalddistributing",
+    "domain": "donnewalddistributing.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "Country: USA\rViews: 61\r\rView more /donne\rPublic\r<100GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rg9ubmv3ywxkzglzdhjpynv0aw5nqgnsb2fr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-04 00:00:00.000000",
+    "disclosedDate": "2024-12-05 09:14:39.568293"
+  }
+}

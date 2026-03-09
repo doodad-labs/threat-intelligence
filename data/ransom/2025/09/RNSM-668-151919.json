@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-151919",
+  "type": "ransomware-incident",
+  "title": "Klarman Asset Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Klarman Asset Management",
+    "domain": "klarmanasset.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Klarman Asset Management, Korean Leak part 7 - careful investing did not save them from losses. The company was founded in 2021 and focuses on multi-strategy investing. They claim that they only work with proven and reliable strategies that a            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b30aea3f568b149c62e32409c5a969c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2xhcm1hbibbc3nldcbnyw5hz2vtzw50qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-14 00:00:00.000000",
+    "disclosedDate": "2025-09-15 01:47:10.820078"
+  }
+}

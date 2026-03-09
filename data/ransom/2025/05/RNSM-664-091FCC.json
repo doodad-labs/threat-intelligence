@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-664-091FCC",
+  "type": "ransomware-incident",
+  "title": "Lake Shore Paving ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lake Shore Paving",
+    "domain": "lakeshorepaving.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 112300000000,
+    "description": "Lake Shore Paving (founded in 1998) - services for excavation, utility, asphalt paving and concrete paving needs. Lake Shore Paving corporate office is located in 7 Osmer St, Jamestown, New York, 14701, United States and has 19 employees. The total amount of data leakage is 112.30 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b4fb570cc949285f32c439d379598769.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgfrzsbtag9yzsbqyxzpbmdabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-06 15:35:45.000000",
+    "disclosedDate": "2025-05-09 17:45:13.912772"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-14E07B",
+  "type": "ransomware-incident",
+  "title": "UNIFER ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UNIFER",
+    "domain": "unifer-travaux.fr",
+    "country": "FR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The UNIFER Group is made up of more than 10 railway construction companies who have decided to pool their resources, their experiences and their skills.unifer-travaux.fr",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f1bfe5904637e67aa0aeb1a1e9a5af89.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vu5jrkvsqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-14 00:00:00.000000",
+    "disclosedDate": "2024-02-14 05:54:06.400743"
+  }
+}

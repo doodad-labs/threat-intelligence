@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-241475",
+  "type": "ransomware-incident",
+  "title": "pactchangeslives.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pactchangeslives.com",
+    "domain": "pactchangeslives.com",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Porter County PACT is a company that operates in the Government industry. It employs 50to99 people and has 5Mto10M of revenue. The company is headquartered in Valparaiso, Indiana.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/969404c9884a806314e60ca9695562f0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgfjdgnoyw5nzxnsaxzlcy5jb21abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-11 12:07:00.000000",
+    "disclosedDate": "2025-09-24 22:21:40.309855"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-2487DA",
+  "type": "ransomware-incident",
+  "title": "lifeminetx.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lifeminetx.com",
+    "domain": "lifeminetx.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Developer of a drug discovery platform designed to elucidate human biology and c...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7572a4c8278e8b44f3b3430bbf298b43.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bglmzw1pbmv0ec5jb21abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-16 00:00:00.000000",
+    "disclosedDate": "2024-10-24 02:37:31.201867"
+  }
+}

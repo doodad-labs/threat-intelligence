@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-24879B",
+  "type": "ransomware-incident",
+  "title": "NBCAPITAL JOINT STOCK COMPANY ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NBCAPITAL JOINT STOCK COMPANY",
+    "domain": "fiingate.vn",
+    "country": "VN",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://fiingate.vn/BusinessDirectory/CompanyDetail/859289 NBCAPITAL Investment Co., Ltd. is a Vietnamese company engaged in investment and business operations, maintaining a complete internal corporate structure that includes finance, accounting, legal, human resources, sales, marketing, IT, and operations. Internal documentation shows that the company manages financial reporting, budgeting, taxation, contractual transactions, administrative records, and operational workflows, reflecting a formally organized and fully functioning enterprise. Official notices also confirm active financial account management and ongoing transactional activities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tkjdqvbjvefmieppsu5uifnut0nlienptvbbtlladghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-24 00:26:58.000000",
+    "disclosedDate": "2025-11-24 00:57:13.222459"
+  }
+}

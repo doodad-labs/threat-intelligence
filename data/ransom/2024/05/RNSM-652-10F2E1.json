@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-652-10F2E1",
+  "type": "ransomware-incident",
+  "title": "colonialsd.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "colonialsd.org",
+    "domain": "colonialsd.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 500000000000,
+    "description": "https://mega.nz/folder/l60i2aLR#1pTmoxhVwJrSvVhJ1V3F5g We are publishing sample partial (~50GB) from the data of Colonial School District. We have more 500GB available to sell. Contact us for a deal before 26th May with offers. If we do not receiv...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f90cd70e296aeddfcbf2268bca4ecbee.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29sb25pywxzzc5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-26 00:00:00.000000",
+    "disclosedDate": "2024-05-10 08:27:54.196979"
+  }
+}

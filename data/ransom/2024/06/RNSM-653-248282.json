@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-248282",
+  "type": "ransomware-incident",
+  "title": "westfalia-automotive.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "westfalia-automotive.com",
+    "domain": "westfalia-automotive.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/MONOFLEX/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/MONOFLEX/PROOF/DATA DESCRIPTIONS: Personal identifiable information, engineering data\\drawings, employees and executives personal files, financial data, customer information, database exports, corporate correspondence, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7e300413d4bae1244722af703fcc671b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2vzdgzhbglhlwf1dg9tb3rpdmuuy29tqgnhy3r1cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-24 18:23:39.852000",
+    "disclosedDate": "2024-06-24 22:13:03.499652"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-662-04F626",
+  "type": "ransomware-incident",
+  "title": "Ray Fogg Corporate Properties ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ray Fogg Corporate Properties",
+    "domain": "fogg.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 75000000000,
+    "description": "Ray Fogg Corporate Properties has a vast portfolio of flexible office, warehouse, industrial and office / warehouse (Flex) properties available for lease.We are ready to upload more than 75 GB of essential corporate documents such as: financial data (audits, payment details, reports), confidential licenses, agreements and contracts, contact numbers and e-mail addresses of employees and customers, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umf5iezvz2cgq29ycg9yyxrlifbyb3blcnrpzxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-04 00:00:00.000000",
+    "disclosedDate": "2025-03-04 13:45:41.022020"
+  }
+}

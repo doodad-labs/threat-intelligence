@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-2714D4",
+  "type": "ransomware-incident",
+  "title": "www.scadea.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.scadea.com",
+    "domain": "scadea.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.scadea.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/035c0faa38c3ea3d43d378458c9b2bdc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnjywrlys5jb21aymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:08:07.959473",
+    "disclosedDate": "2025-01-27 07:09:12.715859"
+  }
+}

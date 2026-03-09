@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-639-07BA1C",
+  "type": "ransomware-incident",
+  "title": "Kretek International ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kretek International",
+    "domain": "kretek.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 70000000000,
+    "description": "Kretek International, Inc is a number one importer, marketer, and distributor of specialty tobacco products to convenience, mass, and national retailers in the US. We are going to distribute the data of 70GB size we got from them. We have accounting, finance data, payment information, contracts, personal information (employees' info, addresses etc.), information about their projects and so on.Release coming soon.",
+    "claimed_data_types": [
+      "addresses",
+      "financial-data",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/11bcf0cc4254fc4072fbd2ff935867aa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s3jldgvrieludgvybmf0aw9uywxacm95yww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-05 01:02:03.456789",
+    "disclosedDate": "2023-04-07 03:40:39.239541"
+  }
+}

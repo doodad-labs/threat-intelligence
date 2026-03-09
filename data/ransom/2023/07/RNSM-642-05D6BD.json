@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-05D6BD",
+  "type": "ransomware-incident",
+  "title": "MERATIVE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MERATIVE.COM",
+    "domain": "merative.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Healthcare Data, Technology and Analytics - Merative",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c0af0a9984d7e78f317ea3bc53118c6d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tuvsqvrjvkuuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-05 23:10:14.770577",
+    "disclosedDate": "2023-07-05 23:10:14.770624"
+  }
+}

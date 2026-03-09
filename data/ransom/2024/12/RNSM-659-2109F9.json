@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-2109F9",
+  "type": "ransomware-incident",
+  "title": "LAMERS ENTERPRISE INC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LAMERS ENTERPRISE INC",
+    "domain": "lamersenterprise.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/77772339fb708baa40ca79295fc123bb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tefnrvjtievovevsufjju0ugsu5dqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-21 20:54:47.497104",
+    "disclosedDate": "2024-12-21 20:54:48.295746"
+  }
+}

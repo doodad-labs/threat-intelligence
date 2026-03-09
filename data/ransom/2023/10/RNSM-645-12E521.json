@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-12E521",
+  "type": "ransomware-incident",
+  "title": "Seattle Housing Authority ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Seattle Housing Authority",
+    "domain": "seattlehousing.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Established in 1939, the Seattle Housing Authority provides safe and affordable living environments that foster stability and self-sufficiency for people with low incomes i...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/397205d2356a39512152278a1da5b089.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vhdhrszsbib3vzaw5nief1dghvcml0eubub2vzy2fwzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-05 00:00:00.000000",
+    "disclosedDate": "2023-10-12 17:45:25.091370"
+  }
+}

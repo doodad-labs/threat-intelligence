@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-13D7BC",
+  "type": "ransomware-incident",
+  "title": "kuzstu-nf.ru ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kuzstu-nf.ru",
+    "domain": "kuzstu-nf.ru",
+    "country": "RU"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c2130f0d58cc4bf655a5ede0740b94b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3v6c3r1lw5mlnj1qgz1bmtzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-13 15:15:11.674666",
+    "disclosedDate": "2025-01-13 15:15:11.674666"
+  }
+}

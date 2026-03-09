@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-29B2BA",
+  "type": "ransomware-incident",
+  "title": "nts.go.kr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nts.go.kr",
+    "domain": "nts.go.kr",
+    "country": "KR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/01102788d8530c1f66b5081caf845a2a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bnrzlmdvlmtyqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-29 11:07:00.000000",
+    "disclosedDate": "2023-03-29 13:35:57.273727"
+  }
+}

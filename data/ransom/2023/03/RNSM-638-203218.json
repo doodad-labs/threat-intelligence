@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-203218",
+  "type": "ransomware-incident",
+  "title": "telepizza.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "telepizza.com",
+    "domain": "telepizza.com",
+    "country": "ES",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Telepizza is a pizza restaurant chain that operates mainly in Spain and Portugal and some Spanish-speaking countries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/15d433d76ab90fe72ac294f1e50409b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvszxbpenphlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-20 13:07:00.000000",
+    "disclosedDate": "2023-03-20 15:08:00.490216"
+  }
+}

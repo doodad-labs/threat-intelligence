@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-0321C3",
+  "type": "ransomware-incident",
+  "title": "American Eagle Logistics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "American Eagle Logistics",
+    "domain": "aeagleoilfield.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "monti",
+    "name": "monti",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.aeagleoilfield.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/de072b0b5479425269837c8386250d5c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1lcmljyw4grwfnbgugtg9naxn0awnzqg1vbnrp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-03 14:42:35.771532",
+    "disclosedDate": "2025-05-03 14:43:49.395113"
+  }
+}

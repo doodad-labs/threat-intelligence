@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-657-0906FD",
+  "type": "ransomware-incident",
+  "title": "avans.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "avans.com",
+    "domain": "avans.com",
+    "country": "MX"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ofrecemos soluciones de acceso, control de flujo peatonal y transportación vertical para todo tipo de edificios.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f90f8aba1b43848adc4d081b9f93975e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxzhbnmuy29tqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-09 01:09:10.461375",
+    "disclosedDate": "2024-10-09 01:09:11.289272"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-242A7C",
+  "type": "ransomware-incident",
+  "title": "Westrian Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Westrian Group",
+    "domain": "jrengineering.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "JR Engineering provides services in land management, surveying, land transportation, water resources, and structural design! This company was compromised due to extremely poor security and a weak IT department. Client databases were lost, including confidential contracts with clients and more! All of the company's current sketches and models are now publicly available, which could ruin its reputation and financial position!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cc23ab9186c2d69232a8cfc85eef150f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vzdhjpyw4gr3jvdxbaaw50zxjsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-24 16:16:48.057058",
+    "disclosedDate": "2025-11-24 16:17:03.063679"
+  }
+}

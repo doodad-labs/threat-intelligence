@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-236D1D",
+  "type": "ransomware-incident",
+  "title": "www.seaeng.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.seaeng.com",
+    "domain": "seaeng.com",
+    "country": "KR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dan0n",
+    "name": "dAn0n",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "tahly Engineering & Associates, Inc. was established in 1970. The firm is headquartered in Helena, Montana with a branch office in Bozeman, Montana. Employees provide service in the fields of transpor...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c6c949cb63b28291b574c43b884cb32a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnlywvuzy5jb21azefumg4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-23 00:00:00.000000",
+    "disclosedDate": "2024-08-23 08:44:30.811978"
+  }
+}

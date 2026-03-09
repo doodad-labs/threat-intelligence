@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-647-227139",
+  "type": "ransomware-incident",
+  "title": "hotelplan.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hotelplan.co.uk",
+    "domain": "hotelplan.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 704000000000,
+    "description": "Hotelplan UK is the UK subsidiary of Hotelplan Group, a large pan-European travel group headquartered in Switzerland. We are a well-established family of five specialist tour operators, with a strong tradition of excellence & high standards of quality and service. We are passionate about the holidays we offer, and we always aim to meet or exceed the expectations of our customers’. Sustainability and responsible tourism are at the heart of everything we do. The Hotelplan UK family of brands includes Inghams, Esprit, Santa’s Lapland and Explore Worldwide all based in Nelson House in Farnborough, together with Inntravel based near York.SITE: www.hotelplan.co.uk Address : Nelson House, Victoria Rd, Farnborough GU14 7PA, United KingdomALL DATA SIZE: 704gb 1. Human Resources 2. Users personal folders 3. Finance and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6b5fb40a44701c1af06a09f33fff1da5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ag90zwxwbgfulmnvlnvrqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://travelweekly.co.uk/news/tour-operators/hotelplan-uk-struck-by-cyber-attack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-12 00:00:00.000000",
+    "disclosedDate": "2023-12-22 16:18:50.267402"
+  }
+}

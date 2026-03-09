@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-023D24",
+  "type": "ransomware-incident",
+  "title": "NORANET - CZ ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NORANET - CZ",
+    "domain": "noranet.cz",
+    "country": "CZ",
+    "sector": ""
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Czech Republic",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4e38426d7b734ba19ca595ccad6280bb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tk9squ5fvcatienaqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-02 00:57:13.323423",
+    "disclosedDate": "2023-06-02 00:57:13.323446"
+  }
+}

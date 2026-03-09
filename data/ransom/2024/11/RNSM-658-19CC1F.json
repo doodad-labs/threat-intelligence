@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-19CC1F",
+  "type": "ransomware-incident",
+  "title": "tempaircompany.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tempaircompany.com",
+    "domain": "tempaircompany.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] TempAirCompany.com specializes in providing advanced temperature control solutions for various industries. They offer a range of services including HVAC system installation, maintenance, and repair. Known for their energy-efficient and customizable solutions, TempAirCompany serves both residential and commercial clients, ensuring optimal indoor climate conditions and customer satisfaction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f5e2bc39399fc747577a12a6eab239a3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvtcgfpcmnvbxbhbnkuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 12:58:31.000000",
+    "disclosedDate": "2024-11-19 14:34:52.616557"
+  }
+}

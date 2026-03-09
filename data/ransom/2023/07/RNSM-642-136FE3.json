@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-136FE3",
+  "type": "ransomware-incident",
+  "title": "SHUTTERFLY.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SHUTTERFLY.COM",
+    "domain": "shutterfly.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Shutterfly: Photo Books, Cards, Prints, Wall Art, Gifts, Wedding",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/47902a07613eefa47a74523f997d4d04.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0hvvfrfukzmws5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-13 12:44:23.038951",
+    "disclosedDate": "2023-07-13 12:44:23.039000"
+  }
+}

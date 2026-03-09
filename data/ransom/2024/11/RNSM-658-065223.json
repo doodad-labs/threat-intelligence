@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-065223",
+  "type": "ransomware-incident",
+  "title": "knoxlawcenter ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "knoxlawcenter",
+    "domain": "knoxlawcenter.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.knoxlawcenter.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/15883dc90cfecb9bf6f58a0f162f638a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a25vegxhd2nlbnrlckbozwxszg93bg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-10 00:00:00.000000",
+    "disclosedDate": "2024-11-06 23:23:00.805321"
+  }
+}

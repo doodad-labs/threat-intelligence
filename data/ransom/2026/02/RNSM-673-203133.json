@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-203133",
+  "type": "ransomware-incident",
+  "title": "ABAR S.p.A. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ABAR S.p.A.",
+    "domain": "abarspa.com",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/899ea2331f0f615626634c8ffdd7ebcc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qujbuibtlnauqs5acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-20 00:00:00.000000",
+    "disclosedDate": "2026-02-20 06:44:12.627154"
+  }
+}

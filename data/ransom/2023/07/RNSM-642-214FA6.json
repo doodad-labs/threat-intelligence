@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-642-214FA6",
+  "type": "ransomware-incident",
+  "title": "plbint.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "plbint.com",
+    "domain": "plbint.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 990000000000,
+    "description": "PLB International, 990Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgxiaw50lmnvbubhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-21 05:56:01.267378",
+    "disclosedDate": "2023-07-21 05:56:01.267403"
+  }
+}

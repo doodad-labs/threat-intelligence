@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-662-3138E8",
+  "type": "ransomware-incident",
+  "title": "Virserius Studio ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Virserius Studio",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 18000000000,
+    "description": "Virserius Studio is an interior architecture & lifestyle design firm with offices in New York and Paris.We are ready to upload more than 18 GB of essential corporate documents such as: corporate NDA’s, corporate licenses, agreements and contracts, contact numbers and e-mail addresses of employees and customers, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmlyc2vyaxvzifn0dwrpb0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-31 00:00:00.000000",
+    "disclosedDate": "2025-03-31 13:38:45.575253"
+  }
+}

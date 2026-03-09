@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-666-3062B0",
+  "type": "ransomware-incident",
+  "title": "Dollar Tree ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dollar Tree",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000000,
+    "description": "Dollar Tree, a Fortune 200 Company, operated 16,774 stores across 48 states and five Canadian provinces as of February 3, 2024. Stores operate under the brands of Dollar Tree, Family Dollar, and Dollar Tree Canada. To learn more about the Company, visit www.DollarTree.com. \r Dollar Tree, Inc. (NASDAQ: DLTR) announced that it acquired designation rights for 170 leases of 99 Cents Only Stores across Arizona, California, Nevada, and Texas. The deal was completed via two transactions in May that were approved by the United States Bankruptcy Court for the District of Delaware. As part of the transactions, Dollar Tree also acquired the North American Intellectual Property of 99 Cents Only Stores and select on-site furniture, fixtures, and equipment. \r They became a victim of the data breach. 1,2TB sensitive and personal data will be published soon in our blog.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cf30ea446fb64004363bca3dc68c4160.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rg9sbgfyifryzwvaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-30 00:00:00.000000",
+    "disclosedDate": "2025-07-30 09:56:45.713994"
+  }
+}

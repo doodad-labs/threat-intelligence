@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-07661E",
+  "type": "ransomware-incident",
+  "title": "voyages-robin.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "voyages-robin.com",
+    "domain": "voyages-robin.com",
+    "country": "FR",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/365690ccd215a8423892a3a56a330280.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dm95ywdlcy1yb2jpbi5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 21:58:14.994876",
+    "disclosedDate": "2026-02-07 21:58:29.377377"
+  }
+}

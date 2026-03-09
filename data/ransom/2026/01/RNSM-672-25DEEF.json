@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-25DEEF",
+  "type": "ransomware-incident",
+  "title": "KAZMILAW.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KAZMILAW.COM",
+    "domain": "kazmilaw.com",
+    "country": "TR"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"KAZMILAW.COM\" refers to the Kazmi Law office, a firm based in the United States. They offer legal services in various areas such as family law, immigration law, and personal injury law. The firm is headed by Saad Kazmi, an experienced attorney passionate about his clients' rights and justice. The firm serves diverse clients and makes an effort to create personalized strategies for each case.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/725985b97c8a2d8653f8b0626cc6e147.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0fatulmqvcuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 15:09:26.783413",
+    "disclosedDate": "2026-01-25 15:10:30.550322"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-279E77",
+  "type": "ransomware-incident",
+  "title": "Global Parts & Maintenance ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Global Parts & Maintenance",
+    "domain": "globalpartsllc.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tailored procurement solutions and supply chain management",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d30f3aaaeb814cbc69399a443060ad52.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2xvymfsifbhcnrzicygtwfpbnrlbmfuy2vaz2vuzxnpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-26 00:00:00.000000",
+    "disclosedDate": "2026-01-27 13:06:34.585679"
+  }
+}

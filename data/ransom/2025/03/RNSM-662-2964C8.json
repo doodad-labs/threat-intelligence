@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-2964C8",
+  "type": "ransomware-incident",
+  "title": "elsoms.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "elsoms.com",
+    "domain": "elsoms.com",
+    "country": "GB",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "elsoms.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6469c8e2854cdbd7ad93440680ca4b8d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwxzb21zlmnvbubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-07 15:31:09.983474",
+    "disclosedDate": "2025-03-29 02:50:20.474206"
+  }
+}

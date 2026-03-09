@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-214BB9",
+  "type": "ransomware-incident",
+  "title": "A1 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "A1",
+    "domain": "a1.group",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A1 Data Provider (1/4 partial payments have been paid on 2023-08-23)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f10b27779be949508f6b2a61433b19f9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qtfacmfuc29tzwq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-21 18:30:20.458437",
+    "disclosedDate": "2023-08-21 18:30:20.458460"
+  }
+}

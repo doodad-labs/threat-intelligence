@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-660-23A6EB",
+  "type": "ransomware-incident",
+  "title": "Bwfg.at ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bwfg.at",
+    "domain": "bwfg.at",
+    "country": "AT",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 102000000000,
+    "description": "Bwfg.at\r\r\rCountry: austria\rViews: 16\r\rView more /bwfg\rPublic\r102GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qndmzy5hdebjbg9haw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-23 18:39:42.704073",
+    "disclosedDate": "2025-01-23 18:39:42.704073"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-666-20C966",
+  "type": "ransomware-incident",
+  "title": "Universidad Mayor ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Universidad Mayor",
+    "country": "CL",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Universidad Mayor (UM), acreditación institucional con la Middle States Commission on Higher Education de los EE.UU (MSCHE).",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c47f091bc4ee818a334d954cec068ef9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pdmvyc2lkywqgtwf5b3jazglyzxdvbgy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-20 12:55:47.001572",
+    "disclosedDate": "2025-07-20 12:56:11.362046"
+  }
+}

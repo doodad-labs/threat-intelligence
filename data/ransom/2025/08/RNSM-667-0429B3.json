@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-0429B3",
+  "type": "ransomware-incident",
+  "title": "bw-lv.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bw-lv.de",
+    "domain": "bw-lv.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/87991711b6fefacb68e5a908d006a76a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynctbhyuzgvaqnjhaw5daxbozxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-04 16:08:03.420339",
+    "disclosedDate": "2025-08-04 16:08:39.035159"
+  }
+}

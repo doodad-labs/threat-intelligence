@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-659-1489CE",
+  "type": "ransomware-incident",
+  "title": "Mid Florida Primary Care ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mid Florida Primary Care",
+    "domain": "mymfpc.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mid-Florida Primary Care is a specialized private Internal Medicine practice.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e7228f30c8812706064cc736180d4635.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twlkiezsb3jpzgeguhjpbwfyesbdyxjlqgjpyw5sawfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-07-29-mid-florida-primary-care-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-14 14:33:39.434838",
+    "disclosedDate": "2024-12-14 14:33:40.249433"
+  }
+}

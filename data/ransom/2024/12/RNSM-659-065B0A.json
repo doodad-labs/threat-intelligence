@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-659-065B0A",
+  "type": "ransomware-incident",
+  "title": "Brodsky Renehan Pearlstein & Bouquet, Chartered ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Brodsky Renehan Pearlstein & Bouquet, Chartered",
+    "domain": "brpfamilylaw.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Brodsky Renehan Pearlstein & Bouquet, Chartered is one of Maryland and Washington, DC's divorce and family law litigation firms. Brodsky Renehan Pearlstein & Bouquet corporate office is located in 16061 Comprint Cir, Gaithersburg, Maryland, 20877, United States and has 17 employees. The total amount of data leakage is 347.20 CB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cf4fa9de38bef8687ab97d76ba93d442.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjvzhnresbszw5lagfuifblyxjsc3rlaw4gjibcb3vxdwv0lcbdagfydgvyzwrabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3e0b8bc8-db2d-4baf-b285-2c3c4aeec442.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-05 18:44:57.000000",
+    "disclosedDate": "2024-12-06 17:35:08.909633"
+  }
+}

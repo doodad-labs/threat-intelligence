@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-162601",
+  "type": "ransomware-incident",
+  "title": "NWIMS IT Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NWIMS IT Group",
+    "domain": "nwims.com",
+    "country": "GB",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "NWIMS IT Group provides a complete service for all your technology needs including computer repair and upgrade services for Home and Small Business Users.That it's not always an option to take your equipment in for repair or assistance.  Therefore they offer a unique service where we will arrange a visit to you at your Home and/or office, where they can fix the problems in your own environment and answer any questions that you may have.At times a site visit will not be necessary and assistance can be given remotely. Here is a summary of the some of the services they offer:    Internet and networks installed    Hardware and Software upgrades    Communications : Mobile Phones, Broadband, VOIP Phone systems    Lost file and crash recovery,  as well as system backup    Virus, Trojan and Malware removal    Hardware and Software Sales    Security and Internet Filtering    Office Virtualization    Network Support    Hardware upgrades and installations    Assistance with other computer problems",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e1f80b951021fda8e5a0bc6396bb3ae0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tldjtvmgsvqgr3jvdxbazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-16 04:04:00.665201",
+    "disclosedDate": "2026-01-16 04:44:03.360909"
+  }
+}

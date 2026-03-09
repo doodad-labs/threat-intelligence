@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-2540CA",
+  "type": "ransomware-incident",
+  "title": "hcsgcorp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hcsgcorp.com",
+    "domain": "hcsgcorp.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "underground",
+    "name": "underground",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue:$1.7 Billion - Country :USA",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1af0ea8a6550be90745dbc828cc1244c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agnzz2nvcnauy29tqhvuzgvyz3jvdw5k",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 08:22:00.000000",
+    "disclosedDate": "2024-10-25 13:23:10.927257"
+  }
+}

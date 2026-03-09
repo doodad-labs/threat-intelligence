@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-648-1031CD",
+  "type": "ransomware-incident",
+  "title": "molnar&partner ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "molnar&partner",
+    "domain": "molnar-bischof.de",
+    "country": "HU"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 15.01.2024",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw9sbmfyjnbhcnruzxjacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-10 14:45:04.325592",
+    "disclosedDate": "2024-01-10 14:45:04.325612"
+  }
+}

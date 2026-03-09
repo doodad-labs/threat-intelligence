@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27A03B",
+  "type": "ransomware-incident",
+  "title": "TILLSONBURGHYDRO.CA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TILLSONBURGHYDRO.CA",
+    "domain": "tillsonburghydro.ca",
+    "country": "CA",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Tillsonburg Hydro Inc. is a public utility company based in Tillsonburg, Ontario, Canada. The company is responsible for the distribution of electricity in and around the Tillsonburg area, delivering quality service to both residential and business customers. Tillsonburg Hydro Inc. handles all critical functions such as maintaining secure power delivery, infrastructure upgrades, repairs and managing energy services for the local community, ensuring power reliability and safety.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/velmtfnptkjvukdiwursty5dqubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:39:57.637735",
+    "disclosedDate": "2025-02-27 17:40:04.588871"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-298C66",
+  "type": "ransomware-incident",
+  "title": "Tiscali SPA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tiscali SPA",
+    "domain": "tiscali.it",
+    "country": "IT",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Tiscali SPA is an Italian telecommunications company based in Cagliari. Founded in 1998, it provides internet and telecommunications services to its domestic market. Its services span broadband, dial-up, and television services, along with other digital services. It was one of the first companies to provide ADSL internet services in Italy.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vglzy2fsasbtuefad29ybgrszwfrcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-28 19:48:06.000000",
+    "disclosedDate": "2025-06-29 16:10:14.189072"
+  }
+}

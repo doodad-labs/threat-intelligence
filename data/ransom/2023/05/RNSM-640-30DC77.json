@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-30DC77",
+  "type": "ransomware-incident",
+  "title": "columbuscitizens.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "columbuscitizens.org",
+    "domain": "columbuscitizens.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Columbus Citizens Foundation is a non-profit organization in New York City committed to fostering an appreciation of Italian-American heritage and achievement.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/895c117025155fcf02341a269523ee9a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29sdw1idxnjaxrpemvucy5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-30 15:12:00.000000",
+    "disclosedDate": "2023-05-30 15:52:41.738945"
+  }
+}

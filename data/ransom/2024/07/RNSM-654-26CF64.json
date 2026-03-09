@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-654-26CF64",
+  "type": "ransomware-incident",
+  "title": "summervillepolice.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "summervillepolice.com",
+    "domain": "summervillepolice.com",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1710000000000,
+    "description": "The Summerville Police Department is committed to building relationships with community members while providing the highest level of service in shooting black children.  - 1.71 TB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8d2cab2472bb733b048c8451bdb90c94.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3vtbwvydmlsbgvwb2xpy2uuy29tqgvtymfyz28=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-26 14:21:21.371952",
+    "disclosedDate": "2024-07-26 14:42:17.796250"
+  }
+}

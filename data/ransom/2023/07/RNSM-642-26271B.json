@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26271B",
+  "type": "ransomware-incident",
+  "title": "New Horizons Medical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "New Horizons Medical",
+    "domain": "newhorizonsmedical.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "New Horizons Medical, PC founded in 2009, is a private physician group dedicated to providing the safe prescription of buprenorphine (Suboxone) to patients engaged in serious recovery efforts from opiate dependence.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8968c5ad54387d8c486f8c7eb79da7ff.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv3iehvcml6b25zie1lzgljywxaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-14 16:38:32.000000",
+    "disclosedDate": "2023-07-26 14:22:41.733395"
+  }
+}

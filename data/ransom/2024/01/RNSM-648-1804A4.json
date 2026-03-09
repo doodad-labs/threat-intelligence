@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-1804A4",
+  "type": "ransomware-incident",
+  "title": "Gallup McKinley County Schools ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Gallup McKinley County Schools",
+    "domain": "gmcs.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : no - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/01e5ea8b86ffbf93d018e6d941827f94.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2fsbhvwie1js2lubgv5ienvdw50esbty2hvb2xzqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-18 10:47:50.000000",
+    "disclosedDate": "2024-01-18 11:08:34.358326"
+  }
+}

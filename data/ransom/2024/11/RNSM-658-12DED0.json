@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-12DED0",
+  "type": "ransomware-incident",
+  "title": "jarrellimc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jarrellimc.com",
+    "domain": "jarrellinc.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Jarrell Industrial Management Corp. (jarrellimc.com) specializes in industrial management and construction services. They offer solutions in project management, maintenance, and facility operations, focusing on sectors like manufacturing and infrastructure. The company emphasizes efficiency, safety, and quality in delivering tailored services to meet the specific needs of their clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9ad95789e0bc4b663fc5c32bd3d83505.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/amfycmvsbgltyy5jb21aymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-12 13:17:14.590484",
+    "disclosedDate": "2024-11-12 13:17:17.473461"
+  }
+}

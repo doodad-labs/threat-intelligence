@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-2994F6",
+  "type": "ransomware-incident",
+  "title": "Weld Racing (weldracing.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Weld Racing (weldracing.com)",
+    "domain": "weldracing.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000,
+    "description": "10,1 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fd64c044e471b383b713c2bf50c990b6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vszcbsywnpbmcgkhdlbgryywnpbmcuy29tkubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-29 00:00:00.000000",
+    "disclosedDate": "2024-11-29 13:03:37.869094"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09ECD5",
+  "type": "ransomware-incident",
+  "title": "vinatiorganics.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "vinatiorganics.com",
+    "domain": "vinatiorganics.com",
+    "country": "IN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "World’s largest manufacturer of IBB and ATBS, Vinati Organics Limited (VOL) blends innovation with chemistry to deliver value-added products to its varied clientele.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e88c26ea81851694aa9b3b98ae67245d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmluyxrpb3jnyw5py3muy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-04 00:00:00.000000",
+    "disclosedDate": "2024-05-09 10:32:34.182898"
+  }
+}

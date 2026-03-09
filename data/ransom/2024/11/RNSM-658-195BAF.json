@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-195BAF",
+  "type": "ransomware-incident",
+  "title": "OMINT ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OMINT",
+    "domain": "omint.com.ar",
+    "country": "AR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $540.7 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t01jtlrac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-27 00:00:00.000000",
+    "disclosedDate": "2024-11-19 22:19:38.699184"
+  }
+}

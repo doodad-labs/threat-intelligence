@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-243C49",
+  "type": "ransomware-incident",
+  "title": "SANDALAWOFFICES.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SANDALAWOFFICES.COM",
+    "domain": "sandalawoffices.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home Page - S&A Law Offices",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bc06715ffd15f0189cf8f4ea2480e3d5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0forefmqvdprkzjq0vtlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-24 16:13:40.585268",
+    "disclosedDate": "2024-01-24 16:13:40.585330"
+  }
+}

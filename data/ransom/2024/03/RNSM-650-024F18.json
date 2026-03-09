@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-024F18",
+  "type": "ransomware-incident",
+  "title": "aerospace.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aerospace.com",
+    "domain": "aerospace.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Aerospace Corporation: Who We Are. As an independent, nonprofit corporation operating the only FFRDC for the space enterprise, The Aerospace Corporation performs objective technical analyses and assessments for a variety of government, civil, and...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c6442284312541807f983120ba1191ad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywvyb3nwywnllmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-09 00:00:00.000000",
+    "disclosedDate": "2024-03-02 21:00:14.714040"
+  }
+}

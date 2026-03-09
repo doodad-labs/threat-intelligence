@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-16CA7B",
+  "type": "ransomware-incident",
+  "title": "PC AfterHours ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PC AfterHours",
+    "domain": "pcafterhours.net",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Consumer Services · Minnesota, United States.PC-AfterHours offers a variety of technical support services for Windows based computers and networks.< 25 EmployeesRevenue < $5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5fd9c239e311c55ee838906317d0271c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uemgqwz0zxjib3vyc0bibgfja2xvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:00:15.727559",
+    "disclosedDate": "2025-05-16 13:09:28.122979"
+  }
+}

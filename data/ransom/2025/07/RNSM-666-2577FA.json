@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-2577FA",
+  "type": "ransomware-incident",
+  "title": "md-labels-gmbh.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "md-labels-gmbh.com",
+    "domain": "md-labels.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Property of the CompanyProduction of product labels.Brief description of Mehmet-Serif Dalyanoglu, label production, \"MD Labels\"Mehmet-Serif Dalyanoglu, label manufacturer, \"MD Labels,\" based in Bochum is listed in the Creditreform company database with the legal form of a commercial enterprise. The company is economically active. The company is currently managed by one manager (one owner). The company's VAT ID is available in the company data. The company has one location. Data on a principal bank is available.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f68b921b42fb89bc8aa617f9e3c15b35.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwqtbgfizwxzlwdtymguy29tqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-25 09:04:27.801447",
+    "disclosedDate": "2025-07-25 09:45:36.465588"
+  }
+}

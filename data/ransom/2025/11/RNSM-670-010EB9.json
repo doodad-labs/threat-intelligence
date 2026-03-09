@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-010EB9",
+  "type": "ransomware-incident",
+  "title": "New Toyo International Holdings Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "New Toyo International Holdings Ltd",
+    "country": "SG",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "obscura",
+    "name": "obscura",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000,
+    "description": "Revenue: $221.7kk | Leak Size: 2 GB | Status: Pending | Time Left: 6d 17h 27m 32s",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ff7477f34310916c7ba1e99d3d21dc30.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv3ifrvew8gsw50zxjuyxrpb25hbcbib2xkaw5ncybmdgrab2jzy3vyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-01 07:14:08.150636",
+    "disclosedDate": "2025-11-01 07:14:21.009219"
+  }
+}

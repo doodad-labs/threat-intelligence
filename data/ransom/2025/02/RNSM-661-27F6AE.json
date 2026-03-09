@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27F6AE",
+  "type": "ransomware-incident",
+  "title": "REMAFOODS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "REMAFOODS.COM",
+    "domain": "remafoods.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] REMAFOODS.COM is a food distribution company that specializes in the procurement and supply of premium quality food and beverage products. They source their products from a range of international and local suppliers to provide a wide assortment of offerings to their clients which may include restaurants, hotels, caterers and other food service businesses.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukvnquzpt0rtlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:14:07.932541",
+    "disclosedDate": "2025-02-27 17:14:13.918792"
+  }
+}

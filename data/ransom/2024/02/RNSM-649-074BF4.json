@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-074BF4",
+  "type": "ransomware-incident",
+  "title": "Karl Rieker GmbH and Co. KG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Karl Rieker GmbH and Co. KG",
+    "domain": "karl-rieker.com",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Karl Rieker offers 360-degree solutions for clothing that increases margins: market-tested designs and production and logistics processes for in-time deliveries worldwide, fast-moving NOS products in large quantities and seasonal clothing items, of high quality and sustainably producedkarl-rieker.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0e1df9f740eb5ca1d2861b07c0ec962a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fybcbsawvrzxigr21iscbhbmqgq28uiethqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-07 00:00:00.000000",
+    "disclosedDate": "2024-02-07 02:53:49.327782"
+  }
+}

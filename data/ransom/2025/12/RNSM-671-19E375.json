@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-19E375",
+  "type": "ransomware-incident",
+  "title": "keystoliteracy.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "keystoliteracy.com",
+    "domain": "keystoliteracy.com",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Keys to Literacy is a premier provider of literacy teacher training, curriculum, and ongoing coachin...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e16d0a1e78f253b70d7255dca47cbf7b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2v5c3rvbgl0zxjhy3kuy29tqgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-11 17:16:00.000000",
+    "disclosedDate": "2025-12-19 15:13:24.958361"
+  }
+}

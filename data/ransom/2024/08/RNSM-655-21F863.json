@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-21F863",
+  "type": "ransomware-incident",
+  "title": "Westermans.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Westermans.com",
+    "domain": "westermans.com",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country: United Kingdom",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vzdgvybwfucy5jb21ay2xvyws=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-21 17:42:41.945382",
+    "disclosedDate": "2024-08-21 17:42:42.916073"
+  }
+}

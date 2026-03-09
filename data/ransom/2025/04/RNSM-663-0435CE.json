@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-663-0435CE",
+  "type": "ransomware-incident",
+  "title": "yumaspazio.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "yumaspazio.com",
+    "domain": "yumaspazio.com",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 14.04.2025. Yuma Spazio is a company that operates in the Architecture, Engineering & Design industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b5c9145a91fc48f9fbd3dd1dfcf8c418.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/exvtyxnwyxppby5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-04 00:00:00.000000",
+    "disclosedDate": "2025-04-04 10:16:19.100522"
+  }
+}

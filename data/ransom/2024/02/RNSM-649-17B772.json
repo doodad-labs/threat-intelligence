@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-17B772",
+  "type": "ransomware-incident",
+  "title": "BS&B Safety Systems L.L.C ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BS&B Safety Systems L.L.C",
+    "domain": "bsb.ie",
+    "country": "IE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : N/A - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bf9c6e3298ce47f3b6be98cccbf0af5f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qlmmqibtywzldhkgu3lzdgvtcybmlkwuq0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-17 08:54:34.000000",
+    "disclosedDate": "2024-02-17 09:06:58.906889"
+  }
+}

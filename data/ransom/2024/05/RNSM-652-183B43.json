@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-183B43",
+  "type": "ransomware-incident",
+  "title": "WEICON ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WEICON",
+    "domain": "weicon.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 175500000000,
+    "description": "WEICON GmbH & Co. KG (founded in 1947) -  produces special adhesives and sealants, technical sprays, highly effective mounting pastes and lubricants for all areas of industry - from production to repair and maintenance, as well as develops, sells and distributes stripping tools. WEICON GmbH & Co. KG corporate office is located in Muenster, Germany. The total amount of data leakage is 175.5 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0vjq09oqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-17 13:10:00.12345",
+    "disclosedDate": "2024-05-18 09:26:35.600729"
+  }
+}

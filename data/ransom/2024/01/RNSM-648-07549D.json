@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-648-07549D",
+  "type": "ransomware-incident",
+  "title": "capitalhealth.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "capitalhealth.org",
+    "domain": "capitalhealth.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 7000000000000,
+    "description": "We purposely didn't encrypt this hospital so as not to interfere with patient care. We just stole over 10 million files. Over 7 terabytes of medical confidentiality data valued at $250,000. That's all you need to know about this hospital.Capital...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9429ec04b1a078dda8f7b0246fbdf3d8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fwaxrhbghlywx0ac5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://nj1015.com/another-nj-healthcare-provider-targeted-in-cyberattack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-07 16:48:00.000000",
+    "disclosedDate": "2024-01-07 17:35:24.346245"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-658-0513B4",
+  "type": "ransomware-incident",
+  "title": "wexfordcounty.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wexfordcounty.org",
+    "domain": "wexfordcounty.org",
+    "country": "JO",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "Located in Northern Lower Michigan, Wexford County boasts a population of approximately 35,000, with a combination of an industrial/recreational demographic base.   - 1 TB Data\r\rNetwork Admins:\rJoe Porterfield (jporterfield@wexfordcounty.org)\rJami Bigger (jbigger@wexfordcounty.org) 231-779-9452 Passwords: [\"August24!\", \"September24!\", \"October24!\"]\r \rMSSP:\rSophia Masotti-Jordan (sophia@karhucyber.com) 616-856-5678",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d800b6365cd464f7807d539b17d80cbf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2v4zm9yzgnvdw50es5vcmdazw1iyxjnbw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.9and10news.com/2024/11/06/msp-and-fbi-investigate-malware-attack-in-wexford-county/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-05 15:34:57.834723",
+    "disclosedDate": "2024-11-05 21:51:40.546905"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-653-18550C",
+  "type": "ransomware-incident",
+  "title": "malca-amit.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "malca-amit.com",
+    "domain": "malca-amit.com",
+    "country": "",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1200000000000,
+    "description": "malca-amit.com 30Gb + VMware images  CHKC-NGSQL.MAFE.COM HKG-TSPLS.MAFE.COM 1.2Tb",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfsy2etyw1pdc5jb21aywj5c3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-18 11:41:47.481700",
+    "disclosedDate": "2024-06-18 11:41:48.718690"
+  }
+}

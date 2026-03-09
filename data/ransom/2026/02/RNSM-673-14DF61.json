@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-14DF61",
+  "type": "ransomware-incident",
+  "title": "GIACARE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GIACARE.COM",
+    "domain": "giacare.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] GIACARE.COM is a company that offers staffing solutions primarily for the healthcare sector. They provide a range of services such as healthcare staffing, professional and technical services, and program management services. It mainly assists in providing qualified medical practitioners to clinics, hospitals, and other healthcare facilities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a7b98bc2021a945bfd1a0ee183fb4bc0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r0lbq0fsrs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-14 10:49:07.661882",
+    "disclosedDate": "2026-02-14 10:49:20.607509"
+  }
+}

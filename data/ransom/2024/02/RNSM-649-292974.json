@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-292974",
+  "type": "ransomware-incident",
+  "title": "gapsolutions.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gapsolutions.com.au",
+    "domain": "gapsolutions.com.au",
+    "country": "AU",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GaP Solutions offers comprehensive retail products and services as part of our focused business strategy for the Australian and international retail market. Our expert know-how and products have cultivated long-standing partnerships with our clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a94d145c6a503449924dae4ecbc44bab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2fwc29sdxrpb25zlmnvbs5hdubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-29 07:30:00.000000",
+    "disclosedDate": "2024-02-29 08:45:47.947077"
+  }
+}

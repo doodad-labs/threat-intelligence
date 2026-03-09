@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-662-033D47",
+  "type": "ransomware-incident",
+  "title": "Klesk Metal Stamping Co (kleskmetalstamping.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Klesk Metal Stamping Co (kleskmetalstamping.com)",
+    "domain": "kleskmetalstamping.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2200000000,
+    "description": "2.2 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/23200f965470d70b15fdb018b6b8076b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2xlc2sgtwv0ywwgu3rhbxbpbmcgq28gkgtszxnrbwv0ywxzdgftcgluzy5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-03 00:00:00.000000",
+    "disclosedDate": "2025-03-03 12:55:58.382726"
+  }
+}

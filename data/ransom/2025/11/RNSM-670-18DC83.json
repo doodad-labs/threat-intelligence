@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-18DC83",
+  "type": "ransomware-incident",
+  "title": "datenlotsen.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "datenlotsen.de",
+    "domain": "datenlotsen.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Datenlotsen Informationssysteme GmbH offers universities, colleges and other educational organizations state-of-the-art digital solutions designed specifically to support learning, teaching and research. CampusNet is an integrated, process-driven platform that supports all of the administrative tasks in a higher education organization. Already in use at numerous colleges and universities around Germany, CampusNet has emerged as the market-leading standard when it comes to efficiently managing higher education.\r Employees: 200\r Revenue: $17.2 Million\r Industry: Business Services \r Phone Number: +49 402709680",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c83b188a39d529c275f769596733827b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgf0zw5sb3rzzw4uzgvaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-18 12:11:00.000000",
+    "disclosedDate": "2025-11-18 18:23:56.814943"
+  }
+}

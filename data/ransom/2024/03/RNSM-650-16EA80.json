@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-16EA80",
+  "type": "ransomware-incident",
+  "title": "Consolidated Benefits Resources ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Consolidated Benefits Resources",
+    "domain": "cbrcloud.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Consolidated Benefits Resources (CBR) is a claims administrator for Oklahoma workers compensation insurers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29uc29sawrhdgvkiejlbmvmaxrzifjlc291cmnlc0biawfubglhbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-16 16:04:36.346525",
+    "disclosedDate": "2024-03-16 16:04:36.346550"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-26A515",
+  "type": "ransomware-incident",
+  "title": "kyocera-avx.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kyocera-avx.com",
+    "domain": "kyocera-avx.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AVX is an international manufacturer and supplier of a vast portfolio of advanced electronic components, USA",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/49186d881da39f16a7d7c291cc9f0407.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3lvy2vyys1hdnguy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-26 01:44:00.000000",
+    "disclosedDate": "2023-05-26 02:51:54.951218"
+  }
+}

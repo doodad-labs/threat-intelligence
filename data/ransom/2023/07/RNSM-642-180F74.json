@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-180F74",
+  "type": "ransomware-incident",
+  "title": "Wasserstrom ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wasserstrom",
+    "domain": "wasserstrom.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "snatch",
+    "name": "snatch",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Wasserstrom Company, which began as a local, family-run business, has steadily grown to become one of the largest restaurant suppliers and distributors of foodservice products. With more than a century of experience and a team of over 1200 dedicated associates, Wasserstrom remains a family-owned",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0408560977fd636415b9cbd205508802.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fzc2vyc3ryb21ac25hdgno",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-18 02:29:00.000000",
+    "disclosedDate": "2023-07-18 01:04:07.922226"
+  }
+}

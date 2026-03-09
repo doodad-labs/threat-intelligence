@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-182A7F",
+  "type": "ransomware-incident",
+  "title": "esaote.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "esaote.com",
+    "domain": "esaote.com",
+    "country": "IT",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "esaote.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b180c20f3f4871eb3cc9afb74a547f74.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxnhb3rllmnvbubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-18 18:26:39.349779",
+    "disclosedDate": "2025-03-18 18:27:45.876867"
+  }
+}

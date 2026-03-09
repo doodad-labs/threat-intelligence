@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-1914FD",
+  "type": "ransomware-incident",
+  "title": "LINC Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LINC Systems",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 11000000000,
+    "description": "LINC Systems is a leading distributor of fastening solutions and industrial supplies. We are ready to upload mor4e than 11 GB of essential corporate documents such as: contact numbers and e-mail addresses of employees, vendors and customers, financial data (audits, payment details, reports), corporate licenses, agreements and contracts, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/teloqybtexn0zw1zqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-19 00:00:00.000000",
+    "disclosedDate": "2025-03-19 12:16:55.747656"
+  }
+}

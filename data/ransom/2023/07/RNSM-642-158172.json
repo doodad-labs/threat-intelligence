@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-642-158172",
+  "type": "ransomware-incident",
+  "title": "province.namur.be ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "province.namur.be",
+    "domain": "namur.be",
+    "country": "LU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Namur is a province of Wallonia, one of the three regions of Belgium. It borders on the Walloon provinces of Hainaut, Walloon Brabant, Liège and Luxembourg in Belgium, and the French department of Ardennes. Its capital and largest city is the city of...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/619b6b3d08d03e07de0e933e2bfc613f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjvdmluy2uubmftdxiuymvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.sudinfo.be/id687336/article/2023-07-14/la-province-de-namur-victime-dun-hacker-cinq-de-nos-serveurs-ont-ete-touches-une",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-15 14:15:00.000000",
+    "disclosedDate": "2023-07-15 14:57:39.560489"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-20EF5E",
+  "type": "ransomware-incident",
+  "title": "hwwealth.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hwwealth.com",
+    "domain": "hwwealth.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HUTCHISON WHITEHEAD WEALTH MANAGEMENT IS A FEE-ONLY, FIDUCIARY REGISTERED INVESTMENT ADVISOR SEASONED SINCE 2004File list and samples http://***/r/NyDGzUVwj_#o1sE8yi15Ct11XOCfOhp/J0dyA7B...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5c3640790d31c03842c01456112b71dc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahd3zwfsdgguy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-20 15:18:00.000000",
+    "disclosedDate": "2023-09-20 16:04:11.095415"
+  }
+}

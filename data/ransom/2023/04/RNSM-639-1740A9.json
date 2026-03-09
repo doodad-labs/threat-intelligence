@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-639-1740A9",
+  "type": "ransomware-incident",
+  "title": "pinelandschool.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pinelandschool.org",
+    "domain": "pinelandschool.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 64000000000,
+    "description": "64gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/568b5a6900c295f34c3285f2707719fd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgluzwxhbmrzy2hvb2wub3jnqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-17 13:46:00.000000",
+    "disclosedDate": "2023-04-17 14:48:21.397252"
+  }
+}

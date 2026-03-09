@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-639-07F028",
+  "type": "ransomware-incident",
+  "title": "Beghelli USA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Beghelli USA",
+    "domain": "beghelliusa.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Beghelli USA is a provider of emergency lighting products. We have worked with them a little and we are going to light some of their data. This pack includes accounting and finance data, personal information of their employees (passports and others), results of medical analysis, inner confidential data etc. Enjoy!",
+    "claimed_data_types": [
+      "passport-numbers",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b9624ffa2fe047450cf31455ca73814f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvnagvsbgkgvvnbqhjvewfs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-03 01:02:03.456789",
+    "disclosedDate": "2023-04-07 03:41:03.153947"
+  }
+}

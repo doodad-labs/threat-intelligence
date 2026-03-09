@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-06EB22",
+  "type": "ransomware-incident",
+  "title": "Omni Family Health ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Omni Family Health",
+    "domain": "omnifamilyhealth.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f39d80f8bc18c89572da141556f5a214.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t21uasbgyw1pbhkgsgvhbhroqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-06 19:10:01.000000",
+    "disclosedDate": "2024-08-06 19:21:31.600142"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-274219",
+  "type": "ransomware-incident",
+  "title": "KIKKERLAND.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KIKKERLAND.COM",
+    "domain": "kikkerland.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] KIKKERLAND Design Inc. is a company that specializes in the creation and distribution of well-designed products. Founded in 1992 by Dutchman Jan van der Lande, the company offers household gadgets, office supplies, toys and tech items, and more. Their design strategy combines functionality, aesthetics, and amusement. The company places high importance on creativity and partnerships with independent designers to create unique products.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0lls0vsteforc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:31:40.527523",
+    "disclosedDate": "2025-02-27 16:31:46.325337"
+  }
+}

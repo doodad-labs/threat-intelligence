@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-663-230639",
+  "type": "ransomware-incident",
+  "title": "Farmo Res ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Farmo Res",
+    "domain": "farmores.com",
+    "country": "IT",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "300 Gb of private data will be available in 48 hours.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ec5f88e7660bb47dd872ebcd4dba13e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmfybw8gumvzqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-23 18:02:45.508000",
+    "disclosedDate": "2025-04-23 18:40:54.223053"
+  }
+}

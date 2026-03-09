@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-198A13",
+  "type": "ransomware-incident",
+  "title": "tascoplumbing.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tascoplumbing.com",
+    "domain": "tascoplumbing.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TASCO Plumbing & Mechanical Corp is a company that operates in the Construction industry. It employs 51-100 people and has $10M-$25M of revenue. The company is headquartered in Hialeah, Florida.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bca8ac6044742508e4a5d6e4b16c96f9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgfzy29wbhvtymluzy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-19 13:28:00.000000",
+    "disclosedDate": "2024-04-19 14:27:44.701053"
+  }
+}

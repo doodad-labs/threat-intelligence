@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-3066E6",
+  "type": "ransomware-incident",
+  "title": "westernwyomingbeverages.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "westernwyomingbeverages.com",
+    "domain": "westernwyomingbeverages.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/WWBEV/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/WWBEV/PROOF/DATA DESCRIPTIONS: Database exports, Employee personal files, personal Identifiable Information, financial data, customer data, contracts, corporate correspondence, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/093962c282f4b42abf9708ace5fe97b9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2vzdgvybnd5b21pbmdizxzlcmfnzxmuy29tqgnhy3r1cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-05 00:00:00.000000",
+    "disclosedDate": "2024-07-30 19:35:51.470021"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-255B16",
+  "type": "ransomware-incident",
+  "title": "Groupseco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Groupseco.com",
+    "domain": "groupseco.com",
+    "country": "BE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Groupseco.com is a company specializing in security solutions and services. They offer a range of products, including surveillance systems, access control, and security management software. The company focuses on providing tailored solutions to meet the unique needs of businesses and organizations, ensuring safety and operational efficiency. Their expertise spans various sectors, with an emphasis on innovation and reliability.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/31e2d6fdd7492b667698367bc9c39c3a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jvdxbzzwnvlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 03:45:57.000000",
+    "disclosedDate": "2024-10-25 05:16:10.855645"
+  }
+}

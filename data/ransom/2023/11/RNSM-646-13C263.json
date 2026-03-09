@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-13C263",
+  "type": "ransomware-incident",
+  "title": "Deegenbergklinik ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Deegenbergklinik",
+    "domain": "deegenberg.de",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Germany - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eca97360d520fffe5f4f3f4081028e05.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvlz2vuymvyz2tsaw5pa0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-03 15:16:07.000000",
+    "disclosedDate": "2023-11-13 14:47:07.981222"
+  }
+}

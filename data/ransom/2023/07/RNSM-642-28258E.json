@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-28258E",
+  "type": "ransomware-incident",
+  "title": "Regional Family Medicine ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Regional Family Medicine",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "karakurt",
+    "name": "karakurt",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000,
+    "description": "Regional Family Medicine is a primary care group comprised of two separate clinic locations, eight primary care physicians, four advanced practice nurses, and over fifty other nurses, technicians and support staff. There is some data on medical staff, ss numbers, medical reports, bank statements, invoices, some confidential docs, incidents. +5gb SQL.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8b23d528197b61b75900cbd3fbd6f335.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvnaw9uywwgrmftawx5ie1lzgljaw5lqgthcmfrdxj0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-28 14:20:58.315702",
+    "disclosedDate": "2023-07-28 14:20:58.315727"
+  }
+}

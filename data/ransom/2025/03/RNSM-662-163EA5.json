@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-163EA5",
+  "type": "ransomware-incident",
+  "title": "Wilson Re Limited ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wilson Re Limited",
+    "domain": "wilsonre.com.tw",
+    "country": "TW",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wilson Re (Taiwan) Limited (Taiwan)",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lsc29uifjliexpbwl0zwrabmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-12 00:00:00.000000",
+    "disclosedDate": "2025-03-16 07:57:27.995626"
+  }
+}

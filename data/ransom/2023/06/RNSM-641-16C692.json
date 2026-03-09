@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-16C692",
+  "type": "ransomware-incident",
+  "title": "PRAGROUP.NO ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PRAGROUP.NO",
+    "domain": "pragroup.no",
+    "country": "NO",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hjem - PRA Group Norge AS",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8961babb70292daaf7ce6a205802ac42.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ufjbr1jpvvautk9ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-16 14:33:38.446894",
+    "disclosedDate": "2023-06-16 14:33:38.446916"
+  }
+}

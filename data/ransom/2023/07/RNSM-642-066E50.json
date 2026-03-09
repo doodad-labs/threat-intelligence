@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-642-066E50",
+  "type": "ransomware-incident",
+  "title": "DELARUE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DELARUE.COM",
+    "domain": "delarue.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "De La Rue - Currency and Authentication Solutions",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/revmqvjvrs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-06 23:25:01.941680",
+    "disclosedDate": "2023-07-06 23:25:01.941711"
+  }
+}

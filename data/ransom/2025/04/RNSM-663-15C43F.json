@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-663-15C43F",
+  "type": "ransomware-incident",
+  "title": "Bolivar Insulation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bolivar Insulation",
+    "domain": "bolivarinsulation.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 9000000000,
+    "description": "Bolivar Insulation serves all of southwest Missouri including theareas of Springfield, Bolivar, Branson, Joplin, Columbia and Camdenton, Missouri for gutter cleaning, repair or new gutter installation.We are ready to upload more than 9 GB of essential corporate documents such as: financial data (audits, payment details, reports),contact numbers and e-mail addresses of employees and customers,SSN’s, driver licenses, passport scans, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qm9saxzhcibjbnn1bgf0aw9uqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-15 00:00:00.000000",
+    "disclosedDate": "2025-04-15 15:17:48.004878"
+  }
+}

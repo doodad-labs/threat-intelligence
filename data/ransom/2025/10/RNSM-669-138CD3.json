@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-669-138CD3",
+  "type": "ransomware-incident",
+  "title": "hautsdefrance.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hautsdefrance.fr",
+    "domain": "hautsdefrance.fr",
+    "country": "FR",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Regional Council manages regional programs (economy, transport, education, vocational training, culture/sports, ecology).1.passports2.Personal data3.School incident report",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7c5e9ec965af7a0eac29a6ed29bacd3f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agf1dhnkzwzyyw5jzs5mckbxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.horizonactu.fr/actualite-45201-pres-de-80-des-lycees-des-hauts-de-france-touches-par-une-cyberattaque",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 00:00:00.000000",
+    "disclosedDate": "2025-10-13 16:38:55.046102"
+  }
+}

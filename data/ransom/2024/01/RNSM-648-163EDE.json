@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-648-163EDE",
+  "type": "ransomware-incident",
+  "title": "TGS Transportation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TGS Transportation",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TGS Transportation is an international and domestic intermodal drayage provider. We will upload their files soon. There are financial, HR, customers data with contacts and other operational data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vedtifryyw5zcg9ydgf0aw9uqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-16 13:10:22.960471",
+    "disclosedDate": "2024-01-16 13:10:23.121714"
+  }
+}

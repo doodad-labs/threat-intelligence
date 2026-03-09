@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-085DE4",
+  "type": "ransomware-incident",
+  "title": "mauilodging.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mauilodging.com",
+    "domain": "mauilodging.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] MauiLodging.com is a property rental service company based in Maui, Hawaii. This firm specializes in providing a wide range of accommodation options as per user requirements, from luxury villas to economical vacation rentals. Tailored to cater to the varying needs of tourists, the firm assures quality amenities, scenic locations, and personalized customer services, making the trip to the island unforgettable.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3d965399a1247e80fc49567189e84eab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwf1awxvzgdpbmcuy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-01 00:00:00.000000",
+    "disclosedDate": "2025-08-08 23:12:14.630685"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-663-1363E3",
+  "type": "ransomware-incident",
+  "title": "Bridgebank Limited ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bridgebank Limited",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 4000000000000,
+    "description": "Bridgebank Limited is construction and civil engineering company. Bridgebank Limited corporate office is located in UNIT 3 SHERWOOD OAKS CLOSE SHERWOOD OAKS BUSINESS PARK Mansfield, NG18 4TB, GB and has 152 employees. The total amount of data leakage is 444.70 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/15d5b6692affd87764a02edd94b95795.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjpzgdlymfuaybmaw1pdgvkqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-08 01:01:17.000000",
+    "disclosedDate": "2025-04-13 20:16:14.403538"
+  }
+}

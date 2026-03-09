@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-15FB92",
+  "type": "ransomware-incident",
+  "title": "SWISS ROSE Factory ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SWISS ROSE Factory",
+    "country": "IR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Swiss Rose is a prominent company in the Iraqi market, recognized for its O2 brand, which focuses on various care products. Their offerings include home care, fabric care, surface care, and personal care categories. The company aims to provide quality cleaning solutions and personal care items to a diverse clientele. Established in 2019, Swiss Rose continues to expand its product range to meet consumer needs --- https://www.zoominfo.com/c/swiss-rose-factory/481426718 --- sample provided",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bda0fbbd4fbf74448fc74ca9d488b697.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1dju1mguk9trsbgywn0b3j5qg5vdme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-15 15:34:33.666311",
+    "disclosedDate": "2025-11-15 15:35:24.404989"
+  }
+}

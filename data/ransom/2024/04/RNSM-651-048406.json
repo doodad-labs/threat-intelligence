@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-048406",
+  "type": "ransomware-incident",
+  "title": "Remitano - Cryptocurrency Exchange ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Remitano - Cryptocurrency Exchange",
+    "domain": "remitano.com",
+    "country": "SC",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Remitano App is an Escrowed P2P Cryptocurrency Exchange. We help you easily Buy - Sell - Store - Invest - Deposit & Withdraw cryptocurrencies with Fiat Wallet FAST & SECURELY. Our app supports...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bea0c9f828e02e08ab1bf4a272c74560.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvtaxrhbm8glsbdcnlwdg9jdxjyzw5jesbfegnoyw5nzubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-04 14:54:47.070349",
+    "disclosedDate": "2024-04-04 14:54:47.137728"
+  }
+}

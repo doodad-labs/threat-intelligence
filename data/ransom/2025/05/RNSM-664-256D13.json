@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-256D13",
+  "type": "ransomware-incident",
+  "title": "D****v.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "D****v.org",
+    "country": "",
+    "sector": "Healtcare"
+  },
+  "actor": {
+    "id": "flocker",
+    "name": "flocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "For The Leadership Of D**a-C**e S*****s Inc We have compromised your main server D****v.org we also took copy of all […]",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/93fcc269fe454905cb08609f6f302aba.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rcoqkip2lm9yz0bmbg9ja2vy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-25 00:00:00.000000",
+    "disclosedDate": "2025-05-25 10:14:24.827489"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-2206A0",
+  "type": "ransomware-incident",
+  "title": "bisa.com.pe ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bisa.com.pe",
+    "domain": "bisa.com.pe",
+    "country": "PE",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] BISA, or Bio-Servicios Ambientales, is a Peruvian company specialized in environmental consulting. Founded in 1992, it provides businesses with guidance on environmental management, offering services that encompass environmental impact assessments, soil studies, water management and recovery programmes for degraded areas. It primarily serves the mining sector, but also works with other industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b14e0cf12c4bab9fe0bda43feca3fd49.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymlzys5jb20ucgvac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-22 19:19:55.657360",
+    "disclosedDate": "2025-07-22 19:20:27.243083"
+  }
+}

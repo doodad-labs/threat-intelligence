@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-662-14DEBF",
+  "type": "ransomware-incident",
+  "title": "World Wide Fittings ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "World Wide Fittings",
+    "domain": "worldwidefittings.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 600000000000,
+    "description": "Over 600 gb of data stolen from their servers . data will be avaible for download in 48 hours .From it’s founding in 1950 as World Wide Supply, World Wide Fittings has grown into a global manufacturer of steel and stainless hydraulic tu            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3fd0f910774c11179e8c56eb81abbef9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v29ybgqgv2lkzsbgaxr0aw5nc0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-26 00:00:00.000000",
+    "disclosedDate": "2025-03-14 08:40:54.536772"
+  }
+}

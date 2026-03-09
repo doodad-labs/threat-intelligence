@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-2730DF",
+  "type": "ransomware-incident",
+  "title": "MONARCHBRANDS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MONARCHBRANDS.COM",
+    "domain": "monarchbrands.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Monarch Brands is a global wholesaler and distributor of institutional textiles and supplies. Their range of products includes linen supplies (such as bedsheets, towels), commercial laundry services, and kitchen cleaning products, etc. This Philadelphia-based firm serves thousands of clients in various sectors including healthcare, hospitality, commercial laundry, and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tu9oqvjdsejsqu5euy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:44:59.028280",
+    "disclosedDate": "2025-02-27 16:45:04.410359"
+  }
+}

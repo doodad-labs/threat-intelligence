@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-150A11",
+  "type": "ransomware-incident",
+  "title": "advantagecdc.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "advantagecdc.org",
+    "domain": "advantagecdc.org",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AdvantageCDC.org is a community development corporation dedicated to fostering economic growth and revitalization in underserved communities. They provide resources and support for small businesses, including access to capital, business consulting, and training programs. Their mission is to empower entrepreneurs, create jobs, and enhance the quality of life in the areas they serve.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aaf8de644ddc72b3622d4604ca5951e0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywr2yw50ywdly2rjlm9yz0byyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-20 00:00:00.000000",
+    "disclosedDate": "2024-09-15 19:10:00.666404"
+  }
+}

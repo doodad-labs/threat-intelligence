@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26527F",
+  "type": "ransomware-incident",
+  "title": "SYSOL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SYSOL",
+    "domain": "sysol.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SYSOL is a company dedicated to provide solutions for your present and future networking, security and computers needs, using cutting-edge technology products and delivering high quality services. At present time we are focusing into specialized areas to serve different markets, offering an integrated solution to address your special requirements, ensuring the success of your project. Our commitment as a company is to provide the highest quality engineering and reliable services in order to develop a long-time relationship, anticipating the needs of our clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/64abf290919aca60a03aefbafa2fb9fe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1ltt0xaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-05-22 14:48:18.000000",
+    "disclosedDate": "2023-07-26 17:20:53.564346"
+  }
+}

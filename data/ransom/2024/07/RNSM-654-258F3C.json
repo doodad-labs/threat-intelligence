@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-258F3C",
+  "type": "ransomware-incident",
+  "title": "D&K Group, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "D&K Group, Inc.",
+    "domain": "dkgroup.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "D&K Group, Inc. is a leading US manufacturer of quality print finishing solutions. All D&K products are made in the USA including thermal extrusion and pressure sensitive (cold) laminating films and adhesives, wide format and desktop laminators, automated one or two sided high-speed laminating systems, and much more.  If a company does not contact us, we will publish the data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/80b8be9f24df9132ac77efd0fe9d410e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rczliedyb3vwlcbjbmmuqgnpy2fkytmzmde=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-25 00:00:00.000000",
+    "disclosedDate": "2024-07-25 19:13:23.027679"
+  }
+}

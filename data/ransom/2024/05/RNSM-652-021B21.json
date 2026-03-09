@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-021B21",
+  "type": "ransomware-incident",
+  "title": "Calumet Civil Contractors, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Calumet Civil Contractors, Inc.",
+    "domain": "calumetcivil.com",
+    "country": "IN",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Calumet Civil Contractors performs all phases of site development and road construction, primarily in the Indianapolis area.calumetcivil.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/549c28f766ad5b98611990b62ef18de7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fsdw1ldcbdaxzpbcbdb250cmfjdg9ycywgsw5jlka4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-08 00:00:00.000000",
+    "disclosedDate": "2024-05-02 13:54:40.391009"
+  }
+}

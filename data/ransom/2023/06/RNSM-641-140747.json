@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-140747",
+  "type": "ransomware-incident",
+  "title": "heidelberg.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "heidelberg.com",
+    "domain": "heidelberg.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Print and Packaging Solutions - HEIDELBERG",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f1f59678e12479f047f3bc2b0182af59.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agvpzgvsymvyzy5jb21ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-14 20:20:53.617603",
+    "disclosedDate": "2023-06-14 20:20:53.617625"
+  }
+}

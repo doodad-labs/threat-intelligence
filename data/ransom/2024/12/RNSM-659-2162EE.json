@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-2162EE",
+  "type": "ransomware-incident",
+  "title": "Abrasive Supply Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Abrasive Supply Corporation",
+    "domain": "abrasivesupply.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a6d180555e31ed72ff94adc23faa1aa8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwjyyxnpdmugu3vwcgx5ienvcnbvcmf0aw9uqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-21 17:32:41.738177",
+    "disclosedDate": "2024-12-21 17:32:42.574626"
+  }
+}

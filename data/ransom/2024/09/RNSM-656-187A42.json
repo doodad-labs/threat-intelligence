@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-187A42",
+  "type": "ransomware-incident",
+  "title": "ringpower.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ringpower.com",
+    "domain": "ringpower.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ring Power Corporation, based in Florida, is a premier supplier of heavy equipment, power systems, and lift trucks. Established in 1962, the company offers a wide range of products and services, including new and used equipment sales, rentals, and parts and service support. They serve industries such as construction, agriculture, marine, and power generation, emphasizing customer satisfaction and innovation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b57d48d87b48c072df2cfb35b61316fd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmluz3bvd2vylmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-12 00:00:00.000000",
+    "disclosedDate": "2024-09-18 09:06:14.231648"
+  }
+}

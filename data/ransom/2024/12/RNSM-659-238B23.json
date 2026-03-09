@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-238B23",
+  "type": "ransomware-incident",
+  "title": "Forum Architecture & Interior Design (forumarchitecture.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Forum Architecture & Interior Design (forumarchitecture.com)",
+    "domain": "forumarchitecture.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5700000000,
+    "description": "5.7 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/682b8da2e38c132096a48c4eaab75a31.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rm9ydw0gqxjjagl0zwn0dxjlicygsw50zxjpb3igrgvzawduichmb3j1bwfyy2hpdgvjdhvyzs5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-23 00:00:00.000000",
+    "disclosedDate": "2024-12-23 13:19:37.622431"
+  }
+}

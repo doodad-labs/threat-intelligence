@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-223B8B",
+  "type": "ransomware-incident",
+  "title": "Royal Star & Garter ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Royal Star & Garter",
+    "domain": "starandgarter.org",
+    "country": "GB",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Our mission To provide an outstanding range of quality care and therapies to veterans and their partners living with disability or dementia.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c2112da106d902be101888639777d7c3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um95ywwgu3rhciamiedhcnrlckbyyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-03 00:00:00.000000",
+    "disclosedDate": "2024-05-22 20:06:08.483752"
+  }
+}

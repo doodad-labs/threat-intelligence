@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-24204E",
+  "type": "ransomware-incident",
+  "title": "Pappytech ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pappytech",
+    "domain": "pappytech.com",
+    "country": "in"
+  },
+  "actor": {
+    "id": "vect",
+    "name": "vect",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 22820000000,
+    "description": "Status: STATUS: NEGOTIATING | Sector: retail | ├─ Main accounting software data directories (multiple financial years)├─ Company-wise accounting datasets (separate numeric company instances)├─ Archived accounting backups (ZIP and RAR files, mu... DATA SIZE: 22.82 GB | Deadline: 18d 7h",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfwchl0zwnoqhzly3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-24 00:00:00.000000",
+    "disclosedDate": "2026-02-24 22:59:25.152014"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-10F0F7",
+  "type": "ransomware-incident",
+  "title": "kurosu.com.py Breach ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kurosu.com.py Breach",
+    "domain": "kurosu.com",
+    "country": "PY"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] The \"kurosu.com.py Breach\" refers to a security incident involving Kurosu, a company based in Paraguay. During this breach, unauthorized individuals accessed the company's systems, compromising sensitive data. This incident highlights vulnerabilities in cybersecurity measures and the importance of robust data protection protocols to safeguard against unauthorized access and data theft.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f198c4b4225e006b447009422ea6d35c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3vyb3n1lmnvbs5wesbccmvhy2haznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 00:27:24.966919",
+    "disclosedDate": "2024-12-10 00:27:27.118158"
+  }
+}

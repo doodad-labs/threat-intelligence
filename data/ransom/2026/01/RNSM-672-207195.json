@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-207195",
+  "type": "ransomware-incident",
+  "title": "Talleyville Fire ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Talleyville Fire",
+    "domain": "talleyvillefire.com",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Talleyville Fire Company is dedicated to providing essential fire, ambulance, and rescue services to approximately 50,000 residents in New Castle County, Delaware. They rely on community support and donations to maintain their equipment and operations to effectively safeguard lives and property. The organization also promotes fire safety through educational programs and actively seeks volunteers to assist in their mission. Notable community events, such as fundraisers and public service activities, further highlight their commitment to the local community.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/31cf60166fd418e95ef47c3eaafaf3f9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgfsbgv5dmlsbgugrmlyzubzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-18 20:16:37.523000",
+    "disclosedDate": "2026-01-20 00:28:15.725277"
+  }
+}

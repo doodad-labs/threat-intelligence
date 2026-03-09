@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-674-07B81F",
+  "type": "ransomware-incident",
+  "title": "Netwerk NV ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Netwerk NV",
+    "domain": "netwerknv.nl",
+    "country": "BE"
+  },
+  "actor": {
+    "id": "ailock",
+    "name": "AiLock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Netwerk NV is part of the Korevaar Group. Their services range from container cleaning to waste management and pest control.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv0d2vyaybovkbbauxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-07 08:26:59.105898",
+    "disclosedDate": "2026-03-07 08:27:00.707121"
+  }
+}

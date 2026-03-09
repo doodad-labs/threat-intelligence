@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-175FE7",
+  "type": "ransomware-incident",
+  "title": "PIBOR ISO SA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PIBOR ISO SA",
+    "domain": "pibor.ch",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 32000000000,
+    "description": "With over fifty professions, all dedicated to design and manufacturing, Pibor ISO SA is one of the leaders in the precision watch components sector.We are ready to upload more than 32 GB of essential corporate documents such as: financial data (audits, payment details, reports), contact numbers and e-mail addresses of employees and customers, internal corporate correspondences, corporate licenses, agreements and contracts, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uelct1igsvnpifnbqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-17 00:00:00.000000",
+    "disclosedDate": "2025-03-17 10:38:48.150696"
+  }
+}

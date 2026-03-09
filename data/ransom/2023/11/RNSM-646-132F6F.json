@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-132F6F",
+  "type": "ransomware-incident",
+  "title": "Medjet ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Medjet",
+    "domain": "medjetassist.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/351f8e3bf3cd67136876ca3268e32644.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvkamv0qgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-03 15:15:47.000000",
+    "disclosedDate": "2023-11-13 14:47:01.362872"
+  }
+}

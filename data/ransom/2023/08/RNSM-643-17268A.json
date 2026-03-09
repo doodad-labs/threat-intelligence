@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-17268A",
+  "type": "ransomware-incident",
+  "title": "MBO-PPS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MBO-PPS.COM",
+    "domain": "mbo-pps.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MBO Gruppe",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3dc71fbb80064b829a489d99ab3d5378.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tujplvbquy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-17 09:13:31.760214",
+    "disclosedDate": "2023-08-17 09:13:31.760245"
+  }
+}

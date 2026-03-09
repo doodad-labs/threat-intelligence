@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-658-192845",
+  "type": "ransomware-incident",
+  "title": "O'mara ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "O'mara",
+    "domain": "omara-ag.com",
+    "country": "IE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $5.7 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tydtyxjhqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-26 00:00:00.123456",
+    "disclosedDate": "2024-11-19 22:19:23.994010"
+  }
+}

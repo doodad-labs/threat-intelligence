@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-29685C",
+  "type": "ransomware-incident",
+  "title": "metromont.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "metromont.com",
+    "domain": "metromont.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Commercial & Residential Construction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e517871b63a819eb105932c35273b07e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwv0cm9tb250lmnvbubibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-30 00:00:00.000000",
+    "disclosedDate": "2025-05-29 12:18:58.217046"
+  }
+}

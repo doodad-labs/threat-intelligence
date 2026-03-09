@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-660-217472",
+  "type": "ransomware-incident",
+  "title": "Bethany Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bethany Hospital",
+    "domain": "bethanyhospital.in",
+    "country": "IN",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bethany Hospital has put together surgical and clinical expertise of  very high quality. This 190-bed, centrally air-conditioned hospital is  fully equipped for world-class patient-centred medical and surgical  services. It houses a state-of-the-art 24-hour trauma center with an  operation theatre attached. Out-patient rooms and the latest diagnostic  equipment including the cutting-edge Siemens 1.5 Tesla MRI Scanner,  Multi-slice spiral CT-Scan, a 15-bed ICU, 16-bed ICCU, 12-bed NICU,  delivery suite, dialysis room and state-of-the-art pathology and four  modular Operation Theatres, along with a host of well-appointed wards  are on par with Mumbai city’s finest.Content: valuable and sensitive information, from organizational and technical to personal information (databases, reports, employees, patients, etc.)*for review purposes, you can download just a few files for free to get an idea of what is contained in the entire folder before purchasing. https://bethanyhospital.in",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9f0d8f61c16f09d6cc5d32c2949cf641.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmv0agfuesbib3nwaxrhbebzcgfjzwjlyxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-21 04:01:24.613567",
+    "disclosedDate": "2025-01-21 04:02:33.385890"
+  }
+}

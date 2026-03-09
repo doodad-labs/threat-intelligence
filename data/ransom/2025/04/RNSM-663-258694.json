@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-258694",
+  "type": "ransomware-incident",
+  "title": "impactcanada.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "impactcanada.com",
+    "domain": "impactcanada.com",
+    "country": "CA",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Impact Public Affairs has been in operation since 1997, and is a full-service boutique firm based in the nation's capital with offices in Toronto and Montreal. Our firm specializes in providing national organizations with innovative Government Relations (GR) services that deliver long-term results and positive media exposure. No other firm has the depth of experience and track record of success in ensuring that national organizations deliver effective communications to the public, their members, key stakeholders and governments.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a87faf6169550df3d6a360cacbbeed5d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw1wywn0y2fuywrhlmnvbubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-25 00:17:13.471000",
+    "disclosedDate": "2025-04-25 00:38:43.912664"
+  }
+}

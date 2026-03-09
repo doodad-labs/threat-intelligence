@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-2174F2",
+  "type": "ransomware-incident",
+  "title": "www.mims.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.mims.com",
+    "domain": "mims.com",
+    "country": "SN",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Mims.com is an online resource for medical professionals used mainly in Asia-Pacific and Middle East regions. It provides latest drug information and medical news, with a database featuring information about thousands of prescription medications. It also offers feature articles, opinion pieces and continuing medical education (CME) activities. It's extensively used by doctors, pharmacists, nurses and students.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc654c1e2d252ab393a435186dfc3205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1pbxmuy29tqgrldm1hbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-21 00:00:00.000000",
+    "disclosedDate": "2026-01-21 13:18:23.653746"
+  }
+}

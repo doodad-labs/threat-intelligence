@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-2655FC",
+  "type": "ransomware-incident",
+  "title": "prommgroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "prommgroup.com",
+    "domain": "prommgroup.com",
+    "country": "RU"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PROMM GROUP is a diversified company originally founded under the name Prommaharaj Land Development....",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f936e6a9160dc12371b39241a2365000.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjvbw1ncm91cc5jb21abg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-25 13:38:00.000000",
+    "disclosedDate": "2025-12-26 15:39:48.156068"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-098929",
+  "type": "ransomware-incident",
+  "title": "spu.ac.th ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "spu.ac.th",
+    "domain": "spu.ac.th",
+    "country": "TH",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sripatum University is committed to be ICT Campus through continuously deploying appropriate technology and developing media for educational purposes. It is the directive of the university to encourage the use of information technology in all the cou...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fccc0e7a46e49cd86dd12cbb4caddb56.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3b1lmfjlnroqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-12 00:00:00.000000",
+    "disclosedDate": "2024-05-09 13:07:35.487724"
+  }
+}

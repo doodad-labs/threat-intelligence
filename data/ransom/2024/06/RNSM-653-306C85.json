@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-306C85",
+  "type": "ransomware-incident",
+  "title": "Wayne Memorial Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wayne Memorial Hospital",
+    "domain": "wmh.org",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "monti",
+    "name": "monti",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wayne Memorial Hospital is a non-profit, community-controlled hospital based in Honesdale, Pennsylvania serving Wayne, Pike and Sullivan Counties.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2f5bmugtwvtb3jpywwgsg9zcgl0ywxabw9udgk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-09-07-wayne-memorial-hospital-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-30 17:59:12.000000",
+    "disclosedDate": "2024-06-30 19:41:41.267740"
+  }
+}

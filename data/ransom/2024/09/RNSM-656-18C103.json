@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-18C103",
+  "type": "ransomware-incident",
+  "title": "DJH Jugendherberge ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DJH Jugendherberge",
+    "domain": "jugendherberge.de",
+    "country": "DE",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : N/A - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8089aa53e30b411da6eb98af3d97087c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/repiiep1z2vuzghlcmjlcmdlqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-18 17:15:38.000000",
+    "disclosedDate": "2024-09-18 17:29:43.294572"
+  }
+}

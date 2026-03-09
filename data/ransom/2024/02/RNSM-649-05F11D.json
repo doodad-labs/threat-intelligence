@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-649-05F11D",
+  "type": "ransomware-incident",
+  "title": "VCS Observation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VCS Observation",
+    "domain": "vcsobservation.nl",
+    "country": "NL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "VCS Observation deploys effective video management technology fortheir clients. With an eye for a sustainable way of working. In public and private spaces and in healthcare. We are going to upload every files we obtained from their servers, so maybe you can find yourselves in their data. Lots of operating files, clients data etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vkntie9ic2vydmf0aw9uqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-05 17:55:26.559997",
+    "disclosedDate": "2024-02-05 17:55:26.616479"
+  }
+}

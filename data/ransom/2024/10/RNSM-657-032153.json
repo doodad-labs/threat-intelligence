@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-032153",
+  "type": "ransomware-incident",
+  "title": "Barnes & Cohen ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Barnes & Cohen",
+    "domain": "bbcjustice.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "trinity",
+    "name": "trinity",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15000000000,
+    "description": "15Gb - Revenue: <$5 Million - Publication date: 2024-11-04",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b24e45a950154e069e602ce13c1027ea.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfybmvzicygq29ozw5adhjpbml0eq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-03 19:04:38.476324",
+    "disclosedDate": "2024-10-03 19:04:39.274450"
+  }
+}

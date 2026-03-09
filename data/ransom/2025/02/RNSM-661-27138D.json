@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27138D",
+  "type": "ransomware-incident",
+  "title": "IUSA.MX ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IUSA.MX",
+    "domain": "iusa.mx",
+    "country": "MX",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] IUSA.MX, also known as Industrias Unidas, S.A. De C.V, is a Mexico-based company primarily engaged in the manufacture of diverse products in the fields of construction, telecommunication, and infrastructure development. The company produces, sells, and distributes a wide variety of products such as cables, transformers, switchgear, and metering equipment for the electric industry. It also invests in real estate, technology, and health sectors.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/svvtqs5nwebjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:28:00.647195",
+    "disclosedDate": "2025-02-27 16:28:06.545605"
+  }
+}

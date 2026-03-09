@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-07C56F",
+  "type": "ransomware-incident",
+  "title": "CROWE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CROWE.COM",
+    "domain": "crowe.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Accounting, Consulting & Technology - Crowe LLP",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ac97df3bf6b8668ef6d61062b1ffcafe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1jpv0uuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-07 16:25:50.592281",
+    "disclosedDate": "2023-07-07 16:25:50.592334"
+  }
+}

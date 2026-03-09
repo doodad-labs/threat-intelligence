@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-02223C",
+  "type": "ransomware-incident",
+  "title": "Pathmaker Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pathmaker Group",
+    "domain": "pathmakergroup.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PathMaker Group is a specialized consulting firm focused on Identity and Access Management solutions for businesses. They provide a full range of services, including planning, implementation, and management of identity management systems, access management, and privileged account management. The company serves a diverse clientele, emphasizing customer satisfaction and effective problem-solving. Established in 2003, PathMaker Group aims to build long-lasting partnerships with clients by combining technical expertise with consultative support.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/18ea39f3587803e540dc6b6ecfca6365.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugf0ag1ha2vyiedyb3vwqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-02 17:58:25.232000",
+    "disclosedDate": "2025-12-02 20:19:49.937572"
+  }
+}

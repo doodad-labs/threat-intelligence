@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-312664",
+  "type": "ransomware-incident",
+  "title": "mnorch.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mnorch.org",
+    "domain": "mnorch.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Led by Music Director Thomas Søndergård, the Minnesota Orchestra is a Grammy Award-winning orchestra known for acclaimed performances around the world.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c9a703275d7d0d523e92d045ea8e26c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw5vcmnolm9yz0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-31 06:01:00.000000",
+    "disclosedDate": "2024-01-31 22:34:40.727754"
+  }
+}

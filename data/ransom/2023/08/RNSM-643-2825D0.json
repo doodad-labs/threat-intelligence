@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-643-2825D0",
+  "type": "ransomware-incident",
+  "title": "Intertek ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Intertek",
+    "domain": "intertek.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "Intertek is an international provider of quality and safety services to a wide range of global and local industries. In the pack of more than 300Gb of data you can find all set of information: personal documents, business partners info, confidential agreementsand reports. There is also information about their US affiliate Professional Service Industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw50zxj0zwtaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-28 13:02:55.091935",
+    "disclosedDate": "2023-08-28 13:02:55.209866"
+  }
+}

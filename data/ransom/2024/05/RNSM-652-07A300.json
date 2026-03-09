@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-07A300",
+  "type": "ransomware-incident",
+  "title": "rollingfields.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rollingfields.com",
+    "domain": "rollingfields.com",
+    "country": "",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since 1968, Rolling Fields has brought quality care and meaningful, vibrant senior living to Crawford County.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/91d486203b6374f6464820a186d020b2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm9sbgluz2zpzwxkcy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-07 08:57:00.000000",
+    "disclosedDate": "2024-05-07 10:38:16.203631"
+  }
+}

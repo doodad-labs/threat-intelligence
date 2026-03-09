@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-2920E0",
+  "type": "ransomware-incident",
+  "title": "WACOSA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WACOSA",
+    "domain": "wacosa.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "WACOSA works for adults with disabilities, building a circle of support that empowers individuals to develop skills, explore and pursue employment, and foster community connections from graduation through retirement.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3a640f84d78538e4f90152b6920442aa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0fdt1nbqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-29 16:45:59.123456",
+    "disclosedDate": "2023-10-29 17:36:44.136494"
+  }
+}

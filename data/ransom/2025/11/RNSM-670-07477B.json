@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-07477B",
+  "type": "ransomware-incident",
+  "title": "TRIMBLE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TRIMBLE.COM",
+    "domain": "trimble.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Trimble Inc., operating as Trimble.com, is a multinational technology company that specializes in hardware and software services, such as GPS tracking systems, geospatial information analysis, and productivity solutions for industries like agriculture, construction, and transportation. The company is headquartered in Sunnyvale, California, USA.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/14ee06e29e0c285f7f63f7f00fbb1f29.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfjjtujmrs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-07 14:41:32.392030",
+    "disclosedDate": "2025-11-07 14:41:46.596803"
+  }
+}

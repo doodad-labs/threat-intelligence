@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-193808",
+  "type": "ransomware-incident",
+  "title": "EzyLegal ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EzyLegal",
+    "domain": "ezylegal.in",
+    "country": "IN",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c4b8c47403673a63e981350a4927533c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxp5tgvnywxaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 13:25:35.838957",
+    "disclosedDate": "2025-02-19 13:27:15.478247"
+  }
+}

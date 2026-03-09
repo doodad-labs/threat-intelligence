@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-283DB4",
+  "type": "ransomware-incident",
+  "title": "Ingenieurbüro Laudi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ingenieurbüro Laudi",
+    "domain": "ib-laudi.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "brotherhood",
+    "name": "brotherhood",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 139000000000,
+    "description": "Contains: 4 Gb Compressed Free Files, 139 Gb Compressed Paid Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5nzw5pzxvyyso8cm8gtgf1zglaynjvdghlcmhvb2q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-28 13:19:56.974445",
+    "disclosedDate": "2025-11-28 13:19:57.541496"
+  }
+}

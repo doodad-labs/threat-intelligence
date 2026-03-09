@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-278655",
+  "type": "ransomware-incident",
+  "title": "MEGATOYS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MEGATOYS.COM",
+    "domain": "megatoys.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Megatoys.com is a toy wholesale distributor and manufacturer that deals in licensed products and popular toys. Established over 30 years ago, the company offers a wide assortment of items including soft toys, action figures, board games, and puzzles. It has established itself as a leading supplier in the toy world, catering to direct consumers, retailers, and corporate clients on a global scale.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tuvhqvrpwvmuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:42:42.174599",
+    "disclosedDate": "2025-02-27 16:42:47.166833"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-23F155",
+  "type": "ransomware-incident",
+  "title": "associated.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "associated.org",
+    "domain": "associated.org",
+    "country": ""
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Associated: Jewish Federation of Baltimore is dedicated to supporting and nurturing Jewish life...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9a359b6fa8b3ffae4c3afe55f703bd54.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxnzb2npyxrlzc5vcmdabg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-19 10:22:00.000000",
+    "disclosedDate": "2026-02-23 13:13:14.399779"
+  }
+}

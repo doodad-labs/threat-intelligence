@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-651-19F841",
+  "type": "ransomware-incident",
+  "title": "insidesource.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "insidesource.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Insidesource",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fb74eebcdb6d26981b8a69503c702c72.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw5zawrlc291cmnllmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-16 00:00:00.000000",
+    "disclosedDate": "2024-04-19 12:39:31.951203"
+  }
+}

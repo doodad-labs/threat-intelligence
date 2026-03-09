@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-181B45",
+  "type": "ransomware-incident",
+  "title": "capecodacademy.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "capecodacademy.org",
+    "domain": "capecodacademy.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cape Cod Academy is a private, independent day school located in Osterville, Massachusetts. It serves students from kindergarten through 12th grade, offering a rigorous academic curriculum combined with a strong emphasis on character development and community engagement. The school prides itself on small class sizes, personalized attention, and a supportive learning environment designed to foster each student's potential.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c0a8cd1a3457723adccbde24ae88631e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fwzwnvzgfjywrlbxkub3jnqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-30 00:00:00.000000",
+    "disclosedDate": "2024-09-18 09:58:27.453477"
+  }
+}

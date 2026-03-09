@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-018374",
+  "type": "ransomware-incident",
+  "title": "Valu-Trac Investment Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Valu-Trac Investment Management",
+    "domain": "valu-trac.com",
+    "country": "GB",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "History of Valu-TracValu-Trac was established in 1985. The origins of Valu-Trac's Intrinsic Value approach go back to the 1970's.Valu-Trac started as an investment advisory business specializing in Global Asset Allocation. Valu-T            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/df37942e1180e96e2603cccc2f831f04.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmfsds1ucmfjieludmvzdg1lbnqgtwfuywdlbwvudebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-27 00:00:00.000000",
+    "disclosedDate": "2024-11-01 03:39:26.632205"
+  }
+}

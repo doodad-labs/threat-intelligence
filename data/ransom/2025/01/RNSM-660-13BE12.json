@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-660-13BE12",
+  "type": "ransomware-incident",
+  "title": "oyolasvegas.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "oyolasvegas.com",
+    "domain": "oyolasvegas.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "OYO Las Vegas Hotel and Casino (fka Hooters Casino Hotel)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/12870c3680f48593cac7a9d42bda5eb5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b3lvbgfzdmvnyxmuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.yogonet.com/it/international/news/2025/10/22/115941-offstrip-oyo-las-vegas-hotelcasino-hit-by-cyberattack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-09 00:00:00.000000",
+    "disclosedDate": "2025-01-13 21:30:38.742351"
+  }
+}

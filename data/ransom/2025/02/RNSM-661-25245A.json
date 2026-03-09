@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-25245A",
+  "type": "ransomware-incident",
+  "title": "Birdsall Muller LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Birdsall Muller LLC",
+    "domain": "birdsall-law.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 60000000000,
+    "description": "Status: 29d 22h 26m 19s - Size Data: 60 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4dca8cc7cd36f37fe4f9f8dd69821e6f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmlyzhnhbgwgtxvsbgvyiexmq0bjawnhzgezmzax",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-24 00:00:00.000000",
+    "disclosedDate": "2025-02-25 03:47:31.486673"
+  }
+}

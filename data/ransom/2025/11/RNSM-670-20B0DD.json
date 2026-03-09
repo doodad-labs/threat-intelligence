@@ -1,0 +1,31 @@
+{
+  "id": "RNSM-670-20B0DD",
+  "type": "ransomware-incident",
+  "title": "Teamglobal ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Teamglobal",
+    "country": "IN"
+  },
+  "actor": {
+    "id": "morpheus",
+    "name": "morpheus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Website:  teamglobal.comRevenue: $6.3 MillionPremier contract and direct hire staffing services. 30 years of industry experience in aerospace and light industrial and an extensive client list.**",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvhbwdsb2jhbebtb3jwagv1cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-17 15:13:52.118000",
+    "disclosedDate": "2025-11-20 16:18:58.486016"
+  }
+}

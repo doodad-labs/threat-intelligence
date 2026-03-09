@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-12A2BF",
+  "type": "ransomware-incident",
+  "title": "Goins Law ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Goins Law",
+    "domain": "goinslaw.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A large list of data files will be published soon",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cb78ea73f86411be37b27f0ccce3d37e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r29pbnmgtgf3qgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-12 21:54:23.068000",
+    "disclosedDate": "2024-12-12 22:19:47.937005"
+  }
+}

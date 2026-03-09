@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-305EB0",
+  "type": "ransomware-incident",
+  "title": "mayaassurance.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mayaassurance.com",
+    "domain": "mayaassurance.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Maya Assurance Company is a New York-based insurance firm that specializes in auto insurance. It serves customers predominately in the local areas, providing a wide range of coverages including liability, collision, comprehensive, uninsured motorist, and personal injury protection. Maya Assurance Company distinguishes itself by offering personalized services and affordable rates.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwf5ywfzc3vyyw5jzs5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-15 00:00:00.000000",
+    "disclosedDate": "2025-03-30 02:34:16.972834"
+  }
+}

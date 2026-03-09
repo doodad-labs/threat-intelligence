@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-20CEF9",
+  "type": "ransomware-incident",
+  "title": "virainsight.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "virainsight.com",
+    "domain": "virainsight.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Virainsight.com is a company specializing in retail display solutions and fixtures. They design and manufacture custom displays, fixtures, and environments to enhance retail spaces and improve customer experiences. Their expertise spans from initial concept and design to production and installation, catering to various retail sectors to create engaging and functional retail environments.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/01873a7a50fed9ba10e5ce43c00bbb48.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmlyywluc2lnahquy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-18 13:25:48.000000",
+    "disclosedDate": "2024-09-20 16:38:03.104410"
+  }
+}

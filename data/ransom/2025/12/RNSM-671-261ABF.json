@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-261ABF",
+  "type": "ransomware-incident",
+  "title": "arabfalcons.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "arabfalcons.com",
+    "domain": "arabfalcons.com",
+    "country": "SA"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "الصقور العربية specializes in producing advanced technology products, including various models such...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bca191877fba3689e6c5a16f4ce9e019.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxjhymzhbgnvbnmuy29tqgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-25 16:07:00.000000",
+    "disclosedDate": "2025-12-26 15:26:39.510840"
+  }
+}

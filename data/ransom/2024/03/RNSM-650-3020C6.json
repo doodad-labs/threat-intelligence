@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-3020C6",
+  "type": "ransomware-incident",
+  "title": "Claro ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Claro",
+    "domain": "claro.com",
+    "country": "MX",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "trigona",
+    "name": "trigona",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Claro, a subsidiary of América Móvil, stands at the forefront of telecommunications innovation, recognizing the vital role of connectivity in shaping a better world. Originating from a public telephone company, Claro has evolved into a global connectivity, communication, and Information Technology solutions provider, driven by a commitment to continuous innovation and customer-centric services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cda9ce1cce236794402a063f170e8ab3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2xhcm9adhjpz29uyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-30 12:00:00.000000",
+    "disclosedDate": "2024-03-30 17:55:35.466923"
+  }
+}

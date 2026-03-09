@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-19DE43",
+  "type": "ransomware-incident",
+  "title": "KuiperCompagnons ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KuiperCompagnons",
+    "domain": "kuipercompagnons.nl",
+    "country": "NL",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We learn from the past. For over 100 years, KuiperCompagnons has been looking ahead. Driven by a responsibility towards present and future generations, all our designs and advice contribute to a happy, healthy ans sustainable way of living, housing and working",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0aabffd5cd992751f96bb6e2b29371fc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s3vpcgvyq29tcgfnbm9uc0byyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-24 00:00:00.000000",
+    "disclosedDate": "2024-07-19 09:10:42.794733"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-660-2426C5",
+  "type": "ransomware-incident",
+  "title": "RUIA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RUIA.COM",
+    "domain": "ruia.com",
+    "country": "IN"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] RUIA.COM is an online retail store based in New York specializing in high-quality, affordable Indian-inspired products. Founded by Meena Raote in 2015, their unique product range encompasses a variety of categories including beauty, health, and home decor products. Meena uses her rich Indian heritage to source the best products from India while ensuring ethical and sustainable production practices. The company offers worldwide shipping services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ulvjqs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 17:20:01.979009",
+    "disclosedDate": "2025-01-24 17:20:01.979009"
+  }
+}

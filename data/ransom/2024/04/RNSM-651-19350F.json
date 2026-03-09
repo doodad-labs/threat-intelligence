@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19350F",
+  "type": "ransomware-incident",
+  "title": "quorumfcu.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "quorumfcu.org",
+    "domain": "quorumfcu.org",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "quorumfcu.org",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/96a962592507ffc5b2da10679b72d0f4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cxvvcnvtzmn1lm9yz0bkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-18 00:42:00.000000",
+    "disclosedDate": "2024-04-19 11:52:31.970900"
+  }
+}

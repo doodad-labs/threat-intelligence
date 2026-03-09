@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-28AF80",
+  "type": "ransomware-incident",
+  "title": "GBA GROUP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GBA GROUP",
+    "domain": "gba-group.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have invested more than £7.2m on in-house specialist IT Systems\r We are leaders in Finished Vehicle Logistics Supply Chain Optimisation\r We handle more than 500,000 units p.a. through the Port of Grimsby alone\r Our suite of in-house specialised IT Systems provide customers with industry leading solutions\r We have repeatedly gained global recognition as the leader in Technical Vehicle Processing\r We have repeatedly gained global recognition as the leader in Port & Terminal Management",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r0jbiedst1vqqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-13 14:23:47.490000",
+    "disclosedDate": "2024-06-28 01:59:18.580995"
+  }
+}

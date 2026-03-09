@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-1505FC",
+  "type": "ransomware-incident",
+  "title": "Oahu Transit Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Oahu Transit Services",
+    "domain": "thebus.org",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1991, The Oahu Transit Services Group (OTS) owns and operates a fleet of buses for Honolulu, Hawaii, referred to collectively as TheBus.They recently began a new commuter ferry service, called The Boat.Another major leak, about 800,000 records that include personal data of customers, you can get acquainted with the columns of the database, [RecNum][RefNo][Reason][IDType][IDNumber][PassType][Fee][FName][LName][Addr1][Addr2][City][State][ZipCode][Phone][SSN][Sex][DOB][Resident_Status][ExpDate][NewExpDate][ADAFlag][PCAFlag][Desc1][Desc2][Dept][Comments][Duration][Months][Login][EXCLUDE][LOCATION][IDTYPE_CODE][REASON_CODE][ModDate][ModBy][SAFLAG][BUSEXPDATE][IDTYPE_CODE2][DISABILITY_STATUS][NEWBUSEXPDATE]we give this company 7 days to get in touch, otherwise their customers will suffer due to their negligence.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2fodsbucmfuc2l0ifnlcnzpy2vzqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.hawaiinewsnow.com/2024/06/18/thebus-website-is-down-third-day-after-alleged-ransomware-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-15 13:09:30.857371",
+    "disclosedDate": "2024-06-15 14:47:57.736614"
+  }
+}

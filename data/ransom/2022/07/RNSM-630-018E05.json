@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-630-018E05",
+  "type": "ransomware-incident",
+  "title": "sigma-alimentos.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sigma-alimentos.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2lnbwetywxpbwvudg9zlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-07-01 18:30:21.993353",
+    "disclosedDate": "2022-07-01 18:30:21.993353"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-302F4E",
+  "type": "ransomware-incident",
+  "title": "Chema Per ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Chema Per",
+    "domain": "chema.com.pe",
+    "country": "PE"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 60000000000,
+    "description": "Chema PerChema is the leading Peruvian company in additives and products for industry, mining and construction, with more than 43 years of experience.Geo: Peru - Leak size: 60 GB Archive - Contains: Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hlbwegugvyqhnhcmnvbwe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-30 10:01:01.639223",
+    "disclosedDate": "2024-11-30 10:01:02.466945"
+  }
+}

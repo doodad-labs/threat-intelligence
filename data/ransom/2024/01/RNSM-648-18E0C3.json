@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-18E0C3",
+  "type": "ransomware-incident",
+  "title": "digipwr.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "digipwr.com",
+    "domain": "digipwr.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Digital Power is an innovative leader and supplier of cutting-edge power product solutions for medical, industrial, telecom, and defense markets. The company is recognized throughout the industry for flexible, cutting-edge, feature-rich, top-quality...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3cd6b66ab75443e4d2a277a8c14656b3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zglnaxb3ci5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-18 16:44:00.000000",
+    "disclosedDate": "2024-01-18 17:53:33.978439"
+  }
+}

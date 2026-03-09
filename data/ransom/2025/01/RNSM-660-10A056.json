@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-10A056",
+  "type": "ransomware-incident",
+  "title": "Qualinet ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Qualinet",
+    "domain": "qualinet.ca",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Qualinet One customer at a time, since 1994, Qualinet has become Quebec's benchmark for disaster response and cleanup.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uxvhbgluzxracmh5c2lkyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-10 18:27:02.382027",
+    "disclosedDate": "2025-01-10 18:27:02.382027"
+  }
+}

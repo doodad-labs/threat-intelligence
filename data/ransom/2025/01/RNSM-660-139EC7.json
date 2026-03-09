@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-660-139EC7",
+  "type": "ransomware-incident",
+  "title": "Conad (conad.lan) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Conad (conad.lan)",
+    "domain": "conad.it",
+    "country": "IT",
+    "sector": "Retail"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Conad is an organization that operates through eight large cooperative groups, purchasing, and distribution centers. It offers different kinds of merchandise products. The company was established in 1962 and headquartered in Bologna, Italy.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6c06d0053f540c425c5d3d1bd4268a53.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29uywqgkgnvbmfklmxhbilabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.hdblog.it/sicurezza/articoli/n605483/conad-attacco-hacker-ransomware/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 00:00:00.000000",
+    "disclosedDate": "2025-01-13 19:20:39.475862"
+  }
+}

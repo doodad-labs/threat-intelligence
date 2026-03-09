@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-640-23A627",
+  "type": "ransomware-incident",
+  "title": "Coos Bay ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Coos Bay",
+    "domain": "coos.or.us",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 248000000000,
+    "description": "Coos Bay is a city located in Coos County, Oregon, where the Coos River enters Coos Bay on the Pacific Ocean. 248GB of confidential documents, contracts, workers salaries, medical information, forensic examinations, insurance and tax information and much more. Everything flew away from this city government to our blog. Soon you will be able to catch something!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3bf0db2decbeadef0724d45150f6e7a9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29vcybcyxlacm95yww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-23 01:02:03.456789",
+    "disclosedDate": "2023-05-23 14:57:35.504560"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-26ED38",
+  "type": "ransomware-incident",
+  "title": "Secure Network Solutions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Secure Network Solutions",
+    "domain": "securenetworksolutions.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Secure Network Solutions specializes in providing top-notch IT consulting and network management services. Their team of experts is dedicated to ensuring businesses operate smoothly and securely in the digital landscape. They offer comprehensive IT solutions, including advanced network security, expert IT consulting, and cloud solutions. Their intended clients are businesses seeking to enhance their IT infrastructure and security.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/44898f16809ffc1c7aaf10169326e8a4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vjdxjlie5ldhdvcmsgu29sdxrpb25zqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-26 18:30:27.824000",
+    "disclosedDate": "2025-11-26 18:52:39.031272"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-16A2AE",
+  "type": "ransomware-incident",
+  "title": "davidsbridal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "davidsbridal.com",
+    "domain": "davidsbridal.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "werewolves",
+    "name": "werewolves",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "David's Bridal — известная американская сеть свадебных магазинов, известная своим широким ассортиментом свадебных платьев, платьев для подружек невесты и платьев для особых случаев. Основанная в 1950 году, компания выросла из единственного магазина во Флориде до обширной сети, насчитывающей более 300 магазинов в США, Канаде, Великобритании, а также франчайзинговых магазинов в Мексике.Выручка компании оценивается в $2,2 млрд.На текущий момент мы обладаем очень ценными и важными данными, охватывающими значительный объем личной и корпоративной информации.850000$.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/423511e9720b5445a32fe1fb23486094.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgf2awrzynjpzgfslmnvbub3zxjld29sdmvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-14 01:13:04.000000",
+    "disclosedDate": "2024-02-16 17:29:47.871487"
+  }
+}

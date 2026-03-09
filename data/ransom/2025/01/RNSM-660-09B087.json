@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-09B087",
+  "type": "ransomware-incident",
+  "title": "Rent-2-Own ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rent-2-Own",
+    "domain": "r2o.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rent-2-Own has rent to own furniture, rent to own TV, rent to own computers, and we rent appliances too. 32 Ohio and Kentucky rental stores. Rent 2 Own corporate office is located in 1369 W Ohio Pike, Amelia, Ohio, 45102, United States and has 360 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvudc0ylu93bkbtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-09 15:58:25.558699",
+    "disclosedDate": "2025-01-09 15:58:30.572376"
+  }
+}

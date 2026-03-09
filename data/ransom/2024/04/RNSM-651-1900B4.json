@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-1900B4",
+  "type": "ransomware-incident",
+  "title": "mipe.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mipe.com",
+    "domain": "mipe.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mission Petroleum Carriers, Inc is a bulk commodity transport company operating throughout Texas and surrounding states. Mission’s primary focus is the gathering and transportation of crude oil. Based in San Antonio, Texas, Mission has been providing...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3c00ae315f8909bd0876ad1fb730061a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwlwzs5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-04 19:47:00.000000",
+    "disclosedDate": "2024-04-19 09:43:39.905642"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-649-26EA70",
+  "type": "ransomware-incident",
+  "title": "Bjuvs kommun ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bjuvs kommun",
+    "domain": "bjuv.se",
+    "country": "SE",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "We will upload almost 200GB of Bjuvs kommun organization. Confidential documents, contracts, agreements, personal HR files and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmp1dnmga29tbxvuqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-26 17:51:47.574310",
+    "disclosedDate": "2024-02-26 17:51:47.645087"
+  }
+}

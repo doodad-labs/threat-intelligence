@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-642-26393C",
+  "type": "ransomware-incident",
+  "title": "dothousehealthorg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dothousehealthorg",
+    "domain": "dothousehealth.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 800000000000,
+    "description": "over 800 gigabytes of data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0bb1930fe289b0cb42ea3e4113447737.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zg90ag91c2vozwfsdghvcmdaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-07-14-dothouse-health-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-10 10:48:36.000000",
+    "disclosedDate": "2023-07-26 16:21:49.796256"
+  }
+}

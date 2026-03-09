@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-669-10B193",
+  "type": "ransomware-incident",
+  "title": "Motility Software ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Motility Software",
+    "domain": "motilitysoftware.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "brotherhood",
+    "name": "brotherhood",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3300000000,
+    "description": "Contains: 3.3 Gb compressed Files, Databases",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/49b41cf61e8e70544fa0387a7989bffc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw90awxpdhkgu29mdhdhcmvaynjvdghlcmhvb2q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-10 12:37:44.824869",
+    "disclosedDate": "2025-10-10 12:37:46.549796"
+  }
+}

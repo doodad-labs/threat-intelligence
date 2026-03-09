@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-022BAE",
+  "type": "ransomware-incident",
+  "title": "turbomp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "turbomp.com",
+    "domain": "turbomp.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "Data Size: 700GB, Status: ?, Data Type: Because this company receives product design drawings from other partner companies and carries out manufacturing orders, it has detailed contract documents with numerous companies, their design documents, detailed drawings required for the manufacturing process, and documents showing the manufacturing process.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhvyym9tcc5jb21ac3rvcm1vdxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-02 08:19:08.417840",
+    "disclosedDate": "2025-02-02 08:19:08.417840"
+  }
+}

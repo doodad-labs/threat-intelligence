@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-189ADD",
+  "type": "ransomware-incident",
+  "title": "semaphore.asso.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "semaphore.asso.fr",
+    "domain": "semaphore.asso.fr",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0865fa70849c0a522f7d1eb82559b5b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vtyxbob3jllmfzc28uznjaznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-18 16:57:05.801729",
+    "disclosedDate": "2025-03-18 16:58:21.742732"
+  }
+}

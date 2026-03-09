@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-12030A",
+  "type": "ransomware-incident",
+  "title": "bankbsi.co.id ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bankbsi.co.id",
+    "domain": "bankbsi.co.id",
+    "country": "ID",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "On May 8, we attacked Bank Syariah Indonesia, completely stopping all of its services. The management of the bank could not think of anything better than to brazenly lie to their customers and partners, reporting some kind of \"technical work\" being...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4239e011cbffdba3accea511ccf6470c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymfua2jzas5jby5pzebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-12 21:09:00.000000",
+    "disclosedDate": "2023-05-12 21:55:26.067273"
+  }
+}

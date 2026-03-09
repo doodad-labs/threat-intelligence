@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-221691",
+  "type": "ransomware-incident",
+  "title": "xeinadin.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "xeinadin.com",
+    "domain": "xeinadin.com",
+    "country": "IE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Trusted by over 60,000 clients across the UK and Ireland, Xeinadin was founded in June 2019. In 2021, it received backing from one of the UK's leading private equity investors Exponent, following which the firm became one of the UK's top 20 accountan...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c92b119ec87178d682518755b0665035.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/egvpbmfkaw4uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-22 09:36:00.000000",
+    "disclosedDate": "2023-12-22 10:45:20.012701"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-137139",
+  "type": "ransomware-incident",
+  "title": "Hospital Italiano de Buenos Aires ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hospital Italiano de Buenos Aires",
+    "domain": "hospitalitaliano.org.ar",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "knight",
+    "name": "knight",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "El Hospital Italiano de Buenos Aires es una asociación civil sin fines de lucro dedicada al cuidado integral de la salud. Desde 1853, brinda asistencia médica, forma alumnos de grado y de posgrado, y…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/00e99a6b57c9d7d6d4aed8729c4e916d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9zcgl0ywwgsxrhbglhbm8gzgugqnvlbm9ziefpcmvzqgtuawdoda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-13 11:38:42.264063",
+    "disclosedDate": "2023-10-13 11:38:42.264085"
+  }
+}

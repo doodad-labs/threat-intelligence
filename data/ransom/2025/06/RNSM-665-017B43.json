@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-017B43",
+  "type": "ransomware-incident",
+  "title": "Universidad Técnica del Norte Ecuador ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Universidad Técnica del Norte Ecuador",
+    "domain": "utn.edu.ec",
+    "country": "EC",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Universidad Técnica del Norte UTN, Ciencia y Técnica al Servicio del Pueblo.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5704f70a078c793de7623bc76d3ddea9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pdmvyc2lkywqgvmopy25py2egzgvsie5vcnrlievjdwfkb3jaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-01 23:00:00.000000",
+    "disclosedDate": "2025-06-01 23:43:26.137366"
+  }
+}

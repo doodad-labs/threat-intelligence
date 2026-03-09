@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-657-04447F",
+  "type": "ransomware-incident",
+  "title": "Riley Gear Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Riley Gear Corporation",
+    "domain": "rileygear.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Riley Gear Corporation, based in St. Augustine, Florida, can execute to the highest gear precision standards set by the American Gear Manufacturers Association. We are ready to upload more than 20 GB of data among which you will find NDAs and much information about their employees with SSNsand other personal data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umlszxkgr2vhcibdb3jwb3jhdglvbkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-04 18:00:58.279936",
+    "disclosedDate": "2024-10-04 18:00:59.581949"
+  }
+}

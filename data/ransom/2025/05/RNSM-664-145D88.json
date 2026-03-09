@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-664-145D88",
+  "type": "ransomware-incident",
+  "title": "Nottingham Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nottingham Construction",
+    "domain": "nottinghamconstruction.net",
+    "country": "GB",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 252500000000,
+    "description": "Nottingham Construction was established in 1989 then Incorporated in 1998 performing commercial carpentry and becoming a General Contractor serving National Retail Companies from New York to Virginia. Nottingham Construction corporate office is located in 375 Ivyland Road Unit 10 Warminster, PA 18974, USA and has 21 employees. The total amount of data leakage is 252.50 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/89c6aa5efd41cdec768681a6d37e0ad7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm90dgluz2hhbsbdb25zdhj1y3rpb25abwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-13 15:37:50.000000",
+    "disclosedDate": "2025-05-14 05:30:27.702036"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-1674B8",
+  "type": "ransomware-incident",
+  "title": "HELLOBRIGHTLINE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HELLOBRIGHTLINE.COM",
+    "domain": "hellobrightline.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Virtual Mental Health Care for Kids and Teens - Brightline",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ea583088568830f091172caae5b03de.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sevmte9cuklhsfrmsu5flknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-16 23:28:41.226236",
+    "disclosedDate": "2023-03-16 23:28:41.226257"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-315A90",
+  "type": "ransomware-incident",
+  "title": "Southern Avionics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Southern Avionics",
+    "domain": "southernavionics.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Southern Avionics specializes in marine and aviation navigation aids, including Non-Directional Beacon (NDB) production and support, serving a variety of operational needs worldwide. Their product lineup includes NDB transmitters, DGPS systems, antenna tuning units, and a range of accessories tailored for both industrial, civil, and military applications. The company also provides extensive services such as technical support, equipment training, field engineering, and onsite assistance for NDB and DGPS systems. With over six decades of experience in the industry, Southern Avionics continues to enhance their products to ensure safe and reliable navigation solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/95a36aa9f70b904ab610679f470fab72.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u291dghlcm4gqxzpb25py3nazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-31 04:06:58.157905",
+    "disclosedDate": "2025-03-31 18:57:32.248591"
+  }
+}

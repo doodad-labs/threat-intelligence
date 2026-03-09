@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-656-18E34E",
+  "type": "ransomware-incident",
+  "title": "AZPIRED ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AZPIRED",
+    "domain": "azpired.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 205700000000,
+    "description": "AZPIRED is outsourcing service center with a number of locations in the Philippines, three offices in Cebu and Cagayan De Oro City. Azpired corporate office is located in 12260 Trail Spring Ct, Las Vegas, Nevada, 89138, United States and has 124 employees. The total amount of data leakage is 205.70 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/be15ca1786fc56423f88d4e08f8e20d1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvpqsvjfrebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-16 20:20:44.000000",
+    "disclosedDate": "2024-09-18 13:59:54.007336"
+  }
+}

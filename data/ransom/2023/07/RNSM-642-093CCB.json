@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-642-093CCB",
+  "type": "ransomware-incident",
+  "title": "roys.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "roys.co.uk",
+    "domain": "roys.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ROYS(WROXHAM),LIMITED financial statementsROYS(WROXHAM),LIMITED's most recent financial report filed on January 29, 2022 shows the company has a turnover of £54 million.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/57d58c970140d793828f313c339b6062.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm95cy5jby51a0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.edp24.co.uk/news/23641229.roys-wroxham-hit-suspected-ransomware-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-09 16:50:00.000000",
+    "disclosedDate": "2023-07-09 18:55:36.056411"
+  }
+}

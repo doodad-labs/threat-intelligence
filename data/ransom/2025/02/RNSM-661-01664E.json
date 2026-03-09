@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-01664E",
+  "type": "ransomware-incident",
+  "title": "CHAMPIONHOMES.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CHAMPIONHOMES.COM",
+    "domain": "championhomes.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Champion Homes is a leading builder of manufactured, modular, and mobile homes in the United States. In operation for over six decades, the company offers a wide range of customized, high quality home options that are built in their controlled environment before transportation to their intended locations. Champion Homes is recognized for its design flexibility, superior craftsmanship, energy-efficient living, and exceptional customer service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ec8e17d543c5b5ea0b2c25c16983bd56.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0hbtvbjt05it01fuy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-01 19:05:59.142990",
+    "disclosedDate": "2025-02-01 19:05:59.142990"
+  }
+}

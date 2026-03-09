@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-638-306031",
+  "type": "ransomware-incident",
+  "title": "groupe-seche.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "groupe-seche.com",
+    "domain": "groupe-seche.com",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "Séché Environnement SA engages in the recovery and treatment of waste products for industrial and corporate customers, and local authorities in France and internationally. more than 300 gigabytes of documents, including personal data.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ee1f40dfd6ff92474b0c907c736d980c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jvdxbllxnly2hllmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-30 20:28:00.000000",
+    "disclosedDate": "2023-03-30 21:09:45.415507"
+  }
+}

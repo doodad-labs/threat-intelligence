@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-25EAC3",
+  "type": "ransomware-incident",
+  "title": "OrthoNY, Orthopedic Care ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OrthoNY, Orthopedic Care",
+    "domain": "orthony.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "OrthoNY is a group of physicians, physician assistants and nurse practitioners, engaging within the orthopaedic care industry. The practice has locations in the greater Capital/Saratoga Region...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/67b09e5c5b1079a208cb8f440d44acee.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3j0ag9owswgt3j0ag9wzwrpyybdyxjlqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-25 19:20:29.346949",
+    "disclosedDate": "2024-01-25 19:20:29.405689"
+  }
+}

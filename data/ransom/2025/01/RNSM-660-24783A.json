@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-24783A",
+  "type": "ransomware-incident",
+  "title": "PREMIERSUPPLIES.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PREMIERSUPPLIES.COM",
+    "domain": "premiersupplies.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Premiersupplies.com is a leading supplier of office equipment and supplies in the United States. From fully furnished office solutions to essential stationery items, they offer extensive lines of premium products at competitive prices. They specialize in providing high-quality tools and materials which include printers, scanners, office furniture, and daily-use office supplies, catering to various businesses and industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a0d8017a8c5ad2a08df3c318d1357d0f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ufjftulfulnvufbmsuvtlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 08:42:48.164369",
+    "disclosedDate": "2025-01-24 08:42:48.164369"
+  }
+}

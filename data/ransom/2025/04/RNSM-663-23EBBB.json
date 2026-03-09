@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-23EBBB",
+  "type": "ransomware-incident",
+  "title": "Varela Hermanos ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Varela Hermanos",
+    "domain": "varelahermanos.com",
+    "country": "PA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "gunra",
+    "name": "gunra",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Beverage Manufacturing",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c89a7dcd5cb0a980f07819b89d12843d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmfyzwxhiehlcm1hbm9zqgd1bnjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-15 00:00:00.000000",
+    "disclosedDate": "2025-04-23 14:12:54.058851"
+  }
+}

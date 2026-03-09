@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-1638B6",
+  "type": "ransomware-incident",
+  "title": "CelPlan Technologies, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CelPlan Technologies, Inc.",
+    "domain": "celplan.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $51.8 millionCelPlan is a leading provider of radio frequency (RF) planning &amp; optimization tools, value added consulting, engineering and training services to the wireless industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/731d2de87da6f629bb21e05d2d52575a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2vsugxhbibuzwnobm9sb2dpzxmsieluyy5aymxhy2tsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:03:54.484779",
+    "disclosedDate": "2025-05-16 13:33:48.717325"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-661-193E4C",
+  "type": "ransomware-incident",
+  "title": "DBK ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DBK",
+    "domain": "dbk.de",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Company has 48 hours. Leak include maildumps, finances and other company documents.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a70835075158fc1d44ddcf736ff0c6d9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rejlqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.dbk.de/presse/aktuelles/meldung/cyberangriff-auf-die-it-systeme-des-sekretariats-der-deutschen-bischofskonferenz",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 00:00:00.000000",
+    "disclosedDate": "2025-02-19 12:32:22.873179"
+  }
+}

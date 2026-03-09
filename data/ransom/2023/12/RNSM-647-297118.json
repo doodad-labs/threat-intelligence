@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-297118",
+  "type": "ransomware-incident",
+  "title": "tridon.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tridon.com.au",
+    "domain": "tridon.com.au",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1: https://***************.onion/TRIDON/PROOF",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/08bd9a450528f5e97299145c0152ea16.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhjpzg9ulmnvbs5hdubjywn0dxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-19 00:00:00.000000",
+    "disclosedDate": "2023-12-29 13:17:56.146984"
+  }
+}

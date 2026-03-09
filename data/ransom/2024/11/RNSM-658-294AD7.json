@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-294AD7",
+  "type": "ransomware-incident",
+  "title": "Traffics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Traffics",
+    "country": "DE",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000,
+    "description": "Traffics is one of the leading companies for travel technology and is among the pioneers in the digital travel industry.We are ready to upload more than 2 GB internal corporate documents including: corporate correspondence, employee contacts, customer contact information, signed contracts with large companies, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjhzmzpy3naywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-21 00:00:00.000000",
+    "disclosedDate": "2024-11-29 12:59:16.421019"
+  }
+}

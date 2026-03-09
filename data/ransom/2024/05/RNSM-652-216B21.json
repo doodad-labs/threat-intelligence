@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-216B21",
+  "type": "ransomware-incident",
+  "title": "Aztec Services Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aztec Services Group",
+    "domain": "aztecservices.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 398380000000,
+    "description": "Aztec Services Group, Inc - the scope of the company is environmental remediation and demolition services.  Aztec Services Group, Inc corporate office is located in 3814 William P Dooley Bypass, Cincinnati, OH 45223, USA. The total amount of data leakage is 398.38 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxp0zwmgu2vydmljzxmgr3jvdxbabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-20 13:53:56.12345",
+    "disclosedDate": "2024-05-21 06:08:53.995233"
+  }
+}

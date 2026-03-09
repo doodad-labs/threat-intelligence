@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-2131EB",
+  "type": "ransomware-incident",
+  "title": "lasegunda.com.ar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lasegunda.com.ar",
+    "domain": "lasegunda.com.ar",
+    "country": "AR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "La Segunda Seguros CLSG is a company that operates in the Insurance industry. It employs 2,001-5,000 people and has $500M-$1B of revenue. The company is headquartered in Rosario, Santa Fe Province, ArgentinaDuring our attack, all the servers of t...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgfzzwd1bmrhlmnvbs5hckbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-21 19:24:40.720633",
+    "disclosedDate": "2023-02-21 19:24:40.720633"
+  }
+}

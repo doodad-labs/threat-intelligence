@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-13C9C8",
+  "type": "ransomware-incident",
+  "title": "www.bigalsfoodservice.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.bigalsfoodservice.co.uk",
+    "domain": "bigalsfoodservice.co.uk",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Our foodservice roots trace all the way back to a butchers shop in Dublin city centre in 1966. Kepak Foodservice specialise in creating innovative,...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9217b2346747c19d66f89ca7f37264c1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmjpz2fsc2zvb2rzzxj2awnllmnvlnvrqgfwddcz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-13 17:36:14.059454",
+    "disclosedDate": "2024-06-13 17:36:15.060762"
+  }
+}

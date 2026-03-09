@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-0446A9",
+  "type": "ransomware-incident",
+  "title": "DMG Contractors ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DMG Contractors",
+    "country": "",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 113000000000,
+    "description": "DMG ContractorsDMG Contractors, established in 1987, specializes in providing services exclusively for the multi-family industry, including capital improvements, major renovations, and insurance restoration projects across the United States. With over 25 years of experience, the company has developed a skilled workforce and efficient project management strategies to complete projects on time and within budget. Their services range from exterior renovations such as siding replacements and full exterior painting to interior renovations like kitchen and bathroom updates. DMG Contractors aims to meet the needs of apartment communities while minimizing disruption to residents and staff.Geo: USA - Leak size: 113 GB Archive - Contains: Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/re1hienvbnryywn0b3jzqhnhcmnvbwe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-04 06:42:40.653461",
+    "disclosedDate": "2025-06-04 06:42:42.551075"
+  }
+}

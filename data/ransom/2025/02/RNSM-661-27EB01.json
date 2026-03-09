@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27EB01",
+  "type": "ransomware-incident",
+  "title": "SUN-RICH.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SUN-RICH.COM",
+    "domain": "sun-rich.com",
+    "country": "CA",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Sun-Rich.com is a North American company, specifically known for processing and packaging fresh-cut fruit for retail and foodservice customers. Evolved with over 30 years, it is committed to maintaining freshness and flavor of products ensuring harsh chemical preservatives are avoided. Its product range includes apples, melons, berries, and fruit mixes across the US and Canada.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1volvjjq0guq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:27:16.806778",
+    "disclosedDate": "2025-02-27 17:27:23.279447"
+  }
+}

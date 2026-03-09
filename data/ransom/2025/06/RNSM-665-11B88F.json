@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-665-11B88F",
+  "type": "ransomware-incident",
+  "title": "taos ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "taos",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "warlock",
+    "name": "warlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Taos is a technology services and consulting firm that specializes in cloud, DevOps, and security solutions. Headquartered in San Jose, CA, they work with clients across various industries, including finance, healthcare, and technology. Their services range from strategic consulting to managing IT infrastructure. Their goal is to help businesses adopt new technologies and practices to improve their operations and deliver better results.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgfvc0b3yxjsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-11 11:51:16.603691",
+    "disclosedDate": "2025-06-11 11:51:21.093646"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-2388D7",
+  "type": "ransomware-incident",
+  "title": "IJM Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IJM Corporation",
+    "domain": "ijm.com",
+    "country": "MY",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Malaysia - Exfiltraded data : no - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/666600bc7473a03160b3dde3178f4028.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/supnienvcnbvcmf0aw9uqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-23 21:36:48.000000",
+    "disclosedDate": "2024-02-23 22:20:27.150247"
+  }
+}

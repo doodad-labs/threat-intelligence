@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-07DF3F",
+  "type": "ransomware-incident",
+  "title": "suandco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "suandco.com",
+    "domain": "suandco.com",
+    "country": "KR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "madliberator",
+    "name": "madliberator",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Suandco tiene su origen en el despacho fundado en 1951 por Don Francisco Suarez Sotillo, abogado e Inspector de Hacienda. Uno de los primeros despachos de Madrid especializados en Derecho Tributario. Llevamos tres generaciones asesorando familias y empresas que han depositado su confianza en nosotros. Por que? Porque aquilas personas nos importan y son el centro de nuestra profesion.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1abf138f39b2c6e14b061ed48266c980.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3vhbmrjby5jb21abwfkbglizxjhdg9y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-07 14:35:56.936970",
+    "disclosedDate": "2024-08-07 14:35:57.525800"
+  }
+}

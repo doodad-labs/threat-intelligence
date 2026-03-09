@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-185A93",
+  "type": "ransomware-incident",
+  "title": "Keizer's Collision CSN & Automotive ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Keizer's Collision CSN & Automotive",
+    "domain": "keizers.ca",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Keizer's Collision Centre has been a family run business for the last 35 years. We are a licensed automotive repair shop.Revenue > $5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2vpemvyj3mgq29sbglzaw9uienttiamief1dg9tb3rpdmvarwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:02:31.023537",
+    "disclosedDate": "2024-11-18 21:02:31.439774"
+  }
+}

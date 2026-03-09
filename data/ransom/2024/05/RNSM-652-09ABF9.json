@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09ABF9",
+  "type": "ransomware-incident",
+  "title": "thaiagri.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "thaiagri.com",
+    "domain": "thaiagri.com",
+    "country": "TH",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "With our high quality product, TAF has customers in over 70 countries span over 6 continents, namelyAmerica, Europe, Middle East, Africa, Asia, Oceania.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1fbd117a497b3f2b59f7491d71109922.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghhawfncmkuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-09 00:00:00.000000",
+    "disclosedDate": "2024-05-09 13:30:23.634653"
+  }
+}

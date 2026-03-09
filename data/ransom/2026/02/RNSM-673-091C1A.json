@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-673-091C1A",
+  "type": "ransomware-incident",
+  "title": "Getly ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Getly",
+    "domain": "getly.app",
+    "country": "NG"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Price ??? Disclosures 0/1",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2v0bhlaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-09 01:29:56.867104",
+    "disclosedDate": "2026-02-09 01:29:58.171392"
+  }
+}

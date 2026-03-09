@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-653-04950A",
+  "type": "ransomware-incident",
+  "title": "www.bjurholm.se ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.bjurholm.se",
+    "country": "SE",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0eea3cfa6941c573d9758e13c4913c82.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmjqdxjob2xtlnnlqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-28 20:22:10.000000",
+    "disclosedDate": "2024-06-04 22:56:45.328721"
+  }
+}

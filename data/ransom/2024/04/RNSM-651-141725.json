@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-141725",
+  "type": "ransomware-incident",
+  "title": "Jack Doheny Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jack Doheny Company",
+    "domain": "dohenycompany.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9c805a34adfe89a784b050a82324004a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smfjaybeb2hlbnkgq29tcgfueubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-14 14:27:44.000000",
+    "disclosedDate": "2024-04-14 14:52:49.836501"
+  }
+}

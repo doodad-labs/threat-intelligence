@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-09F856",
+  "type": "ransomware-incident",
+  "title": "i-Can Advisory Group inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "i-Can Advisory Group inc",
+    "domain": "icanadvisory.ca",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Immigration Advisory Services from Experienced Lawyers",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5d794cd23e7a378a3d770920dba3b632.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/as1dyw4gqwr2axnvcnkgr3jvdxagaw5jqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-09 07:16:36.123456",
+    "disclosedDate": "2023-10-09 08:30:41.699272"
+  }
+}

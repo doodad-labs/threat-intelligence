@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-646-08750E",
+  "type": "ransomware-incident",
+  "title": "Michael Garron Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Michael Garron Hospital",
+    "domain": "tehn.ca",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 775000000000,
+    "description": "Nestled in the heart of East Toronto, Michael Garron Hospital (MGH), a division of Toronto East Health Network, is a vibrant community teaching hospital serving one of Canada’s most diverse communities. We have taken 882k files or 775 GB from their network. You will find lots of confidential information very soon. Stay tuned.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twljagflbcbhyxjyb24gsg9zcgl0ywxaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cp24.com/news/michael-garron-hospital-under-code-grey-following-data-security-incident-1.6619700",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-08 15:59:56.315440",
+    "disclosedDate": "2023-11-08 15:59:56.458460"
+  }
+}

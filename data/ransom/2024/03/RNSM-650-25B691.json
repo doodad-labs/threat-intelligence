@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-650-25B691",
+  "type": "ransomware-incident",
+  "title": "Big Issue Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Big Issue Group",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 550000000000,
+    "description": "A company that wants to hide the fact of hacking and leakage of personal data. About 550 GB of confidential data was downloaded. - Personnel (copies of documents, personal data, etc.) - Contracts (all reports, partner data, etc.) - Finance            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmlnielzc3vliedyb3vwqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-20 00:00:00.000000",
+    "disclosedDate": "2024-03-25 17:53:25.165804"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-1768DD",
+  "type": "ransomware-incident",
+  "title": "brl.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "brl.fr",
+    "domain": "brl.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BRL Ingénierie is a subsidiary company belonging to the BRL Group, originally founded in 1955 to support the economic development of the Languedoc-Roussillon region in southern France by designing, building and managing large-scale water infrastructu...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/06ff95658316d1df0a44c9c16cd1d279.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjslmzyqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-17 07:56:00.000000",
+    "disclosedDate": "2023-04-17 08:47:38.544093"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-0575CC",
+  "type": "ransomware-incident",
+  "title": "ThinkBig Health Care Solutions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ThinkBig Health Care Solutions",
+    "domain": "thinkbighcs.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "pear",
+    "name": "pear",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ThinkBig Health Care Solutions specializes in providing comprehensive services to medical practices, including contract acquisition, billing, collections, and practice management",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f68184aae48810f0843b9ec8be593e9c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghpbmtcawcgsgvhbhroienhcmugu29sdxrpb25zqhblyxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-24 00:00:00.000000",
+    "disclosedDate": "2025-08-05 21:39:31.611750"
+  }
+}

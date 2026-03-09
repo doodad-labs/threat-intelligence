@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-3188D2",
+  "type": "ransomware-incident",
+  "title": "Talley Metal Fabrication ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Talley Metal Fabrication",
+    "domain": "jtalleycorp.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Talley Metal Fabrication, located in Southern California, specializes in high-quality structural steel, ornamental iron, electric gates, and custom metal fabrication. Since 1962, the company has been a leader in iron fabrication, providing premier craftsmanship and reliable results. Their offerings include customizable electric gates and a strong commitment to quality in ornamental iron products. Talley Metal Fabrication serves clients looking for high-quality metal solutions in various industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/83ba4db115b001c22d945c4d87d0c94c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgfsbgv5ie1ldgfsiezhynjpy2f0aw9uqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-31 03:56:32.510608",
+    "disclosedDate": "2025-03-31 18:58:59.925180"
+  }
+}

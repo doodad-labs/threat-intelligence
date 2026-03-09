@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-20598D",
+  "type": "ransomware-incident",
+  "title": "ndc.energy.mn ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ndc.energy.mn",
+    "domain": "energy.mn",
+    "country": "MN",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ndc.energy.mn is a company focused on renewable energy solutions and sustainable development. Based in Mongolia, it aims to address energy needs through innovative technologies and eco-friendly practices. The company works on projects that harness solar, wind, and other renewable resources, contributing to energy efficiency and environmental conservation. Their initiatives support Mongolia's transition to a greener economy.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1cd5460560a40ad634aa48959ee2067e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmrjlmvuzxjnes5tbkbmdw5rc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-20 16:43:09.783836",
+    "disclosedDate": "2024-12-20 16:43:13.204101"
+  }
+}

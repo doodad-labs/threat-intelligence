@@ -1,0 +1,31 @@
+{
+  "id": "RNSM-649-06454A",
+  "type": "ransomware-incident",
+  "title": "Celeste ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Celeste",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Celeste is focused on providing high speed fiber optic network solutions. We are now focused on providing you with the files takenfrom their network. You can find there operational files, lists of clients with information, some personal information and other different files. We will make them accessible soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2vszxn0zubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-06 17:33:45.837238",
+    "disclosedDate": "2024-02-06 17:33:45.965961"
+  }
+}

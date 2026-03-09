@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-22FD7A",
+  "type": "ransomware-incident",
+  "title": "UFCW Local 135 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UFCW Local 135",
+    "domain": "ufcw135.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "UFCW International Members of UFCW Local 135 have the backing of more than 1.3 million fellow members of the UFCW International Union across the United States and Canada. Together, we are an effective force for better wages, secure benefits and stronger rights at the workplace.  Data will be released soon if the company doesn't contact us!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/41802addbc00225a76169cf0a67b7fd8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vuzdvybmb2nhbcaxmzvay2ljywrhmzmwmq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-22 00:00:00.000000",
+    "disclosedDate": "2024-08-22 16:09:22.200876"
+  }
+}

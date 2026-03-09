@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-14E993",
+  "type": "ransomware-incident",
+  "title": "acla.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "acla.de",
+    "domain": "acla.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Als einer der führenden europäischen Hersteller von technischen Artikeln aus Polyurethan-Elastomeren bieten die ACLA-WERKE GMBH für zahlreiche Einsatzgebiete anwendungsorientierte und wirtschaftliche Problemlösungen an.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywnsys5kzubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-20 00:00:00.000000",
+    "disclosedDate": "2024-05-14 14:48:33.012283"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-12B812",
+  "type": "ransomware-incident",
+  "title": "CBSTRAINING ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CBSTRAINING",
+    "domain": "cbstraining.com",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "trinity",
+    "name": "trinity",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CBSTRAINING - Publication date: 2024-06-30",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a76651d942b200e5ae329e26ed2eaa66.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0jtvfjbsu5jtkdadhjpbml0eq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-12 09:57:57.437638",
+    "disclosedDate": "2024-06-12 09:57:58.131701"
+  }
+}

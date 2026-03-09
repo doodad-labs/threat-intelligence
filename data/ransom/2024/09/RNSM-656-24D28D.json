@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-24D28D",
+  "type": "ransomware-incident",
+  "title": "PetEdge ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PetEdge",
+    "domain": "petedge.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/920d0bd311478abbaee0bc5ee661aac6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugv0rwrnzubwbgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-24 23:15:00.125109",
+    "disclosedDate": "2024-09-24 23:15:00.879265"
+  }
+}

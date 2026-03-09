@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-2774D1",
+  "type": "ransomware-incident",
+  "title": "HPE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HPE.COM",
+    "domain": "hpe.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Hewlett Packard Enterprise (HPE.COM) is a multinational enterprise information technology company based in San Jose, California. Founded in 2015 from a split from Hewlett-Packard, its services include cloud consulting, cybersecurity, AI, and data analytics, among others. It also provides edge-to-cloud platform-as-a-service capabilities. HPE sells servers, storage, and network products to businesses and governmental agencies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sfbflknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 18:12:02.288949",
+    "disclosedDate": "2025-02-27 18:12:07.927879"
+  }
+}

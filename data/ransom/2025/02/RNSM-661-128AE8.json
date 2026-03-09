@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-128AE8",
+  "type": "ransomware-incident",
+  "title": "JP Express ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JP Express",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 97400000000,
+    "description": "JP Express - large transport company providing cargo transportation. JP Express corporate office is located in PO Box 819, Deer Park, New York, 11729, United States and has 260 employees. The total amount of data leakage is 97.40 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2c54bda0bc6f3fcefe96a7f333ab4721.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/slagrxhwcmvzc0btzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-12 17:33:09.000000",
+    "disclosedDate": "2025-02-12 23:40:21.957742"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-649-07F19B",
+  "type": "ransomware-incident",
+  "title": "transaxle.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "transaxle.com",
+    "domain": "transaxle.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 795000000000,
+    "description": "transaxle.com 795Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhjhbnnhegxllmnvbubhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-07 11:57:20.992780",
+    "disclosedDate": "2024-02-07 11:57:20.992803"
+  }
+}

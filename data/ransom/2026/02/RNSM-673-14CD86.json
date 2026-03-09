@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-14CD86",
+  "type": "ransomware-incident",
+  "title": "Grandview Family Medicine ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Grandview Family Medicine",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Grandview Family Medicine is a healthcare provider offering a range of services including family medicine, obstetrics, women's health, men's health, and pediatrics. They operate clinics in Provo and Cedar Hills and provide both in-person and telehealth appointments for their patients. The clinic emphasizes comprehensive care, addressing chronic disease management, mental health, urgent visits, and minor procedures. Their intended clients include families and individuals seeking quality healthcare across various age groups. The company headquarters is located in 1900 North State Street Provo, Utah 84604 United States.11-50 Employees",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f44c8a731e55211a5aac8695431018e6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jhbmr2awv3iezhbwlsesbnzwrpy2luzubtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-08 13:25:23.000000",
+    "disclosedDate": "2026-02-14 11:27:06.950202"
+  }
+}

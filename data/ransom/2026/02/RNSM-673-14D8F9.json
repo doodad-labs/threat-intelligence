@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-14D8F9",
+  "type": "ransomware-incident",
+  "title": "A** L** Office ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "A** L** Office",
+    "domain": "anc-legal.com",
+    "country": "AT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data is not available now.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qsoqiewqkibpzmzpy2vabmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-13 00:00:00.000000",
+    "disclosedDate": "2026-02-14 15:07:54.314802"
+  }
+}

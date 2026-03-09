@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-649-05A94C",
+  "type": "ransomware-incident",
+  "title": "ksa-architecture.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ksa-architecture.com",
+    "domain": "ksa-architecture.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "1 terabyte of private information, projects, construction schemes including Bank schemes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d9e0733e2aa2ba755d1804dda44b7927.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3nhlwfyy2hpdgvjdhvyzs5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-09 00:00:00.000000",
+    "disclosedDate": "2024-02-05 14:48:28.050705"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-670-0318A2",
+  "type": "ransomware-incident",
+  "title": "REPECHAGE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "REPECHAGE",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "We have over 1 TB of personal data belonging to this organization, and all attempts at peaceful resolution have been completely ignored. Aware that the addresses, phone numbers, and job titles of individual employees, medical records, and complete data on clients and partners have been lost (and will undoubtedly be used for selfish purposes by a huge number of people), they have shown complete indifference—REPECHAGE we want you to know about this before it is too late.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukvqruniqudfqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-03 10:00:00.000000",
+    "disclosedDate": "2025-11-03 10:52:25.724243"
+  }
+}

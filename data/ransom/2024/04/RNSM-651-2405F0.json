@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-651-2405F0",
+  "type": "ransomware-incident",
+  "title": "The Council of Fashion Designers of America ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Council of Fashion Designers of America",
+    "domain": "cfda.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 423300000000,
+    "description": "The Council of Fashion Designers of America, Inc, (CFDA) is a not-for-profit trade association founded in 1962 that leads industry-wide initiatives and whose membership consists of more than 400 of America’s foremost womenswear, menswear, jewelry, and accessory designers. The Council of Fashion Designers of America corporate office is located in 1350 Avenue of the Americas Fl 2, New York City, New York, 10019, United States and has 120 employees. The total amount of data leakage is 423.3 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlienvdw5jawwgb2ygrmfzaglvbibezxnpz25lcnmgb2ygqw1lcmljyubtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-23 00:34:59.12345",
+    "disclosedDate": "2024-04-24 13:46:34.376401"
+  }
+}

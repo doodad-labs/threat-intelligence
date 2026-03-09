@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-25523F",
+  "type": "ransomware-incident",
+  "title": "South Georgia Accounting Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "South Georgia Accounting Services",
+    "domain": "sgaccountingservices.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "South Georgia Accounting ServicesProviding Accounting and Tax services that you can count on.Enrolled Agent authorized by the IRS . Specializing in all aspects of small business accounting.- Database with company accounting- Quickbooks Client Files  https://sgaccountingservices.com/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d6e715a225168a2dca9a856145d02f53.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u291dgggr2vvcmdpysbby2nvdw50aw5nifnlcnzpy2vzqhnwywnlymvhcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-23 00:00:00.000000",
+    "disclosedDate": "2025-02-25 14:43:47.932930"
+  }
+}

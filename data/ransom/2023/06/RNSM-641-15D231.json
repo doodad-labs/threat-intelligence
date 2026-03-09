@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-15D231",
+  "type": "ransomware-incident",
+  "title": "BRAULT.US ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BRAULT.US",
+    "domain": "brault.us",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Brault - End-to-End RCM & Practice Management",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/39119014c07a5b669da61833577407ae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qljbvuxullvtqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-15 21:08:42.202920",
+    "disclosedDate": "2023-06-15 21:08:42.202994"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-191729",
+  "type": "ransomware-incident",
+  "title": "albertaindustrialcontrols.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "albertaindustrialcontrols.com",
+    "domain": "albertaindustrialcontrols.com",
+    "country": "CA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Alberta Industrial Controls & Drives Inc., based in Edmonton, Alberta, is a reputable distributor of industrial electronic controls and motors …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bbb460d14baf1a663175c0d71fa4f603.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxizxj0ywluzhvzdhjpywxjb250cm9scy5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-27 00:00:00.000000",
+    "disclosedDate": "2025-08-19 10:13:40.032027"
+  }
+}

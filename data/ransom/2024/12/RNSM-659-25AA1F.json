@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-659-25AA1F",
+  "type": "ransomware-incident",
+  "title": "Pinger - USA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pinger - USA",
+    "domain": "pinger.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hellcat",
+    "name": "hellcat",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 111000000000,
+    "description": "We have successfully breached Pinger, obtaining 111 GB of sensitive data. This includes over 9 million user records, private messages, voice messages, internal tools such as phone number lookup and notification sender, backend systems, and source codes. Since the ransom was not paid, all the data has been publicly released.",
+    "claimed_data_types": [
+      "phone-numbers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugluz2vyic0gvvnbqghlbgxjyxq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-25 13:10:36.929007",
+    "disclosedDate": "2024-12-25 13:10:38.046276"
+  }
+}

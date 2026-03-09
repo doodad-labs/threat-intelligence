@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-1963BC",
+  "type": "ransomware-incident",
+  "title": "Lindermayr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lindermayr",
+    "domain": "lindermayr-bau.de",
+    "country": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 4000000000,
+    "description": "Quality awareness, reliability and technical innovation have char acterized the Lindermayr company for more than 50 years. They ope rate in the independent business areas of building construction,  civil engineering, transportation, prefabrication, gravel works a nd haulage services guarantees you comprehensive solutions from a n expert source. 4GB of their internal data will go public soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgluzgvybwf5ckbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-19 14:48:11.798236",
+    "disclosedDate": "2024-06-19 14:48:12.769696"
+  }
+}

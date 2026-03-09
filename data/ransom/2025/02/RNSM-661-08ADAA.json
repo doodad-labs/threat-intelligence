@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-08ADAA",
+  "type": "ransomware-incident",
+  "title": "cmr24.by ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cmr24.by",
+    "domain": "cmr24.by",
+    "country": "BY"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000,
+    "description": "Data Size: 5GB, Status: Leaked, Data Type: Account statements and payment checks A list of delinquent customers with their data,  Includes invoices, operational reports, and logistical document",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y21ymjquynlac3rvcm1vdxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-08 01:08:42.738501",
+    "disclosedDate": "2025-02-08 01:08:44.909864"
+  }
+}

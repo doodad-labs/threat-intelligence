@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-259114",
+  "type": "ransomware-incident",
+  "title": "Nicholsons Solicitors ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nicholsons Solicitors",
+    "domain": "nicholsonslaw.com",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Nicholsons Solicitors is a leading mid-tier law firm with offices in Brisbanes CBD and in Noosa. Their strong foundations in property law, commercial law and litigation have helped shape the legal landscape in Queensland for more than a century.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8ad5d7dbc07621a11aa650a486ad7ae0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmljag9sc29ucybtb2xpy2l0b3jzqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-24 16:08:18.687000",
+    "disclosedDate": "2024-11-25 06:41:06.892594"
+  }
+}

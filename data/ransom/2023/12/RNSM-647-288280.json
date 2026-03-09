@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-288280",
+  "type": "ransomware-incident",
+  "title": "pbssystems.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pbssystems.com",
+    "domain": "pbssystems.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1: https://***************.onion/PBS/PROOF",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9c22944949e6a4bfb6d99a6061bc1b1e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgjzc3lzdgvtcy5jb21ay2fjdhvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-08 00:00:00.000000",
+    "disclosedDate": "2023-12-28 16:08:43.619527"
+  }
+}

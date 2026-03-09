@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-066E76",
+  "type": "ransomware-incident",
+  "title": "Sun Direct ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sun Direct",
+    "domain": "sundirect.in",
+    "country": "IN",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sun Direct is a leading provider of direct-to-home (DTH) television services in India. The company offers a wide range of television channels and packages tailored to meet the diverse entertainment needs of its customers. With a focus on delivering high-quality content and innovative technology, Sun Direct aims to provide seamless viewing experiences. Its intended clients include residential households and businesses looking for reliable satellite television solutions.company is headquartered in 73 Mrc Nagar Main Rd, Avadi, Tamil Nadu, India.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4f4ab32225a7b986c173a097c681f2ae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vuierpcmvjdebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-13 20:52:42.000000",
+    "disclosedDate": "2025-07-06 10:39:24.563745"
+  }
+}

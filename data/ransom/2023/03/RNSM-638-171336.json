@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-171336",
+  "type": "ransomware-incident",
+  "title": "perfectplacement.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "perfectplacement.co.uk",
+    "domain": "perfectplacement.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "recruitment agency",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c42a481af39a24d5fc353d08b3952433.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgvyzmvjdhbsywnlbwvudc5jby51a0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-16 09:12:00.000000",
+    "disclosedDate": "2023-03-17 11:09:49.858828"
+  }
+}

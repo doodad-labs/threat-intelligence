@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-662-038290",
+  "type": "ransomware-incident",
+  "title": "Utsunomiya Central Clinic ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Utsunomiya Central Clinic",
+    "domain": "ucc.or.jp",
+    "country": "JP",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Utsunomiya Central Clinic (UCC) is a cancer treatment clinic in Japan founded by Toshihiko Sato that offers diagnostic imaging and breast cancer screening. The clinic offers advanced diagnostic imaging services, including 3T-MRI, PET-CT,             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d42d5621bc6d8c48f707cae6fcd94253.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vxrzdw5vbwl5ysbdzw50cmfsiensaw5py0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "http://ucc.or.jp/2025/02/17259",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-26 00:00:00.000000",
+    "disclosedDate": "2025-03-03 15:05:15.024336"
+  }
+}

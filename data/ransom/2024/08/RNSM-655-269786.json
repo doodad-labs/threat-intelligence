@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-269786",
+  "type": "ransomware-incident",
+  "title": "widex.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "widex.com",
+    "domain": "widex.com",
+    "country": "DK",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Widex is a global hearing aid manufacturer known for its innovative technology and high-quality products. Founded in Denmark in 1956, the company focuses on delivering natural sound and advanced hearing solutions. Widex emphasizes user-friendly designs and cutting-edge digital sound processing. The company is part of WS Audiology, serving users in over 100 countries with a commitment to improving hearing health.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9e8415ecbcab53b71da5a825536c36bc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2lkzxguy29tqgjsywnrc3vpda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-26 14:37:17.509748",
+    "disclosedDate": "2024-08-26 14:37:19.683944"
+  }
+}

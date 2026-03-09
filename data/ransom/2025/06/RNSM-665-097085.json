@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-665-097085",
+  "type": "ransomware-incident",
+  "title": "NyN ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NyN",
+    "domain": "grupnn.com",
+    "country": "ES",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "NyN is a real estate developer in Barcelona and provinces.We are going to upload about 30 GB of corporate data. Lots of financial data of almost all of their hotels and other divisions, internal correspondence, a bit of personal files of employees, lotsof contracts and agreements, clients data, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tnloqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-28 00:00:00.000000",
+    "disclosedDate": "2025-06-09 15:16:02.111209"
+  }
+}

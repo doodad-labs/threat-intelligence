@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-017ABF",
+  "type": "ransomware-incident",
+  "title": "Peñoles ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Peñoles",
+    "country": "MX",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "Peñoles is a mining group with integrated operations in smelting  and refining non-ferrous metals and the production of chemicals.  Over 30Gb of data will be released soon. Lots of employee persona l documents and certificates, contracts and agreements, detailed  financial data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugxdsw9szxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-01 13:39:51.040387",
+    "disclosedDate": "2024-08-01 13:39:51.956753"
+  }
+}

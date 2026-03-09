@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-1108A0",
+  "type": "ransomware-incident",
+  "title": "BAM.COM.GT ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BAM.COM.GT",
+    "domain": "bam.com.gt",
+    "country": "GT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Banco Agromercantil de Guatemala, S.A. - BAM",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9d02ecc00ae5f2f4dac8ca8a2a7cf4a9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkfnlknpts5hvebjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-11 17:59:31.224668",
+    "disclosedDate": "2023-07-11 17:59:31.224688"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-277A03",
+  "type": "ransomware-incident",
+  "title": "www.tokiwa-group.co.jp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.tokiwa-group.co.jp",
+    "domain": "tokiwa-group.co.jp",
+    "country": "JP",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tokiwa Group is a Japanese company that specializes in the production and distribution of cosmetics. Established in 1948, the company is renowned for its innovation in cosmetic packaging, formulations, and applicators. With a strong focus on quality and customer satisfaction, Tokiwa Group collaborates with various global beauty brands to deliver high-performance cosmetic solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8db5b0f1ead54c3958d42af177aa6595.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnrva2l3ys1ncm91cc5jby5qcebyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-30 00:00:00.000000",
+    "disclosedDate": "2024-09-27 00:17:05.270928"
+  }
+}

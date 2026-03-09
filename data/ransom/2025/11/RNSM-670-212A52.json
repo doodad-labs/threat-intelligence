@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-212A52",
+  "type": "ransomware-incident",
+  "title": "Colliers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Colliers",
+    "domain": "zoominfo.com",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Stock Symbol CIGI Revenue $5.2 Billion colliers.com https://www.zoominfo.com/c/colliers-international-group-inc/12042840 Colliers International Group Inc. provides commercial real estate services to corporations, financial institutions, governments, and individuals worldwide. The companys Sales and Lease Brokerage division offers transaction brokerage services, including landlord representation, tenant representation, and capital markets and investment services, as well as property management, leasing, and valuations. This division provides its services for various asset classes, including office, industrial, retail, multi-family, hotel, and mixed-use properties. Its Outsourcing & Advisory Services division offers portfolio management, transaction and project management, workplace solutions, strategic consulting, property and asset management, and other corporate real estate services, as well as lease administration and facilities management systems; and valuation and appraisal review and management, portfolio or single asset valuation, arbitration and consulting, various studies, tax appeals etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29sbgllcnnadghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 00:00:00.000000",
+    "disclosedDate": "2025-11-21 20:18:56.197751"
+  }
+}

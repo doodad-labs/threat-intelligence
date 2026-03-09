@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-0137DF",
+  "type": "ransomware-incident",
+  "title": "myisp.live ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "myisp.live",
+    "domain": "myisp.live",
+    "country": "LB",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Myisp.live is a technology company that specializes in information technology services especially related to internet service provision. They offer varied connectivity options to cater for both individual and business needs. Notably, their services include broadband, dial-up, and wireless internet. The company is recognized for its customer-centric approach, offering reliable, fast, and efficient internet services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/90431827bdf8146a75332ffd016dee5e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bxlpc3aubgl2zubmdw5rc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-01 21:46:22.362632",
+    "disclosedDate": "2025-02-01 21:46:22.362632"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "RNSM-670-19989A",
+  "type": "ransomware-incident",
+  "title": "FSGROUP-Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FSGROUP-Engineering",
+    "country": ""
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Leakage of customer contact details.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rlnhuk9vuc1fbmdpbmvlcmluz0bhbnviaxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-19 01:27:16.683004",
+    "disclosedDate": "2025-11-19 01:28:20.703255"
+  }
+}

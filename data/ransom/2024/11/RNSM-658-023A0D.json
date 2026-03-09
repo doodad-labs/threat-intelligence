@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-023A0D",
+  "type": "ransomware-incident",
+  "title": "SVP Worldwide ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SVP Worldwide",
+    "domain": "svpworldwide.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SVP Worldwide, founded in 2004 and headquartered in Lavergne, Tennessee, designs, manufactures, and distributes sewing, quilting",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4b3e9e378a0cb876811dbeccb0615657.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1zqifdvcmxkd2lkzubibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-02 14:07:39.415814",
+    "disclosedDate": "2024-11-02 14:07:40.558949"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-034171",
+  "type": "ransomware-incident",
+  "title": "Jefferson County Health Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jefferson County Health Center",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "karakurt",
+    "name": "karakurt",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1100000000000,
+    "description": "Jefferson County Hospital, Waurika, Oklahoma, is a 25-bed critical access facility providing medical services to residents of Jefferson County and surrounding communities. 1.1 TB from the medical facility: medical records, test results, and personal information of employees and patients. Accounting and financial information is abundant. This data will be uploaded during upcoming summer release.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a1732fa2bc54b60866b2ebc94eb3954a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smvmzmvyc29uienvdw50esbizwfsdgggq2vudgvyqgthcmfrdxj0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-03 16:01:40.594070",
+    "disclosedDate": "2023-07-03 16:01:40.594099"
+  }
+}

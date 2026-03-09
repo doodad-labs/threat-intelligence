@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-658-189622",
+  "type": "ransomware-incident",
+  "title": "BUROTEC S.A. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BUROTEC S.A.",
+    "domain": "burotec.biz",
+    "country": "LU"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] BUROTEC S.A. is a company specializing in engineering and consulting services. It offers expertise in areas such as environmental consulting, quality management, and technical assessments. Known for its commitment to sustainability and innovation, BUROTEC provides tailored solutions to meet the specific needs of its clients across diverse industries, ensuring compliance and enhancing operational efficiency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qlvst1rfqybtlkeuqevsrg9yywrv",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:04:07.846970",
+    "disclosedDate": "2024-11-18 21:04:10.214690"
+  }
+}

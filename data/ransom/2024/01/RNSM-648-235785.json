@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-648-235785",
+  "type": "ransomware-incident",
+  "title": "Cryopak ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cryopak",
+    "domain": "cryopak.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cryopak, a subsidiary of Integreon Global (formerly known as TCP Reliable), is a cold chain solutions provider for the pharmaceutical, life sciences, biotech, and food industries. We are preparing a few archives with their data for uploading. You can expect itsoon. There will be a lot of passports, driver licenses, NDAs, confidential agreements etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q3j5b3bha0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-23 22:22:47.667377",
+    "disclosedDate": "2024-01-23 22:22:47.725647"
+  }
+}

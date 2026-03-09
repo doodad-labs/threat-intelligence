@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-658-094C15",
+  "type": "ransomware-incident",
+  "title": "Karman Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Karman Inc",
+    "domain": "karmaninc.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "meow",
+    "name": "meow",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 148000000000,
+    "description": "<p>Dear customers!<br>We are pleased to offer exclusive access to over 148 GB of confidential data from Karman Inc., a company renowned for designing, manufacturing, and distributing high quality Western apparel and footwear under iconic brands such as Roper Apparel Footwear, Stetson Apparel Boots, and Tin Haul. With a product range covering tops, bottoms, outerwear, shoes, and boots for men, women, and children, Karman Inc. has established itself as a leader in the Western apparel industry. The company is headquartered at 14100 E. 35th Place, Suite 100, Aurora, CO 80011.<br>This comprehensive data pack includes:<br>Employee data personal identification documents, passports, drivers licenses, property insurance, fiduciary responsibility policies<br>Client information contact details, purchase records<br>Contracts and commercial agreements business contracts, service agreements<br>Financial and accounting documents invoices, bank and financial statements, payment slips<br>Licenses and permits manufacturing, import export licenses<br>Tax documentation corporate tax returns, tax forms<br>Shareholder and management documents share information, asset management records<br>Confidential business correspondence<br>Medical records health screenings, medical service documents<br>And much more<br>These records provide invaluable insights into Karman Inc.s operations, making this data pack especially relevant for professionals in apparel, business analysis, finance, and other fields.<br>To gain access to this exclusive 148 GB data pack, simply click the Buy button and provide your contact details for registration. Our team will guide you through a secure and confidential transaction.<br>Dont miss this opportunity to access in depth information from Karman Inc. with this exclusive data pack!</p>",
+    "claimed_data_types": [
+      "passport-numbers",
+      "employee-records"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7ff660dc4ed4cf132f42e2480c000924.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fybwfuieluy0btzw93",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-09 11:34:51.132000",
+    "disclosedDate": "2024-11-09 12:19:43.053537"
+  }
+}

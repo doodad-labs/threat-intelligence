@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-216B84",
+  "type": "ransomware-incident",
+  "title": "HM Environmental Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HM Environmental Services",
+    "domain": "hmenvironmental.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Days06Hours11119999Minutes22227777Seconds11115555www.hmenvironmental.comHM Environmental Services, Inc. is a full-service, environmental, r…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/192abd540ba043585ff1e6d4a1116de5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/se0grw52axjvbm1lbnrhbcbtzxj2awnlc0bhcmn1c21lzglh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-20 23:31:19.000000",
+    "disclosedDate": "2024-11-21 00:38:39.430229"
+  }
+}

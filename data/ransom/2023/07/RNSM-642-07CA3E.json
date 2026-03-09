@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-07CA3E",
+  "type": "ransomware-incident",
+  "title": "AMERICANNATIONAL.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AMERICANNATIONAL.COM",
+    "domain": "americannational.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "American National Insurance",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/360b0e57e737f67d1d5524e1a0233e90.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qu1fukldqu5oqvrjt05btc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-07 16:24:30.444812",
+    "disclosedDate": "2023-07-07 16:24:30.444867"
+  }
+}

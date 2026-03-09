@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-16F674",
+  "type": "ransomware-incident",
+  "title": "helixtools.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "helixtools.co.uk",
+    "domain": "helixtools.co.uk",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Helix Tools provides high-quality tooling solutions for the engineering industry. Located in the UK, the company specializes in offering a wide range of tools including, but not limited to, drill bits, end mills, threading tools, and milling tools. They pride themselves on their comprehensive selection, exceptional customer service, and competitive pricing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agvsaxh0b29scy5jby51a0bzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-19 00:00:00.000000",
+    "disclosedDate": "2025-04-16 23:27:51.077065"
+  }
+}

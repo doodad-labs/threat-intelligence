@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-651-1909B7",
+  "type": "ransomware-incident",
+  "title": "norcorp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "norcorp.com",
+    "domain": "norcorp.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1908, Northern Engraving Corporation is a leading supplier of nameplates and decorative trim to a variety of markets. Value-added services include in-house Design, Engineering, Program Management.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0a050d48c828e02b9ee7da95cd90ba2b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bm9yy29ycc5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-15 15:05:00.000000",
+    "disclosedDate": "2024-04-19 10:39:15.661762"
+  }
+}

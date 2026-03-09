@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-159D45",
+  "type": "ransomware-incident",
+  "title": "spg.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "spg.net",
+    "domain": "spg.net",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The full leak will be published soon, unless a company representative contacts us via the channels provided. SPG Construction LLC specializes in heavy industrial construction and process systems for capital-intensive projects across the Unite            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/660f58d24d6ecb0868bb12cb9784a59d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3bnlm5ldebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-14 00:00:00.000000",
+    "disclosedDate": "2025-06-15 17:40:09.733887"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-2419D1",
+  "type": "ransomware-incident",
+  "title": "tiger.jp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tiger.jp",
+    "domain": "tiger.jp",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tiger Corporation (lit= Tiger Vacuum Flask [Magic-jar] Corporation) is a Japanese manufacturer that applies vacuum insulation and heat control technology to consumer electronic appliances. Their headquarters are located in Kadoma City in Osaka, Japan",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5a52610f5a8eceeee85cdca963374c0e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dglnzxiuanbabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-24 06:15:00.000000",
+    "disclosedDate": "2023-04-24 06:48:13.781627"
+  }
+}

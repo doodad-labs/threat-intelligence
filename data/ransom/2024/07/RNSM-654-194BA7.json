@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-654-194BA7",
+  "type": "ransomware-incident",
+  "title": "assih.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "assih.com",
+    "country": "EG",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Alameda Healthcare is a corporate entity operating in the healthcare field aiming to lead the private health care sectors in Egypt, MENA Region, East Europe, and East Asia into new frontiers building on Alameda’s vast experience and reputation",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ac6fd48b663faffa2a3466c5253417f4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxnzawguy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-17 18:28:00.000000",
+    "disclosedDate": "2024-07-19 09:27:42.287534"
+  }
+}

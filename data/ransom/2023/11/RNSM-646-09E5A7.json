@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-09E5A7",
+  "type": "ransomware-incident",
+  "title": "Action Santé Travail ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Action Santé Travail",
+    "domain": "actionsantetravail.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Action Santé Travail has a multidisciplinary team coordinated by your occupational physician to meet your needs. Their goals:  to reduce the professional risks linked to yo...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/145ce7291077d932c6691e307160ae7f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwn0aw9uifnhbntdqsbucmf2ywlsqg5vzxnjyxbl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-29 00:00:00.000000",
+    "disclosedDate": "2023-11-09 22:11:43.158925"
+  }
+}

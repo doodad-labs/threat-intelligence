@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-672-123662",
+  "type": "ransomware-incident",
+  "title": "sealbeachca.gov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sealbeachca.gov",
+    "domain": "sealbeachca.gov",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "Datatheft 300gb of data stollen includes gov documents, deeds and much more",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc654c1e2d252ab393a435186dfc3205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vhbgjlywnoy2euz292qgrldm1hbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-11 00:00:00.000000",
+    "disclosedDate": "2026-01-12 18:57:25.729574"
+  }
+}

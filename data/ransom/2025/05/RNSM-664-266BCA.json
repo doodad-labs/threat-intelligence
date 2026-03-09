@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-266BCA",
+  "type": "ransomware-incident",
+  "title": "ozarkah2o.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ozarkah2o.com",
+    "domain": "ozarkah2o.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Ozarkah2o.com\" is the official website for Ozarka, a Texas-based company that specializes in providing bottled spring water sourced from three natural springs in Texas, USA. They also provide a home and office delivery service. Their product range includes various sizes of bottled water and refreshing flavored water. Excelled in maintaining purity, hydration, and tradition, the company emphasizes sustainable bottling practices.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0a52d2c0726e90c0f3930b8eedb02e90.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b3phcmthadjvlmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-30 00:00:00.000000",
+    "disclosedDate": "2025-05-26 20:50:17.648380"
+  }
+}

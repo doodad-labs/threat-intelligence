@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-636-302977",
+  "type": "ransomware-incident",
+  "title": "cplindustries.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cplindustries.co.uk",
+    "domain": "cplindustries.co.uk",
+    "country": "ES",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CPL Industries continues Ecoke® biofuel deliveries to Liberty Steel UK; CPL Industries delivers Ecoke® biofuel to Sidenor Special Steels, Spain; CPL Products Launches New Alternative Fuels for the Heritage Sector; CPL Industries Begins Phase Two of W...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3bsaw5kdxn0cmllcy5jby51a0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-30 05:36:05.487535",
+    "disclosedDate": "2023-01-30 05:36:05.487535"
+  }
+}

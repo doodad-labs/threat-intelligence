@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-24A8B8",
+  "type": "ransomware-incident",
+  "title": "CROWNRESORT.COM.AU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CROWNRESORT.COM.AU",
+    "domain": "crownresort.com.au",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/50ed7101f8a4a8d9526205b4fab6248f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1jpv05srvnpulquq09nlkfvqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-24 11:07:06.647796",
+    "disclosedDate": "2023-03-24 11:07:06.647812"
+  }
+}

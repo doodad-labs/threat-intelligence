@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-05DA14",
+  "type": "ransomware-incident",
+  "title": "cbt-gmbh.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cbt-gmbh.de",
+    "domain": "cbt-gmbh.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CBT GmbH is a German-based company specializing in IT consulting and services. They offer a wide range of solutions including software development, system integration, and IT infrastructure management. With a focus on innovative technologies, CBT GmbH aims to enhance business processes and efficiency for their clients. Their expertise spans various industries, ensuring tailored and effective IT strategies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f708e19e8c182f882398d03f146f335d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2j0lwdtymguzgvacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-01 00:00:00.000000",
+    "disclosedDate": "2024-09-05 20:04:00.871105"
+  }
+}

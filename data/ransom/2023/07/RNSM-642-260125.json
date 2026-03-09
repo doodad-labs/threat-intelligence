@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-260125",
+  "type": "ransomware-incident",
+  "title": "Events DC | eventsdccom ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Events DC | eventsdccom",
+    "domain": "eventsdc.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Events DC is the premier host of conventions, entertainment, sporting and cultural events in the nation’s capital.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2f295690f70e720bbaf207af3773fa6d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxzlbnrzierdihwgzxzlbnrzzgnjb21aywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-10-14 15:00:50.000000",
+    "disclosedDate": "2023-07-26 16:40:23.688509"
+  }
+}

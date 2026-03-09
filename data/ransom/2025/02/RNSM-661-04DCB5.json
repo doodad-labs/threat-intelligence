@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-04DCB5",
+  "type": "ransomware-incident",
+  "title": "SSMC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SSMC",
+    "domain": "southeasternsurveying.com",
+    "country": "SG",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1158000000000,
+    "description": "Status: 9d 21h 11m 34s - Size Data: 1.158 TB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f31caef9f6eb1157ad22f537c1c3de44.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1nnq0bjawnhzgezmzax",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-04 01:47:44.078918",
+    "disclosedDate": "2025-02-04 01:49:13.564857"
+  }
+}

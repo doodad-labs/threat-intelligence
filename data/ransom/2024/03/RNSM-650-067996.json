@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-650-067996",
+  "type": "ransomware-incident",
+  "title": "Telecentro ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Telecentro",
+    "domain": "telecentro.com.ar",
+    "country": "AR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "TeleCentro introduced Triple Play in Argentina, and has grown to become the leader in this segment in the country. 40GB of data will be released soon. Many operational files, HR documents with employees personal information, financials and everything.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvszwnlbnryb0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-06 14:43:34.166139",
+    "disclosedDate": "2024-03-06 14:43:34.234309"
+  }
+}

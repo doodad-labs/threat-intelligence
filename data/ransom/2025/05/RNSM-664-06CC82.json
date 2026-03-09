@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-06CC82",
+  "type": "ransomware-incident",
+  "title": "gslelectric.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gslelectric.com",
+    "domain": "gslelectric.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 16.05.2025. GSL Electric Inc. performs a wide range of projects for public and private clients, including commercial, industrial, institutional, manufacturing, utility, transmission l            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3b7d858b66172cc3df44fe9e9b96bdc5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3nszwxly3ryawmuy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-13 11:34:00.000000",
+    "disclosedDate": "2025-05-06 22:26:29.018517"
+  }
+}

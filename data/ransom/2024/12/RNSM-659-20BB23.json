@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-659-20BB23",
+  "type": "ransomware-incident",
+  "title": "Genie Healthcare ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Genie Healthcare",
+    "domain": "geniehealthcare.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Database including the entire history of employee records and personal data!More than 4,400 personal IDs.Total amount of stolen data : 110GBhttps://geniehealthcare.com/Company representative should follow the instructions to contact us before time runs out",
+    "claimed_data_types": [
+      "employee-records",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/769c47a6957e70760f7085897fa1b024.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2vuawugsgvhbhroy2fyzubldmvyzxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-20 19:43:37.417577",
+    "disclosedDate": "2024-12-20 19:43:38.056382"
+  }
+}

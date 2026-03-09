@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-070ED2",
+  "type": "ransomware-incident",
+  "title": "Elbers GmbH & Co. KG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Elbers GmbH & Co. KG",
+    "domain": "eurofleurs.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "metaencryptor",
+    "name": "metaencryptor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wholesale and retail trade, import and export of flowers, plants, vegetables and horticultural necessities. Revenue: $ 3 M",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwxizxjziedtykggjibdby4gs0dabwv0ywvuy3j5chrvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-07 19:52:38.703625",
+    "disclosedDate": "2024-05-07 19:52:38.703657"
+  }
+}

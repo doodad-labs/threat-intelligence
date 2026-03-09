@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-255A5E",
+  "type": "ransomware-incident",
+  "title": "ValueMax Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ValueMax Group",
+    "domain": "valuemax.com.sg",
+    "country": "SG",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PROOFS (CLIENTS ID CARDS)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3835baf8dac2224ac66563b679c868d9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmfsdwvnyxggr3jvdxbabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-16 19:50:33.872000",
+    "disclosedDate": "2024-10-25 09:12:36.839766"
+  }
+}

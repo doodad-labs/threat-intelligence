@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-657-26F80A",
+  "type": "ransomware-incident",
+  "title": "Bliss Worldwide ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bliss Worldwide",
+    "domain": "blissworldwide.in",
+    "country": "IN"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "$10000",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/739f0915663cf69d20f58da051d51241.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmxpc3mgv29ybgr3awrlqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-26 14:41:56.568442",
+    "disclosedDate": "2024-10-26 14:41:57.223989"
+  }
+}

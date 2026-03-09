@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-27ECFE",
+  "type": "ransomware-incident",
+  "title": "facilcreditos.co ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "facilcreditos.co",
+    "domain": "facilcreditos.co",
+    "country": "CO",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Facilcreditos.co is a company that specializes in providing financial solutions, focusing on facilitating access to credit for individuals and businesses. They offer a variety of loan products tailored to meet different financial needs, emphasizing quick and easy application processes. The company aims to improve financial inclusion by helping clients navigate credit options efficiently and securely.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3ae3a1b481b5bcd1049b112e03faf9aa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmfjawxjcmvkaxrvcy5jb0byyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 02:54:23.000000",
+    "disclosedDate": "2024-11-27 10:48:25.179653"
+  }
+}

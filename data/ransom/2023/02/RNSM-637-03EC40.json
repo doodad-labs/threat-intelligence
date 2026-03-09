@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-03EC40",
+  "type": "ransomware-incident",
+  "title": "crystalcreamery.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "crystalcreamery.com",
+    "domain": "crystalcreamery.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Crystal Creamery (formerly known as Foster Farms Dairy) was founded in 1901 by Max and Verda Foster in Modesto, California, after they founded Foster Farms in 1939. The company claims to be \"the largest private dairy farm in California.\"",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3j5c3rhbgnyzwftzxj5lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-03 04:03:44.872364",
+    "disclosedDate": "2023-02-03 04:03:44.872364"
+  }
+}

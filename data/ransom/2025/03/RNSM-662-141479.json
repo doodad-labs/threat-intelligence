@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-141479",
+  "type": "ransomware-incident",
+  "title": "Terralogic ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Terralogic",
+    "domain": "terralogic.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "secp0",
+    "name": "secp0",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Due to Terralogic's unwillingness to cooperate, we are publishing evidence of the breach of their network...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c953691481afae6acfa1529818199fcc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvycmfsb2dpy0bzzwnwma==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-14 07:33:54.791898",
+    "disclosedDate": "2025-03-14 07:35:02.420437"
+  }
+}

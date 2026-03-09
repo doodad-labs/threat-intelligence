@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-667-29C8D7",
+  "type": "ransomware-incident",
+  "title": "The Fredericks ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Fredericks",
+    "domain": "frederickscompany.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Fredericks Company is a leading manufacturer and innovator specializing in tilt and vacuum measurement sensors. We are going to upload company data soon. You will find financialdata (audit, payment details,financial reports, invoices), employees and customers information (emails, phones) confidential information, NDAs and other documents with detailed personal information so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghliezyzwrlcmlja3naywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-24 00:00:00.000000",
+    "disclosedDate": "2025-08-29 10:09:14.197953"
+  }
+}

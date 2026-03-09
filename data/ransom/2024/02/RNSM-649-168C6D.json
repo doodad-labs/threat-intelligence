@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-168C6D",
+  "type": "ransomware-incident",
+  "title": "spaldingssd.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "spaldingssd.com",
+    "domain": "spaldingssd.com",
+    "country": "CA",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Spalding SSD was established in Calgary in 1952 and has been providing opening solutions to Alberta and Western Canada ever since. Today, we have vast experience providing doors, frames and access control to schools, hospitals, and municipalities on...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/edc02113f107deb219592c47c0eeb74c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3bhbgrpbmdzc2quy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-16 08:24:00.000000",
+    "disclosedDate": "2024-02-16 12:06:45.197780"
+  }
+}

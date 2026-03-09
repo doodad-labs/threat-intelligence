@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-26EFA0",
+  "type": "ransomware-incident",
+  "title": "Angeles Medical Centers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Angeles Medical Centers",
+    "domain": "angelesmentalhealth.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Angeles Medical Centers, a space dedicated to emotional and psychological well-being. Our team of highly trained professionals is committed to providing compassionate support and effective solutions to enhance your mental health.  Focused on personalized care, we work together to build a path towards emotional balance and a fuller life. Your well-being is our priority. We take care of you!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/22085323d891dee05b76351ba90ce78b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw5nzwxlcybnzwrpy2fsienlbnrlcnnaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-26 18:06:24.123456",
+    "disclosedDate": "2024-02-26 19:18:22.259228"
+  }
+}

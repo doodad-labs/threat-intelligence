@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-652-0465E5",
+  "type": "ransomware-incident",
+  "title": "Mainline Health Systems (MHS.local) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mainline Health Systems (MHS.local)",
+    "domain": "mainline-health.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mainline Health Systems, Inc. mission is to provide high quality clinical services to all the people of Southeast Arkansas regardless of their ability to pay. Mainline was founded in 1978 by a group of agricultural leaders who were concerned about healthcare in their community. Mainline has grown from one clinic with one physician to a system of 6 medical clinics, 3 dental clinics and 10 school based health clinics with multiple providers located throughout Southeast Arkansas.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dbfdd6f89eaa977f1269f228ff330523.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfpbmxpbmugsgvhbhroifn5c3rlbxmgke1iuy5sb2nhbclaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/780cf6d5-bc22-4ee0-b46a-1b360475f087.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-29 15:36:22.177000",
+    "disclosedDate": "2024-05-04 08:07:21.874124"
+  }
+}

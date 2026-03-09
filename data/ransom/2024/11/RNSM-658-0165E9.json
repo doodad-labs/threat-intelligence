@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-0165E9",
+  "type": "ransomware-incident",
+  "title": "DAIKIN THAILAND ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DAIKIN THAILAND",
+    "domain": "daikinthai.com",
+    "country": "TH",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 800000000000,
+    "description": "We have 347,438 files (approx 800Gb+) with higly confidential corporate data of DAIKIN CORPORATION.One of the biggest manufacturers of Air Conditioning systems in the worldALL THAT DATA WILL BE PULISHED FULLY ON 21 OCTOBER 2024 AND ANYO            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f9248ab6c24ac886c72265cb3b413765.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/refjs0loifriqulmqu5eqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-25 00:00:00.000000",
+    "disclosedDate": "2024-11-01 03:45:35.126034"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-10A7DC",
+  "type": "ransomware-incident",
+  "title": "jtekt.eu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jtekt.eu",
+    "domain": "jtekt.eu",
+    "country": "JP",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "JTEKT Corporation manufactures and sells steering systems, transmission components, bearings, machine tools, electronic control devices, home appliances, etc. It has its headquarters in Japan and offices in Europe, North America, Asia, Oceani            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7db825c92eaedecd1002d9f05499bc0a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/anrla3quzxvacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-21 00:00:00.000000",
+    "disclosedDate": "2025-08-10 10:53:54.709590"
+  }
+}

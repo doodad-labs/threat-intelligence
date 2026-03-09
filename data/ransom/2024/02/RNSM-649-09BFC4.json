@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-09BFC4",
+  "type": "ransomware-incident",
+  "title": "northseayachtsupport.nl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "northseayachtsupport.nl",
+    "domain": "northseayachtsupport.nl",
+    "country": "NL",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The challenge for Northsea lies in the involvement from design to manufacturing. By combining modern production techniques and hand craft, Northsea: designs, develops and manufactures high-quality finished stainless steel products for luxury yacht bu...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/19de9de41d3d6241ff8b3665ec2636b7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bm9ydghzzwf5ywnodhn1chbvcnqubmxabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-09 11:18:00.000000",
+    "disclosedDate": "2024-02-09 13:12:53.170349"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-644-1417DB",
+  "type": "ransomware-incident",
+  "title": "carthagehospital.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "carthagehospital.com",
+    "domain": "carthagehospital.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Claxton-Hepburn Medical Center is a private, not-for-profit, 127-bed community hospital and regional referral center. Claxton-Hepburn includes 67 acute-care beds, a 10-bed intensive care unit, a 10-bed birthing center, a 28-bed acute adult mental hea...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/67d513da0878894c4fddd819f79e9a26.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fydghhz2vob3nwaxrhbc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.wwnytv.com/2023/09/01/carthage-claxton-hepburn-hospitals-target-cyber-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-14 10:51:00.000000",
+    "disclosedDate": "2023-09-14 11:34:14.009744"
+  }
+}

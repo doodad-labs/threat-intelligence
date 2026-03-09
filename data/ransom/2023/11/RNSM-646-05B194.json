@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-05B194",
+  "type": "ransomware-incident",
+  "title": "sansasecurity.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sansasecurity.com",
+    "domain": "sansasecurity.com",
+    "country": "IL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "sansasecurity.comIsrael",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/453995182f178a0378e955087188e652.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2fuc2fzzwn1cml0es5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-05 07:49:00.000000",
+    "disclosedDate": "2023-11-05 08:26:59.821326"
+  }
+}

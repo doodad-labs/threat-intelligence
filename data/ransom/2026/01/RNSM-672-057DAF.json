@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-057DAF",
+  "type": "ransomware-incident",
+  "title": "kiddsservices.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kiddsservices.com",
+    "domain": "kiddsservices.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kidds Restoration Services is a family-owned restoration company based in Lynchburg, VA, specializing in emergency restoration for water damage, fire damage, mold removal, and asbestos removal. With over 27 years of industry experience, they are committed to providing comprehensive restoration services to both residential and commercial clients. Their skilled technicians operate 24/7, utilizing advanced technology to ensure efficient and effective restoration projects. Additionally, they offer construction and cleaning services, making them a trusted full-service contractor in central Virginia.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7d75a473ca3898d662b670bf47c84d28.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2lkzhnzzxj2awnlcy5jb21abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 08:36:35.507000",
+    "disclosedDate": "2026-01-05 09:30:57.884434"
+  }
+}

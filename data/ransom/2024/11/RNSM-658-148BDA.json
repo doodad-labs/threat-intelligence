@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-148BDA",
+  "type": "ransomware-incident",
+  "title": "Bergeron LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bergeron LLC",
+    "domain": "bergeronltd.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 325000000000,
+    "description": "Bergeron is an automotive company. It sells new and used cars, van, truck, SUVs, sedan, coupe, and other vehicles of CHRYSLER, JEEP, RAM brands. The company also offers repair and maintenance services. 325 GB of data is available for downloading now.We have made the process of downloading company data assimple as possible for our users. All you need is any torrent client (like Vuze, Utorrent, qBittorrent or Transmission to use magnet links). You will find the torrent file above.1. Open uTorrent, or any another torrent client.2. Add torrent file or paste the magnet URL to upload the data safely.3. Archives have no password.MAGNET URL: magnet:?xt=urn:btih:3CF729AD5CF8EACAAEED6C62CA1971D0843CD53C&dn=bergeron&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=wss://wstracker.online",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvyz2vyb24gtexdqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-15 00:00:00.000000",
+    "disclosedDate": "2024-11-14 22:38:46.005896"
+  }
+}

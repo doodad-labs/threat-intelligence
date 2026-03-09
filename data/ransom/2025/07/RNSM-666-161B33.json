@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-161B33",
+  "type": "ransomware-incident",
+  "title": "hlb.ie ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hlb.ie",
+    "domain": "hlb.ie",
+    "country": "IE",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/38bf73a1cc84d1c53d230a563b08b594.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agxilmllqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-31 00:00:00.000000",
+    "disclosedDate": "2025-07-16 21:50:35.153980"
+  }
+}

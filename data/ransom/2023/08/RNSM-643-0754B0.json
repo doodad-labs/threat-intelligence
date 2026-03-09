@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-643-0754B0",
+  "type": "ransomware-incident",
+  "title": "Papel Prensa SA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Papel Prensa SA",
+    "country": "AR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 120000000000,
+    "description": "Papel Prensa SA is an Argentina-based company engaged in the manufacture of newsprint paper. Confidential contracts, agreements, personal employee information and other business docs. About 120GB. Please wait for the release.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfwzwwguhjlbnnhifnbqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-07 12:05:46.668963",
+    "disclosedDate": "2023-08-07 12:05:46.775625"
+  }
+}

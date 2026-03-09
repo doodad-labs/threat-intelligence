@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-630-148E01",
+  "type": "ransomware-incident",
+  "title": "ZEUS Scientific ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ZEUS Scientific",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "quantum",
+    "name": "quantum",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "This company provides medical testing equipment and diagnostic services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wkvvuybty2llbnrpzmljqhf1yw50dw0=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-07-14 14:36:48.187826",
+    "disclosedDate": "2022-07-14 14:36:48.187826"
+  }
+}

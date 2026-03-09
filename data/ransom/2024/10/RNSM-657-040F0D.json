@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-040F0D",
+  "type": "ransomware-incident",
+  "title": "Transtec SAS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Transtec SAS",
+    "domain": "transtec.com.co",
+    "country": "CO",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "orca",
+    "name": "orca",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Transtec SAS is a company that operates in the Commercial Printing industry.Addi...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjhbnn0zwmgu0ftqg9yy2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-04 10:42:21.724344",
+    "disclosedDate": "2024-10-04 10:42:22.251045"
+  }
+}

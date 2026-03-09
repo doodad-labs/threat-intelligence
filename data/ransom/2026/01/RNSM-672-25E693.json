@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-25E693",
+  "type": "ransomware-incident",
+  "title": "Vitosha Park Hotel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vitosha Park Hotel",
+    "country": "BG",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Employee data breach.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/de52926ba43cf34421971468b299eeda.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vml0b3noysbqyxjriehvdgvsqgfudwjpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 21:49:03.978558",
+    "disclosedDate": "2026-01-25 21:49:32.756148"
+  }
+}

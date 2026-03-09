@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-087929",
+  "type": "ransomware-incident",
+  "title": "rexmoore.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rexmoore.com",
+    "domain": "rexmoore.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1922 and headquartered in Sacramento, California, Rex Moore is a family-owned and managed company, providing electrical and integrated systems engineering, manufacturing, construction and maintenance. The company performs both design/build and bid work for most electrical and low voltage projects. - DATA will be available soon. SQL Databases + big amount of Documents.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/845b4d6f6efce8e1aaca38f7cecc8143.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmv4bw9vcmuuy29tqgvtymfyz28=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-08 14:22:00.669128",
+    "disclosedDate": "2024-05-08 22:35:21.781687"
+  }
+}

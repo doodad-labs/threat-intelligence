@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-671-010462",
+  "type": "ransomware-incident",
+  "title": "newhorizonsmedical.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "newhorizonsmedical.org",
+    "domain": "newhorizonsmedical.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 236000000000,
+    "description": "Ransom: 90k236gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/72724770524437a19c76307bb39dd1db.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmv3ag9yaxpvbnntzwrpy2fslm9yz0bkzxztyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-07 10:27:00.000000",
+    "disclosedDate": "2025-12-01 08:45:57.802363"
+  }
+}

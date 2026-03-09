@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-078B5A",
+  "type": "ransomware-incident",
+  "title": "ESS Metron ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ESS Metron",
+    "domain": "essmetron.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c09a2b5d92e7d61813b90fb7f5387564.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rvntie1ldhjvbkbwbgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 20:02:45.415015",
+    "disclosedDate": "2026-02-07 20:03:22.320791"
+  }
+}

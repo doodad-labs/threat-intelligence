@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-668-155A5E",
+  "type": "ransomware-incident",
+  "title": "Venlogistics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Venlogistics",
+    "country": "NL",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Venlogistics is a European cargo network specializing in various logistics services including groupage, forwarding, and warehousing. They cater to clients needing efficient transport solutions, particularly for hazardous materials and urgent deliveries across Europe. The company offers tailored warehousing options for both short-term and long-term needs, ensuring optimal use of transport space. With a team of experienced professionals, Venlogistics aims to streamline the shipping process for their clients by connecting them with reliable carriers and subcontractors",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmvubg9naxn0awnzqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-15 00:00:00.000000",
+    "disclosedDate": "2025-09-15 14:25:08.688949"
+  }
+}

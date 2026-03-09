@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-13B64A",
+  "type": "ransomware-incident",
+  "title": "NEW TWITTER ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NEW TWITTER",
+    "domain": "twitter.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tweets by RansomedSupport",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b53695af6eac81a30e1190b11c97b205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tkvxifrxsvrurvjacmfuc29tzwq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-13 07:58:29.596477",
+    "disclosedDate": "2023-10-13 07:58:29.596501"
+  }
+}

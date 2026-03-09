@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-655-11D71E",
+  "type": "ransomware-incident",
+  "title": "robertshvac.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "robertshvac.com",
+    "domain": "robertshvac.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 240000000000,
+    "description": "robertshvac.com 240Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm9izxj0c2h2ywmuy29tqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-11 09:12:49.093587",
+    "disclosedDate": "2024-08-11 09:12:50.028466"
+  }
+}

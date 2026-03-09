@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-646-30F114",
+  "type": "ransomware-incident",
+  "title": "Wakefield & Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wakefield & Associates",
+    "domain": "wakeassoc.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "knight",
+    "name": "knight",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 400000000000,
+    "description": "www.wakeassoc.com&nbsp;We have over 400GB of data from Wakefield and AssociatesThey refuse to come to discuss a deal with us. If you do not contact us soon all this information will be shared to their clients/partners and the world to see.proof 1.jpg 331.01 KBproof 2.jpg 59.34 KBproof 3.jpg 119.89 KBproof 4.jpg 59.26 KBproof 5.jpg 75.65 KBproof 6.jpg 78.77 KB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/daa7907b469076bee8e44b4d885c0256.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2frzwzpzwxkicygqxnzb2npyxrlc0brbmlnahq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-11-07-wakefield-associates-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-30 13:34:55.542519",
+    "disclosedDate": "2023-11-30 13:34:55.542541"
+  }
+}

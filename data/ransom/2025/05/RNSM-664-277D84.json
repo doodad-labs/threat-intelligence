@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-664-277D84",
+  "type": "ransomware-incident",
+  "title": "The Salvation Army ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Salvation Army",
+    "domain": "salvationarmy.org",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data will be released soon.The Salvation Army, established in 1865, has been offering an array of social services that range from providing food for the hungry, relief for disaster victims, assistance for the disabled, outreach to the elderly and ill, clothing and shelter to the homeless and opportunities for underprivileged children.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ae8765d104619986cb7082bafafbc797.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifnhbhzhdglvbibbcm15qgnoyw9z",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-08-27-salvation-army-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-27 21:53:04.943022",
+    "disclosedDate": "2025-05-27 21:54:09.514697"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-1372D2",
+  "type": "ransomware-incident",
+  "title": "stmarysschool.co.za ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "stmarysschool.co.za",
+    "domain": "stmarysschool.co.za",
+    "country": "ZA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "St Mary's School, Waverley, is an independent Anglican school catering for girls from Grade 0 to matric. Little Saints, its pre-primary school",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f592bd2b00ac1d8070cbe59abaeebf14.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rtyxj5c3njag9vbc5jby56yubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-13 08:19:00.000000",
+    "disclosedDate": "2023-08-13 08:56:24.689983"
+  }
+}

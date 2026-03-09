@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-046656",
+  "type": "ransomware-incident",
+  "title": "university of chile ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "university of chile",
+    "domain": "uchile.cl",
+    "country": "CL",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Universidad de Chile, located in Santiago, is the oldest and the most prestigious public university in Chile. It is recognized as one of the best universities in Latin America for its leadership and innovation in science, technology, social sciences, and arts. It was also listed among the 400 best universities in the world. Its five campuses and world-class facilities educate over 43,000 undergraduate and graduate students and offer more than 39 doctoral programs and 115 master programs. Notable alumni include Nobel laureates Pablo Neruda and Gabriela Mistral, twenty Chilean presidents and two presidents from other countries (Mexico and Ecuador)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b914e8060ced900114aeab3f41e53f82.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dw5pdmvyc2l0esbvzibjaglszubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-30 13:44:10.188000",
+    "disclosedDate": "2025-06-04 12:38:30.786637"
+  }
+}

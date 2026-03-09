@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-04CA9F",
+  "type": "ransomware-incident",
+  "title": "mcalvain.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mcalvain.com",
+    "domain": "mcalvain.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/MCO/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/MCO/PROOF/DATA DESCRIPTIONS: Сonfidential personal identification data, private information, financial data, construction projects, agreements, drawings, corporate correspondence, accounting, operational data, top managers and key employees' personal folders and much more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7b15764071c4ae12ba83803339da632b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwnhbhzhaw4uy29tqgnhy3r1cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-27 00:00:00.000000",
+    "disclosedDate": "2024-04-04 13:28:31.118505"
+  }
+}

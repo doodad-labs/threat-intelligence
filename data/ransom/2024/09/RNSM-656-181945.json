@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-656-181945",
+  "type": "ransomware-incident",
+  "title": "globe.com.bd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "globe.com.bd",
+    "domain": "globe.com.bd",
+    "country": "BD",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "valencialeaks",
+    "name": "ValenciaLeaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000,
+    "description": "Data Exfiltrated : 200MB - Leak Date : 21.08.2024:00:01",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ed7ca13f1c74ae9f1e30aa35f5a8b9d2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2xvymuuy29tlmjkqfzhbgvuy2lhtgvha3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-18 09:47:15.296021",
+    "disclosedDate": "2024-09-18 09:47:16.136675"
+  }
+}

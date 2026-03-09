@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-023B52",
+  "type": "ransomware-incident",
+  "title": "Keystone Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Keystone Engineering",
+    "domain": "keystoneeng.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Keystone is a family business with over 65 years of proven manufacturing and composite material fabrication experience in the oilfield industry.Since 1950 Keystone Engineering Company has maintained a proven reputation for reliable products in the oilfield industry. Product experience includes the manufacture and production of formation measurement instrument assemblies for wireline, MWD, and LWD; and the manufacture and production of high-temperature, 400° F (204° C), composite bridge plugs. -drawings-financial documents-personal information of employees-quickbook backups http://keystoneeng.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/755b5e53219746fe0486045375a158f1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2v5c3rvbmugrw5naw5lzxjpbmdac3bhy2vizwfycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-20 00:00:00.000000",
+    "disclosedDate": "2024-08-02 15:41:41.745173"
+  }
+}

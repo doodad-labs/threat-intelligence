@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-662-0130BC",
+  "type": "ransomware-incident",
+  "title": "Wayne County, Michigan ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wayne County, Michigan",
+    "domain": "waynecounty.com",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wayne County is located in the state of Michigan, United States. We offer you more than 130 SQL databases . A large collection of confidential criminal investigation files, personal data of residents.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4a057f05055a956493ed1fe32758ea29.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2f5bmugq291bnr5lcbnawnoawdhbkbpbnrlcmxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.wxyz.com/news/local-news/investigations/cyberattack-hits-wayne-county-government-services-affected-as-hacker-demands-ransom",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-01 18:26:49.908088",
+    "disclosedDate": "2025-03-01 18:27:53.297632"
+  }
+}

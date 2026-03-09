@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-19C987",
+  "type": "ransomware-incident",
+  "title": "Leech Lake Gaming ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Leech Lake Gaming",
+    "domain": "leechlakegaming.com",
+    "country": "",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Leech Lake Gaming is located on the Leech Lake Reservation in Minnesota. They currently operate three casinos throughout the great state of Minnesota - Northern Lights Casino, Palace Casino, and White Oak Casinno.  If the company does not contact us, the data will be published!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dc10d8358a57da219f6b33db95bf739a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvly2ggtgfrzsbhyw1pbmday2ljywrhmzmwmq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-19 00:00:00.000000",
+    "disclosedDate": "2024-07-19 14:03:24.811640"
+  }
+}

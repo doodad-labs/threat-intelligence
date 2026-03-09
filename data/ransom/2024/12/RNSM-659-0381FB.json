@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-0381FB",
+  "type": "ransomware-incident",
+  "title": "Goodwill North Central Texas ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Goodwill North Central Texas",
+    "domain": "enjoy.founded",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Goodwill North Central Texas You'll find a lot of personal employee information here, SQL databases with clients payment information. Enjoy.Founded by Methodist Minister Edgar J. Helms in 1902, Goodwill gave people with disabilities and other social barriers the opportunity to find meaningful work. From the beginning, Goodwill's mission has promoted job creation for the disenfranchised.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r29vzhdpbgwgtm9ydgggq2vudhjhbcbuzxhhc0byahlzawrh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-03 10:26:39.202333",
+    "disclosedDate": "2024-12-03 10:26:40.689767"
+  }
+}

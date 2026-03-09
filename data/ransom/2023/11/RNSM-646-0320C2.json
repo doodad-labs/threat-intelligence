@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-0320C2",
+  "type": "ransomware-incident",
+  "title": "Livability ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Livability",
+    "domain": "livability.org.uk",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Livability is the charity that’s committed to enabling people with disabilities to live the life they want to lead. We work to change what is unlivable, helping people to tackle the barriers they...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ad32621dde99be4faf2fb84fabfa2a1d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgl2ywjpbgl0eubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-03 19:01:26.508195",
+    "disclosedDate": "2023-11-03 19:01:26.644533"
+  }
+}

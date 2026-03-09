@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-670-151368",
+  "type": "ransomware-incident",
+  "title": "Force Brokerage ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Force Brokerage",
+    "domain": "forcebrokerage.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Price ??? Disclosures 0/1",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rm9yy2ugqnjva2vyywdlqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-15 12:02:34.306999",
+    "disclosedDate": "2025-11-15 12:02:35.279246"
+  }
+}

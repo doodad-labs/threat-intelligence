@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-18AA38",
+  "type": "ransomware-incident",
+  "title": "Sensical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sensical",
+    "domain": "sensical.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 90000000000,
+    "description": "Status: 20d 19h 46m 57s - Size Data: 90 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e8127eb7a5157999b7427a2e9090d510.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vuc2ljywxay2ljywrhmzmwmq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-18 00:00:00.000000",
+    "disclosedDate": "2025-07-18 14:43:42.067121"
+  }
+}

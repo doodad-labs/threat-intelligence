@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-262EF7",
+  "type": "ransomware-incident",
+  "title": "La Maison Liégeoise ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "La Maison Liégeoise",
+    "domain": "maisonliegeoise.be",
+    "country": "BE",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "datacarry",
+    "name": "datacarry",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"La Maison Liégeoise\" is a Belgian company that sells Carlina tapioca, an original product from Belgium. The company stands out for its regional, quality product, which it sources, packages and markets meticulously. They specialize in Carlina tapioca, a product known for its fine and soft grains.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgegtwfpc29uiexpw6lnzw9pc2vazgf0ywnhcnj5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.sudinfo.be/id999051/article/2025-05-20/la-maison-liegeoise-qui-soccupe-des-logements-sociaux-victime-dune-attaque",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-26 17:41:05.993879",
+    "disclosedDate": "2025-05-26 17:41:09.239553"
+  }
+}

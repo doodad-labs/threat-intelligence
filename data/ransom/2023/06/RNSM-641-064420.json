@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-064420",
+  "type": "ransomware-incident",
+  "title": "pittsburg.k12.ca.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pittsburg.k12.ca.us",
+    "domain": "pittsburg.k12.ca.us",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pittsburg Unified School District is a public school district based in Contra Costa County, California, United States.usd250.k12.ks.us\\sql_admin:PeekABoo",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4f648a52b8722a90ffb8b673b70cf8f3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgl0dhnidxjnlmsxmi5jys51c0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-06 20:42:00.000000",
+    "disclosedDate": "2023-06-06 21:53:30.081128"
+  }
+}

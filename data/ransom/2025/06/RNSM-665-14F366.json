@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-14F366",
+  "type": "ransomware-incident",
+  "title": "StudentKare ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "StudentKare",
+    "domain": "studentkare.com",
+    "country": "IN",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9c4a4cac9dad2a47edb544bffd77c7d0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3r1zgvudethcmvaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-14 01:18:53.554134",
+    "disclosedDate": "2025-06-14 01:19:58.559051"
+  }
+}

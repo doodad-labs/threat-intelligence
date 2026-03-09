@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-664-29F8BE",
+  "type": "ransomware-incident",
+  "title": "McKenzie Commercial Contractors ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "McKenzie Commercial Contractors",
+    "domain": "mckenziecommercial.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 42000000000,
+    "description": "McKenzie Commercial delivers high-quality, cost-effective commercial construction services, while fostering a supportive work environment for employees who provide exceptional workmanship.We are going to upload about 42 GB of corporate data. Employee personal information (DOB, passports, addresses, phones, emails, and so on), financial data, client data, lots of project data, contracts and agreements, confidential documents, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twnlzw56awugq29tbwvyy2lhbcbdb250cmfjdg9yc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-12 00:00:00.000000",
+    "disclosedDate": "2025-05-29 16:41:13.163783"
+  }
+}

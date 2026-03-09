@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-117C38",
+  "type": "ransomware-incident",
+  "title": "lankacom.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lankacom.net",
+    "domain": "lankacom.net",
+    "country": "LK",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LankaCom is a Sri Lanka–based telecommunications company. Founded in 1991, it is a subsidiary of Singtel and was the first company granted a Communication Operator License in the country.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/27a2747bca71f3a41516169172b6abbe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgfua2fjb20ubmv0qgrhcmt2yxvsda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-14 00:00:00.000000",
+    "disclosedDate": "2024-04-11 19:12:58.510096"
+  }
+}

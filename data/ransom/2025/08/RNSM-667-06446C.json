@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-667-06446C",
+  "type": "ransomware-incident",
+  "title": "MGM Transformer ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MGM Transformer",
+    "domain": "mgmtransformer.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 60000000000,
+    "description": "MGM Transformers specializes in manufacturing a wide range of transformers, including medium voltage dry type, oil-filled, and custom-designed options, serving various sectors such as data centers, renewables, commercial industrial, and utilitiesWe are ready to upload more than 60GB files of essential corporate documents such as: financial data (audits, payment details, financial reports, invoices), employees and customers information (medical information, passports, driver's license, SSNs, DLs and other documents), confidential information, NDA and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tudnifryyw5zzm9ybwvyqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-06 00:00:00.000000",
+    "disclosedDate": "2025-08-06 14:11:07.373448"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-663-12ABC3",
+  "type": "ransomware-incident",
+  "title": "bilbie.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bilbie.com.au",
+    "domain": "bilbie.com.au",
+    "country": "AU"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bilbie Faraday Harrison, Solicitors is a law firm based in Newcastle, NSW, founded on the traditional values of its founder, George Stott Bilbie. The firm emphasizes the importance of personal relationships and strives to bring skill, knowledge, creativity, and persistence to the forefront in overcoming challenges for its clients. With a focus on protecting clients' interests and maintaining strict confidentiality, the team at Bilbie Faraday Harrison, Solicitors is dedicated to helping clients achieve their goals in a cost-effective and efficient manner.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a76959efb2155dbbb3674f51d9757de2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymlsymlllmnvbs5hdubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-12 03:36:59.779000",
+    "disclosedDate": "2025-04-12 04:03:53.987988"
+  }
+}

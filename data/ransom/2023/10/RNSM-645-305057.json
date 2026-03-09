@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-305057",
+  "type": "ransomware-incident",
+  "title": "mottamaholdings.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mottamaholdings.com",
+    "domain": "mottamaholdings.com",
+    "country": "MM",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mottama Holdings Ltd is one of the largest conglomerates in Myanmar specializing in industries such as Construction, Manufacturing, Trading and Property Development.With a robust vision and deep commitment to helping the nation grow, Mottama Holdings...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/959c1066254f7475298b9563edd7e82e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw90dgftywhvbgrpbmdzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-30 10:49:00.000000",
+    "disclosedDate": "2023-10-30 11:13:52.211583"
+  }
+}

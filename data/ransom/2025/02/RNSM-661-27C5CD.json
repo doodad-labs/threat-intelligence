@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27C5CD",
+  "type": "ransomware-incident",
+  "title": "EMETER.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EMETER.COM",
+    "domain": "emeter.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] eMeter.com, now known as Siemens eMeter, is a technology company that provides software and implementation services for energy industries. Their core product, EnergyIP, is an information platform for smart grid applications. The company helps utilities manage and reduce energy consumption, generate useful analytics, promote energy efficiency and optimize revenue. Siemens eMeter is owned by Siemens Industry, a renowned global manufacturer in electrical infrastructure.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ru1fvevslknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:56:11.246608",
+    "disclosedDate": "2025-02-27 17:56:17.598310"
+  }
+}

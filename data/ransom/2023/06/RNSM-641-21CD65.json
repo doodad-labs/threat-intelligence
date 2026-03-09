@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-641-21CD65",
+  "type": "ransomware-incident",
+  "title": "Yokohama-oht (atgtire) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Yokohama-oht (atgtire)",
+    "domain": "yokohama-oht.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1300000000000,
+    "description": "Yokohama Off-Highway Tires America Inc is a company that operatesin the Automotive industry. A well-known name in tire business is going to share it's secrets in our blog. The data we took from them is of 1.3TB size will be available for you soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ww9rb2hhbwetb2h0ichhdgd0axjlkubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-21 01:02:03.456789",
+    "disclosedDate": "2023-06-21 13:53:47.245392"
+  }
+}

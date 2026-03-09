@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-04C46E",
+  "type": "ransomware-incident",
+  "title": "www.bennettcurrie.co.nz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.bennettcurrie.co.nz",
+    "domain": "bennettcurrie.co.nz",
+    "country": "NZ",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bennett Currie is a professional accounting and business advisory firm based in New Zealand. They specialize in providing a range of services including accounting, tax planning, business consulting, and financial advisory. Their team of experienced professionals is dedicated to helping businesses and individuals achieve their financial goals through personalized and strategic solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/429009e4494ecab1a3a34cb84c88eb50.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmjlbm5ldhrjdxjyawuuy28ubnpacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-28 00:00:00.000000",
+    "disclosedDate": "2024-09-04 11:09:31.408010"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-09BFBB",
+  "type": "ransomware-incident",
+  "title": "Costa Del Sol Hotels ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Costa Del Sol Hotels",
+    "country": "KW",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000,
+    "description": "Costa Del Sol GroupAs a distinguished Kuwaiti entity, we have been steadfastly engaged in the realm of hospitality since the 1980s. Under our esteemed brand, we oversee the management of two premier hotels, along with a splendid rural estate, offering unparalleled experiences to our esteemed clientele.Geo: Kuwait - Leak size: 50,5 GB Archive - Contains: Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29zdgegrgvsifnvbcbib3rlbhnac2fyy29tyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-09 19:58:10.563204",
+    "disclosedDate": "2024-10-09 19:58:10.980103"
+  }
+}

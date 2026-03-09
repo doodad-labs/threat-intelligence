@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-235933",
+  "type": "ransomware-incident",
+  "title": "Shaghalni ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Shaghalni",
+    "domain": "shaghalni.com",
+    "country": "EG"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b2ed72e4e5fd3eb340b076b79073a23c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2hhz2hhbg5pqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-23 17:23:33.583222",
+    "disclosedDate": "2025-02-23 17:25:26.019725"
+  }
+}

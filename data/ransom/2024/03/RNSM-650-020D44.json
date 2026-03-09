@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-020D44",
+  "type": "ransomware-incident",
+  "title": "starkpower.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "starkpower.de",
+    "domain": "starkpower.de",
+    "country": "DE",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are STARK. Strong brands under one roof. Find out more about our brands. STARK is your partner for logistics & professional storage. Learn more. LionTec is your partner for high quality lithium ion batteries . Learn more. Lithionator is your partn...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7999dfe1a228c572f1a8f4aa9a47097e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rhcmtwb3dlci5kzubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-08 00:00:00.000000",
+    "disclosedDate": "2024-03-02 20:59:33.021937"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-216EFF",
+  "type": "ransomware-incident",
+  "title": "kidkraft.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kidkraft.com",
+    "domain": "kidkraft.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We aim to inspire imaginative play for children everywhere. For over 50 years, ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cd6a312ce444c9c2b75dbc2621b2799b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2lka3jhznquy29tqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-21 00:00:00.000000",
+    "disclosedDate": "2024-08-21 13:56:04.940809"
+  }
+}

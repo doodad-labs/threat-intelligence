@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-658-2206F0",
+  "type": "ransomware-incident",
+  "title": "ABC Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ABC Group",
+    "domain": "abcgroupoman.com",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1bcae699d4d540edc7fedd312021e40c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qujdiedyb3vwqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-22 01:10:13.565894",
+    "disclosedDate": "2024-11-22 01:10:14.673514"
+  }
+}

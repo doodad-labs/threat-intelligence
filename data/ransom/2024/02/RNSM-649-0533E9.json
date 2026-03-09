@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-0533E9",
+  "type": "ransomware-incident",
+  "title": "semesco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "semesco.com",
+    "domain": "semesco.com",
+    "country": "CY",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SEMESCO CO. Ltd was established in 1991 and is a rapidly expanding firm in the field of Specialist Electromechanical and Marine Engineering Services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a4a72c3394b6f00a814792d105979822.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vtzxnjby5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-05 11:22:00.000000",
+    "disclosedDate": "2024-02-05 13:32:38.365828"
+  }
+}

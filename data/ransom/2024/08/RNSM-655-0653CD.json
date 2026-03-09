@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-0653CD",
+  "type": "ransomware-incident",
+  "title": "Pyle Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pyle Group",
+    "domain": "pylewealth.ca",
+    "country": "",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Pyle Group are dedicated to managing and protecting your financial future. T...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0f28dc517e36724866fd89ec47f1d151.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhlszsbhcm91cebsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-24 00:00:00.000000",
+    "disclosedDate": "2024-08-06 23:18:34.155318"
+  }
+}

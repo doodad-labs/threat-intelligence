@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-260AA7",
+  "type": "ransomware-incident",
+  "title": "semplastik.com.tr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "semplastik.com.tr",
+    "domain": "semplastik.com.tr",
+    "country": "TR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sem Plastik TR specializes in the production of a wide range of plastic products, including cups, pl...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2ca8f3263f18127e51aeb52a494ec40b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vtcgxhc3rpay5jb20udhjabg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-25 16:32:00.000000",
+    "disclosedDate": "2025-12-26 15:22:13.263855"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-2313FD",
+  "type": "ransomware-incident",
+  "title": "kfar-yona.muni.il ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kfar-yona.muni.il",
+    "domain": "kfar-yona.muni.il",
+    "country": "IL",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Kfar Yona is a municipality located in the Central District of Israel. It functions as a local government authority, managing various aspects of community life, including education, infrastructure, and public services. The municipality is responsible for urban planning, cultural activities, and maintaining public facilities. It aims to enhance the quality of life for its residents through efficient governance and community engagement.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/104f37288514d37d50fa7d3c31455d29.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2zhci15b25hlm11bmkuawxaznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-23 16:10:15.631968",
+    "disclosedDate": "2024-12-23 16:10:18.745035"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-02DE51",
+  "type": "ransomware-incident",
+  "title": "jpcgroupinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jpcgroupinc.com",
+    "domain": "jpcgroupinc.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "JPC Group, Inc. is a full-service construction contractor with expertise in road and bridge construction, water and sewer utility work, large-scale demolition and full-service marine construction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/anbjz3jvdxbpbmmuy29tqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-02 12:49:00.761874",
+    "disclosedDate": "2025-02-02 12:49:00.761874"
+  }
+}

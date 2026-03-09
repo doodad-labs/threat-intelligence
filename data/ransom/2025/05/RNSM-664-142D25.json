@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-142D25",
+  "type": "ransomware-incident",
+  "title": "PDI Health ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PDI Health",
+    "domain": "pdihealth.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] PDI Health is a leading mobile healthcare service provider that offers solutions ensuring the safety and well-being of workplaces. They specialize in preventive care, including COVID-19 testing, vaccinations, and mobile clinics, to workplaces, communities, and individuals. Their mission is to create healthier environments by providing convenient access to necessary healthcare services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f6dc626487afebd2baf4802962088220.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uerjiehlywx0aebldmvyzxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-14 01:45:25.636588",
+    "disclosedDate": "2025-05-14 01:46:42.078791"
+  }
+}

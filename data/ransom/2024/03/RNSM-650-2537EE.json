@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-2537EE",
+  "type": "ransomware-incident",
+  "title": "Vita IT ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vita IT",
+    "domain": "vitait.com",
+    "country": "BZ",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Vita IT is an Integrator and IT Service Provider made up of highly competent professionals with extensive experience in the IT market. We will provide access to their data soon. Operational data and personal information can be found in the archive.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vml0ysbjvebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-25 17:49:43.883147",
+    "disclosedDate": "2024-03-25 17:49:44.202732"
+  }
+}

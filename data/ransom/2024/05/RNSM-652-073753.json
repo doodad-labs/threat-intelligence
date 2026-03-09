@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-652-073753",
+  "type": "ransomware-incident",
+  "title": "tu-ilmenau.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tu-ilmenau.de",
+    "domain": "tu-ilmenau.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Eine moderne, zukunftsfähige Universität benötigt einen internationalen Campus mit einem weltoffenen Umfeld, in dem Menschen in ihrer Vielfalt akzeptiert werden und Grundrechte sowie Wissenschaftsfreiheit nicht in Frage gestellt werden.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a6f374703c5f6e7a0b37552c99850b7e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhutawxtzw5hds5kzubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-07 00:00:00.000000",
+    "disclosedDate": "2024-05-07 10:51:59.098374"
+  }
+}

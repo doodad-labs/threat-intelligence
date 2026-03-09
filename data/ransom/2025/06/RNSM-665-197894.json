@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-197894",
+  "type": "ransomware-incident",
+  "title": "GB Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GB Group",
+    "domain": "gbg.com",
+    "country": "GB",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GBGroup is in the process of developing innovative solutions for their clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5add09501d5937b659339b1e4fc46e88.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r0igr3jvdxbazglyzxdvbgy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-18 04:37:02.691009",
+    "disclosedDate": "2025-06-19 04:37:29.853682"
+  }
+}

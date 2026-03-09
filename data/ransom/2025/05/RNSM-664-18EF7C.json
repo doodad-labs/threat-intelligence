@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-18EF7C",
+  "type": "ransomware-incident",
+  "title": "Termolar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Termolar",
+    "domain": "termolar.com.br",
+    "country": "BR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Termolar Termolar is the largest manufacturer of thermal conservation products in Latin America.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/05e3a4a23e9ef6c4f6e6960fa4442ee9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvybw9syxjacmh5c2lkyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-18 08:10:11.439819",
+    "disclosedDate": "2025-05-18 08:10:13.128195"
+  }
+}

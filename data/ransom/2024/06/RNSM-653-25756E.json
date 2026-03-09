@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-653-25756E",
+  "type": "ransomware-incident",
+  "title": "keybenefit.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "keybenefit.com",
+    "domain": "keybenefit.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2500000000000,
+    "description": "Key Benefit Administrators, Inc. offers financial services. The Company provides employment benefit services that manages pension, retirement, health, and welfare funds. Key Benefit Administrators serves customers in the United States.SITE: www.keybenefit.com Address : 8330 Allison Pointe Trail Indianapolis, IN 46250, USAALL DATA SIZE: ≈2.5tb 1. Clients 2. Executive 3. HR 4. Audit 5. Home, users, employees data 6. Accounting & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9b283cf7e452d8b68a893b20733895b7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2v5ymvuzwzpdc5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-29 00:00:00.000000",
+    "disclosedDate": "2024-06-25 08:24:01.787105"
+  }
+}

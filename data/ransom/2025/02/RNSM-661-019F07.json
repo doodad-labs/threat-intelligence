@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-019F07",
+  "type": "ransomware-incident",
+  "title": "CAMRIDGEPORT ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CAMRIDGEPORT",
+    "domain": "cambridgeport.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "\"Cambridgeport Construction services the greater Boston area and all of Eastern Massachusetts. We are a full-service construction management and general contracting firm. Since our founding, our focus has been on building a wide array of residential and light commercial projects.\"CONTENTS:work projects outlook mailquickbooks contacts reporting documents personal data of the company owneretc... https://www.cambridgeport.com/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0102047c82d934a51016df388915c49f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0fnukler0vqt1juqhnwywnlymvhcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-01 12:34:01.556118",
+    "disclosedDate": "2025-02-01 12:35:21.776077"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-18CD0A",
+  "type": "ransomware-incident",
+  "title": "shoreregional.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "shoreregional.org",
+    "domain": "shoreregional.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4728624d067fb73cdca33743c8268705.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2hvcmvyzwdpb25hbc5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-18 16:13:00.000000",
+    "disclosedDate": "2023-05-18 16:50:14.414842"
+  }
+}

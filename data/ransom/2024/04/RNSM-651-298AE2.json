@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-298AE2",
+  "type": "ransomware-incident",
+  "title": "Surewerx USA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Surewerx USA",
+    "domain": "surewerx.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "At SureWerx, our mission is to manufacture the most innovative and rigorously tested products for our customers’ safety and productivity. Our end-to-end product portfolio includes 16 leading brands with a full offering of PPE, safety, and tool and equipment solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6f1de34a7ca69b10631cd989caa433d7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vyzxdlcnggvvnbqhnwywnlymvhcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-25 00:00:00.000000",
+    "disclosedDate": "2024-04-29 06:37:34.272089"
+  }
+}

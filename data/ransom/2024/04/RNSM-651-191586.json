@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-191586",
+  "type": "ransomware-incident",
+  "title": "gesa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gesa.com",
+    "domain": "gesa.com",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "gesa.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f6b5fd2b85aa7f0e98a2cded9aa4dcef.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2vzys5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-04-15 16:11:00.000000",
+    "disclosedDate": "2024-04-19 11:44:29.002625"
+  }
+}

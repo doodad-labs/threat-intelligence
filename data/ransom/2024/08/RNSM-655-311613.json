@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-655-311613",
+  "type": "ransomware-incident",
+  "title": "Effortless Office ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Effortless Office",
+    "domain": "effortlessoffice.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We want this post to resonate.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/325711ebbb4e96cf3fe7e85169d03c86.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwzmb3j0bgvzcybpzmzpy2vaymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-04-17%20effortless%20office%20enterprises%20%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-16 00:00:00.000000",
+    "disclosedDate": "2024-08-31 20:08:28.281700"
+  }
+}

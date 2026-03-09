@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-664-165987",
+  "type": "ransomware-incident",
+  "title": "Pensacola ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pensacola",
+    "domain": "cityofpensacola.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $89.9 MillionThe City of Pensacola serves to administer and enforce city ordinances, direct city employees providing services to citizens",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/94f3118b13bd24831c52cfe4b92bd869.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvuc2fjb2xhqgjsywnrbg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://eu.pnj.com/story/news/local/pensacola/2024/03/18/pensacola-appears-to-suffer-cyberattack-over-the-weekend/73015442007/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:03:17.793503",
+    "disclosedDate": "2025-05-16 13:24:41.876321"
+  }
+}

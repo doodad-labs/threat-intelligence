@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-05BB96",
+  "type": "ransomware-incident",
+  "title": "McMillan Electric Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "McMillan Electric Company",
+    "domain": "mcmillanco.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "McMillan Electric Company (founded in 1976) is a custom motor and motor products manufacturer for OEMs. MCMILLAN ELECTRIC corporate office is located in 400 Best Rd, Woodville, Wisconsin, 54028, United States and has 226 employees",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5f21f57da0579b71ec25f7fb481e60d2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twnnawxsyw4grwxly3ryawmgq29tcgfueubtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-05 08:04:05.000000",
+    "disclosedDate": "2024-11-05 08:45:38.940188"
+  }
+}

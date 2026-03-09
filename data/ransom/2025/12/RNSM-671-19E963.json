@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-19E963",
+  "type": "ransomware-incident",
+  "title": "OGI Groupe ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OGI Groupe",
+    "domain": "ogi-groupe.fr",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5d6bd66af9d4333657a7ed4e4b7bebc4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t0djiedyb3vwzub3b3jszgxlywtz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-09 00:00:00.000000",
+    "disclosedDate": "2025-12-19 14:25:43.144781"
+  }
+}

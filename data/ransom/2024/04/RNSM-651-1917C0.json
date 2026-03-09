@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-1917C0",
+  "type": "ransomware-incident",
+  "title": "scottevest.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "scottevest.com",
+    "domain": "scottevest.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SCOTTeVEST is a clothing company based in Ketchum, Idaho which specializes in garments with conduit systems and specialized pockets and compartments for holding mobile phones, tablet computers and other portable electronic devices.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d3bb55c05c120b28ebc274d296fd659c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2nvdhrldmvzdc5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-04 20:04:00.000000",
+    "disclosedDate": "2024-04-19 09:57:34.062801"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-192C95",
+  "type": "ransomware-incident",
+  "title": "www.mgrc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.mgrc.com",
+    "domain": "mgrc.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Persons responsible for data leakage: Dave Whitney:Accounting Officer, Controller, VP dave.whitney@mgrc.com dwhitney@mgrc.com +1 925-453-3196; Tara Wescott:Head of HR, President, President, Human Resources, VP, VP, Human Resources tara.wescott@mgrc.com +1 415-312-1602 +1 925-321-1363; Krissy VanTrease - Whitney:Division Manager, VP krissy.vantrease@mgrc.com kvantrease@mgrc.com; John Skenesky:Division Manager, VP jskenesky@mgrc.com +1",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/de1d640d9ee0b233699653568f87af36.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1ncmmuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-11-20 23:07:00.000000",
+    "disclosedDate": "2024-04-19 11:19:28.321519"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-096317",
+  "type": "ransomware-incident",
+  "title": "Orbit Software, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Orbit Software, Inc.",
+    "domain": "busboss.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Orbit Software specializes in providing user friendly, cutting edge software programs for generating and managing school bus routes.  We also provide hardware used for GPS tracking of vehicles & students.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3jiaxqgu29mdhdhcmusieluyy5azhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-08 06:56:40.422159",
+    "disclosedDate": "2024-10-09 09:29:00.605537"
+  }
+}

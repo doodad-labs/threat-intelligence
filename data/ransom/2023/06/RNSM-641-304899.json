@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-641-304899",
+  "type": "ransomware-incident",
+  "title": "CITYNATIONAL.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CITYNATIONAL.COM",
+    "domain": "citynational.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "City National Bank of Florida",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0luwu5bvelptkfmlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-30 13:00:24.547514",
+    "disclosedDate": "2023-06-30 13:00:24.547535"
+  }
+}

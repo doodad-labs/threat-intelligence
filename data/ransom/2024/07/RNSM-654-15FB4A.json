@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-15FB4A",
+  "type": "ransomware-incident",
+  "title": "greenlightbiosciences.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "greenlightbiosciences.com",
+    "country": "",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 726000000000,
+    "description": "greenlightbiosciences.com 726Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jlzw5sawdodgjpb3njawvuy2vzlmnvbubhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-15 11:59:37.227084",
+    "disclosedDate": "2024-07-15 11:59:38.119534"
+  }
+}

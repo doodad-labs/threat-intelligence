@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-639-10BEE9",
+  "type": "ransomware-incident",
+  "title": "Nature Path Foods ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nature Path Foods",
+    "domain": "naturespath.com",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "Nature's Path Foods was founded in 1985 in Richmond, Canada. It is a family-run, fiercely independent, sustainably-driven, and delightfully nutritious organic breakfast and snack food company. Among almost 40GB of accounting and financial data we've found interesting employees' docs such as work permissions, resumes with addresses, emails, phones ect. There are also lots of agreements, contracts, invoices and other documents that worth to see.Feel free checking the data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5d796924d777864ba1722338ddf93c5a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf0dxjlifbhdgggrm9vzhnacm95yww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-10 01:02:03.456789",
+    "disclosedDate": "2023-04-10 17:49:24.943160"
+  }
+}

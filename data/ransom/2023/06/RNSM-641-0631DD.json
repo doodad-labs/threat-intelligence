@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-0631DD",
+  "type": "ransomware-incident",
+  "title": "fredfeet.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fredfeet.com",
+    "domain": "fredfeet.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fredericksburg Foot & Ankle Center are board-certified podiatrists in Fredericksburg, VA. Our doctors diagnose & treat all sports injuries & trauma injuries",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a4cbdbf977df547f76a747635ecd8207.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/znjlzgzlzxquy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-03 16:33:00.000000",
+    "disclosedDate": "2023-06-06 17:53:19.154372"
+  }
+}

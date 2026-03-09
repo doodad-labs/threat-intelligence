@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-653-1251A6",
+  "type": "ransomware-incident",
+  "title": "AlphaNovaCapital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AlphaNovaCapital",
+    "domain": "alphanovacap.com",
+    "country": "HK",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 272000,
+    "description": "Private limited Company272KB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/76116eaa4b0b89ae166b9f21795e4a4b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxwagfob3zhq2fwaxrhbebhchq3mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-12 06:41:56.071754",
+    "disclosedDate": "2024-06-12 06:41:56.687817"
+  }
+}

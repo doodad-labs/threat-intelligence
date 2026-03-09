@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-645-069981",
+  "type": "ransomware-incident",
+  "title": "sogebank.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sogebank.com",
+    "country": "HT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Greetings!Today we are posting here the new company, \"Groupe Sogebank\".Company Description: Sogebank is a Haitian commercial bank created on April 26, 1986.As a generalist commercial bank, Sogebank is aimed at organisations, industrial and...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bf23c93f38ddfa237e0e9c7ebeed4084.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c29nzwjhbmsuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-08-15 16:07:00.000000",
+    "disclosedDate": "2023-10-06 17:31:53.032852"
+  }
+}

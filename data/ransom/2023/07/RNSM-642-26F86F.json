@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26F86F",
+  "type": "ransomware-incident",
+  "title": "TRICOPRODUCTS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TRICOPRODUCTS.COM",
+    "domain": "tricoproducts.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TRICO® Windshield Wipers - Find Your Vehicle's Wiper Blade Size",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9aff5e8e378e97bda15d580202f9aa64.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfjjq09quk9evunuuy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:51:43.143169",
+    "disclosedDate": "2023-07-26 20:51:43.143200"
+  }
+}

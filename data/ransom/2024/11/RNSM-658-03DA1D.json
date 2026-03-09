@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-03DA1D",
+  "type": "ransomware-incident",
+  "title": "guardianhc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "guardianhc.com",
+    "domain": "guardianhc.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000,
+    "description": "Data Size: 3GB, Status: Leaked, Data Type: Apps - Attachments - Daily Admission Copies - Documents - Pictures - COVID TESTING DATE - Custom Office Templates -Vaccines",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3vhcmrpyw5oyy5jb21ac3rvcm1vdxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-03 05:49:08.377836",
+    "disclosedDate": "2024-11-03 05:49:10.192058"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-642-26A68E",
+  "type": "ransomware-incident",
+  "title": "DC ADVISORY ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DC ADVISORY",
+    "domain": "dcadvisory.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 63000000000,
+    "description": "FIRST DATA PACK, 63 GB CLIENTS DOCUMENTS.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b2aeca72d7009d580cea675319060fc3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/remgqurwsvnpullaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-04-20 19:21:56.000000",
+    "disclosedDate": "2023-07-26 17:28:58.818170"
+  }
+}

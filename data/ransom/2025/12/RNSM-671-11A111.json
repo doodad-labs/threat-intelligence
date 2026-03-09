@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-11A111",
+  "type": "ransomware-incident",
+  "title": "Bell Lifestyle Products ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bell Lifestyle Products",
+    "country": "CA",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 23000000000,
+    "description": "Bell Lifestyle Products specializes in natural health supplementsand herbal teas, offering over 54 products across 12 health and wellness categories.We will upload about 23gb of corporate data soon. Employee information (passports, DLs, birth certs and so on), financials, clientinformation, projects, contracts and agreements, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvsbcbmawzlc3r5bguguhjvzhvjdhnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-11 00:00:00.000000",
+    "disclosedDate": "2025-12-11 12:13:29.623888"
+  }
+}

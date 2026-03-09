@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-655-225D5B",
+  "type": "ransomware-incident",
+  "title": "Engedi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Engedi",
+    "domain": "engedi.org.au",
+    "country": "AU"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Engedi Engedi is a community based, local Mackay organisation providing support to people with a disability.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw5nzwrpqhjoexnpzge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-22 09:44:37.364552",
+    "disclosedDate": "2024-08-22 09:44:38.332335"
+  }
+}

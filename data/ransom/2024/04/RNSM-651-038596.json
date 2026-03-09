@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-038596",
+  "type": "ransomware-incident",
+  "title": "Beaver Run Resort ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Beaver Run Resort",
+    "domain": "beaverrun.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/797fa5b94b0736892bce2841b666b34e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvhdmvyifj1bibszxnvcnraahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-03 18:13:12.000000",
+    "disclosedDate": "2024-04-03 19:26:27.375791"
+  }
+}

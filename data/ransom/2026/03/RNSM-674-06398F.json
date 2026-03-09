@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-06398F",
+  "type": "ransomware-incident",
+  "title": "smileteam.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "smileteam.com.au",
+    "domain": "smileteam.com.au",
+    "country": "AU",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Is a privately owned Australian healthcare company specialising in orthodontic treatment and dental alignment services. The organisation was founded around …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5256a05d96a72088ee4ffc0f29d19fdb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c21pbgv0zwftlmnvbs5hdubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-06 19:52:10.671568",
+    "disclosedDate": "2026-03-06 19:52:25.913311"
+  }
+}

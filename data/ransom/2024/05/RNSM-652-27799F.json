@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-27799F",
+  "type": "ransomware-incident",
+  "title": "S L B TRANSIT INC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "S L B TRANSIT INC",
+    "domain": "slbtransit.com",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SLB TRANSIT IS A TRANSPORTATION COMPANY ESTABLISHED ON JANUARY 5, 2011. THE LETTERS SLB DENOTE THE THREE FOUNDING MEMBERS: S IS SERGE GAUDREAU, L IS LOUIS SIMARD AND B IS BERTRAND JOBAIN. THE GOAL IS TO CREATE A COMPANY THAT RELIES ON VALETS PAID AS A PERCENTAGE OF THE BILL.www.slbtransit.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uybmieigvfjbtlnjvcbjtknaogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-27 00:00:00.000000",
+    "disclosedDate": "2024-05-27 14:43:19.287362"
+  }
+}

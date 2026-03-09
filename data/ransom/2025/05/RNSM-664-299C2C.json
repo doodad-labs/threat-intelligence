@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-299C2C",
+  "type": "ransomware-incident",
+  "title": "Inns of Aurora ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Inns of Aurora",
+    "domain": "innsofaurora.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Inns of Aurora",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/89bf9e47bfd7b8a802870934b0161a4d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5ucybvzibbdxjvcmfaymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-29 12:16:24.875962",
+    "disclosedDate": "2025-05-29 12:17:29.994384"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-015B1A",
+  "type": "ransomware-incident",
+  "title": "alimmigration.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "alimmigration.com",
+    "domain": "alimmigration.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Registered Migration services with office located in Florida.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e77c8f579b73e8fb7b0e98cefbab4339.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxpbw1pz3jhdglvbi5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-01 07:38:00.000000",
+    "disclosedDate": "2024-05-01 10:31:43.575336"
+  }
+}

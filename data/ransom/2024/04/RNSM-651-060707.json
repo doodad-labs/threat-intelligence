@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-060707",
+  "type": "ransomware-incident",
+  "title": "Carrozzeria Aretusa srl  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Carrozzeria Aretusa srl ",
+    "domain": "aretusamilano.it",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 90000000000,
+    "description": "Visits: 16 Data Size: 90GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1a1e2f604a4b134ed04bc97fa3c1b7c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fycm96emvyawegqxjldhvzysbzcmwgqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-06 21:01:04.142241",
+    "disclosedDate": "2024-04-06 21:01:04.142263"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-271309",
+  "type": "ransomware-incident",
+  "title": "TRENDSPOTINC.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TRENDSPOTINC.COM",
+    "domain": "trendspotinc.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"trendspotinc.com\" is a U.S. based company offering a wide selection of unique, innovative, and high-quality products. They source items from a range of suppliers globally, providing customers an expansive variety of merchandise. The company primarily operates online and provides shipping throughout the United States. Catering to a diverse customer base, they offer products in categories like home decor, outdoor living, pet supplies, and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfjftkrtue9usu5dlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:34:56.258067",
+    "disclosedDate": "2025-02-27 17:35:03.345865"
+  }
+}

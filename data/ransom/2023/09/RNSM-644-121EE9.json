@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-121EE9",
+  "type": "ransomware-incident",
+  "title": "sinloc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sinloc.com",
+    "domain": "sinloc.com",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sinloc is a consulting and investment firm with operations throughout Italy. We promote development of local infrastructure, providing advisory services, feasibility studies and direct investments in Public-Private Partnerships",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/607539c724d5e7b6a59696f83cd0a781.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2lubg9jlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-12 15:19:00.000000",
+    "disclosedDate": "2023-09-12 15:59:51.445954"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27C3AE",
+  "type": "ransomware-incident",
+  "title": "REDCLAYGOURMET.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "REDCLAYGOURMET.COM",
+    "domain": "redclaygourmet.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] RedClayGourmet.com is a food producer renowned for their gourmet, craft-cooked pimento cheese spreads. The company prioritizes using natural, high quality ingredients sourced mainly from North Carolina, USA. Their range of flavors includes Classic Sharp Cheddar, Flame-Roasted Jalapeno, Hickory Smoked Cheddar, and Goat Cheese & Sun-Dried Tomato. They are committed to continuous innovation and superior taste.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukveq0xbwudpvvjnrvquq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:15:41.015887",
+    "disclosedDate": "2025-02-27 17:15:48.035130"
+  }
+}

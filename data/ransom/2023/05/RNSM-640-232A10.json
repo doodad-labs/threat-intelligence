@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-232A10",
+  "type": "ransomware-incident",
+  "title": "spectre.dk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "spectre.dk",
+    "domain": "spectre.dk",
+    "country": "DK",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://www.spectre.lv/ https://www.spectre.dk/ https://arcteryx.com/fr/fr/explore/supply-chain-partners/spectre-garment-technologies-vietnam The company’s owners, Danish brothers Jesper and Jacob Klausen are inventive problem solvers, using las...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8a3bdc62dcbdd98b6a42a8122cd97c58.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3bly3ryzs5ka0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-23 11:29:00.000000",
+    "disclosedDate": "2023-05-23 12:52:57.522156"
+  }
+}

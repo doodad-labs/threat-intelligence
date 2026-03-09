@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-640-2664AD",
+  "type": "ransomware-incident",
+  "title": "BM Precision ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BM Precision",
+    "domain": "bmprecision.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 26000000000,
+    "description": "B & M Precision, Inc. is capable of producing any part made from stainless steel or similar metals with an emphasis on medical devices. With over 40 years of experience in the machining industry and 275 employees, we have the proven track record to get the job done on time and on budget.Total downloaded data - 26gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e835f375f65b7ab9efced0643e268efd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qk0guhjly2lzaw9uqhjvewfs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-26 01:02:03.456789",
+    "disclosedDate": "2023-05-26 13:03:09.359509"
+  }
+}

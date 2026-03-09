@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-03B43C",
+  "type": "ransomware-incident",
+  "title": "sakrgroup.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sakrgroup.net",
+    "domain": "sakrgroup.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sakr Group is a leading food and beverage supplier in the Middle East, with seven major factories and distribution partnerships that span the MENA region and the whole world. Our brands are loved by millions of consumers and retailers across the glob...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2frcmdyb3vwlm5ldebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-03 04:05:15.969104",
+    "disclosedDate": "2023-02-03 04:05:15.969104"
+  }
+}

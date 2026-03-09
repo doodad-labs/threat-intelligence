@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-277A0A",
+  "type": "ransomware-incident",
+  "title": "EpicGames ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EpicGames",
+    "domain": "epicgames.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "mogilevich",
+    "name": "mogilevich",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 189000000000,
+    "description": "We have quietly carried out an attack to EpicGames' servers Category: Video game publisher & Software developer Data compromised:email, passwords, full name, payment information, source code and many other data included. Size: 189GB Data is also for sale! Deadline: 3.4.24 If you are an employee of the company or someone who would like to buy the data, click on me",
+    "claimed_data_types": [
+      "passwords",
+      "email-addresses",
+      "financial-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxbpy0dhbwvzqg1vz2lszxzpy2g=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-27 00:00:00.000000",
+    "disclosedDate": "2024-02-27 17:50:36.210250"
+  }
+}

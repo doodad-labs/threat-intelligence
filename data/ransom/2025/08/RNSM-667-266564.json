@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-266564",
+  "type": "ransomware-incident",
+  "title": "Motor Controls Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Motor Controls Inc.",
+    "domain": "motorcontrols.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Motor Controls Inc. is a leading firm specializing in custom motor control panels and automation systems. Its products include starters, circuit switches, electronic protective systems, and more. It caters to varied industries like petrochemical, agriculture, and mining. The company is recognized for its high-quality standards and innovation in automation engineering.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/49f63046cf1afb3fef3df1ab92006183.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw90b3igq29udhjvbhmgsw5jlkb3b3jszgxlywtz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-11 00:00:00.000000",
+    "disclosedDate": "2025-08-26 14:21:20.884070"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-669-113F35",
+  "type": "ransomware-incident",
+  "title": "Citizens' Committee for Children of New York ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Citizens' Committee for Children of New York",
+    "domain": "cccnewyork.org",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "brotherhood",
+    "name": "brotherhood",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 45000000000,
+    "description": "Contains: 45 Gb compressed Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0axplbnmnienvbw1pdhrlzsbmb3igq2hpbgryzw4gb2ygtmv3iflvcmtaynjvdghlcmhvb2q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-11 20:32:15.903706",
+    "disclosedDate": "2025-10-11 20:32:17.059792"
+  }
+}

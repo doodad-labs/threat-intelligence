@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-640-15661A",
+  "type": "ransomware-incident",
+  "title": "wsots.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wsots.net",
+    "domain": "wsots.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "17 VM from wsots.net (Wideband Satellite Communications Operations and Technical Support)",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3nvdhmubmv0qgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-15 18:49:40.354625",
+    "disclosedDate": "2023-05-15 18:49:40.354679"
+  }
+}

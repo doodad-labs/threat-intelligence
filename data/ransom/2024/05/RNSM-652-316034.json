@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-316034",
+  "type": "ransomware-incident",
+  "title": "familyguardian.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "familyguardian.com",
+    "domain": "familyguardian.com",
+    "country": "BS",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/FAMILYGUARDIAN/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/FAMILYGUARDIAN/PROOF/DATA DESCRIPTIONS: Hundreds of confidential client documents and personal identifying information (passports, utility bills, contracts), corporate correspondence, employee phones backups, executives personal data, database backups, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7deff2a244aed67039fcd9ea91f37749.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmftawx5z3vhcmrpyw4uy29tqgnhy3r1cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-22 00:00:00.000000",
+    "disclosedDate": "2024-05-31 18:04:59.621283"
+  }
+}

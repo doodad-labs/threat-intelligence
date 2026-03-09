@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26E1D3",
+  "type": "ransomware-incident",
+  "title": "HILLROM.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HILLROM.COM",
+    "domain": "hillrom.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Advancing Connected Care - Hillrom",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ae6f4fc2a6669b05dc969c34f756396.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/selmtfjpts5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:34:23.972863",
+    "disclosedDate": "2023-07-26 20:34:23.972883"
+  }
+}

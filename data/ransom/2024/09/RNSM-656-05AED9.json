@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-05AED9",
+  "type": "ransomware-incident",
+  "title": "dvv.be ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dvv.be",
+    "domain": "dvv.be",
+    "country": "BE",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DVV Verzekeringen is a prominent insurance provider based in Belgium, specializing in a wide array of insurance and financial products tailored for individuals, self-employed professionals, and small to medium-sized enterprises (SMEs). With a commitment to delivering comprehensive coverage and exceptional customer service...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/16c7db2494dd189f40ffc021d5b88df8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zhz2lmjlqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-05 23:12:00.372835",
+    "disclosedDate": "2024-09-05 23:12:00.858586"
+  }
+}

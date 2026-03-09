@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-298C24",
+  "type": "ransomware-incident",
+  "title": "Accuracy International ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Accuracy International",
+    "domain": "accuracyinternational.com",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Accuracy International is a British firearms manufacturer based in Portsmouth, England. The company specializes in sniper rifles, anti-materiel rifles and civilian competition rifles.The company was founded in 1978 by a group of individuals including British Olympic shooting gold medalist Malcolm Cooper, Sarah Cooper, and Martin Kay, along with the firearms designers Dave Walls and David Caig.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnjdxjhy3kgsw50zxjuyxrpb25hbebkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 23:51:42.311799",
+    "disclosedDate": "2024-10-29 04:37:34.103932"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-191B54",
+  "type": "ransomware-incident",
+  "title": "nardinifire.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nardinifire.com",
+    "domain": "nardinifire.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 28.06.2025.Nardini Fire Equipment is a family owned and operated company based in Minnesota and North Dakota, specializing in complete fire protection solutions for businesses of all             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e344896acf71a28322a805ef67950c9b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmfyzgluawzpcmuuy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-18 00:00:00.000000",
+    "disclosedDate": "2025-06-19 05:11:51.917653"
+  }
+}

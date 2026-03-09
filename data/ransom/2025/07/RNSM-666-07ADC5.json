@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-07ADC5",
+  "type": "ransomware-incident",
+  "title": "KOLBUS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KOLBUS",
+    "domain": "kolbus.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "payoutsking",
+    "name": "payoutsking",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] KOLBUS is a leading international manufacturer of machines and tools for bookbinders, print shops, and packaging companies. Headquartered in Germany, the company’s innovative solutions include packaging production lines, bookbinding systems, and luxury packaging. Additionally, KOLBUS offers spare parts, conversions, and upgrades services for its machinery. Established in 1775, the company has a rich history and significant experience in the printing and packaging industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a682c9cf4cf7046f777c7c1b8771c08e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s09mqlvtqhbhew91dhnraw5n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-16 00:00:00.000000",
+    "disclosedDate": "2025-07-07 22:17:44.367882"
+  }
+}

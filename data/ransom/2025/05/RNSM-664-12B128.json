@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-12B128",
+  "type": "ransomware-incident",
+  "title": "ratnasagar.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ratnasagar.com",
+    "domain": "ratnasagar.com",
+    "country": "IN",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "j",
+    "name": "J",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Ratna Sagar is an educational publishing company based in India with over three decades of experience. They specialize in textbooks for kindergarten to grade 12, with a major focus on English literacy materials. The company's comprehensive resources cover a wide range of subjects and are used in thousands of schools across India.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3ac51aee3ad5bf025bc89358b38f073e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmf0bmfzywdhci5jb21asg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-26 00:00:00.000000",
+    "disclosedDate": "2025-05-12 17:19:29.405053"
+  }
+}

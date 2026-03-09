@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-2887D2",
+  "type": "ransomware-incident",
+  "title": "guymontigers.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "guymontigers.com",
+    "domain": "guymontigers.com",
+    "country": "CA",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[IA generated] Guymontigers.com is the official website for Guymon Public Schools, located in Guymon, Oklahoma. It serves as a central hub for information related to the district, including updates on school events, academic programs, sports activities, and community engagement. The site provides resources for students, parents, and staff, aiming to enhance communication and support educational initiatives within the district.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/52a8dfc141e9a1251c5755657d588fbb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3v5bw9udglnzxjzlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-03 00:00:00.000000",
+    "disclosedDate": "2024-10-28 14:28:48.365058"
+  }
+}

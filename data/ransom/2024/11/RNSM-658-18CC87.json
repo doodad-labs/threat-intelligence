@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-658-18CC87",
+  "type": "ransomware-incident",
+  "title": "CURVC Corp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CURVC Corp",
+    "domain": "curvc.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $6.5 MillionCurvc helps companies need to improve productivity in software development.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1vsvkmgq29ycebfbervcmfkbw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:03:21.379942",
+    "disclosedDate": "2024-11-18 21:03:22.131771"
+  }
+}

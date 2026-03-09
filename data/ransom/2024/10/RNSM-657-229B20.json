@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-229B20",
+  "type": "ransomware-incident",
+  "title": "mauguio-carnon.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mauguio-carnon.com",
+    "domain": "mauguio-carnon.com",
+    "country": "FR",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mairie de Mauguio-Carnon",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/175ccfd5df808c1b26b853d9b2337c73.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwf1z3vpby1jyxjub24uy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-08 00:00:00.000000",
+    "disclosedDate": "2024-10-22 06:43:57.753478"
+  }
+}

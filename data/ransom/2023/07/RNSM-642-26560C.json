@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26560C",
+  "type": "ransomware-incident",
+  "title": "COUNT+CARE | ENTEGADE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "COUNT+CARE | ENTEGADE",
+    "domain": "countandcare.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "COUNT+CARE GmbH is an information technology and services company",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/99922c108b096f8def1a4a7a6f721981.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q09vtlqrq0fsrsb8ievovevhqurfqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-07-10 17:07:51.000000",
+    "disclosedDate": "2023-07-26 17:09:16.821452"
+  }
+}

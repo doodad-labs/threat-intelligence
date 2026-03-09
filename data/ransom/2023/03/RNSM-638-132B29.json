@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-638-132B29",
+  "type": "ransomware-incident",
+  "title": "Royal Dirkzwager ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Royal Dirkzwager",
+    "domain": "dirkzwager.com",
+    "country": "NL",
+    "sector": "Transportation"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Netherlands",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/852c908f9b8557bd67b2042268c7ab30.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um95ywwgrglya3p3ywdlckbwbgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.rijnmond.nl/nieuws/2019121/dit-bedrijf-werd-platgelegd-door-een-cyberaanval-ik-voelde-heel-veel-paniek",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-13 19:24:17.040571",
+    "disclosedDate": "2023-03-13 19:24:17.040592"
+  }
+}

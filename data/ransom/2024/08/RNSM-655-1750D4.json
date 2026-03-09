@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-1750D4",
+  "type": "ransomware-incident",
+  "title": "tiendasmacuto.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tiendasmacuto.com",
+    "domain": "tiendasmacuto.com",
+    "country": "VE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tiendasmacuto.com is an online retail store specializing in outdoor and adventure gear. They offer a wide range of products including backpacks, tents, sleeping bags, and hiking accessories. The company focuses on high-quality, durable items suitable for camping, trekking, and other outdoor activities. Customer service and satisfaction are key priorities, ensuring a reliable shopping experience.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/22cabe7a8df1cf111e5351e91f739ef8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgllbmrhc21hy3v0by5jb21aqnjhaw5daxbozxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-17 18:56:48.600060",
+    "disclosedDate": "2024-08-17 18:56:50.839918"
+  }
+}

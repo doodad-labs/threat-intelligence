@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-25EF7C",
+  "type": "ransomware-incident",
+  "title": "multigroup.info ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "multigroup.info",
+    "domain": "multigroup.info",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Multi Group distributes industrial kitchen equipment. The Company offers a wide range of refrigerators, deep freezers, ovens, cooking stoves, electric grills, dish washers, and accessories. Multi Group serves customers in France.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cd9c9dd27e9e6858e021e344c6f8be14.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bxvsdglncm91cc5pbmzvqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-09 00:00:00.000000",
+    "disclosedDate": "2024-05-25 12:57:21.589950"
+  }
+}

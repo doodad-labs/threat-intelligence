@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-672-0556D9",
+  "type": "ransomware-incident",
+  "title": "KSL Ingenieure ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KSL Ingenieure",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 17000000000,
+    "description": "KSL Ingenieure GmbH is a consulting firm based in Herrischried that specializes in various engineering services including buildingenergy consulting, structural engineering, and geotechnical construction.We will upload corporate 17 gb of corporate data soon. Confidential project files, employee scanned documents (DLs, passports and other files), HR files, projects, agreements, detailed financials, customers and partners information and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s1nmieluz2vuawv1cmvaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 00:00:00.000000",
+    "disclosedDate": "2026-01-05 14:39:05.607204"
+  }
+}

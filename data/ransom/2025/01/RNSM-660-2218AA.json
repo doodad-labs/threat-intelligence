@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-2218AA",
+  "type": "ransomware-incident",
+  "title": "iptime.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "iptime.com",
+    "domain": "iptime.com",
+    "country": "KR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Iptime.com is a Korean-based company specializing in Internet solutions. It is a renowned brand primarily known for manufacturing and supplying networking hardware products like modems, routers, and access points to both commercial and domestic markets. Its offerings also include network storage devices, network cameras, and wireless connectivity products to enhance internet connectivity and security.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eb0b287cb9009ca2dc70df955a1e2e62.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axb0aw1llmnvbubmdw5rc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-22 15:15:53.446101",
+    "disclosedDate": "2025-01-22 15:15:53.446101"
+  }
+}

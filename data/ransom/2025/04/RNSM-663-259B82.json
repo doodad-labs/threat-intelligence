@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-663-259B82",
+  "type": "ransomware-incident",
+  "title": "Cohn Lifland Pearlman Herrmann and Knopf ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cohn Lifland Pearlman Herrmann and Knopf",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 110000000000,
+    "description": "These respected guys didn't seem to have much respect for their clients, as a huge amount of personal information was almost unprotected. We took 110 GB of files where a lot of client informationcan be found: passports, driver's licenses, birth/death certificates, correspondence, addresses, contacts and more. There is alsoa lot of data about the firm in the form of financial statementsand other documents, and many of them are confidential. The mostinteresting thing about this case is that these guys didn't wantto pay even with an active cyber insurance policy. We will upload the files shortly.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29obibmawzsyw5kifblyxjsbwfuiehlcnjtyw5uigfuzcblbm9wzkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-25 00:00:00.000000",
+    "disclosedDate": "2025-04-25 12:45:28.328174"
+  }
+}

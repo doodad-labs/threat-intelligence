@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-090A6B",
+  "type": "ransomware-incident",
+  "title": "chemstress.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "chemstress.com",
+    "domain": "chemstress.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since its founding in 1965, the company has combined in-house disciplines — process, mechanical, piping, structural, instrumentation, electrical, and architectural …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8585604f509fc56378a0e989f2bac3dd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2hlbxn0cmvzcy5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-09 08:48:57.287057",
+    "disclosedDate": "2025-12-09 08:49:10.030097"
+  }
+}

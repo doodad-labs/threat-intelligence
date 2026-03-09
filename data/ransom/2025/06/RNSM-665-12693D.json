@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-12693D",
+  "type": "ransomware-incident",
+  "title": "Patron Insurance Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Patron Insurance Services",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 7000000000,
+    "description": "Patron Insurance Services has been serving its clients’ needs throughout the Metropolitan Washington D.C. area including Maryland,Virginia, and Washington D.C. since 1984.We are going to upload about 7 GB of corporate data. Lots of documents with client personal information (DOB, Emails address, address, phones, driver licenses), detailed financial data, contractsand agreements, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugf0cm9uieluc3vyyw5jzsbtzxj2awnlc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-11 00:00:00.000000",
+    "disclosedDate": "2025-06-12 13:40:34.333923"
+  }
+}

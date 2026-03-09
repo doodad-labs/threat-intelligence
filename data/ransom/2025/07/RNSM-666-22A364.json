@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-22A364",
+  "type": "ransomware-incident",
+  "title": "http://www.balkankalip.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "http://www.balkankalip.com",
+    "domain": "balkankalip.com",
+    "country": "TR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in Istanbul in 1998, Balkan Kalıp is a company that produces molds and mass-produces parts to meet the needs of the automotive industry. With a solution-oriented approach and a vision of sustainable and continuous development, Balkan            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ff9fbb764cabf217d50eb2ef9a4ad6d3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahr0cdovl3d3dy5iywxryw5rywxpcc5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-08 00:00:00.000000",
+    "disclosedDate": "2025-07-22 10:46:47.550653"
+  }
+}

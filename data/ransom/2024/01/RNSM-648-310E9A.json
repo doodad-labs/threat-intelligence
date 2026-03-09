@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-310E9A",
+  "type": "ransomware-incident",
+  "title": "North Hill ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "North Hill",
+    "domain": "northhill.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Elderly Care Services · Massachusetts, United States · 106 Employees",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ecae11972ef233cd28238dc513bc48a7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9ydgggsglsbebibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-31 14:59:38.398271",
+    "disclosedDate": "2024-01-31 14:59:38.398293"
+  }
+}

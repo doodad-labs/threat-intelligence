@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-094101",
+  "type": "ransomware-incident",
+  "title": "Sasszemklinika ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sasszemklinika",
+    "domain": "sasszemklinika.hu",
+    "country": "HU",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Laser eye surgery at the country's largest clinic with 110,000 Eagle Eye Treatments. Eagle Eye Clinic. Medical Guarantee, installment payments.The company didn't enter to the chat room.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cb4d1b042903ef7878a631eb1bf40d79.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fzc3plbwtsaw5pa2facwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-01 00:00:00.000000",
+    "disclosedDate": "2025-04-09 17:18:22.706839"
+  }
+}

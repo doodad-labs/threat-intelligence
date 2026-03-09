@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-660-09649A",
+  "type": "ransomware-incident",
+  "title": "Permoda ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Permoda",
+    "country": "PA"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 220000000000,
+    "description": "A leading company in the retail industry. Permoda is an expert inthe production, manufacturing and distribution of textiles and sells their products through the KOAJ brand. They are present in Colombia, Costa Rica, Ecuador and Panama.We are ready to upload more than 220 GB of private corporate documents including: contact numbers and e-mail addresses of employees and customers, internal financial documents, confidential agreements and contracts, certification documents etc",
+    "claimed_data_types": [
+      "phone-numbers",
+      "addresses"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvybw9kyubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-09 12:16:20.313962",
+    "disclosedDate": "2025-01-09 12:16:20.998445"
+  }
+}

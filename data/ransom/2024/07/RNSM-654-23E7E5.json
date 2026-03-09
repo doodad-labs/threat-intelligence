@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-654-23E7E5",
+  "type": "ransomware-incident",
+  "title": "Royal Brighton Yacht Club ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Royal Brighton Yacht Club",
+    "domain": "rbyc.org.au",
+    "country": "AU",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 94200000000,
+    "description": "Royal Brighton Yacht Club is one of Australia's premier yacht clubs, offering a wide range of sailing events and activites year-round. Royal Brighton Yacht Club corporate office is located in PO Box 74, Brighton, Victoria, 3186, Australia and has 19 employees. The total amount of data leakage is 94.2 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/664548fcb6b8019faef922f414e5ff6e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um95ywwgqnjpz2h0b24gwwfjahqgq2x1ykbtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-15 18:35:55.000000",
+    "disclosedDate": "2024-07-23 12:03:57.830189"
+  }
+}

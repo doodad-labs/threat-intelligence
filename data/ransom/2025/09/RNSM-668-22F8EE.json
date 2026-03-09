@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-22F8EE",
+  "type": "ransomware-incident",
+  "title": "AX CAPITAL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AX CAPITAL",
+    "domain": "axcapital.ae",
+    "country": "AE",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cbb6b66960cd1afcc89b06c0434dab21.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvggq0fqsvrbtebrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-22 09:22:44.945589",
+    "disclosedDate": "2025-09-22 09:23:06.219681"
+  }
+}

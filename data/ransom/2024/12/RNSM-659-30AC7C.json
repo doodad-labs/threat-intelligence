@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-30AC7C",
+  "type": "ransomware-incident",
+  "title": "mofaga.gov.np ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mofaga.gov.np",
+    "domain": "mofaga.gov.np",
+    "country": "NP",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] The website \"mofaga.gov.np\" belongs to the Ministry of Federal Affairs and General Administration of Nepal. This government body is responsible for overseeing federal affairs, local governance, and administrative functions within the country. It focuses on decentralization, local development, and public administration to enhance effective governance across Nepal's provinces and municipalities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw9mywdhlmdvdi5ucebmdw5rc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-30 12:13:28.345462",
+    "disclosedDate": "2024-12-30 12:13:31.020466"
+  }
+}

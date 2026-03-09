@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-639-07F982",
+  "type": "ransomware-incident",
+  "title": "Micro Star International ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Micro Star International",
+    "domain": "msi.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "moneymessage",
+    "name": "moneymessage",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Micro-Star International AKA MSI designs, manufactures, and sells motherboards and graphics cards for customers in the United States, Canada, and internationally. MSI is headquartered in Taipei, Taiwan. MSI source code, including framework to develop bios, also we have private keys.We will publish stolen data when timer expires.Databases: wwrlt2, eais, CTMS, ERP.Revenue: $7BWebsite: msi.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twljcm8gu3rhcibjbnrlcm5hdglvbmfsqg1vbmv5bwvzc2fnzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-07 02:24:57.712791",
+    "disclosedDate": "2023-04-07 02:24:57.712848"
+  }
+}

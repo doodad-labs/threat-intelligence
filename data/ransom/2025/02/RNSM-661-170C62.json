@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-170C62",
+  "type": "ransomware-incident",
+  "title": "Greencastle-Antrim Senior High School (gcasd.org) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Greencastle-Antrim Senior High School (gcasd.org)",
+    "domain": "gcasd.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 7600000000,
+    "description": "7.6 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d8ecf1049e21b4acb0d170ec74888d3c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jlzw5jyxn0bgutqw50cmltifnlbmlvcibiawdoifnjag9vbcaoz2nhc2qub3jnkubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-17 00:00:00.000000",
+    "disclosedDate": "2025-02-17 14:21:57.450909"
+  }
+}

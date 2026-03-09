@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-640-220217",
+  "type": "ransomware-incident",
+  "title": "Canadian Nurses Association ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Canadian Nurses Association",
+    "domain": "cna-aiic.ca",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "snatch",
+    "name": "snatch",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CNA is a powerhouse nursing organization leading the development of health policy across Canada. Representing Canada's 460,000 regulated nurses, across all 13 provinces and territories, we're the only focal point for the profession on the national stage — and have been since 1908.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d3519eb11cc90fef7a1595337244ee45.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fuywrpyw4gtnvyc2vziefzc29jawf0aw9uqhnuyxrjaa==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.itworldcanada.com/article/canadian-nurses-association-hit-by-cyber-attack/539330",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-22 01:56:00.000000",
+    "disclosedDate": "2023-05-22 00:59:28.940522"
+  }
+}

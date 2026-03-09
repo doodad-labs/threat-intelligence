@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-641-060B14",
+  "type": "ransomware-incident",
+  "title": "Bibliotheek Gouda ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bibliotheek Gouda",
+    "domain": "bibliotheekgouda.nl",
+    "country": "NL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Gouda library is more than just a library. We are a complete network of involved and enthusiastic people and initiatives. Everything we do is about sharing, exchanging and working together. We are an enterprising organization, hospitable, alert to new developments and willing to experiment. And everything must have added value for the city in which we are anchored. That makes us the nicest library in the Netherlands.https://www.bibliotheekgouda.nl/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/207529fae8e99408440c453a5ca5f88d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmlibglvdghlzwsgr291zgfaogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.vpngids.nl/nieuws/bibliotheek-gouda-doelwit-van-ransomware-aanval/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-04 00:00:00.000000",
+    "disclosedDate": "2023-06-06 06:51:04.122320"
+  }
+}

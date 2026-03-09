@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-648-11DCB9",
+  "type": "ransomware-incident",
+  "title": "Blackburn College ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Blackburn College",
+    "domain": "blackburn.edu",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "Blackburn College is a private college in Carlinville, Illinois. Blackburn is a federally recognized work college with a student-managed work program, enabling students to gain leadership experience as they manage other students. We are going to upload 30GB ofthe college files. There are many operational files inside, HR files with personal docs of students and employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmxhy2tidxjuienvbgxlz2vaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-11 16:16:48.666767",
+    "disclosedDate": "2024-01-11 16:16:48.837578"
+  }
+}

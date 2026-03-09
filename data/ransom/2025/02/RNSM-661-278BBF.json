@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-278BBF",
+  "type": "ransomware-incident",
+  "title": "MUNDI.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MUNDI.COM",
+    "domain": "mundi.com",
+    "country": "BR"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] MUNDI.COM is a global tech company specializing in travel services. They provide an expansive online platform that assists users in finding, comparing and booking various travel services including flights, hotels, and packages. Operating internationally, they offer services from numerous providers, striving to find the best deals and options to accommodate their customer's unique travel needs. They have a customer-centric approach to help travelers save time and money.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tvvorekuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:45:56.973261",
+    "disclosedDate": "2025-02-27 16:46:02.035652"
+  }
+}

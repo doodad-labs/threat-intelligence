@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-646-015044",
+  "type": "ransomware-incident",
+  "title": "Advarra Inc.(PFIZER,GILEAD ETC AFFECTED) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Advarra Inc.(PFIZER,GILEAD ETC AFFECTED)",
+    "domain": "advarra.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Advarra advances the way clinical research is conducted: bringing life sciences companies, CROs, research sites, investigators, and academia together at the intersection of safety, technology, and collaboration. With trusted IRB and IBC review solutions, innovative technologies, experienced consultants, and deep-seated connections across the industry, Advarra provides integrated solutions that safeguard trial participants, empower clinical sites, ensure compliance, and optimize research performance. Advarra is advancing clinical trials to make them safer, smarter, and faster. For more information, visit advarra.com.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7ee35e7f768fbdc911851f4f8acca721.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwr2yxjyysbjbmmukfbgsvpfuixhsuxfquqgrvrdiefgrkvdvevekubhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.databreaches.net/exclusive-advarra-hacked-threat-actors-threatening-to-leak-data/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-31 23:49:54.123456",
+    "disclosedDate": "2023-11-01 00:55:42.069342"
+  }
+}

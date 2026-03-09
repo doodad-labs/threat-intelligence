@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-654-19A653",
+  "type": "ransomware-incident",
+  "title": "lothar-rapp.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lothar-rapp.de",
+    "domain": "lothar-rapp.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Drilling and blasting companies",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aeab216f95176448de1c83026325c8c5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bg90agfylxjhchauzgvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-18 14:45:00.000000",
+    "disclosedDate": "2024-07-19 09:25:08.648873"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-26D50B",
+  "type": "ransomware-incident",
+  "title": "www.castelligroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.castelligroup.com",
+    "domain": "castelligroup.com",
+    "country": "IT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cd53a583819409a384a2ea63c6f59d91.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnhc3rlbgxpz3jvdxauy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-26 20:44:43.000000",
+    "disclosedDate": "2024-07-26 22:13:23.611428"
+  }
+}

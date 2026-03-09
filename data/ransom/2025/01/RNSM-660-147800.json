@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-147800",
+  "type": "ransomware-incident",
+  "title": "Gebäudereinigungsakademie ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Gebäudereinigungsakademie",
+    "domain": "gebaeudereinigungsakademie.at",
+    "country": "AT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GebäudereinigungsakademieGebäudereinigungs akademie in Austria offers professional training in building cleaning, home maintenance and pest control. The center is equipped with modern equipment and offers certified courses that meet international standards. This is a place where you can learn relevant methods and technologies, as well as rent premises for professionals.https://www.gebaeudereinigungsakademie.at/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c661a35081397fb45364e92879ed289.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2viw6r1zgvyzwluawd1bmdzywthzgvtawvaogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-14 12:12:55.637728",
+    "disclosedDate": "2025-01-14 12:14:03.637547"
+  }
+}

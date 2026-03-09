@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-286675",
+  "type": "ransomware-incident",
+  "title": "www.contegritygroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.contegritygroup.com",
+    "domain": "contegritygroup.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Contegrity Group, Inc. specializes in professional development and organizational consulting. They focus on enhancing leadership capabilities and fostering effective teamwork within organizations. Their services include workshops, coaching, and tailored consulting engagements aimed at improving communication, productivity, and overall organizational health.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eddc5bf2418e86a345fa374fa74ed194.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnvbnrlz3jpdhlncm91cc5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-28 10:32:57.000000",
+    "disclosedDate": "2024-09-28 18:08:28.237340"
+  }
+}

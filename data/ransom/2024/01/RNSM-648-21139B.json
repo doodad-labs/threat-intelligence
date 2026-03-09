@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-21139B",
+  "type": "ransomware-incident",
+  "title": "marxan.es ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "marxan.es",
+    "domain": "marxan.es",
+    "country": "ES",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://www.einforma.com/informacion-empresa/marxan#ancla-datos-comercialesTHE OPERATION OF CAR PARKS, OWNED AND OWNED BY OTHERS, CONSTRUCTION, LEASING, PURCHASE AND SALE THEREOF, ADMINISTRATION AND OPERATION OF ALL TYPES OF CAR PARKS, THE CONSTR...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/02c34cdef6cde4d5330fe93c677d9ca7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfyegfulmvzqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-21 00:43:00.000000",
+    "disclosedDate": "2024-01-21 02:42:13.949331"
+  }
+}

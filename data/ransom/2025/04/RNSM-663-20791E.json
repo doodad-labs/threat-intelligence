@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-20791E",
+  "type": "ransomware-incident",
+  "title": "MRC de Maskinongé - district ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MRC de Maskinongé - district",
+    "country": "CA",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 713200000000,
+    "description": "MRC de Maskinongé - district, unites 17 municipalities with an area of ​​more than 2,600 square kilometers. MRC de Maskinongé district office is located at 760 Saint Laurent Blvd E, Louiseville, Quebec, J5V 1H9, Canada and has 83 employees. The total amount of data leakage is 713.20 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8be17ff1fb2fb91813353a13c048cede.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tvjdigrlie1hc2tpbm9uz8opic0gzglzdhjpy3rabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-19 18:35:15.000000",
+    "disclosedDate": "2025-04-20 07:20:50.553033"
+  }
+}

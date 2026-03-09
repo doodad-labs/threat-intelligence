@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-066F8B",
+  "type": "ransomware-incident",
+  "title": "BRUNTON-SHAW.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BRUNTON-SHAW.COM",
+    "domain": "brunton-shaw.com",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Brunton Shaw is a company based in the UK that specializes in the manufacture of wire and rope solutions. It offers high performance ropes for various sectors including construction, mining, oil, gas, and renewable energy. The company is well-known for delivering reliable and durable products with an emphasis on quality and innovation. It has global presence with an extensive distribution network.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8ed63fc3b0c7769293ce21b6f7062d3a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qljvtlrpti1tsefxlknptubldmvyzxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-06 17:18:30.145234",
+    "disclosedDate": "2025-08-06 17:19:05.066887"
+  }
+}

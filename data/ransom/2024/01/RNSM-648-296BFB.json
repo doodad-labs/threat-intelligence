@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-648-296BFB",
+  "type": "ransomware-incident",
+  "title": "Get Away Today ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Get Away Today",
+    "domain": "getawaytoday.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Get Away Today is an online travel booking service. We've taken afew databases with personal information of their clients. Thousand of lines. We'll make it available soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2v0ief3yxkgvg9kyxlaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-29 15:17:04.959590",
+    "disclosedDate": "2024-01-29 15:17:05.136877"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-01C50E",
+  "type": "ransomware-incident",
+  "title": "MD Manouel InsuranceAgency ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MD Manouel InsuranceAgency",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "S&R Insurance Services Inc. is a reputable insurance agency located in Rancho Cucamonga, California, specializing in a wide range of insurance products such as auto, home, commercial, life, umbrella, and health insurance.We are ready to upload more than 30GB of corporate documents suchas: Personal employee information, client data, projects, agreements and contracts, other internal documents.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tuqgtwfub3vlbcbjbnn1cmfuy2vbz2vuy3laywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-01 00:00:00.000000",
+    "disclosedDate": "2025-12-01 12:48:19.957462"
+  }
+}

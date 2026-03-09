@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-01538D",
+  "type": "ransomware-incident",
+  "title": "tirtaraharja.co.id ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tirtaraharja.co.id",
+    "domain": "tirtaraharja.co.id",
+    "country": "ID"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] PT Tirta Raharja Perkasa is an Indonesian company offering services in portable water supply. The company manages the distribution system of clean and healthy drinking water to fulfill the needs of communities in remote and less developed areas. Their mission is to provide a higher standard of life by ensuring safe and potable drinking water for everyone.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/16b8ec5524b5cb3b864e4f482b6ba3d9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dglydgfyywhhcmphlmnvlmlkqgz1bmtzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-01 23:05:23.613241",
+    "disclosedDate": "2025-02-01 23:05:23.613241"
+  }
+}

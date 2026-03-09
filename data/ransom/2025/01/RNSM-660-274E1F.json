@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-274E1F",
+  "type": "ransomware-incident",
+  "title": "zapopan.gob.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "zapopan.gob.mx",
+    "domain": "zapopan.gob.mx",
+    "country": "MX",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "zapopan.gob",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ffedca42532d8b63d419e929f826c9a3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/emfwb3bhbi5nb2iubxhaymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 08:15:32.808018",
+    "disclosedDate": "2025-01-27 08:16:43.194319"
+  }
+}

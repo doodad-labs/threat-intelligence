@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-069C82",
+  "type": "ransomware-incident",
+  "title": "IDS Infotech ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IDS Infotech",
+    "domain": "idsil.com",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/49b421ea86cc8c1c93b3093064bde31d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/surtieluzm90zwnoqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-06 12:43:56.000000",
+    "disclosedDate": "2025-04-06 18:51:56.196849"
+  }
+}

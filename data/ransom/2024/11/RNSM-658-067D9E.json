@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-067D9E",
+  "type": "ransomware-incident",
+  "title": "Cape Cod Regional Technical High School (capetech.us) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cape Cod Regional Technical High School (capetech.us)",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 6000000000,
+    "description": "6 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/41875e958b29cb61ef8da6abed1d8820.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fwzsbdb2qgumvnaw9uywwgvgvjag5py2fsiehpz2ggu2nob29sichjyxbldgvjac51cylazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-06 00:00:00.000000",
+    "disclosedDate": "2024-11-06 15:17:15.137363"
+  }
+}

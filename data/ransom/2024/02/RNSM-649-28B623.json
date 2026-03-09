@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-649-28B623",
+  "type": "ransomware-incident",
+  "title": "Bangladesh Police ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bangladesh Police",
+    "domain": "pbi.gov.bd",
+    "country": "BD",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "mogilevich",
+    "name": "mogilevich",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 13000000000,
+    "description": "We successfully breached Bangladesh Police Category: Bangladesh police Data compromised:a lot of internal files of their infrastructure Size: 13GB Data is also for sale! Deadline: 3.2.24 If you are an employee of the company or someone who would like to buy the data, click on me",
+    "claimed_data_types": [
+      "internal-documents"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfuz2xhzgvzacbqb2xpy2vabw9nawxldmljaa==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-28 00:00:00.000000",
+    "disclosedDate": "2024-02-28 19:20:10.290030"
+  }
+}

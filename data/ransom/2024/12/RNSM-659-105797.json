@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-105797",
+  "type": "ransomware-incident",
+  "title": "leadboxhq.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "leadboxhq.com",
+    "domain": "leadboxhq.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Advertising & Marketing / clients' data / id  index  score  source  closed_at  company: id  name  uuid  contact  id  name  phone  uuid  created_at ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3d7dfb9be8b0ddbe2c3d66736bdaa77f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgvhzgjveghxlmnvbubhchq3mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 16:12:47.976566",
+    "disclosedDate": "2024-12-10 16:12:48.615746"
+  }
+}

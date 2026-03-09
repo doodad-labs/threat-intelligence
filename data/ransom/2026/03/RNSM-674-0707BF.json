@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-0707BF",
+  "type": "ransomware-incident",
+  "title": "OneSource Medical Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OneSource Medical Group",
+    "domain": "onesourcemg.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A provider of RCM and billing services",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/040d96a2bce99630a6a859e9c8201cb7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t25lu291cmnlie1lzgljywwgr3jvdxbaz2vuzxnpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-07 00:00:00.000000",
+    "disclosedDate": "2026-03-07 11:41:44.412034"
+  }
+}

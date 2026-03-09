@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-112EBC",
+  "type": "ransomware-incident",
+  "title": "tvgoiania.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tvgoiania.com.br",
+    "domain": "tvgoiania.com.br",
+    "country": "BR",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "80K USD",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhznb2lhbmlhlmnvbs5ickbkzxztyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-11 17:23:57.238408",
+    "disclosedDate": "2025-05-11 17:23:58.738722"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-07011B",
+  "type": "ransomware-incident",
+  "title": "lofotenseafood.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lofotenseafood.com",
+    "domain": "lofotenseafood.com",
+    "country": "NO",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lofoten Seafood was established in 1980 by Britt and Roger Mosseng, who started with farming of Atlantic salmon (Salmo salar). Some years later the production of dried and salted fish resumed, which originally had its beginnings in the 1930s. The company has placed emphasis on local control and ownership. Good workers have helped build the company to what it is today. Lofoten Seafood has its own Smolt production - farming of fish - production of fish - processing, as well as its own sales department and export activity. Everything maintained and controlled by the same company. Knowledge and experience are exchanged at every level in the company as we as daily rutines of control of every department. Traceability is very important for the company which helps us trace any matter regarding the fish from its a fish egg to it reach the markets around the world.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e374bf2c50d4e4b2e21e5ef9aa86f1fc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bg9mb3rlbnnlywzvb2quy29tqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-31 00:00:00.000000",
+    "disclosedDate": "2025-03-07 18:53:02.294056"
+  }
+}

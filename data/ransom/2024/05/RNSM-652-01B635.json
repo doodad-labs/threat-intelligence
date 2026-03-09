@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-01B635",
+  "type": "ransomware-incident",
+  "title": "awwg.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "awwg.com",
+    "domain": "awwg.com",
+    "country": "ES",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "underground",
+    "name": "underground",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue:€585M - Country :France, Spain, U...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ec0a9f3e4cac7fc2a65d37445f083a2b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxd3zy5jb21adw5kzxjncm91bmq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-25 00:00:00.000000",
+    "disclosedDate": "2024-05-01 14:09:12.101215"
+  }
+}

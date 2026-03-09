@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-671-077EA6",
+  "type": "ransomware-incident",
+  "title": "graphiquedefrance.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "graphiquedefrance.com",
+    "domain": "graphiquedefrance.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Shop our Lifestyle &amp; Gift Boutique for Designer Stationery, Journals, Planners, Calendars, Holid...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/24e568794d7ac7093578006023637bcd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jhcghpcxvlzgvmcmfuy2uuy29tqgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d876e121-b6f8-4ddd-a233-90467ab10737.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-06 12:43:00.000000",
+    "disclosedDate": "2025-12-07 10:27:21.006871"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-308964",
+  "type": "ransomware-incident",
+  "title": "semco-tech.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "semco-tech.com",
+    "domain": "semco-tech.com",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SEMCO Technologies is a France-based expert in electrostatic chucks (ESCs), essential components in semiconductor device manufacturing. The company focuses on delivering advanced and tailored wafer handling solutions to meet the needs of larg            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/62e071b29327bd3f0aa7f48310e002b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vty28tdgvjac5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-30 00:00:00.000000",
+    "disclosedDate": "2025-06-30 21:28:10.802125"
+  }
+}

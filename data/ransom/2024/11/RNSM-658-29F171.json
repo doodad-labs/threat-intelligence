@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-29F171",
+  "type": "ransomware-incident",
+  "title": "Touchstone Home Products ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Touchstone Home Products",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Touchstone Home Products, Inc. is an industry leader in Electric Fireplace and TV Lift products for the home since 2005.We are ready to upload more than 20 GB of internal corporate documents including: employee and customer contact information, business licenses, insurance documents etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vg91y2hzdg9uzsbib21lifbyb2r1y3rzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-25 00:00:00.000000",
+    "disclosedDate": "2024-11-29 12:59:50.093009"
+  }
+}

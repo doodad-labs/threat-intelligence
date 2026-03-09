@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-22DD8C",
+  "type": "ransomware-incident",
+  "title": "Waldner's ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Waldner's",
+    "domain": "waldners.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Waldner's, founded in 1939, is an office furniture company. They offer a variety of products including chairs, open plan workstations, tables and more. Waldner's corporate office is located in 215 Lexington Ave, New York City, New York, 10016, United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2717e7957e586707a2a6f81d4c355f14.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fszg5lcidzqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-22 10:45:49.12345",
+    "disclosedDate": "2024-01-22 14:13:58.402726"
+  }
+}

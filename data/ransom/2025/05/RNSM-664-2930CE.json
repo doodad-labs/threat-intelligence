@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-2930CE",
+  "type": "ransomware-incident",
+  "title": "hallmarknameplate.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hallmarknameplate.com",
+    "domain": "hallmarknameplate.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 14.06.2025.Hallmark Nameplate is located in a 30,000 square foot manufacturing facility in the heart of Central Florida. Since 1957, our engineering and manufacturing teams have been             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/59866cf93b8db80bf2dbfedacd5244e3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfsbg1hcmtuyw1lcgxhdguuy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-29 00:00:00.000000",
+    "disclosedDate": "2025-05-29 14:12:35.822524"
+  }
+}

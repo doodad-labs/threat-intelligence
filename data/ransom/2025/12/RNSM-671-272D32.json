@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-272D32",
+  "type": "ransomware-incident",
+  "title": "inpipeproducts.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "inpipeproducts.com",
+    "domain": "inpipeproducts.com",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "iNPIPE PRODUCTS is a British engineering and manufacturing company headquartered in Brompton on Swale, North Yorkshire, United Kingdom. The firm …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3dd7033971e6b6c2ba07ccd6301d50f6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw5waxblchjvzhvjdhmuy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-27 20:40:00.818017",
+    "disclosedDate": "2025-12-27 20:40:13.239954"
+  }
+}

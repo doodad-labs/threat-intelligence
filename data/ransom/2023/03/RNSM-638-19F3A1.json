@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-638-19F3A1",
+  "type": "ransomware-incident",
+  "title": "spoormaker.co.za ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "spoormaker.co.za",
+    "domain": "spoormaker.co.za",
+    "country": "ZA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 350000000000,
+    "description": "SPOORMAKER AND PARTNERS INC - REGISTRATION (CIPC NO): 1981/008290/21. Consultations on mechanics, electrics, fire fighting and sanitation. Designing. There are more than 350Gb of confidential data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ae6adb1673254e37d2426da446cd6c00.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3bvb3jtywtlci5jby56yubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-19 06:29:00.000000",
+    "disclosedDate": "2023-03-19 07:09:56.717195"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-294CE1",
+  "type": "ransomware-incident",
+  "title": "renaultinantwerpen.be ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "renaultinantwerpen.be",
+    "domain": "renaultinantwerpen.be",
+    "country": "BE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Company offers a range of new and used passenger cars, utility vans, hybrid cars, and electric vehicles as well as provides financing, workshops, and accessories. Renault Antwerpen conducts business in Belgium.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/01678b327cf7cae6f71f54d364bffe80.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmvuyxvsdgluyw50d2vycgvulmjlqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-29 19:48:00.000000",
+    "disclosedDate": "2023-08-29 20:44:14.448368"
+  }
+}

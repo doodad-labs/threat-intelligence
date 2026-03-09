@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-649-149F56",
+  "type": "ransomware-incident",
+  "title": "conseguros ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "conseguros",
+    "domain": "conseguros.com.gt",
+    "country": "TL",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "You don't have much time left, the company decides to ignore us which means the data will be open and available for public and free download.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29uc2vndxjvc0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-04 00:00:00.000000",
+    "disclosedDate": "2024-02-14 10:33:52.470208"
+  }
+}

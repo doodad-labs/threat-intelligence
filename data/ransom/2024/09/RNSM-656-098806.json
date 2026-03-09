@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-098806",
+  "type": "ransomware-incident",
+  "title": "schynsassurances.be ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "schynsassurances.be",
+    "domain": "schynsassurances.be",
+    "country": "BE",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Schyns Assurances & Finances is a trusted ally in protecting your assets, wealth, and savings. With over 40 years of experience, we prioritize quality over quantity by providing tailored solutions for both individuals and professionals. Our small yet dedicated team is committed to ensuring that clients feel secure and can rely on our assistance whenever needed.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9d9b59953ec8e8d80a626392954ef46e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2noew5zyxnzdxjhbmnlcy5izubrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-09 20:37:11.110224",
+    "disclosedDate": "2024-09-09 20:37:11.540775"
+  }
+}

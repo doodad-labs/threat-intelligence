@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-635-026338",
+  "type": "ransomware-incident",
+  "title": "adamjeeinsurance.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "adamjeeinsurance.com",
+    "domain": "adamjeeinsurance.com",
+    "country": "PK",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Adamjee Insurance is one of the leading general insurance companies in Pakistan, offering Motor Insurance, Health Insurance, and Travel Insurance and offers customised solutions to meet the protection needs of individual and corporate customers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aaa30fc02a455ffd01ecfbda107dac43.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywrhbwplzwluc3vyyw5jzs5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-02 11:06:27.065105",
+    "disclosedDate": "2022-12-02 11:06:27.065105"
+  }
+}

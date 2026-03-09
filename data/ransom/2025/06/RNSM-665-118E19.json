@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-118E19",
+  "type": "ransomware-incident",
+  "title": "fasse.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fasse.com",
+    "domain": "fasse.com",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fasse Valves specializes in precision motion control, offering a wide range of hydraulic valves and controls engineered for demanding applications. Their products cater to industries such as agriculture, construction, lawn and turf care, and             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/042adcffc8500b7361fd512aa34f22c8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmfzc2uuy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-11 00:00:00.000000",
+    "disclosedDate": "2025-06-11 17:35:45.239522"
+  }
+}

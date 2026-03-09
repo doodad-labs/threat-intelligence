@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27E731",
+  "type": "ransomware-incident",
+  "title": "ROYALLEMKES.NL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ROYALLEMKES.NL",
+    "domain": "royallemkes.nl",
+    "country": "NL",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ROYALLEMKES.NL is a Netherlands-based online retailer specializing in bedding and bedroom accessories. Their product line includes a wide range of items such as bed linens, pillows, duvets and mattresses. The company is widely recognized for quality products and exceptional customer service. ROYALLEMKES.NL emphasizes sustainability in its operations, offering products that are made with environmentally friendly materials and processes.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uk9zquxmru1lrvmutkxay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:15:12.517296",
+    "disclosedDate": "2025-02-27 17:15:17.845906"
+  }
+}

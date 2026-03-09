@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-645-2779D6",
+  "type": "ransomware-incident",
+  "title": "VOLEX.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VOLEX.COM",
+    "domain": "volex.com",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Volex is a leading integrated manufacturing specialist for performance-critical applications and power products. Our trusted brand holds unparalleled leadership positions in two critical areas of the interconnect space. With 19 operating sites, our globally diverse team of over 11,500 colleagues work across 24 countries. They are united by a shared mission: to be a World Class Supplier, providing our customers with electronic assembly services that will exceed their expectations.SITE: www.volex.com Address  Unit C1 Antura Bond Close Basingstoke RG24 8PZ United Kingdom",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/532b285670068a589c330165b55157b2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vk9mrvguq09nqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.volex.com/investor-relations/regulatory-news/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-27 10:00:18.180493",
+    "disclosedDate": "2023-10-27 10:00:18.180516"
+  }
+}

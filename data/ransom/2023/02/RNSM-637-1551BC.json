@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-1551BC",
+  "type": "ransomware-incident",
+  "title": "vipar.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "vipar.com",
+    "domain": "vipar.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "VIPAR Heavy Duty is North America’s leading network of independent aftermarket truck parts distributors. VIPAR Heavy Duty distributors serve the needs of their customers from over 560 locations across the United States, Canada, Puerto Rico, and Mexic...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmlwyxiuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-15 13:46:01.885169",
+    "disclosedDate": "2023-02-15 13:46:01.885169"
+  }
+}

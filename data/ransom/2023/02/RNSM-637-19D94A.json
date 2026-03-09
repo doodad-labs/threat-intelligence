@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-19D94A",
+  "type": "ransomware-incident",
+  "title": "servicesfinanciersjdf.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "servicesfinanciersjdf.com",
+    "domain": "servicesfinanciersjdf.com",
+    "country": "QC",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "JDF Services financiers est un cabinet d'assurances collectives et de personnes spécialisé dans le domaine depuis le début des années 90.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vydmljzxnmaw5hbmnpzxjzamrmlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-19 17:50:43.275661",
+    "disclosedDate": "2023-02-19 17:50:43.275661"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-643-0548DF",
+  "type": "ransomware-incident",
+  "title": "haynesintl.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "haynesintl.com",
+    "domain": "haynesintl.com",
+    "country": "IN",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "haynesintl.comHaynes International, Inc., headquartered in Kokomo, Indiana, is one of the largest producers of corrosion-resistant and high-temperature alloys. In addition to Kokomo, Haynes has manufacturing facilities in Arcadia, Louisiana, and Mo...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/44a0dc7a1be5afc4ad6d99085f150ff7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agf5bmvzaw50bc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.globenewswire.com/en/news-release/2023/6/11/2685905/9124/en/haynes-international-announces-network-outage.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-05 09:14:00.000000",
+    "disclosedDate": "2023-08-05 11:58:16.732120"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-666-03CDCF",
+  "type": "ransomware-incident",
+  "title": "Metric ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Metric",
+    "domain": "metricss.com",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Canada",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/087283ce6b2c6a5abc7b534c5dfbb55e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twv0cmljqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-27 00:00:00.000000",
+    "disclosedDate": "2025-07-03 15:22:12.566693"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-18FCA5",
+  "type": "ransomware-incident",
+  "title": "Hayward Quartz Technology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hayward Quartz Technology",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "Hayward Quartz Technology started in Hayward California with a simple goal of supporting quartz fabricators with high quality machined quartz products. We are ready to upload more than 50 GB of corporate documents such as: employee details, financial data, corporate NDA, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgf5d2fyzcbrdwfydhogvgvjag5vbg9neubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-18 00:00:00.000000",
+    "disclosedDate": "2025-04-18 11:47:02.945254"
+  }
+}

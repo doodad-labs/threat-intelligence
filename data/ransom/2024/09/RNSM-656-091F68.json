@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-656-091F68",
+  "type": "ransomware-incident",
+  "title": "www.unige.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.unige.it",
+    "domain": "unige.it",
+    "country": "IT",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The University of Genoa (Università degli Studi di Genova), often referred to as UniGe, is a prestigious public research university located in Genoa, Italy. Established in 1481, it offers a wide range of undergraduate, graduate, and doctoral programs across various fields such as humanities, sciences, engineering, and medicine. UniGe is renowned for its strong emphasis on research, innovation, and international collaboration.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a566ce4defe810b82a77907ef7516c01.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnvuawdllml0qhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://genova.repubblica.it/cronaca/2024/09/10/news/gli_hacker_attaccano_luniversita_di_genova_sottratti_dati_e_chiesto_un_riscatto_indagini_della_polizia_postale-423489486/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-09 14:32:38.000000",
+    "disclosedDate": "2024-09-09 20:49:28.528919"
+  }
+}

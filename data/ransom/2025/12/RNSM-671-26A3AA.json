@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-26A3AA",
+  "type": "ransomware-incident",
+  "title": "drako.com.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "drako.com.mx",
+    "domain": "drako.com.mx",
+    "country": "MX",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since 1962, at Grupo Drako® we have built a legacy of growth, innovation, and leadership. With more...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e0a00149c58ba0b73f14956b623f82ae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zhjha28uy29tlm14qgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 17:03:00.000000",
+    "disclosedDate": "2025-12-26 15:48:03.380143"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-170BF7",
+  "type": "ransomware-incident",
+  "title": "Apple Electric Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Apple Electric Ltd",
+    "domain": "theappleelectric.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Apple Electric Ltd. is solution electrical contractor providing a wide range of electrical, electronic and communications services to commercial and industrial customers. Apple Electrical Contractors corporate office is located in 7540 Andrews Hwy, Odessa, Texas, 79765, United States and has 40 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ec89720999b02f5cfcc65e1abce24f03.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxbwbgugrwxly3ryawmgthrkqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-14 16:35:10.000000",
+    "disclosedDate": "2024-11-17 21:17:07.823334"
+  }
+}

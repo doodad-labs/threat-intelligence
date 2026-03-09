@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-10A497",
+  "type": "ransomware-incident",
+  "title": "agp.ph ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "agp.ph",
+    "domain": "agp.ph",
+    "country": "PH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Our services include project development, engineering, procurement, construction and commissioning for onshore and offshore gas infrastructure, LNG logistics, LNG marketing and distribution of natural gas to the power, industrial, commercial, transpo...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/13f5c39911d2480ebfb4fd08dcc6dee2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywdwlnboqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-10 15:20:00.000000",
+    "disclosedDate": "2023-04-10 16:46:12.036377"
+  }
+}

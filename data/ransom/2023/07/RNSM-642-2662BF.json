@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-2662BF",
+  "type": "ransomware-incident",
+  "title": "TaslyUS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TaslyUS",
+    "domain": "taslyus.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tasly Pharmaceuticals, Inc. (Tasly U.S.) is “Dedicated to a Healthier World.”  And our vision is that the world will change the way it takes and understands medicine.    Founded in 2006, and following years of research and development, Tasly U.S., based in Rockville, Maryland, is positioned to become a world-renowned innovator in pharmaceuticals, biologics, and nutraceuticals.  Among our key accomplishments to date:  T89 (Dantonic) has become the first herbal medicine-derived compound to complete an FDA Phase III global trial, yielding promising data.  Results indicate that T89’s pharmacological functionalities express clinically significant benefits, including improving blood circulation, boosting energy metabolism level, and reducing blood viscosity.  Tasly U.S. believes our initial success with T89 will pave the way for the broader use of herbal medication as an effective and safe alternative to synthesized chemical and biological treatments.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e9ba61457c49a1061097f47c4a487c79.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgfzbhlvu0bhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-18 00:39:36.000000",
+    "disclosedDate": "2023-07-26 14:49:56.371188"
+  }
+}

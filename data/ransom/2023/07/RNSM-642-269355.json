@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-269355",
+  "type": "ransomware-incident",
+  "title": "The Sage Next ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Sage Next",
+    "domain": "thesagenext.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Authorized QuickBooks Solution Provider doesn't know how to secure tax data and trying to play with Kitty. If we don't see you soon we will upload clients backups with full QB/SAGE databases.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8f544a95220b7d3e3636153e136a33b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifnhz2ugtmv4debhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-04 20:31:28.000000",
+    "disclosedDate": "2023-07-26 15:30:05.793634"
+  }
+}

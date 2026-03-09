@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-183B43",
+  "type": "ransomware-incident",
+  "title": "Reliance Connects (relianceconnects.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Reliance Connects (relianceconnects.com)",
+    "domain": "relianceconnects.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 19000000000,
+    "description": "19 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8dff1b530edc93a116ace28bd16a01d8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvsawfuy2ugq29ubmvjdhmgkhjlbglhbmnly29ubmvjdhmuy29tkubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-18 00:00:00.000000",
+    "disclosedDate": "2024-12-18 16:53:09.256458"
+  }
+}

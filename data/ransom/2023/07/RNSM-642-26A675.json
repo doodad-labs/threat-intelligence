@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26A675",
+  "type": "ransomware-incident",
+  "title": "City of Lakewood ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "City of Lakewood",
+    "domain": "cityoflakewood.us",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lakewood is a city in Pierce County, Washington, United States. The population was 63,612 at the 2020 census.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1a9fffd3248e01bb0a4bb8bf1de0870b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0esbvzibmywtld29vzebhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-22 08:31:56.000000",
+    "disclosedDate": "2023-07-26 15:54:24.563631"
+  }
+}

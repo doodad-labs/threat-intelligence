@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-635-228E6F",
+  "type": "ransomware-incident",
+  "title": "TRANSPORT.NSW.GOV.AU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TRANSPORT.NSW.GOV.AU",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Homepage - Transport for NSW",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfjbtlnqt1julk5tvy5ht1yuqvvay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-22 20:02:25.134279",
+    "disclosedDate": "2022-12-22 20:02:25.134279"
+  }
+}

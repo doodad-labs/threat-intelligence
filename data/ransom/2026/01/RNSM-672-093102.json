@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-093102",
+  "type": "ransomware-incident",
+  "title": "Grupo Ruiz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Grupo Ruiz",
+    "domain": "gruporuiz.com",
+    "country": "ES",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Grupo Ruiz is a leading firm in sustainable and innovative mobility with over a century of experience in transforming transportation responsibly and efficiently. The company operates a significant proportion of its fleet using compressed natural gas and electricity, making it a pioneer in sustainable transport solutions in Spain. They also focus on technological innovation through AI to optimize processes and enhance user experience.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/10c35d26a82ba47fa68894d048ef4db3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3j1cg8gunvpekbsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-04 16:57:49.132000",
+    "disclosedDate": "2026-01-09 12:45:32.527317"
+  }
+}

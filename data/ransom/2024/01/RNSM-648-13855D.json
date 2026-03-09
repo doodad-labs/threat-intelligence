@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-648-13855D",
+  "type": "ransomware-incident",
+  "title": "Lee Spring ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lee Spring",
+    "domain": "leespring.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lee Spring Lee Spring manufactures and distributes mechanical springs, wire forms, stampings and fourslide parts worldwide.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvlifnwcmluz0byahlzawrh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-13 11:50:44.998940",
+    "disclosedDate": "2024-01-13 11:50:44.998967"
+  }
+}

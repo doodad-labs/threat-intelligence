@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-07E7F4",
+  "type": "ransomware-incident",
+  "title": "cardiovirginia.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cardiovirginia.com",
+    "domain": "cardiovirginia.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CardioVirginia is a healthcare provider specializing in comprehensive cardiovascular care. They offer a range of services including diagnostic testing, interventional cardiology, and preventive care. The practice is staffed by experienced cardiologists dedicated to personalized patient care, utilizing advanced medical technology to manage and treat heart-related conditions effectively.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9c76004cdb1532cc4c38f3542ebae7cc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fyzglvdmlyz2luaweuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-29 00:00:00.000000",
+    "disclosedDate": "2024-09-07 18:08:56.543173"
+  }
+}

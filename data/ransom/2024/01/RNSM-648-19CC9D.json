@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-648-19CC9D",
+  "type": "ransomware-incident",
+  "title": "Anna Jaques Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Anna Jaques Hospital",
+    "domain": "ajh.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "moneymessage",
+    "name": "moneymessage",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4a3bee41e75c432dacd07bb978c8f3cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw5uysbkyxf1zxmgsg9zcgl0ywxabw9uzxltzxnzywdl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.newburyportnews.com/news/local_news/anna-jaques-systems-compromised-after-cyber-issue/article_a5a6d88e-a58e-11ee-bc90-cf662aa3badb.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-19 22:36:45.398243",
+    "disclosedDate": "2024-01-19 22:36:45.398273"
+  }
+}

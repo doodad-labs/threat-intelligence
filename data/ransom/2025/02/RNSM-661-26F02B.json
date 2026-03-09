@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-26F02B",
+  "type": "ransomware-incident",
+  "title": "www.kppm.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.kppm.com",
+    "domain": "kppm.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] KPPM Global is a project management company engaging in engineering consulting, research, and service. They operate in diverse sectors such as Energy, Pharmaceuticals, Biotechnology, and Infrastructure. Their services include offering innovative solutions to complex business problems, procurement management, risk management, and providing strategic insights among others. With global operations, they aim to deliver sustainable solutions across multiple industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c92aa9e6fde86a714ca7bbc5bbdf2a20.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmtwcg0uy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-26 13:33:20.000000",
+    "disclosedDate": "2025-02-26 22:38:50.142884"
+  }
+}

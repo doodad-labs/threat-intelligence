@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-193008",
+  "type": "ransomware-incident",
+  "title": "barkingwell.gr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "barkingwell.gr",
+    "domain": "barkingwell.gr",
+    "country": "GR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Barking Well Media was founded by the Greek entrepreneur Nikos Koklonis, who was selected by Fortune magazine for its \"40 under 40\" list as one of the top entrepreneurs of 2015 in Greece under 40 years old.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bd91326dfa0907416bdfcacf202f4854.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymfya2luz3dlbgwuz3jabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-18 14:57:00.000000",
+    "disclosedDate": "2024-07-19 09:22:39.768911"
+  }
+}

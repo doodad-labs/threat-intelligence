@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-19B9B3",
+  "type": "ransomware-incident",
+  "title": "CD ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CD",
+    "domain": "cd-custom.com",
+    "country": "JP"
+  },
+  "actor": {
+    "id": "monti",
+    "name": "monti",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Full Leak",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e01b5d59377dfe719dd6f4b3413d58d2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0rabw9udgk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-19 01:17:51.000000",
+    "disclosedDate": "2025-03-19 01:31:11.171800"
+  }
+}

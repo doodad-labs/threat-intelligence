@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-099A24",
+  "type": "ransomware-incident",
+  "title": "Tele-Fonika Cable Americas ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tele-Fonika Cable Americas",
+    "country": "US",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "TFKable Group is a global leader in the production of high and extra-high voltage cables, primarily serving the energy sector. The company specializes in supplying land cables and accessories for offshore wind farms in the Baltic Sea, contributing to renewable energy projects. With a strong focus on quality and innovation, TFKable conducts advanced research and testing to ensure the reliability of its products. The company is actively expanding its operations and investing in modern technologies to strengthen the domestic supply chain for the energy sector - 10GB exf sales data , finance, partners, costumers infos + workers, IDs, invoices etc, sample provided",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvszs1gb25pa2egq2fibgugqw1lcmljyxnabm92yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-09 13:53:08.073091",
+    "disclosedDate": "2025-12-09 13:54:10.249075"
+  }
+}

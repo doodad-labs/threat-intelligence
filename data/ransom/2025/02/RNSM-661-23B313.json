@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-23B313",
+  "type": "ransomware-incident",
+  "title": "www.famcomachine.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.famcomachine.com",
+    "domain": "famcomachine.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Famco Machine Division is a company based in Kenosha, WI, specializing in the manufacture of machinery and tools. Their product catalog includes shear machines, press brakes, routers, and a range of punches, such as bench punches, deep throat punches, and arbor presses. In addition to manufacturing, Famco provides machine services such as maintenance and repair, ensuring their tools deliver optimal performance.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3dc6b34bfea5d5c4e2369ce88cfaec22.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmzhbwnvbwfjagluzs5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-23 18:09:14.000000",
+    "disclosedDate": "2025-02-23 20:11:49.217234"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-628-021604",
+  "type": "ransomware-incident",
+  "title": "State Bar of Georgia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "State Bar of Georgia",
+    "country": "US",
+    "sector": "Education Facilities"
+  },
+  "actor": {
+    "id": "bitlocker",
+    "name": "bitlocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rhdgugqmfyig9miedlb3jnawfayml0bg9ja2vy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-05-02 00:00:00.000000",
+    "disclosedDate": "2022-05-02 00:00:00.000000"
+  }
+}

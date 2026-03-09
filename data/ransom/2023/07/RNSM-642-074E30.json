@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-074E30",
+  "type": "ransomware-incident",
+  "title": "UOFLHEALTH.ORG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UOFLHEALTH.ORG",
+    "domain": "uoflhealth.org",
+    "country": "IN",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "UofL Health - Louisville Hospital and Health Care System Serving Kentucky and Indiana",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/334c1a5e966a5627ef9f31cb1370f820.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vu9gtehfquxusc5pukday2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-07 16:21:52.708186",
+    "disclosedDate": "2023-07-07 16:21:52.708214"
+  }
+}

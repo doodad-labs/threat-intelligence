@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-203CD4",
+  "type": "ransomware-incident",
+  "title": "Circle Electric (circleelectric.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Circle Electric (circleelectric.com)",
+    "domain": "circleelectric.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 25900000000,
+    "description": "25.9 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e6a9bc3e78800cb4f95dee3785351ccf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2lyy2xlievszwn0cmljichjaxjjbgvlbgvjdhjpyy5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-20 00:00:00.000000",
+    "disclosedDate": "2024-12-20 15:16:31.796998"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-18C28F",
+  "type": "ransomware-incident",
+  "title": "Gough Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Gough Construction",
+    "domain": "goughconstruction.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Gough Construction is a construction company known for delivering a range of building and infrastructure projects. They specialize in residential, commercial, and civil engineering works, emphasizing quality, safety, and sustainability. With a skilled team and strong client focus, they aim to meet project requirements efficiently while maintaining high standards in construction practices.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r291z2ggq29uc3rydwn0aw9uqevsrg9yywrv",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:04:20.544254",
+    "disclosedDate": "2024-11-18 21:04:22.878306"
+  }
+}

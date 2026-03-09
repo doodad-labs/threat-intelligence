@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-655-14FC5F",
+  "type": "ransomware-incident",
+  "title": "Boni ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Boni",
+    "domain": "bonisupermarkt.nl",
+    "country": "NL",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 16000000000,
+    "description": "Boni Supermarkets is a local supermarket organization with 42 bra nches, mainly located in the central Netherlands. 16Gb of data fo r upload. Lots of details financial data, a bit of personal data  and other business internal files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qm9uaubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-14 14:23:10.299055",
+    "disclosedDate": "2024-08-14 14:23:11.040400"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-231A1B",
+  "type": "ransomware-incident",
+  "title": "Spire Payments ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Spire Payments",
+    "domain": "spirepayments.com",
+    "country": "GB",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/08615e3882ce4e45ba5a28f001231e89.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3bpcmugugf5bwvudhnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-23 19:38:21.150764",
+    "disclosedDate": "2026-02-23 19:38:36.777581"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-26AB43",
+  "type": "ransomware-incident",
+  "title": "tomioingenieria.com.ar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tomioingenieria.com.ar",
+    "domain": "tomioingenieria.com.ar",
+    "country": "AR"
+  },
+  "actor": {
+    "id": "ralord",
+    "name": "ralord",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "​​Tomio Ingeniería S.A. is an Argentine company specializing in engineering and industrial services. Founded in 1946, it offers a range of services including...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc4621d376caa5d00c83e790a4127c7f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dg9taw9pbmdlbmllcmlhlmnvbs5hckbyywxvcmq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-22 00:00:00.000000",
+    "disclosedDate": "2025-03-26 07:10:55.692343"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-662-14A631",
+  "type": "ransomware-incident",
+  "title": "rixos.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rixos.com",
+    "domain": "rixos.com",
+    "country": "TR",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1800000000000,
+    "description": "Founded in 2000 and headquartered in Dubai, United Arab Emirates, Rixos Hotels is a Turkish luxury hotel chain. The company operates hotels and resorts across Europe and the Middle East, including properties in Azerbaijan, Egypt, Kazakhstan, Russia, Switzerland, Turkey, Ukraine and the UAE. - We will disclose 1.8 TB of data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e71d8975886e9125011e92510d8b3678.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cml4b3muy29tqgvtymfyz28=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-12 18:44:04.706898",
+    "disclosedDate": "2025-03-14 08:08:47.667954"
+  }
+}

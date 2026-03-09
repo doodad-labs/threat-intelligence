@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-181D7C",
+  "type": "ransomware-incident",
+  "title": "Daniel L Kaler, DDS, PC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Daniel L Kaler, DDS, PC",
+    "domain": "drkaler.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "beast",
+    "name": "beast",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Daniel L. Kaler, DDS, PC offers unparalleled orthodontic services to children, teens, and adults in Sioux City, Le Mars, IA, and Wayne, NE. The practice is dedicated to creating beautiful, healthy smiles through gentle and effective treatments in a comfortable environment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5e6f32cdeed2c4bc449ea4e2649bfde8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgfuawvsiewgs2fszxisiereuywguenaymvhc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-17 00:00:00.000000",
+    "disclosedDate": "2026-02-18 12:34:10.223749"
+  }
+}

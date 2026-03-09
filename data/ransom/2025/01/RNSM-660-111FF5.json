@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-111FF5",
+  "type": "ransomware-incident",
+  "title": "COROB ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "COROB",
+    "domain": "corob.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/417f062f470f64450220248086d7d26f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q09st0jaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-11 12:22:30.531479",
+    "disclosedDate": "2025-01-11 12:22:32.980418"
+  }
+}

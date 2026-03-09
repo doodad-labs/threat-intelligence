@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-073E19",
+  "type": "ransomware-incident",
+  "title": "Hibser Yamauchi Architects ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hibser Yamauchi Architects",
+    "domain": "hy-arch.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7993165040139971b40415290c406950.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sglic2vyiflhbwf1y2hpiefyy2hpdgvjdhnaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-07 19:45:42.000000",
+    "disclosedDate": "2024-05-07 20:30:46.486920"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-651-194C7D",
+  "type": "ransomware-incident",
+  "title": "www.lawdcm.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.lawdcm.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Davis Cedillo and Mendoza Inc",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4b4f515db4df004317eb387051cd9388.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmxhd2rjbs5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-20 00:00:00.000000",
+    "disclosedDate": "2024-04-19 12:40:31.419479"
+  }
+}

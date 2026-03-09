@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-31A7A9",
+  "type": "ransomware-incident",
+  "title": "Volkswagen Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Volkswagen Group",
+    "domain": "volkswagen-group.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "User account data (partially hidden emails)                          Authentication tokens (OAuth tokens, JWT tokens)                          Login links for internal systems (e.g., https://identity.vwgroup.io)                          Session cookies (JSESSIONID and others)                          identity and access information (scopes such as email, profile, vin, phone, etc.)                          Authentication and access control details (redirect_uri, state, nonce)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/53f134d95e84fa1c0430456cf5559383.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vm9sa3n3ywdlbibhcm91cebzdg9ybw91cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-31 05:51:19.777021",
+    "disclosedDate": "2025-05-31 05:52:58.255306"
+  }
+}

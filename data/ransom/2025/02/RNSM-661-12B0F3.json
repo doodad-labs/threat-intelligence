@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-12B0F3",
+  "type": "ransomware-incident",
+  "title": "columbiacabinets.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "columbiacabinets.com",
+    "domain": "columbiacabinets.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Columbia Cabinets is a company that designs and sells a variety of high-quality kitchen, bathroom, and custom cabinetry. Their offerings range from contemporary to traditional designs. They are known for their certified designers who work intimately with customers to create unique, personalized cabinetry. Their crafted cabinets are suitable for both residential and commercial spaces. Their emphasis lies on quality, craftsmanship and client satisfaction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aef3a39f8ded4b06c26f7b0664a97d96.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29sdw1iawfjywjpbmv0cy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-12 12:08:26.000000",
+    "disclosedDate": "2025-02-12 14:46:42.625962"
+  }
+}

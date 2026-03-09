@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-14FB96",
+  "type": "ransomware-incident",
+  "title": "shell.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "shell.com",
+    "domain": "shell.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Shell Global",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/23486cd02af63c50227a184fa935365a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2hlbgwuy29tqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-14 20:17:10.537925",
+    "disclosedDate": "2023-06-14 20:17:10.537952"
+  }
+}

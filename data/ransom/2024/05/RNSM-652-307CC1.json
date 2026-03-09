@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-307CC1",
+  "type": "ransomware-incident",
+  "title": "MagicLand ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MagicLand",
+    "domain": "magicland.it",
+    "country": "IT",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since its creation, MagicLand has recorded about 3 million unique visitors. In 2014, with 800,000 visitors, Rainbow MagicLand was  confirmed as the third theme park in Italy. Within the next few d ays Rainbow MagicLand will be confirmed to cause the leak persona l data: bank information (swift codes, BIC, IBAN), EU ID numbers, accounting and HR files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfnawnmyw5kqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-30 13:18:22.755187",
+    "disclosedDate": "2024-05-30 13:18:22.831000"
+  }
+}

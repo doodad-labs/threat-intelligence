@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-190FDD",
+  "type": "ransomware-incident",
+  "title": "rockportmortgage.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rockportmortgage.com",
+    "domain": "rockportmortgage.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1100000000000,
+    "description": "Rockport Mortgage is a leading national provider of FHA-insured financing programs and offers unique customized solutions for multifamily affordable and market-rate housing as well as healthcare and assisted living facilities.SITE: www.rockportmortgage.com Address : 17 Rogers Street Gloucester, MA 01930 United StatesTEL#: (978) 283-9208ALL DATA SIZE: ≈1.1tb 1. Employees personal documents 2. Financial data, Accounting, Payroll 3. Users personal folders 4. Customers data 5. Tax, confidential data & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dc2aa57e002c0a66961c0b4b754f4646.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm9ja3bvcnrtb3j0z2fnzs5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-05 00:00:00.000000",
+    "disclosedDate": "2024-11-19 11:51:09.446952"
+  }
+}

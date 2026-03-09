@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-668-084B4A",
+  "type": "ransomware-incident",
+  "title": "gazomet.pl & cgas.pl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gazomet.pl & cgas.pl",
+    "domain": "gazomet.pl",
+    "country": "PL",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "alphalocker",
+    "name": "alphalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "~200 GB data has been stolen Clients Projects Financial documentation etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/53587fcba6bcebab10313263a7b90066.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2f6b21ldc5wbcamignnyxmucgxaywxwagfsb2nrzxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-08 10:57:06.815824",
+    "disclosedDate": "2025-09-08 10:57:23.719275"
+  }
+}

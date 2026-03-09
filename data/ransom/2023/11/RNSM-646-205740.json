@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-646-205740",
+  "type": "ransomware-incident",
+  "title": "agrovi.dk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "agrovi.dk",
+    "domain": "agrovi.dk",
+    "country": "DK",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 812000000000,
+    "description": "[EN] Agrovi provides finance, auditing, trade and counselling services for the agricultural sector.[DK] Agrovi yder rådgivning til landmænd, landboer og andre erhvervsdrivende. Vi er specialister i regenerativt landbrug og holder os selv og vores kunder opdateret med den nyeste teknologi, der styrker dyrkningen af regenerativt landbrug. Vi hjælper dig med at lette din hverdag, ved at lave dit regnskab, hjælpe med byggetilladelser, samt anden juridisk rådgivningSITE: www.agrovi.dk Address : 22 Industrivænget, Hillerod, Capital Region, 3400, DenmarkALL DATA SIZE: 812gb 1. Corporate data 2. Users data, personal users files 3. Group data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c8d33fc117c3cf03e82ac247b0a8c1ca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywdyb3zplmrrqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-07 00:00:00.000000",
+    "disclosedDate": "2023-11-20 14:28:27.364902"
+  }
+}

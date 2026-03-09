@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-650-01B651",
+  "type": "ransomware-incident",
+  "title": "Kick ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kick",
+    "domain": "kick.com",
+    "country": "AU",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "mogilevich",
+    "name": "mogilevich",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 75000000000,
+    "description": "We successfully breached kick's system Category: video livestreaming Data compromised:streamers/users, affiliate program and logs data Size: 75GB Data is also for sale! Deadline: 3.10.24 If you are an employee of the company or someone who would like to buy the data, click on me",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2lja0btb2dpbgv2awno",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-01 00:00:00.000000",
+    "disclosedDate": "2024-03-01 14:41:39.828110"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-3071EF",
+  "type": "ransomware-incident",
+  "title": "backyarddiscovery.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "backyarddiscovery.com",
+    "domain": "backyarddiscovery.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "Backyard Discovery is built for families. From a child’s first playset to structures that guard the parents’ newest outdoor interests, our products are meant to play a role in families’ lives for years and years. \r\rYou can find our dedicated team hard at work in our Pittsburg, KS headquarters and diligently focused at every one of our distribution centers. Each of our innovators and specialists is passionate about helping families enjoy wonderful moments right in their own backyards — and you can see that focus in our high-quality gazebos, pergolas, swing sets, playhouses, and backyard leisure products.  - ~1TB of confidential data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e20d2bc30fab2bd6a4dfe2b69e72e783.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymfja3lhcmrkaxnjb3zlcnkuy29tqgvtymfyz28=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-29 21:13:01.372576",
+    "disclosedDate": "2024-11-30 07:58:15.359031"
+  }
+}

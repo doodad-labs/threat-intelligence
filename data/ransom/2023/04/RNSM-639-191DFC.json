@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-191DFC",
+  "type": "ransomware-incident",
+  "title": "gizavc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gizavc.com",
+    "domain": "gizavc.com",
+    "country": "IL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Giza has been at the forefront of Israeli's Venture Capital industry for more than 20 years, supporting innovative entrepreneurs and helping them to build great businesses.Since its establishment in 1992, Giza has placed over $0.6 billion into more...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b6b6ab994b781b840a062ac41b6f90b8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2l6yxzjlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-19 10:58:00.000000",
+    "disclosedDate": "2023-04-19 11:48:08.956738"
+  }
+}

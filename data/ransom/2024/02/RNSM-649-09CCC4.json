@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-649-09CCC4",
+  "type": "ransomware-incident",
+  "title": "ZGEO ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ZGEO",
+    "domain": "zivilgeometer.at",
+    "country": "AT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The company makes a decision to ignore us, all personal data are open and available for download below.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wkdft0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-08 00:00:00.000000",
+    "disclosedDate": "2024-02-09 16:34:48.957707"
+  }
+}

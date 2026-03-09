@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26FB63",
+  "type": "ransomware-incident",
+  "title": "YCUA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "YCUA",
+    "domain": "ycua.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Ypsilanti Community Utilities Authority (YCUA) provides water and wastewater services to the Ypsilanti area. Water and/or wastewater services are provided to the City of Ypsilanti, Charter Township of Ypsilanti, Pittsfield Township, Augusta Township, Sumpter Township and Superior Township. YCUA contracts with the Western Townships Utilities Authority (WTUA) to provide wastewater treatment services for the Townships of Canton, Northville, and Plymouth.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2542ffa2eda55e77758de059e8aa209b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wunvqubhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-05-12 12:07:56.000000",
+    "disclosedDate": "2023-07-26 17:22:24.159747"
+  }
+}

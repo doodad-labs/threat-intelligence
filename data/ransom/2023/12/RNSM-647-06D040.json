@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-647-06D040",
+  "type": "ransomware-incident",
+  "title": "Compass Group Italia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Compass Group Italia",
+    "domain": "compass-group.it",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 107000000000,
+    "description": "Compass Group is a company based in Italia. Compass Group offers a wide range of services for companies, schools, hospitals, social and health facilities, business premises, sports and leisure. Data of this Italian giant will be published. There are so many files in the 107Gb of data we've taken from them. Finance, HR, legal, personal and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tcgfzcybhcm91ccbjdgfsawfaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/attacco-informatico-a-compass-group-italia-a-richio-anche-i-dati-di-molte-mense-scolastiche/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-06 14:42:19.987634",
+    "disclosedDate": "2023-12-06 14:42:20.132258"
+  }
+}

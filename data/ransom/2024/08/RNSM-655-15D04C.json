@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-15D04C",
+  "type": "ransomware-incident",
+  "title": "megatravel.com.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "megatravel.com.mx",
+    "domain": "megatravel.com.mx",
+    "country": "MX",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Compañía especializada en organizar y programar viajes internacionales para turismo cultural, receptivo y emisivo. Fundada en México en el año 1999; nos hemos destacado como la mejor Operadora Turística en México, Argentina, Colombia y Panamá.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/73be3b0588937e4ad3491007654396c5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwvnyxryyxzlbc5jb20ubxhazgfya3zhdwx0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-15 00:00:00.000000",
+    "disclosedDate": "2024-08-15 10:00:22.217501"
+  }
+}

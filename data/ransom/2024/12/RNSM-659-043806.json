@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-043806",
+  "type": "ransomware-incident",
+  "title": "copral.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "copral.com.br",
+    "domain": "copral.com.br",
+    "country": "BR",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Greetings!  Today we are posting here the new company, \"Copral Comercio e Navegacao LTDA\".  Company Description: It was founded in 1967 and offers road transport of containerized cargo, forklift rental and port operations. We offer a new and mode...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29wcmfslmnvbs5ickbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-14 00:00:00.000000",
+    "disclosedDate": "2024-12-04 14:43:46.966971"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-099279",
+  "type": "ransomware-incident",
+  "title": "cloudminds.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cloudminds.com",
+    "domain": "cloudminds.com",
+    "country": "CN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cloudminds is a cloud intelligent robot operator. We provide professional robot operation services to clients from various industries and have launched service robot solutions such as welcoming robots using cloud intelligence, security patrol robots,...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/42bc3a82726c15b93c4a3ea588296b26.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2xvdwrtaw5kcy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-29 00:00:00.000000",
+    "disclosedDate": "2024-05-09 16:43:05.684548"
+  }
+}

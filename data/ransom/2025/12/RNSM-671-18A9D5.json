@@ -1,0 +1,45 @@
+{
+  "id": "RNSM-671-18A9D5",
+  "type": "ransomware-incident",
+  "title": "Clarksville ISD ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Clarksville ISD",
+    "domain": "clarksvilleisd.net",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Once again, we see how a certain school organization, Clarksville ISD, was attacked and compromised due to the negligence and irresponsibility of employees with other people's data, that is, other people, as a result of which a large amount of confidential data was compromised, including the SNN of all students for the entire year, as well as all employee data, including SNN, banking transactions, and financial components.",
+    "claimed_data_types": [
+      "employee-records"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dd2e7cc076da67a9f2c17ab629e769cd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2xhcmtzdmlsbgugsvneqgludgvybg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://dysruptionhub.com/clarksville-isd-outage-ransomware-texas/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-18 22:27:13.081322",
+    "disclosedDate": "2025-12-18 22:27:27.828033"
+  }
+}

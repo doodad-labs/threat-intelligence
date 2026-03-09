@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-668-18D5ED",
+  "type": "ransomware-incident",
+  "title": "Intellect Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Intellect Systems",
+    "country": "AU",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "Intellect Systems provides solutions to the domestic and international resource, infrastructure, oil and gas, utilities and manufacturing markets. We are going to upload 10gb corporate data. Lots of employee information (passports, DLs, medical information, death and birth certificates), confidentiality agreements, contracts, financial information, project information and other files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw50zwxszwn0ifn5c3rlbxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-17 00:00:00.000000",
+    "disclosedDate": "2025-09-18 18:14:27.011646"
+  }
+}

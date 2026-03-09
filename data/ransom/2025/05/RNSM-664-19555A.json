@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-19555A",
+  "type": "ransomware-incident",
+  "title": "www.atolon-parkhotel.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.atolon-parkhotel.com",
+    "domain": "atolon-parkhotel.com",
+    "country": "FR",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CVs - FACTURES - Hwawei.com - AA GROUPE 2025 - RESERVATION 2025 - PERSONNELS - INFOS - STAGIAIRES .....",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/52a79efdc355e6ab1e197f4970525e0b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmf0b2xvbi1wyxjrag90zwwuy29tqhn0b3jtb3vz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-19 00:22:45.249471",
+    "disclosedDate": "2025-05-19 00:23:59.014440"
+  }
+}

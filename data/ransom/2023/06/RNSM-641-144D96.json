@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-144D96",
+  "type": "ransomware-incident",
+  "title": "studentclearinghouse.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "studentclearinghouse.org",
+    "domain": "studentclearinghouse.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "National Student Clearinghouse",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/daf66c0c2508c461f2d095cac2beadf1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3r1zgvudgnszwfyaw5nag91c2uub3jnqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-14 20:19:06.526285",
+    "disclosedDate": "2023-06-14 20:19:06.526304"
+  }
+}

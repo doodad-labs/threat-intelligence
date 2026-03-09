@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-23A2AA",
+  "type": "ransomware-incident",
+  "title": "MSAMLIN.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MSAMLIN.COM",
+    "domain": "msamlin.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MS Amlin - Global Specialty Insurer and Reinsurer",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e70bc34d9e9fe997267c55011111d361.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tvnbtuxjti5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-23 22:13:07.682333",
+    "disclosedDate": "2023-06-23 22:13:07.682358"
+  }
+}

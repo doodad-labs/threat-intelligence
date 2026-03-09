@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-291980",
+  "type": "ransomware-incident",
+  "title": "Pražské služby ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pražské služby",
+    "domain": "psas.cz",
+    "country": "CZ",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pražské služby is a the main operator of the municipal system of comprehensive collection, sorting and utilization of waste.We are ready to upload a lot of NDAs, employees contacts, internal financial documents etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjhxb5za8opihnsdcw+ynlaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 00:00:00.000000",
+    "disclosedDate": "2024-11-29 13:00:27.903771"
+  }
+}

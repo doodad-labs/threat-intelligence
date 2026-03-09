@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-24C47F",
+  "type": "ransomware-incident",
+  "title": "www.curvc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.curvc.com",
+    "domain": "curvc.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "... Tags: #Seoul #Seoul-t'ukpyolsi #South Korea",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmn1cnzjlmnvbubfbervcmfkbw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-24 17:09:24.122252",
+    "disclosedDate": "2024-08-24 17:09:25.047110"
+  }
+}

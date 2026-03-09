@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-648-1669C4",
+  "type": "ransomware-incident",
+  "title": "Becker Logistics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Becker Logistics",
+    "domain": "beckerlogistics.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 43000000000,
+    "description": "Becker Logistics, headquartered in Glendale Heights, Illinois, and established in 1997, is a transportation management company. Wewill upload about 43gb of files with numerous documents containing personal information, HR, customer info, nda documents, contracts, accounting and financials files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvja2vyiexvz2lzdgljc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-16 17:40:56.514051",
+    "disclosedDate": "2024-01-16 17:40:56.575740"
+  }
+}

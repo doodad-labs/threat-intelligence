@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-0238BA",
+  "type": "ransomware-incident",
+  "title": "www.nttdata.ro ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.nttdata.ro",
+    "domain": "nttdata.ro",
+    "country": "RO",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cbad5f385d434a2ddb56f7026e0dbd6a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm50dgrhdgeucm9acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-15 00:00:00.000000",
+    "disclosedDate": "2024-07-02 06:18:07.642059"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-02EFE3",
+  "type": "ransomware-incident",
+  "title": "www.normandydiesel.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.normandydiesel.fr",
+    "domain": "normandydiesel.fr",
+    "country": "FR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f54e619ad1f6dd6928adbac9643c6c13.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm5vcm1hbmr5zgllc2vslmzyqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-11 00:00:00.000000",
+    "disclosedDate": "2024-08-02 17:12:40.013063"
+  }
+}

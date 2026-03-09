@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-217BD8",
+  "type": "ransomware-incident",
+  "title": "RFSUNY.ORG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RFSUNY.ORG",
+    "domain": "rfsuny.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"RFSUNY.ORG\" refers to The Research Foundation for The State University of New York, a private, nonprofit educational organization that administers sponsored programs for SUNY. Founded in 1951, they offer flexibility and adaptability to the funding, research, and business needs of SUNY faculty and students by assisting in areas such as talent management, grant application, project administration, innovation and partnerships.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/71cdb16a74058355a23d11b556ca79ac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukztvu5zlk9sr0bjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 12:47:21.462183",
+    "disclosedDate": "2025-11-21 12:47:34.979121"
+  }
+}

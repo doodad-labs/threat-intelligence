@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-14429F",
+  "type": "ransomware-incident",
+  "title": "arborsct.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "arborsct.com",
+    "domain": "arborsct.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusalocker",
+    "name": "medusalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DescriptionClient Case – agreement – email(.msg)- and other documents Price: 60000$ One copy will be sold, confidential informationThe company did not take care of the data leak, and therefore we will sell many contracts, customer data, financial component and other documentsin one lot for $ 60,000 for verification in the darknet or bank",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d568d543cca81c4c3f58764f1cf185ba.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxjib3jzy3quy29tqg1lzhvzywxvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-14 17:13:06.000000",
+    "disclosedDate": "2023-06-14 18:00:51.408799"
+  }
+}

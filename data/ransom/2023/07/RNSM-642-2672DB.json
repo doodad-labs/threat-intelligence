@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-2672DB",
+  "type": "ransomware-incident",
+  "title": "Plott Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Plott Corporation",
+    "domain": "plott.co.jp",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Plot Co., Ltd. is an IT vendor that creates next-generation secure inter-company communication with know-how since its establishment in 1968.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4465c8facea0d74d93dcd34f8df52286.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugxvdhqgq29ycg9yyxrpb25aywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-15 09:17:55.000000",
+    "disclosedDate": "2023-07-26 14:21:21.460541"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-23290F",
+  "type": "ransomware-incident",
+  "title": "Native Counselling Services of Alberta ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Native Counselling Services of Alberta",
+    "domain": "ncsa.ca",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Native Counselling Services of Alberta (NCSA) is a non—profit, non-political organization of indigenous peoples with no religious affiliation, providing legal and various other services for indigenous peoples.  It is registered in accordance with the Albert Societies Act (Canada). Main office address - 14904 121A Ave NW Edmonton, Alberta T5V 1A3, CA",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b4b96b6f2c25c49eef1cdcde6050cc7d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf0axzlienvdw5zzwxsaw5nifnlcnzpy2vzig9miefsymvydgfabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-23 14:09:14.12345",
+    "disclosedDate": "2023-10-23 14:47:13.553310"
+  }
+}

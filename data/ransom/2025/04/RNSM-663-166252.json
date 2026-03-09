@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-166252",
+  "type": "ransomware-incident",
+  "title": "semex.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "semex.com",
+    "domain": "semex.com",
+    "country": "CA",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "underground",
+    "name": "underground",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue: $170 million Type: Research Size: 214,2 GBytes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/101e0393148c041d17b574bfec136fa7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vtzxguy29tqhvuzgvyz3jvdw5k",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-15 06:44:00.000000",
+    "disclosedDate": "2025-04-16 12:52:15.668886"
+  }
+}

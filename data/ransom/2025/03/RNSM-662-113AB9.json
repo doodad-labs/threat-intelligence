@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-113AB9",
+  "type": "ransomware-incident",
+  "title": "Veristat ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Veristat",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 63000000000,
+    "description": "Veristat is the science-first full-service drug and biologic CRO and consultancy that integrates strategic planning, regulatory expertise, and clinical trial execution to rapidly advance the mostcomplex or novel therapies. We are ready to upload more than 63 GB of essential corporate documents such as: HR documents, contact numbers and e-mail addresses of employees and customers, medicare documents, customer medical documents, confidential licenses, agreements and contracts, financial data (audits, payment details, reports), etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmvyaxn0yxraywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-11 00:00:00.000000",
+    "disclosedDate": "2025-03-11 14:17:41.076251"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-175262",
+  "type": "ransomware-incident",
+  "title": "Aftrp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aftrp",
+    "domain": "grandparisamenagement.fr",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : France - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/25e478e499a79ce3247f7d625f4ddb14.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwz0cnbaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-17 08:53:19.000000",
+    "disclosedDate": "2024-02-17 09:07:58.415076"
+  }
+}

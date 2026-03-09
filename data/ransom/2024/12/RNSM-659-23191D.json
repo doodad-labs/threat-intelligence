@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-23191D",
+  "type": "ransomware-incident",
+  "title": "linebank.co.id ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "linebank.co.id",
+    "domain": "linebank.co.id",
+    "country": "ID",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Indonesia Digital Bankingpersonal info",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8ca4fc3c90248b210ace5331cd810a81.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgluzwjhbmsuy28uawrayxb0nzm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-23 17:38:15.353200",
+    "disclosedDate": "2024-12-23 17:38:15.891915"
+  }
+}

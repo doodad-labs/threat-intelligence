@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-109A53",
+  "type": "ransomware-incident",
+  "title": "Van Oirschot ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Van Oirschot",
+    "domain": "vanoirschot.be",
+    "country": "BE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Van Oirschot NV is a company that operates in the Wholesale industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34d11580957ef1c28b695f6e4f93ee38.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmfuie9pcnnjag90qhjhbnnvbwhvdxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-30 00:00:00.000000",
+    "disclosedDate": "2023-10-10 01:16:47.965996"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-1889F6",
+  "type": "ransomware-incident",
+  "title": "catiglass.com $100.000 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "catiglass.com $100.000",
+    "domain": "catiglass.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a73d81523c130de696b0e89802b8844a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2f0awdsyxnzlmnvbsakmtawljawmebibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-29 00:00:00.000000",
+    "disclosedDate": "2024-05-18 12:35:48.875893"
+  }
+}

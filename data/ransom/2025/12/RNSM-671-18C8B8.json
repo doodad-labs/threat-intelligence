@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-18C8B8",
+  "type": "ransomware-incident",
+  "title": "beausejourco-op.crs ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "beausejourco-op.crs",
+    "domain": "beausejourco-op.crs",
+    "country": "CA",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Financial, HR",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc654c1e2d252ab393a435186dfc3205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymvhdxnlam91cmnvlw9wlmnyc0bkzxztyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-16 00:00:00.000000",
+    "disclosedDate": "2025-12-18 10:24:28.384272"
+  }
+}

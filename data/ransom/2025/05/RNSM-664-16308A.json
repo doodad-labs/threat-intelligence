@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-16308A",
+  "type": "ransomware-incident",
+  "title": "Light Speed Design ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Light Speed Design",
+    "domain": "lightspeeddesign.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Manufacturing · Washington, United States · <25 EmployeesLightspeed Design, Inc. is located in Bellevue, WA, USA, and specializes in 3D film & video production and stereoscopic 3D technology development.Revenue <$5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3da59f4adb1eccb4baae55dfb66f3320.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tglnahqgu3blzwqgrgvzawduqgjsywnrbg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-14 17:34:31.555309",
+    "disclosedDate": "2025-05-16 13:00:40.098628"
+  }
+}

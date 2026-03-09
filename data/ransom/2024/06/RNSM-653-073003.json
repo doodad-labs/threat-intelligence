@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-073003",
+  "type": "ransomware-incident",
+  "title": "Axip Energy Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Axip Energy Services",
+    "domain": "axip.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1a7201e54bf8d64ed36b0f072b44b09b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxhpccbfbmvyz3kgu2vydmljzxnaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-07 05:55:11.000000",
+    "disclosedDate": "2024-06-07 08:14:31.651392"
+  }
+}

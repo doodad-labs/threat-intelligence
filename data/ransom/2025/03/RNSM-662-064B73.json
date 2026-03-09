@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-064B73",
+  "type": "ransomware-incident",
+  "title": "USGS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "USGS",
+    "domain": "usgs.gov",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from The 19 biggest gitlabs",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/81827a4a18b826cefac139323423604c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vvnhu0bmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-12 21:24:59.230759",
+    "disclosedDate": "2025-03-06 01:42:49.052745"
+  }
+}

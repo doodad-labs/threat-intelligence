@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-16D90D",
+  "type": "ransomware-incident",
+  "title": "USWELLNESS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "USWELLNESS.COM",
+    "domain": "uswellness.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Employee Health & Wellness Portals - Biometric Screening - US Wellness",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2bd3bfb24323276c550d7c981e54a138.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vvnxruxmtkvtuy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-16 23:21:41.093195",
+    "disclosedDate": "2023-03-16 23:21:41.093221"
+  }
+}

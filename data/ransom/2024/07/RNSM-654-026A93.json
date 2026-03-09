@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-654-026A93",
+  "type": "ransomware-incident",
+  "title": "Conexus Medstaff ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Conexus Medstaff",
+    "domain": "conexusmedstaff.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Conexus MedStaff is a leading global recruitment agency that empl oys international nurses in the U.S. 20GB of data will be leaked  soon. Great amount of personal data like passports, SSNs, birth c ertificates and some other files can be found in the archive. Fin ancial, HR files, agreements are also represented.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29uzxh1cybnzwrzdgfmzkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-02 16:41:01.393699",
+    "disclosedDate": "2024-07-02 16:41:02.279052"
+  }
+}

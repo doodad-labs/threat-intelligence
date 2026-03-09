@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-640-22BED6",
+  "type": "ransomware-incident",
+  "title": "TA Supply ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TA Supply",
+    "domain": "tasupply.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "T&A Supply Company, Inc. distributes various flooring products in the United States. It offers commercial and residential flooring products, such as carpets and carpet cushions, ceramic and porcelain tiles, wood flooring products, and laminate flooring productsTotal downloaded data - 1tb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4a13797e80cd56c5eedfbc0abb80ca79.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/veegu3vwcgx5qhjvewfs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-22 01:02:03.456789",
+    "disclosedDate": "2023-05-22 12:54:33.943749"
+  }
+}

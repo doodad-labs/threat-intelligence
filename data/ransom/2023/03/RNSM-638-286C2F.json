@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-286C2F",
+  "type": "ransomware-incident",
+  "title": "Rimex ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rimex",
+    "domain": "rimex.com",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "RIMEX, founded in 1975 and headquartered in British Columbia, Canada, is a company that manufactures wheels and rims for mining and industrial applications.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umltzxhaymlhbmxpyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-28 15:05:55.879050",
+    "disclosedDate": "2023-03-28 15:05:55.879074"
+  }
+}

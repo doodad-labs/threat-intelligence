@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-1256C3",
+  "type": "ransomware-incident",
+  "title": "Hydro-Vacuum S.A. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hydro-Vacuum S.A.",
+    "domain": "pumps-hv.com",
+    "country": "PL",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hydro-Vacuum S.A.(Poland)",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/shlkcm8tvmfjdxvtifmuqs5abmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-12 23:48:45.588875",
+    "disclosedDate": "2025-03-12 23:48:46.466085"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-662-13A73D",
+  "type": "ransomware-incident",
+  "title": "Ascoma Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ascoma Group",
+    "domain": "ascoma.com",
+    "country": "MC",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 12000000000,
+    "description": "ASCOMA has two cross-functional divisions: ASCOMA International, a coordination center for international operations, and ASCOMA Health/PACTILIS, the Group’s competence center for health insuranceand healthcare cost management, and more broadly for personal insurance.We are ready to upload more than 12 GB of essential corporate documents such as: contact numbers and e-mail addresses of employeesand customers, internal correspondences, passports and other employee and customer documents, etc",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxnjb21hiedyb3vwqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-12 00:00:00.000000",
+    "disclosedDate": "2025-03-13 00:49:42.133728"
+  }
+}

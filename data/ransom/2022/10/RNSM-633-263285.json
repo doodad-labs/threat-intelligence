@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-633-263285",
+  "type": "ransomware-incident",
+  "title": "CCLint ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CCLint",
+    "domain": "cclint.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbyte",
+    "name": "blackbyte",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome to CCL. Our reputation has been built by providing the ideal solution for every project we undertake, using specialised engineering techniques, wherever we are in the world.Backed by over 80 years of experience, and sites on five continents, our expertise has helped create iconic construction projects across the globe. CCL’s customers know they can trust our experts to deliver innovation and quality, with attention to detail and an eye for the bigger picture.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0nmaw50qgjsywnrynl0zq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-10-26 19:55:39.157131",
+    "disclosedDate": "2022-10-26 19:55:39.157131"
+  }
+}

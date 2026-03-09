@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-0829F6",
+  "type": "ransomware-incident",
+  "title": "monaco-technologies.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "monaco-technologies.com",
+    "domain": "monaco-technologies.com",
+    "country": "MC",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Monaco Technologies is a software and IT Company and has been providing solutions and services for Enterprises & Public Organizations since 2004.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e47f415e65d6ea9e12d7cb8061f5514e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw9uywnvlxrly2hub2xvz2llcy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-08 16:59:00.000000",
+    "disclosedDate": "2023-09-08 17:35:43.438620"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-666-0725BF",
+  "type": "ransomware-incident",
+  "title": "cascobay.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cascobay.org",
+    "domain": "cascobay.org",
+    "country": "US"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Casco Bay is a conservation organization based in Maine, United States. The primary aim of the company is to improve the water quality of the Casco Bay. They conduct research, advocate, and implement protective measures for combatting pollution. Their initiatives include Clean Water Act enforcement, green infrastructure promotion, education programs about pollution prevention, water quality monitoring, and baykeeping for Casco Bay.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ca54335ef4d68360affd938b590f5a79.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fzy29iyxkub3jnqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-19 00:00:00.000000",
+    "disclosedDate": "2025-07-07 22:48:05.221964"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-09BBEB",
+  "type": "ransomware-incident",
+  "title": "TAG Aviation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TAG Aviation",
+    "domain": "tagaviation.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "unsafe",
+    "name": "unsafe",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "country: CH - revenue: 326.60M",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vefhief2awf0aw9uqhvuc2fmzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.watson.ch/digital/schweiz/358345405-ransomware-attacke-schweizer-privatjet-anbieterin-tag-aviation-gehackt",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-09 21:00:40.669080",
+    "disclosedDate": "2023-06-09 21:00:40.669161"
+  }
+}

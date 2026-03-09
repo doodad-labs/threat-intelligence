@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-198792",
+  "type": "ransomware-incident",
+  "title": "islandinsurance.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "islandinsurance.ca",
+    "domain": "islandinsurance.ca",
+    "country": "CA",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Island Insurance is owned and operated by Gurpreet Khaira, Balwinder Khaira, and Harjinder Basra. Staff consists of level 2 brokers and have over 50 years of combined experience in the insurance business.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/40042c47eef22fc92b1084c88f98eaad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axnsyw5kaw5zdxjhbmnllmnhqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-19 03:57:00.000000",
+    "disclosedDate": "2024-04-19 10:43:22.326213"
+  }
+}

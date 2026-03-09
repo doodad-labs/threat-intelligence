@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-173007",
+  "type": "ransomware-incident",
+  "title": "www.jhayber.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.jhayber.com",
+    "domain": "jhayber.com",
+    "country": "ES",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Jhayber is a popular Spanish company specializing in sportswear. Renowned for over 40 years, it offers a diverse product range, encompassing shoes, clothing and sports accessories. Their products cater to both men and women. Driven by the idea of combining comfort, style, and durability, Jhayber is loved by athletes and fitness enthusiasts. Known for prioritizing quality, the company promises reliable sportswear for various physical activities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fbbcdb9348e8acee4671c50ff3b20e3f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmpoyxlizxiuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-02 00:00:00.000000",
+    "disclosedDate": "2025-03-17 17:07:14.599437"
+  }
+}

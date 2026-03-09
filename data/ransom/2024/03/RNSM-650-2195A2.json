@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-2195A2",
+  "type": "ransomware-incident",
+  "title": "northerncasket.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "northerncasket.com",
+    "domain": "northerncasket.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Northern Casket produced it' s first casket on February 2, 1927. Throughout more than 80 years of manufacturing, Northern has worked very hard to produce goods of superior quality of materials, construction and workmanship.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/163d5e37ef6733cc542b33d6e3a410fa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bm9ydghlcm5jyxnrzxquy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-21 14:05:00.000000",
+    "disclosedDate": "2024-03-21 16:20:13.663804"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-652-20F1DB",
+  "type": "ransomware-incident",
+  "title": "Marigin ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Marigin",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 60000000000,
+    "description": "Marigin is a veterinary center in Zurich. Here you will find the  most modern personal data of employees and pets owners. Also, var ious operational information will be available as well. Everythin g is about 60GB.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfyawdpbkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-20 19:53:27.719031",
+    "disclosedDate": "2024-05-20 19:53:27.799900"
+  }
+}

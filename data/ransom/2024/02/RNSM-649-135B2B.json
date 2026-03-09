@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-649-135B2B",
+  "type": "ransomware-incident",
+  "title": "btl.info ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "btl.info",
+    "domain": "btl.info",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 585000000000,
+    "description": "BTL ist der Technikdienstleister innerhalb der BTL group und verantwortet seit über 35 Jahren erfolgreich die technische Ausstattung von Events aller Art. Von einer kleinen Expert:innenrunde bis zur großen Messe – wir liefern genau die Technik, die du benötigst. Unsere Fachleute sind ausgebildete Fachkräfte und Meister:innen ihres Gewerks. Damit liefern wir nicht nur technisch und fachlich „state of the art“, sondern auch ein erfahrenes und über die Jahre gewachsenes Team.SITE: www.btl.info Address : BTL Veranstaltungstechnik GmbH Bochumer Straße 89 D-40472 Düsseldorf T +49-211-90 449 – 0ALL DATA SIZE: ~585gb 1. Personal documents 2. Corporate data 3. Customers documents 4. Financial documents (FiBu) and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/754f098e4be1c60c2398d19a7278cd80.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynrslmluzm9aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-06 00:00:00.000000",
+    "disclosedDate": "2024-02-13 22:24:28.012125"
+  }
+}

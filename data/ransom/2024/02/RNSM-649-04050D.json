@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-649-04050D",
+  "type": "ransomware-incident",
+  "title": "FEPCO Zona Franca SAS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FEPCO Zona Franca SAS",
+    "country": "CO"
+  },
+  "actor": {
+    "id": "knight",
+    "name": "knight",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "we have +100GB of confidential data, bank contracts, invoices, customer data, company invoices, company receipts.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/912257e4570c8761b28364f5e301c3f2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rkvqq08gwm9uysbgcmfuy2egu0ftqgtuawdoda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-04 10:52:57.217248",
+    "disclosedDate": "2024-02-04 10:52:57.217271"
+  }
+}

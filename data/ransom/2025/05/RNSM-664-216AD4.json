@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-216AD4",
+  "type": "ransomware-incident",
+  "title": "www.seashoremotel.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.seashoremotel.com",
+    "domain": "seashoremotel.com",
+    "country": "",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A large amount of valid banking card data from various sources – customer information from ID cards, passports, and driver's licenses – email addresses, phone numbers, full names – and selfie photos.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/91c7ab2184a6959ee661ee6fc2e7e520.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnlyxnob3jlbw90zwwuy29tqhn0b3jtb3vz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-21 11:54:28.498754",
+    "disclosedDate": "2025-05-21 11:55:33.069968"
+  }
+}

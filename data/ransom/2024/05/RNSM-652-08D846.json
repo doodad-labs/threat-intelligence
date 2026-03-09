@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-08D846",
+  "type": "ransomware-incident",
+  "title": "Glenwood Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Glenwood Management",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dan0n",
+    "name": "dAn0n",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1780000000000,
+    "description": "Glenwood Management is a property management company, providing luxury apartments throughout New York. The total size of stolen information is 1.78TB.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/78ddb3207590a86ffdb4e084f5138782.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2xlbndvb2qgtwfuywdlbwvudebkqw4wbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-08 00:00:00.000000",
+    "disclosedDate": "2024-05-08 22:32:37.073860"
+  }
+}

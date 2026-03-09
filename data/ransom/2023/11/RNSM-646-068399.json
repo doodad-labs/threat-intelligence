@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-068399",
+  "type": "ransomware-incident",
+  "title": "howlandlaw.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "howlandlaw.net",
+    "domain": "howlandlaw.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Howland Law Office is a company that operates in the Legal Services industry. https://g.co/kgs/cfPCRW",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d17ea73028a747ac96681c186ec3eb41.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ag93bgfuzgxhdy5uzxrabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-06 10:49:00.000000",
+    "disclosedDate": "2023-11-06 11:29:08.682532"
+  }
+}

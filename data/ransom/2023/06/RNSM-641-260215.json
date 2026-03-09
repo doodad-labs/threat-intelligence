@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-260215",
+  "type": "ransomware-incident",
+  "title": "PNEUMAX ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PNEUMAX",
+    "domain": "pneumaxspa.com",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PNEUMAX France has been located since 1993 on an area of 4000 m2 in the northern industrial zone of SELESTAT. It covers the territory of France, as well as French-speaking countries.The recent acquisition of numerically controlled machines has increased production capacity due to guaranteed service and quality.Design bureaus, machine builders for industry, assembly lines, robotics and manufacturing are industries interested in their products and services.The wide range of PNEUMAX products makes it one of the market leaders.https://pneumaxspa.com/pneumax-fr/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c3d62d852444710cb0704291933f933d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ue5fvu1bwea4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-26 00:00:00.000000",
+    "disclosedDate": "2023-06-26 05:53:57.578694"
+  }
+}

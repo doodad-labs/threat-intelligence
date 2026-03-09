@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-269B07",
+  "type": "ransomware-incident",
+  "title": "SOFTTECH.NL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SOFTTECH.NL",
+    "domain": "softtech.nl",
+    "country": "NL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - SoftTech voor Managed Services en Softwareontwikkeling",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f19eac9382520d7fceba6833a4948aec.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u09gvfrfq0gutkxay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:56:30.921971",
+    "disclosedDate": "2023-07-26 20:56:30.922021"
+  }
+}

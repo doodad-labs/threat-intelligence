@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-24A45F",
+  "type": "ransomware-incident",
+  "title": "Maine Highlands Federal Credit Union ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Maine Highlands Federal Credit Union",
+    "domain": "mhfcu.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "frag",
+    "name": "frag",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[redacted]Our team was successful in extracting the following documents:Financial statements of the companyEmployees medical insurance documentsCorporate internal documents and agreements",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfpbmugsglnagxhbmrziezlzgvyywwgq3jlzgl0ifvuaw9uqgzyywc=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-23 00:00:00.000000",
+    "disclosedDate": "2025-03-24 19:24:13.814101"
+  }
+}

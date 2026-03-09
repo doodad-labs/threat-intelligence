@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-013EDC",
+  "type": "ransomware-incident",
+  "title": "Freyberg Petroleum ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Freyberg Petroleum",
+    "domain": "freybergpetroleum.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "Over 200 GB stolen from their servers company has 48 hours to contact us or we will release the data .",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e2bd85af958d26a9ffc26c3dec898735.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnjlewjlcmcgugv0cm9szxvtqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 00:00:00.000000",
+    "disclosedDate": "2024-11-01 03:23:58.891253"
+  }
+}

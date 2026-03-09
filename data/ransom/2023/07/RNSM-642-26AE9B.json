@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26AE9B",
+  "type": "ransomware-incident",
+  "title": "AWAZE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AWAZE.COM",
+    "domain": "awaze.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Awaze - Homepage",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cf45f35b6892db32ca8efaa06d9cfcb0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvdbwkuuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:43:24.617749",
+    "disclosedDate": "2023-07-26 20:43:24.617823"
+  }
+}

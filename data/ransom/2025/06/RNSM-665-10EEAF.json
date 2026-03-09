@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-10EEAF",
+  "type": "ransomware-incident",
+  "title": "Petroquim Chile ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Petroquim Chile",
+    "domain": "petroquim.cl",
+    "country": "CL",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Petroquim Chile",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugv0cm9xdwltienoawxlqg5pz2h0c3bpcmu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-09 00:00:00.000000",
+    "disclosedDate": "2025-06-10 13:48:13.449948"
+  }
+}

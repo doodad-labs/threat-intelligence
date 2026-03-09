@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-664-23FED9",
+  "type": "ransomware-incident",
+  "title": "French Gov 2025 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "French Gov 2025",
+    "country": "FR",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We present a comprehensive leak including full email addresses and password hashes from multiple high-profile French government organizations: Carsat, Finance, Retraite, and IGAS -AAF - AFT - ac-lyoun.fr - cnaf.fr - cnsa.fr.......",
+    "claimed_data_types": [
+      "passwords",
+      "email-addresses",
+      "addresses"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d507dcd630db3b74cdac1ddb9942d5c4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnjlbmnoiedvdiaymdi1qhn0b3jtb3vz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-23 13:17:38.216685",
+    "disclosedDate": "2025-05-23 13:19:04.962350"
+  }
+}

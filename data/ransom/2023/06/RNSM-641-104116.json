@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-104116",
+  "type": "ransomware-incident",
+  "title": "MICHENER.CA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MICHENER.CA",
+    "domain": "michener.ca",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - The Michener Institute of Education at UHN",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bf7370d352cc38823c28c7f209965331.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tuldsevorviuq0fay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-10 21:55:33.455648",
+    "disclosedDate": "2023-06-10 21:55:33.455663"
+  }
+}

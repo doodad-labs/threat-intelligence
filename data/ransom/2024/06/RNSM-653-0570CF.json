@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-653-0570CF",
+  "type": "ransomware-incident",
+  "title": "craigsteven.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "craigsteven.com",
+    "domain": "craigsteven.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Craig/Steven Development Corporation has earned a solid reputation in the development of shopping centers, office buildings, mixed-use developments, industrial and multi-family residential projects.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/343577921eaf75c956b23c004dc74663.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3jhawdzdgv2zw4uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-24 00:00:00.000000",
+    "disclosedDate": "2024-06-05 19:17:11.219373"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-659-039EA8",
+  "type": "ransomware-incident",
+  "title": "internetway.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "internetway.com.br",
+    "domain": "internetway.com.br",
+    "country": "BR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Internetway.com.br is a Brazilian company specializing in web hosting and digital solutions. It offers a range of services including domain registration, website hosting, cloud solutions, and email hosting. The company focuses on providing reliable and scalable internet services to businesses and individuals, ensuring robust online presence and support. Internetway.com.br is known for its customer-focused approach and technical expertise.",
+    "claimed_data_types": [
+      "email-addresses"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3d0d84492860d094c1525978b65476d9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw50zxjuzxr3yxkuy29tlmjyqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-21 00:00:00.000000",
+    "disclosedDate": "2024-12-03 18:47:43.776963"
+  }
+}

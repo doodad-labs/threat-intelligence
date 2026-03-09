@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-24D2AB",
+  "type": "ransomware-incident",
+  "title": "Cronos Europa ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cronos Europa",
+    "country": "BE"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 88000000000,
+    "description": "Cronos Europa is an IT and digital communications company uniquely dedicated to serving the European institutions, agencies and bodies.We are ready to upload more than 88 GB of essential corporate documents such as: confidential licenses, agreements and contracts, contact numbers and e-mail addresses of employees and customers, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q3jvbm9ziev1cm9wyubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-24 00:00:00.000000",
+    "disclosedDate": "2025-02-24 14:23:07.755298"
+  }
+}

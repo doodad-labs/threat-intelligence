@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-020857",
+  "type": "ransomware-incident",
+  "title": "Sumitomo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sumitomo",
+    "domain": "srigroup.co.za",
+    "country": "ZA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3fa53f8dce1f8eff35f7784ed2e0c3cf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vtaxrvbw9aa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-02 12:44:22.398391",
+    "disclosedDate": "2024-11-02 12:44:23.203062"
+  }
+}

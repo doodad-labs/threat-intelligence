@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-151080",
+  "type": "ransomware-incident",
+  "title": "Cera Stribley ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cera Stribley",
+    "domain": "c-s.com.au",
+    "country": "AU"
+  },
+  "actor": {
+    "id": "brotherhood",
+    "name": "brotherhood",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 138000000000,
+    "description": "Contains: 2 Gb compressed Free Files + 138 Gb compressed Paid Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2vyysbtdhjpymxleubicm90agvyag9vza==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-15 15:51:05.233859",
+    "disclosedDate": "2025-11-15 15:51:06.104070"
+  }
+}

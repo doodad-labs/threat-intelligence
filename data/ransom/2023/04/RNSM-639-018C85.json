@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-639-018C85",
+  "type": "ransomware-incident",
+  "title": "Benning Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Benning Construction",
+    "domain": "benningnet.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 71000000000,
+    "description": "Benning Construction Company is a construction manager and contractor operating in cinema and grocery markets. The information we've taken from them is of 71GB and it contains such as accounting, medical insurance, credit cards, projects information and many other interesting things.Do not hesitate to check it!",
+    "claimed_data_types": [
+      "financial-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cfdbfc442e386864148578e5cceb2eab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvubmluzybdb25zdhj1y3rpb25acm95yww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-30 01:02:03.456789",
+    "disclosedDate": "2023-04-01 05:11:33.978246"
+  }
+}

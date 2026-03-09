@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-0622C5",
+  "type": "ransomware-incident",
+  "title": "Connekted, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Connekted, Inc.",
+    "domain": "connekted.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data will be published on March 12. Connekted, Inc. specializes in providing managed IT solutions, network support, and cloud services to small businesses across New England, including Providence, Boston, and Hartford. With over 20 years             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0fcbcb58d5405b6ab790e3dad8e8219d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29ubmvrdgvklcbjbmmuqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-06 00:00:00.000000",
+    "disclosedDate": "2025-03-06 15:15:49.389368"
+  }
+}

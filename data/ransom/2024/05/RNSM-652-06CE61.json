@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-06CE61",
+  "type": "ransomware-incident",
+  "title": "W.F. Whelan ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "W.F. Whelan",
+    "domain": "wfwhelan.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 175670000000,
+    "description": "W.F. Whelan Company (founded 1974) is a full service logistics company. WF Whelan corporate office is located in 41425 Joy Rd, Canton, Michigan, 48187, United States and has 101 employees. The total amount of data leakage is 175.67 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vy5glibxagvsyw5abwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-06 08:58:30.12345",
+    "disclosedDate": "2024-05-06 09:35:06.521767"
+  }
+}

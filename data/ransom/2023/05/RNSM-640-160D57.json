@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-160D57",
+  "type": "ransomware-incident",
+  "title": "chinadailyhk.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "chinadailyhk.com",
+    "domain": "chinadailyhk.com",
+    "country": "CN",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "About China Daily Founded in 1981, China Daily covers over 35 million readers and users worldwide through diversified platforms, including newspapers, websites, and mobiles and social media. The number of China Daily's followers has now reached over...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b99937a7241681d70f0548769d505303.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2hpbmfkywlsewhrlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-16 00:43:00.000000",
+    "disclosedDate": "2023-05-16 01:48:49.136808"
+  }
+}

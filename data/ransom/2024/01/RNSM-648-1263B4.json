@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-1263B4",
+  "type": "ransomware-incident",
+  "title": "dtsolutions.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dtsolutions.net",
+    "domain": "dtsolutions.net",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/DTS/PROOF",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b16e8ae293aa450b5b091ffe2430f390.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zhrzb2x1dglvbnmubmv0qgnhy3r1cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-16 00:00:00.000000",
+    "disclosedDate": "2024-01-12 05:46:56.828870"
+  }
+}

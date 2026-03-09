@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-272692",
+  "type": "ransomware-incident",
+  "title": "TRIBORO.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TRIBORO.COM",
+    "domain": "triboro.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] TRIBORO.COM is a web-based platform that apparently offers a vast range of goods in categories like office, furniture, school, and computer supplies. Their goal is to provide clients with an enhanced shopping experience by offering a wide variety of products that cater to both individual and corporate needs. Features such as up-to-date inventory and competitive pricing make shopping convenient and cost-effective.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfjjqk9sty5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:35:26.719288",
+    "disclosedDate": "2025-02-27 17:35:34.133970"
+  }
+}

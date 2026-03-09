@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-279CDB",
+  "type": "ransomware-incident",
+  "title": "VERSANTTECHNOLOGIES.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VERSANTTECHNOLOGIES.COM",
+    "domain": "versanttechnologies.com",
+    "country": "SG",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Versant Technologies is an IT service management company that specializes in providing innovative solutions and services related to data management, applications development, business intelligence, and IT consulting. They focus on addressing the unique needs of their clients through comprehensive, customized strategies, fostering efficient operation and enhanced growth. Headquartered in Chennai, India, the company serves both local and international markets with high-grade IT solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vkvsu0fovfrfq0hot0xpr0lfuy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:44:31.585961",
+    "disclosedDate": "2025-02-27 17:44:38.576483"
+  }
+}

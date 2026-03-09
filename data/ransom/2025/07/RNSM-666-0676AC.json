@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-0676AC",
+  "type": "ransomware-incident",
+  "title": "Freedom Wood Doors Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Freedom Wood Doors Ltd",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "handala",
+    "name": "handala",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 92000000000,
+    "description": "Freedom Wood Doors Ltd Hacked Freedom Wood Doors Ltd, a manufacturer of interior doors based in Hod HaSharon, has experienced a data leak. The compromised information includes: Full client lists (including private residences, contractors, and several government-linked entities), Invoices, delivery schedules, internal price quotes, Technical specifications and door schematics for custom projects 92GB Dumped PoC…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/26312a76a085196cbb9cf41a89ba2a5b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnjlzwrvbsbxb29kiervb3jziex0zeboyw5kywxh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-06 11:53:49.573066",
+    "disclosedDate": "2025-07-06 11:54:21.557006"
+  }
+}

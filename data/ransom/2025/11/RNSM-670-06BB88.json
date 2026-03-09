@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-06BB88",
+  "type": "ransomware-incident",
+  "title": "zebra.or.at ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "zebra.or.at",
+    "domain": "zebra.or.at",
+    "country": "AT"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have zebra.or.at company data, payment and tax documentation, employee and client documents, as well as projects and developments.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/889b7294965b58a13bb20bb37e57abb5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/emvicmeub3iuyxraaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-06 00:00:00.000000",
+    "disclosedDate": "2025-11-06 18:15:22.369277"
+  }
+}

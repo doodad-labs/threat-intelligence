@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-15F007",
+  "type": "ransomware-incident",
+  "title": "BARHARBOR.BANK ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BARHARBOR.BANK",
+    "domain": "barharbor.bank",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Personal Homepage › Bar Harbor Bank & Trust",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/915584c0e5ead4b4bbfe73872d5f31b1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkfssefsqk9slkjbtktay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-15 21:09:52.129456",
+    "disclosedDate": "2023-06-15 21:09:52.129485"
+  }
+}

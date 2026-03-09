@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-12A678",
+  "type": "ransomware-incident",
+  "title": "Quezon Power ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Quezon Power",
+    "domain": "qpl.com.ph",
+    "country": "PH",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Employee data, hr info, projects, Work logs of the power plants, Scada SRC",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc654c1e2d252ab393a435186dfc3205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uxvlem9uifbvd2vyqgrldm1hbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-10 00:00:00.000000",
+    "disclosedDate": "2025-12-12 09:20:28.190264"
+  }
+}

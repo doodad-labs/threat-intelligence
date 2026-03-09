@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-296C56",
+  "type": "ransomware-incident",
+  "title": "www.ztexconstruction.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.ztexconstruction.com",
+    "domain": "ztexconstruction.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[IA generated] ZTEX Construction is a Texas-based construction firm specializing in heavy civil, commercial, and residential projects. They offer services including earthwork, concrete paving, underground utilities, and site development. Known for quality workmanship and timely project delivery, ZTEX serves clients across various sectors, leveraging advanced technology and skilled professionals to meet diverse construction needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9a725066b0ef29555a6d5a5161c5600d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnp0zxhjb25zdhj1y3rpb24uy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-29 10:16:06.000000",
+    "disclosedDate": "2024-10-29 19:26:35.737930"
+  }
+}

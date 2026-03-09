@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-268904",
+  "type": "ransomware-incident",
+  "title": "HOERMANN-GRUPPE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HOERMANN-GRUPPE.COM",
+    "domain": "hoermann-gruppe.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Startseite - HÖRMANN Gruppe",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/73b150f1e0f30e45142636d7d1e76fa7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/se9fuk1btk4tr1jvufbflknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:53:42.206524",
+    "disclosedDate": "2023-07-26 20:53:42.206548"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-0865A3",
+  "type": "ransomware-incident",
+  "title": "gramoll.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gramoll.com",
+    "domain": "gramoll.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Phone Number: (801) 295-2341",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0c4be77c18536223ef1ad3f9a6f18f42.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jhbw9sbc5jb21abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-14 00:00:00.000000",
+    "disclosedDate": "2025-04-08 22:13:10.670745"
+  }
+}

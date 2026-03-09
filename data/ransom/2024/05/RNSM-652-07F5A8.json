@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-07F5A8",
+  "type": "ransomware-incident",
+  "title": "williamsrdm.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "williamsrdm.com",
+    "domain": "williamsrdm.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Williams RDM is a Fort Worth-based research, development, and manufacturing company.All data will be open and available for downloading in 7 days!!!(14.05.24)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ca90078976aac67a0c9ef69da805dd24.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2lsbglhbxnyzg0uy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-19 00:00:00.000000",
+    "disclosedDate": "2024-05-07 22:29:22.904473"
+  }
+}

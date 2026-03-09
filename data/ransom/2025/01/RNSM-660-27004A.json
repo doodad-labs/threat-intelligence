@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-27004A",
+  "type": "ransomware-incident",
+  "title": "pti.agency ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pti.agency",
+    "domain": "pti.agency",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "pti.agency",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5ac2adc0452290cecea70467b387cbfb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chrplmfnzw5jeubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:57:30.674753",
+    "disclosedDate": "2025-01-27 07:58:37.879265"
+  }
+}

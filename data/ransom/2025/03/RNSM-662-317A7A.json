@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-317A7A",
+  "type": "ransomware-incident",
+  "title": "Evans Distribution Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Evans Distribution Systems",
+    "domain": "evansdist.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1929, Evans Distribution Systems is a provider of complete supply chain solutions including transportation, warehousing, distribution, staffing, value-added packaging, quality inspection, and more. The company is headquartered in Melvindale, Michigan.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/833ddc7d48a6cd797221d2e553d36b6a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxzhbnmgrglzdhjpynv0aw9uifn5c3rlbxnay2hhb3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-31 18:28:47.245742",
+    "disclosedDate": "2025-03-31 18:28:47.245742"
+  }
+}

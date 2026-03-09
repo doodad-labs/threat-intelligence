@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-176C29",
+  "type": "ransomware-incident",
+  "title": "A Beautiful Pools Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "A Beautiful Pools Inc",
+    "domain": "a-beautifulpools.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "nitrogen",
+    "name": "nitrogen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A Beautiful Pools, based in Texas, specializes in designing, building, and maintaining custom swimming pools for residential and commercial properties.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/27424e01d680b7b9e151e1bfdd19b294.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qsbczwf1dglmdwwgug9vbhmgsw5jqg5pdhjvz2vu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-17 14:34:33.909227",
+    "disclosedDate": "2024-12-17 14:34:34.697060"
+  }
+}

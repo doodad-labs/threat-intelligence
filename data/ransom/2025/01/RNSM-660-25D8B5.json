@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-25D8B5",
+  "type": "ransomware-incident",
+  "title": "nutripack.eu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nutripack.eu",
+    "domain": "nutripack.eu",
+    "country": "FR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Nutripack.eu is a prominent international company based in Europe that specializes in the manufacturing and sales of sustainable food packaging. The company offers innovative, eco-friendly solutions for food packaging, ranging from recyclable trays to bio-degradable options. Established with the goal of reducing plastic wastage, Nutripack's strategic commitment revolves around environmental responsibility and creativity. They cater to various sectors including catering, agri-food industries, and healthcare.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/78539edf5f9a0b49e7aa5cf612e8ef23.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bnv0cmlwywnrlmv1qhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-14 00:00:00.000000",
+    "disclosedDate": "2025-01-25 20:30:47.878358"
+  }
+}

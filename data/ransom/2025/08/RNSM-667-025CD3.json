@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-025CD3",
+  "type": "ransomware-incident",
+  "title": "Clemens Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Clemens Construction",
+    "domain": "clemensconstruction.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "(Banking, insurance, financial, and HR documentation. Audit. Client documentation.) Clemens Construction is a reputable construction firm based in Philadelphia, specializing in renovation and construction projects for the hospitality and commercial sectors. They serve a diverse clientele including hotels, educational institutions, and commercial properties, emphasizing quality and open communication throughout their projects. With a strong track record of successful collaborations, they have earned recognition for their professionalism and ability to manage complex projects while minimizing disruption to operations. The company is committed to delivering exceptional results, making them a preferred partner for construction needs in their market.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3a8395b0162f27bc57a8aa8d7625a528.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2xlbwvucybdb25zdhj1y3rpb25azhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-02 12:42:13.657757",
+    "disclosedDate": "2025-08-02 12:52:04.158280"
+  }
+}

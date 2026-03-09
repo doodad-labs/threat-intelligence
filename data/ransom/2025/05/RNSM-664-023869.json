@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-023869",
+  "type": "ransomware-incident",
+  "title": "Jordan Kuwait Bank ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jordan Kuwait Bank",
+    "domain": "jkb.com",
+    "country": "JO",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Jordan Kuwait Bank (JKB) is a Middle Eastern banking institution founded in 1972. It operates in Jordan, Palestine, and Cyprus, offering a range of financial products and services. These services include personal and corporate banking, foreign trade services, and treasury and investment services. JKB is a subsidiary of Kuwait Projects Company (Holding) and is noted for its innovative digital banking applications.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/941ec87980f279662f7d5d82eb2a2e1c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sm9yzgfuiet1d2fpdcbcyw5rqgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-26 00:00:00.000000",
+    "disclosedDate": "2025-05-02 11:13:47.706228"
+  }
+}

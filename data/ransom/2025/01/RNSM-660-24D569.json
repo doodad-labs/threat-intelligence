@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-24D569",
+  "type": "ransomware-incident",
+  "title": "NISSINFOODS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NISSINFOODS.COM",
+    "domain": "nissinfoods.com",
+    "country": "JP",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Nissin Foods is a renowned Japanese food company that specializes in the production and sale of convenience foods. The company was established in 1948 by Momofuku Ando, the inventor of instant noodles. Its key products include instant ramen and cup noodles, which have become globally recognized. Nissin Foods operates in numerous countries, providing diverse palate choices with their individualized instant noodle flavors. They are known for their innovation, quality, and taste in the fast-food market.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/770b3c2e2110cdb4a2bc79c5fa5192d8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tkltu0lork9prfmuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 08:34:05.406468",
+    "disclosedDate": "2025-01-24 08:34:05.406468"
+  }
+}

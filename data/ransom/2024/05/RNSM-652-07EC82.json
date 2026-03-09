@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-07EC82",
+  "type": "ransomware-incident",
+  "title": "Noritsu America Corp. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Noritsu America Corp.",
+    "domain": "noritsu.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6b687a8d008d4f839a3d6ecc0416206d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9yaxrzdsbbbwvyawnhienvcnauqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-07 18:36:40.000000",
+    "disclosedDate": "2024-05-07 20:29:39.085898"
+  }
+}

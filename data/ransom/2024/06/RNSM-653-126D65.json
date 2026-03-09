@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-653-126D65",
+  "type": "ransomware-incident",
+  "title": "ZeepLive ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ZeepLive",
+    "country": ""
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Zeeplive offers you a stage for video chat and video calls with new friends, it gets simpler to make friends and talk with new people. Chat with your new friends face-to-face in a live video call or have a chat through text messages anytime, anywhere!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bd7ebee2309617e1232187c31e036641.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wmvlcexpdmvazgfya3zhdwx0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-12 00:00:00.000000",
+    "disclosedDate": "2024-06-12 18:17:10.716063"
+  }
+}

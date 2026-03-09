@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-318828",
+  "type": "ransomware-incident",
+  "title": "Ace Micromatic Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ace Micromatic Group",
+    "domain": "acemicromatic.net",
+    "country": "IN",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ace Micromatic Group is India's largest machine tool conglomerate with a market presence in several countries across Asia, Australia, Middle East, North & South America and Europe.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5be95069bfe8780edb42e951027dba01.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnlie1py3jvbwf0awmgr3jvdxbabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-31 04:37:58.12345",
+    "disclosedDate": "2023-07-31 06:03:34.089520"
+  }
+}

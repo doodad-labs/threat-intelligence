@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-1946FA",
+  "type": "ransomware-incident",
+  "title": "OFCOM.ORG.UK ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OFCOM.ORG.UK",
+    "domain": "ofcom.org.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - Ofcom",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/873b5949e065a9d3ea37d9ed4bc4108b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t0zdt00ut1jhllvlqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-19 01:16:46.498017",
+    "disclosedDate": "2023-07-19 01:16:46.498064"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-647-0711CE",
+  "type": "ransomware-incident",
+  "title": "AMCO Proteins ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AMCO Proteins",
+    "domain": "amcoproteins.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "For more than 50 years AMCO Proteins has been manufacturing and developing functional protein ingredients for customers around the world.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qu1dtybqcm90zwluc0biawfubglhbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-07 17:25:08.565375",
+    "disclosedDate": "2023-12-07 17:25:08.565395"
+  }
+}

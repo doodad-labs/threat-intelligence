@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-19E50F",
+  "type": "ransomware-incident",
+  "title": "piburners.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "piburners.com",
+    "domain": "piburners.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 156000000000,
+    "description": "ZIP-156GB - Revenue $5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cglidxjuzxjzlmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-04 00:00:00.000000",
+    "disclosedDate": "2024-11-19 22:46:38.483810"
+  }
+}

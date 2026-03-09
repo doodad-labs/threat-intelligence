@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-308645",
+  "type": "ransomware-incident",
+  "title": "ome.tv ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ome.tv",
+    "domain": "ome.tv",
+    "country": "TR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "With OmeTV video chat you can strike up a conversation with strangers, meet interesting people, a...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c449e288525a0a912b8867fe69545dbe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b21llnr2qgfwddcz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-30 12:55:10.076761",
+    "disclosedDate": "2025-01-30 12:55:10.076761"
+  }
+}

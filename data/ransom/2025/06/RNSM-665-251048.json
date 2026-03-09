@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-665-251048",
+  "type": "ransomware-incident",
+  "title": "Quaser Machine Tools, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Quaser Machine Tools, Inc",
+    "domain": "quaser.com",
+    "country": "TW",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000000,
+    "description": "Quaser Machine Tools, Inc. is a Taiwan-based company that manufactures and sells various machine tools, primarily CNC (computer numerical control) machine tools. Our team managed to breach the QMT network. 2TB of sensitive data leaked f            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f1bb599cb7727188855b8635540c062d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uxvhc2vyie1hy2hpbmugvg9vbhmsieluy0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-11 00:00:00.000000",
+    "disclosedDate": "2025-06-25 21:25:21.330224"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-263F14",
+  "type": "ransomware-incident",
+  "title": "SCM GROUP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SCM GROUP",
+    "domain": "scmgroup.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "SCM Group, based in Rimini, Italy, is a company that specializes in manufacturing products for wood, plastic, stone, glass and metal. All attempts to contact the management of this company were ignored. Now 700GB of data will become public.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/725bf773a853c0064e5e03296468b706.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0nniedst1vqqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-11 00:00:00.000000",
+    "disclosedDate": "2024-11-26 11:16:08.749232"
+  }
+}

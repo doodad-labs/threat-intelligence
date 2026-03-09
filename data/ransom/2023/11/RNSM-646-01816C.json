@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-01816C",
+  "type": "ransomware-incident",
+  "title": "steelofcarolina.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "steelofcarolina.com",
+    "domain": "steelofcarolina.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Division 5 is a full-service structural steel fabricator based in Winston GA. Founded in 2001, we currently have four manufacturing plants totalling 350,000+ square feet and over 200 hard-working, skilled men and women. We have the capacity to produc...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c6f9d65268a42c09fa9ede7884af74fc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rlzwxvzmnhcm9saw5hlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-01 22:49:00.000000",
+    "disclosedDate": "2023-11-01 23:28:28.180313"
+  }
+}

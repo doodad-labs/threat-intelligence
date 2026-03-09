@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-01B7F4",
+  "type": "ransomware-incident",
+  "title": "tpa-group.sk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tpa-group.sk",
+    "domain": "tpa-group.sk",
+    "country": "SK",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "underground",
+    "name": "underground",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue:tpa-group.com $281M; tpa-group.sk $15M - Country :Slovakia",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a2bde67b25b5934c8403e243ab3ab7fb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhbhlwdyb3vwlnnrqhvuzgvyz3jvdw5k",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-04 00:00:00.000000",
+    "disclosedDate": "2024-05-01 14:11:27.968531"
+  }
+}

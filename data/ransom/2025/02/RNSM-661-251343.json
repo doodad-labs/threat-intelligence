@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-251343",
+  "type": "ransomware-incident",
+  "title": "National Legal Service ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "National Legal Service",
+    "domain": "nationallegalservice.co.uk",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "termite",
+    "name": "termite",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "National Legal Service are a leading Criminal, Family and Child Care firm conducting both private and legal aid work to a diverse client base.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9b3928fb4fec37922d4cee396e7587fb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf0aw9uywwgtgvnywwgu2vydmljzub0zxjtaxrl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 00:44:45.000000",
+    "disclosedDate": "2025-02-25 22:53:16.467045"
+  }
+}

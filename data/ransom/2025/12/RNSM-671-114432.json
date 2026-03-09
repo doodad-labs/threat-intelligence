@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-671-114432",
+  "type": "ransomware-incident",
+  "title": "ABECO Zumtech Drucklufttechnik AG Müliweg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ABECO Zumtech Drucklufttechnik AG Müliweg",
+    "country": "CH",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ABECO   Zumtech Drucklufttechnik AG designs and implements cost-effective compressed air systems in Switzerland.   We will upload corporate data soon. Employee information (German IDs, DLs, passports, phones, address and so on), financials, client and customerinformation, contracts and agreements, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qujfq08gwnvtdgvjacbecnvja2x1znr0zwnobmlriefhie3dvgxpd2vnqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-11 00:00:00.000000",
+    "disclosedDate": "2025-12-11 13:18:16.962107"
+  }
+}

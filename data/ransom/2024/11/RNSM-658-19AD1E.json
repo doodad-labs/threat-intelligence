@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-19AD1E",
+  "type": "ransomware-incident",
+  "title": "IndicaOnline ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IndicaOnline",
+    "domain": "indicaonline.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Client’s Personal data and ID’s Total personal records : 422,075 https://indicaonline.com Company representative should follow the instructions to contact us before time runs out",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ff2aef5e5da1cfd232a91b3e8d9a6077.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5kawnht25saw5lqgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 18:07:26.551196",
+    "disclosedDate": "2024-11-19 18:07:27.226109"
+  }
+}

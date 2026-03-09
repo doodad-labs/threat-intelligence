@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-119550",
+  "type": "ransomware-incident",
+  "title": "NetVigour ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NetVigour",
+    "domain": "netvigour.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/695cd84e1a7caa9c07023d3a52bbc668.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv0vmlnb3vyqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-11 08:46:21.000000",
+    "disclosedDate": "2024-03-11 10:16:59.919492"
+  }
+}

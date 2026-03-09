@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-2552CB",
+  "type": "ransomware-incident",
+  "title": "Benjamin Consulting Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Benjamin Consulting Services",
+    "domain": "bcsmidwest.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 25000000000,
+    "description": "Status: 29d 23h 13m 26s - Size Data: 25 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d07a14304b6abb4dee1850a89d67a8ca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvuamftaw4gq29uc3vsdgluzybtzxj2awnlc0bjawnhzgezmzax",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-25 00:00:00.000000",
+    "disclosedDate": "2025-02-25 23:23:55.212838"
+  }
+}

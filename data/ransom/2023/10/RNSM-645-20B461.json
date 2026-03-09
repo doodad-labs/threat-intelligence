@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-20B461",
+  "type": "ransomware-incident",
+  "title": "charleystaxi.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "charleystaxi.com",
+    "domain": "charleystaxi.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Charley’s Taxi was founded in 1938 by Charles and Helen Morita.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/356a5d77b2212421113d35aa19f83d8f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2hhcmxlexn0yxhplmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-20 18:29:00.000000",
+    "disclosedDate": "2023-10-20 19:04:43.373377"
+  }
+}

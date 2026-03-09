@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-113157",
+  "type": "ransomware-incident",
+  "title": "soprema.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "soprema.com",
+    "domain": "soprema.com",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SOPREMA has been developing and diversifying its activities by including, over the years, additional operations to its traditional trade. By becoming the world leader in waterprooﬁng solutions, the group is today a key player in the construction sect...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dcb01e2ae7ec9f3691dfd3288dc25e19.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c29wcmvtys5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-30 00:00:00.000000",
+    "disclosedDate": "2024-08-11 07:54:44.545529"
+  }
+}

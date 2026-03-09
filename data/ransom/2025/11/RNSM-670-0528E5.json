@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-670-0528E5",
+  "type": "ransomware-incident",
+  "title": "Christina Development ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Christina Development",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 18000000000,
+    "description": "Christina is a Los Angeles-based real estate investment firm with45 years of experience, focusing on providing investors the opportunity to invest in prime real estate in locations such as Beverly Hills, Malibu, and Santa Monica.We will upload more than 18gb of corporate documents soon. Employee personal documents (passports, driver licenses, birth/death certificates), customer projects and other information, client information, financials, confidential files, NDA, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hyaxn0aw5hierldmvsb3btzw50qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-05 00:00:00.000000",
+    "disclosedDate": "2025-11-05 13:37:57.865212"
+  }
+}

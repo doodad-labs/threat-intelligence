@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-05013C",
+  "type": "ransomware-incident",
+  "title": "pestbusters ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pestbusters",
+    "domain": "pestbusters.com.sg",
+    "country": "SG",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "100K USD",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgvzdgj1c3rlcnnazgv2bwfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-05 12:52:24.347679",
+    "disclosedDate": "2025-05-05 12:52:25.855296"
+  }
+}

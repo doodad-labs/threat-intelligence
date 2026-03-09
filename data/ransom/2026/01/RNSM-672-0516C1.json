@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-0516C1",
+  "type": "ransomware-incident",
+  "title": "www.stcharlesprep.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.stcharlesprep.org",
+    "domain": "stcharlesprep.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "St Charles Preparatory School is a company that operates in the Education industry. It employs 11-20 people and has $1M-$5M of revenue. The company is headquartered in Columbus, Ohio.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b5bbb562ec1490fa78ea48802157d4a5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnn0y2hhcmxlc3byzxaub3jnqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 15:11:59.382000",
+    "disclosedDate": "2026-01-05 15:15:00.149176"
+  }
+}

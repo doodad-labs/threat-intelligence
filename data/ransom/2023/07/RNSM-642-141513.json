@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-141513",
+  "type": "ransomware-incident",
+  "title": "VOSS.NET ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VOSS.NET",
+    "domain": "voss.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Homepage: VOSS Gruppe",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c4406b81069749b0141a50ab8e92b3f6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vk9tuy5orvray2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-14 12:29:18.666720",
+    "disclosedDate": "2023-07-14 12:29:18.666767"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19DB0F",
+  "type": "ransomware-incident",
+  "title": "pointpleasant.k12.nj.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pointpleasant.k12.nj.us",
+    "domain": "pointpleasant.k12.nj.us",
+    "country": "",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Point Pleasant Borough School District",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/585cf9c59256d4bb3cc4e3d2b0385a7c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cg9pbnrwbgvhc2fudc5rmtiubmoudxnazglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-03 15:21:00.000000",
+    "disclosedDate": "2024-04-19 10:00:08.718283"
+  }
+}

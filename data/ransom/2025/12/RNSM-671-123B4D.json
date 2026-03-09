@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-123B4D",
+  "type": "ransomware-incident",
+  "title": "The Parkes Companies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Parkes Companies",
+    "domain": "parkescompanies.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/161125f7b40782a1aadcae874805c9a2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifbhcmtlcybdb21wyw5pzxnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-12 06:49:57.899652",
+    "disclosedDate": "2025-12-12 06:50:16.827965"
+  }
+}

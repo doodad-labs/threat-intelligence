@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-670-2276B2",
+  "type": "ransomware-incident",
+  "title": "C&M Software ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "C&M Software",
+    "domain": "cmsw.com",
+    "country": "BR"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "C&M Software is a leading technology company specializing in solutions for the financial market. Their offerings include automated processes, secure payment integrations, and payment solutions tailored for both immediate and installment transactions. The intended clients range from financial institutions to retail and corporate sectors, aiming to enhance efficiency and risk management within their financial operations. With a commitment to innovation, C&M Software is recognized for providing robust and flexible technology services that streamline payment processes and improve business intelligence.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f8ac426adccad9704d96145c2b50913a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qyznifnvznr3yxjlqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.terra.com.br/economia/ataque-cibernetico-a-provedora-de-servicos-de-tecnologia-no-brasil-afeta-contas-reserva-de-algumas-instituicoes-financeiras,e06459321b261e4f48b6ae685740210b2gdam8a6.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-22 11:43:27.858781",
+    "disclosedDate": "2025-11-22 12:50:59.854836"
+  }
+}

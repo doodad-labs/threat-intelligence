@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-658-1962CB",
+  "type": "ransomware-incident",
+  "title": "gfemlaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gfemlaw.com",
+    "domain": "gfemlaw.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 550000000000,
+    "description": "Gleason, Flynn, Emig & McAfee, Chartered was founded in 1983 as Gleason & Flynn, when the firm’s founders, Jim Gleason and Mike Flynn decided to create a firm of skilled and aggressive trial lawyers. Gerard Emig and Larry McAfee became shareholders in 1991 and 2006, respectively.  Over the years the firm has increased in size yet its mission has remained constant: The attorneys at GFEM are dedicated to using their experience and expertise to best service the legal needs of their clients.SITE: www.gfemlaw.com Address : 11 North Washington Street Suite 400, Rockville MD 20850-4278, USTEL#: 301.294.2110ALL DATA SIZE: ≈550gb 1. Corporate data 2. Users personal folders and documents 3. Customers data and personal docs 4. Confidential data & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2a00dfd8db78f0d6e7f8626d8191b16e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2zlbwxhdy5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d5721432-1548-4877-beb6-632492450f38.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-31 00:00:00.000000",
+    "disclosedDate": "2024-11-19 12:10:25.149142"
+  }
+}

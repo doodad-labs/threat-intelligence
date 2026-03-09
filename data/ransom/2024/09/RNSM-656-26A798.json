@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-26A798",
+  "type": "ransomware-incident",
+  "title": "tolsa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tolsa.com",
+    "domain": "tolsa.com",
+    "country": "ES",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TOLSA Minerals & Mining. Spain. Founded in 1957 TOLSA is a mining company that works in the extraction, treatment and commercialization of mineral solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dg9sc2euy29tqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-26 09:35:09.599522",
+    "disclosedDate": "2024-09-26 09:35:10.048692"
+  }
+}

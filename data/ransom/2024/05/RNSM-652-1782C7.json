@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-1782C7",
+  "type": "ransomware-incident",
+  "title": "WindCom ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WindCom",
+    "domain": "windcomservices.com",
+    "country": "ES",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "WindCom is an industry innovator focused on providing solutions to customer's wind blade needs. High levels of technical competence paired with flexible repair ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2luzenvbubkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-16 00:00:00.000000",
+    "disclosedDate": "2024-05-17 04:29:15.133787"
+  }
+}

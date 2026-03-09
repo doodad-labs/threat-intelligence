@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-12E6CE",
+  "type": "ransomware-incident",
+  "title": "Better System Co.,Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Better System Co.,Ltd",
+    "domain": "bettersystem.co.th",
+    "country": "TH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Some of the data taken from the servers of this company can be found below",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/25a3b13e5f546e8d08a4130f991c3f73.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmv0dgvyifn5c3rlbsbdby4sthrkqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-12 10:07:13.038255",
+    "disclosedDate": "2023-07-12 10:07:13.038278"
+  }
+}

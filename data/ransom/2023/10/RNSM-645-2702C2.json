@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-645-2702C2",
+  "type": "ransomware-incident",
+  "title": "Mutual Underwriters ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mutual Underwriters",
+    "domain": "mutualunderwriters.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "Top insurance providers in Hawaii. Since 1958,Mutual Underwriters have provided insurance to folks in Hawaii and have expanded our services to include every type of  insurance whether it's for your home, vehicle or family health. We also offer insurance for commercial needs.   Over 700GB of personal data were stolen from there, including:  - detailed insurance information (name of insured, amount of payments, contacts, address, etc)  - financial data (transfers, payments, etc)  - access to insurance providers applications (with possibility to manage insurances)  - employees personal details (contacts, payments, passwords to personal services, etc)  - other sensitive data elated to customers and employees which supposed to be protected    Unfortunately for ordinary people the top management of Mutual Underwriters offered only \"words\" to protect their data. This sum is unacceptable. Since all the time needed for their bosses to make a decision were given and all the evidences were provided, Mutual Underwriters decided to stop the negotiation process,  you can find all the data stolen from them for free download now.",
+    "claimed_data_types": [
+      "passwords",
+      "financial-data",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/75f58b737dc08834c7ff837b3568ff56.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txv0dwfsifvuzgvyd3jpdgvyc0bhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-27 12:24:06.123456",
+    "disclosedDate": "2023-10-27 13:20:18.581203"
+  }
+}

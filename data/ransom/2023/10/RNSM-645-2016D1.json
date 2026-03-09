@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-2016D1",
+  "type": "ransomware-incident",
+  "title": "degrootgroep.nl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "degrootgroep.nl",
+    "domain": "degrootgroep.nl",
+    "country": "NL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Part 2 :De Groot Installatiegroep is a family business that supplies high-quality technical installations. On the one hand, we stand for our clients, the quality of the installations and for innovations in the industry.At the same time, we stan...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ace9d2dc50479b36ba38a8d9fa2c2fb2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvncm9vdgdyb2vwlm5sqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-20 18:29:00.000000",
+    "disclosedDate": "2023-10-20 19:05:12.355113"
+  }
+}

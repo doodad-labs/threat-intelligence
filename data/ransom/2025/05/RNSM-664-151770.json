@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-664-151770",
+  "type": "ransomware-incident",
+  "title": "wnyenergy.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wnyenergy.com",
+    "domain": "wnyenergy.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] WNY Energy is an energy company based in Western New York, USA. It operates a 115 million gallon per year ethanol plant that produces clean-burning, renewable fuel and various byproducts including CO2 and wet and dry distillers grain that are used in food and feed products. The company focuses on innovative technology and practices for transforming local corn into efficient, sustainable biofuels.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/56f0dd695b610eb0cc4f44cd962375c4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d255zw5lcmd5lmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-06-04%20western%20new%20york%20energy%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-24 00:00:00.000000",
+    "disclosedDate": "2025-05-15 20:55:22.753586"
+  }
+}

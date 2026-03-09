@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-168A45",
+  "type": "ransomware-incident",
+  "title": "Icat Food SpA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Icat Food SpA",
+    "country": "IT",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 12000000000,
+    "description": "Icat Food is a Historic Italian Company with over a century of experience in the seafood industry, known for its innovative products that blend national and local traditions. The company emphasizes sustainability by implementing a Sustainable Sourcing Policy aligned with the FAO Code of Conduct for Responsible Fisheries.We will upload almost 12gb of corporate data soon. Employee information (passports, DLs and other personal information), financials, customers information, projects, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/swnhdcbgb29kifnwqubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-16 00:00:00.000000",
+    "disclosedDate": "2026-02-16 13:08:37.203888"
+  }
+}

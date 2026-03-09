@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-31769D",
+  "type": "ransomware-incident",
+  "title": "Punjab.gov.pk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Punjab.gov.pk",
+    "domain": "punjab.gov.pk",
+    "country": "PK",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "flocker",
+    "name": "flocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "To The Organization of Punjab.gov.pk We have owned the servers and extract  ed all data of all officers and Employees working",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/949d30e338155888eab68d9f8844d817.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhvuamfilmdvdi5wa0bmbg9ja2vy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-31 18:51:48.605194",
+    "disclosedDate": "2025-01-31 18:53:07.842755"
+  }
+}

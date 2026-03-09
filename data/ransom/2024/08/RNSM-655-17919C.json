@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-17919C",
+  "type": "ransomware-incident",
+  "title": "www.allanmcneill.co.nz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.allanmcneill.co.nz",
+    "domain": "allanmcneill.co.nz",
+    "country": "NZ",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Allan McNeill is a New Zealand-based firm specializing in accounting and business advisory services. They offer a range of solutions including tax planning, financial reporting, and strategic business advice. With a focus on personalized service, Allan McNeill aims to support both individuals and businesses in achieving their financial goals through expert guidance and tailored strategies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e25fa062aab21031c9aa59130b1bd53f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmfsbgfubwnuzwlsbc5jby5uekbyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-17 17:31:37.000000",
+    "disclosedDate": "2024-08-17 19:20:57.993275"
+  }
+}

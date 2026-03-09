@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-26E09B",
+  "type": "ransomware-incident",
+  "title": "alles Lægehus ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "alles Lægehus",
+    "domain": "alleslaegehus.dk",
+    "country": "DK",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "datacarry",
+    "name": "datacarry",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxszxmgtmomz2vodxnazgf0ywnhcnj5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://alleslaegehus.dk/vigtig-information-om-it-sikkerhedshaendelse/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-26 17:40:54.150155",
+    "disclosedDate": "2025-05-26 17:40:55.853859"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-13A404",
+  "type": "ransomware-incident",
+  "title": "countyins.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "countyins.com",
+    "domain": "countyins.com",
+    "country": "GB",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The County Group is one of the North West's fastest growing brokers, with over 35 brands, and one of the UK's Top 25 brokers",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/edeeb23336546ea6e974fd34a1cc5451.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y291bnr5aw5zlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-13 14:13:00.000000",
+    "disclosedDate": "2024-05-13 16:41:52.726919"
+  }
+}

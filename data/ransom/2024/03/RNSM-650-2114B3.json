@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-2114B3",
+  "type": "ransomware-incident",
+  "title": "pathologie-bochum.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pathologie-bochum.de",
+    "domain": "pathologie-bochum.de",
+    "country": "DE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Das im Institut für Pathologie bearbeitete Untersuchungsgut (Histologie, Zytologie, Molekularpathologie) wird uns von Ärzten aller Fachrichtungen übersandt.Über das Ergebnis der von uns durchgeführten Untersuchungen ergeht ein schriftlicher Befun...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/499f0c3725ee0b436cb08c682a66287f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgf0ag9sb2dpzs1ib2nodw0uzgvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-21 13:57:00.000000",
+    "disclosedDate": "2024-03-21 14:51:02.199477"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-642-05696D",
+  "type": "ransomware-incident",
+  "title": "ZooTampa at Lowry Park ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ZooTampa at Lowry Park",
+    "domain": "zootampa.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Voted Tampa’s Best Family Attraction and 11-time winner of TripAdvisor Travelers’ Choice Award, ZooTampa offers unforgettable adventures for all ages. Enjoy an amazing, lush tropical setting with naturalistic habitats that provide up-close connections with animals from around the world.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f090d9baf5a35d54e51fa131fe4c437c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wm9vvgftcgegyxqgtg93cnkgugfya0bibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.wfla.com/news/hillsborough-county/zootampa-hit-by-cyber-attack-target-unclear/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-05 20:00:16.743642",
+    "disclosedDate": "2023-07-05 20:00:16.743666"
+  }
+}

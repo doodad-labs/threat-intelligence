@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-11ADAE",
+  "type": "ransomware-incident",
+  "title": "fnde.gov.br brazilian government ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fnde.gov.br brazilian government",
+    "domain": "fnde.gov.br",
+    "country": "BR",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "fnde.gov.br brazilian government",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bff3306de9f5cd3b1e4b2a32cd4cc7ae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zm5kzs5nb3yuynigynjhemlsawfuigdvdmvybm1lbnraymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-11 02:53:46.555128",
+    "disclosedDate": "2025-03-11 02:54:53.665138"
+  }
+}

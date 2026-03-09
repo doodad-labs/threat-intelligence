@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-642-26056F",
+  "type": "ransomware-incident",
+  "title": "The People's Federal Credit Union | tpfcucom ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The People's Federal Credit Union | tpfcucom",
+    "domain": "tpfcu.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 95000000000,
+    "description": "We successfully exfiltrated 95 GB of sensitive date of The People's Federal Credit Union: billings, financial invoices, documents, reports and etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ac58c3021284f8c7741ee15b5d57807.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifblb3bszsdziezlzgvyywwgq3jlzgl0ifvuaw9uihwgdhbmy3vjb21aywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-05-09 17:55:04.000000",
+    "disclosedDate": "2023-07-26 17:23:23.982497"
+  }
+}

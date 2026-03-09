@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-13D5EE",
+  "type": "ransomware-incident",
+  "title": "dawsongroup.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dawsongroup.co.uk",
+    "domain": "dawsongroup.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "400GBFinance (budget, audit, cash flow, balance sheet, P&L, tax returns, project calculations, YTD reports for all companies, bank statements and many other financial documents)Employees (lists with NI numbers, personnel records, residential ad...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/339d29313b6e68c16a3c89e9ff77fa5a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgf3c29uz3jvdxauy28udwtabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-13 21:13:00.000000",
+    "disclosedDate": "2023-12-13 22:02:19.961598"
+  }
+}

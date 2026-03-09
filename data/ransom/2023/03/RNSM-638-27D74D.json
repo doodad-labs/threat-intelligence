@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-27D74D",
+  "type": "ransomware-incident",
+  "title": "LINX ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LINX",
+    "domain": "linx.com.br",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A company of the Stone Co group, Linx is a specialist in retail technology and leader in the management software market, with a 45.6% retail market share, as attested by the IDC. All of our expertise is focused on retailing for and for people, connecting the individual to the ease, intelligence and desired experience from the online to the offline world.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aee0e1280515aa92e7b269ad7b8a49f9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/telowebzdg9ybw91cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-27 17:17:04.573665",
+    "disclosedDate": "2023-03-27 17:17:04.573683"
+  }
+}

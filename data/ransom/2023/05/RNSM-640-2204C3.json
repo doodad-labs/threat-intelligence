@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-2204C3",
+  "type": "ransomware-incident",
+  "title": "Cafpi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cafpi",
+    "domain": "cafpi.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "vicesociety",
+    "name": "vicesociety",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cafpi is the undisputed leader of the profession it created: that of Mortgage Broker. Prominent in the mortgage market for nearly 4 decades, CAFPI has developed wide-ranging expertise, and a vast network of partners.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fmcgladmljzxnvy2lldhk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.lemagit.fr/actualites/366538284/ransomware-cafpi-a-ete-attaque-fin-avril-par-vice-society",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-22 21:56:53.162620",
+    "disclosedDate": "2023-05-22 21:56:53.162640"
+  }
+}

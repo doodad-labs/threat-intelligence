@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-05D80D",
+  "type": "ransomware-incident",
+  "title": "GreenValley International ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GreenValley International",
+    "domain": "greenvalleyinternational.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GreenValley International Inc (GVI), based in Berkeley, California, is a leading innovator in 3D mapping technologies, offering a diverse range of aerial, terrestrial, and mobile LiDAR survey and mapping hardware systems along with advanced software solutions. Their product lineup includes various laser scanning platforms and the LiDAR360 data processing platform, catering to industries such as forestry, power line inspection, mining, and utilities. GVI specializes in LiDAR and image fusion technology, focusing on achieving precise digital representations of three-dimensional spaces. Committed to innovation, GVI continues to expand its technological capabilities in the LiDAR sector.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c9ac14cef8ca73a340a30b3cd2c6a7d4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jlzw5wywxszxkgsw50zxjuyxrpb25hbebzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 05:59:17.375000",
+    "disclosedDate": "2026-01-05 06:27:53.358104"
+  }
+}

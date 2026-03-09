@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-28FC4F",
+  "type": "ransomware-incident",
+  "title": "kosmas.cz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kosmas.cz",
+    "domain": "kosmas.cz",
+    "country": "CZ",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Online bookstore Kosmas.cz",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/08af8942f10a4ebd30943489374bc450.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a29zbwfzlmn6qgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-04 00:00:00.000000",
+    "disclosedDate": "2025-05-28 02:02:16.574652"
+  }
+}

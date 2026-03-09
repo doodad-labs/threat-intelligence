@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-306976",
+  "type": "ransomware-incident",
+  "title": "nieul-sur-mer.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nieul-sur-mer.fr",
+    "domain": "nieul-sur-mer.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A Town Hall in France",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e78c834d87ba01a84b3b3db24f59b270.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmlldwwtc3vylw1lci5mckbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-30 22:59:00.000000",
+    "disclosedDate": "2023-08-30 23:37:34.413688"
+  }
+}

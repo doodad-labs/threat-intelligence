@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-06C2AD",
+  "type": "ransomware-incident",
+  "title": "Agència Catalana de Notícies (ACN) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Agència Catalana de Notícies (ACN)",
+    "domain": "acn.cat",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Agència Catalana de Notícies (ACN) is one of the first digital news agencies established in Europe and has been operating since 1999. The Spanish office of the company is located at  Avinguda Josep Tarradellas, 20, 30, 2a planta 08029 Barcelona",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b06beb9f35ca6227033ecea3214abe04.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwfdqg5jawegq2f0ywxhbmegzgugtm90w61jawvzichbq04pqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-06 09:33:02.12345",
+    "disclosedDate": "2023-10-06 10:10:28.127732"
+  }
+}

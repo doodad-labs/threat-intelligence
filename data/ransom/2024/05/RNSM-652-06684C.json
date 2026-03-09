@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-06684C",
+  "type": "ransomware-incident",
+  "title": "remagroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "remagroup.com",
+    "domain": "remagroup.com",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Company. REMA Group, with locations in Germany, China and the USA, is one of the international technological leaders in the field of high-current contact systems. We develop and produce connector systems for charging electric vehicles, high-current c...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3579a6fcfd29f830381343e4f61dbe5d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmvtywdyb3vwlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-06 14:04:00.000000",
+    "disclosedDate": "2024-05-06 16:53:06.115496"
+  }
+}

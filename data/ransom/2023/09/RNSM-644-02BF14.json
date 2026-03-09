@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-02BF14",
+  "type": "ransomware-incident",
+  "title": "sterncoengineers.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sterncoengineers.com",
+    "domain": "sterncoengineers.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0fa83adcaa3d6d094b13a9062dbe9b52.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rlcm5jb2vuz2luzwvycy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-02 15:30:00.000000",
+    "disclosedDate": "2023-09-02 16:01:22.664142"
+  }
+}

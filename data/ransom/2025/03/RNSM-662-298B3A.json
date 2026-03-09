@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-298B3A",
+  "type": "ransomware-incident",
+  "title": "mmmbs.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mmmbs.net",
+    "domain": "mmmbs.net",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 08.04.2025. Mid Michigan Medical Billing Service, Inc. is a full spectrum revenue cycle management company offering Medical Billing, Medical Transcription, Records Management, and Con            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f0e08eac6f5dd53b5a36afdd8309ed6b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw1tynmubmv0qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-28 00:00:00.000000",
+    "disclosedDate": "2025-03-29 12:38:09.378412"
+  }
+}

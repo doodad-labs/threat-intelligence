@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-07670E",
+  "type": "ransomware-incident",
+  "title": "SHACKELFORD.LAW ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SHACKELFORD.LAW",
+    "domain": "shackelford.law",
+    "country": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Shackelford Law is a Dallas-based law firm that offers a wide range of legal services. They cater to individuals and businesses alike with specialties including business litigation, real estate law, entertainment law, corporate & securities, and intellectual property. The team is composed of experienced attorneys who aim to deliver practical and cost-effective solutions to their clients' legal issues.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3fa6ab960f01f36359616dbec4f664dd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0hbq0tftezpukqutefxqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 21:04:55.747700",
+    "disclosedDate": "2026-02-07 21:05:09.949285"
+  }
+}

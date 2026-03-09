@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-277515",
+  "type": "ransomware-incident",
+  "title": "hyosung.jp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hyosung.jp",
+    "domain": "hyosung.jp",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "制作の流れについて格安ホームページ制作・システム開発 「孝」",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahlvc3vuzy5qcebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-27 13:36:54.028155",
+    "disclosedDate": "2023-02-27 13:36:54.028180"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-2563E7",
+  "type": "ransomware-incident",
+  "title": "Les Miroirs St-Antoine Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Les Miroirs St-Antoine Inc",
+    "domain": "miroirstantoine.com",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Company has the last 24 hours to contact us using the instructions left. In case of silence, all data will be published herehttps://miroirstantoine.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4f8c76439066cd9fa8222158e15dab19.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvzie1pcm9pcnmgu3qtqw50b2luzsbjbmnazxzlcmvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-25 15:26:49.791134",
+    "disclosedDate": "2024-04-25 15:26:49.791171"
+  }
+}

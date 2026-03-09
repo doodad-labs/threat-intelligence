@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-0426F8",
+  "type": "ransomware-incident",
+  "title": "IFA Paris ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IFA Paris",
+    "domain": "ifaparis.com",
+    "country": "FR",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] IFA Paris is a renowned fashion school that offers a blend of French fashion heritage and modern global perspectives. Established in 1982, it provides programs in design, business, and technology related to fashion. With campuses in Paris, Shanghai, and Istanbul, IFA Paris emphasizes creativity and innovation, preparing students for diverse careers in the dynamic fashion industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/suzbifbhcmlzqgz1bmtzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-04 06:20:35.712829",
+    "disclosedDate": "2024-12-04 06:20:37.807277"
+  }
+}

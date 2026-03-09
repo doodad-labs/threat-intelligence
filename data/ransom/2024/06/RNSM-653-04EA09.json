@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-653-04EA09",
+  "type": "ransomware-incident",
+  "title": "Langescheid GbR ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Langescheid GbR",
+    "domain": "langescheid.com",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "your traditional logistic partner from Germany....",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e9f78c4041c5338fa05ee1b5a8785290.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgfuz2vzy2hlawqgr2jsqgfyy3vzbwvkawe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-03 22:30:26.000000",
+    "disclosedDate": "2024-06-04 00:59:31.389714"
+  }
+}

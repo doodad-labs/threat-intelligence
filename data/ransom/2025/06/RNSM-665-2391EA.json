@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-2391EA",
+  "type": "ransomware-incident",
+  "title": "mlderm.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mlderm.com",
+    "domain": "mlderm.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] MLDerm is a beauty product online store specializing in skincare products treating Melasma. It utilizes various technologies to achieve its goal of restoring and maintaining healthy skin. The company prides itself on using scientific research, allowing it to develop effective and safe products. With a team of aesthetics professionals, they provide continuous improvement and new developments in their product line.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e95465a23029bfcfd983343cdd5a5485.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwxkzxjtlmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-10 00:00:00.000000",
+    "disclosedDate": "2025-06-23 19:21:08.303120"
+  }
+}

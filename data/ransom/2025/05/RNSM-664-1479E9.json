@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-1479E9",
+  "type": "ransomware-incident",
+  "title": "Royal Chemical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Royal Chemical",
+    "domain": "royalchemical.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Royal Chemical Company, Ltd. operates as a chemical blender, and toll and contract manufacturer. It focuses on industrial, institutional, and household cleaning products. The company was founded in 1938 and is based in Twinsburg, Ohio. It has plants in Macedonia, Ohio; Chattanooga, Tennessee; Dallas, Texas; Hayward, California; and East Stroudsburg, Pennsylvania.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7ba2a8f41605b7fd2f6fa0e102c615b3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um95ywwgq2hlbwljywxabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-11 00:00:00.000000",
+    "disclosedDate": "2025-05-14 19:04:39.231336"
+  }
+}

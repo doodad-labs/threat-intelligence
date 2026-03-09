@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-08F3EF",
+  "type": "ransomware-incident",
+  "title": "Mahoney Foundry, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mahoney Foundry, Inc.",
+    "domain": "aluminumsandcastingsfoundry.com",
+    "country": "IN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mahoney Foundries, Inc., is an aluminum casting supplier specializing in quality machining and non ferrous casting. We offer copper, bronze, and aluminum sand casting with offices in Indiana and Vermont.mahoneyfoundries.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/69c66f15e7ddd81dd41f0e0105a81913.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfob25lesbgb3vuzhj5lcbjbmmuqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-08 00:00:00.000000",
+    "disclosedDate": "2024-04-08 07:35:11.303294"
+  }
+}

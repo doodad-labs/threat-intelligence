@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-015ADB",
+  "type": "ransomware-incident",
+  "title": "villagecoin.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "villagecoin.com",
+    "domain": "villagecoin.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Village Coin Shop specializes in providing a wide variety of numismatic products.The store is also recognized as a dealer of US Mint bullion and Royal Canadian Mint bullion.1.Client lists2.File is an invoice from SilverTowne (STLP) to Vil            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/afbd0c280b98e1f28dfb83b13fe40c1d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmlsbgfnzwnvaw4uy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-01 00:00:00.000000",
+    "disclosedDate": "2025-07-01 18:54:02.616455"
+  }
+}

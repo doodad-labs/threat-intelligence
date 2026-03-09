@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-643-243E39",
+  "type": "ransomware-incident",
+  "title": "lusis-avocats.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lusis-avocats.com",
+    "domain": "lusis-avocats.com",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country: france",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bhvzaxmtyxzvy2f0cy5jb21ay2xvyws=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-24 07:42:34.271083",
+    "disclosedDate": "2023-08-24 07:42:34.271106"
+  }
+}

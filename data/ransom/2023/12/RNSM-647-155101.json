@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-647-155101",
+  "type": "ransomware-incident",
+  "title": "MEDIMARKET ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MEDIMARKET",
+    "domain": "medi-market.be",
+    "country": "BE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MEDI-MARKET is a new chain of pharmacies and parapharmacies offering, for the first time in Belgium, 1,000 m² dedicated to health. Our innovative concept offers customers personalized advice from specialists and a wide range of products in the health care, natural medicine, cosmetics, nutrition and baby care sectors. Website: www.medi-market.beRevenue : $164MAddress: 2 Blvd Anspach 2, Brussels, Brussels Capital, BelgiumPhone Number: +32 22260120",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tuvesu1buktfvebjywn0dxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-28 09:57:10.261000",
+    "disclosedDate": "2023-12-15 15:30:04.719555"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-30673E",
+  "type": "ransomware-incident",
+  "title": "datacampos.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "datacampos.com",
+    "domain": "datacampos.com",
+    "country": "BR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Datacampos.com is a company specializing in data management and analytics solutions. They offer services that help businesses harness the power of their data through advanced tools and technologies. Their expertise includes data visualization, data integration, and predictive analytics, aimed at driving informed decision-making and operational efficiency across various industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgf0ywnhbxbvcy5jb21arwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-30 22:32:20.528697",
+    "disclosedDate": "2024-09-30 22:32:22.409461"
+  }
+}

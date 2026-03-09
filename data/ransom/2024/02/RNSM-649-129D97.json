@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-129D97",
+  "type": "ransomware-incident",
+  "title": "Freedom Munitions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Freedom Munitions",
+    "domain": "freedommunitions.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "meow",
+    "name": "meow",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SALE",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/55a07c7c0555c3cbdd7395d6357266cc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnjlzwrvbsbndw5pdglvbnnabwvvdw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 00:00:00.000000",
+    "disclosedDate": "2024-02-12 10:53:39.492607"
+  }
+}

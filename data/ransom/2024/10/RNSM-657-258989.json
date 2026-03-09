@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-657-258989",
+  "type": "ransomware-incident",
+  "title": "Pacific Pulmonary Medical Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pacific Pulmonary Medical Group",
+    "domain": "pacificpulm.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Medical records and personal data of all patients from 2021 Company representative should follow the instructions to contact us before time runs out https://pacificpulm.com/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/07089573307735ea33ff59b39255dd97.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfjawzpyybqdwxtb25hcnkgtwvkawnhbcbhcm91cebldmvyzxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://databreaches.net/2024/11/23/pacific-pulmonary-medical-group-patient-information-dumped-by-everest-ransomware-team/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 00:34:33.127280",
+    "disclosedDate": "2024-10-25 00:34:33.851728"
+  }
+}

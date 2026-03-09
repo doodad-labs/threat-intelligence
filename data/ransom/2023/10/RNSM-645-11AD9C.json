@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-645-11AD9C",
+  "type": "ransomware-incident",
+  "title": "Instron & ITW Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Instron & ITW Inc",
+    "domain": "instron.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Instron manufactures and services a wide range of cutting-edge materials testing equipment used by research scientists, design engineers, and quality control managers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5zdhjvbiamieluvybjbmnaymlhbmxpyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-11 19:00:48.622415",
+    "disclosedDate": "2023-10-11 19:00:48.622439"
+  }
+}

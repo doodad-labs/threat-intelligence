@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-21D96C",
+  "type": "ransomware-incident",
+  "title": "Davis Products Company Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Davis Products Company Inc",
+    "domain": "davisproductsco.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/521fda930ad1df16849551ffe22c34a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgf2axmguhjvzhvjdhmgq29tcgfuesbjbmnaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-21 21:19:30.899630",
+    "disclosedDate": "2024-12-21 21:19:31.882105"
+  }
+}

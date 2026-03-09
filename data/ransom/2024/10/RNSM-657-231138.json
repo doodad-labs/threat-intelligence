@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-231138",
+  "type": "ransomware-incident",
+  "title": "Tricon Energy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tricon Energy",
+    "domain": "triconenergy.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TRICON is an international trader and marketer for main petrochemicals, essential as building blocks for the finished products.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8f68c517d5c5ab080350b48849e4131b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjpy29uievuzxjneubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-29 00:00:00.000000",
+    "disclosedDate": "2024-10-23 10:13:04.182407"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-146734",
+  "type": "ransomware-incident",
+  "title": "Durham Region ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Durham Region",
+    "domain": "durham.ca",
+    "country": "CA",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Regional Municipality of Durham is celebrating its 50th anniversary this year, and we are inviting residents to celebrate and learn more about the Region we call home!PS And in honor of this holiday, there was a data leak that the administration ignored.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhvyagftifjlz2lvbkbkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-14 10:05:05.000144",
+    "disclosedDate": "2024-10-14 11:36:29.186539"
+  }
+}

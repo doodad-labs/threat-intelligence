@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-235DC3",
+  "type": "ransomware-incident",
+  "title": "SOLPAC.CO.JP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SOLPAC.CO.JP",
+    "domain": "solpac.co.jp",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "株式会社ソルパック",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d076aee0e92fbbb558b9092fe9d6bc98.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u09muefdlknplkpqqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-23 13:17:01.211435",
+    "disclosedDate": "2023-03-23 13:17:01.211455"
+  }
+}

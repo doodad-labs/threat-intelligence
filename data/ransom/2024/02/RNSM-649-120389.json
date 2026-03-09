@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-120389",
+  "type": "ransomware-incident",
+  "title": "dienerprecisionpumps.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dienerprecisionpumps.com",
+    "domain": "dienerprecisionpumps.com",
+    "country": "CH",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "More than 25 years of experience in design, engineering and quality production of precision metering and micro gear pumps",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/619a2dce49224f148e4991275a830ba6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgllbmvychjly2lzaw9uchvtchmuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 08:01:00.000000",
+    "disclosedDate": "2024-02-12 10:32:58.823453"
+  }
+}

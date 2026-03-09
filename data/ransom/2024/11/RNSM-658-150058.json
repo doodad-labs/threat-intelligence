@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-150058",
+  "type": "ransomware-incident",
+  "title": "A&O IT Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "A&O IT Group",
+    "domain": "aoitgroup.com",
+    "country": "GB",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0af9b1e576c5e188ad96e83a85a55053.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qszpieluiedyb3vwqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-15 11:57:18.000000",
+    "disclosedDate": "2024-11-15 19:09:40.598242"
+  }
+}

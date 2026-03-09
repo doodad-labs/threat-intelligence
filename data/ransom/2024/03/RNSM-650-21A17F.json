@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-650-21A17F",
+  "type": "ransomware-incident",
+  "title": "ALAB laboratoria ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ALAB laboratoria",
+    "country": "PL",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "raworld",
+    "name": "raworld",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/efce8f025cf3032dd0d1bb416f1db47b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/quxbqibsywjvcmf0b3jpyubyyxdvcmxk",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-21 00:23:08.545717",
+    "disclosedDate": "2024-03-21 00:23:08.545738"
+  }
+}

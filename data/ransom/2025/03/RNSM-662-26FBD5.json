@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-26FBD5",
+  "type": "ransomware-incident",
+  "title": "Ebassi.com (E.B. Archbald and Associates) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ebassi.com (E.B. Archbald and Associates)",
+    "domain": "ebassi.com",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "Over 700GB of data downloaded from their servers ( both local servers and CLOUD SERVERS ) . Company has 48 hours to contact us if not we will make the data available for download .SSI combines state of the art technology with professional            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1102e28f7e80ab88f6b4cba41a18f1f4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwjhc3nplmnvbsaors5clibbcmnoymfszcbhbmqgqxnzb2npyxrlcylacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-26 00:00:00.000000",
+    "disclosedDate": "2025-03-26 23:49:05.408392"
+  }
+}

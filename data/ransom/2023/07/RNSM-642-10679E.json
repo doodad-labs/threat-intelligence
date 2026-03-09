@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-10679E",
+  "type": "ransomware-incident",
+  "title": "JHU.EDU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JHU.EDU",
+    "domain": "jhu.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - Johns Hopkins University",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/92c47a17ac4bae0c08b38e85b1974c63.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/skhvlkvevubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-10 19:47:14.223576",
+    "disclosedDate": "2023-07-10 19:47:14.223601"
+  }
+}

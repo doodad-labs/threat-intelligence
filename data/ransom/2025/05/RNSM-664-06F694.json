@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-664-06F694",
+  "type": "ransomware-incident",
+  "title": "TWFG Insurance ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TWFG Insurance",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TWFG Insurance services the Lagrange area and throughout the state of Georgia. At TWFG Insurance, thei…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfdgrybjbnn1cmfuy2vau2lszw50umfuc29tr3jvdxa=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-13 21:26:48.880545",
+    "disclosedDate": "2025-05-06 18:12:18.697936"
+  }
+}

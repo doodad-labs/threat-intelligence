@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-044CB0",
+  "type": "ransomware-incident",
+  "title": "Weisman Children's ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Weisman Children's",
+    "domain": "weismanchildrens.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Weisman Children's Rehabilitation Hospital is the leading provider of pediatric rehabilitation services in the Delaware Valley",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0099c210f34467b37c4555638aa250f4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vpc21hbibdaglszhjlbidzqgludgvybg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-04 17:34:44.853261",
+    "disclosedDate": "2025-08-04 17:35:11.792629"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-07B042",
+  "type": "ransomware-incident",
+  "title": "AAA Environmental ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AAA Environmental",
+    "domain": "aaaenvironmental.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AAA Environmental provides environmental training, industrial hygiene, safety, online classes, and consultation services.We are ready to upload a lot of private corporate documents including: internal financial documents, employee medical documents, contact numbers and e-mail addresses of employees and customers, family contacts, medicare information, driver licenses, credit card information, SSNs etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qufbievudmlyb25tzw50ywxaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 00:00:00.000000",
+    "disclosedDate": "2025-01-07 13:57:04.611567"
+  }
+}

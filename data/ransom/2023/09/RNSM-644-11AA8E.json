@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-11AA8E",
+  "type": "ransomware-incident",
+  "title": "My Insurance Broker ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "My Insurance Broker",
+    "domain": "myinsurancebroker.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 2008, My Insurance Broker is a Canadian community-dedicated brokerage.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/78e05a26fc6987c75c17a233f2f7e3d4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txkgsw5zdxjhbmnliejyb2tlckbjywn0dxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-02 00:00:00.000000",
+    "disclosedDate": "2023-09-11 14:35:11.661509"
+  }
+}

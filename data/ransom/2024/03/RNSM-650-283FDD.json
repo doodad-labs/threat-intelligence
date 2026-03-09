@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-283FDD",
+  "type": "ransomware-incident",
+  "title": "Primeimaging Data Leak ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Primeimaging Data Leak",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "200 GB personal medical records, onco results, clients and employee personal data, passports and other documents https://primeimaging.com https://gofile.io/d/U0bWTihttps://gofile.io/d/utHvjxhttps://gofile.io/d/k4UHkshttps://gofile.io/d/ekGvQAhttps://gofile.io/d/B6134G",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/318bcb720716439a62f056d1bb5dab7f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjpbwvpbwfnaw5nierhdgegtgvha0bldmvyzxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-28 04:17:48.593056",
+    "disclosedDate": "2024-03-28 04:17:48.593082"
+  }
+}

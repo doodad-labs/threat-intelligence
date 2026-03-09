@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-668-308555",
+  "type": "ransomware-incident",
+  "title": "Turf Care Store ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Turf Care Store",
+    "country": "",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "Turf Care Store is an independent, and privately held Canadian company that provides products and services to the golf course community, municipalities, parks departments, professional contractors, and authorized Toro and Kawasaki dealers.We are going to upload 30gb of their corporate data. Employee personal documents (passports, medical information, prescriptions, questionnaires and so on), other HR information, financials, agreements, internal confidential files, projects, clients information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhvyzibdyxjlifn0b3jlqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-29 00:00:00.000000",
+    "disclosedDate": "2025-09-30 11:45:33.168140"
+  }
+}

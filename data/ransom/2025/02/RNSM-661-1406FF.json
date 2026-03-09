@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-1406FF",
+  "type": "ransomware-incident",
+  "title": "Heritage South Credit Union ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Heritage South Credit Union",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "Heritage South Credit Union was originally chartered in 1937 as the Avondale Employees Federal Credit Union. After many years and a couple of name changes, Heritage South Credit Union continues to have a strong presence in Sylacauga, Childersburg, Moody, and Alexander City as a fixture in the community and as a stable and secure financial institution. Heritage South Credit Union has grown to over $160 million in assets and over 14,000+ members. - 300 GB data including:\r- debit card numbers\r- account numbers\r- SSN\r- address\r- phone\r- email\r- DOB\r- current balances\r- debts\r- loans\r- insurance\r\rHere's data for CEO: ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/31e50e1395895ea768974985a32095d4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvyaxrhz2ugu291dgggq3jlzgl0ifvuaw9uqgvtymfyz28=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-14 17:20:45.847822",
+    "disclosedDate": "2025-02-14 18:02:37.289912"
+  }
+}

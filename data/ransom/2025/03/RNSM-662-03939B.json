@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-03939B",
+  "type": "ransomware-incident",
+  "title": "Forstenlechner Installationstechnik ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Forstenlechner Installationstechnik",
+    "country": "AT",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 41000000000,
+    "description": "The Perger family company FORSTENLECHNER lives for excellence in building technology and mechanical engineering. And offers the best technology.We are ready to upload more than 41 GB of essential corporate documents such as: contact numbers and e-mail addresses of employeesand customers, HR documents, SVNr, financial data (audits, payment details, reports), confidential licenses, agreements and contracts, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rm9yc3rlbmxly2huzxigsw5zdgfsbgf0aw9uc3rly2huawtaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-03 00:00:00.000000",
+    "disclosedDate": "2025-03-03 12:45:07.181796"
+  }
+}

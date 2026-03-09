@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-22B69D",
+  "type": "ransomware-incident",
+  "title": "HARMAN - CYNC SOLUTIONS client ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HARMAN - CYNC SOLUTIONS client",
+    "domain": "harman.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 82000000000,
+    "description": "Visits: 93 Data Size: 82Gb Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/06c2fcf4e97f24a5977888eb127d6e41.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sefstufoic0gq1loqybtt0xvvelptlmgy2xpzw50qhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-22 16:41:13.476674",
+    "disclosedDate": "2024-04-22 16:41:13.476695"
+  }
+}

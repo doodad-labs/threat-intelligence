@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-15337B",
+  "type": "ransomware-incident",
+  "title": "ATMCo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ATMCo",
+    "domain": "atmco.net",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "trigona",
+    "name": "trigona",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ATMCo is a reputable tax management company based in Broken Arrow, Oklahoma. With a commitment to simplifying tax-related processes for businesses and individuals, ATMCo offers comprehensive services in tax preparation, bookkeeping, and accounting. Company is headquartered at 2220 W Houston St Ste A, Broken Arrow, Oklahoma. Situated in a convenient location, the company is easily accessible to clients seeking professional tax management services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6761cba6416ec114ba5ce740133fa5c2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvrnq29adhjpz29uyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-21 10:00:00.000000",
+    "disclosedDate": "2024-03-15 16:19:07.712086"
+  }
+}

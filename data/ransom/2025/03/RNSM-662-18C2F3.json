@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-18C2F3",
+  "type": "ransomware-incident",
+  "title": "AMICIO ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AMICIO",
+    "domain": "amicio.fr",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AMICIO does business in the Activities of call centres sector. AMICIO is located at 17 RUE DES GRANDES TERRES 92500 RUEIL-MALMAISON. To our knowledge, it is present on the internet with at least one website: www.amicio.fr.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/29a1512af118d903bbc479610c28d094.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qu1jq0lpqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-07 00:00:00.000000",
+    "disclosedDate": "2025-03-18 20:27:55.960548"
+  }
+}

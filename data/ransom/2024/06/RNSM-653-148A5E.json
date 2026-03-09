@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-148A5E",
+  "type": "ransomware-incident",
+  "title": "svmasonry.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "svmasonry.com",
+    "domain": "svmasonry.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sun Valley Construction is a company that operates in the Construction industry. It employs 51-100 people and has $5M-$10M of revenue. The companyis headquartered in Phoenix, Arizona.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1fb885fc74988ceb156089bd1584e4e4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3ztyxnvbnj5lmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-10 00:00:00.000000",
+    "disclosedDate": "2024-06-14 20:22:04.173060"
+  }
+}

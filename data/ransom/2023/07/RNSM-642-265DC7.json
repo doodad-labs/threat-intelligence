@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-642-265DC7",
+  "type": "ransomware-incident",
+  "title": "tnqcoin ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tnqcoin",
+    "domain": "tnq.co.in",
+    "country": "IN",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "more than 300 gigabytes, accounting, personal data of employees, data of partners and much more... AVAILABLE FOR DOWNLOAD!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d6d34e3468650ea5f15fda1c5d47e5fe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dg5xy29pbkbhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-07-28 15:32:47.000000",
+    "disclosedDate": "2023-07-26 17:01:10.542377"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-143CEE",
+  "type": "ransomware-incident",
+  "title": "Bruno generators (Italian manufacturing) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bruno generators (Italian manufacturing)",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "Bruno's line of products includes compact, reliable and ultra-sil ent generating sets. We have made in Italy production. 40GB of da ta will be released. Clients information, financial documents, pr ojects information etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnj1bm8gz2vuzxjhdg9ycyaosxrhbglhbibtyw51zmfjdhvyaw5nkubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-14 20:48:02.849352",
+    "disclosedDate": "2024-05-14 20:48:03.014373"
+  }
+}

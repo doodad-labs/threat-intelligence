@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-23BD08",
+  "type": "ransomware-incident",
+  "title": "Creditinfo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Creditinfo",
+    "domain": "creditinfo.com",
+    "country": "UK",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "payoutsking",
+    "name": "payoutsking",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Creditinfo is a leading service provider for credit information and risk management solutions worldwide. It was established in 1997 and has grown to have a presence in over 50 countries. As an international financial services company, it assists businesses, individuals, and organizations with credit-related decisions by offering a range of services, including credit risk management, marketing intelligence, and decision analytics.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1052ab619dcc92cdd5978ed59dd0ff6a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q3jlzgl0aw5mb0bwyxlvdxrza2luzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-15 13:56:00.000000",
+    "disclosedDate": "2025-07-23 19:19:26.569844"
+  }
+}

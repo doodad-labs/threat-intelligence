@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-02B80B",
+  "type": "ransomware-incident",
+  "title": "cloud51.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cloud51.com",
+    "domain": "cloud51.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cloud 51 Data Solutions focuses on delivering proactive and preventative IT support and service solutions to small businesses locally and nationwide.It now serves more than 60 companies that have all been hacked. Each company had all their confiden...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/780d2185cf0ab48a5fa8206de0c5f153.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2xvdwq1ms5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-02 20:20:00.000000",
+    "disclosedDate": "2023-05-02 20:48:17.157556"
+  }
+}

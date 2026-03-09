@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-24288C",
+  "type": "ransomware-incident",
+  "title": "iberdrola.com (Spain energy) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "iberdrola.com (Spain energy)",
+    "country": "ES",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "iberdrola.com (Spain energy)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1b981e95b1646b7d47b925374cdb517a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awjlcmryb2xhlmnvbsaou3bhaw4gzw5lcmd5kubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-24 19:54:41.458044",
+    "disclosedDate": "2025-03-24 19:55:49.059581"
+  }
+}

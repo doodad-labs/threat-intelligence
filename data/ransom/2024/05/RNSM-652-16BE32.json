@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-16BE32",
+  "type": "ransomware-incident",
+  "title": "Baeckerei-raddatz.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Baeckerei-raddatz.de",
+    "domain": "baeckerei-raddatz.de",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country: germany",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfly2tlcmvplxjhzgrhdhouzgvay2xvyws=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-16 14:15:02.425529",
+    "disclosedDate": "2024-05-16 14:15:02.425560"
+  }
+}

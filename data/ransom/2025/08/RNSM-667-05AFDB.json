@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-05AFDB",
+  "type": "ransomware-incident",
+  "title": "JWiz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JWiz",
+    "domain": "jwiz.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "pear",
+    "name": "pear",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "JWiz offers marketing solutions including online advertising and sales promotion, lead generation, social media, website design, development, hosting and search engine optimization for small and local businesses Samples Posted",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8e38e54002a6f63ad7f5c8834df0c7e6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sldpekbwzwfy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-24 00:00:00.000000",
+    "disclosedDate": "2025-08-05 21:33:14.061342"
+  }
+}

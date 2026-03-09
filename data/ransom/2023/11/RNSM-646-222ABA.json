@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-222ABA",
+  "type": "ransomware-incident",
+  "title": "Hills Legal Group Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hills Legal Group Ltd",
+    "domain": "hillslegal.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "For over 30 years, we have focused our practice in the field of litigation, from trials to appellate level representation. Every case deserves a thorough defense and we are committed to providing our clients with experienced, aggressive, and economical representation.   No case is too small to defend and each gets the attention it deserves. For our work, the firm has received an AV rating from Martindale Hubbell, connoting a “very high to preeminent” rating on both our legal abilities and ethical standards. We pride ourselves on the recognition we have received from the legal community and deliver respected representation to our clients, day in and day out. hillslegal.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a72a4f1846aea1b29022b6b340c2078d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sglsbhmgtgvnywwgr3jvdxagthrkqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-22 00:00:00.000000",
+    "disclosedDate": "2023-11-22 07:10:07.434335"
+  }
+}

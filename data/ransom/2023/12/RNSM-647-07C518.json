@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-07C518",
+  "type": "ransomware-incident",
+  "title": "directradiology.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "directradiology.com",
+    "domain": "directradiology.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Direct Radiology is a custom teleradiology company.If negotiations fail, patient records, doctor docs, and company data will be publicly available.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0e94da3fdb00112b83e3c49dc8f87d03.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zglyzwn0cmfkaw9sb2d5lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-07 09:41:00.000000",
+    "disclosedDate": "2023-12-07 11:29:13.883970"
+  }
+}

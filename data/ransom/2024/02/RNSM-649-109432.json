@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-649-109432",
+  "type": "ransomware-incident",
+  "title": "Carespring Health Care ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Carespring Health Care",
+    "domain": "carespring.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a7f16657252ddf92f1b27c279e705b12.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fyzxnwcmluzybizwfsdgggq2fyzubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://skillednursingnews.com/2024/08/nursing-home-provider-carespring-healths-data-breach-impacted-67000-residents-lawsuit-alleges/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-10 19:12:38.000000",
+    "disclosedDate": "2024-02-10 19:21:15.748820"
+  }
+}

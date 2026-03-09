@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-288AFC",
+  "type": "ransomware-incident",
+  "title": "Weiss ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Weiss",
+    "domain": "weissandco.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7e3ee60c75800c353818c8869cee4181.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vpc3nacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-28 19:16:25.628479",
+    "disclosedDate": "2025-11-28 19:16:40.719236"
+  }
+}

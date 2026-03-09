@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-638-239B8D",
+  "type": "ransomware-incident",
+  "title": "Graceworks Lutheran Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Graceworks Lutheran Services",
+    "domain": "graceworks.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 45000000000,
+    "description": "Founded in 1929, Graceworks Lutheran Services is a lutheran social services organization that operates assisted living facilities. Do not be surprised that the company is engaged in charity - it's just a front. Maybe they are involved in money laundering - who knows...We have at our disposal the contents of all email addresses of the top management, full financial audits from 1995 to the present, 45GB or 486,880 Files of personal patients information (clinical) and even documents related to President Biden - very entertaining. Beside this, we have finance, employee documents, accounting, HR and much more others.Enjoy!",
+    "claimed_data_types": [
+      "email-addresses",
+      "addresses"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1fc672543f46970c3ea40d7091c9b342.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jhy2v3b3jrcybmdxrozxjhbibtzxj2awnlc0byb3lhba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-21 01:02:03.456789",
+    "disclosedDate": "2023-03-23 05:10:08.656458"
+  }
+}

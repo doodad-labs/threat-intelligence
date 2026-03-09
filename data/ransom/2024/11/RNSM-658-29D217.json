@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-29D217",
+  "type": "ransomware-incident",
+  "title": "Aviosupport ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aviosupport",
+    "domain": "aviosupport.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Aviosupport is a leader in the global distribution of aircraft spare parts to the commercial aerospace industry.We are ready to upload a lot of internal corporate documents including:  NDAs, insurance documents, customer contacts, employees contact with family info and many others data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxzpb3n1chbvcnraywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 00:00:00.000000",
+    "disclosedDate": "2024-11-29 13:00:18.632698"
+  }
+}

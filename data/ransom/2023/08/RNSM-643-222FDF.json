@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-222FDF",
+  "type": "ransomware-incident",
+  "title": "GROUPHC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GROUPHC",
+    "domain": "heidelbergmaterials.com",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "*At Heidelberg Materials, we’ve been contributing to progress for 150 years. With more than 51,000 employees at almost 3,000 sites in over 50 countries, we’re one of the world’s largest integrated manufacturers of building materials and solutions with leading market positions in cement, aggregates, and ready-mixed concrete. Our products and services are used in the construction of houses, infrastructure, commercial and industrial facilities. * *At the centre of our actions lies our responsibility for the environment. We’re front runner on the road to carbon neutrality and circular economy in the building materials industry. We’re working on intelligent and sustainable building materials as well as solutions for the future. We also enable new opportunities for our customers through digitalisation.  *SITE: https://www.heidelbergmaterials.com Address  Heidelberg Materials AG Berliner Straße 6 69120 Heidelberg Germany",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/15f96cf6ffaca9bda6a4624c45f21ab3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r1jpvvbiq0bibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-22 09:11:53.736796",
+    "disclosedDate": "2023-08-22 09:11:53.736818"
+  }
+}

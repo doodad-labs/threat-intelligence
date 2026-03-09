@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27352F",
+  "type": "ransomware-incident",
+  "title": "UPPERLAKESFOODS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UPPERLAKESFOODS.COM",
+    "domain": "upperlakesfoods.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Upper Lakes Foods is a family-owned food distributor based in Minnesota, USA. They have over five decades of experience in the industry and specialize in distributing food to healthcare organizations, schools, retailers, and restaurants. The company ensures the highest quality of food products and services, contributing to their client’s success by offering innovative solutions, personalized service, and a comprehensive food selection.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vvbqrvjmqutfu0zpt0rtlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:41:26.674778",
+    "disclosedDate": "2025-02-27 17:41:32.519570"
+  }
+}

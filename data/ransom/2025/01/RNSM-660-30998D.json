@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-30998D",
+  "type": "ransomware-incident",
+  "title": "nenok.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nenok.de",
+    "domain": "nenok.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "monti",
+    "name": "monti",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Full leak",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cf6d762e30f5f86f90eba33ff8bbca4c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmvub2suzgvabw9udgk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-30 17:52:29.227808",
+    "disclosedDate": "2025-01-30 17:53:41.636913"
+  }
+}

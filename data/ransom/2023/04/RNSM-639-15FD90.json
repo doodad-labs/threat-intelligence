@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-639-15FD90",
+  "type": "ransomware-incident",
+  "title": "Gulliver International ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Gulliver International",
+    "domain": "glv.co.jp",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbyte",
+    "name": "blackbyte",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Gulliver International is a Japan-based company that operates in three business segments. The Pre-owned Car Sale segment purchases pre-owned cars from general customers and sells purchased cars to corporate clients though auctions around Japan and GAO.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3vsbgl2zxigsw50zxjuyxrpb25hbebibgfja2j5dgu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-15 13:46:21.710824",
+    "disclosedDate": "2023-04-15 13:46:21.710849"
+  }
+}

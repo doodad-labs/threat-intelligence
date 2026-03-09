@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-05CC13",
+  "type": "ransomware-incident",
+  "title": "Hospital Episcopal San Lucas ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hospital Episcopal San Lucas",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 309000000000,
+    "description": "Hospital Episcopal San Lucas, commonly known as Hospital San Lucas, is a hospital in Ponce, Puerto Rico. Hospital Episcopal San Lucas corporate office is located in PO Box 2027, Ponce, Puerto Rico, 00733, United States and has 131 employees. The total amount of data leakage is 309.00 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9zcgl0ywwgrxbpc2nvcgfsifnhbibmdwnhc0btzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-04 21:31:28.000000",
+    "disclosedDate": "2024-09-05 08:24:04.569529"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-05BF25",
+  "type": "ransomware-incident",
+  "title": "edisoft.es ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "edisoft.es",
+    "domain": "edisoft.es",
+    "country": "ES",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Edisoft is a Spanish technological company specializing in development and implementation of software systems for businesses. They offer solutions in areas such as ERP (Enterprise Resource Planning), CRM (Customer Relationship Management), business intelligence, and eCommerce. They also provide IT consulting, training, and ongoing technical support for clients. Their goal is to help businesses improve their efficiency and productivity through innovative technology solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/941a7c440455ac4cb85029f4cb87c220.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwrpc29mdc5lc0bccmfpbknpcghlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-05 10:23:28.006690",
+    "disclosedDate": "2025-05-05 10:25:33.146007"
+  }
+}

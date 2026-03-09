@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-657-263BEB",
+  "type": "ransomware-incident",
+  "title": "Legacy Treatment Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Legacy Treatment Services",
+    "domain": "legacytreatment.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Legacy Treatment Services has locations in Burlington, Atlantic, Camden, and Middlesex counties. They offer mental and behavioral health services, addiction services, counseling, medication management and more. And we offer you internal documents, patient records, and a large SQL database.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9c5eb9dc0435cbfe346eaf2186347239.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvnywn5ifryzwf0bwvudcbtzxj2awnlc0bpbnrlcmxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c82f893a-b2f7-4c1f-b512-8273bbc51586.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-26 11:38:02.115284",
+    "disclosedDate": "2024-10-26 11:38:02.829844"
+  }
+}

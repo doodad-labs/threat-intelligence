@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-10BE5B",
+  "type": "ransomware-incident",
+  "title": "Ichikawa North America Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ichikawa North America Corporation",
+    "domain": "ik-felt.co.jp",
+    "country": "JP",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ichikawa Co., Ltd. manufactures and sells paper making and industrial felts in Japan and internationally.We are ready to upload some private corporate documents including: internal financial documents, confidential agreements, customercontact phone numbers and e-mails, SSNs. employee contacts, driver licenses etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/swnoawthd2egtm9ydgggqw1lcmljysbdb3jwb3jhdglvbkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-26 00:00:00.000000",
+    "disclosedDate": "2025-01-10 18:51:38.758585"
+  }
+}

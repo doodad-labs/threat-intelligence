@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-662-18ADF7",
+  "type": "ransomware-incident",
+  "title": "Far East Consortium ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Far East Consortium",
+    "domain": "fecil.com.hk",
+    "country": "HK"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Far East Consortium (Hong Kong)",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmfyievhc3qgq29uc29ydgl1bubuawdodhnwaxjl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-07 00:00:00.000000",
+    "disclosedDate": "2025-03-18 03:10:08.352385"
+  }
+}

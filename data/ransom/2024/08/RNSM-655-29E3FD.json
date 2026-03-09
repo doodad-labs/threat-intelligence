@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-29E3FD",
+  "type": "ransomware-incident",
+  "title": "Bayou DeSiard Country Club - Monroe, LA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bayou DeSiard Country Club - Monroe, LA",
+    "domain": "bayoudesiardcc.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are located along the beautiful Bayou DeSiard in Monroe, Louisiana. Bayou DeSiard Country Club has provided its members with the amenities expected of the most prestigious private country club In Northeast Louisiana since 1948.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/175c45c8053f4b8627384ca0d4e8b656.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmf5b3ugrgvtawfyzcbdb3vudhj5iensdwiglsbnb25yb2usiexbqgnpy2fkytmzmde=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-18 00:00:00.000000",
+    "disclosedDate": "2024-08-29 03:15:50.019176"
+  }
+}

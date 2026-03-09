@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-120987",
+  "type": "ransomware-incident",
+  "title": "Solarpro Holding ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Solarpro Holding",
+    "domain": "solarpro.bg",
+    "country": "BG",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Solarpro Holding is a leading EPC contractor specializing in the design, construction, and integration of photovoltaic (PV) plants with over 7 GW o...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b046eda548ac544c24de8c01c2606497.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u29syxjwcm8gsg9szgluz0bjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-12 14:17:43.790848",
+    "disclosedDate": "2025-12-12 14:17:54.718729"
+  }
+}

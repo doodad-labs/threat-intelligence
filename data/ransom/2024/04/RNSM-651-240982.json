@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-240982",
+  "type": "ransomware-incident",
+  "title": "https://goftac.com/    firsttx.com  First Texas Alliance Corp   (FTAC) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "https://goftac.com/    firsttx.com  First Texas Alliance Corp   (FTAC)",
+    "domain": "goftac.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "alphalocker",
+    "name": "alphalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://goftac.com/    firsttx.com  First Texas Alliance Corp   (FTAC)Providing advisory services to business owners, professionals, and high-net-worth individuals. zackh@firsttx.com   Zack HooperChuck Marler  Financial Planning Client   cmarler@ssgsta.comstole data:doc/xls/t...Read more ⇒",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/01fc2684533807f1284267b0a8ed7b64.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahr0chm6ly9nb2z0ywmuy29tlyagicbmaxjzdhr4lmnvbsagrmlyc3qgvgv4yxmgqwxsawfuy2ugq29yccagichgvefdkubhbhboywxvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-24 10:16:48.811795",
+    "disclosedDate": "2024-04-24 10:16:48.811819"
+  }
+}

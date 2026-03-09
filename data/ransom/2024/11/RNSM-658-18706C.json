@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-18706C",
+  "type": "ransomware-incident",
+  "title": "K-State College of Veterinary Medicine ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "K-State College of Veterinary Medicine",
+    "domain": "k-state.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] K-State College of Veterinary Medicine is a renowned veterinary school located at Kansas State University in Manhattan, Kansas. It offers comprehensive veterinary education, including Doctor of Veterinary Medicine (DVM) and advanced research programs. Known for its cutting-edge facilities and expert faculty, the college focuses on animal health, research, and community service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sy1tdgf0zsbdb2xszwdlig9mifzldgvyaw5hcnkgtwvkawnpbmvarwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:06:41.187863",
+    "disclosedDate": "2024-11-18 21:06:48.330093"
+  }
+}

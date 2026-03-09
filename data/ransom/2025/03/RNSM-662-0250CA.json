@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-0250CA",
+  "type": "ransomware-incident",
+  "title": "North American Fire Hose ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "North American Fire Hose",
+    "domain": "nafhc.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4dce71bd6a1a3782c75d891fd008c40e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9ydgggqw1lcmljyw4grmlyzsbib3nlqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-06 00:00:00.000000",
+    "disclosedDate": "2025-03-02 20:06:47.995094"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-14846B",
+  "type": "ransomware-incident",
+  "title": "mcsl.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mcsl.de",
+    "domain": "mcsl.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/da885ea2f2940a4f364282a8a6a6ef71.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwnzbc5kzubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-01 00:00:00.000000",
+    "disclosedDate": "2025-06-14 14:41:22.226856"
+  }
+}

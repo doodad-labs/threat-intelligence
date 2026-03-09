@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-666-298B22",
+  "type": "ransomware-incident",
+  "title": "Hertz Farm Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hertz Farm Management",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 9000000000,
+    "description": "Hertz Farm Management specializes in professional farm management, land real estate services, and agricultural appraisals.We are going to upload 9 GB of corporate documents. A huge numberof employee personal files (passports, DLs, birth certs and so on), NDAs, detailed financial data, client information, project information and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvydhogrmfybsbnyw5hz2vtzw50qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-29 00:00:00.000000",
+    "disclosedDate": "2025-07-29 13:11:13.972651"
+  }
+}

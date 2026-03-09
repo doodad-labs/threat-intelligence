@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-662-076C4A",
+  "type": "ransomware-incident",
+  "title": "bayvillage.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bayvillage.org",
+    "domain": "bayvillage.org",
+    "country": "",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Bayvillage.org is the online portal for the town of Bay Village in Ohio, providing residents with crucial information on a range of city services, community events, department contacts, local businesses, and city council updates. It aims to promote civic involvement, boost local businesses and provide up-to-date news for residents. The site is meant to serve as a primary point of contact between the city's administration and its people.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e8abe796a648661ccafb4ae897fbf2c1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymf5dmlsbgfnzs5vcmdacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/019e2616-8f8f-4e8d-a76b-59fb9b0f65ba.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 05:46:41.000000",
+    "disclosedDate": "2025-03-07 16:05:04.250681"
+  }
+}

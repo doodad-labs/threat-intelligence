@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-124270",
+  "type": "ransomware-incident",
+  "title": "Emirates National Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Emirates National Group",
+    "domain": "enguae.com",
+    "country": "AE",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.enguae.com https://www.zoominfo.com/c/emirates-national-group-llc/390817579 Emirates National Group (ENG) is a premier transport and mobility solutions provider based in Abu Dhabi, United Arab Emirates. The group owns and operates a diverse portfolio of companies specializing in all forms of private and public transport, including car rentals and leasing, limousine services, taxi operations, and public bus systems. Additionally, the company provides ancillary automotive.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw1pcmf0zxmgtmf0aw9uywwgr3jvdxbadghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-12 18:39:03.000000",
+    "disclosedDate": "2026-02-12 19:11:27.983913"
+  }
+}

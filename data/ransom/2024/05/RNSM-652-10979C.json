@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-10979C",
+  "type": "ransomware-incident",
+  "title": "Pella ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pella",
+    "domain": "pellastl.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/40fc1cd2011db95854028883ee3fc570.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvsbgfaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-10 12:58:22.000000",
+    "disclosedDate": "2024-05-10 14:19:01.412376"
+  }
+}

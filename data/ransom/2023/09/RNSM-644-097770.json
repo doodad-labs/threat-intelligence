@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-097770",
+  "type": "ransomware-incident",
+  "title": "proxy-sale.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "proxy-sale.com",
+    "domain": "proxy-sale.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have been able to access all of linktera critical infrastructure including the database, we dumped and then deleted all backups from the serversWe require a ransom of $12,000",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjvehktc2fszs5jb21acmfuc29tzwq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-09 15:07:21.984571",
+    "disclosedDate": "2023-09-09 15:07:21.984601"
+  }
+}

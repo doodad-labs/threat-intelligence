@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-01CB1D",
+  "type": "ransomware-incident",
+  "title": "dossenterprises.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dossenterprises.com",
+    "domain": "dossenterprises.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d1218ffa17ad2f3b956b9b68d03bba01.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zg9zc2vudgvychjpc2vzlmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-06 00:00:00.000000",
+    "disclosedDate": "2025-07-01 21:53:10.478151"
+  }
+}

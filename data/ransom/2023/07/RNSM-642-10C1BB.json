@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-10C1BB",
+  "type": "ransomware-incident",
+  "title": "UMASSMED.EDU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UMASSMED.EDU",
+    "domain": "umassmed.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "UMass Chan Medical School",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b398680d5247b879e54236d0712f652b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vu1bu1nnruqururvqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-10 19:48:02.702532",
+    "disclosedDate": "2023-07-10 19:48:02.702569"
+  }
+}

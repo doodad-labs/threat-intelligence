@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-211E12",
+  "type": "ransomware-incident",
+  "title": "Trust Seeds ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Trust Seeds",
+    "domain": "trustseeds.com",
+    "country": "JO",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Days00007777Hours23Minutes22222222Seconds11115555www.trustseeds.comTRUST SEEDS, was established in 1986 as a family company in Amman-Jordan…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7a11d270259a7952b7c025d389ca761b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhj1c3qgu2vlzhnayxjjdxntzwrpyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-20 23:31:05.000000",
+    "disclosedDate": "2024-11-21 00:39:41.506514"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-109D0F",
+  "type": "ransomware-incident",
+  "title": "SMA.DE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SMA.DE",
+    "domain": "sma.de",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Willkommen bei SMA! - SMA Solar",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3f305c5a687350bf377c2b9035b8688d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u01blkrfqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-10 19:48:53.787932",
+    "disclosedDate": "2023-07-10 19:48:53.787970"
+  }
+}

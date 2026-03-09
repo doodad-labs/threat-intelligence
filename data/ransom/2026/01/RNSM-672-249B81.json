@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-672-249B81",
+  "type": "ransomware-incident",
+  "title": "HARTE-BAVENDAMM Rechtsanwlte PartG mbB ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HARTE-BAVENDAMM Rechtsanwlte PartG mbB",
+    "domain": "harte-bavendamm.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2758d27b95c0518e25b72715b02e4401.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sefsveutqkfwru5equ1nifjly2h0c2fud2x0zsbqyxj0rybtykjacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/harte-bavendamm-ransomware-angriff-trifft-renommierte-kanzlei/68517396",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-24 20:13:27.186819",
+    "disclosedDate": "2026-01-24 20:13:44.533182"
+  }
+}

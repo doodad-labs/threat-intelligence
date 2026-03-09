@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-16908A",
+  "type": "ransomware-incident",
+  "title": "Desco Steel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Desco Steel",
+    "domain": "descosteel.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Desco Steel was incorporated in 1991, selling a wide variety of structural steel products. Desco Steel corporate office is located in 270 Lancaster Ave Ste G2, Malvern, Pennsylvania, 19355, United States and has 10 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvzy28gu3rlzwxabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-15 16:29:38.12345",
+    "disclosedDate": "2024-03-16 16:31:44.349730"
+  }
+}

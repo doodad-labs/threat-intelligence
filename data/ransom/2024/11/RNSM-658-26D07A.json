@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-26D07A",
+  "type": "ransomware-incident",
+  "title": "goformz.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "goformz.com",
+    "domain": "goformz.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9c0d98eac854111e948c6783cba3dea6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z29mb3jtei5jb21aa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-26 00:44:22.671560",
+    "disclosedDate": "2024-11-26 00:44:23.483808"
+  }
+}

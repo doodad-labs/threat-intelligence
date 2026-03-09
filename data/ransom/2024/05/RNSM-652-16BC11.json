@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-652-16BC11",
+  "type": "ransomware-incident",
+  "title": "OKUANT - okuant.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OKUANT - okuant.com",
+    "domain": "okuant.com",
+    "country": "ES",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000,
+    "description": "Visits: 29 Data Size: 5 Gb Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/055e01869254cc22fc1c2b025de963f9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t0tvqu5uic0gb2t1yw50lmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-13 00:00:00.000000",
+    "disclosedDate": "2024-05-16 18:48:36.373076"
+  }
+}

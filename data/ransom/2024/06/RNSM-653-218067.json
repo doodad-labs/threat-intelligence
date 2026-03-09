@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-218067",
+  "type": "ransomware-incident",
+  "title": "oexpress.id ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "oexpress.id",
+    "domain": "oexpress.id",
+    "country": "ID",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "OExpress adalah platform logistik yang menawarkan berbagai layanan pengiriman ekspres, sebagai ekspedisi dengan sistem pintar yang membantu meningkatkan keberhasilan pengiriman.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5b2507c2d04c2b4acaeb4635df3469c6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b2v4chjlc3muawrazgfya3zhdwx0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-21 00:00:00.000000",
+    "disclosedDate": "2024-06-21 16:09:12.505465"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-24B97A",
+  "type": "ransomware-incident",
+  "title": "Integrity Mortgage ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Integrity Mortgage",
+    "country": "",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 8000000000,
+    "description": "Integrity Mortgage operates under the MAC 5 Mortgage umbrella andhas an A  rating with the Better Business Bureau.We are ready to upload more than 8 GB of essential corporate documents such as: detailed personal client data (scans of passports,SSNs, DLs, credit cards and so on), detailed company financial data (audits, payment details, reports, invoices), correspondence,etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw50zwdyaxr5ie1vcnrnywdlqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-24 00:00:00.000000",
+    "disclosedDate": "2025-06-24 14:49:53.102942"
+  }
+}

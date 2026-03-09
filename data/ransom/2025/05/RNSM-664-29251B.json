@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-29251B",
+  "type": "ransomware-incident",
+  "title": "teamhorner.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "teamhorner.com",
+    "domain": "teamhorner.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 11.06.2025.Team Horner is a family of companies operating in various fields in the pool and spa industry worldwide. Founded in 1969, Team Horner is an integrated manufacturer, wholesa            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f37cacc8b45e423fa7ec43d82cfdf4b3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvhbwhvcm5lci5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-02 00:00:00.000000",
+    "disclosedDate": "2025-05-29 14:20:13.513165"
+  }
+}

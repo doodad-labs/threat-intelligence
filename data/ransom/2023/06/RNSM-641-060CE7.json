@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-060CE7",
+  "type": "ransomware-incident",
+  "title": "mariohernandez.com.co ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mariohernandez.com.co",
+    "domain": "mariohernandez.com.co",
+    "country": "CO",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mario Hernández is a Colombian fashion house dedicated to the manufacture of luxury leather accessories based in Bogotá D.C. It is named after its founder, Mario Hernandez",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f14d0b3cd5ccc258b83a9de0636bd724.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfyaw9ozxjuyw5kzxouy29tlmnvqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-06 20:23:00.000000",
+    "disclosedDate": "2023-06-06 20:54:51.925396"
+  }
+}

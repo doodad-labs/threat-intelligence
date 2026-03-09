@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-1183D8",
+  "type": "ransomware-incident",
+  "title": "T. Hasegawa USA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "T. Hasegawa USA",
+    "domain": "thasegawa.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0af29c2ed59be2b6dbc9acc6b3f0da59.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vc4gsgfzzwdhd2egvvnbqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-11 12:27:46.074430",
+    "disclosedDate": "2025-01-11 12:27:49.412042"
+  }
+}

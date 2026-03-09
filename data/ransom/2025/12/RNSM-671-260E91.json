@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-260E91",
+  "type": "ransomware-incident",
+  "title": "technicare.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "technicare.com.br",
+    "domain": "technicare.com.br",
+    "country": "BR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Technicare Instrumental Cirúrgico is a pioneering company in Brazil, specializing in the production...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2e770a262c6c4b75b503380cdd626701.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvjag5py2fyzs5jb20uynjabg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 17:16:00.000000",
+    "disclosedDate": "2025-12-26 15:44:41.539930"
+  }
+}

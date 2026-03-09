@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-180ED4",
+  "type": "ransomware-incident",
+  "title": "Racing Forensics Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Racing Forensics Inc",
+    "domain": "racingforensics.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "!!! IF THE COMPANY DOES NOT CONTACT US SOON, THE DATA WILL BE PUBLISHED !!!!  Racing Forensics helps protect the integrity of horse racing with regulatory services, including: - CPMA Equine Drug Control Program sample collection at all racetracks across Canada - TCO2 sample collection and testing services for provincial regulatory bodies - EIPH program administration",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1fa96c3d897f26f932df42fd056d7499.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umfjaw5niezvcmvuc2ljcybjbmnay2ljywrhmzmwmq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-17 00:00:00.000000",
+    "disclosedDate": "2024-10-18 01:41:39.980031"
+  }
+}

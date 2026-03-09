@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-16A429",
+  "type": "ransomware-incident",
+  "title": "millgate.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "millgate.co.uk",
+    "domain": "millgate.co.uk",
+    "country": "GB",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/85471e52ff9892c6831c641d7437ff2d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwlsbgdhdguuy28udwtabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-16 18:45:00.000000",
+    "disclosedDate": "2024-01-16 20:40:42.979858"
+  }
+}

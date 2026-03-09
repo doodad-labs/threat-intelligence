@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-31C5A1",
+  "type": "ransomware-incident",
+  "title": "europtec.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "europtec.com",
+    "domain": "europtec.com",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Europtec USA, Inc. is a private company that specializes in developing, producing, and processing technical glass and plastic components. Their product portfolio includes glasses used in applications such as touch technology, shielding technology, transparent heaters, aviation, and detection technologies. They continue to develop advanced materials and innovative production methods.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f3bf679c7a210f654bdfa7710d6e4b4d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxvyb3b0zwmuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-27 19:00:05.000000",
+    "disclosedDate": "2025-03-31 21:40:34.981836"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-214554",
+  "type": "ransomware-incident",
+  "title": "Bluemega ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bluemega",
+    "domain": "bluemega.com",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.bluemega.com https://www.zoominfo.com/c/bluemega/352018652 Bluemega specializes in document management and printing infrastructure solutions, aiming to enhance organizational performance through smart printing and e-document services. They offer a range of products including KPAX, PaperCut MF, and various cloud solutions, catering to both public and private sectors. Their target clients include distributors and businesses of all sizes looking to optimize their printing processes and document management. With nearly 30 years of experience, Bluemega supports a network of over 70 distributors and more than 2000 clients worldwide.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmx1zw1lz2fadghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-20 23:29:34.000000",
+    "disclosedDate": "2026-01-21 00:30:13.745821"
+  }
+}

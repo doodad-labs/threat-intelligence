@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-642-09E117",
+  "type": "ransomware-incident",
+  "title": "The Travel Network Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Travel Network Group",
+    "domain": "thetravelnetworkgroup.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "donutleaks",
+    "name": "donutleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "The Travel Network Group is the largest in Europe network of commercial businesses that operate in the independent travel market. This network has been hacked and over 1500GB of sensitive data were stolen from company's file servers, including: financial data (budgets, payments, taxes, etc)membership's data (personal details, address, contacts,…",
+    "claimed_data_types": [
+      "financial-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ba45de91413bf94a4a03aec3ef34146.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifryyxzlbcbozxr3b3jriedyb3vwqgrvbnv0bgvha3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-23 00:00:00.00000",
+    "disclosedDate": "2023-07-09 08:22:54.761714"
+  }
+}

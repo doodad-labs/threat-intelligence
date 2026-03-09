@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-307DAD",
+  "type": "ransomware-incident",
+  "title": "Provalve Armaturen GmbH & Co. KG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Provalve Armaturen GmbH & Co. KG",
+    "domain": "provalve.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "(Financial documents, counterparties, clients) PROVALVE Armaturen GmbH & Co. KG specializes in high-quality valves and fittings designed for demanding applications, primarily in the power generation and chemical industries. The company focuses on manufacturing high-pressure and special valves capable of safely transporting hazardous materials under extreme conditions. They ensure a consistently high quality throughout all stages of development and production. Their product range includes a variety of valve types such as gate valves, check valves, and low-temperature fittings, adhering to DIN and ASME standards.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/346f30f51a0815e2afd00233b5c03eed.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjvdmfsdmugqxjtyxr1cmvuiedtykggjibdby4gs0dazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-30 16:06:26.892543",
+    "disclosedDate": "2025-08-30 16:08:32.167765"
+  }
+}

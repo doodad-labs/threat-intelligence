@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-651-23E471",
+  "type": "ransomware-incident",
+  "title": "Octapharma Plasma ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Octapharma Plasma",
+    "domain": "octapharmaplasma.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "What kind of data was taken from Octapharma Plasma network:",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e1bd3a8205e418fbcc2eb09ee5d642a3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2n0yxboyxjtysbqbgfzbwfaymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.theregister.com/2024/04/18/ransomware_octapharma_plasma/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-23 20:28:14.954282",
+    "disclosedDate": "2024-04-23 20:28:14.954311"
+  }
+}

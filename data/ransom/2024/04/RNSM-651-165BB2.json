@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-651-165BB2",
+  "type": "ransomware-incident",
+  "title": "Lotz Trucking ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lotz Trucking",
+    "domain": "lotztrucking.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15000000000,
+    "description": "Lotz Trucking specializes in the bulk business and offer a wide range of services with flatbeds, vans, hopper bottom and dump trailers. We are going to make available their files of ~15GB size. Lotz of confidential agreements, NDAs, employees personal information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tg90eibucnvja2luz0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-16 15:43:03.461414",
+    "disclosedDate": "2024-04-16 15:43:03.675657"
+  }
+}

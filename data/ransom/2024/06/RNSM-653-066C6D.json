@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-066C6D",
+  "type": "ransomware-incident",
+  "title": "RAVEN Mechanical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RAVEN Mechanical",
+    "domain": "ravenmechanical.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9f1157c11660c7528efb39b3dd007d59.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukfwru4gtwvjagfuawnhbebodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-06 18:38:00.000000",
+    "disclosedDate": "2024-06-06 20:57:05.920171"
+  }
+}

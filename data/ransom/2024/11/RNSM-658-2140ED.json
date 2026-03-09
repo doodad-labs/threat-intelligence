@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-2140ED",
+  "type": "ransomware-incident",
+  "title": "Brueck Golosow Kim & Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Brueck Golosow Kim & Associates",
+    "domain": "beauty-by-brueck.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Brueck, Golosow, Kim And Associates is a medical establishment that diagnoses and provides treatment advice for various health conditions. It is located in Fort Myers, FL. It is a part of the group Brueck, Golosow, Kim And Associates.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b7ad629388bf99c24edc929124a3fe97.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnj1zwnriedvbg9zb3cgs2lticygqxnzb2npyxrlc0bpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-21 20:42:09.668982",
+    "disclosedDate": "2024-11-21 20:42:13.348503"
+  }
+}

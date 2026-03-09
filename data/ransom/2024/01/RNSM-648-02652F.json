@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-648-02652F",
+  "type": "ransomware-incident",
+  "title": "nals.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nals.com",
+    "domain": "nals.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 145000000000,
+    "description": "NALS Apartment Homes is a fully-integrated real estate investment firm engaged in the acquisition, ownership, management, and rehabilitation of multifamily apartment communities. Headquartered in Santa Barbara CA, NALS owns and manages over 15,000 apartment homes geographically dispersed across 15 different markets. Our success remains grounded in disciplined investing principles and a company culture of collaboration and excellence. Our friendly, professional team members across the nation work hard to provide every resident with a quality place to call home. By providing more amenities, more service, and more value, we strive to make apartment living both enjoyable and easy. NALS was founded by Henry Nevins in Los Angeles in 1984. Since then, we have brought in partners and management leaders that share our investment and management principles to provide continuity and sustainable growth. In 2017, our company celebrated its 100th property acquisition with our dedicated 480 employees.SITE: www.nals.com Address : 920 Garden St Ste A, Santa Barbara, California, 93101, United StatesALL DATA SIZE: 145gb 1. Reports 2. Payroll 3. Personal 4. Accting 5. Personal users folders, documents amd etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bc525314c896aa3a2360a5eca68b2d01.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmfscy5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-05 00:00:00.000000",
+    "disclosedDate": "2024-01-02 13:17:45.491620"
+  }
+}

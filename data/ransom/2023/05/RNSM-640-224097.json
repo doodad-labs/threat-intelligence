@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-224097",
+  "type": "ransomware-incident",
+  "title": "rmc-canada.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rmc-canada.com",
+    "domain": "rmc-canada.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "RMC Resources Management Consultants (Alberta) Ltd",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c144e31335419043b639c0a39feea708.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm1jlwnhbmfkys5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-22 14:47:00.000000",
+    "disclosedDate": "2023-05-22 15:52:02.656399"
+  }
+}

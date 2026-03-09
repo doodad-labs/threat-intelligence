@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-150FE8",
+  "type": "ransomware-incident",
+  "title": "nevadareadymix.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nevadareadymix.com",
+    "domain": "nevadareadymix.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Nevada Ready Mix was founded in 1960. The company offers concrete for residential foundations, public works, golf courses, and heavy highway projects. It is headquartered in Nevada, United States.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f9b7bf65b8d7f86005dfe97018e314bd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmv2ywrhcmvhzhltaxguy29tqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-17 00:00:00.000000",
+    "disclosedDate": "2025-04-15 17:37:14.374962"
+  }
+}

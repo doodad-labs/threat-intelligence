@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-641-15930E",
+  "type": "ransomware-incident",
+  "title": "San Luis Obispo County Office of Education ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "San Luis Obispo County Office of Education",
+    "domain": "slocoe.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The San Luis Obispo County Office of Education promotes student success by supporting local school districts, providing specialized student services, and providing districtwide leadership and advocacy for all children.https://www.slocoe.org/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d59c832503ff120c324e7922b692ab02.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fuiex1axmgt2jpc3bvienvdw50esbpzmzpy2ugb2ygrwr1y2f0aw9uqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.sanluisobispo.com/news/local/education/article276625976.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-15 00:00:00.000000",
+    "disclosedDate": "2023-06-15 13:54:14.269876"
+  }
+}

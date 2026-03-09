@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-30072F",
+  "type": "ransomware-incident",
+  "title": "porter.in ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "porter.in",
+    "domain": "porter.in",
+    "country": "IN",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Porter is a tech-enabled logistics company that provides a comprehensive range of delivery services, including intracity and intercity solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aea4c5a2d8d340f7c1c9d28ee8eceb13.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cg9ydgvylmluqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-30 00:04:24.466667",
+    "disclosedDate": "2024-09-30 00:04:25.093780"
+  }
+}

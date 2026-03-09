@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-094892",
+  "type": "ransomware-incident",
+  "title": "NEAS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NEAS",
+    "domain": "neas.ca",
+    "country": "DK"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Canada",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a0c6597f610e02b10edb9e7500acffbf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tkvbu0bwbgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-06 00:00:00.000000",
+    "disclosedDate": "2025-08-09 18:39:15.106522"
+  }
+}

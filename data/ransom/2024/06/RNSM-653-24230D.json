@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-24230D",
+  "type": "ransomware-incident",
+  "title": "hydmech.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hydmech.com",
+    "domain": "hydmech.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/HYDMECH/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/HYDMECH/PROOF/DATA DESCRIPTIONS: Engineering data - drawings, r&d, QA, Personal Identification information (passports, DLs, etc.), customer agreements, HR confidential data, executives and employees personal folders, financial statements\\payroll, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d53a6f9fd7484dbb3d79e3fb3b6d60a3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahlkbwvjac5jb21ay2fjdhvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-24 18:17:20.942000",
+    "disclosedDate": "2024-06-24 22:15:06.691947"
+  }
+}

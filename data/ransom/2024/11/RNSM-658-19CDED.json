@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-19CDED",
+  "type": "ransomware-incident",
+  "title": "brylesresearch.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "brylesresearch.com",
+    "domain": "brylesresearch.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Bryles Research is a company specializing in market research and data collection services. They focus on providing insights through various methodologies such as surveys, focus groups, and interviews. Their services support businesses in understanding consumer behavior and market trends, aiding in strategic decision-making. The company emphasizes accuracy, reliability, and tailored research solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/543e6a47d3ee01073b02f4f3bc6b4300.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynj5bgvzcmvzzwfyy2guy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 09:27:51.000000",
+    "disclosedDate": "2024-11-19 12:33:41.385699"
+  }
+}

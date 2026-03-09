@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-203EA3",
+  "type": "ransomware-incident",
+  "title": "Wright ArchitecturalMillwork ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wright ArchitecturalMillwork",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 87000000000,
+    "description": "Wright Architectural Millwork specializes in high-quality architectural woodwork and has been in the industry for 50 years. We will upload 87gb of corporate documents soon. Employee personal information (passport numbers, driver licenses, phones, emails), financials, a bit of client data, contracts and agreements, NDA, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v3jpz2h0iefyy2hpdgvjdhvyywxnawxsd29ya0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-20 00:00:00.000000",
+    "disclosedDate": "2025-11-20 16:41:01.533265"
+  }
+}

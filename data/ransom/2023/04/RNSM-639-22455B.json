@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-639-22455B",
+  "type": "ransomware-incident",
+  "title": "Easy Automation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Easy Automation",
+    "domain": "easy-automation.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbyte",
+    "name": "blackbyte",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Easy Automation Inc. (EAI) based in Welcome, Minnesota, specializes in serving the feed automation needs of commercial and farm customers. EAI designs, manufactures, and markets computerized mill automation systems, feed manufacturing equipment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwfzesbbdxrvbwf0aw9uqgjsywnrynl0zq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-22 21:49:02.560223",
+    "disclosedDate": "2023-04-22 21:49:02.560246"
+  }
+}

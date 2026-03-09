@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-30C9AB",
+  "type": "ransomware-incident",
+  "title": "creativeunited.org.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "creativeunited.org.uk",
+    "domain": "creativeunited.org.uk",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Creative United is a UK-based community interest company committed to supporting the growth and development of the creative and cultural sectors. Through a range of tailored financial and business services like affordable loans, growth advice, and business skills workshops, they aim to help businesses grow and to foster cultural production, bringing creativity to the heart of local communities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3dbac620f855949eb15d4b15e3e0db08.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3jlyxrpdmv1bml0zwqub3jnlnvrqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-30 03:02:12.674106",
+    "disclosedDate": "2025-03-30 03:03:36.224403"
+  }
+}

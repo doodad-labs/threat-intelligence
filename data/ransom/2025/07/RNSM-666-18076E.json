@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-666-18076E",
+  "type": "ransomware-incident",
+  "title": "LeasePLUS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LeasePLUS",
+    "country": "AU",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 6000000000,
+    "description": "LeasePLUS is one of Australia’s leading providers of novated leasing solutions, focused on helping individuals save thousands through salary packaging for vehicles.We are ready to upload 6 GB of corporate documents. Personal files of more than 2300 people (customers and employees), NDAs, contracts and agreements, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvhc2vqtfvtqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-18 00:00:00.000000",
+    "disclosedDate": "2025-07-18 13:51:05.282730"
+  }
+}

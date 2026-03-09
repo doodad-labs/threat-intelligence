@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-107593",
+  "type": "ransomware-incident",
+  "title": "abcapital.com.ph ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "abcapital.com.ph",
+    "domain": "abcapital.com.ph",
+    "country": "PH",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "sourcecode and database zip itd_1002",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/90bf76fe80cb28aed09a6fe27ff9ded1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywjjyxbpdgfslmnvbs5waebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 00:00:00.000000",
+    "disclosedDate": "2025-02-10 16:47:11.255676"
+  }
+}

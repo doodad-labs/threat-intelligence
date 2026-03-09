@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-251DA8",
+  "type": "ransomware-incident",
+  "title": "pneusbelislecarrieres.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pneusbelislecarrieres.com",
+    "domain": "pneusbelislecarrieres.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1973, Pneus Bélisle is a leader in the industry as a retailer, distributor and manufacturer of tires. The company has more than 300 employees throughout Quebec. Pneus Bélisle has a dozen branches, four distribution centers and an ultramode...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cfaea3af71ae426799a82ca483191cc6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cg5ldxnizwxpc2xly2fycmllcmvzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-25 11:37:00.000000",
+    "disclosedDate": "2023-05-25 12:50:12.601382"
+  }
+}

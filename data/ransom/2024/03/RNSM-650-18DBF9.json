@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-18DBF9",
+  "type": "ransomware-incident",
+  "title": "grupatopex.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "grupatopex.com",
+    "domain": "grupatopex.com",
+    "country": "PL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/ALFA/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/ALFA/PROOF/DATA DESCRIPTIONS: Database exports, executive managers personal data, corporate data, financial documents, personal identification information, client information and much more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ca0aa2a65a99b32f84a093b20428f533.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3j1cgf0b3blec5jb21ay2fjdhvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-23 00:00:00.000000",
+    "disclosedDate": "2024-03-18 14:56:10.931496"
+  }
+}

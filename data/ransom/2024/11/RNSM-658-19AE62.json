@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-19AE62",
+  "type": "ransomware-incident",
+  "title": "onnicar.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "onnicar.it",
+    "domain": "onnicar.it",
+    "country": "IT",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 127000000000,
+    "description": "ZIP-127GB - Revenue $23.2 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b25uawnhci5pdebzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 22:42:31.130084",
+    "disclosedDate": "2024-11-19 22:42:31.898687"
+  }
+}

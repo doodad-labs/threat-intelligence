@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-641-28BD46",
+  "type": "ransomware-incident",
+  "title": "Wilcom ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wilcom",
+    "domain": "wilcom.com",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wilcom is an Australian computer software company. The Wilcom team is a group of passionate people deeply committed to their work.Their wide international team will soon be able to download their own documents in one place - on our blog. Lots of DLs, contracts, passports, non-disclosures and stuff.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lsy29tqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-28 01:02:03.456789",
+    "disclosedDate": "2023-06-28 12:49:59.467409"
+  }
+}

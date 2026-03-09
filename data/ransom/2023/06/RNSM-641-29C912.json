@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-641-29C912",
+  "type": "ransomware-incident",
+  "title": "CARESOURCE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CARESOURCE.COM",
+    "domain": "caresource.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CareSource - Health Care with Heart",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0fsrvnpvvjdrs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-29 11:40:59.314698",
+    "disclosedDate": "2023-06-29 11:40:59.314721"
+  }
+}

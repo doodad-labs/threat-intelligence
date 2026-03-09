@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-12B05D",
+  "type": "ransomware-incident",
+  "title": "HOST Software Entwicklung und Consulting GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HOST Software Entwicklung und Consulting GmbH",
+    "domain": "ulysses-erp.com",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ulysses ERP & MES Software is a comprehensive business software for manufacturing SMEs. It offers a variety of modules and add-ons that are tailored to the specific needs of various industries, including plant and steel construction, sheet             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b1561a5dcb7a61887d5302e2c131c6a6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/se9tvcbtb2z0d2fyzsbfbnr3awnrbhvuzyb1bmqgq29uc3vsdgluzybhbwjiqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-24 00:00:00.000000",
+    "disclosedDate": "2025-03-12 07:37:41.510627"
+  }
+}

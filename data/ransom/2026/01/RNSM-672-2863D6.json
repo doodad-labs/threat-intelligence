@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-2863D6",
+  "type": "ransomware-incident",
+  "title": "tiw-group.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tiw-group.com",
+    "domain": "tiw-group.com",
+    "country": "SJ",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] TIW Group is a specialist software firm with over 30 years of experience in developing solutions for the insurance industry. Their flagship product, ALIS, provides end-to-end solutions for life insurance and annuity processing. Additionally, they provide business process automation, legacy modernization, and risk compliance management services. Their digital solutions help businesses to streamline operations and improve business efficiency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc654c1e2d252ab393a435186dfc3205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgl3lwdyb3vwlmnvbubkzxztyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-28 11:04:17.907434",
+    "disclosedDate": "2026-01-28 11:05:41.368012"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-643-17AB9B",
+  "type": "ransomware-incident",
+  "title": "Agriloja.pt demo-leak ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Agriloja.pt demo-leak",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "100 random personal records (from 1400+). Company must contact us in next 24 hrs. Otherwise more personal data will be published in the blog and darknet forums. Download: https://dropmefiles.com/L8kHr https://dropmefiles.com.ua/ua/vKTzPassword: 123",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ad61aa3e10440a504d0e392ca143a97e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwdyawxvameuchqgzgvtby1szwfrqgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-17 16:02:27.247660",
+    "disclosedDate": "2023-08-17 16:02:27.247692"
+  }
+}

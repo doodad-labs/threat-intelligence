@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-2714A9",
+  "type": "ransomware-incident",
+  "title": "GHENT.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GHENT.COM",
+    "domain": "ghent.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] GHENT.COM is a leading provider of award-winning, high quality products for offices and schools. It specializes in visual communication products such as whiteboards, bulletin boards, and glassboards. The company's product range also includes signage, enclosed boards, easels and more. It's known for its emphasis on durability, design, and functionality, helping individuals and organizations to communicate and collaborate effectively.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r0hftlquq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 18:04:27.911184",
+    "disclosedDate": "2025-02-27 18:04:34.444528"
+  }
+}

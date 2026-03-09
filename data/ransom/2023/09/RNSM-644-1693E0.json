@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-1693E0",
+  "type": "ransomware-incident",
+  "title": "commercialfluidpower.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "commercialfluidpower.com",
+    "domain": "commercialfluidpower.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Commercial Fluid Power is a one stop shop for your fluid power needs. We carry a complete line of materials and offer extensive honing and machining capabilities. And with plants in Dover & North Canton, Ohio as well as Rome, Georgia, we are convenie...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d0f25bfefdcba04427bcd899139c839c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29tbwvyy2lhbgzsdwlkcg93zxiuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-16 12:25:00.000000",
+    "disclosedDate": "2023-09-16 13:04:22.793436"
+  }
+}

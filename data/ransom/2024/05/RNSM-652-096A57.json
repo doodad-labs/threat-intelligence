@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-652-096A57",
+  "type": "ransomware-incident",
+  "title": "calvia.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "calvia.com",
+    "domain": "calvia.com",
+    "country": "ES",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "L'Ajuntament de Calvià és l'administració local del municipi de Calvià, a Mallorca. Consulta els serveis, les notícies i el registre electrònic.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3908ff84b45fd2fbf88798ebd59f2b78.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fsdmlhlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.majorcadailybulletin.com/news/local/2024/01/14/120375/mallorca-crime-calvia-town-hall-suffers-cyberattack.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-09 13:44:00.000000",
+    "disclosedDate": "2024-05-09 16:42:04.688944"
+  }
+}

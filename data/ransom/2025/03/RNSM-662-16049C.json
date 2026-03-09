@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-662-16049C",
+  "type": "ransomware-incident",
+  "title": "Ascom Holding AG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ascom Holding AG",
+    "domain": "ascom.com",
+    "country": "CH",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hellcat",
+    "name": "hellcat",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 44000000000,
+    "description": "44GB of sensitive data including internal reports, sales documents, confidential contracts, development tools, and source code stolen from Ascom.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxnjb20gsg9szgluzybbr0bozwxsy2f0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://de.tradingview.com/news/reuters.com,2025-03-17:newsml_gnebcdb75:0/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-15 23:04:20.000000",
+    "disclosedDate": "2025-03-16 00:02:31.044590"
+  }
+}

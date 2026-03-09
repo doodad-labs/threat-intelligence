@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-648-110BC7",
+  "type": "ransomware-incident",
+  "title": "Limburg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Limburg",
+    "domain": "limburg.net",
+    "country": "BE",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Limburg.net - It is an inter-municipal waste company of Limburg and Liszt. Provides waste collection in 44 municipalities of the province of Limburg and the city of Dist. The main office of the company is located at  32 Gouverneur Verwilghensingel, Hasselt, Flanders, 3500, Belgium",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/848352210814f7e5451cc6215915a6cf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgltynvyz0btzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.vrt.be/vrtnws/nl/2023/12/13/limburg-net-digitaal-onbereikbaar-door-cyberaanval/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-11 11:45:40.12345",
+    "disclosedDate": "2024-01-11 13:28:23.033753"
+  }
+}

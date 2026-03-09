@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-152368",
+  "type": "ransomware-incident",
+  "title": "AdScale ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AdScale",
+    "domain": "adscale.com",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AdScale is an AI-driven advertising platform tailored for e‑commerce and digital marketers, offering unified campaign management across Google Se...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7e0583e9a09b797099ccad848d145e5c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwrty2fszubjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-15 20:48:37.520259",
+    "disclosedDate": "2025-09-15 20:48:50.459269"
+  }
+}

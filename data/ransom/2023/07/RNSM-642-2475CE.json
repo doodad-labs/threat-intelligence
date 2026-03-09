@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-2475CE",
+  "type": "ransomware-incident",
+  "title": "ebpsupply.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ebpsupply.com",
+    "domain": "ebpsupply.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Imperial Dade is the leading independently owned and operated distributor of food packaging supplies, commercial cleaning supplies",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4bd2dee20a93ccc09a690ef6bbb6932e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwjwc3vwcgx5lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-24 07:59:00.000000",
+    "disclosedDate": "2023-07-24 08:57:01.061453"
+  }
+}

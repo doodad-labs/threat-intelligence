@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-11D214",
+  "type": "ransomware-incident",
+  "title": "Pelindo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pelindo",
+    "domain": "pelindo.co.id",
+    "country": "ID",
+    "sector": ""
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PT Pelabuhan Indonesia (Persero), trading as Pelindo, is Indonesian state-owned port operation company that offers an integrated port service throughout Indonesia.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/585eaea9e1f7cddca6e79be7bcc2b3ad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvsaw5kb0biawfubglhbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-11 19:01:21.814206",
+    "disclosedDate": "2023-10-11 19:01:21.814229"
+  }
+}

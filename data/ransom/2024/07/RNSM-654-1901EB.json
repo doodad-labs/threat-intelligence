@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-1901EB",
+  "type": "ransomware-incident",
+  "title": "townandforest.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "townandforest.co.uk",
+    "domain": "townandforest.co.uk",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ALL CLIENT CASES  We are a dedicated team of experts who are passionate about providing the best possible service to our clients. With a diverse range of skills and expertise, we are dedicated to delivering high quality results and ensuring client...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dff77b33d2a9e3ca5c24e91497335ef0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dg93bmfuzgzvcmvzdc5jby51a0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-23 00:00:00.000000",
+    "disclosedDate": "2024-07-19 09:31:23.308069"
+  }
+}

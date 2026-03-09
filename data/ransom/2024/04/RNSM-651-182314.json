@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-651-182314",
+  "type": "ransomware-incident",
+  "title": "Western Saw Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Western Saw Inc.",
+    "domain": "westernsaw.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Western Saw Inc. proudly designing and manufacturing Diamond Cores, Carbide Plate, Diamond Core Bit Tubes, and Custom Laser Cutting Services for over 80 years in the USA. We are a Diamond Core leader in quality and customer service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vzdgvybibtyxcgsw5jlkbiawfubglhbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-18 17:28:52.169291",
+    "disclosedDate": "2024-04-18 17:28:52.169314"
+  }
+}

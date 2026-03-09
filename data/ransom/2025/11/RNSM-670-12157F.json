@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-12157F",
+  "type": "ransomware-incident",
+  "title": "Fulgar S.p.A. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fulgar S.p.A.",
+    "domain": "fulgar.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fulgar S.p.A. is an international leader in the production of polyamide yarns and covered elastomers, known for its commitment to quality, innovation, and sustainability. The company offers a range of innovative textile solutions, including eco-friendly and biodegradable fibers, catering to the global textile and technical markets. Fulgar's products, such as Q-CYCLE and AMNI SOUL ECO, emphasize environmental responsibility while maintaining high performance standards.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d2dcc2bc536121e101c92029f0834fe2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnvsz2fyifmucc5blkbyyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-31 00:00:00.000000",
+    "disclosedDate": "2025-11-12 00:52:37.295065"
+  }
+}

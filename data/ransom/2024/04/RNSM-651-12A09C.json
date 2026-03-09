@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-651-12A09C",
+  "type": "ransomware-incident",
+  "title": "Oki Golf ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Oki Golf",
+    "domain": "okigolf.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Oki Golf Oki Golf is a collection of 11 Seattle area golf courses, including The Golf Club at Newcastle, providing championship golf course layouts and outstanding course conditions to players of all skill levels.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2tpiedvbgzacmh5c2lkyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-12 00:15:15.249679",
+    "disclosedDate": "2024-04-12 00:15:15.249702"
+  }
+}

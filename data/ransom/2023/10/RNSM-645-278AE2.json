@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-645-278AE2",
+  "type": "ransomware-incident",
+  "title": "Stanford University ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Stanford University",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 430000000000,
+    "description": "Stanford University is one of the world's leading research universities. Stanford is known for its entrepreneurial character, drawn from the legacy of its founders, Jane and Leland Stanford, and its relationship to Silicon Valley. Soon the university will be also known for 430Gb of internal data leaked online. Private information, confidential documents etc. Who is interested - contact us in messages section.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rhbmzvcmqgvw5pdmvyc2l0eubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-27 13:20:03.894221",
+    "disclosedDate": "2023-10-27 13:20:04.020587"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-130349",
+  "type": "ransomware-incident",
+  "title": "Homeland Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Homeland Inc.",
+    "domain": "homelandinc.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/79897f49864a3fcb34bb0add95d8626a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9tzwxhbmqgsw5jlkbodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-13 12:00:00.000000",
+    "disclosedDate": "2023-11-13 14:47:09.638558"
+  }
+}

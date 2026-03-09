@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-2739A7",
+  "type": "ransomware-incident",
+  "title": "ryc.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ryc.org",
+    "domain": "ryc.org",
+    "country": "US"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Raritan Yacht Club (RYC) is a private, member-owned recreational club located in Perth Amboy, New Jersey, with a history dating …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c43de7910e1300ab9a9a75c8e3e6b0f0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cnljlm9yz0bzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-27 20:43:26.472674",
+    "disclosedDate": "2025-12-27 20:43:37.825106"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-278CCA",
+  "type": "ransomware-incident",
+  "title": "HIGHBARTRADING.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HIGHBARTRADING.COM",
+    "domain": "highbartrading.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] HighBar Trading is a financial services platform facilitating holistic trading and investment experiences. It caters to both new and expert traders, offering access to multiple financial markets globally, including Forex and CFDs. The company furnishes its users with advanced technology, in-depth educational resources, prompt customer support, and secure trading environments to optimize profit potential.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/selhsejbulrsqurjtkcuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 18:11:18.349394",
+    "disclosedDate": "2025-02-27 18:11:23.933511"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-648-26CECD",
+  "type": "ransomware-incident",
+  "title": "Lush ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lush",
+    "domain": "lush.com",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 110000000000,
+    "description": "Founded in 1995 and headquartered in Poole, United Kingdom, Lush is a cosmetic store specializing in the retail of bath bombs, hair products, makeup and more. 110 Gb of their files are prepared for uploading. There are a lot of personal documents especially passports. Accounting, finance, tax, projects, clients information and much more could be found in the archives we are going to share.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/thvzaebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-25 01:23:04.649055",
+    "disclosedDate": "2024-01-26 01:23:04.706980"
+  }
+}

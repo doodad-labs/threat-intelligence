@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-095584",
+  "type": "ransomware-incident",
+  "title": "unitycouncil.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "unitycouncil.org",
+    "domain": "unitycouncil.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Unity Council is a non-profit Social Equity Development Corporation with over 50 years of history in the Fruitvale neighborhood of Oakland. Our mission is to promote social equity and improve quality of life by building vibrant communities where...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/de8ce033d6352f021b36f1ef3876aacf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dw5pdhljb3vuy2lslm9yz0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-09 08:12:00.000000",
+    "disclosedDate": "2023-08-09 08:58:21.059714"
+  }
+}

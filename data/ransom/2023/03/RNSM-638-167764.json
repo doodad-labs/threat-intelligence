@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-167764",
+  "type": "ransomware-incident",
+  "title": "FERGUSON.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FERGUSON.COM",
+    "domain": "ferguson.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Plumbing Supplies, HVAC Parts, Pipe, Valves & Fittings – Ferguson",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bf348d16795d22bd0ce66ed8da466a1b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rkvsr1vtt04uq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-16 23:30:11.861093",
+    "disclosedDate": "2023-03-16 23:30:11.861113"
+  }
+}

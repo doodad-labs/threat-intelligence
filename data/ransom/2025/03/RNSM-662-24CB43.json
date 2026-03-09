@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-24CB43",
+  "type": "ransomware-incident",
+  "title": "texascompressionservices.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "texascompressionservices.com",
+    "domain": "texascompressionservices.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Texas Compression Services is a US-based company specializing in natural gas compression. They offer a wide range of services including system design, compressor leasing, sales, parts, and maintenance. Catering to diverse markets, they provide quality products & services to companies in energy, gas gathering and processing, and industrial sectors. With decades of combined experience, they aim to deliver reliable, safe, environmentally sound solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/978fe401b3dcaf87d9014e619132dd3d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgv4yxnjb21wcmvzc2lvbnnlcnzpy2vzlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-24 20:49:14.000000",
+    "disclosedDate": "2025-03-24 21:39:19.385368"
+  }
+}

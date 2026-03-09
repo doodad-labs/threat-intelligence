@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-640-038DFE",
+  "type": "ransomware-incident",
+  "title": "ZBW News ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ZBW News",
+    "domain": "zbw.eu",
+    "country": "UA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ZBW's disciplinary repository EconStor provides a large collection of more than 187,000 articles and working papers in Open Access. We are more than sure you understand what this organization had in open access. Personal information of their employees and customers, contracts, NDAs and even Ukraine conflict predictions and reviews.You can find here soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/96ac7177cd8116e360e9f9b995e0b105.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wkjxie5ld3nacm95yww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.ndr.de/nachrichten/schleswig-holstein/nach-hackerangriff-zbw-bekommt-loesegeldforderung,hackerangriff188.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-03 01:02:03.456789",
+    "disclosedDate": "2023-05-03 12:52:10.586221"
+  }
+}

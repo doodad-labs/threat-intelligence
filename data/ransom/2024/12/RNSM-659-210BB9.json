@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-659-210BB9",
+  "type": "ransomware-incident",
+  "title": "www.marietta-city.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.marietta-city.org",
+    "domain": "marietta-city.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Marietta City Schools is a public school district located in Marietta, Georgia. It serves the educational needs of the community with a range of programs from pre-kindergarten through 12th grade. The district emphasizes academic excellence, innovative teaching, and community involvement. It operates several elementary, middle, and high schools, focusing on student success and engagement.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4eb3673770bf28889b5220bad97dc637.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1hcmlldhrhlwnpdhkub3jnqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.wsbtv.com/news/local/cobb-county/unauthorized-access-marietta-city-schools-confirms-hackers-tried-breaking-into-computer-system/vzokj3h4uraalfxwex6q6zpsmq/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-03 13:23:36.000000",
+    "disclosedDate": "2024-12-21 09:48:29.325542"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-227C47",
+  "type": "ransomware-incident",
+  "title": "Carmichael Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Carmichael Engineering",
+    "domain": "carmichael-eng.ca",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "Carmichael Engineering provides commercial air-conditioning and heating, industrial refrigeration, building automation, and scientific equipment services.We are going to upload about 10gb of corporate files. You will find passports and DLs of a few dozens of employees, financial and accounting information (payment details, employee financial information, budgets, reports and so on), confidential files, agreements and contracts, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fybwljagflbcbfbmdpbmvlcmluz0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-29 00:00:00.000000",
+    "disclosedDate": "2025-08-22 15:11:09.268826"
+  }
+}

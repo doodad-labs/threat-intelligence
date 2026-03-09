@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-230116",
+  "type": "ransomware-incident",
+  "title": "Nutec Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nutec Group",
+    "domain": "nutec.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "NUTEC is a producer of high-temperature insulation fibers. It provides blankets, fiber, papers, modules, boards, vacuum-formed shapes, and wet products. The company caters to petrochemical, ceramic, power generation sectors, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tnv0zwmgr3jvdxbaymlhbmxpyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-23 16:23:54.820822",
+    "disclosedDate": "2024-05-23 16:23:54.820856"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-151444",
+  "type": "ransomware-incident",
+  "title": "SES Société Energies Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SES Société Energies Services",
+    "domain": "ses-energies-services.fr",
+    "country": "FR",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c664d8510369dc37a930c0c240dc723d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0vtifnvy2ndqxtdqsbfbmvyz2llcybtzxj2awnlc0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-15 00:00:00.000000",
+    "disclosedDate": "2025-11-15 18:28:08.125803"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-05E2A3",
+  "type": "ransomware-incident",
+  "title": "microman.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "microman.com",
+    "domain": "microman.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 17.06.2025.Founded in 1987, Microman is a full-service technology integrator with over 2,000 installed networks in 25 years of operation. Their focus is the cost-effective application            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34cc17ba0187356be65723d2af3f83e1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwljcm9tyw4uy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-05 00:00:00.000000",
+    "disclosedDate": "2025-06-05 21:48:34.438210"
+  }
+}

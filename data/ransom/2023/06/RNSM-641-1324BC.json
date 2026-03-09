@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-1324BC",
+  "type": "ransomware-incident",
+  "title": "gslelectric.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gslelectric.com",
+    "domain": "gslelectric.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GSL performs on a diverse range of project types for both public and private clients—including commercial, industrial, institutional, manufacturing, site utility, and power line-substation projects. GSL Electric’s expertise in pre-construction, value...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/480d8afe7c2b9158c31132d2ab5b8aca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3nszwxly3ryawmuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-13 11:34:00.000000",
+    "disclosedDate": "2023-06-13 12:51:48.172378"
+  }
+}

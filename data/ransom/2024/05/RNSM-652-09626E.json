@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09626E",
+  "type": "ransomware-incident",
+  "title": "cttxpress.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cttxpress.com",
+    "domain": "cttxpress.com",
+    "country": "ES",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "As a thought leader in the logistics industry, CTT Express structurally invests in trend research and solution development.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7c0807038f2da9ebee6883d247ae5b92.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3r0ehbyzxnzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-29 00:00:00.000000",
+    "disclosedDate": "2024-05-09 13:36:22.091970"
+  }
+}

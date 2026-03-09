@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-135A82",
+  "type": "ransomware-incident",
+  "title": "Chemsain Konsultant Sdn Bhd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Chemsain Konsultant Sdn Bhd",
+    "domain": "chemsain.com",
+    "country": "MY",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Architecture, Engineering & Design",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8073ddcad39f64c248c2ffcba239493c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hlbxnhaw4gs29uc3vsdgfudcbtzg4gqmhkqgrpcmv3b2xm",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-13 16:02:52.472381",
+    "disclosedDate": "2026-01-13 16:43:39.049047"
+  }
+}

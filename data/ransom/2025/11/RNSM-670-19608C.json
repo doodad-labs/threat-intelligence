@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-19608C",
+  "type": "ransomware-incident",
+  "title": "Marine Foods Express LTD ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Marine Foods Express LTD",
+    "domain": "marinefoodsexpress.com",
+    "country": "JP",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b3b9fc93b6943ba074ce76dcd7a36bff.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfyaw5liezvb2rziev4chjlc3mgtfreqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-19 11:22:49.223961",
+    "disclosedDate": "2025-11-19 11:23:08.529355"
+  }
+}

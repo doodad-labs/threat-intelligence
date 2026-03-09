@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-655-249D1C",
+  "type": "ransomware-incident",
+  "title": "Bay Sales (cog.local) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bay Sales (cog.local)",
+    "domain": "baysales.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome to the Bay Sales team! For over three decades, we've been dedicated to d...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d465ea5c6b663a1064886864fd702230.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmf5ifnhbgvzichjb2cubg9jywwpqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-18 00:00:00.000000",
+    "disclosedDate": "2024-08-24 15:56:53.651334"
+  }
+}

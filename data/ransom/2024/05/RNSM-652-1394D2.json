@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-1394D2",
+  "type": "ransomware-incident",
+  "title": "Sigmund Espeland AS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sigmund Espeland AS",
+    "domain": "espeland.no",
+    "country": "NO",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sigmund Espeland AS is a Norwegian manufacturer of bunad silver. The largest range of jewelry in Norway. Gold, silver and diamonds.www.espeland.no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/70ef3b23762d9d35932bde886c6e3c4b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2lnbxvuzcbfc3blbgfuzcbbu0a4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-13 00:00:00.000000",
+    "disclosedDate": "2024-05-13 12:25:46.473734"
+  }
+}

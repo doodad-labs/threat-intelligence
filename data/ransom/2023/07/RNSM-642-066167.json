@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-642-066167",
+  "type": "ransomware-incident",
+  "title": "Pinnergy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pinnergy",
+    "country": "MX",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 55000000000,
+    "description": "Pinnergy is a diversified energy services company with a broad and comprehensive service offering for customers throughout Texas, Louisiana and New Mexico. We're almost ready to share the 55 GB of data we've taken from their network with them. Contracts, projects, employee personal information, and confidential documents will be posted shortly.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uglubmvyz3laywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-06 01:02:03.456789",
+    "disclosedDate": "2023-07-06 13:53:30.413529"
+  }
+}

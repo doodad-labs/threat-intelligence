@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-666-21BD43",
+  "type": "ransomware-incident",
+  "title": "NPK ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NPK",
+    "domain": "npkce.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] NPK is an international company that manufactures construction equipment, hydraulic attachments, industrial compactors, and other industrial products. Founded in 1923, the company has worldwide recognition and its global presence extends to more than 155 countries. Its primary products include hammer, breaker, and compactor attachments for excavators, mini excavators, backhoe loaders, and skid steers. NPK is recognized for quality, durability, and innovation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/db923c7b2ec664903f4c61c8581d2f3c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tlblqhdvcmxkbgvha3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9f8a918a-039e-48c3-af4b-4d342ecfc51b.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-13 00:00:00.000000",
+    "disclosedDate": "2025-07-21 13:58:01.444833"
+  }
+}

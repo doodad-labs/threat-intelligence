@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-06B5D5",
+  "type": "ransomware-incident",
+  "title": "La Fabrica ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "La Fabrica",
+    "domain": "lafabrica.com.ar",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c48b3c4e21fa42675da96a320a6adc03.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgegrmficmljyubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-06 00:07:05.913308",
+    "disclosedDate": "2026-02-06 00:07:22.662052"
+  }
+}

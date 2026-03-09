@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-013A8C",
+  "type": "ransomware-incident",
+  "title": "cciamp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cciamp.com",
+    "domain": "cciamp.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Comment protéger votre entreprise des cyberattaques et des hackeurs ? Quels sont les bons réflexes et les bonnes pratiques à avoir pour préserver votre activité ? Éléments de réponses.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8ff7d263fb4dd7fbfeb5a9a7fc40f120.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2npyw1wlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-01 21:22:00.000000",
+    "disclosedDate": "2023-09-01 22:02:10.847738"
+  }
+}

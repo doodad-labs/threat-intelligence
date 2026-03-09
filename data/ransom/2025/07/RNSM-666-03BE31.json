@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-666-03BE31",
+  "type": "ransomware-incident",
+  "title": "Sanderling ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sanderling",
+    "country": "US"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Price: $200,000Sanderling Renal Services is a leading healthcare company that specializes in providing high-quality dialysis and nephrology services to rural communities and home dialysis patients across the USA. The company leverages advanced telemedicine technology and over 25 years of experience to bring specialized kidney care to underserved areas through its national network of licensed physicians.Dataset contains: tens/hundreds of thousands of personal records | Unsold data will be published. Purchased lots will be permanently removed from the final archive.Exclusive data — what we sell cannot be found elsewhere.Archive contains:- Full Oracle base backup (Contains informations of 25 years of work of this company, patients full info, full PHI, phones, emails, addresess, ssn's and etc)- Exchange backup (Backup of pst files)- Company Files (Passports, Driver Licences and etc)Geo: USA - Leak size: GB - Contains: N/A",
+    "claimed_data_types": [
+      "email-addresses",
+      "government-identifiers",
+      "passport-numbers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fuzgvybgluz0bzyxjjb21h",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-03 12:22:00.853037",
+    "disclosedDate": "2025-07-03 12:22:04.598263"
+  }
+}

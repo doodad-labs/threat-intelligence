@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-075E6B",
+  "type": "ransomware-incident",
+  "title": "ACEA SpA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ACEA SpA",
+    "domain": "acea.it",
+    "country": "IT",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ACEA SpA is an Italian utility company that distributes and produces electricity, gas, water, and energy. It operates in various sectors such as electricity, water, and environment. It manages the water service in Rome and Frosinone, and parts of other Italian provinces. Furthermore, it is involved in energy production from renewable sources and waste disposal management. Founded in 1909, the Rome-based company is one of the major players in Italy's utilities sector.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/efa8c07a79aa34513f74af053ee0a7ae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qunfqsbtcefad29ybgrszwfrcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-30 17:43:48.000000",
+    "disclosedDate": "2025-08-07 15:20:10.085281"
+  }
+}

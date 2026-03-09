@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-20CE95",
+  "type": "ransomware-incident",
+  "title": "Waggonereng.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Waggonereng.com",
+    "domain": "waggonereng.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Waggoner Engineering, founded in 1976, is a professional services firm with a focus on engineering, geospatial and consulting services. Their team of multidisciplinary professionals serve clients within sectors like government agencies, industrial organizations, and private sector clients. The key industries they work in include energy, environment, infrastructure, and technology. Their headquarters are in Jackson, Mississippi.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fnz29uzxjlbmcuy29tqgnsb2fr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-20 16:23:42.004705",
+    "disclosedDate": "2025-02-20 16:23:50.732010"
+  }
+}

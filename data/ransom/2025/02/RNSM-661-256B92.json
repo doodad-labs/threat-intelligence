@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-256B92",
+  "type": "ransomware-incident",
+  "title": "London Belgravia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "London Belgravia",
+    "domain": "lbl.london",
+    "country": "GB",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "termite",
+    "name": "termite",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "London Belgravia Brokers provide risk insurance and finance advisory solutions to global property developers, investors and high net worth individuals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/524fb5dd8cd313bff96e57cb6b46470b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tg9uzg9uiejlbgdyyxzpyub0zxjtaxrl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 00:19:52.000000",
+    "disclosedDate": "2025-02-25 22:54:45.595475"
+  }
+}

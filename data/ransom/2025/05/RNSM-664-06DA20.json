@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-06DA20",
+  "type": "ransomware-incident",
+  "title": "McCague Borlack ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "McCague Borlack",
+    "domain": "mccagueborlack.com",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1994, McCague Borlack full service legal advice. Its practice areas include: accident benef…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twndywd1zsbcb3jsywnrqfnpbgvudfjhbnnvbudyb3vw",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-20 00:28:37.477679",
+    "disclosedDate": "2025-05-06 18:16:16.457275"
+  }
+}

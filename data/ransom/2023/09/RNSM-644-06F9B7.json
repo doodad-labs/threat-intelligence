@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-06F9B7",
+  "type": "ransomware-incident",
+  "title": "meroso.be ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "meroso.be",
+    "domain": "meroso.be",
+    "country": "BE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Meroso Foods has a deep-rooted history as Belgium-based food manufacturer. Different milestones throughout more than 60 years have made the company and its product portfolio what it is today.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/657364c180b14c4bbc13b75889ca4c66.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwvyb3nvlmjlqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-06 22:56:00.000000",
+    "disclosedDate": "2023-09-06 23:31:53.668945"
+  }
+}

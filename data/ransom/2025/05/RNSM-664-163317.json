@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-664-163317",
+  "type": "ransomware-incident",
+  "title": "www.davisdavisco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.davisdavisco.com",
+    "domain": "davisdavisco.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 60000000000,
+    "description": "Davis & Davis Company specializes in providing products and systems for Oil, Natural Gas, and Liquid Measurement. Established in 1941, the company offers technical sales support and a wide range of measurement controls and instrumentation, including flow meters and control valves. Their intended clients include those in the energy sector, specifically targeting companies involved in natural gas and oil production. Davis & Davis is committed to enhancing accuracy and efficiency in measurement technology\r ===>\r Revenue: $5 Million\r Industry: Manufacturing\r Data:60GB\r Phone Number:  (303) 935-4694\r Brian -     307-315-7277\r Cheryle -     303-548-3151\r Dan -         303-949-7518\r Daniel Davis - 435-790-3093\r Estevan -     303-667-8390\r Greg -         303-898-7699\r Jesse -     720-217-1327\r Jon -         406-672-9589\r Kris Ann -     720-690-6417\r Kylee -        720-427-2628\r Martin -     720-355-6723\r Matt -       303-882-6108",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/555d62728b380a37260457e52e413e93.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmrhdmlzzgf2axnjby5jb21aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-16 10:35:00.000000",
+    "disclosedDate": "2025-05-16 17:52:08.370966"
+  }
+}

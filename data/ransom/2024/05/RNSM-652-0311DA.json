@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-652-0311DA",
+  "type": "ransomware-incident",
+  "title": "Universidad Nacional Autónoma de México   ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Universidad Nacional Autónoma de México  ",
+    "domain": "unam.mx",
+    "country": "MX"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Visits: 129 Data Size: 20GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fb9297d250f5a92bab93f29126f4bdb9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pdmvyc2lkywqgtmfjaw9uywwgqxv0w7nub21higrlie3dqxhpy28giebyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://mexicobusiness.news/cybersecurity/news/unam-contains-cyberattack-confirms-no-data-breach",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-03 14:31:28.853960",
+    "disclosedDate": "2024-05-03 14:31:28.854001"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-15B972",
+  "type": "ransomware-incident",
+  "title": "Central Pennsylvania Food Bank ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Central Pennsylvania Food Bank",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "20 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/514b2684cd36386249f9824b1cf07f04.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2vudhjhbcbqzw5uc3lsdmfuawegrm9vzcbcyw5rqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-15 00:00:00.000000",
+    "disclosedDate": "2024-10-15 16:33:49.129536"
+  }
+}

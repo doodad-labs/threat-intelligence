@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-657-18859C",
+  "type": "ransomware-incident",
+  "title": "Dubin Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dubin Group",
+    "domain": "dubingroup.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "!!! IF THE COMPANY DOES NOT CONTACT US SOON, THE DATA WILL BE PUBLISHED !!!!  The Dubin Group is one of the premier attorney search firms in the country. We specialize in the permanent placement of attorneys for law firms and corporate legal departments.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/572a0b4ff080204f74036ee69d799fc5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhviaw4gr3jvdxbay2ljywrhmzmwmq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-17 00:00:00.000000",
+    "disclosedDate": "2024-10-18 01:47:51.429483"
+  }
+}

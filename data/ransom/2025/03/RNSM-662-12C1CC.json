@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-662-12C1CC",
+  "type": "ransomware-incident",
+  "title": "Business Ledger Limited ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Business Ledger Limited",
+    "domain": "company-information.service.gov.uk",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Business Ledger Limited(United Kingdom)",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnvzaw5lc3mgtgvkz2vyiexpbwl0zwrabmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-03 00:00:00.000000",
+    "disclosedDate": "2025-03-12 23:50:00.021741"
+  }
+}

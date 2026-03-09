@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-22143F",
+  "type": "ransomware-incident",
+  "title": "Richmond Fellowship Scotland ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Richmond Fellowship Scotland",
+    "domain": "trsfs.org.uk",
+    "country": "GB",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Richmond Fellowship Scotland is a charity that serves over 2,000 people and is the largest social care provider in Scotland. The Richmond Fellowship Scotland corporate office is located in 3 Buchanan Gate Buchanan Gate Business Park Cumbernauld Rd, Stepps, North Lanarkshire, G33 6FB, United Kingdom",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bf7c109de575dc6a9d902309731ec140.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umljag1vbmqgrmvsbg93c2hpccbty290bgfuzebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-22 10:54:15.12345",
+    "disclosedDate": "2024-01-22 14:10:59.204830"
+  }
+}

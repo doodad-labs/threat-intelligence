@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-1476E9",
+  "type": "ransomware-incident",
+  "title": "packagesteel.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "packagesteel.com",
+    "domain": "packagesteel.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Package Steel Systems Inc. is a company based in Sutton, Massachusetts, which specializes in designing and fabricating steel buildings. They offer various products, such as custom-engineered buildings, barns, garages, and warehouses. They also provide services such as construction management, building erection services, and pre-construction services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/40c92244de7416434a848889c1755f57.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgfja2fnzxn0zwvslmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-05 00:00:00.000000",
+    "disclosedDate": "2025-06-14 18:13:45.278030"
+  }
+}

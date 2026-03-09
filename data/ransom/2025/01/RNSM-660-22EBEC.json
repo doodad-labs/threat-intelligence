@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-660-22EBEC",
+  "type": "ransomware-incident",
+  "title": "Hayloft Property Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hayloft Property Management",
+    "domain": "hayloftapartmenthomes.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 9000000000,
+    "description": "Hayloft Property Management Co. offers spacious, modern living, where quality and comfort come first. Their apartments for rent are located in five states, with nine different communities: South Dakota, Iowa, Minnesota, Nebraska, and Kansas.We are ready to upload about 9 GB of private corporate documents such as: license agreements, contact numbers and e-mail addressesof employees and customers, SSNs, internal financial documents, incident reports, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgf5bg9mdcbqcm9wzxj0esbnyw5hz2vtzw50qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-22 13:12:10.836618",
+    "disclosedDate": "2025-01-22 13:12:12.263263"
+  }
+}

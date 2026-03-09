@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-2026FB",
+  "type": "ransomware-incident",
+  "title": "qs-group.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "qs-group.com",
+    "domain": "qs-group.com",
+    "country": "CH",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "QS Group is an Italian company that specializes in designing and manufacturing automated systems and machinery for industrial applications. They focus on providing customized solutions for various sectors, including automotive, food and beverage, and pharmaceuticals. With a commitment to innovation and quality, QS Group aims to enhance productivity and efficiency for its clients through advanced technology and engineering expertise.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/028bf62a8f5335ad632899a76d1c3b55.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cxmtz3jvdxauy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-01 00:00:00.000000",
+    "disclosedDate": "2024-10-20 21:11:44.056817"
+  }
+}

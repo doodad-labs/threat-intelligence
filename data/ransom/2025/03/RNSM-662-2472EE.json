@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-662-2472EE",
+  "type": "ransomware-incident",
+  "title": "Bunting Capital Management Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bunting Capital Management Inc",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "frag",
+    "name": "frag",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "FinanceBunting Capital Management, located in Virginia Beach, is a team of financial advisors at Wealthway Financial Advisors who specialize in helping clients determine if they have enough resources and feel secure in their investment choices.Our team was successful in extracting the following documents:Corporate internal documents and agreementsEmployees medical documentsFinancial statements of the companyContact details of customers and employees",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnvudgluzybdyxbpdgfsie1hbmfnzw1lbnqgsw5jqgzyywc=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-28 12:37:07.345000",
+    "disclosedDate": "2025-03-24 19:24:46.186652"
+  }
+}

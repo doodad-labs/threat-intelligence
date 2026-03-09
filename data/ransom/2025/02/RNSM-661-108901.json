@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-108901",
+  "type": "ransomware-incident",
+  "title": "dundasjafine.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dundasjafine.com",
+    "domain": "dundasjafine.com",
+    "country": "CA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Dundas Jafine is a leading manufacturer in the Ventilation Products sector, operating for over 80 years now. Based in Canada, they specialize in air distribution products, supplying to both the U.S. and Canadian markets. Their product line includes items like ducts, pipes, vents, etc., typically used for dryer, bathroom, or kitchen venting needs. They strive for high quality and innovation, offering products that are easy to install and maintain. Their clientele includes contractors, retailers, and property owners.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zhvuzgfzamfmaw5llmnvbubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 20:05:10.054530",
+    "disclosedDate": "2025-02-10 20:05:22.633239"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10E047",
+  "type": "ransomware-incident",
+  "title": "deltaenterprise.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "deltaenterprise.com",
+    "domain": "deltaenterprise.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Delta Enterprise is a premier baby and children's furniture company that has been in operation for over 50 years. They specialize in creating safe, high-quality, affordable furniture. Their diverse product range includes cribs, beds, dressers, and more. Delta is committed to creating stylish, innovative designs that meet the evolving needs of growing children. It is a trusted brand known for providing unparalleled safety, long-lasting durability, and functionality.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvsdgflbnrlcnbyaxnllmnvbubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 20:02:03.695364",
+    "disclosedDate": "2025-02-10 20:02:13.394893"
+  }
+}

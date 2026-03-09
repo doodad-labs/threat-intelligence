@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-03DA6E",
+  "type": "ransomware-incident",
+  "title": "TripleA (aaa.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TripleA (aaa.com)",
+    "domain": "aaa.com",
+    "country": "SG"
+  },
+  "actor": {
+    "id": "shinyhunters",
+    "name": "shinyhunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] TripleA is a fintech company that aims to simplify cryptocurrency transactions. It provides a business-to-business platform for companies to accept Bitcoin and other cryptocurrency payments. Using blockchain technology, TripleA converts received cryptocurrencies into a local currency, mitigating exchange rate risks. It also supports cross-border transactions, enabling businesses globally to accept cryptocurrency payments from any country.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2bb11dcc7591a6e09fc8537a9d4c5ef3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjpcgxlqsaoywfhlmnvbslac2hpbnlodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-02 00:00:00.000000",
+    "disclosedDate": "2025-10-03 15:50:01.475351"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-19061D",
+  "type": "ransomware-incident",
+  "title": "Panzeri Cattaneo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Panzeri Cattaneo",
+    "domain": "panzericattaneonotai.it",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Italy - Exfiltraded data : no - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8539c9c448f89242403b646ba41bb65b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfuemvyasbdyxr0yw5lb0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-19 17:37:56.000000",
+    "disclosedDate": "2024-03-19 17:52:50.537756"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-644-267C0B",
+  "type": "ransomware-incident",
+  "title": "EWBizservice ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EWBizservice",
+    "domain": "ewbizservice.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "losttrust",
+    "name": "losttrust",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ewbizservice was created to allow a business owner to focus on what he loves. A cook opens a restaurant to prepare food, a gardener opens a business to provide landscaping services, an HVAC owner opens a business to provide air-conditioning services. We have never meet a business owner whose dream was to pay bills, prepare payroll, handle tax issues, etc. In addition, to being mundane work most owners are not trained in the nuances of running a business. Our goal is to allow the owner to focus on their craft while we handle the rest. Our clients have found that when these tasks are out-sourced to our company their business has grown exponentially. A little background about the partners. Rob Schoenberg is a CPA and Jamie Webber is an MBA. Both have years or experience running business in multiple industries. Rob is in New York State and Jamie is located in the State of Washington. Rob and Jamie are both former collegiate wrestlers. Our training has allowed us to apply the principles of hard-work , passion and dedication to our clients",
+    "claimed_data_types": [
+      "financial-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rvdcaxpzzxj2awnlqgxvc3r0cnvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-26 11:10:04.299235",
+    "disclosedDate": "2023-09-26 11:10:04.299256"
+  }
+}

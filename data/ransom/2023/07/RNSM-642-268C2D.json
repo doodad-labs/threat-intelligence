@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-268C2D",
+  "type": "ransomware-incident",
+  "title": "HANDLER Bau GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HANDLER Bau GmbH",
+    "domain": "handler-group.com",
+    "country": "AT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Address: Walter Handler-Straße 1, 2853 Leitenviertel, Austria",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/13e8ca042adc2b64c3d627c9cbf363fb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/seforexfuibcyxugr21isebhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-07-20 20:04:05.000000",
+    "disclosedDate": "2023-07-26 17:04:43.068800"
+  }
+}

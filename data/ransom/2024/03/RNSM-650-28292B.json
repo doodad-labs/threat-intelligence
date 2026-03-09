@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-28292B",
+  "type": "ransomware-incident",
+  "title": "Baystate.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Baystate.edu",
+    "domain": "baystate.edu",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "redransomware",
+    "name": "redransomware",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bay State College is a private, career-focused college with campuses in Boston's Back Bay, Taunton, MA and Online",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmf5c3rhdguuzwr1qhjlzhjhbnnvbxdhcmu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-05 00:00:00.000000",
+    "disclosedDate": "2024-03-28 21:23:11.854750"
+  }
+}

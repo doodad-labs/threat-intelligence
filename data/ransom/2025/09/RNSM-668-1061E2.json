@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-668-1061E2",
+  "type": "ransomware-incident",
+  "title": "Commercial Casework ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Commercial Casework",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 12000000000,
+    "description": "Commercial Casework Inc. has been a leading provider of custom architectural woodwork and cabinetry in Northern California since 1976, situated in the San Francisco Bay Area. The company specializes in high-end tenant improvements for various commercial spaces, including Board Rooms, Cafes, and Reception Areas. We are going to upload 12GB of corporate data. A lot of hr data, medical information, accounting files, payment details, client information, project information, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tbwvyy2lhbcbdyxnld29ya0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-10 00:00:00.000000",
+    "disclosedDate": "2025-09-10 13:18:00.405991"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-06BA68",
+  "type": "ransomware-incident",
+  "title": "protosign.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "protosign.it",
+    "domain": "protosign.it",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Protosign SrlRegistered office: Via Giuseppe Candiani 98 -20158- Milann° Company register registration: MI-1714539 - 15/05/2003Share capital: €10,000.00 ivVAT number: 03949800969",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9815313c4d0b5c93d3f123dacec26069.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjvdg9zawdulml0qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-06 22:57:00.000000",
+    "disclosedDate": "2023-09-06 23:32:49.663414"
+  }
+}

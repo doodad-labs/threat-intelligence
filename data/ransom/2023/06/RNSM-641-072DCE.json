@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-072DCE",
+  "type": "ransomware-incident",
+  "title": "newarka.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "newarka.edu",
+    "domain": "newarka.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Newark Academy is a private day school for grades 6 through 12, offering both the IB program and AP courses",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bbacd363536a4473f67dc88a557bc693.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmv3yxjrys5lzhvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-06 23:48:00.000000",
+    "disclosedDate": "2023-06-07 02:52:56.404265"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-241447",
+  "type": "ransomware-incident",
+  "title": "Symeta ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Symeta",
+    "domain": "symeta.com",
+    "country": "BE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Symeta is a Belgian company specializing in marketing communication solutions. They provide personalized and relevant communication services to various industries. Their offerings include data-driven marketing, hybrid publishing and printing. The company’s innovative solutions help businesses to improve customer engagement through personalization.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/05642d6ac321fb4e550baac6fb73b008.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3ltzxrhqgnvaw5iyxnly2fydgvs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-24 23:14:51.277624",
+    "disclosedDate": "2026-02-24 23:15:06.218190"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-652-266AC5",
+  "type": "ransomware-incident",
+  "title": "Aéroport de Pau ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aéroport de Pau",
+    "domain": "pau.aeroport.fr",
+    "country": "FR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "monti",
+    "name": "monti",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Full leak",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/de6941f27f543fba08cdc572e7fb0089.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qcopcm9wb3j0igrlifbhdubtb250aq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.francebleu.fr/infos/faits-divers-justice/l-aeroport-et-l-ecole-de-commerce-de-pau-victimes-d-une-cyberattaque-6303207",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-26 15:18:39.000000",
+    "disclosedDate": "2024-05-26 14:15:43.317464"
+  }
+}

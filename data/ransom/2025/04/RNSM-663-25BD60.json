@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-25BD60",
+  "type": "ransomware-incident",
+  "title": "corporateflight.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "corporateflight.com",
+    "domain": "corporateflight.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Corporate Flight specializes in private jet charters, offering services that prioritize comfort, safety, and flexibility for clients traveling for personal or business reasons. With a fleet that includes Hawker 800XP and Cessna Citation aircraft, the company ensures a variety of aircraft options to cater to different needs, including lease and shared ownership opportunities. Based at Oakland County International Airport in Waterford, Michigan, Corporate Flight serves clients in the Metro Detroit area and nationwide. Their emphasis on customer service allows for tailored travel experiences, accommodating last-minute changes and special requests",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/846b5c9fa9e98345173e31cbce784c00.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29ycg9yyxrlzmxpz2h0lmnvbubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-27 00:00:00.000000",
+    "disclosedDate": "2025-04-25 15:42:37.363969"
+  }
+}

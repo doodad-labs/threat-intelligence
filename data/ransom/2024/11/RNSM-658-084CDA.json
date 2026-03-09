@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-084CDA",
+  "type": "ransomware-incident",
+  "title": "del-electric.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "del-electric.com",
+    "domain": "del-electric.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Del-electric.com is a company specializing in electrical solutions and products. They offer a range of services including electrical installations, maintenance, and repairs. Their product line likely includes components such as circuit breakers, wiring, and lighting solutions. The company is dedicated to providing reliable and efficient electrical services to both residential and commercial clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b1af36f5a5cc1adfde2855e6238a85d4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvslwvszwn0cmljlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-07 22:38:01.000000",
+    "disclosedDate": "2024-11-08 16:28:03.841919"
+  }
+}

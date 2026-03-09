@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-262601",
+  "type": "ransomware-incident",
+  "title": "FIIG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FIIG",
+    "domain": "fiig.com.au",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ALL DATA AVAILABLE FOR DOWNLOADING!!!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/200455504342626f2d406947ca811b25.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rkljr0bhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-18 12:12:44.000000",
+    "disclosedDate": "2023-07-26 14:10:09.438833"
+  }
+}

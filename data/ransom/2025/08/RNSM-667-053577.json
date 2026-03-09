@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-053577",
+  "type": "ransomware-incident",
+  "title": "cibraco ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cibraco",
+    "domain": "cibraco.com",
+    "country": "BR"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cibraco Imóveis, referência no mercado imobiliário de Curitiba e Regão Metropolitana. São mais de 80 anos de experiência na venda e locação de imóveis.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8e4c563eb0a29b0095088e760adeb73b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2licmfjb0bsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-05 19:57:53.305000",
+    "disclosedDate": "2025-08-05 20:38:03.439678"
+  }
+}

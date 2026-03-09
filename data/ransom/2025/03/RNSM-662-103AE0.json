@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-103AE0",
+  "type": "ransomware-incident",
+  "title": "www.hexosys.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.hexosys.com",
+    "domain": "hexosys.com",
+    "country": "HK",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Hexosys is an IT consulting and services company based in Pune, India. They provide a variety of digital solutions such as web development, software development, e-commerce development, mobile app development, and digital marketing services, operating across diverse industry verticals. Their offerings are designed to help businesses optimize their operations and achieve their digital transformation goals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmhleg9zexmuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-25 00:00:00.000000",
+    "disclosedDate": "2025-03-10 14:07:18.915815"
+  }
+}

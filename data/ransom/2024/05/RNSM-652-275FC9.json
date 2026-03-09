@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-275FC9",
+  "type": "ransomware-incident",
+  "title": "The Kelly Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Kelly Group",
+    "domain": "thekelly-group.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Kelly Group works as a general contractor in a multi-state area and has metal fabrication facilities in Illinois, Indiana, Louisiana and Arkansas.https://www.thekelly-group.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f986d00c9ec741232a858971d319ccdf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlietlbgx5iedyb3vwqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-27 00:00:00.000000",
+    "disclosedDate": "2024-05-27 11:28:24.870546"
+  }
+}

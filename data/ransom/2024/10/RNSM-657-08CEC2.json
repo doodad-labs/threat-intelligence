@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-08CEC2",
+  "type": "ransomware-incident",
+  "title": "trulysmall.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "trulysmall.com",
+    "domain": "trulysmall.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Trulysmall.com is a company that focuses on providing simple and efficient accounting software solutions tailored for small businesses. Their tools are designed to streamline financial management, offering features such as invoicing, expense tracking, and reporting. Trulysmall.com aims to make accounting accessible and manageable for entrepreneurs, helping them save time and focus on growing their business.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2dbc900c0e89662725f7f17943f45ec8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhj1bhlzbwfsbc5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-06 00:00:00.000000",
+    "disclosedDate": "2024-10-08 07:02:30.735665"
+  }
+}

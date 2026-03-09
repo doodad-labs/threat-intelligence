@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-21E080",
+  "type": "ransomware-incident",
+  "title": "McCally Tool and Supply ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "McCally Tool and Supply",
+    "domain": "mccallytool.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e24dc940f4ba350c02cc1b32723723f0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twndywxsesbub29sigfuzcbtdxbwbhlaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-21 20:48:39.596977",
+    "disclosedDate": "2024-12-21 20:48:40.464193"
+  }
+}

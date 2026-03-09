@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-663-28C97F",
+  "type": "ransomware-incident",
+  "title": "Dermatologists of Birmingham ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dermatologists of Birmingham",
+    "domain": "dermatologistsofbirmingham.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 141000000000,
+    "description": "Our team managed to breach and encrypt Dermatologits of Birmingham's network. Once we have breached the network we have managed to download 141GB from there. What kind of data was taken: - patients data - medical data - employee d            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/95c7de92355316c3fc3d81c6c600c776.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvybwf0b2xvz2lzdhmgb2ygqmlybwluz2hhbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-31 00:00:00.000000",
+    "disclosedDate": "2025-04-28 12:51:45.315163"
+  }
+}

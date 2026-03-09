@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-17FA30",
+  "type": "ransomware-incident",
+  "title": "www.liderit.es ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.liderit.es",
+    "domain": "liderit.es",
+    "country": "ES",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/002a4187198602803db7d8e1453bda4b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmxpzgvyaxquzxnacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-17 13:15:42.000000",
+    "disclosedDate": "2024-06-17 16:22:00.723578"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-0174F4",
+  "type": "ransomware-incident",
+  "title": "Gansevoort Hotel Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Gansevoort Hotel Group",
+    "domain": "gansevoorthotelgroup.com",
+    "country": "TV",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Gansevoort Hotel Group delivers hotels that marry the best of thelocal neighborhood with prominent art, design, tech and local heritage as well as our brand legacy. Passports, driver licenses, insurance cards, SSNs and other data will be available here.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2fuc2v2b29ydcbib3rlbcbhcm91cebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-01 17:01:33.281297",
+    "disclosedDate": "2024-03-01 17:01:33.349667"
+  }
+}

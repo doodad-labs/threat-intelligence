@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-24DB47",
+  "type": "ransomware-incident",
+  "title": "mino-in.co.jp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mino-in.co.jp",
+    "domain": "mino-in.co.jp",
+    "country": "JP",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MINO Group is a long-established Japanese manufacturer (founded 1946) that designs and builds screen-printing machines, stencil makers, dryers, printing accessories …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8de83aea0c7c5884be105c39e27f9da8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwluby1pbi5jby5qcebzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-24 21:23:19.966774",
+    "disclosedDate": "2025-10-24 21:23:32.874800"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-01BF09",
+  "type": "ransomware-incident",
+  "title": "CIERANT.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CIERANT.COM",
+    "domain": "cierant.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] CIERANT.COM, commonly known as Cierant Corporation, is a technology solutions company based in the United States. It specializes in developing advanced software solutions, complex data management, electronic content management, business process automation and custom communications. Their services are aimed towards improving operational efficiencies and productivity in various businesses.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6f5d0b5f85196fa13af8ccc3c4c63795.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0lfukfovc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-01 19:04:26.811579",
+    "disclosedDate": "2025-02-01 19:04:26.811579"
+  }
+}

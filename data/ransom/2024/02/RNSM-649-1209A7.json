@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-1209A7",
+  "type": "ransomware-incident",
+  "title": "isspol.gov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "isspol.gov",
+    "domain": "isspol.gov",
+    "country": "EC",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ISSPOL – Somos el nuevo ISSPOL",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8b4bedc8962b06a2f3c305739e54a552.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axnzcg9slmdvdkbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 08:33:00.000000",
+    "disclosedDate": "2024-02-12 10:34:10.981551"
+  }
+}

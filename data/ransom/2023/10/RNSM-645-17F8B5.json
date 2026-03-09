@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-17F8B5",
+  "type": "ransomware-incident",
+  "title": "SIIX Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SIIX Corporation",
+    "domain": "siix.co.jp",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SIIX Corporation (株式会社 シィックス) is a Japanese company specializing in various fields related to electronics and manufacturing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/64356569ba1a8f209b5c740393a83b41.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0ljwcbdb3jwb3jhdglvbkbhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-17 15:04:32.123456",
+    "disclosedDate": "2023-10-17 16:03:33.383686"
+  }
+}

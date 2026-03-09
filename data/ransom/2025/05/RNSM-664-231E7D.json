@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-231E7D",
+  "type": "ransomware-incident",
+  "title": "www.paragonradiology.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.paragonradiology.com",
+    "domain": "paragonradiology.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "200k USD",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnbhcmfnb25yywrpb2xvz3kuy29tqgrldm1hbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-23 11:43:45.831111",
+    "disclosedDate": "2025-05-23 11:43:47.333240"
+  }
+}

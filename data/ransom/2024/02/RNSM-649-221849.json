@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-649-221849",
+  "type": "ransomware-incident",
+  "title": "PEER Consultants ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PEER Consultants",
+    "domain": "peercpc.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "PEER, a full-service environmental engineering consulting firm, provides personalized service to our valuable clients, fosters andmaintains long-term partnerships, and hires passionate and diverse team members. 20Gb of data will be uploaded lots of documents with personal information. Passports, SSNs, driver licenses, confidential agreements, NDAs and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uevfuibdb25zdwx0yw50c0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-22 14:43:11.148728",
+    "disclosedDate": "2024-02-22 14:43:11.319075"
+  }
+}

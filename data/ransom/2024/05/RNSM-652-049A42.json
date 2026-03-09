@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-049A42",
+  "type": "ransomware-incident",
+  "title": "COMPEXLEGAL.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "COMPEXLEGAL.COM",
+    "domain": "compexlegal.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The #1 Medical Record Retrieval Service - Compex Legal Services",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0d91150742f541a4f627555fb6ac8bf7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q09nuevytevhquwuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-04 18:49:10.621511",
+    "disclosedDate": "2024-05-04 18:49:10.621557"
+  }
+}

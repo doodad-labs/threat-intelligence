@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-655-185ABB",
+  "type": "ransomware-incident",
+  "title": "kbo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kbo",
+    "domain": "kbosecurity.co.uk",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Here's something encrypted, password is required to continue reading.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/29cb45cdb3f3283eddcb70ff5e959bd1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2jvqghlbgxkb3du",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-18 17:04:23.037527",
+    "disclosedDate": "2024-08-18 17:04:24.900720"
+  }
+}

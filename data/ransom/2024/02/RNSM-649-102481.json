@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-102481",
+  "type": "ransomware-incident",
+  "title": "verdimed.es ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "verdimed.es",
+    "domain": "verdimed.es",
+    "country": "ES",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "In the eighties, from a company with extensive experience in agriculture and production in Valencia, Verdimed was born to expand marketing into the vegetable sector. At the end of this decade, in an effort to benefit from the climate for crops, we mo...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aa3deec9709ee7dc891e28c7d0187b8d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmvyzgltzwquzxnabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-10 04:04:00.000000",
+    "disclosedDate": "2024-02-10 05:43:26.611562"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-662-3163F2",
+  "type": "ransomware-incident",
+  "title": "AKTO ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AKTO",
+    "domain": "akto.fr",
+    "country": "US"
+  },
+  "actor": {
+    "id": "nitrogen",
+    "name": "nitrogen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A French company specializing in digital learning and training solutions. It focuses on providing tools and services to improve corporate training, ensuring that companies can effectively upskill their employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dde4faf4d4972e690e9ec1091133f1af.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qutut0buaxryb2dlbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.aefinfo.fr/depeche/730105-akto-reprend-partiellement-ses-activites-apres-la-cyberattaque-du-23-mars-2025",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-31 08:03:54.152973",
+    "disclosedDate": "2025-03-31 08:05:29.303492"
+  }
+}

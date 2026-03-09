@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-649-15C40A",
+  "type": "ransomware-incident",
+  "title": "Asam ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Asam",
+    "domain": "asam.ro",
+    "country": "RO"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A reliable partner on the market of spare parts and industrial equipment, ASAM Iasi was founded in 1924 as a Maintenance Workshop.Financial data, information of clients and customers, documents with personal information of employees, HR and other business docs will be available soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxnhbubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-15 18:00:01.343573",
+    "disclosedDate": "2024-02-15 18:00:01.862498"
+  }
+}

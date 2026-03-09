@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-657-020A1C",
+  "type": "ransomware-incident",
+  "title": "FoccoERP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FoccoERP",
+    "domain": "foccoerp.com.br",
+    "country": "BR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "trinity",
+    "name": "trinity",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "Data base 300 GB - Revenue: $ 20 Million - Publication date: 2024-11-01",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/085b1b91966d898b1cdb391ea7c5e2c1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rm9jy29fulbadhjpbml0eq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-02 07:10:58.865051",
+    "disclosedDate": "2024-10-02 07:10:59.532698"
+  }
+}

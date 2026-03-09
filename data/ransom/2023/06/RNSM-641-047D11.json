@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-641-047D11",
+  "type": "ransomware-incident",
+  "title": "Ascentia Group Pty Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ascentia Group Pty Ltd",
+    "domain": "ascentia.us",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ascentia is a independent Civil Engineering Contracting company that services the Defence, Civil Infrastructure Construction and the Oil & Gas Industries.   The data taken from the company's servers is shown below.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxnjzw50awegr3jvdxaguhr5iex0zebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-04 22:58:42.500081",
+    "disclosedDate": "2023-06-04 22:58:42.500116"
+  }
+}

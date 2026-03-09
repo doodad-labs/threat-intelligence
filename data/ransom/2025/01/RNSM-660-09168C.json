@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-09168C",
+  "type": "ransomware-incident",
+  "title": "gags.gov.eg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gags.gov.eg",
+    "domain": "gags.gov.eg",
+    "country": "EG",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aacd4ae2c0e6968e51b39567fe26b1bc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2fncy5nb3yuzwdaznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-09 15:15:28.324328",
+    "disclosedDate": "2025-01-09 15:15:28.324328"
+  }
+}

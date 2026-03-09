@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-28E796",
+  "type": "ransomware-incident",
+  "title": "K2systems.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "K2systems.ca",
+    "domain": "k2systems.ca",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "redransomware",
+    "name": "redransomware",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "K2 Systems is a full service Information Technology provider.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/szjzexn0zw1zlmnhqhjlzhjhbnnvbxdhcmu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-05 00:00:00.000000",
+    "disclosedDate": "2024-03-28 21:23:50.232720"
+  }
+}

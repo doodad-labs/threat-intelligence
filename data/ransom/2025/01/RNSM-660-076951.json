@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-076951",
+  "type": "ransomware-incident",
+  "title": "CED Solutions Computer IT Training Centers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CED Solutions Computer IT Training Centers",
+    "domain": "cedsolutions.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CED Solutions is a company specializing in providing IT training and certifications, including courses on Microsoft, Cisco, CompTIA and other leading technologies. They offer a variety of learning formats, including face-to-face classes, online courses, and webinars, with flexible payment options.cedsolutions.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/17d5e615a71a7496aacbd867e80d2f1d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0veifnvbhv0aw9ucybdb21wdxrlcibjvcbucmfpbmluzybdzw50zxjzqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-07 09:27:28.658029",
+    "disclosedDate": "2025-01-07 09:28:38.555807"
+  }
+}

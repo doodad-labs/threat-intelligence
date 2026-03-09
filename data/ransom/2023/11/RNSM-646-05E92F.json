@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-646-05E92F",
+  "type": "ransomware-incident",
+  "title": "lathamcenters.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lathamcenters.org",
+    "domain": "lathamcenters.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 75000000000,
+    "description": "lathamcenters.org 75Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgf0agfty2vudgvycy5vcmdaywj5c3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-05 19:05:34.054913",
+    "disclosedDate": "2023-11-05 19:05:34.054940"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-636-18FE73",
+  "type": "ransomware-incident",
+  "title": "tvk.nl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tvk.nl",
+    "domain": "tvk.nl",
+    "country": "NL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ton van Kuyk (TVK) is your Volvo dealer in North Holland for new Volvos, used Volvos and maintenance.Company that operates in the Automotive industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhzrlm5sqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-18 21:17:40.972526",
+    "disclosedDate": "2023-01-18 21:17:40.972526"
+  }
+}

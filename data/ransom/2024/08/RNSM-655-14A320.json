@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-655-14A320",
+  "type": "ransomware-incident",
+  "title": "hugwi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hugwi",
+    "domain": "hugwi.ch",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hugwi.ch is a Swiss-based company specializing in providing cutting-edge digital solutions, with a focus on web development, e-commerce, and custom software. They offer tailored services to businesses, enhancing their online presence and operational efficiency. Known for their innovation and customer-centric approach, Hugwi.ch combines technical expertise with creative design to deliver high-quality, scalable solutions that meet diverse client needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4036116e60da867ba7a180b520d1aaeb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahvnd2laagvsbgrvd24=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-13 00:00:00.000000",
+    "disclosedDate": "2024-08-14 02:07:19.358646"
+  }
+}

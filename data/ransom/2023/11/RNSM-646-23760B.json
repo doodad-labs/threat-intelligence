@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-23760B",
+  "type": "ransomware-incident",
+  "title": "officinaverdedesign.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "officinaverdedesign.it",
+    "domain": "officinaverdedesign.it",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Officina Design is a company that operates in the Design industry. It employs 1-5 people and has $1M-$5M of revenue.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/32b4bc4d8d8a5d8cbd8aca52900e199b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b2zmawnpbmf2zxjkzwrlc2lnbi5pdebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-23 09:17:00.000000",
+    "disclosedDate": "2023-11-23 09:54:32.536880"
+  }
+}

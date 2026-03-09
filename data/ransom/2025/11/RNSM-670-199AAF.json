@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-199AAF",
+  "type": "ransomware-incident",
+  "title": "Pearl River Valley Electric Power Association ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pearl River Valley Electric Power Association",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 62000000000,
+    "description": "PRVEPA is an electric cooperative dedicated to providing safe, dependable, and affordable power to the residents of South-Central Mississippi since 1938.We will upload 62gb of corporate documents soon. Employee data (driver licenses, phones, addresses, emails), confidential technologies, financials and accounting, contracts and agreements, clients' information, NDA, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvhcmwguml2zxigvmfsbgv5ievszwn0cmljifbvd2vyiefzc29jawf0aw9uqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-19 00:00:00.000000",
+    "disclosedDate": "2025-11-19 14:44:04.466197"
+  }
+}

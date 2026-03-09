@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-11B116",
+  "type": "ransomware-incident",
+  "title": "TECHCERT ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TECHCERT",
+    "domain": "techcert.com.br",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Techcert has distinguished itself by its vulnerability, but has been specializing in innovative solutions for the educational market for 18 years. Recommended applications with digital certification in Academic routines, Digitization and Digital Diploma!https://techcert.com.br/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cd6167368dd4d1941bb79980593b30d7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vevdsenfulraogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-10 00:00:00.000000",
+    "disclosedDate": "2023-06-11 11:05:19.433923"
+  }
+}

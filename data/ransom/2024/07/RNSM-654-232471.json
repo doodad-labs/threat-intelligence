@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-232471",
+  "type": "ransomware-incident",
+  "title": "Win Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Win Systems",
+    "domain": "winsysgroup.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Win systems is a provider of casino solutions for the global gami ng industry. Lots of passport, DNIs (identification cards), credi t cards and other personal documents of employees. Information of clients and casinos, financials, other internal business data. 1 0GB of extremely interesting data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2luifn5c3rlbxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-23 13:36:15.746146",
+    "disclosedDate": "2024-07-23 13:36:16.616839"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-17A2A7",
+  "type": "ransomware-incident",
+  "title": "kasperekusaoptical.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kasperekusaoptical.com",
+    "domain": "kasperekusaoptical.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kasperek Optical is a family-owned and operated wholesale optical distributor and manufacturer. Headquartered in Michigan, Kasperek Optical has been providing eyewear and accessories to independent eye care professionals since 1978. Kasperek Optical...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/84922e34fe6f3735cc89f7b39c0b17a3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2fzcgvyzwt1c2fvchrpy2fslmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-17 18:19:00.000000",
+    "disclosedDate": "2023-10-17 19:01:57.674739"
+  }
+}

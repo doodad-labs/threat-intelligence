@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-097CC6",
+  "type": "ransomware-incident",
+  "title": "Homeocan ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Homeocan",
+    "domain": "homeocan.ca",
+    "country": "CA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Homeocan has been an industry leader in the homeopathy and natural products sector since it's founding in 1987.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/95a333085789b911be658f633dcb0968.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9tzw9jyw5aymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-09 10:45:52.260980",
+    "disclosedDate": "2024-04-09 10:45:52.261003"
+  }
+}

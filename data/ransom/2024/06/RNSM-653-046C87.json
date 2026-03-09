@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-046C87",
+  "type": "ransomware-incident",
+  "title": "www.psgbdvor.rs ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.psgbdvor.rs",
+    "domain": "psgbdvor.rs",
+    "country": "RS",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d8a5d9c2e891757751df1b7212c62ba7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnbzz2jkdm9ylnjzqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-20 00:00:00.000000",
+    "disclosedDate": "2024-06-04 22:57:40.284230"
+  }
+}

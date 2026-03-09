@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-665-03FDFA",
+  "type": "ransomware-incident",
+  "title": "WC Smith ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WC Smith",
+    "domain": "wcsmith.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "WC Smith is headquartered in Washington, DC, and founded in 1969, is a multidisciplinary real estate firm providing real estate services to the Washington metropolitan area. We provide you with up-to-date databases SAGE, MySql. Also contracts and personal data of employees, enjoy viewing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f934dd967557be0960e233fabe593d96.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0mgu21pdghaaw50zxjsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2026-01-12-william-c-smith-and-company-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-14 00:00:00.000000",
+    "disclosedDate": "2025-06-03 02:46:48.172943"
+  }
+}

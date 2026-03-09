@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-644-26C490",
+  "type": "ransomware-incident",
+  "title": "gov.la ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gov.la",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Did I hear gov? Yep. We have accessed the majorty of their servers that were storing personal data, Passport Data,SSNs,NAMES,ADDRESSES and a lot moreWe require a ransom of $50,000",
+    "claimed_data_types": [
+      "addresses",
+      "government-identifiers",
+      "passport-numbers",
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z292lmxhqhjhbnnvbwvk",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-16 03:23:23.361981",
+    "disclosedDate": "2023-09-26 03:23:23.362009"
+  }
+}

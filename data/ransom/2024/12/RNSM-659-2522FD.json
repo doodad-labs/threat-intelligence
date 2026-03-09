@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-2522FD",
+  "type": "ransomware-incident",
+  "title": "Mint Pharmaceuticals ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mint Pharmaceuticals",
+    "domain": "mintpharma.com",
+    "country": "CA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mint Pharmaceuticals is a Canadian owned generic pharmaceutical company located in Mississauga, Ontario. Founded in 2007, we pride ourselves in delivering high quality and affordable generic pharmaceuticals and healthcare solutions to the Canadian market. Through product differentiation, best-in-class supply and excellent service, we strive to help communities across Canada live longer, healthier livesmintpharma.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8d99729fd2d3fead74c59369584d7337.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twludcbqagfybwfjzxv0awnhbhnaogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-30 00:00:00.000000",
+    "disclosedDate": "2024-12-25 14:02:32.241443"
+  }
+}

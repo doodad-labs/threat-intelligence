@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-166681",
+  "type": "ransomware-incident",
+  "title": "Coldwell Banker D’Ann Harper, REALTORS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Coldwell Banker D’Ann Harper, REALTORS",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 133300000000,
+    "description": "Coldwell Banker D’Ann Harper, REALTORS® stands as the residential real estate brokerage in Central and South Texas, boasting a presence with multiple strategically located offices and a dedicated team of over 550 sales agents. This real estate firm is part of the larger Coldwell Banker network, which spans the globe with over 3,000 offices and nearly 100,000 sales agents. Coldwell Banker D'Ann Harper REALTORS corporate office is located in 18756 Stone Oak Pkwy Ste 102, San Antonio, Texas, 78258, United States and has 117 employees. The total amount of data leakage is 133.30 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/13ee474015b9f7447a5e47f3ab10826d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29szhdlbgwgqmfua2vyietigjlbbm4gsgfycgvylcbsrufmve9su0btzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-16 20:29:23.652788",
+    "disclosedDate": "2025-03-16 20:30:36.270222"
+  }
+}

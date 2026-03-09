@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-201090",
+  "type": "ransomware-incident",
+  "title": "Hampton Newport News CSB ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hampton Newport News CSB",
+    "domain": "hnncsb.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hampton Newport News CSB is a drug rehab and alcohol rehabilitation center that is located at 2351 Terminal Avenue Newport News, VA 23607",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6fd5ef6f71aead457961b72e12620e5a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgftchrvbibozxdwb3j0ie5ld3mgq1ncqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-20 21:21:18.123456",
+    "disclosedDate": "2023-11-20 21:59:51.808370"
+  }
+}

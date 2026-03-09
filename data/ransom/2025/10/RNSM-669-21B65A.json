@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-21B65A",
+  "type": "ransomware-incident",
+  "title": "Claimlinx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Claimlinx",
+    "domain": "claimlinx.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A provider of health insurance benefits for the businesses",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3f9ab14f41b5e3a498fb2422ff6953e2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2xhaw1saw54qgdlbmvzaxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-15 00:00:00.000000",
+    "disclosedDate": "2025-10-21 15:15:02.322490"
+  }
+}

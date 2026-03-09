@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-20094C",
+  "type": "ransomware-incident",
+  "title": "qualityplumbingassociates.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "qualityplumbingassociates.com",
+    "domain": "qualityplumbingassociates.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Quality Plumbing Associates, Inc. is committed to providing our clients and customers with the best possible value, quality and workmanship available in the industry. We will strive to be pioneers and leaders in the plumbing field by continually educ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7bf1878cc6cdd94b3fc6419063135b19.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cxvhbgl0exbsdw1iaw5nyxnzb2npyxrlcy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-20 08:19:00.000000",
+    "disclosedDate": "2024-05-20 09:59:08.470987"
+  }
+}

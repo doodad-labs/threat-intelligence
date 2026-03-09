@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-140F9D",
+  "type": "ransomware-incident",
+  "title": "SCHNABEL-ENG.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SCHNABEL-ENG.COM",
+    "domain": "schnabel-eng.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - Schnabel Engineering",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d0fedefdf8d2664884604e3755b6cbec.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0nitkfcruwtru5hlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-14 16:00:50.891046",
+    "disclosedDate": "2023-07-14 16:00:50.891068"
+  }
+}

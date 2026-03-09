@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09942F",
+  "type": "ransomware-incident",
+  "title": "wisconsinindustrialcoatings.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wisconsinindustrialcoatings.com",
+    "domain": "wisconsinindustrialcoatings.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Turn to the experienced professionals at Wisconsin Industrial Coatings for superior quality industrial coating and sandblasting services. Our facility includes 105,000 square feet of shop space and 12 overhead cranes with a maximum capacity of 50,000...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c5d4157bf189b2de9ad38fa2455314a5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2lzy29uc2luaw5kdxn0cmlhbgnvyxrpbmdzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-09 17:24:00.000000",
+    "disclosedDate": "2024-05-09 22:43:20.380617"
+  }
+}

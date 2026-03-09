@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-25A98F",
+  "type": "ransomware-incident",
+  "title": "sunnydesigns.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sunnydesigns.com",
+    "domain": "sunnydesigns.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sunny Designs is a manufacturer and wholesale distributor of furniture and accessory items. We exfiltrated the sales database for all customers  + data from their file server.Failure to negotiate with us will result in FULL data publication o...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f09c12db58d14e57ce9a6e731e4dfaa4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3vubnlkzxnpz25zlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-25 16:19:00.000000",
+    "disclosedDate": "2023-04-25 16:47:46.303449"
+  }
+}

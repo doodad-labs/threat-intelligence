@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-661-216828",
+  "type": "ransomware-incident",
+  "title": "(kc2) geokon.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "(kc2) geokon.com",
+    "domain": "geokon.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Geokon, Incorporated designs, manufactures and supplies geotechnical sensors and instrumentation for use in civil, mining, and structural engineering projects in the United States and internationally. The company offers extensometers, piezometers, strain gages, crack meters, joint meters, load cells, settlement sensors, pressure cells, inclinometers and data loggers, and many other custom items. It also provides semiconductor piezometers and pressure transducers; and thermistor probes and strings, temperature sensors, fiber optic temperature sensors, cables, vibration monitors, and water level meters, as well as Nold DeAerator, which provides a means of removing dissolved gasses from fluids. In addition, the company offers custom design services to produce custom instrumentation for special applications; instruments, readouts, and data loggers for rent on short and long-term basis; and installation and training services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/73237d046e4df3a53460662565374b92.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/kgtjmikgz2vva29ulmnvbubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-03-19%20geokon%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-15 00:00:00.000000",
+    "disclosedDate": "2025-02-21 00:38:41.736033"
+  }
+}

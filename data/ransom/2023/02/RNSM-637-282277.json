@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-282277",
+  "type": "ransomware-incident",
+  "title": "indigo.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "indigo.ca",
+    "domain": "indigo.ca",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Indigo Books & Music Inc., known as \"Indigo\" and stylized \"!ndigo\", is Canada's only major English-language bookstore chain. It is Canada's largest book, gift, and specialty toy retailer, operating stores in all ten provinces and one territory, and t...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw5kawdvlmnhqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-28 21:17:18.011120",
+    "disclosedDate": "2023-02-28 21:17:18.011140"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-08B1AE",
+  "type": "ransomware-incident",
+  "title": "Pharmerica.com & BrightSpring Health Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pharmerica.com & BrightSpring Health Services",
+    "domain": "pharmerica.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "moneymessage",
+    "name": "moneymessage",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Headquartered in Louisville, Kentucky, PharMerica is one of the largest and fastest-growing institutional pharmacy companies in the United States. Our premier pharmacy services, with more than 180 long-term care pharmacies in almost every state, have a national scope but a local approach.Revenue: $3BBrightSpring Health Services is the leading provider of complementary home- and community-based health services for complex populations in need of specialized and/or chronic care. We focus on providing quality outcomes, through best-in-class service and technology capabilities.Revenue: $5.4B",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/83f0337aec80152263a7edfb00da372e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ughhcm1lcmljys5jb20gjibccmlnahrtchjpbmcgsgvhbhroifnlcnzpy2vzqg1vbmv5bwvzc2fnzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-08 09:11:30.477222",
+    "disclosedDate": "2023-04-08 09:11:30.477244"
+  }
+}

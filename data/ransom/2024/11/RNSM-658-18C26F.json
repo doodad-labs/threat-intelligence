@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-658-18C26F",
+  "type": "ransomware-incident",
+  "title": "A & L Auto Recyclers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "A & L Auto Recyclers",
+    "domain": "auto-recyclers.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] A & L Auto Recyclers is a company specializing in the recycling and resale of automotive parts. They focus on dismantling vehicles to salvage usable parts, which are then cleaned, tested, and sold to customers seeking affordable, reliable auto components. The company emphasizes sustainability by reducing automotive waste and promoting the reuse of parts, serving both individual customers and businesses.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qsamiewgqxv0bybszwn5y2xlcnnarwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:04:02.417350",
+    "disclosedDate": "2024-11-18 21:04:05.685510"
+  }
+}

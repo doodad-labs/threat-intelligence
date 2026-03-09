@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-650-2549F0",
+  "type": "ransomware-incident",
+  "title": "wblight.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wblight.com",
+    "domain": "wblight.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "With over 110 years under our belt, Wiedenbach Brown is one of the most established names in the lighting business. But we're also one of the most forward-thinking brands in the game. Our innovative Procurement Agent model makes us uniquely qualified...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3fe89863e41e558d7b75c82f903c718b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2jsawdodc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-19 00:00:00.000000",
+    "disclosedDate": "2024-03-25 23:51:40.598761"
+  }
+}

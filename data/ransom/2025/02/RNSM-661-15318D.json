@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-661-15318D",
+  "type": "ransomware-incident",
+  "title": "City of McKinney ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "City of McKinney",
+    "domain": "mckinneytexas.org",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "McKinney Economic Development Corporation works in conjunction with the City of McKinney, Texas to promote and provide economic development for the city.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/419fb7b42bbf3e2cdd0b3b32cc0f6c86.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0esbvzibny0tpbm5leubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-02-04%20city%20of%20mckinney%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-09 14:58:36.221000",
+    "disclosedDate": "2025-02-15 12:19:27.648576"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-640-09A605",
+  "type": "ransomware-incident",
+  "title": "Humana ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Humana",
+    "domain": "humana.se",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Humana is a leading Nordic care company providing services within individual and family care, personal assistance, elderly care and special service housing in accordance with LSS.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/shvtyw5hqgjpyw5sawfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-09 13:18:35.426899",
+    "disclosedDate": "2023-05-09 13:18:35.426929"
+  }
+}

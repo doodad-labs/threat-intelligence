@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-653-276A3F",
+  "type": "ransomware-incident",
+  "title": "North Coast Petroleum ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "North Coast Petroleum",
+    "domain": "ncp.com.au",
+    "country": "AU",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 71500000000,
+    "description": "North Coast Petroleum (founded 1999) provide reliable and efficient delivery of a range of petroleum and oil products throughout the East Coast of Australia, particularly in regional areas.  Operating a fleet of modern vehicles, North Coast Petroleum service commercial, rural and retail customers. North Coast Petroleum corporate office is located in 97 Carrington St, Lismore, New South Wales, 2480, Australia and has 27 employees. The total amount of data leakage is 71.5 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9ydgggq29hc3qgugv0cm9szxvtqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-27 09:07:37.658536",
+    "disclosedDate": "2024-06-27 09:07:38.585877"
+  }
+}

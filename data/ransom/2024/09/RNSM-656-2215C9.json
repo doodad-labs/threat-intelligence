@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-2215C9",
+  "type": "ransomware-incident",
+  "title": "hanwa.co.th ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hanwa.co.th",
+    "domain": "hanwa.co.th",
+    "country": "TH",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hanwa Co., Ltd. (Thailand) is a subsidiary of Hanwa Co., Ltd., a Japan-based global trading company. Established to expand Hanwa’s operations in Southeast Asia, this firm specializes in trading a diverse range of products including steel, metals, food, petroleum, and chemicals. Leveraging its parent company's extensive network, Hanwa Thailand aims to provide comprehensive trading solutions and foster strong business relationships in the region.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfud2euy28udghaqnjhaw5daxbozxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-22 22:05:30.196434",
+    "disclosedDate": "2024-09-22 22:05:31.934092"
+  }
+}

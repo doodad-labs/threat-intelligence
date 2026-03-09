@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-657-092256",
+  "type": "ransomware-incident",
+  "title": "Wild Apple Graphics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wild Apple Graphics",
+    "domain": "wildapple.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Art licensing agency Wild Apple offers a diverse collection of trend-right, art and pattern collections for home and wall decor licensing. At Wild Apple, we're not just in the business of art—we're a full-service art licensing agent breathing life into spaces worldwide. Our clients count on us for an ever-evolving collection of compelling, market-ready artwork.https://wildapple.com/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/63ef0017242f54214215f650ed74a49b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lszcbbchbszsbhcmfwagljc0a4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-23 00:00:00.000000",
+    "disclosedDate": "2024-10-09 20:45:46.683645"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-262C62",
+  "type": "ransomware-incident",
+  "title": "Erler & Kalinowski ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Erler & Kalinowski",
+    "domain": "ekiconsult.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "dan0n",
+    "name": "dAn0n",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "The total size of stolen information is 1TB. This leak contains corporate information of the company: Financial, legal, information on employees and partners. Information on clients was also received:",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6df7f8f1de8044809f17fd3748d4b95a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxjszxigjiblywxpbm93c2tpqgrbbjbu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-26 00:00:00.000000",
+    "disclosedDate": "2024-04-26 10:10:05.752054"
+  }
+}

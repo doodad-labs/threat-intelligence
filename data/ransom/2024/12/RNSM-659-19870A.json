@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-19870A",
+  "type": "ransomware-incident",
+  "title": "CK Technology Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CK Technology Group",
+    "domain": "cktechnology.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 350000000000,
+    "description": "Status: 3d 6h 35m 32s - Size Data: 350 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bc9cd25c56661979f9cb1e2114e5fcf2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0sgvgvjag5vbg9nesbhcm91cebjawnhzgezmzax",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-08 00:00:00.000000",
+    "disclosedDate": "2024-12-19 09:02:43.226003"
+  }
+}

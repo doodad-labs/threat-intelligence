@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-20FB66",
+  "type": "ransomware-incident",
+  "title": "Energy Capital Credit Union (eccu.net) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Energy Capital Credit Union (eccu.net)",
+    "domain": "eccu.net",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/987cb7633fe747ef19e98c658653880f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw5lcmd5ienhcgl0ywwgq3jlzgl0ifvuaw9uichly2n1lm5ldclazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-19 00:00:00.000000",
+    "disclosedDate": "2024-12-20 04:21:26.459220"
+  }
+}

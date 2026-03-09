@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-654-29A05E",
+  "type": "ransomware-incident",
+  "title": "True Blue Environmental ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "True Blue Environmental",
+    "domain": "trueblueenvironmental.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "True Blue Environmental Services is a full-service environmental and constructio...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/da8595abfb2bf98bee7abaa364b8851c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhj1zsbcbhvlievudmlyb25tzw50ywxabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-16 00:00:00.000000",
+    "disclosedDate": "2024-07-29 05:54:31.924106"
+  }
+}

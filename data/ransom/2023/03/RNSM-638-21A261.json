@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-21A261",
+  "type": "ransomware-incident",
+  "title": "roslevauto.dk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "roslevauto.dk",
+    "domain": "roslevauto.dk",
+    "country": "DK",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Roslev Auto, Auto- & Traktorservice, is a reputable company that has sold, repaired and serviced cars and tractors in Roslev and the surrounding area since 1971.Behind Roslev Auto stands Kjeld Pedersen, who has been the owner and manager of the wor...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm9zbgv2yxv0by5ka0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-21 10:37:00.000000",
+    "disclosedDate": "2023-03-21 11:09:43.883919"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-664-06751A",
+  "type": "ransomware-incident",
+  "title": "Paycor ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Paycor",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1990, Paycor is a human capital management company that provides HR and payroll technology …",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugf5y29yqfnpbgvudfjhbnnvbudyb3vw",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-19 21:28:44.069227",
+    "disclosedDate": "2025-05-06 18:15:54.631655"
+  }
+}

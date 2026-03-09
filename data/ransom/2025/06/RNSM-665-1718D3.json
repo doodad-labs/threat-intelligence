@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-1718D3",
+  "type": "ransomware-incident",
+  "title": "Clayton Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Clayton Construction",
+    "domain": "claytonconstruction.net",
+    "country": "",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Clayton Construction Company, Inc. is a leading general contractor in the southeast, boasting over forty years of experience in delivering high-quality construction services. Their extensive portfolio includes projects in various sectors such as industrial, healthcare, educational, and commercial spaces. The company is dedicated to building strong relationships with clients through a comprehensive design/build process and excellent post-construction follow-up. Recognized as one of the fastest-growing companies in South Carolina, Clayton Construction prioritizes safety, quality, and innovative technology in project execution.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9c6cc0201c2ce4f67e167a8c1ed2ffe6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2xhexrvbibdb25zdhj1y3rpb25azhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-17 19:37:27.299831",
+    "disclosedDate": "2025-06-17 20:18:35.307578"
+  }
+}

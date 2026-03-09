@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-139487",
+  "type": "ransomware-incident",
+  "title": "Sercomm ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sercomm",
+    "domain": "sercomm.com",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Taiwan - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fce59ff694cc7ed13cad80936d8c4287.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vyy29tbubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-13 14:16:00.000000",
+    "disclosedDate": "2024-11-13 14:44:43.997014"
+  }
+}

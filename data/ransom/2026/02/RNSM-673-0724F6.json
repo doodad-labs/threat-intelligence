@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-0724F6",
+  "type": "ransomware-incident",
+  "title": "KLMEQUITIES.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KLMEQUITIES.COM",
+    "domain": "klmequities.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a6acaa45c218e0644dee9c5151bddc28.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0xnrvfvsvrjrvmuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 20:48:06.906178",
+    "disclosedDate": "2026-02-07 20:48:18.339164"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-212FAB",
+  "type": "ransomware-incident",
+  "title": "Bindi SpA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bindi SpA",
+    "country": "IT",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "Bindi SpA is headquartered in Italy. The Company's line of business includes the manufacturing of concrete products from a combination of cement and aggregate.We are ready to upload 30 GB of corporate documents such as: contact numbers and e-mail addresses of customers, financial data (audits, payment details, reports), corporate NDA’s, employee docs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmluzgkgu3bbqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-21 00:00:00.000000",
+    "disclosedDate": "2025-04-21 14:44:33.864539"
+  }
+}

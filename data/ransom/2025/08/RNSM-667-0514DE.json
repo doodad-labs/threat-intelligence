@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-0514DE",
+  "type": "ransomware-incident",
+  "title": "U.S. Battery ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "U.S. Battery",
+    "domain": "usbattery.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "pear",
+    "name": "pear",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since 1926, U.S. Battery has been designing and manufacturing the world's highest quality deep cycle batteries",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d8c07abb641dc9e939bd6d68b4bfbf29.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vs5tlibcyxr0zxj5qhblyxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-21 00:00:00.000000",
+    "disclosedDate": "2025-08-05 21:34:01.881345"
+  }
+}

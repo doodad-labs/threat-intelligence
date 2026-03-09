@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-642-029DED",
+  "type": "ransomware-incident",
+  "title": "blowtherm.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "blowtherm.it",
+    "domain": "blowtherm.it",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Blowtherm - Business InformationIndustrial Machinery & Equipment · Italy ·",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6a8ab19f0a6412efd27d8ec0cbe17b23.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymxvd3rozxjtlml0qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://mattinopadova.gelocal.it/padova/cronaca/2023/06/20/news/blowtherm_hacker_padova_peghin-12867727/?__vfz=medium%3dsharebar",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-02 17:12:00.000000",
+    "disclosedDate": "2023-07-02 17:54:28.052916"
+  }
+}

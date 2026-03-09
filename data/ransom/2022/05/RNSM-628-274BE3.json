@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-628-274BE3",
+  "type": "ransomware-incident",
+  "title": "Florida Department of Veterans' Affairs ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Florida Department of Veterans' Affairs",
+    "domain": "floridavets.org",
+    "country": "US",
+    "sector": "Others"
+  },
+  "actor": {
+    "id": "quantum",
+    "name": "quantum",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Connecting veterans to federal and state benefits they have earned.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmxvcmlkysbezxbhcnrtzw50ig9mifzldgvyyw5zjybbzmzhaxjzqhf1yw50dw0=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-05-27 16:25:59.084685",
+    "disclosedDate": "2022-05-27 16:25:59.084685"
+  }
+}

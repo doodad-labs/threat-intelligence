@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-21D2FD",
+  "type": "ransomware-incident",
+  "title": "MASHBURN CONSTRUCTION ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MASHBURN CONSTRUCTION",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 162000000000,
+    "description": "Mashburn Construction is a full-service construction company providing construction management, design-build, preconstruction and general contracting services. We are ready to upload more than 162 GB of essential corporate documents such as: personal documents of employees, financial data (audits, payment details, reports), projects, a lot of confidential agreements, corporate NDA’s, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tuftsejvuk4gq09ou1rsvunusu9oqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-21 00:00:00.000000",
+    "disclosedDate": "2025-04-21 15:09:41.881665"
+  }
+}

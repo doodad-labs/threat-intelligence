@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-648-114353",
+  "type": "ransomware-incident",
+  "title": "Vincentz Network ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vincentz Network",
+    "domain": "vincentz.de",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 70000000000,
+    "description": "Vincentz Network is in partnership with different industries in the national and international markets. These include geriatric care, the paint industry, the automotive industry, furniture production, painting technology, technical dealers and ambitious woodworkers. We have 70GB of data that will be uploaded here to share with you. You will find there numerous detailed financial and operational documents. We will also upload a few databases with HR and accounting files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmluy2vudhogtmv0d29ya0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-11 16:16:46.795795",
+    "disclosedDate": "2024-01-11 16:16:46.854326"
+  }
+}

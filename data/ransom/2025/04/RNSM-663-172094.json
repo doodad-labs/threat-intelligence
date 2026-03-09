@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-172094",
+  "type": "ransomware-incident",
+  "title": "Compliance Consulting Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Compliance Consulting Group",
+    "domain": "compliancecg.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Compliance Consulting Group (US)",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tcgxpyw5jzsbdb25zdwx0aw5niedyb3vwqg5pz2h0c3bpcmu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-11 00:00:00.000000",
+    "disclosedDate": "2025-04-17 23:42:10.444915"
+  }
+}

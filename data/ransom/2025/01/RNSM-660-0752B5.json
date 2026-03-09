@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-0752B5",
+  "type": "ransomware-incident",
+  "title": "IRO PARIS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IRO PARIS",
+    "domain": "iroparis.com",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "IRO Paris is a luxury brand known for its modern and elegant designs. It offers stylish clothing for men and women, including outerwear, dresses and accessories, with an emphasis on high-quality materials and sophisticated style. The brand combines Parisian elegance with modern trends.https://www.iroparis.com/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d8af3f03b12cf87ce76eab8dc257b18d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/svjpifbbukltqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-26 00:00:00.000000",
+    "disclosedDate": "2025-01-07 09:27:27.140500"
+  }
+}

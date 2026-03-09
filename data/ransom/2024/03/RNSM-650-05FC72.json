@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-05FC72",
+  "type": "ransomware-incident",
+  "title": "sunwave.com.cn ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sunwave.com.cn",
+    "domain": "sunwave.com.cn",
+    "country": "CN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "2023-08-07 [公司新闻] 倒计时3天丨Sunwave三十周年庆典暨全球合作伙伴大会，即将绽放精彩! 关于三维 三维通信股份有限公司是国际主流的无线通信解决方案供应商，行业公认的无线信号覆盖、无线专网通信、无线信号安全、卫星通信服务领域的专家。",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bdcf89645a7248ad8107e40212f5eba2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3vud2f2zs5jb20uy25abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-25 00:00:00.000000",
+    "disclosedDate": "2024-03-05 17:51:08.393127"
+  }
+}

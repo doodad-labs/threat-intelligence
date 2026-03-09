@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-639-123200",
+  "type": "ransomware-incident",
+  "title": "Petaluma Health Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Petaluma Health Center",
+    "domain": "phealthcenter.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "karakurt",
+    "name": "karakurt",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 490000000000,
+    "description": "The Petaluma Health Center is a Federally Qualified Health Center that strives to care for the \"whole\" individual by providing excellent care for all patients, regardless of one's ability to pay for services. We do not know whether their patients personal and medical information was stored unsafely because of their disability to pay but we have almost 490GB of this Health Center on our servers. Along with that we've obtained a good amount of financial information (numerous declarations, payment docs, tax forms ...) and personal employees information (SSNs, passports, phone numbers, addresses etc).That is going to be interesting.",
+    "claimed_data_types": [
+      "phone-numbers",
+      "addresses",
+      "government-identifiers",
+      "passport-numbers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugv0ywx1bwegsgvhbhroienlbnrlckbryxjha3vyda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.jdsupra.com/legalnews/petaluma-health-center-files-official-5515492/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-12 16:49:51.692625",
+    "disclosedDate": "2023-04-12 16:49:51.692647"
+  }
+}

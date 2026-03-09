@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-642-20A520",
+  "type": "ransomware-incident",
+  "title": "Americold ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Americold",
+    "domain": "americold.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AmeriCold Logistics LLC is a major temperature controlled warehousing and transportation company based in Atlanta, Georgia, United States. It is in the business of modern commercialized temperature-controlled warehousing for the storage of perishable goods.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7777154a61827285123726a25cc3f9ae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1lcmljb2xkqgnhy3r1cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.seafoodsource.com/news/business-finance/cyberattack-hits-a-third-of-americold-s-facilities",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-20 12:46:04.893761",
+    "disclosedDate": "2023-07-20 12:46:04.893818"
+  }
+}

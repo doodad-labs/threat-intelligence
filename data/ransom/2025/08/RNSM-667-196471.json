@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-196471",
+  "type": "ransomware-incident",
+  "title": "batemangroundworks.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "batemangroundworks.co.uk",
+    "domain": "batemangroundworks.co.uk",
+    "country": "GB",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bateman Groundworks Ltd, headquartered in Norwich, East Anglia, is a leading civil engineering and groundworks contractor. Active since 1997, Bateman …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a55d3edee1202260461cf77f95e07033.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymf0zw1hbmdyb3vuzhdvcmtzlmnvlnvrqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-26 00:00:00.000000",
+    "disclosedDate": "2025-08-19 10:11:51.020057"
+  }
+}

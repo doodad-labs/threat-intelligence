@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-0606D6",
+  "type": "ransomware-incident",
+  "title": "USClaims ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "USClaims",
+    "domain": "usclaims.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Operator of a pre-settlement financing firm intended to provide financial assistance during lawsuits. …",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vvndbgfpbxnau2lszw50umfuc29tr3jvdxa=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-13 04:29:48.967466",
+    "disclosedDate": "2025-05-06 18:17:10.931422"
+  }
+}

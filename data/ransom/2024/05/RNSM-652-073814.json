@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-073814",
+  "type": "ransomware-incident",
+  "title": "Chemring Group  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Chemring Group ",
+    "domain": "chemring.com",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 186780000000,
+    "description": "Chemring Group is a global business providing a range of advanced technology products and services to the aerospace, defence and security markets. Chemring Group corporate office is located in Roke Manor Old Salisbury Ln, Romsey, Hampshire, SO51 0ZN, United Kingdom and has 393 employees. The total amount of data leakage is 186.78 GB and include confidential documents, databases and solidworks design files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hlbxjpbmcgr3jvdxagqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-07 01:30:14.12345",
+    "disclosedDate": "2024-05-07 13:09:26.016614"
+  }
+}

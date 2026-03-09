@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-0437A5",
+  "type": "ransomware-incident",
+  "title": "Tipalti ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tipalti",
+    "domain": "tipalti.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tipalti is an accounting software financial technology business that provides accounts payable, procurement and global payments automation software for businesses.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e962383c724add05d9f5d17ec30400f9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vglwywx0aubhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-04 18:13:21.123456",
+    "disclosedDate": "2023-12-04 19:08:39.872720"
+  }
+}

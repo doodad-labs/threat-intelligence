@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-656-057895",
+  "type": "ransomware-incident",
+  "title": "Baird Mandalas Brockstedt LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Baird Mandalas Brockstedt LLC",
+    "domain": "bmbde.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 400000000000,
+    "description": "Baird Mandalas Brockstedt LLC is a Delaware based law firm. We ha ve obtrained 400gb of their files. Enormous number of personal cl ients data will be uploaded. Birth\\death certificates, passports, SSNs, court hearings, evidences and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfpcmqgtwfuzgfsyxmgqnjvy2tzdgvkdcbmtenaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-05 17:03:07.994109",
+    "disclosedDate": "2024-09-05 17:03:09.271528"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-263A1E",
+  "type": "ransomware-incident",
+  "title": "SIU.EDU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SIU.EDU",
+    "domain": "siu.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Southern Illinois University",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8efb9318f01d3934d05a6ab237c80049.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0lvlkvevubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:48:50.125533",
+    "disclosedDate": "2023-07-26 20:48:50.125557"
+  }
+}

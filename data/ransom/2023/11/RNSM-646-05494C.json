@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-05494C",
+  "type": "ransomware-incident",
+  "title": "ospedalecoq.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ospedalecoq.it",
+    "domain": "ospedalecoq.it",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "COQ - Omegna: Centro Ortopedico di Quadrante",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/07d65e3035a0c1169cbd69ec86a20b38.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b3nwzwrhbgvjb3euaxrabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-05 07:46:00.000000",
+    "disclosedDate": "2023-11-05 08:25:27.659178"
+  }
+}

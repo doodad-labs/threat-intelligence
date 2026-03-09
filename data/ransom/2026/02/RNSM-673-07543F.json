@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-07543F",
+  "type": "ransomware-incident",
+  "title": "LOGICALMICRO.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LOGICALMICRO.COM",
+    "domain": "logicalmicro.com",
+    "country": "GB",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6baab9536e30150015d847233020c8d1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/te9hsunbte1jq1jplknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 21:02:18.179818",
+    "disclosedDate": "2026-02-07 21:02:30.590625"
+  }
+}

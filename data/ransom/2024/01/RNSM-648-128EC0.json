@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-128EC0",
+  "type": "ransomware-incident",
+  "title": "Builcore ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Builcore",
+    "domain": "builcore.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Builcore is a Florida State certified general contracting firm that specializes in commercial, institutional, and high-end residential projects.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3d2335e7f792be8d5d37d0debf56eb83.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnvpbgnvcmvaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-12 18:47:32.123456",
+    "disclosedDate": "2024-01-12 19:12:41.242710"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-01FE09",
+  "type": "ransomware-incident",
+  "title": "The Seydel Companies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Seydel Companies",
+    "domain": "seydel.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifnlewrlbcbdb21wyw5pzxnacgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b1a10d3b-ec4b-43cd-8f81-6ab49c539758.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-23 00:00:00.000000",
+    "disclosedDate": "2025-05-01 20:21:02.436340"
+  }
+}

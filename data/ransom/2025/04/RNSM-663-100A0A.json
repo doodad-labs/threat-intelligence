@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-663-100A0A",
+  "type": "ransomware-incident",
+  "title": "sk.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sk.com",
+    "domain": "sk.com",
+    "country": "KR",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "Over 1 TB of files downloaded from their servers . Company has 48 hours to contact us before we publish the data . In the U.S., SK is investing in businesses and expanding our local operations in electric vehicle batteries, life sciences, tec            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9f571ef5524fe5c162d5dd6accc71e16.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2suy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-10 00:00:00.000000",
+    "disclosedDate": "2025-04-10 11:11:12.015814"
+  }
+}

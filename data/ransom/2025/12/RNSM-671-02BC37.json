@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-02BC37",
+  "type": "ransomware-incident",
+  "title": "n*w*****.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "n*w*****.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "Ransom: 200gb220k",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c472f70633a05f0205e0dec44ab8a5ce.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bip3kioqkiouy29tqgrldm1hbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-02 13:12:44.108751",
+    "disclosedDate": "2025-12-02 13:13:20.318926"
+  }
+}

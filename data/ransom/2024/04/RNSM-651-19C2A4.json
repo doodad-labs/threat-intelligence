@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-19C2A4",
+  "type": "ransomware-incident",
+  "title": "azdel.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "azdel.com",
+    "domain": "azdel.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "Hanwha continues to grow by quickly anticipating and responding to rapidly changing business environments with a balanced business portfolio that includes aerospace, energy & materials, finance and retail & services. As of 2022, we are the seventh largest business enterprise in South Korea and a Fortune Global 500 company. Our affiliates are becoming global leaders in their arenas by strengthening core competitiveness and securing future growth engines based on sound financial structures. For more than 70 years, Hanwha has led economic growth and helped change the world with ceaseless innovation. Now, we are building on our achievements in business areas including aerospace, energy & materials, finance and retail & services. Going forward, we will continue to embrace bold challenges that offer people more prosperous lives, more secure communities and a more sustainable future for the planet.SITE: www.azdel.com Address : Technology Center and Executive Offices 2000 Enterprise Drive Forest, VA 24551 USAALL DATA SIZE: ~ 1 Tb 1. Company data 2. Contracts and agreements 3. Projects, Drawings (.dwg) & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a671efa5fd3b5f63c0f18ede7d315d71.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxpkzwwuy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-26 00:00:00.000000",
+    "disclosedDate": "2024-04-19 12:41:40.619350"
+  }
+}

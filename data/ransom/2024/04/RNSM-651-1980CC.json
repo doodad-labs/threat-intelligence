@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-1980CC",
+  "type": "ransomware-incident",
+  "title": "nirolaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nirolaw.com",
+    "domain": "nirolaw.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Chicago-based intellectual property lawyers representing artists, inventors, entrepreneurs and business people.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/df25c2b960ae6fd4d896884a6fc80087.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmlyb2xhdy5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-19 11:19:00.000000",
+    "disclosedDate": "2024-04-19 09:36:36.236527"
+  }
+}

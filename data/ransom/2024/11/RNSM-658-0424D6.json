@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-0424D6",
+  "type": "ransomware-incident",
+  "title": "www.schweiker.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.schweiker.de",
+    "domain": "schweiker.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[IA generated] Schweiker is a German company specializing in high-quality windows and doors. Known for their precision engineering and innovative designs, they offer a range of products that enhance energy efficiency and security. Schweiker combines traditional craftsmanship with modern technology to deliver durable and aesthetically pleasing solutions for residential and commercial buildings.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/353843f67b181586c8a7e042cf0530dd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnjahdlawtlci5kzubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-04 15:46:28.000000",
+    "disclosedDate": "2024-11-04 17:30:46.530481"
+  }
+}

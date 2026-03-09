@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-651-198E73",
+  "type": "ransomware-incident",
+  "title": "yaleappliance.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "yaleappliance.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Yale Appliance",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/369060236d43ed23dee147da90d9d500.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ewfszwfwcgxpyw5jzs5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-10 00:00:00.000000",
+    "disclosedDate": "2024-04-19 12:38:02.105901"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-27C23C",
+  "type": "ransomware-incident",
+  "title": "TPGXML.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TPGXML.COM",
+    "domain": "tpgxml.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] TPGXML.COM is an IT provider known for its extensive use and integration of XML technology. It is a pioneer in the field, offering solutions for organizations to effectively manage their data across different platforms. TPGXML.COM specializes in modern database management, software development, application integration, and data interchange. The company leverages XML technology to enhance data transfer, storage and manipulation efficiency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfbhwe1mlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:34:27.013921",
+    "disclosedDate": "2025-02-27 17:34:33.759930"
+  }
+}

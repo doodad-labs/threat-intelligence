@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-27F2EF",
+  "type": "ransomware-incident",
+  "title": "www.careco.se ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.careco.se",
+    "domain": "careco.se",
+    "country": "SE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Careco is a Swedish company specializing in assistive technology and mobility solutions. They provide a wide range of products designed to enhance the quality of life for individuals with mobility challenges. Their offerings include wheelchairs, scooters, and various home aids. Careco focuses on innovation, quality, and customer service to ensure their products meet the specific needs of their users.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6591170ad649ff7ae772440d6f79c76c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnhcmvjby5zzubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-05 00:00:00.000000",
+    "disclosedDate": "2024-09-27 00:15:56.961481"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-0771EA",
+  "type": "ransomware-incident",
+  "title": "A****N ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "A****N",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "flocker",
+    "name": "flocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 145000000000,
+    "description": "To the Firm of A****N, We have gained unauthorized access to A***N.com and have gained highly confidential data, including 145GB […]",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1e4ce6888d1d12014e8442f4ffa6ecc7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qsoqkipoqgzsb2nrzxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-07 00:00:00.000000",
+    "disclosedDate": "2024-08-07 16:43:01.183306"
+  }
+}

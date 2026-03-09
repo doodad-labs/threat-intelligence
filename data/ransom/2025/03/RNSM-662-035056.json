@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-035056",
+  "type": "ransomware-incident",
+  "title": "usarice.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "usarice.com",
+    "domain": "usarice.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "kairos",
+    "name": "kairos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "usa - USA Rice",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0fc71712e46cf554677a84fd103eab9a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dxnhcmljzs5jb21aa2fpcm9z",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-03 21:27:31.458967",
+    "disclosedDate": "2025-03-03 21:28:37.433410"
+  }
+}

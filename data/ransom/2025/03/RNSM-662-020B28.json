@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-662-020B28",
+  "type": "ransomware-incident",
+  "title": "Ganong Bros ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ganong Bros",
+    "domain": "ganong.com",
+    "country": "CA",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Canada",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/65393e82cdbd9d2f6cf4857ccd253ed4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2fub25niejyb3nacgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.country94.ca/2025/03/14/ganong-in-st-stephen-hit-by-ransomware-cyber-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-02 19:57:42.618624",
+    "disclosedDate": "2025-03-02 19:59:17.613320"
+  }
+}

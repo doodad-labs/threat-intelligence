@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-06072C",
+  "type": "ransomware-incident",
+  "title": "briedis.lt ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "briedis.lt",
+    "domain": "briedis.lt",
+    "country": "LT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Briedis.lt is a Lithuanian company specializing in educational services, particularly in the field of mathematics. They offer a range of online courses and learning materials designed to help students improve their mathematical skills and prepare for exams. The platform is user-friendly and features interactive content, practice exercises, and personalized feedback to enhance the learning experience.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ef6d92d14a6d07a88fc072e3bd1f8f2c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjpzwrpcy5sdebyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-05 18:49:01.000000",
+    "disclosedDate": "2024-09-06 22:37:17.880742"
+  }
+}

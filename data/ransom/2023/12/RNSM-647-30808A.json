@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-647-30808A",
+  "type": "ransomware-incident",
+  "title": "eagersautomotive.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "eagersautomotive.com.au",
+    "domain": "eagersautomotive.com.au",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Eagers Automotive Limited is the leading automotive retail group in Australia and New Zealand, with a long and proud history of 110 years.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bead8953fa6b24ea68a14591da54245e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwfnzxjzyxv0b21vdgl2zs5jb20uyxvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://thewest.com.au/technology/cyber-security/listed-car-retailer-eagers-automotive-assesses-damage-from-cyber-attack-c-13036954",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-23 00:00:00.000000",
+    "disclosedDate": "2023-12-30 07:08:35.799132"
+  }
+}

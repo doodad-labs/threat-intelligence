@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-647-0792A5",
+  "type": "ransomware-incident",
+  "title": "Greater Richmond Transit ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Greater Richmond Transit",
+    "domain": "ridegrtc.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/caba6faf4b259f91a0292ec8505e3a13.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jlyxrlcibsawnobw9uzcbucmfuc2l0qhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://therecord.media/central-va-transit-system-cyberattack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-22 00:00:00.000000",
+    "disclosedDate": "2023-12-07 19:07:15.831525"
+  }
+}

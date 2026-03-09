@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-652-073768",
+  "type": "ransomware-incident",
+  "title": "emainc.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "emainc.net",
+    "domain": "emainc.net",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 280000000000,
+    "description": "280gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b3092442d8a85dd010ae17a7f876eefc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw1haw5jlm5ldebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-16 00:00:00.000000",
+    "disclosedDate": "2024-05-07 10:45:55.323263"
+  }
+}

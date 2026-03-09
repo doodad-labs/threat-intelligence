@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-30AE36",
+  "type": "ransomware-incident",
+  "title": "OB GYN Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OB GYN Associates",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "OB/GYN Associates offers comprehensive women's healthcare from obstetrics and pregnancy to gynecological care in Reno, Nevada.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2dd5ad7174d80d1e4068d9b5f9c7309f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t0igr1loiefzc29jawf0zxnaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-29 23:59:00.000000",
+    "disclosedDate": "2025-08-30 12:23:12.011695"
+  }
+}

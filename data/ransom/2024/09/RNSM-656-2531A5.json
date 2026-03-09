@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-2531A5",
+  "type": "ransomware-incident",
+  "title": "Hairstore ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hairstore",
+    "country": "NO",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 52300000000,
+    "description": "Hairstore supplier of consumables and equipment for the hairdresser. Hairstore corporate office is located in 134 Elveveien, Larvik, Vestfold, 3271, Norway. The total amount of data leakage is 52.30 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgfpcnn0b3jlqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-23 17:08:25.000000",
+    "disclosedDate": "2024-09-25 13:31:13.718153"
+  }
+}

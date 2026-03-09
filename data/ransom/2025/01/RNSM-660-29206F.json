@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-29206F",
+  "type": "ransomware-incident",
+  "title": "boginmunns.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "boginmunns.com",
+    "domain": "boginmunns.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 02.02.2025.At Bogin, Munns & Munns, we are committed to helping Central Floridians recover from loss and protect their best interests. We are always working to help our clients unde            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cb86d8adb40c093ab995f9450856b3b5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym9naw5tdw5ucy5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-15 00:00:00.000000",
+    "disclosedDate": "2025-01-29 08:13:56.280126"
+  }
+}

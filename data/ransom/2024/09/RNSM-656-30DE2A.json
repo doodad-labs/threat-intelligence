@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-30DE2A",
+  "type": "ransomware-incident",
+  "title": "BELL DATA, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BELL DATA, Inc",
+    "domain": "belldata.com",
+    "country": "JP",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BELL DATA, Inc - the company provides rental services for server equipment, hosting services, integration, etc. Head officeis is located in Shinjuku Mitsui Bld.49F, 2-1-1, Nishishinjuku, Shinjuku-ku, Tokyo, 163-0449, Japan.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkvmtcbeqvrblcbjbmnabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-30 09:54:55.000000",
+    "disclosedDate": "2024-09-30 18:48:42.311546"
+  }
+}

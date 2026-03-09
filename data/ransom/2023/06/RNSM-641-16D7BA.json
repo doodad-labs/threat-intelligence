@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-16D7BA",
+  "type": "ransomware-incident",
+  "title": "AON.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AON.COM",
+    "domain": "aon.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Better Decisions - Commercial Risk - Health - Reinsurance - Wealth - Aon",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1b627b36c9ca0f05ad143d9ec3e4aa51.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qu9olknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-16 23:03:06.095007",
+    "disclosedDate": "2023-06-16 23:03:06.095039"
+  }
+}

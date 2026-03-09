@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-650-15E929",
+  "type": "ransomware-incident",
+  "title": "South St Paul Public Schools ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "South St Paul Public Schools",
+    "domain": "sspps.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "South St Paul Public Schools is a company that operates in the Education industry. It employs 251-500 people and has $25M-$50M of revenue.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/18b467819b35dabcaff2a32c66712a65.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u291dgggu3qgugf1bcbqdwjsawmgu2nob29sc0bibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.twincities.com/2024/03/06/south-st-paul-public-schools-investigating-potential-cybersecurity-threat/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-15 11:48:50.477195",
+    "disclosedDate": "2024-03-15 11:48:50.477218"
+  }
+}

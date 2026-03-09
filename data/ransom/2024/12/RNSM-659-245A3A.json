@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-245A3A",
+  "type": "ransomware-incident",
+  "title": "Good Neighbors Credit Union ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Good Neighbors Credit Union",
+    "domain": "goodneighborscu.com",
+    "country": "CA",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Good Neighbors Credit Union is a financial service based banking agency that provides loans, insurance to various financial services.We are ready to upload a lot of private corporate documents including: inside financial information, contact numbers and e-mail addresses of customers and employees, SSNs, HR documents, family information,  NDAs, driver licenses etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r29vzcbozwlnagjvcnmgq3jlzgl0ifvuaw9uqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-09 00:00:00.000000",
+    "disclosedDate": "2024-12-24 12:08:06.208148"
+  }
+}

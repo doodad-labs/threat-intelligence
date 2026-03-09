@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-148B59",
+  "type": "ransomware-incident",
+  "title": "Midland Turbo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Midland Turbo",
+    "domain": "midlandturbo.com",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Industrial Machinery & EquipmentUnited Kingdom · < 25 EmployeesMidland Turbo has a 7000 sq ft turbo reconditioning facility.Revenue < $5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twlkbgfuzcbudxjib0bfbervcmfkbw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-14 17:40:40.742745",
+    "disclosedDate": "2024-12-14 17:40:41.071761"
+  }
+}

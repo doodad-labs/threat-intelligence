@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19BB82",
+  "type": "ransomware-incident",
+  "title": "leggett.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "leggett.com",
+    "domain": "leggett.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "leggett.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7c920ed0aef4c4274cb424be410d2fbe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgvnz2v0dc5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-19 11:45:28.867629",
+    "disclosedDate": "2024-04-19 11:45:28.867629"
+  }
+}

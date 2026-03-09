@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-21A3FC",
+  "type": "ransomware-incident",
+  "title": "Zimmerei Buder ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Zimmerei Buder",
+    "domain": "zimmerei-buder.at",
+    "country": "AT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Zimmerei Buder is a carpentry company specializing in timber construction and roofing services. Known for its craftsmanship and attention to detail, the company offers a range of services including building wooden structures, renovating roofs, and creating custom woodwork solutions. With a focus on quality and sustainability, Zimmerei Buder serves both residential and commercial clients, ensuring projects are completed to high standards.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/95776a7d049693f482283160173d1599.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wmltbwvyzwkgqnvkzxjaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-21 17:43:50.756635",
+    "disclosedDate": "2024-11-21 17:43:54.433875"
+  }
+}

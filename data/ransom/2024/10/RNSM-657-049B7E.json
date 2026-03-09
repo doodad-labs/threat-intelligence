@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-049B7E",
+  "type": "ransomware-incident",
+  "title": "Fursan Travel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fursan Travel",
+    "domain": "fursan.com.sa",
+    "country": "SA",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The safety and convenience of our customers is our priority.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/96ddceb9779bf8a670425652c025a9fd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnvyc2fuifryyxzlbebyyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-06 00:00:00.000000",
+    "disclosedDate": "2024-10-04 12:22:37.682146"
+  }
+}

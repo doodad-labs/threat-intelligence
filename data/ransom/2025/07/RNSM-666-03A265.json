@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-666-03A265",
+  "type": "ransomware-incident",
+  "title": "vresystems.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "vresystems.com",
+    "domain": "vresystems.com",
+    "country": "GB",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "If the company does not contact us by 09.07.2025, the data will be publishedFull file directory here: [coming soon]-- Files of interest --Employee information: name, DOB, SSN, address, payroll, fa            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dnjlc3lzdgvtcy5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-25 00:00:00.000000",
+    "disclosedDate": "2025-07-03 01:50:33.140263"
+  }
+}

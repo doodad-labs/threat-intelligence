@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-14FB43",
+  "type": "ransomware-incident",
+  "title": "AUTOCARES CARRETERO ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AUTOCARES CARRETERO",
+    "domain": "autocarescarretero.com",
+    "country": "ES",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AUTOCARES CARRETERO",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvvut0nbukvtienbuljfvevst0buawdodhnwaxjl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-14 07:20:13.740319",
+    "disclosedDate": "2026-01-14 07:20:16.265516"
+  }
+}

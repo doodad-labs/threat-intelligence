@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-671-23FAFC",
+  "type": "ransomware-incident",
+  "title": "Accela ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Accela",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Accela is a leading provider of cloud-based productivity and civic engagement applications for government agencies. Their solutions, including permitting, licensing, code enforcement, and public health solutions, are designed to streamline workflow, automate processes, and provide citizen access to various government services. Accela's software platform powers over 2000 governments worldwide.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnjzwxhqgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-23 17:45:31.356864",
+    "disclosedDate": "2025-12-23 17:45:50.659113"
+  }
+}

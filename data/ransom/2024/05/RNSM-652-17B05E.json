@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-652-17B05E",
+  "type": "ransomware-incident",
+  "title": "orga-soft.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "orga-soft.de",
+    "domain": "orga-soft.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 650000000000,
+    "description": "Software Development  - SQL BASES AND SOURCES 650 GB, LINK WILL BE AVAILABLE SOON",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3ef24ce6f272d182af1f406661626730.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b3jnys1zb2z0lmrlqgvtymfyz28=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-17 08:24:30.168818",
+    "disclosedDate": "2024-05-17 18:31:38.174704"
+  }
+}

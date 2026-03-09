@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-144AE1",
+  "type": "ransomware-incident",
+  "title": "Benson Kearley IFG - Insurance Brokers & Financial Advisors ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Benson Kearley IFG - Insurance Brokers & Financial Advisors",
+    "domain": "bkifg.com",
+    "country": "CA",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Benson Kearley IFG offers personal and commercial insurance, financial services, and specialty insurance across Ontario.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvuc29uietlyxjszxkgsuzhic0gsw5zdxjhbmnliejyb2tlcnmgjibgaw5hbmnpywwgqwr2axnvcnnaymlhbmxpyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://bkifg.com/contact/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-12 00:00:00.000000",
+    "disclosedDate": "2024-08-14 11:13:08.029598"
+  }
+}

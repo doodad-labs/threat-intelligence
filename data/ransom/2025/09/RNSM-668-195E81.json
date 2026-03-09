@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-668-195E81",
+  "type": "ransomware-incident",
+  "title": "Jones Soda (Stock Symbol: JSDA) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jones Soda (Stock Symbol: JSDA)",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 66000000000,
+    "description": "Jones Soda Co.® (CSE: JSDA, OTCQB: JSDA) is a leading craft soda manufacturer with a growing line of cannabis products.We are going to upload 66gb corporate data. Employee information (complete name, DOB, address, emails, phones, SSNs and so on), financials, payment details, credit cards details, numerous contracts and agreements (with PepsiCo and others), NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sm9uzxmgu29kysaou3rvy2sgu3ltym9soibku0rbkubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-19 00:00:00.000000",
+    "disclosedDate": "2025-09-19 16:53:15.807080"
+  }
+}

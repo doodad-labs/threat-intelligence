@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-13EA1F",
+  "type": "ransomware-incident",
+  "title": "ADULLACT ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ADULLACT",
+    "domain": "adullact.net",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: Omydoo, Ayomi, ADULLACT- ADULLACT is a French association that develops and promotes a repository of free software for local authorities and administrations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8ef35b0430af76202e2531ac2163fb83.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qurvtexbq1razm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-13 21:12:16.238093",
+    "disclosedDate": "2025-02-13 21:12:21.104507"
+  }
+}

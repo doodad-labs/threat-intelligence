@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-18C715",
+  "type": "ransomware-incident",
+  "title": "enovationcontrols.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "enovationcontrols.com",
+    "domain": "enovationcontrols.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "first part of dataEnovation Controls operates today as a stand-alone subsidiary of Helios Technologies [NASDAQ: HLIO] (formerly Sun Hydraulics Corp.). With an internationally diverse team of over 300 employees, we serve customers around the world...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a4f8fd1e45d03c6f02839659f6617679.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw5vdmf0aw9uy29udhjvbhmuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-18 16:09:00.000000",
+    "disclosedDate": "2023-05-18 16:50:38.423040"
+  }
+}

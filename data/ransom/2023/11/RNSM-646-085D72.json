@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-646-085D72",
+  "type": "ransomware-incident",
+  "title": "sheehyware.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sheehyware.com",
+    "domain": "sheehyware.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "We have more than 1.5 TB of sensitive data about your company, customer files, personal data of employees, your Coyote database and much more.  If I were you, I wouldn’t waste time and follow the link in the file, otherwise we will publish these files and then you will have to close your company, because there will be a huge number of lawsuits against you.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/25bcf10c3cf5f5808547f12f3813e363.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2hlzwh5d2fyzs5jb21aywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-08 14:37:45.123456",
+    "disclosedDate": "2023-11-08 16:00:13.040419"
+  }
+}

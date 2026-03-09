@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-653-178226",
+  "type": "ransomware-incident",
+  "title": "pkaufmann.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pkaufmann.com",
+    "domain": "pkaufmann.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 850000000000,
+    "description": "P/Kaufmann Fabrics is the premier home furnishings textile converter, having supplied our customers with expertly-crafted designs for over sixty five years. We offer a wide range of stocked products including decorative prints, plains, textures, embroideries, jacquards, velvets, sheers, and performance fabrics.SITE: www.pkaufmann.com Address : 3 Park Avenue New York, NY 10016 USA Tel.# 877.292.8375ALL DATA SIZE: ≈850gb 1. Accounting 2. HR, Users 3. Scans, Confidential… & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1e062270f098fdc7df09d61e71480399.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgthdwztyw5ulmnvbubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-24 00:00:00.000000",
+    "disclosedDate": "2024-06-17 16:12:54.578515"
+  }
+}

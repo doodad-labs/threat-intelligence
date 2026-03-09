@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-10E6A5",
+  "type": "ransomware-incident",
+  "title": "CXTSOFTWARE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CXTSOFTWARE.COM",
+    "domain": "cxtsoftware.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] CXT Software is a leading provider of technology solutions dedicated to the courier and logistics industry. They provide delivery software solutions to last-mile carriers and shippers which includes real-time dispatch, order entry, tracking, scheduling, and routing solutions. Their service suite includes a range of mobile and web applications aimed at enhancing productivity, control, and visibility in logistic operations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/56e4c94e0fc62482d0a030bff2daa172.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1huu09gvfdbukuuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 14:08:34.671482",
+    "disclosedDate": "2025-02-10 14:09:45.092941"
+  }
+}

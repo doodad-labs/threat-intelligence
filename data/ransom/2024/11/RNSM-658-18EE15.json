@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-18EE15",
+  "type": "ransomware-incident",
+  "title": "Mantinga ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mantinga",
+    "domain": "mantinga.lt",
+    "country": "LT",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Lithuania - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bd59554f24812cc92f3a4b0689440b93.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfudgluz2faahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-17 22:52:31.000000",
+    "disclosedDate": "2024-11-18 00:07:58.485340"
+  }
+}

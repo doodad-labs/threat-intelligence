@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-08FE3F",
+  "type": "ransomware-incident",
+  "title": "Tracker de Colombia SAS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tracker de Colombia SAS",
+    "domain": "trackerdecolombia.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The organization, which was founded in 1994 and working in 9 countries of Latin America, which develops, designs, develops, produces and sells products, specialized software, services and comprehensive solutions in the field of security, monitoring, determination of location, identification, remote management and relational marketing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ef69b14981c2067dd0d4e9e1248ddfe5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjhy2tlcibkzsbdb2xvbwjpysbtqvnabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-07 16:13:06.12345",
+    "disclosedDate": "2023-07-08 15:04:25.738074"
+  }
+}

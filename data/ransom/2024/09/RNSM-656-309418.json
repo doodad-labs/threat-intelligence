@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-656-309418",
+  "type": "ransomware-incident",
+  "title": "Travel Alberta ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Travel Alberta",
+    "domain": "travelalberta.com",
+    "country": "CA",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 799800000000,
+    "description": "Travel Alberta ( founded in 2009 ),is a tourism marketing organization for the province of Alberta. Travel Alberta corporate office is located in 400-1601 9 Ave SE, Calgary, Alberta, T2G 0H4, Canada and has 110 employees. The total amount of data leakage is 799.80 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjhdmvsiefsymvydgfabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-30 18:02:29.000000",
+    "disclosedDate": "2024-09-30 18:48:30.722866"
+  }
+}

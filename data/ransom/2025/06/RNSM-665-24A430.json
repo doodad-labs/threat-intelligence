@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-665-24A430",
+  "type": "ransomware-incident",
+  "title": "PeopleCheck ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PeopleCheck",
+    "country": "AU"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] PeopleCheck is a global service offering employment background checks and pre-employment screening. They specialize in criminal background checks, employment, education and reference checks, identity checks, and other verifications. The firm complies with data protection laws and ensures confidential, prompt, and thorough service to businesses.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/768c61fc0736c8b752aa21c3360591ee.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvvcgxlq2hly2tazxzlcmvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-13 00:00:00.000000",
+    "disclosedDate": "2025-06-24 02:25:04.667407"
+  }
+}

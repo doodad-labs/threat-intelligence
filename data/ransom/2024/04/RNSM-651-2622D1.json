@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-2622D1",
+  "type": "ransomware-incident",
+  "title": "sesenergy.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sesenergy.org",
+    "domain": "sesenergy.org",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "As one of New England's original energy management companies, Secure Energy has been a trusted vendor partner, aggregator, and authorized broker for leading national suppliers since the infancy of the energy management industry. Let our team with 175...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e8b6f4258e4001ad9890ec91fea09cff.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vzzw5lcmd5lm9yz0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-26 19:26:00.000000",
+    "disclosedDate": "2024-04-26 22:21:13.967935"
+  }
+}

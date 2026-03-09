@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-103798",
+  "type": "ransomware-incident",
+  "title": "Arcusin ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Arcusin",
+    "country": "ES",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 55000000000,
+    "description": "Arcusin develop and manufacture specialized bale handling equipment to increase efficiency and cost savings for farmers around theworld.We are ready to upload more than 55 GB of essential corporate documents such as: corporate NDA’s, confidential licenses, agreements and contracts, internal correspondence, passports and other employee and customer documents, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjjdxnpbkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-10 00:00:00.000000",
+    "disclosedDate": "2025-03-10 14:47:44.990211"
+  }
+}

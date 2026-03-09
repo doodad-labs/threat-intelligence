@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-667-15AFF3",
+  "type": "ransomware-incident",
+  "title": "MJets ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MJets",
+    "domain": "mjets.com",
+    "country": "TH",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MJets was founded in 2007 thanks to the visionary partnership between William E. Heinicke, an aviation enthusiast with an unquenchable passion for flying, and Kirith Shah, one of Thailand's most respected businessmen. By 2010, we had already made our mark in aviation history by becoming pioneers in the field of fixed-base operations (FBO) in Thailand. \r The database contains the personal data of more than 1500 people, financial information, and other internal files belonging to MJets.",
+    "claimed_data_types": [
+      "internal-documents",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0d09d55d1846e4d28d018a78f4ac65cf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tupldhnaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-04 00:00:00.000000",
+    "disclosedDate": "2025-08-15 20:20:35.171303"
+  }
+}

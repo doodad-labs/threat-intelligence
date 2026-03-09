@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-10A29B",
+  "type": "ransomware-incident",
+  "title": "Pacific Honda Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pacific Honda Company",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 13000000000,
+    "description": "Pacific Honda is proud to serve Oahu drivers with incredible Honda sales, service and financing. Whether you're hoping to lease a new Honda, buy a pre-owned car or discuss auto financing, we're your one-stop car-buying shop.We are ready to upload more than 13 GB of essential corporate documents such as: personal SSN’s, confidential licenses, agreementsand contracts, contact numbers and e-mail addresses of employeesand customers, financial data (audits, payment details, reports), passports and other employee and customer documents, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfjawzpyybib25kysbdb21wyw55qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-10 00:00:00.000000",
+    "disclosedDate": "2025-03-10 14:47:48.679238"
+  }
+}

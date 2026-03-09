@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-13DDD2",
+  "type": "ransomware-incident",
+  "title": "ASPENTECH.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ASPENTECH.COM",
+    "domain": "aspentech.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AspenTech - Asset Optimization Software - Asset Performance Management, Process Engineering for Chemicals, Energy and Engineering & Construction",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/61df36c7970d314cddce60a0f3733303.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvnqru5urunilknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-13 12:43:17.345855",
+    "disclosedDate": "2023-07-13 12:43:17.345925"
+  }
+}

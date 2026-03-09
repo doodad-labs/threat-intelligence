@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-654-2711D7",
+  "type": "ransomware-incident",
+  "title": "hanoverhill.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hanoverhill.com",
+    "domain": "hanoverhill.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/21235b16f42b2340f17aecb6145ad376.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfub3zlcmhpbgwuy29tqgjsywnrc3vpda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-27 18:15:24.276521",
+    "disclosedDate": "2024-07-27 18:15:25.708068"
+  }
+}

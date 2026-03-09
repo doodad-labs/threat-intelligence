@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-138BD7",
+  "type": "ransomware-incident",
+  "title": "jmjcorporation.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jmjcorporation.com",
+    "domain": "jmjcorporation.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "From JMJ’s beginning over 30 years ago, we have grown from a one-room start-up to a multi-million-dollar enterprise. We owe this achievement to a business model revolving around customer satisfaction. We specialize in creating innovative spaces to...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9e26aac06d0e78af98be94511918e46b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/am1qy29ycg9yyxrpb24uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-13 14:00:00.000000",
+    "disclosedDate": "2024-05-13 16:44:15.894349"
+  }
+}

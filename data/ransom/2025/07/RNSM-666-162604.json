@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-666-162604",
+  "type": "ransomware-incident",
+  "title": "Acetificio Andrea Milano ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Acetificio Andrea Milano",
+    "country": "IT",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 47000000000,
+    "description": "Acetificio Andrea Milano is an Italian company with a long history in vinegar production.We are ready to upload more than 47 GB of essential corporate documents. Personal documents scans of company owners and other employee information, financial data, NDAs, customer information, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnldglmawnpbybbbmryzwegtwlsyw5vqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-16 00:00:00.000000",
+    "disclosedDate": "2025-07-16 14:11:33.896423"
+  }
+}

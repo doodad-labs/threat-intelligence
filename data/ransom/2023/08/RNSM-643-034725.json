@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-034725",
+  "type": "ransomware-incident",
+  "title": "fec-corp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fec-corp.com",
+    "domain": "fec-corp.com",
+    "country": "TH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Federal Electric Corp., Ltd., FEC, established in 1978, is an exclusive sole manufacturer of electric home appliances under the well - known SHARP brand in Thailand.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6528547f3eb486b865d85931234fc3bf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmvjlwnvcnauy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-02 22:33:00.000000",
+    "disclosedDate": "2023-08-03 00:02:20.124695"
+  }
+}

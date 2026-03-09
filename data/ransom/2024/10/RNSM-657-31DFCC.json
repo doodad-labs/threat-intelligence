@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-31DFCC",
+  "type": "ransomware-incident",
+  "title": "Brancaia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Brancaia",
+    "domain": "brancaia.com",
+    "country": "IT",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BrancaiaOur wine reflects hard work.Behind it stands a clear, uncompromising vision.For over 40 years, the Widmer family has led Brancaia with passion and dedication. What began as a bold challenge is now top-tier winemaking, founded on quality and authenticity.Geo: Italy - Leak size: GB Archive - Contains: Files,SQL",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjhbmnhawfac2fyy29tyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-31 09:29:29.654477",
+    "disclosedDate": "2024-10-31 09:29:30.021503"
+  }
+}

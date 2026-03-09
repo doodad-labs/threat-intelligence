@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-07893D",
+  "type": "ransomware-incident",
+  "title": "berjaya-air.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "berjaya-air.com",
+    "domain": "berjaya-air.com",
+    "country": "MY",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "About Us BERJAYA AIR Established in 1989 as part of the dynamic Berjaya Group, Berjaya Air offers ex...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/703390e83ed5dda8be6ddad325c663c0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymvyamf5ys1haxiuy29tqgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-17 00:00:00.000000",
+    "disclosedDate": "2025-12-07 10:25:40.990630"
+  }
+}

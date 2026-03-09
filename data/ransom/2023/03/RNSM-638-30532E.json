@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-30532E",
+  "type": "ransomware-incident",
+  "title": "Hospital Clinic de Barcelona ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hospital Clinic de Barcelona",
+    "domain": "clinicbarcelona.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hospital Clínic de Barcelona, officially Hospital Clínic i Provincial de Barcelona, is a university hospital founded in 1906 and based in Barcelona. It opened its doors on December 23, 1906, with a capacity of 400 patients, some of which were moved from Hospital de la Santa Creu. It is currently part of the Catalan Health Service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f843fc3fe9fd4d8d7d710b6453dc3931.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9zcgl0ywwgq2xpbmljigrliejhcmnlbg9uyubyyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-30 02:29:17.509796",
+    "disclosedDate": "2023-03-30 02:29:17.509816"
+  }
+}

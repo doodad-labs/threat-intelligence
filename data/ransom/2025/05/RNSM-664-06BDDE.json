@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-06BDDE",
+  "type": "ransomware-incident",
+  "title": "First Financial Equity ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "First Financial Equity",
+    "domain": "ffec.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "First Financial Equity Corporations (FFEC) primary objective is to provide personalized customer servi…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmlyc3qgrmluyw5jawfsievxdwl0eubtawxlbnrsyw5zb21hcm91ca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-20 00:28:36.554745",
+    "disclosedDate": "2025-05-06 18:16:13.264992"
+  }
+}

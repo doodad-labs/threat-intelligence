@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-1938C0",
+  "type": "ransomware-incident",
+  "title": "curvc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "curvc.com",
+    "domain": "curvc.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Curvc.com is a company specializing in custom web and mobile development, offering tailored solutions for businesses. They focus on creating user-centric, innovative digital products that enhance customer engagement and drive growth. Their expertise spans various industries, ensuring scalable, efficient, and robust applications that meet specific client needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3vydmmuy29tqevsrg9yywrv",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-19 19:53:05.383520",
+    "disclosedDate": "2024-09-19 19:53:07.189294"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-011701",
+  "type": "ransomware-incident",
+  "title": "Partridge Venture Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Partridge Venture Engineering",
+    "domain": "pve-llc.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PVE, LLC was founded in 2008 from one of the strongest small engineering firms in Western Pennsylvania, Partridge Venture Engineering.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/df7bee596421ad977165e284b79187eb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfydhjpzgdlifzlbnr1cmugrw5naw5lzxjpbmdaymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-01 19:22:20.647631",
+    "disclosedDate": "2024-04-01 19:22:20.647654"
+  }
+}

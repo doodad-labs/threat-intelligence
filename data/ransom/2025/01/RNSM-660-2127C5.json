@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-2127C5",
+  "type": "ransomware-incident",
+  "title": "icicibank.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "icicibank.com",
+    "domain": "icicibank.com",
+    "country": "IN",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Banking · India",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8e0adf39695c753af06091a0e5c9dae1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awnpy2liyw5rlmnvbubhchq3mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-21 16:26:02.897523",
+    "disclosedDate": "2025-01-21 16:26:02.897523"
+  }
+}

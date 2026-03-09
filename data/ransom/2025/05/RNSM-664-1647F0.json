@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-1647F0",
+  "type": "ransomware-incident",
+  "title": "aldersonlaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aldersonlaw.com",
+    "domain": "aldersonlaw.com",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 27.05.2025. Alderson Law Firm is a full-service law firm located in Topeka, Kansas, founded in 1983. The firm specializes in various areas of law, including administrative law, busine            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/41e7e182d68f80106a76e3e3dd7358b2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxkzxjzb25syxcuy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-01 00:00:00.000000",
+    "disclosedDate": "2025-05-16 22:10:44.223586"
+  }
+}

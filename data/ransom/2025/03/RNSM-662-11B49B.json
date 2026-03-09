@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-662-11B49B",
+  "type": "ransomware-incident",
+  "title": "Edesur Dominicana ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Edesur Dominicana",
+    "domain": "edesur.com.do",
+    "country": "DO",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8f140d055f126fa1f84019c76a317a45.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwrlc3vyiervbwluawnhbmfaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://noticiassin.com/edesur-confirma-ataque-cibernetico-pero-descarta-filtracion-de-datos-1802891/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-11 11:44:26.000000",
+    "disclosedDate": "2025-03-11 12:57:28.230876"
+  }
+}

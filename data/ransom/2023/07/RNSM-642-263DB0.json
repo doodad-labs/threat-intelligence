@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-263DB0",
+  "type": "ransomware-incident",
+  "title": "MCW.EDU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MCW.EDU",
+    "domain": "mcw.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - Medical College of Wisconsin",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/839c74876e871f1b2d78a95f2bfac3f2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tunxlkvevubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:41:49.854853",
+    "disclosedDate": "2023-07-26 20:41:49.854902"
+  }
+}

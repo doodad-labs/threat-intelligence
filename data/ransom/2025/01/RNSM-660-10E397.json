@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-660-10E397",
+  "type": "ransomware-incident",
+  "title": "OmniRide (omniride.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OmniRide (omniride.com)",
+    "domain": "omniride.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 7200000000,
+    "description": "7.2 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8413b14255cd11947a6b488f6d3ed4b5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t21uavjpzgugkg9tbmlyawrllmnvbslazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.ag.idaho.gov/content/uploads/2025/06/potomac-and-rappahannock-transportation-commission.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-10 12:19:10.670276",
+    "disclosedDate": "2025-01-10 12:20:16.564027"
+  }
+}

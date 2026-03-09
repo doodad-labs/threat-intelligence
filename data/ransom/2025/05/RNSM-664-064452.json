@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-064452",
+  "type": "ransomware-incident",
+  "title": "Roger Keith and Sons Insurance Agency ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Roger Keith and Sons Insurance Agency",
+    "domain": "rogerkeith.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "For over 150 years, Roger Keith & Sons Insurance has been providing quality insurance services to clie…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um9nzxigs2vpdgggyw5kifnvbnmgsw5zdxjhbmnliefnzw5jeubtawxlbnrsyw5zb21hcm91ca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/257c0455-c5f2-4635-85dd-5333b78c47b6.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-05 01:27:58.594910",
+    "disclosedDate": "2025-05-06 18:16:40.564359"
+  }
+}

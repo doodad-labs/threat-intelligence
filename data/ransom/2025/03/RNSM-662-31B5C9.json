@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-31B5C9",
+  "type": "ransomware-incident",
+  "title": "Transcore ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Transcore",
+    "domain": "transcore.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1939 and headquartered in Nashville, Tennessee, TransCore is a company that provides digital solutions and services to transportation departments and agencies around the world. The company provides solutions that aid in the development of express lanes, creating traffic systems, and managing vehicle-to-vehicle programs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cd9b8a2ade445c5e1d19b3cef5e06609.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjhbnnjb3jlqgnoyw9z",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-31 18:24:38.388288",
+    "disclosedDate": "2025-03-31 18:26:04.573673"
+  }
+}

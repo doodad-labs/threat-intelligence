@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-01A6F2",
+  "type": "ransomware-incident",
+  "title": "GATTELLI SpA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GATTELLI SpA",
+    "domain": "gattelli.it",
+    "country": "IT",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Days00007777Hours11112222Minutes11111111Seconds33336767www.gattelli.itGatelli Prefabbricati S.p.A. has been operating for many years in the civil…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6cd1d106d60644368f630ef1d4f7c558.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r0fuvevmtekgu3bbqgfyy3vzbwvkawe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-01 00:55:02.582262",
+    "disclosedDate": "2025-02-01 00:56:11.122692"
+  }
+}

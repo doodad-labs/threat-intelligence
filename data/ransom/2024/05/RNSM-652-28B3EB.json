@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-652-28B3EB",
+  "type": "ransomware-incident",
+  "title": "fightingforfairness.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fightingforfairness.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "dan0n",
+    "name": "dAn0n",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 6000000000000,
+    "description": "The total size of stolen information is 6 TB. This leak contains corporate information of the company: Financial, legal, medical information of clients and employees, personal data employees, partners...",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d57624ce82116a4e0dec6f0d163cd89f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmlnahrpbmdmb3jmywlybmvzcy5jb21azefumg4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-30 00:00:00.000000",
+    "disclosedDate": "2024-05-28 21:21:40.494587"
+  }
+}

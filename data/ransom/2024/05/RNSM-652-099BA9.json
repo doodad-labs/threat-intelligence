@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-652-099BA9",
+  "type": "ransomware-incident",
+  "title": "ondozabal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ondozabal.com",
+    "domain": "ondozabal.com",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We offer CNC machining, embossing and integrated boilermaking services. Since 1932.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2f31e76723e48eb8f991166b8527fa5b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b25kb3phymfslmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-01 00:00:00.000000",
+    "disclosedDate": "2024-05-09 10:36:22.733243"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-218AB9",
+  "type": "ransomware-incident",
+  "title": "fecovita.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fecovita.com",
+    "domain": "fecovita.com",
+    "country": "AR",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "j",
+    "name": "J",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Fecovita is Argentina's largest wine co-operative and exporter, representing over 29 co-operative wineries. Founded in 1991, the company is made up of 5,000 farmers who together own 25% of the vineyards of the province of Mendoza. They produce a wide range of wines, from premium to everyday table wines, which they export to over 20 countries around the world.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b04a09dcb73e6efa4e05fd3cf7b48ff2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmvjb3zpdgeuy29tqeo=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-09 00:00:00.000000",
+    "disclosedDate": "2025-06-21 21:36:45.669772"
+  }
+}

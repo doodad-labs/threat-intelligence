@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-15DF65",
+  "type": "ransomware-incident",
+  "title": "blackandwhitecabs.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "blackandwhitecabs.com.au",
+    "domain": "blackandwhitecabs.com.au",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dear management! change the negotiator, the conditions he offers are very funny!Cheap, fast and reliable Taxi and Cab services in Brisbane, Perth, Toowoomba, Redcliffe, Maryborough and Mandurah.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymxhy2thbmr3agl0zwnhynmuy29tlmf1qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-15 23:37:49.702410",
+    "disclosedDate": "2023-02-15 23:37:49.702410"
+  }
+}

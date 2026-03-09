@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-649-2910BA",
+  "type": "ransomware-incident",
+  "title": "sunharbormanor.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sunharbormanor.com",
+    "domain": "sunharbormanor.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 91000000000,
+    "description": "sunharbormanor.com 91Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3vuagfyym9ybwfub3iuy29tqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-29 10:12:40.743606",
+    "disclosedDate": "2024-02-29 10:12:40.743629"
+  }
+}

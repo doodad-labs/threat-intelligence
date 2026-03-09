@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-645-31F7A4",
+  "type": "ransomware-incident",
+  "title": "Pontifica Universidad Católica de Chile ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pontifica Universidad Católica de Chile",
+    "domain": "uc.cl",
+    "country": "CL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "knight",
+    "name": "knight",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://www.uc.cl/ (ALL DATA ENCRYPTED)La Pontificia Universidad Católica de Chile es una universidad pontificia ubicada en la ciudad de Santiago, Chile, fundada el 21 de junio de 1888, mediante decreto del Arzobispo de Santiago. Su primer rector fue Joaquín Larraín Gandarillas.Una universidad muy antigua, que cuenta con varios hitos gigantes en su historia y que además cuenta con numerosos premios nacionales.\"2018Papa Francisco IEl Papa Francisco I visita la UC. (La Universidad)\"Av Alameda Libertador Bernardo O'Higgins 340, Santiago, Región Metropolitana, Chile",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/45acea28a408b07e5bca52be0c68c33b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ug9udglmawnhifvuaxzlcnnpzgfkienhdmozbgljysbkzsbdaglszubrbmlnahq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://pisapapeles.net/ransomware-afecta-a-la-pontificia-universidad-catolica-de-chile/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-31 06:13:37.375423",
+    "disclosedDate": "2023-10-31 06:13:37.375445"
+  }
+}

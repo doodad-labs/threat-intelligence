@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-0643B2",
+  "type": "ransomware-incident",
+  "title": "Health Dimensions Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Health Dimensions Group",
+    "domain": "healthdimensionsgroup.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Health Dimensions Group (HDG) is a management consulting and health care services firm. Headquartered in Minneapolis, the company provides consulting services and solutions in the areas of senior housing, post-acute care, health systems, and hospitals. They offer a wide variety of services including strategic planning, operational oversight, financial advisory, and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ef420e7fed9fe40eff83f7ffe200c841.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvhbhroierpbwvuc2lvbnmgr3jvdxbad29ybgrszwfrcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-06 12:56:09.000000",
+    "disclosedDate": "2025-11-06 15:01:59.695930"
+  }
+}

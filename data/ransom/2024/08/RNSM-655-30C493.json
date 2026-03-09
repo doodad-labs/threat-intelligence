@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-30C493",
+  "type": "ransomware-incident",
+  "title": "www.timortelecom.tl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.timortelecom.tl",
+    "domain": "timortelecom.tl",
+    "country": "TL",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Timor Telecom is a leading telecommunications provider in Timor-Leste, offering a range of services including mobile, fixed-line, and internet connectivity. Established to enhance communication infrastructure in the country, the company focuses on delivering reliable and innovative telecom solutions to both individual and corporate customers, thereby playing a crucial role in the nation's development.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7123e606394b55629e4033363248ff09.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnrpbw9ydgvszwnvbs50bebyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-12 00:00:00.000000",
+    "disclosedDate": "2024-08-30 18:40:49.236230"
+  }
+}

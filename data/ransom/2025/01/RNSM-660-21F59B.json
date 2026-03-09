@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-21F59B",
+  "type": "ransomware-incident",
+  "title": "semesco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "semesco.com",
+    "domain": "semesco.com",
+    "country": "CY",
+    "sector": "Retail"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Semesco.com is an e-commerce platform that allows users to buy and sell a variety of products across different categories. These include electronics, clothing, beauty products, household items, and more. It also facilitates secure online transactions and provides delivery services to customers. Moreover, Semesco supports local brands and businesses by helping them reach a wider customer base. They focus on providing an enhanced shopping experience with a user-friendly website and customer service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vtzxnjby5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-29 00:00:00.000000",
+    "disclosedDate": "2025-01-21 23:10:23.077432"
+  }
+}

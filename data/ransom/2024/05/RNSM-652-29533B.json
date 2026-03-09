@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-29533B",
+  "type": "ransomware-incident",
+  "title": "Western Dovetail ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Western Dovetail",
+    "domain": "drawer.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Western Dovetail is committed to maintaining tradition in the mod ern industry. Architects, designers and craftsmen recognize dovet ail drawers as the hallmark of excellence in casework. A few GB o f their data will be available here. Employee info (address, emai l, phone, relatives contacts...), tax and payment info, a bit of  medical information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vzdgvybibeb3zldgfpbebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-29 17:43:56.199698",
+    "disclosedDate": "2024-05-29 17:43:56.271433"
+  }
+}

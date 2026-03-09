@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-648-089F82",
+  "type": "ransomware-incident",
+  "title": "Heller Industries ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Heller Industries",
+    "domain": "hellerindustries.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "Heller Industries, Inc. provides reflow technology solutions. TheCompany offers curing systems, semi conductors, and reflow equipment for electronic manufacturers and assemblers. Almost 300gb ofdata will be available soon. There are numerous NDAs with names of widely known corporations, personal documents, finance files and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvsbgvyieluzhvzdhjpzxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-08 16:10:28.644908",
+    "disclosedDate": "2024-01-08 16:10:28.705301"
+  }
+}

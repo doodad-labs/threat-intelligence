@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-661-0812CA",
+  "type": "ransomware-incident",
+  "title": "G*********7.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "G*********7.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "flocker",
+    "name": "flocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "To the board of G*********7 We have compromised your system servers for G*********7.com and locked out all user, we also",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/622f9a9c03de4f6eedb71563fcb6bf89.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ryoqkioqkioqkjcuy29tqgzsb2nrzxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-08 00:00:00.000000",
+    "disclosedDate": "2025-02-08 08:21:45.902275"
+  }
+}

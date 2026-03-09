@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-08CEDA",
+  "type": "ransomware-incident",
+  "title": "vdhelm ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "vdhelm",
+    "domain": "vanderhelmlogistics.com",
+    "country": "NL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "donex",
+    "name": "donex",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Van der Helm is a 4PL logistic service provider with a limitless passion for transport and logistics. From our offices in Den Hoor ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/552c94a9fb2db7f88b5bc27bea304a34.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmrozwxtqgrvbmv4",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-22 00:00:00.000000",
+    "disclosedDate": "2024-03-08 06:49:44.007152"
+  }
+}

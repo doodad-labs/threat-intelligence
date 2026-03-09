@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-650-15A51E",
+  "type": "ransomware-incident",
+  "title": "worthenind.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "worthenind.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "At Worthen Industries, we manufacture specialty adhesives, coatings, coated products, and thermoplastic extrusion for dynamic markets. But we specialize in sustainable innovation—by applying technology, green chemistry, and customer-first approach to...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/471963578c9cd22cb3926c45bb0aa0a2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d29ydghlbmluzc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-14 21:50:00.000000",
+    "disclosedDate": "2024-03-15 00:01:38.820080"
+  }
+}

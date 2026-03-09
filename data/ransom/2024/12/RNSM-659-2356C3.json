@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-2356C3",
+  "type": "ransomware-incident",
+  "title": "Flamco ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Flamco",
+    "country": "NL",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 03.01.2025. The Flamco Group is focused on the development, production and sale of quality components for HVAC applications. Flamco offers succesful and innovative solutions for both             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/24c7abbe75f4eb11003745640726d278.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmxhbwnvqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-21 00:00:00.000000",
+    "disclosedDate": "2024-12-23 20:47:32.419040"
+  }
+}

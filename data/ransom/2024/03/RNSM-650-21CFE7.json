@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-650-21CFE7",
+  "type": "ransomware-incident",
+  "title": "Rockford Gastroenterology Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rockford Gastroenterology Associates",
+    "domain": "rockfordgi.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "raworld",
+    "name": "raworld",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a7b04896bd770ed07ed1cefba45f577b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um9ja2zvcmqgr2fzdhjvzw50zxjvbg9nesbbc3nvy2lhdgvzqhjhd29ybgq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://databreaches.net/2024/11/22/rockford-gastroenterology-associates-notifies-147253-patients-of-december-2023-cyberattack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-21 00:22:00.007551",
+    "disclosedDate": "2024-03-21 00:22:00.007577"
+  }
+}

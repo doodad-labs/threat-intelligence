@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-26365E",
+  "type": "ransomware-incident",
+  "title": "Penn Cinema  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Penn Cinema ",
+    "domain": "penncinema.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Penn Cinema was founded in 2006 as a family-owned and independent cinema and currently operates a chain of 30 cinemas. Penn Cinema corporate office is located in 30 P Pm Lititz Pa 541 Airport Rd, Lititz, Pennsylvania, 17543, United States.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2f655d6268b335b650da0c84eed88a11.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvubibdaw5lbwegqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-26 19:28:47.12345",
+    "disclosedDate": "2024-02-26 21:56:19.354473"
+  }
+}

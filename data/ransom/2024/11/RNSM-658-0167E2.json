@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-0167E2",
+  "type": "ransomware-incident",
+  "title": "www.sym-global.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.sym-global.com",
+    "domain": "sym-global.com",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Top two-wheeler brand - Sanyang Motor, known as brand-name SYM, is a world leading manufacturer in the design and production two-wheeled products for over 65 years. We have accumulated expertise in supplying scooters, motorcycles and ATVs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f21552aaed4df308dd4f45382c143e67.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnn5bs1nbg9iywwuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-10 00:00:00.000000",
+    "disclosedDate": "2024-11-01 21:40:29.544715"
+  }
+}

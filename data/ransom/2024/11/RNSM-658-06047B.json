@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-06047B",
+  "type": "ransomware-incident",
+  "title": "nightnurse.ch ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nightnurse.ch",
+    "domain": "nightnurse.ch",
+    "country": "CH",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.nightnurse.ch",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/77df42e39c16589c2cd88311f695e8c2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmlnahrudxjzzs5jaebozwxszg93bg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-13 00:00:00.000000",
+    "disclosedDate": "2024-11-06 23:35:45.423611"
+  }
+}

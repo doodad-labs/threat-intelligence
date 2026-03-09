@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-649-01ABA2",
+  "type": "ransomware-incident",
+  "title": "gatesshields.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gatesshields.com",
+    "domain": "gatesshields.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 400000000000,
+    "description": "Documents and data in the amount of 400 GB. The documents contain data of more than 1000 clients: Personal data, addresses, telephone numbers, SSN, EIN. Types of documents: Customer loan agreements, real estate documents, wills, police arrest reports...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7c2fdb3aa879fbc26512983d679a64d0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2f0zxnzagllbgrzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-01 20:53:00.000000",
+    "disclosedDate": "2024-02-01 22:22:04.581859"
+  }
+}

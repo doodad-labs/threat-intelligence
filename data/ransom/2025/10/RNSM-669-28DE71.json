@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-28DE71",
+  "type": "ransomware-incident",
+  "title": "Microbix Biosystems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Microbix Biosystems",
+    "domain": "microbix.com",
+    "country": "CA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a78b919d3b573345b1f3645c20ae0e2c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twljcm9iaxggqmlvc3lzdgvtc0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-19 00:00:00.000000",
+    "disclosedDate": "2025-10-28 15:47:12.020542"
+  }
+}

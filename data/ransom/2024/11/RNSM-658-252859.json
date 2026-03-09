@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-658-252859",
+  "type": "ransomware-incident",
+  "title": "Ace Laboratories Limited ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ace Laboratories Limited",
+    "domain": "acelaboratories.co.uk",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/62ae5fb7e97c57ebff59835ca24fa69a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnliexhym9yyxrvcmllcybmaw1pdgvkqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-08 00:00:00.000000",
+    "disclosedDate": "2024-11-25 00:20:41.373101"
+  }
+}

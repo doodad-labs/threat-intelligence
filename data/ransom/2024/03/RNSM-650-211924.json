@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-650-211924",
+  "type": "ransomware-incident",
+  "title": "pbgbank.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pbgbank.com",
+    "country": "IN",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have got PBGB (Paschim Banga Gramin Bank) breached.For us to wipe the databreach, we ask for a ransom of 10.000 EUR (negotiable).",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/624f3f1370153606792f278d5c33778c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgjnymfuay5jb21aa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-21 18:30:47.457199",
+    "disclosedDate": "2024-03-21 18:30:47.457220"
+  }
+}

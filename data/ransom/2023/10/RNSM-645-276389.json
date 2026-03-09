@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-645-276389",
+  "type": "ransomware-incident",
+  "title": "Telecommunications Services of Trinidad and Tobago (tstt.co.tt) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Telecommunications Services of Trinidad and Tobago (tstt.co.tt)",
+    "domain": "tstt.co.tt",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomexx",
+    "name": "ransomexx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "tstt.co.tt and bmobile.co.tt. 4293368 customer's lines, ID scans, gitlab projects, db dumps.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/abe4c53c5bac9a59fd2fbe4be0eca386.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvszwnvbw11bmljyxrpb25zifnlcnzpy2vzig9mifryaw5pzgfkigfuzcbub2jhz28gkhrzdhquy28udhqpqhjhbnnvbwv4ea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://newsday.co.tt/2023/10/31/tstt-on-ransomware-attack-hackers-tried-but-failed/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-27 18:03:08.988693",
+    "disclosedDate": "2023-10-27 18:03:08.988724"
+  }
+}

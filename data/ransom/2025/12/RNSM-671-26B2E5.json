@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-26B2E5",
+  "type": "ransomware-incident",
+  "title": "omf.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "omf.org",
+    "domain": "omf.org",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "OMF is a global fellowship of Christians with a heart for East Asia. We are passionate to demonstra...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bd057b42b37db9e85474edad8c8efe4e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b21mlm9yz0bsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 17:24:00.000000",
+    "disclosedDate": "2025-12-26 15:41:19.208028"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-638-2991B3",
+  "type": "ransomware-incident",
+  "title": "Hawaii self storage ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hawaii self storage",
+    "domain": "hawaiiselfstorage.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "moneymessage",
+    "name": "moneymessage",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 32000000000,
+    "description": "Hawaii Self Storage is a locally owned company, committed to service the people & businesses in Hawaii with exceptional storage services. Data 32GB:",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/43b8dfa689bb622b42203b0b7f4ca065.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgf3ywlpihnlbgygc3rvcmfnzubtb25lew1lc3nhz2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-19 13:57:00.000000",
+    "disclosedDate": "2023-03-29 15:43:30.343794"
+  }
+}

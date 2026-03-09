@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-09E202",
+  "type": "ransomware-incident",
+  "title": "emperors.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "emperors.edu",
+    "domain": "emperors.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Emperor's College of Traditional Oriental Medicine is a graduate school of traditional Oriental medicine in Santa Monica, California. Founded in 1983, it offers master's and doctoral programs with full accreditation in acupuncture and Oriental medicine.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1ce80cfa24b163d3cb529139451599e3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw1wzxjvcnmuzwr1qgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-14 00:00:00.000000",
+    "disclosedDate": "2025-03-09 19:34:01.362810"
+  }
+}

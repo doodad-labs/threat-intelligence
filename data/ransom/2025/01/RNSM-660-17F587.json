@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-17F587",
+  "type": "ransomware-incident",
+  "title": "Taylor Regional Hospital (thcg.local) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Taylor Regional Hospital (thcg.local)",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Taylor Regional Hospital is a private, not-for-profit acute care facility governed by a self-perpetuating Board of Trustees located in Hawkinsville, Georgia. We continue to set the trend among health care providers in the Middle Georgia area.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f0ab046b3e44f2f8e224a2059b1abda9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgf5bg9yifjlz2lvbmfsiehvc3bpdgfsich0agnnlmxvy2fskubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-17 00:57:49.980415",
+    "disclosedDate": "2025-01-17 00:58:57.485352"
+  }
+}

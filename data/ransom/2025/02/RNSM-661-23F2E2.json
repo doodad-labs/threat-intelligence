@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-23F2E2",
+  "type": "ransomware-incident",
+  "title": "The Northwestern Illinois Association ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Northwestern Illinois Association",
+    "domain": "thenia.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "Status: 29d 22h 48m 30s - Size Data: 50 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7439222ed83237edeceac943e1121fbd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlie5vcnrod2vzdgvybibjbgxpbm9pcybbc3nvy2lhdglvbkbjawnhzgezmzax",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-23 00:00:00.000000",
+    "disclosedDate": "2025-02-23 18:54:51.577584"
+  }
+}

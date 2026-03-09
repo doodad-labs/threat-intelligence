@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-19FF69",
+  "type": "ransomware-incident",
+  "title": "North Star Asset Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "North Star Asset Management",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "North Star Asset Management, Inc. is a prominent independent SEC Registered Investment Advisory firm based in Wisconsin, managing nearly $3 billion in assets. They offer tailored investment management and retirement planning services for families, corporations, and endowments, always prioritizing client interests as fiduciaries. Their team consists of 11 investment professionals, including 9 CFA Charterholders and 2 CFP professionals, boasting over 200 years of combined investment experience. North Star is recognized for its personalized and independent financial advice, charging a fee of 0.6% of managed assets.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a3a100db5c2d0d8de46ea7b3abacf1bb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9ydgggu3rhcibbc3nldcbnyw5hz2vtzw50qhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-19 21:42:36.792000",
+    "disclosedDate": "2025-12-19 21:46:12.905796"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-098C16",
+  "type": "ransomware-incident",
+  "title": "Law Society of South Africa ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Law Society of South Africa",
+    "domain": "lssa.org.za",
+    "country": "ZA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Attorneys and advocates in South Africa are registered with the Legal Practice Council in terms of the Legal Practice Act 28 of 2014. Since 1998 the Law Society of South Africa (LSSA) has represented the attorneys’ profession.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/19979b88bf16c4da86606f78798a0257.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgf3ifnvy2lldhkgb2ygu291dgggqwzyawnhqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-09 10:04:17.123456",
+    "disclosedDate": "2023-10-09 11:31:15.082784"
+  }
+}

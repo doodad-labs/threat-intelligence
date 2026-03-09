@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-236814",
+  "type": "ransomware-incident",
+  "title": "CHEMILAB.COM.CO ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CHEMILAB.COM.CO",
+    "domain": "chemilab.com.co",
+    "country": "CO",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Laboratorio Chemilab",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/57736d7687951a9c7676cce0a9cb6844.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0hftulmquiuq09nlknpqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-23 13:14:18.614910",
+    "disclosedDate": "2023-03-23 13:14:18.614927"
+  }
+}

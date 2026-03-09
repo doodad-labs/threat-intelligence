@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-642-17ED87",
+  "type": "ransomware-incident",
+  "title": "www.tractrad.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.tractrad.com",
+    "domain": "tractrad.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 35000000000,
+    "description": "Tractrad.com, 35Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnryywn0cmfklmnvbubhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-17 15:52:07.567638",
+    "disclosedDate": "2023-07-17 15:52:07.567662"
+  }
+}

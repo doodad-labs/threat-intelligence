@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-31F3DC",
+  "type": "ransomware-incident",
+  "title": "dollmar.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dollmar.com",
+    "domain": "dollmar.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/CORP.DOLLMAR.COM/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/CORP.DOLLMAR.COM/PROOF/DATA DESCRIPTIONS: Confidential corporate data, drawings, engineering files, Q&A, personal identifying information, financial documents, corporate and personal correspondence, employee personal files, database backups, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c925c1eda3cfea8e390fc63b7328120d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zg9sbg1hci5jb21ay2fjdhvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-17 00:00:00.000000",
+    "disclosedDate": "2024-05-31 18:05:53.239781"
+  }
+}

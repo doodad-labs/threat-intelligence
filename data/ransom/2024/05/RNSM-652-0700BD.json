@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-0700BD",
+  "type": "ransomware-incident",
+  "title": "City of Buckeye (buckeyeaz.gov) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "City of Buckeye (buckeyeaz.gov)",
+    "domain": "buckeyeaz.gov",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Midwest Covenant Home, Inc., located in Stromsburg, Nebraska, offers a senior living campus which encompasses independent living apartments, assisted living units and a skilled nursing facility. Our organization values our elders and promotes the quality of their lives through the gracious environment surrounding the grounds. Adopting the Eden philosophy, Midwest Covenant Home upholds abolishing the three plagues of the elderly, loneliness, helplessness and boredom. Each resident's spiritual life is enhanced by our involvement with the local clergy to meet the individual resident's spiritual needs. We are active members of the Nebraska Health Care Association. Midwest Covenant Home is a registered Eden Alternative facility. One recent family member commented, \"You have a very caring staff here.\"",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/67621940dfb00d1fb52ec56bfdbc5201.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0esbvzibcdwnrzxllichidwnrzxllyxouz292kubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-01 20:31:02.497000",
+    "disclosedDate": "2024-05-07 20:32:02.530344"
+  }
+}

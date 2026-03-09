@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-19D2C5",
+  "type": "ransomware-incident",
+  "title": "www.clevo.com.tw ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.clevo.com.tw",
+    "domain": "clevo.com.tw",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3851d577edf335f133b16cd9a406c5e6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnszxzvlmnvbs50d0byyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-29 21:25:50.000000",
+    "disclosedDate": "2024-06-19 14:52:55.497462"
+  }
+}

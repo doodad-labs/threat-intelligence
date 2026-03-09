@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-132B09",
+  "type": "ransomware-incident",
+  "title": "eriematerials.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "eriematerials.com",
+    "domain": "eriematerials.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Established in 1973, Erie Materials distributes building materials, such as roofing, siding, windows, doors, decking, manufactured stone veneer and gutters, for residential and commercial exteriors. It serves professional contractors and architects.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/70e82124a02be9d3a2e9c387dd1843a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxjpzw1hdgvyawfscy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-13 11:25:00.000000",
+    "disclosedDate": "2023-06-13 11:57:26.284417"
+  }
+}

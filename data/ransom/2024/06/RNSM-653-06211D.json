@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-06211D",
+  "type": "ransomware-incident",
+  "title": "Oracle Advisory Services  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Oracle Advisory Services ",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 13200000000,
+    "description": "Oracle Advisory Services provides financial and management services to hedge funds, private equity firms, & high net-worth individuals. Oracle Advisory Services corporate office is located in 45 W 34th St Ste 911-912, New York City, New York, 10001, United States. The total amount of data leakage is 13.2 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3jhy2xliefkdmlzb3j5ifnlcnzpy2vziebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-04 14:34:18.12345",
+    "disclosedDate": "2024-06-06 07:40:06.017621"
+  }
+}

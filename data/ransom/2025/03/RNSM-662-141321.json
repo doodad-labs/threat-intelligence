@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-141321",
+  "type": "ransomware-incident",
+  "title": "web.asia.edu.tw - Taiwan (Asia University) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "web.asia.edu.tw - Taiwan (Asia University)",
+    "domain": "asia.edu.tw",
+    "country": "TW",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "web.asia.edu.tw -  Taiwan (Asia University)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8e0bb198ad6111da4cf2d0afa49b1cef.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2vilmfzaweuzwr1lnr3ic0gvgfpd2fuichbc2lhifvuaxzlcnnpdhkpqgjhynvrmg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-14 05:21:09.000000",
+    "disclosedDate": "2025-03-14 07:57:39.205368"
+  }
+}

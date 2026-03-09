@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26A0CC",
+  "type": "ransomware-incident",
+  "title": "Egyptian Electric Cooperative Association ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Egyptian Electric Cooperative Association",
+    "domain": "eeca.coop",
+    "country": "EG",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Egyptian Electric Cooperative, currently headquartered in Murphysboro, Illinois, is a consumer-owned corporation that supplies electric power to members in portions of Jackson, Randolph, Perry, Williamson, and parts of St. Clair, Johnson, Union, Monroe, Franklin and Washington counties in southern Illinois. More than 15,000 households and businesses receive power from Egyptian Electric Cooperative. We are a distribution utility, meaning we do not generate our own electricity. We purchase our power from Southern Illinois Power Cooperative (SIPC) which is located south of Marion, Illinois, at Lake of Egypt. SIPC is a generating and transmission cooperative which is owned and controlled by the southern most rural electric cooperatives in the most southern region of Illinois, and that receive electricity from SIPC. Egyptian Electric is wholly owned by the people it serves, and is governed by nine board of directors, elected by members. Approximately 38 employees work for Egyptian Electric to serve its residential, commercial and industrial accounts.  To learn more, and view our by-laws, visit the New Members page. The Cooperative",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f3e2181426de6bd24ee5bb8291fd5a5b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwd5chrpyw4grwxly3ryawmgq29vcgvyyxrpdmugqxnzb2npyxrpb25aywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-10-20 14:57:45.000000",
+    "disclosedDate": "2023-07-26 16:39:22.374092"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-658-25F956",
+  "type": "ransomware-incident",
+  "title": "minneapolisparks.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "minneapolisparks.org",
+    "domain": "minneapolisparks.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] MinneapolisParks.org is the official website for the Minneapolis Park and Recreation Board, which manages the city's parks and recreational facilities. The organization is dedicated to providing diverse recreational opportunities, maintaining parkland, and enhancing the quality of life in Minneapolis. They offer programs, events, and activities for all ages, promoting community engagement and environmental stewardship.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/363cc4247e2b8fac75802befd38177aa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwlubmvhcg9saxnwyxjrcy5vcmdacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.kare11.com/article/news/local/minneapolis-park-board-tech-attacked-phone-lines-down/89-7d22f133-82cf-4f70-b73a-82ad23f68813",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-25 15:44:55.000000",
+    "disclosedDate": "2024-11-25 16:44:34.454575"
+  }
+}

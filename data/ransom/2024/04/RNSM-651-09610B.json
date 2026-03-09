@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-09610B",
+  "type": "ransomware-incident",
+  "title": "processsolutions.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "processsolutions.com",
+    "domain": "processsolutions.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "PROCESS SOLUTIONS Control System Design & Integration Since 1987, manufacturers across industries have trusted Process Solutions to deliver custom-engineered control systems that solve their unique production challenges. Our engineering team has hundreds of combined years of experience designing high-quality systems that simplify operations and improve performance. From small pushbutton stations, to large controls cabinets and facility wide monitoring systems, we can provide a purpose-built solution to meet your requirements and help you achieve your objectives.SITE: www.processsolutions.com Address : 17212 51st Ave NE, Suite 112 Arlington, WA 98223 USAALL DATA SIZE: ~1tb 1. Projects data, CAD 2. Corporate data 3. Users, Personal data & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/310ae2e0692405bfc0146d87bc938d74.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjvy2vzc3nvbhv0aw9ucy5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-26 00:00:00.000000",
+    "disclosedDate": "2024-04-09 17:07:35.828011"
+  }
+}

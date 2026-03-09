@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-02BB61",
+  "type": "ransomware-incident",
+  "title": "iongroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "iongroup.com",
+    "domain": "iongroup.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ION software helps you improve decision-making, increase efficiency, simplify complex processes and empower your people. We enable financial institutions, central banks and corporations to digitize and automate their most business critical processes....",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw9uz3jvdxauy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-02 09:21:02.020982",
+    "disclosedDate": "2023-02-02 09:21:02.020982"
+  }
+}

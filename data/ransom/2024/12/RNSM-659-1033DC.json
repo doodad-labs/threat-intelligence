@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-1033DC",
+  "type": "ransomware-incident",
+  "title": "www.appicgarage.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.appicgarage.com",
+    "domain": "appicgarage.com",
+    "country": "NL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/594a42fb1f342c239f191b16f58e7223.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmfwcgljz2fyywdllmnvbubmdw5rc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 21:52:21.717456",
+    "disclosedDate": "2024-12-10 21:52:25.590288"
+  }
+}

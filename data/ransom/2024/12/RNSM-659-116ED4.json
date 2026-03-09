@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-116ED4",
+  "type": "ransomware-incident",
+  "title": "Ainsworth Game Technology Limited ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ainsworth Game Technology Limited",
+    "domain": "agtslots.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 852400000000,
+    "description": "Ainsworth Game Technology Limited (founded 1995) is a manufacturer and supplier of gaming machines, software and related equipment. Ainsworth Game Technology distributes a number of gaming products and related games through its sales and distribution offices in Australia, New Zealand, Asia, the United States and Europe. Ainsworth Game Technology corporate office is located in 10 Holker St, Newington, New South Wales, 2127, Australia and has 304 employees. The total amount of data leakage is 852.40 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6e6e54504f28502db4c0570f1c30116d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwluc3dvcnroiedhbwugvgvjag5vbg9nesbmaw1pdgvkqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 14:26:31.000000",
+    "disclosedDate": "2024-12-11 08:47:40.916892"
+  }
+}

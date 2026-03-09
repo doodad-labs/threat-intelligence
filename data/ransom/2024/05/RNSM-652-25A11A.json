@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-25A11A",
+  "type": "ransomware-incident",
+  "title": "cafesnovell.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cafesnovell.com",
+    "domain": "cafesnovell.com",
+    "country": "ES",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The structure of the Novell Group is made up of several companies oriented to the different business units: Restaurants , with service in both bean and ground coffee and capsules; Retail , aimed at domestic consumption and large stores; Catering , re...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/057c208e31205a9ad172eefecb628d6c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fmzxnub3zlbgwuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-22 00:00:00.000000",
+    "disclosedDate": "2024-05-25 12:47:24.651224"
+  }
+}

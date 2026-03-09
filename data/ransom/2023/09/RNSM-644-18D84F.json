@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-18D84F",
+  "type": "ransomware-incident",
+  "title": "Fuji Seal International (US branch) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fuji Seal International (US branch)",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "Fuji Seal Group provides shrink sleeve labels, self-adhesive labels, spouted pouches and label-application systems. The US branch of the company has been recently breached and the management refuses to negotiate. So we are informing you about the upcoming uploading of 30GB size data here. There are numerous confidential docs, contracts, agreements etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnvqasbtzwfsieludgvybmf0aw9uywwgkfvtigjyyw5jaclaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-18 17:33:25.929526",
+    "disclosedDate": "2023-09-18 17:33:26.042066"
+  }
+}

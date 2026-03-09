@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-241B91",
+  "type": "ransomware-incident",
+  "title": "xortec.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "xortec.de",
+    "domain": "xortec.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Xortec GmbH is a German value-added distributor and systems integrator for professional video surveillance, IP network infrastructure and security-tech solutions. …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b26890092107f89f32faf710e1be2547.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/eg9ydgvjlmrlqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-24 21:23:57.774354",
+    "disclosedDate": "2025-10-24 21:24:10.911214"
+  }
+}

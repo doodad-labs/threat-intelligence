@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27BC1C",
+  "type": "ransomware-incident",
+  "title": "PIPERSYSTEMS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PIPERSYSTEMS.COM",
+    "domain": "pipersystems.com",
+    "country": "IE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] PIPERSYSTEMS.COM sells ultraviolet (UV) disinfection systems for HVAC systems in commercial, industrial, medical, and residential facilities. The company aims to take decisive action against airborne bacteria, viruses, mold, and other contaminants through UV-C technology. This ensures an environment with clean, safe air, contributing to a healthier community.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uelqrvjtwvnuru1tlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:06:20.745373",
+    "disclosedDate": "2025-02-27 17:06:26.122208"
+  }
+}

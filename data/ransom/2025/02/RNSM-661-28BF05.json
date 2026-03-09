@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-28BF05",
+  "type": "ransomware-incident",
+  "title": "ctpomd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ctpomd",
+    "domain": "ctpomd.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Central Texas Pediatric Orthopedics was founded in 1990 by Dr. Jay Shapiro, with the mission of serving Austin's community and setting the standard for exceptional pediatric orthopedic care. Now with locations in Austin, Cedar Park, W            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dfc179d0790455785b927ac5c56d72e7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3rwb21kqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-26 00:00:00.000000",
+    "disclosedDate": "2025-02-28 11:33:02.109018"
+  }
+}

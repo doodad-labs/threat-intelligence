@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-652-229DD6",
+  "type": "ransomware-incident",
+  "title": "Cressex Community School ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cressex Community School",
+    "domain": "cressex.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "High educational achievement and a positive attitude to learning are keys to lifetime success.  At Cressex Community School we firmly believe that high achievement for each student is our shared responsibility.  As a team of staff, we aim to ensure that everyone in the school is able to achieve to her or his full potential and, we hope, to discover new skills and talents too. We want our learners to be happy, confident and to have high aspirations for themselves. We believe in strong home-school links to ensure the right support is available in school and at home.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ae95d34a628f76da72acb7d0effea872.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q3jlc3nlecbdb21tdw5pdhkgu2nob29sqhjhbnnvbwhvdxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bucksfreepress.co.uk/news/24218357.high-wycombe-cressex-community-school-hit-cyber-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-25 00:00:00.000000",
+    "disclosedDate": "2024-05-22 16:35:28.432259"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-672-029B45",
+  "type": "ransomware-incident",
+  "title": "SINBON Electronics Co., Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SINBON Electronics Co., Ltd",
+    "domain": "sinbon.com",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SINBON Electronics, a leading Taiwanese maker of electronic components that partners with firms such as ASML Holding N.V. and trades under the ticker 3023.TW, posted a notice on the Taiwan Stock Exchange about a cyber-attack on its network. The statement claimed an unknown group carried out the attack, that it was quickly detected and blocked, that a specialized organization would successfully decrypt the files, and that no data were taken. In fact, none of that is accurate. The breach was not anonymous. We always disclose that we performed the intrusion and include our contact information. It’s well known that no one can decrypt what we encrypt without our assistance. Any claim to the contrary has resulted in multi-billion-dollar losses for those who believed it. The incident was not resolved quickly. It unfolded over several weeks and impacted both the headquarters and the U.S. subsidiary. During our operation we exfiltrated a massive volume of company data, including executive-level information. We have now assembled a package of roughly 650,000 files for publication. The collection contains, as usual, financial and accounting records, reports, client data, and personal information. It also includes documentation of the collaboration with ASML Holding N.V., production records, and detailed evidence of product defects and the company’s financial condition. It appears the IT staff tried to conceal the scale of the breach from senior management and regulators to limit personal repercussions. That decision forced us to go public with the incident and its magnitude. We have already sent our contact details to the executives’ email addresses. Please use those details to reach out to us so we can discuss how to keep the data from being released while your company continues to grow and thrive. (The list of files prepared now isn’t final. If needed, we can expand it considerably by adding mail files and other data.)",
+    "claimed_data_types": [
+      "personal-data",
+      "email-addresses",
+      "addresses"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c24eadefea31430442e40c5fd27f3a1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0loqk9oievszwn0cm9uawnzienvliwgthrkqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-02 05:45:29.654215",
+    "disclosedDate": "2026-01-02 06:24:56.732530"
+  }
+}

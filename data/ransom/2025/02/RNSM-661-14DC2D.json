@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-14DC2D",
+  "type": "ransomware-incident",
+  "title": "Castle Rock Construction Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Castle Rock Construction Company",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 16000000000,
+    "description": "Castle Rock Roofing & Restoration will provide you with an honestevaluation of your property with no strings attached. If damage is present, Castle Rock Roofing will guide you step by step through the claim process.We are ready to upload more than 16 GB of sensitive corporate documents such as: NDA’s, driver licenses, health insurance documents, SSN’s, contact numbers and e-mail addresses of employees and customers, internal financial documents, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fzdgxlifjvy2sgq29uc3rydwn0aw9uienvbxbhbnlaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-14 00:00:00.000000",
+    "disclosedDate": "2025-02-14 15:12:32.146663"
+  }
+}

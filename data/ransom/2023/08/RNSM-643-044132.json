@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-044132",
+  "type": "ransomware-incident",
+  "title": "atser.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "atser.com",
+    "domain": "atser.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "In 1996, ATSER’s Team led in the development and deployment of a Material Acceptance Testing Systems (MATS). ATSER® pioneered the development of this type of software for the transportation industry and for its use in alternative delivery programs",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9f652e98962350ddeb7eb2e0ca9c106f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxrzzxiuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-04 20:08:00.000000",
+    "disclosedDate": "2023-08-04 20:59:23.396284"
+  }
+}

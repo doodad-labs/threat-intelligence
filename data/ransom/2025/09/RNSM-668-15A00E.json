@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-15A00E",
+  "type": "ransomware-incident",
+  "title": "Volt ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Volt",
+    "domain": "volt.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Volt is a global talent solutions provider, specializing in workforce management, recruitment, and staffing across industries such as technology, e...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a3bd5475e6f905ff5ab066cefe1fc8e5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vm9sdebjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-26 01:02:03.456789",
+    "disclosedDate": "2025-09-15 20:45:48.949191"
+  }
+}

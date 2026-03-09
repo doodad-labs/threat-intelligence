@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-250D83",
+  "type": "ransomware-incident",
+  "title": "Summit Home Health, INC. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Summit Home Health, INC.",
+    "domain": "summithomehealthinc.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "7000+ US Fullinfo",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0b392bbbb85a1078d2312bc99e2c48bb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vtbwl0iehvbwugsgvhbhrolcbjtkmuqgfudwjpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-25 07:46:51.696256",
+    "disclosedDate": "2025-02-25 07:47:57.462661"
+  }
+}

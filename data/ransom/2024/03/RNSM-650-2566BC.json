@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-2566BC",
+  "type": "ransomware-incident",
+  "title": "Ejército del Per ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ejército del Per",
+    "domain": "mindef.gob.pe",
+    "country": "PE",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We present to your attention the Mystery of Defense and the Army of Peru. As a result of a successful cyber attack, we have at our disposal a huge amount of classified information of these...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ed0b5a48341134f23252f96c08208f47.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwrdqxjjaxrvigrlbcbqzxjaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-25 01:30:26.701827",
+    "disclosedDate": "2024-03-25 01:30:26.882925"
+  }
+}

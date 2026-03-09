@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-641-19839F",
+  "type": "ransomware-incident",
+  "title": "SKILLSOFT.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SKILLSOFT.COM",
+    "domain": "skillsoft.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Skillsoft - Online Courses and Training - Free Access",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0tjtextt0zulknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-19 15:41:34.701476",
+    "disclosedDate": "2023-06-19 15:41:34.701507"
+  }
+}

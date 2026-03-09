@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-660-21B3DB",
+  "type": "ransomware-incident",
+  "title": "miedemaproduce.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "miedemaproduce.com",
+    "domain": "miedemaproduce.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Miedema Produce, Inc is a family-owned business that specializes in growing, packaging, and distributing fresh produce. Founded in 1958, the Michigan-based company focuses on onions and carrots, offering a variety of sizes and packaging options. They are well-known for their commitment to quality and sustainability. They distribute their produce both domestically and internationally, providing farm-fresh products to consumers year-round.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e3071ca3d1fe08a802465d558e496dfc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwllzgvtyxbyb2r1y2uuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-03-20%20miedema%20produce%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-21 22:54:55.032563",
+    "disclosedDate": "2025-01-21 22:56:12.799810"
+  }
+}

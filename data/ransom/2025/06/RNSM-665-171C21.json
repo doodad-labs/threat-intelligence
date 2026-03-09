@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-171C21",
+  "type": "ransomware-incident",
+  "title": "TSE Industries & WHK Biosystems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TSE Industries & WHK Biosystems",
+    "domain": "tse-industries.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TSE Industries Inc is a manufacturer of custom-molded plastics, rubber parts, and elastomers. It is based in Clearwater, Florida.Established in 2012, WHK BioSystems is a contract manufacturer of single-use process components and assemblies for the biopharmaceutical, life sciences, and medical industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8a94f45cfa46ecbf9c5cc2cfe9bc2547.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfnfieluzhvzdhjpzxmgjibxsesgqmlvc3lzdgvtc0bkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-17 19:08:35.980393",
+    "disclosedDate": "2025-06-17 19:15:58.245234"
+  }
+}

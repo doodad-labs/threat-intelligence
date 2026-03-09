@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-31D6ED",
+  "type": "ransomware-incident",
+  "title": "stattorney.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "stattorney.org",
+    "domain": "stattorney.org",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "kairos",
+    "name": "kairos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "USA - State's Attorney Office",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/50511d914d7527f72fc7a5ab8c4520ca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rhdhrvcm5les5vcmdaa2fpcm9z",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-31 18:59:50.148573",
+    "disclosedDate": "2025-03-31 19:01:20.974602"
+  }
+}

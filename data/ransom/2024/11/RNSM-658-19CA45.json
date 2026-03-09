@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-19CA45",
+  "type": "ransomware-incident",
+  "title": "CMD ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CMD",
+    "domain": "cmd-corp.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4a0a70b18cc7453fcd272a4400a86de5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q01eqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 18:21:57.771049",
+    "disclosedDate": "2024-11-19 18:23:59.117132"
+  }
+}

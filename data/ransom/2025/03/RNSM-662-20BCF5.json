@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-20BCF5",
+  "type": "ransomware-incident",
+  "title": "Oag.state.va.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Oag.state.va.us",
+    "domain": "state.va.us",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2fnlnn0yxrllnzhlnvzqgnsb2fr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-20 15:25:12.720190",
+    "disclosedDate": "2025-03-20 15:25:14.389497"
+  }
+}

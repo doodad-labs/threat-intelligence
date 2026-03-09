@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-08761B",
+  "type": "ransomware-incident",
+  "title": "www.botiga.com.uy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.botiga.com.uy",
+    "domain": "botiga.com.uy",
+    "country": "UY",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "An online store where you will find everything you need and want for you and your family.We have over 10,000 products to complement every stage o...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/510780a138fdbc13748b5898dfd2c041.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmjvdglnys5jb20udxlayxb0nzm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-08 10:05:57.554926",
+    "disclosedDate": "2024-11-08 10:05:58.676552"
+  }
+}

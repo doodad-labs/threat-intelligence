@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-642-3104D5",
+  "type": "ransomware-incident",
+  "title": "St Landry Parish School Board  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "St Landry Parish School Board ",
+    "domain": "slpsb.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "St Landry Parish School Board is a school district based in Opelusas, Louisiana. The area includes primary, secondary and secondary schools. At the moment, more than 14,000 students are studying in them.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/404eff744e5ff899bce05b22cc97f7be.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3qgtgfuzhj5ifbhcmlzacbty2hvb2wgqm9hcmqgqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.theadvocate.com/acadiana/news/slpsb-victimized-in-ransomware-attack/article_98507368-2fe4-11ee-a4bc-4f95f3f4cba9.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-31 04:38:42.12345",
+    "disclosedDate": "2023-07-31 06:02:51.015855"
+  }
+}

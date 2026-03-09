@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-075308",
+  "type": "ransomware-incident",
+  "title": "ESCALI.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ESCALI.COM",
+    "domain": "escali.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Escala.com is a retail company that specializes in digital scales. They offer a vast range of products including kitchen scales, bathroom scales, body fat scales, and more. Their scales are designed for a variety of functions, such as aiding people with medical needs, fitness goals, or in the kitchen for cooking and baking. They strive to provide quality products with accuracy, efficiency, and user-friendly features.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a633d55f6c56b6c9caa20d55498cea69.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rvndquxjlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 20:44:00.261514",
+    "disclosedDate": "2026-02-07 20:44:13.500853"
+  }
+}

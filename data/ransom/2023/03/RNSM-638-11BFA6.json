@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-11BFA6",
+  "type": "ransomware-incident",
+  "title": "betastree.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "betastree.fr",
+    "domain": "betastree.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "darkpower",
+    "name": "darkpower",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d13fd10c0958f7e4020ba69ec1bf4b91.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymv0yxn0cmvllmzyqgrhcmtwb3dlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-11 13:55:56.138925",
+    "disclosedDate": "2023-03-11 13:55:56.138992"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-307A32",
+  "type": "ransomware-incident",
+  "title": "bostonconveyorandautomation.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bostonconveyorandautomation.com",
+    "domain": "bostonconveyorandautomation.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 11.05.2025.BCA, Boston Conveyor & Automation took its name from a city with a revolutionary history that has shaped itself into a world-class, technology-driven metropolis. Like that             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/594cba0942a44883508ee58f9ebbb015.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym9zdg9uy29udmv5b3jhbmrhdxrvbwf0aw9ulmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-20 00:00:00.000000",
+    "disclosedDate": "2025-04-30 11:11:50.380695"
+  }
+}

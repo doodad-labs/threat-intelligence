@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-079699",
+  "type": "ransomware-incident",
+  "title": "kempe.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kempe.com.au",
+    "domain": "kempe.com.au",
+    "country": "AU",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f71f03efbb7d1d2431e81dbaa3dd21e8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2vtcguuy29tlmf1qhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-21 00:00:00.000000",
+    "disclosedDate": "2024-08-07 14:38:11.856468"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-213228",
+  "type": "ransomware-incident",
+  "title": "Clipper Petroleum ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Clipper Petroleum",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 60000000000,
+    "description": "Clipper Petroleum is a petroleum marketer based in Flowery Branch, Georgia, with over 90 years of experience. The company operatesas a convenience store and fast food retailer while also servingas a wholesale fuel distributor.We will upload over 60gb of corporate data soon. Customer and employee personal documents, internal confidential files, detailed financial and accounting information, contracts and agreements, credit card details, NDAs and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2xpchblcibqzxryb2xldw1aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-21 00:00:00.000000",
+    "disclosedDate": "2026-01-21 16:12:29.248599"
+  }
+}

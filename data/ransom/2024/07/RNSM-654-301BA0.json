@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-301BA0",
+  "type": "ransomware-incident",
+  "title": "stb.ro ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "stb.ro",
+    "domain": "stb.ro",
+    "country": "RO",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have breached STB.ro (Romanian public transport). For us to wipe the databreach, we ask for a ransom of 5000 EUR.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7fc3940f97a609c78d4f666d5011694e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rilnjvqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-30 21:39:45.247838",
+    "disclosedDate": "2024-07-30 21:39:46.058339"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-24A2F9",
+  "type": "ransomware-incident",
+  "title": "Kontane Logistics, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kontane Logistics, Inc.",
+    "domain": "kontanelogistics.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "frag",
+    "name": "frag",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Business ServicesFounded in 1975, Kontane Logistics, Inc. offers a variety services, including warehousing, packaging and distribution. Additionally, Kontane Logistics, Inc. specializes in providing just in time (JIT) solutions to the truck and automotive manufacturing industry.Our team was successful in extracting the following documents:Financial statements of the companyCorporate internal documents and agreementsContact information of clients and employees",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s29udgfuzsbmb2dpc3rpy3msieluyy5aznjhzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-27 00:00:00.000000",
+    "disclosedDate": "2025-03-24 19:24:21.479472"
+  }
+}

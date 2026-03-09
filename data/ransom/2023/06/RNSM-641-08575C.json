@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-641-08575C",
+  "type": "ransomware-incident",
+  "title": "cortinawatch.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cortinawatch.com",
+    "domain": "cortinawatch.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The company did not want to negotiate and apparently they do not care about their customers' dataFULL SQL DUMP AND DATA https://temp.sh/cmdvr/localhost.sqlhttps://mega.nz/folder/97N3FaqZ#vcGltlP7U3ryM5JrCqmu7w",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f027a897f81c03ac02631909fbeaa971.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29ydgluyxdhdgnolmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.straitstimes.com/singapore/hacker-steals-data-of-luxury-retailer-cortina-watch-including-customer-details",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-08 10:06:00.000000",
+    "disclosedDate": "2023-06-08 10:52:17.769838"
+  }
+}

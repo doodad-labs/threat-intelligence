@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-117256",
+  "type": "ransomware-incident",
+  "title": "brockington.leisc.sch.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "brockington.leisc.sch.uk",
+    "domain": "brockington.leisc.sch.uk",
+    "country": "GB",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are a forward-looking and inclusive Church of England Academy. Central to all we do is our mission statement 'learning to live life to the full'. Taken from John 10:10, it is our aim that all students at Brockington College are able to flourish ac...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ca11f335e24b19874f31e3a15955108d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjvy2tpbmd0b24ubgvpc2muc2nolnvrqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-11 11:25:00.000000",
+    "disclosedDate": "2024-08-11 13:23:56.815906"
+  }
+}

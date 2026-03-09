@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-19E6E2",
+  "type": "ransomware-incident",
+  "title": "Valley Planing Mill (valleyplaning.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Valley Planing Mill (valleyplaning.com)",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 6000000000,
+    "description": "5,6 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/efd46b4210ed807f7fe1da8352f8ca8c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmfsbgv5ifbsyw5pbmcgtwlsbcaodmfsbgv5cgxhbmluzy5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 00:00:00.000000",
+    "disclosedDate": "2024-11-19 18:08:38.173706"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-651-30D17B",
+  "type": "ransomware-incident",
+  "title": "tudio Libeskind ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tudio Libeskind",
+    "domain": "libeskind.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 18000000000,
+    "description": "Studio Libeskind is a world-renowned architecture studio composedof architects and designers that believe architecture is a practice of optimism. 18Gb of files of this organization will be available for everyone in the world. A lot of joint projects information, accounting files, passports, contracts, agreements and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhvkaw8gtglizxnraw5kqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-30 18:13:50.771393",
+    "disclosedDate": "2024-04-30 18:13:50.849477"
+  }
+}

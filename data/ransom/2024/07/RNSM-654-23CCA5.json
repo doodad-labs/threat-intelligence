@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-654-23CCA5",
+  "type": "ransomware-incident",
+  "title": "Notarkammer Pfalz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Notarkammer Pfalz",
+    "domain": "notarkammer-pfalz.de",
+    "country": "",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "The Notary Fund and the Bavarian Notary Association. 200GB of dat a will be available. Numerous SQLs, employee information, detaile d financial data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm90yxjryw1tzxigugzhbhpaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.notarkammer-pfalz.de/presse/pressemitteilungen/betroffenenbenachrichtigung-nach-art-34-dsgvo/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-23 15:06:50.615102",
+    "disclosedDate": "2024-07-23 15:06:51.211149"
+  }
+}

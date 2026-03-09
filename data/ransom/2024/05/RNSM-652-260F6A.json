@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-260F6A",
+  "type": "ransomware-incident",
+  "title": "Kashin Distillery ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kashin Distillery",
+    "country": "IL",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "handala",
+    "name": "handala",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 32000000000,
+    "description": "Handala Hacked Kashin Distillery ( One of the largest factories for the production of alcoholic beverages in the occupied territories ) +32 GB Data Dumped! https://kashin.co.il https://web.archive.org/web/202404301014…hin.co.il/ https://www.host-tracker.com/en/ic/2/e23…2f9e88cc0e PoC: https://t.me/Handala_hack/255",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4497ddbadbffa644974694cf799133dd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fzagluierpc3rpbgxlcnlaagfuzgfsyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-30 05:46:22.000000",
+    "disclosedDate": "2024-05-26 12:24:18.586486"
+  }
+}

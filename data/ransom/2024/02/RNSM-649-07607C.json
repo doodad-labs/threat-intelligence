@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-649-07607C",
+  "type": "ransomware-incident",
+  "title": "Therme Laa Hotel and Silent Spa ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Therme Laa Hotel and Silent Spa",
+    "domain": "therme-laa.at",
+    "country": "AT",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Therme Laa - Hotel & Silent Spa is one of nine resorts in the VAMED Vitality World, the number one in Austrian spa and health tourism.therme-laa.at",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a93c8ef3bb27b69903110620a6034b53.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlcm1liexhysbib3rlbcbhbmqgu2lszw50ifnwyua4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://noe.orf.at/stories/3244135/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-07 00:00:00.000000",
+    "disclosedDate": "2024-02-07 02:54:39.103794"
+  }
+}

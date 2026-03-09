@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-28FE50",
+  "type": "ransomware-incident",
+  "title": "Mercy Supply Collaborative ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mercy Supply Collaborative",
+    "domain": "mercyscb.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mercy is a diversified, privately held healthcare services organization, focused on positioning itself to meet the challenges of an increasingly complex healthcare environment.We are ready to upload a lot of private corporate documents such as: financial data (audits, payment details, reports), contact numbers and e-mail addresses of employees and customers, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvyy3kgu3vwcgx5ienvbgxhym9yyxrpdmvaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-25 00:00:00.000000",
+    "disclosedDate": "2025-01-28 12:28:47.791035"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-091E5E",
+  "type": "ransomware-incident",
+  "title": "go4kora  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "go4kora ",
+    "domain": "go4kora.tv",
+    "country": "TV"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 12000000000,
+    "description": "Visits: 5 Data Size: 12GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/39cdd9444dad0c418fae8fe56afbc1d0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z280a29yysbacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-09 19:25:29.020827",
+    "disclosedDate": "2024-03-09 19:25:29.020869"
+  }
+}

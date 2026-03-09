@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-182733",
+  "type": "ransomware-incident",
+  "title": "oipip.gda.pl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "oipip.gda.pl",
+    "domain": "oipip.gda.pl",
+    "country": "PL",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The company \"oipip.gda.pl\" is associated with the Regional Chamber of Nurses and Midwives in Gdańsk, Poland. It focuses on the professional development, regulation, and representation of nurses and midwives within the region. The organization provides resources, training, and support to its members, ensuring adherence to professional standards and enhancing the quality of healthcare services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/00c57343173e57930dd9adbc25dd438f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b2lwaxauz2rhlnbsqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-28 00:00:00.000000",
+    "disclosedDate": "2024-09-18 09:55:19.234794"
+  }
+}

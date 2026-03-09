@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-654-238C88",
+  "type": "ransomware-incident",
+  "title": "ValeCard ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ValeCard",
+    "domain": "valecard.com.br",
+    "country": "BR",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 107600000000,
+    "description": "ValeCard (founded in 1995) - provides complex and integrated solutions for managing benefits, finances and frosts. ValeCard corporate office is located in 904 R Machado De Assis, Uberlandia, Minas Gerais, 38400-112, Brazil and has 399 employees. The total amount of data leakage is 107.6 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2b406449c3c9bb6c0ee4033c211a06b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmfszunhcmrabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://securityleaders.com.br/ataque-cibernetico-atinge-sistemas-da-valecard/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-15 18:36:45.000000",
+    "disclosedDate": "2024-07-23 12:03:21.798540"
+  }
+}

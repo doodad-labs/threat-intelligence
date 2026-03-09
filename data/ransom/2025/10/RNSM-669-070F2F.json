@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-070F2F",
+  "type": "ransomware-incident",
+  "title": "www.rocketstores.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.rocketstores.com",
+    "domain": "rocketstores.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "$738.9 Million | Gas Stations, Convenience & Liquor Stores Retail",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ede01cefbca34d5afc4fead2b40d3a00.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnjvy2tldhn0b3jlcy5jb21ay2hhb3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-26 00:00:00.000000",
+    "disclosedDate": "2025-10-07 19:51:25.176219"
+  }
+}

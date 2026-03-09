@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-298013",
+  "type": "ransomware-incident",
+  "title": "charlesjones.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "charlesjones.ca",
+    "domain": "charlesjones.ca",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 08.04.2025. A family business operating in Canada for more than 60 years we source and supply equipment for a variety of industries, including, agriculture, automotive, construction,             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e1d3c97996681214bbdbc0078587c657.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2hhcmxlc2pvbmvzlmnhqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-14 00:00:00.000000",
+    "disclosedDate": "2025-03-29 12:45:49.575557"
+  }
+}

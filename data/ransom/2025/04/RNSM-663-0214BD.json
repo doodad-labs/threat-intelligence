@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-0214BD",
+  "type": "ransomware-incident",
+  "title": "Prima Power ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Prima Power",
+    "domain": "primapower.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Prima Power provides businesses of all sizes with targeted dynamic technologies that enhance profitability in sheet metal working.We are ready to upload a lot of essential corporate documents such as: corporate NDA’s, financial data (audits, payment details, reports), etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjpbwegug93zxjaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-02 00:00:00.000000",
+    "disclosedDate": "2025-04-02 15:19:15.548301"
+  }
+}

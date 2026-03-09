@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-19506F",
+  "type": "ransomware-incident",
+  "title": "fluenthome.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fluenthome.com",
+    "domain": "fluenthome.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 600000000000,
+    "description": "Fluent Home General Information The company offers home security technology, energy management, security automation and mobile products and associated installation services, enhancing the quality of life and protecting homes and families in a user-friendly manner.SITE: www.fluenthome.com Address : Canadian Headquarters Edmonton, AB American Headquarters American Fork, UTALL DATA SIZE: ~600gb+ 1. Departments data(Financial, HR and etc.) 2. RnD 3. Users personal documents & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b16c9b7375a08ed4bf6b1d37e15b868d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmx1zw50ag9tzs5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-02 00:00:00.000000",
+    "disclosedDate": "2024-04-19 12:44:15.596970"
+  }
+}

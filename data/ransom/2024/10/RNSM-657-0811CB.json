@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-0811CB",
+  "type": "ransomware-incident",
+  "title": "tankerska.hr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tankerska.hr",
+    "domain": "tankerska.hr",
+    "country": "HR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tankerska Plovidba is a Croatian shipping company specializing in maritime transport, primarily focusing on the tanker and dry bulk segments. Headquartered in Zadar, it operates a modern fleet designed for the efficient and safe transport of oil, oil derivatives, and bulk cargo. The company is known for its commitment to high operational standards and environmental responsibility.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgfua2vyc2thlmhyqevsrg9yywrv",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-08 06:28:41.742722",
+    "disclosedDate": "2024-10-08 06:28:44.419091"
+  }
+}

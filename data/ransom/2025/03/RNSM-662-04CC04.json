@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-04CC04",
+  "type": "ransomware-incident",
+  "title": "IOVATE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IOVATE.COM",
+    "domain": "iovate.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Iovate Health Sciences International Inc. is a dynamic, leading-edge nutritional company that delivers high quality, innovative, and scientific-based diet and health supplements. Iovate is the maker of popular brands like MuscleTech, Six Star Pro Nutrition, Purely Inspired, and Hydroxycut. The company heavily relies on research, development, and marketing strategies, appealing to athletes and health-conscious individuals alike.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/53389f45d3c65c5148c3854ddbf042a7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/su9wqvrflknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-04 09:31:46.200039",
+    "disclosedDate": "2025-03-04 09:32:57.933331"
+  }
+}

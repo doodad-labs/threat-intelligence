@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-101454",
+  "type": "ransomware-incident",
+  "title": "Materialogic ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Materialogic",
+    "domain": "materialogic.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Materialogic offers services in eCommerce fulfillment, marketing logistics, warehousing and distribution, technology, and client and support services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c70b3234552fb7e77cc08992a46eb1fe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twf0zxjpywxvz2ljqhjvewfs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-10 01:02:03.456789",
+    "disclosedDate": "2023-03-10 09:12:55.266997"
+  }
+}

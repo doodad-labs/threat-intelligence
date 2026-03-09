@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-18EE9F",
+  "type": "ransomware-incident",
+  "title": "Carver Companies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Carver Companies",
+    "domain": "carvercompanies.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Freight & Logistics Services",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fydmvyienvbxbhbmllc0bkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-17 21:22:25.895771",
+    "disclosedDate": "2024-08-18 15:16:35.115210"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-3126F0",
+  "type": "ransomware-incident",
+  "title": "smartuigroup.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "smartuigroup.com.au",
+    "domain": "smartuigroup.com.au",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SmartUi was founded by three guys with slightly different skillsets that all share a passion for helping business owners future-proof their businesses. We came together with the strong belief we could provide more adaptable and flexible automation so...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3a6db1951f224c09f5d9b6fb11e9468f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c21hcnr1awdyb3vwlmnvbs5hdubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-31 12:38:00.000000",
+    "disclosedDate": "2023-10-31 13:32:10.980838"
+  }
+}

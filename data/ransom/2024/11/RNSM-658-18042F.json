@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-658-18042F",
+  "type": "ransomware-incident",
+  "title": "eastgateauto.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "eastgateauto.com",
+    "domain": "eastgateauto.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Eastgate Auto is an automotive dealership specializing in the sale of new and used vehicles. The company offers a wide selection of cars, trucks, and SUVs from various manufacturers. In addition to vehicle sales, Eastgate Auto provides financing options, maintenance, and repair services. The dealership is committed to customer satisfaction, offering a comprehensive and personalized car-buying experience.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b72cf8fada565d6ecbb41cab7e662a82.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwfzdgdhdgvhdxrvlmnvbubibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/94f8131a-07db-484c-a4d1-c9717938cd50.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 20:33:04.619300",
+    "disclosedDate": "2024-11-18 20:33:08.607236"
+  }
+}

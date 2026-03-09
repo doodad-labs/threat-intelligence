@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-13956B",
+  "type": "ransomware-incident",
+  "title": "leonardo.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "leonardo.com",
+    "domain": "leonardo.com",
+    "country": "IT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Leonardo is a global aerospace, defense, and security company providing helicopters, security electronics, aeronautics, and space defense systems. The company was founded in 1948 and is headquartered in Rome, Italy.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgvvbmfyzg8uy29tqhrocmvlyw0=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-15 00:00:00.000000",
+    "disclosedDate": "2025-02-13 17:33:42.859573"
+  }
+}

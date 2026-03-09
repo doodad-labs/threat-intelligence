@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-2137E5",
+  "type": "ransomware-incident",
+  "title": "DMF Lighting ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DMF Lighting",
+    "domain": "dmflighting.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 600000000000,
+    "description": "Founded 1988 and Headquartered in California, United States. DMF Lighting designs and builds LED downlighting that sets the bar for simplicity.Over 600 GB of data ( projects , finacial statments , clients data ) stolen.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8e535b7099d9848196a90a69385c5090.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/re1giexpz2h0aw5nqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-30 00:00:00.000000",
+    "disclosedDate": "2024-11-21 11:33:09.409842"
+  }
+}

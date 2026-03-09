@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-03C0A3",
+  "type": "ransomware-incident",
+  "title": "FedEx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FedEx",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "shinyhunters",
+    "name": "shinyhunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] FedEx Corporation is a multinational delivery services company headquartered in Memphis, Tennessee. Founded in 1971, it offers courier express, freight forwarding, logistics services globally. Along with these, FedEx provides e-commerce, packaging, shipping and business services. It pioneered a system for real-time tracking of packages which has now become an industry standard. With a fleet of cargo aircraft, FedEx is one of the world's largest airlines.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/63d5eb8707838bce67de2b8759176b5b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmvkrxhac2hpbnlodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-31 00:00:00.000000",
+    "disclosedDate": "2025-10-03 15:39:51.141970"
+  }
+}

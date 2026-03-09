@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-14D161",
+  "type": "ransomware-incident",
+  "title": "landal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "landal.com",
+    "domain": "landal.com",
+    "country": "CH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Landal GreenParks - Over 95 parks in The Netherlands, Belgium, Germany, Austria, Switzerland, Czech Republic, Hungary, Denmark and England",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/045bfd01253ee6d1df9cfef87b84f058.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgfuzgfslmnvbubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-14 20:20:26.913403",
+    "disclosedDate": "2023-06-14 20:20:26.913420"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-17E338",
+  "type": "ransomware-incident",
+  "title": "taobao.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "taobao.com",
+    "domain": "taobao.com",
+    "country": "CN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "taobao.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cfd88892d3f5e3881231324dc25ec410.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgfvymfvlmnvbubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-17 02:50:47.436420",
+    "disclosedDate": "2025-03-17 02:51:54.254234"
+  }
+}

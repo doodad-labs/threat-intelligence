@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-26D070",
+  "type": "ransomware-incident",
+  "title": "Waterbury Newton ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Waterbury Newton",
+    "domain": "wnns.ca",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A full service law firm located in Kentville, Nova Scotia. We wil l upload files of their client soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2f0zxjidxj5ie5ld3rvbkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-26 15:38:39.993117",
+    "disclosedDate": "2024-06-26 15:38:40.674021"
+  }
+}

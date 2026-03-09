@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-16E43C",
+  "type": "ransomware-incident",
+  "title": "tormetal.cl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tormetal.cl",
+    "domain": "tormetal.cl",
+    "country": "CL",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/05a5bdda48b93609acc55b23dbf357cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dg9ybwv0ywwuy2xabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-16 08:27:00.000000",
+    "disclosedDate": "2024-02-16 12:06:04.807984"
+  }
+}

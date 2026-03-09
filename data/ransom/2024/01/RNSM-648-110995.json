@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-648-110995",
+  "type": "ransomware-incident",
+  "title": "Water For People ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Water For People",
+    "domain": "waterforpeople.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Water For People is a global nonprofit dedicated to promoting the development of high-quality drinking water and sanitation services, accessible to all, and sustained by strong communities, businesses and governments. The main office of the company is located at 100 E Tennessee Ave, Denver, Colorado, 80209, United States.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a2083b8870b3b72d1c8a6f266d33b5dc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2f0zxigrm9yifblb3bszubtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/breacha30470.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-11 11:45:59.12345",
+    "disclosedDate": "2024-01-11 13:26:17.932758"
+  }
+}

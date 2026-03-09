@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-659-20AC62",
+  "type": "ransomware-incident",
+  "title": "Jared Beschel and Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jared Beschel and Associates",
+    "domain": "beschellaw.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 35000000000,
+    "description": "Jared Beschel and Associates, P.C. is a law firm specializing in real estate transactional matters for individual homeowners looking to buy, sell, refinance, or lease their primary home or investment property.We are ready to upload more than 35 GB of internal corporate documents including: driver licenses,  contact numbers and e-mail addresses of employees and customers, SSNs, inside financial documents, passport scans, etc.",
+    "claimed_data_types": [
+      "phone-numbers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smfyzwqgqmvzy2hlbcbhbmqgqxnzb2npyxrlc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-19 00:00:00.000000",
+    "disclosedDate": "2024-12-20 04:05:42.956437"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-29A4C3",
+  "type": "ransomware-incident",
+  "title": "Berridge Manufacturing Co. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Berridge Manufacturing Co.",
+    "domain": "berridge.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[IA generated] Berridge Manufacturing Co. specializes in the production of high-quality metal roofing and siding products. Established in 1970, the company is known for its innovative design and engineering, offering a wide range of metal panels, architectural products, and portable roll-forming machines. Berridge is committed to sustainability and provides solutions for both residential and commercial applications.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/49990433f3645bb2aed2db835a9c10cc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvycmlkz2ugtwfudwzhy3r1cmluzybdby5aqnjhaw5daxbozxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-29 10:14:30.754710",
+    "disclosedDate": "2024-10-29 10:14:33.053623"
+  }
+}

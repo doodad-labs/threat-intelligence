@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-22790C",
+  "type": "ransomware-incident",
+  "title": "boloforms.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "boloforms.com",
+    "domain": "boloforms.com",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We allow you to efficiently manage document workflows, send multi-recipient signatures, and receive real-time updates, significantly streamlining your operations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/585c106a7c2a6160eb9987508243c208.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym9sb2zvcm1zlmnvbubrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-22 02:11:51.731651",
+    "disclosedDate": "2024-10-22 02:11:52.655501"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-22F49E",
+  "type": "ransomware-incident",
+  "title": "newagesys.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "newagesys.com",
+    "domain": "newagesys.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/NEWAGESYS/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/NEWAGESYS/PROOF/DATA DESCRIPTIONS: Accounting\\payroll\\tax documents, HR data, Personal Identifying information, background reports, corporate correspondence\\mailbox backups, employees personal folders, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/788f0fd2eb6050c7c4659ba0950f5d5e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmv3ywdlc3lzlmnvbubjywn0dxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-29 00:00:00.000000",
+    "disclosedDate": "2024-03-22 13:26:15.592371"
+  }
+}

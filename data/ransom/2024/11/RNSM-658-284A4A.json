@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-284A4A",
+  "type": "ransomware-incident",
+  "title": "ALLTUB Group (alltub.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ALLTUB Group (alltub.com)",
+    "domain": "alltub.com",
+    "country": "FR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "20 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/30521c6a8ca11e9e4e4218f3f7908983.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/quxmvfvciedyb3vwichhbgx0dwiuy29tkubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-28 00:00:00.000000",
+    "disclosedDate": "2024-11-28 14:07:41.210153"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-656-05715E",
+  "type": "ransomware-incident",
+  "title": "kawasaki.eu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kawasaki.eu",
+    "domain": "kawasaki.eu",
+    "country": "NL",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kawasaki.eu represents the European branch of Kawasaki Heavy Industries, a global leader in the production of motorcycles, engines, aerospace equipment, and industrial machinery. Renowned for innovation and quality, Kawasaki delivers advanced technology products and services to a wide range of industries, including transportation, energy, and manufacturing, ensuring high performance and reliability.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8da6ca792e9d421eb32f0f9195aa9ebe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2f3yxnha2kuzxvacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://webcache.googleusercontent.com/search?q=cache%3ahttps%3a%2f%2fwww.kawasaki.co.uk%2fen%2fnews%2fkawasaki_s_european_hq_recovers_from_cyber_attack_%3fuid%3d0805cwpyxqpdwvlqdv9yxfsoufbfwq5ycl9fuvtcwwtfwv0%23%3a~%3atext%3d12%2520september%25202024%2520kawasaki%27s%2520european%2520hq%2520recovers%2520from%2520cyber%2520attack%26text%3dat%2520the%2520start%2520of%2520september%2clater%2520on%2520the%2520same%2520day",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-05 19:41:05.000000",
+    "disclosedDate": "2024-09-05 20:10:23.233562"
+  }
+}

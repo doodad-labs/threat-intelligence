@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-184635",
+  "type": "ransomware-incident",
+  "title": "seaislerealty.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "seaislerealty.com",
+    "domain": "seaislerealty.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Seaislerealty.com is a real estate company specializing in properties located in Sea Isle City, New Jersey. They offer a range of services including buying, selling, and renting homes, vacation properties, and investment opportunities. The company is known for its extensive local market knowledge, personalized customer service, and commitment to helping clients find their ideal property in the coastal area.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2be39e2af9d2d7c4a9b6eefffae8d2ad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vhaxnszxjlywx0es5jb21aznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-18 17:01:24.670996",
+    "disclosedDate": "2024-12-18 17:01:27.189364"
+  }
+}

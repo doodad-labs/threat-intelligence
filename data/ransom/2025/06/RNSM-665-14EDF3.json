@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-14EDF3",
+  "type": "ransomware-incident",
+  "title": "theoverheaddoorco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "theoverheaddoorco.com",
+    "domain": "theoverheaddoorco.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] The Overhead Door Company is a premier garage door service provider in the US, specializing in residential and commercial garage door installation, maintenance, and repair. Their product line includes a wide range of overhead and garage doors and operators, as well as related accessories. They also offer customizable designs to meet specific aesthetic or functional needs, and are known for their reliability and professional service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc2e34f706ed7a500cca75827fbba0b3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghlb3zlcmhlywrkb29yy28uy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-03 00:00:00.000000",
+    "disclosedDate": "2025-06-14 14:39:45.032246"
+  }
+}

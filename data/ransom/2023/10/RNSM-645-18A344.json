@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-18A344",
+  "type": "ransomware-incident",
+  "title": "KBS Accountants ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KBS Accountants",
+    "domain": "kbs-accountants.nl",
+    "country": "NL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "KBS Accountants, Tax Specialists & Lawyers is a team of ambitious entrepreneurs. We don't wait, we think along and roll up our sleeves. We do not believe in thick reports, ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4b5142885f8ac5eb06a023fa25f63ed7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0jtiefjy291bnrhbnrzqg5vzxnjyxbl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-12 00:00:00.000000",
+    "disclosedDate": "2023-10-18 08:42:04.877279"
+  }
+}

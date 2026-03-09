@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-25AD10",
+  "type": "ransomware-incident",
+  "title": "J.T. Cullen Co., Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "J.T. Cullen Co., Inc.",
+    "domain": "jtcullenco.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are an employee owned (ESOP) custom metal fabrication company located in Fulton, Il specializing in large and unique metal fabrications. For over 60 years, our company has been providing high quality fabrications to various industries including power, steel mill, architectural and rail. We are an ISO 9001:2015 and ASME certified company with a very experienced and dedicated employee base. https://www.jtcullenco.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d0a4d1393e8e321237101a1e40f9abb5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/si5ulibddwxszw4gq28ulcbjbmmuqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-25 00:00:00.000000",
+    "disclosedDate": "2023-09-25 05:29:52.101063"
+  }
+}

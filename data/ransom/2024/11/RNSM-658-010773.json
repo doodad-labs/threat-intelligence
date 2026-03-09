@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-010773",
+  "type": "ransomware-incident",
+  "title": "AIMS, Inc. Fuel Business Accounting Software, Jobber Software Wholesale Petroleum Acco ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AIMS, Inc. Fuel Business Accounting Software, Jobber Software Wholesale Petroleum Acco",
+    "domain": "aims1.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "We have over 200 GB of clients data and other informations stolen from their servers . Company has 48 hours to contact us",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/66fafed0a375e611f4773e2c9caef34b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qulnuywgsw5jlibgdwvsiej1c2luzxnziefjy291bnrpbmcgu29mdhdhcmusiepvymjlcibtb2z0d2fyzsbxag9szxnhbgugugv0cm9szxvtiefjy29acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 00:00:00.000000",
+    "disclosedDate": "2024-11-01 03:27:01.793624"
+  }
+}

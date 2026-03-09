@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-07AFDD",
+  "type": "ransomware-incident",
+  "title": "MARYKAY.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MARYKAY.COM",
+    "domain": "marykay.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mary Kay - Official Site",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bb08739bdb01a9880734ee7ef60baf27.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tufswutbws5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-07 16:23:15.358938",
+    "disclosedDate": "2023-07-07 16:23:15.358958"
+  }
+}

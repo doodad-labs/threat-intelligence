@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-236A90",
+  "type": "ransomware-incident",
+  "title": "General Formulations ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "General Formulations",
+    "domain": "generalformulations.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1953, General Formulations is a family owned company located in Sparta, Michigan. We have several solvent and water based coating lines as well as one of the largest converting operations in the industry, specializing in slitting, sheeting, punching and packaging. Our corporate headquarters has 400,000 square feet of manufacturing and converting space to service the ever growing needs of our customers.Spartan Graphics specializes in developing and printing point of purchase and marketing materials.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2a613af34a4b61da8bb72ddf3a9ea037.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2vuzxjhbcbgb3jtdwxhdglvbnnaaw50zxjsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-04 00:00:00.000000",
+    "disclosedDate": "2025-03-23 18:32:03.584114"
+  }
+}

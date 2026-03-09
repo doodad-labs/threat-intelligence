@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-642-10D66D",
+  "type": "ransomware-incident",
+  "title": "Hamre Schumann Mueller & Larson HSML ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hamre Schumann Mueller & Larson HSML",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 102000000000,
+    "description": "HSML serves the intellectual property needs of a wide range of businesses and individuals from around the world. Their file base includes confidential documents, contracts, clients' personal information, and anything else you might need. 102 GB of their documents will soon be uploaded.",
+    "claimed_data_types": [
+      "internal-documents",
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgftcmugu2nodw1hbm4gtxvlbgxlciamiexhcnnvbibiu01mqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-10 01:02:03.456789",
+    "disclosedDate": "2023-07-10 17:58:39.222893"
+  }
+}

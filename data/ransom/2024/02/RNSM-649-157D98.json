@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-157D98",
+  "type": "ransomware-incident",
+  "title": "champion.com.co ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "champion.com.co",
+    "domain": "champion.com.co",
+    "country": "CO",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "International freight forwarding & logistics providers",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc0163ad0b7deaf78a932cd3c62b4b2c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2hhbxbpb24uy29tlmnvqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-02 00:00:00.000000",
+    "disclosedDate": "2024-02-15 11:58:32.007237"
+  }
+}

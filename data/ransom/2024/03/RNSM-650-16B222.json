@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-16B222",
+  "type": "ransomware-incident",
+  "title": "Bwizer ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bwizer",
+    "domain": "bwizer.com",
+    "country": "PT",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "trigona",
+    "name": "trigona",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bwizer is a prominent entity known for its dedication to advancing the fields of healthcare and wellness education. With a stronghold in Portugal, Bwizer has emerged as a leading platform providing comprehensive educational resources and training programs tailored to professionals in the healthcare and wellness sectors. Founded with a vision to bridge the gap between traditional education and the evolving needs of modern healthcare practices, Bwizer offers a diverse range of courses, workshops, and events designed to empower professionals with the latest knowledge and skills.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cf4e7afb0228c1097b03ea50dc41b82b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qndpemvyqhryawdvbme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-16 12:00:00.000000",
+    "disclosedDate": "2024-03-16 19:20:10.044838"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-19BECF",
+  "type": "ransomware-incident",
+  "title": "ALLEGIANTAIR.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ALLEGIANTAIR.COM",
+    "domain": "allegiantair.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Attention Required! - Cloudflare",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/80f6e9e22ae682c257fe159f9529aa0f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/quxmrudjqu5uqulslknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-19 01:16:17.325071",
+    "disclosedDate": "2023-07-19 01:16:17.325101"
+  }
+}

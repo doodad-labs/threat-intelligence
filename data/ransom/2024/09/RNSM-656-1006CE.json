@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-1006CE",
+  "type": "ransomware-incident",
+  "title": "Vickers Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vickers Engineering",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 25000000000,
+    "description": "Established in 1970, Vickers has evolved into a world class Precision Machining company. 25Gb of data to be disclosed. SSNs, driver licenses and other employee data. Lots of NDAs, agreements, contracts. Accounting and financial files are also represented.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmlja2vycybfbmdpbmvlcmluz0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-10 17:00:22.466273",
+    "disclosedDate": "2024-09-10 17:00:23.402292"
+  }
+}

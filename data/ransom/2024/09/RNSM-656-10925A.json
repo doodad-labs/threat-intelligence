@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-10925A",
+  "type": "ransomware-incident",
+  "title": "www.vinatiorganics.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.vinatiorganics.com",
+    "domain": "vinatiorganics.com",
+    "country": "IN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Vinati Organics is a leading global producer of specialty chemicals and organic intermediaries, headquartered in India. The company specializes in manufacturing high-quality products like IBB, ATBS, IB, and HPMTBE, which serve diverse industries such as pharmaceuticals, agrochemicals, and water treatment. Vinati Organics is known for its commitment to innovation, sustainability, and customer satisfaction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/03b0556a9a636deff0c59b5faa66e5e5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnzpbmf0aw9yz2fuawnzlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-28 00:00:00.000000",
+    "disclosedDate": "2024-09-10 23:33:09.834085"
+  }
+}

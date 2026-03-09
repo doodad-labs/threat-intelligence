@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-651-09DB5D",
+  "type": "ransomware-incident",
+  "title": "Vstblekinge Miljo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vstblekinge Miljo",
+    "domain": "vmab.se",
+    "country": "SE"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Vstblekinge Miljo AB is a company that operates in the Transportation/Trucking/Railroad industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vnn0ymxla2luz2ugtwlsam9azhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-09 12:23:52.249240",
+    "disclosedDate": "2024-04-09 13:52:49.525250"
+  }
+}

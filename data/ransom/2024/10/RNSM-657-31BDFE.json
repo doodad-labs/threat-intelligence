@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-31BDFE",
+  "type": "ransomware-incident",
+  "title": "inhometexas.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "inhometexas.com",
+    "domain": "inhometexas.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "In-Home Attendant Services partners with individuals of every age and disability to assist them with living a more independent lifestyle. With either the CDS or Agency option, you have choices that help you take charge of who comes into your...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw5ob21ldgv4yxmuy29tqhrocmvlyw0=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-31 13:30:20.243187",
+    "disclosedDate": "2024-10-31 13:30:21.335257"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-21BE08",
+  "type": "ransomware-incident",
+  "title": "nirvanahotels.com.tr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nirvanahotels.com.tr",
+    "domain": "nirvanahotels.com.tr",
+    "country": "TR",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Full names of hotel guests a    Email addresses (internal and external)    Customer complaints and feedback content    Booking or reference numbers    Internal hotel communication data ......",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1c3bed9b0c04f0d4a49a1dc302b0e4cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmlydmfuywhvdgvscy5jb20udhjac3rvcm1vdxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-21 11:48:36.385626",
+    "disclosedDate": "2025-05-21 11:49:39.254312"
+  }
+}

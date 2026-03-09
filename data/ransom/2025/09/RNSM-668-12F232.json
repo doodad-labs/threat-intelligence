@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-12F232",
+  "type": "ransomware-incident",
+  "title": "osdcourtks.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "osdcourtks.org",
+    "domain": "osdcourtks.org",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The domain osdcourtks.org appears to belong to the Osage County District Court in Kansas. As part of Kansas’s Fourth Judicial …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0e1b113f7da2124952cc6458f698d015.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b3nky291cnrrcy5vcmdac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-04 00:00:00.000000",
+    "disclosedDate": "2025-09-12 17:35:54.272160"
+  }
+}

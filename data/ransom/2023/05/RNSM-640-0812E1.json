@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-0812E1",
+  "type": "ransomware-incident",
+  "title": "avidxchange.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "avidxchange.com",
+    "domain": "avidxchange.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AvidXchange, Inc All database backups from production servers",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxzpzhhjagfuz2uuy29tqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://techcrunch.com/2023/05/03/avidxchange-second-ransomware-attack-2023/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-08 14:51:12.882545",
+    "disclosedDate": "2023-05-08 14:51:12.882568"
+  }
+}

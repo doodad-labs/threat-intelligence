@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-642-168E96",
+  "type": "ransomware-incident",
+  "title": "www.stri.se ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.stri.se",
+    "domain": "stri.se",
+    "country": "SE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 189000000000,
+    "description": "STRI, 189Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnn0cmkuc2vaywj5c3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-16 17:53:20.500293",
+    "disclosedDate": "2023-07-16 17:53:20.500318"
+  }
+}

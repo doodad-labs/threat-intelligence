@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-144672",
+  "type": "ransomware-incident",
+  "title": "Persyn ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Persyn",
+    "domain": "persyn.be",
+    "country": "BE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Construction. [persyn is een betrouwbaar, gezond en innovatief bouwbedrijf,gespecialiseerd in industriële en infrastructuurwerken,met waardering voor personeel ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvyc3luqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-13 00:00:00.000000",
+    "disclosedDate": "2024-05-14 04:31:19.491935"
+  }
+}

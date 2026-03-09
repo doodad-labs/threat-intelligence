@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-125404",
+  "type": "ransomware-incident",
+  "title": "lawyersmutual.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lawyersmutual.com",
+    "domain": "lawyersmutual.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 16.06.2025.Lawyers Mutual Insurance Company is a key provider of legal malpractice insurance designed specifically for California lawyers, boasting five decades of reliable service. T            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ed108a491f26fe742548eaa68f5edb8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgf3ewvyc211dhvhbc5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-06 00:00:00.000000",
+    "disclosedDate": "2025-06-12 10:05:34.321885"
+  }
+}

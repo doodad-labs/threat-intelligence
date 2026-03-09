@@ -1,0 +1,31 @@
+{
+  "id": "RNSM-673-2462EF",
+  "type": "ransomware-incident",
+  "title": "Huber ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Huber",
+    "country": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Huber AG manufactures mailbox and parcel locker systems for residential complexes, as well as individual and group mailboxes for specialist retailers.We will upload corporate data soon. Employee personal documents scans (passports, DLs and so on), specifications, projects, financials, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/shvizxjaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-24 00:00:00.000000",
+    "disclosedDate": "2026-02-24 13:56:36.849962"
+  }
+}

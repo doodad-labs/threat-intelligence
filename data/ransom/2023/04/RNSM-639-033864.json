@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-639-033864",
+  "type": "ransomware-incident",
+  "title": "Steve Silver furniture ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Steve Silver furniture",
+    "domain": "stevesilver.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 17000000000,
+    "description": "Steve Silver furniture company provides its costumers with different kinds of residential furniture for more than 30 years. Recently they provided us with the information about their customers, their contact data, contracts and payment information and so on. In total we have 17GB of Steve Silver's internal data interesting to look at.You are welcome to see it in details.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f814c3434e0e9bcc5948da33332e1e16.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rldmugu2lsdmvyigz1cm5pdhvyzubyb3lhba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-30 01:02:03.456789",
+    "disclosedDate": "2023-04-03 05:13:18.093781"
+  }
+}

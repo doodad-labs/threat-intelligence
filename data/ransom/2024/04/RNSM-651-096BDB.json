@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-651-096BDB",
+  "type": "ransomware-incident",
+  "title": "numotion.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "numotion.com",
+    "domain": "numotion.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000000,
+    "description": "Numotion is the nation’s largest and leading provider of products and services to help individuals with mobility limitations maximize their health, personal independence, and actively participate in everyday life. Through our collection of brands, we provide those living with disabilities greater independence. Numotion, the company works with clinicians and health plans to serve people living with disabilities with prescription-based products including individually configured Complex Rehab Technology (CRT), catheters, and other assistive technologies.SITE: www.numotion.com Address : 155 Franklin Rd, Ste. 300. Brentwood, TN 37027, USAALL DATA SIZE: ~2.0tb 1. Human Resources 2. Users Shared Data 3. Payroll and financial data 4. Personal Users Folders 5. Legal data 6. Confidential documents & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ef692640712843354433da83c153c95c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bnvtb3rpb24uy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.jdsupra.com/legalnews/numotion-announces-data-breach-stemming-9046595/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-02 00:00:00.000000",
+    "disclosedDate": "2024-04-09 17:06:49.667178"
+  }
+}

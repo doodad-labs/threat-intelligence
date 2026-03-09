@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-640-15F228",
+  "type": "ransomware-incident",
+  "title": "Parker Drilling ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Parker Drilling",
+    "domain": "parkerwellbore.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 675000000000,
+    "description": "Parker Drilling is a drilling solutions company that provides support services to the oil and gas industries. We have spent some time in Parker's network and obtained 675GB of their interesting papers. Their accounting and human resources work well. So detailed data. Almost full set of personal documents of employees, numerous contracts and projects. You will be able to download everything soon as always.Enjoy!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a92202ed65d33319e3af72a58255f791.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfya2vyieryawxsaw5nqhjvewfs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-15 01:02:03.456789",
+    "disclosedDate": "2023-05-15 17:53:53.737564"
+  }
+}

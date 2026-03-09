@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-06B36A",
+  "type": "ransomware-incident",
+  "title": "Mediplast AB ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mediplast AB",
+    "domain": "mediplast.com",
+    "country": "SE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mediplast Mediplast is a Swedish company, who sells and distributes medical devices, primarily in the Nordic region.mediplast.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/82a09fe1c37b20beba8e44be72d59f34.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvkaxbsyxn0iefcqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-06 00:00:00.000000",
+    "disclosedDate": "2024-03-06 02:44:36.132832"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-130C53",
+  "type": "ransomware-incident",
+  "title": "SERGAS Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SERGAS Group",
+    "domain": "sergasgroup.com",
+    "country": "AE",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SERGAS Group is the expert in gas field in Gulf region, managed by an experienced and competent team offering quality products, reliable gas supply and genuine customer service. SERGAS Group is the pioneer in central gas systems and distribution of gas to domestic, commercial and industrial customers. The Group was initiated in 1988 by International Gas Services Est. and after 24 years became the most developed organization in its sector in the United Arab Emirates.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/adbf200e4d1a899774779525072a57e7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0vsr0ftiedyb3vwqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-23 00:00:00.000000",
+    "disclosedDate": "2025-01-13 21:53:36.817130"
+  }
+}

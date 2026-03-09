@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-27B1ED",
+  "type": "ransomware-incident",
+  "title": "iptelecom GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "iptelecom GmbH",
+    "domain": "iptelecom.at",
+    "country": "DE",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "ciphbit",
+    "name": "ciphbit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] iptelecom GmbH is a German telecommunications company offering a wide range of services, including call-by-call, pre-selection, fixed network connections, internet connections, service numbers and value-added services. It was founded in 1998 and is known for making telecommunications simple, affordable and accessible. The company has developed innovative technologies and services to meet the unique needs of both businesses and consumers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axb0zwxly29tiedtykhay2lwagjpda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-27 00:00:00.000000",
+    "disclosedDate": "2025-05-27 14:48:44.770175"
+  }
+}

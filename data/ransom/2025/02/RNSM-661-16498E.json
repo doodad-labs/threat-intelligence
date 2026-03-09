@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-16498E",
+  "type": "ransomware-incident",
+  "title": "QBurst ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "QBurst",
+    "domain": "qburst.com",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: Acqua development, QBurst, Pamyra.de- QBurst is a full-service software development company offering services in cloud enablement, data and AI, digitalization, and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c6ae07a53cb8723c6a9ec68dd038f564.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uuj1cnn0qgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-16 11:04:50.797603",
+    "disclosedDate": "2025-02-16 11:04:51.972779"
+  }
+}

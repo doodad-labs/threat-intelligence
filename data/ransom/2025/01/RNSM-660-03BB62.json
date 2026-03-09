@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-660-03BB62",
+  "type": "ransomware-incident",
+  "title": "Nikki-Universal Co Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nikki-Universal Co Ltd",
+    "domain": "n-u.co.jp",
+    "country": "JP"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Japan - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/71ab081d9e7185ac56c749a4222a041e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmlra2ktvw5pdmvyc2fsienviex0zebodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://cybersecuritynews.com/nikki-universal-cyber-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-03 12:10:00.000000",
+    "disclosedDate": "2025-01-03 13:26:47.315082"
+  }
+}

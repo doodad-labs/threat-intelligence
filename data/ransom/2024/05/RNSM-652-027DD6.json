@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-027DD6",
+  "type": "ransomware-incident",
+  "title": "Lewis Brothers Bakeries ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lewis Brothers Bakeries",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 115920000000,
+    "description": "Lewis Brothers Bakeries - a company that operates a chain of bakeries in 17 states. Lewis Brothers Bakeries corporate office is located in 1220 W Michigan St, Evansville, Indiana, 47710, United States and has 396 employees. The total amount of data leakage 115.92 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgv3axmgqnjvdghlcnmgqmfrzxjpzxnabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-30 20:04:16.12345",
+    "disclosedDate": "2024-05-02 14:07:08.774369"
+  }
+}

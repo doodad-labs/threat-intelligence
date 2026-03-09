@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-012881",
+  "type": "ransomware-incident",
+  "title": "ckgroup.com.tw ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ckgroup.com.tw",
+    "domain": "ckgroup.com.tw",
+    "country": "TW",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Chien Kuo Construction",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c310540d7b0f2944693d38cdf8038046.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2tncm91cc5jb20udhdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-01 22:57:00.000000",
+    "disclosedDate": "2023-10-01 23:40:59.234598"
+  }
+}

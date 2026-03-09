@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-654-25C5FB",
+  "type": "ransomware-incident",
+  "title": "crimsonwinegroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "crimsonwinegroup.com",
+    "domain": "crimsonwinegroup.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1600000000000,
+    "description": "crimsonwinegroup.com.com 1.6Tb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3jpbxnvbndpbmvncm91cc5jb21aywj5c3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.sec.gov/archives/edgar/data/1562151/000156215124000032/cwgl-20240725.htm",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-25 07:19:58.099167",
+    "disclosedDate": "2024-07-25 07:19:59.104958"
+  }
+}

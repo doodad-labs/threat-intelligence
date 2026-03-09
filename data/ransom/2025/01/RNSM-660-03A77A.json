@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-03A77A",
+  "type": "ransomware-incident",
+  "title": "SolGeo AG Baugelogie and Geotechnik ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SolGeo AG Baugelogie and Geotechnik",
+    "domain": "solgeo.ch",
+    "country": "CH",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SolGeo is an established and innovative consulting firm with headquarters in Solothurn and branches in Liestal (canton of Basel-Landschaft) and Willisauhttps://www.solgeo.ch/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6d63d9e307a9b389aad25ac181ad7b93.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u29sr2vviefhiejhdwdlbg9nawugyw5kiedlb3rly2huawtaogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-03 00:00:00.000000",
+    "disclosedDate": "2025-01-03 10:18:35.049262"
+  }
+}

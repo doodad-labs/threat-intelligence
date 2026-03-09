@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-07AA41",
+  "type": "ransomware-incident",
+  "title": "Bayhealth Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bayhealth Hospital",
+    "domain": "bayhealth.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bayhealth Hospital Bayhealth is a technologically advanced not-for-profit healthcare system with nearly 4,000 employees and a medical staff of more than 450 physicians and 200 advanced practice clinicians.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmf5agvhbhroiehvc3bpdgfsqhjoexnpzge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-07 17:17:15.746906",
+    "disclosedDate": "2024-08-07 17:17:16.846131"
+  }
+}

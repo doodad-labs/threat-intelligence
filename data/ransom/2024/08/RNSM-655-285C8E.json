@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-285C8E",
+  "type": "ransomware-incident",
+  "title": "mykukun.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mykukun.com",
+    "domain": "mykukun.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kukun helps homeowners buy better and renovate smarter. It offers a suite of data-driven home investment insight products tailored for homeowners, investors, realtors, and professionals",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a401f3a1b7ee3887350eb90f5dd5d2c8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bxlrdwt1bi5jb21aa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-28 12:46:43.745229",
+    "disclosedDate": "2024-08-28 12:46:44.788800"
+  }
+}

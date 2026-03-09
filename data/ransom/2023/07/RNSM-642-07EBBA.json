@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-07EBBA",
+  "type": "ransomware-incident",
+  "title": "USG.EDU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "USG.EDU",
+    "domain": "usg.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "University System of Georgia",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34275cf646fcdfac1435a3635ad10e04.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vvnhlkvevubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-07 16:24:05.986954",
+    "disclosedDate": "2023-07-07 16:24:05.986979"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-252613",
+  "type": "ransomware-incident",
+  "title": "slipstreaminc.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "slipstreaminc.org",
+    "domain": "slipstreaminc.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Slipstream creates, tests, delivers and scales the next generation of energy efficiency and renewable energy programs that move us farther, faster toward a clean energy economy.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4054b9ffe221fd1e0f9469775e1aef9e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2xpchn0cmvhbwluyy5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-25 13:18:00.000000",
+    "disclosedDate": "2023-03-25 15:01:00.813432"
+  }
+}

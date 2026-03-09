@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-662-06576A",
+  "type": "ransomware-incident",
+  "title": "lovesac.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lovesac.com",
+    "domain": "lovesac.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] LoveSac is a U.S-based company specializing in modern furniture products. Their product line includes original foam-filled Lovesac bean bags and modular, adjustable Sactionals. These pieces offer customization in design and are made with sustainability in mind. Additionally, Lovesac provides a range of home accessories like blankets, footsacs, and pillows. Their products combine comfort, durability, and an eco-friendly ethos.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7342703025b832409b094c02f40a3f97.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bg92zxnhyy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/151529d0-c371-4158-80ce-8b8fd781bf5c.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-06 16:12:48.000000",
+    "disclosedDate": "2025-03-06 16:33:34.775101"
+  }
+}

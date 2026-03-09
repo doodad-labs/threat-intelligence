@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-663-02921F",
+  "type": "ransomware-incident",
+  "title": "Mikado Publicis ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mikado Publicis",
+    "country": "LU"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15000000000,
+    "description": "Mikado Publicis is a Communication Agency specialized in Advertising, Brand Content, Media, Digital, Design and OOH.We are ready to upload more than 15 GB of essential corporate documents such as: corporate NDA’s, HR documents, contact numbers and e-mail addresses of employees and customers, corporate licenses, agreements and contracts, financial data (audits, payment details, reports), etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twlrywrvifb1ymxpy2lzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-02 00:00:00.000000",
+    "disclosedDate": "2025-04-02 15:19:24.429775"
+  }
+}

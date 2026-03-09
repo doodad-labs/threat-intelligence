@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-159A36",
+  "type": "ransomware-incident",
+  "title": "Ceva Logistics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ceva Logistics",
+    "domain": "cevalogistics.com",
+    "country": "GB",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CEVA Logistics is a global asset-light supply chain management company. It designs and implements freight forwarding, contract logistics, transport...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34729f83abe2214a2786c6b84c7232a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2v2ysbmb2dpc3rpy3nay29pbmjhc2vjyxj0zww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-15 20:44:16.492280",
+    "disclosedDate": "2025-09-15 20:44:32.683269"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-652-14784C",
+  "type": "ransomware-incident",
+  "title": "LPDB KUMKM LPDB.ID/LPDB.GO.ID ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LPDB KUMKM LPDB.ID/LPDB.GO.ID",
+    "domain": "lpdb.go.id",
+    "country": "ID",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15480000000000,
+    "description": "Visits: 232 Data Size: 15.48TB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f2389ae4f2ee69757b76aa89d4ac9308.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tfbeqiblvu1ltsbmuerclklel0xqreiur08usuracmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-14 04:39:47.633999",
+    "disclosedDate": "2024-05-14 04:39:47.634020"
+  }
+}

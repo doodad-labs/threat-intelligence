@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-207FA8",
+  "type": "ransomware-incident",
+  "title": "interfides.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "interfides.de",
+    "domain": "interfides.de",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "werewolves",
+    "name": "werewolves",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "interfides Steuerberatungsgesellschaft mbH was established in 1978, and specialises in providing advisory services to foreign clients with a business presence in Germany.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/29a9ff99f3d22c9f2703ef5c9f3bca58.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw50zxjmawrlcy5kzub3zxjld29sdmvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-25 20:48:51.000000",
+    "disclosedDate": "2023-12-20 11:55:35.898530"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-20CB15",
+  "type": "ransomware-incident",
+  "title": "Suburban Surgical Care Specialists ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Suburban Surgical Care Specialists",
+    "domain": "suburbansurgicalcare.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Suburban Surgical Care Specialists - a medical center specializing in all types of surgical intervention. Suburban Surgical Care Specialists corporate office is located in 4885 Hoffman Blvd Ste 400, Hoffman Estates, Illinois, 60192, United States and has 45 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vidxjiyw4gu3vyz2ljywwgq2fyzsbtcgvjawfsaxn0c0btzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-20 18:56:18.12345",
+    "disclosedDate": "2024-03-20 23:48:55.566067"
+  }
+}

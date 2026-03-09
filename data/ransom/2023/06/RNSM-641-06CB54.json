@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-06CB54",
+  "type": "ransomware-incident",
+  "title": "borwafs.co.za ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "borwafs.co.za",
+    "domain": "borwafs.co.za",
+    "country": "ZA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Independent financial services company with a national footprint. Provider of quality selected financial products, services and consulting services. Work with individuals and groups to achieve excellent results for our fund administration clients. Co...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3894511fd2f8486f8bca7c0da0044575.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym9yd2fmcy5jby56yubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-06 11:35:00.000000",
+    "disclosedDate": "2023-06-06 12:56:26.832599"
+  }
+}

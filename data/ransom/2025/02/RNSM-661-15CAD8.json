@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-15CAD8",
+  "type": "ransomware-incident",
+  "title": "www.310tempering.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.310tempering.com",
+    "domain": "310tempering.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] 310 Tempering is a leading glass tempering and laminating company specializing in architectural glass. This company uses a heat-strengthening process that makes glass stronger and safer. They offer numerous services including flat tempering, bent tempering, glass laminating and insulating glass. This makes them valuable to industries such as construction, automotive, and interior design.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d12e6155f4d70169bd8580d1d0ee98ff.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3ljmxmhrlbxblcmluzy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-06 00:00:00.000000",
+    "disclosedDate": "2025-02-15 16:30:56.054260"
+  }
+}

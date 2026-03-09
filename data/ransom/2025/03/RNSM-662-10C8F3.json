@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-10C8F3",
+  "type": "ransomware-incident",
+  "title": "The Loretto Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Loretto Hospital",
+    "domain": "lorettohospital.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Loretto Hospital is a not-for-profit, community-focused health care provider. They provide healthcare services including: primary care, geriatric medicine, vision care, behavioral health services, pediatrics, womens health, pediatric medicine, family planning and dental services. The hospital was founded in 1939 and is headquartered in Chicago, Illinois.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2406ef698b12b79bde01db1067bf2fe8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghliexvcmv0dg8gsg9zcgl0ywxacmfuc29tag91c2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-02 00:00:00.000000",
+    "disclosedDate": "2025-03-10 12:36:16.014976"
+  }
+}

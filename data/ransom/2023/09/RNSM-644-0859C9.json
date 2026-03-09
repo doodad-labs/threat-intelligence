@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-644-0859C9",
+  "type": "ransomware-incident",
+  "title": "Linktera ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Linktera",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have been able to access all of linktera critical infrastructure including her database, we dumped and then deleted all backups from the serversWe require a ransom of $23,000",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tglua3rlcmfacmfuc29tzwq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-08 07:02:13.569453",
+    "disclosedDate": "2023-09-08 07:02:13.569487"
+  }
+}

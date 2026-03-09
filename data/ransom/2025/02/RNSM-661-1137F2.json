@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-1137F2",
+  "type": "ransomware-incident",
+  "title": "Fastighetsservice AB ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fastighetsservice AB",
+    "domain": "ff-fastighetsservice.se",
+    "country": "SE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sweden",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d353e77070e9120ad102cf4dad7af3cf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmfzdglnagv0c3nlcnzpy2ugqujacgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-24 00:00:00.000000",
+    "disclosedDate": "2025-02-11 23:00:43.414421"
+  }
+}

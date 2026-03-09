@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19DBB4",
+  "type": "ransomware-incident",
+  "title": "quifatex.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "quifatex.com",
+    "domain": "quifatex.com",
+    "country": "EC",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We're your strategic ally in commercial and logistics solutions, offering health and welfare to Ecuadorian families.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/178af581a518a39b9a56b0811162f876.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cxvpzmf0zxguy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-11 17:19:00.000000",
+    "disclosedDate": "2024-04-19 09:32:05.305195"
+  }
+}

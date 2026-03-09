@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-2150C3",
+  "type": "ransomware-incident",
+  "title": "spvmhc.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "spvmhc.org",
+    "domain": "spvmhc.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Scioto Paint Valley Mental Health Center offer a variety of Residential and Outpatient counseling treatment centers in these counties: Ross, Fayette, Highland, Pike, and Pickaway.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3b2bwhjlm9yz0bhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-21 11:54:22.875203",
+    "disclosedDate": "2024-08-21 11:54:23.900897"
+  }
+}

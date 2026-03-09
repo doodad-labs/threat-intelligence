@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-302202",
+  "type": "ransomware-incident",
+  "title": "gimaex.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gimaex.com",
+    "domain": "gimaex.com",
+    "country": "FR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "j",
+    "name": "J",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Gimaex is a leading French company specializing in the design and manufacturing of fire and rescue vehicles. With a history spanning over four decades, they are known for innovations and high-quality custom emergency vehicles. They build a range of equipment including fire trucks, firefighting equipment, ambulance vehicles, and special vehicles for civil and military applications.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0e2782ad10c2389a2a757967735dcea0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2ltywv4lmnvbubk",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-26 00:00:00.000000",
+    "disclosedDate": "2025-07-30 07:34:37.261053"
+  }
+}

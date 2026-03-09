@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-161BE3",
+  "type": "ransomware-incident",
+  "title": "Autohaus Ebert GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Autohaus Ebert GmbH",
+    "domain": "autohaus-ebert.de",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "metaencryptor",
+    "name": "metaencryptor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Autohaus Ebert GmbH & Co.KG has been there for its customers for more than 120 years. At 12 locations around the Weinheim headquarters, the company offers a wide range of new and used cars as well as commercial vehicles. In addition, Autohaus Ebert GmbH & Co.KG offers comprehensive services related to automobiles. Revenue: $200M",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a03af2bd830a4937bddb7b6218352da6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxv0b2hhdxmgrwjlcnqgr21isebtzxrhzw5jcnlwdg9y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-16 20:51:22.912321",
+    "disclosedDate": "2023-08-16 20:51:22.912343"
+  }
+}

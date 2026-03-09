@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-058593",
+  "type": "ransomware-incident",
+  "title": "homelandvinyl.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "homelandvinyl.com",
+    "domain": "homelandvinyl.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Homeland manufactures a diverse portfolio of vinyl profiles, including its proprietary decking and railing systems",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ag9tzwxhbmr2aw55bc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-24 00:00:00.000000",
+    "disclosedDate": "2024-07-05 13:46:17.862831"
+  }
+}

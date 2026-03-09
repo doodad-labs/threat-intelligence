@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-663-18A683",
+  "type": "ransomware-incident",
+  "title": "Tänzer GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tänzer GmbH",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 13000000000,
+    "description": "Tänzer GmbH offers their customers an ever-growing range of repair services since 1990.We are ready to upload more than 13 GB of corporate documents such as: information about employees and customers, a bit of personal files, financial data, projects data,etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmokbnplcibhbwjiqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-18 00:00:00.000000",
+    "disclosedDate": "2025-04-18 13:15:19.944223"
+  }
+}

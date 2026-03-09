@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-265D39",
+  "type": "ransomware-incident",
+  "title": "Family Help & Wellness ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Family Help & Wellness",
+    "domain": "famhelp.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f3a1749bfb9a18f1d4b80452c68ba6fa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmftawx5iehlbhagjibxzwxsbmvzc0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-26 18:26:52.000000",
+    "disclosedDate": "2024-12-26 22:47:07.405555"
+  }
+}

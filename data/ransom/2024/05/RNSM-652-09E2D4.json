@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09E2D4",
+  "type": "ransomware-incident",
+  "title": "acla-werke.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "acla-werke.com",
+    "domain": "acla-werke.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ACLA-WERKE offer a comprehensive range of high-grade squeeges for all cases of the daily screen printing practice which set a standard in the screen printing world thanks to a long experience in the application. The screen printer has a choice betwee...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4c59fc3b3115a2751b2ab3d75f9c6af2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywnsys13zxjrzs5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-20 00:00:00.000000",
+    "disclosedDate": "2024-05-09 13:14:49.006600"
+  }
+}

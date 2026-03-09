@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-2313B9",
+  "type": "ransomware-incident",
+  "title": "crystalcoastpm.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "crystalcoastpm.com",
+    "domain": "crystalcoastpm.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Crystal Coast Pain Management Center specializes in providing a comprehensive range of services for...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2e8b6757b48e30a3e2beceb577b6613f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3j5c3rhbgnvyxn0cg0uy29tqgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-03 00:00:00.000000",
+    "disclosedDate": "2026-02-23 13:15:25.919957"
+  }
+}

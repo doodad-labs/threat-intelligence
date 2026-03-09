@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-101F1A",
+  "type": "ransomware-incident",
+  "title": "Yaesu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Yaesu",
+    "domain": "yaesu.com",
+    "country": "JP",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c597d55644c0a03202acf863cfc13da.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wwflc3vacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-10 19:49:00.320125",
+    "disclosedDate": "2025-11-10 19:49:19.344599"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-036613",
+  "type": "ransomware-incident",
+  "title": "mtspokanepediatrics.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mtspokanepediatrics.com",
+    "domain": "mtspokanepediatrics.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mt. Spokane Pediatrics offers comprehensive healthcare services for patients from birth through youn...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9dd3936004c4cb9327f6f3106a4b97d6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bxrzcg9ryw5lcgvkawf0cmljcy5jb21abg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-02 15:53:00.000000",
+    "disclosedDate": "2026-01-03 15:34:06.465584"
+  }
+}

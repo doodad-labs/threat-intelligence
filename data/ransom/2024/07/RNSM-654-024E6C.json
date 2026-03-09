@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-024E6C",
+  "type": "ransomware-incident",
+  "title": "Gray & Adams ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Gray & Adams",
+    "domain": "gray-adams.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Gray & Adams is the UK market-leader in the manufacture of specialist temperature controlled and bespoke vehicles.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jhesamiefkyw1zqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-02 08:17:01.930261",
+    "disclosedDate": "2024-07-02 09:15:16.002692"
+  }
+}

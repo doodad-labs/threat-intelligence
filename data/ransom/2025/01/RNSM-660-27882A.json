@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-27882A",
+  "type": "ransomware-incident",
+  "title": "www.lapastina.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.lapastina.com",
+    "domain": "lapastina.com",
+    "country": "BR",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.lapastina.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0d93ddf54e413152497b320b7a0a8bcb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmxhcgfzdgluys5jb21aymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:12:11.911666",
+    "disclosedDate": "2025-01-27 07:13:19.711863"
+  }
+}

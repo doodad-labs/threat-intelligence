@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-661-09A3EE",
+  "type": "ransomware-incident",
+  "title": "wwcsd.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wwcsd.net",
+    "domain": "wwcsd.net",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] It appears there may be some confusion around \"wwcsd.net\" as it's not a company. Instead, Wwcsd.net is the official website of Wayne-Westland Community Schools, a public-school District in Michigan, USA. They provide educational services to students from pre-kindergarten through 12th grade in Wayne, Westland, Canton, Inkster, and Romulus. The website offers resources for students, parents, and staff.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7c9d85ad0118e0ad5e4b0db515104503.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3djc2qubmv0qhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.wxyz.com/news/region/wayne-county/wayne-westland-community-schools-bouncing-back-to-normal-operations-after-cyber-attack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-09 09:33:26.000000",
+    "disclosedDate": "2025-02-09 12:19:44.653774"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-649-164146",
+  "type": "ransomware-incident",
+  "title": "BRAM Auto Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BRAM Auto Group",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 85000000000,
+    "description": "BRAM Auto Group is one of the largest family owned businesses in the Tri-State area with innovative dealerships throughout NY and NJ. 85GB of files are going to be uploaded here soon. Passports, SSNs, driver licenses, clients information and much of operational data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qljbtsbbdxrviedyb3vwqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-16 16:43:27.340313",
+    "disclosedDate": "2024-02-16 16:43:27.415124"
+  }
+}

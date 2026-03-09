@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-2612E4",
+  "type": "ransomware-incident",
+  "title": "Carmocal ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Carmocal",
+    "domain": "carmocal.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "losttrust",
+    "name": "losttrust",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Carmichael is an Argentinean company with presence in Latin America, that offers a wide range of services for managing a full range of containers that are used by industrial companies today. Founded in 1955 by Justo Carmona, Carmocal is a family business.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fybw9jywxabg9zdhrydxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-26 11:10:13.515499",
+    "disclosedDate": "2023-09-26 11:10:13.515527"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-0462AC",
+  "type": "ransomware-incident",
+  "title": "Caliente Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Caliente Construction",
+    "domain": "calienteconstruction.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 4164000000000,
+    "description": "Status: 11d 21h 13m 28s - Size Data: 4.164 TB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/04e67fc19c4ff7ab1f23102dfd2ce573.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fsawvudgugq29uc3rydwn0aw9uqgnpy2fkytmzmde=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-04 01:43:14.222891",
+    "disclosedDate": "2025-02-04 01:44:21.311357"
+  }
+}

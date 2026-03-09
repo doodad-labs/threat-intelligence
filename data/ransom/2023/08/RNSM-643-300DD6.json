@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-300DD6",
+  "type": "ransomware-incident",
+  "title": "auto-pieces.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "auto-pieces.fr",
+    "domain": "auto-pieces.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since 1979, AUTO PIECES, in Reims in the department of Marne (51), has been offering its services in the fields of vehicle destruction, the sale of spare parts and the fitting of tires",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a4b3947948758609612d72644c2c431a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxv0by1wawvjzxmuznjabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-30 21:27:00.000000",
+    "disclosedDate": "2023-08-30 22:09:22.329073"
+  }
+}

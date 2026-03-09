@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-668-18B845",
+  "type": "ransomware-incident",
+  "title": "Ronald A/S ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ronald A/S",
+    "country": "DK"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 320000000000,
+    "description": "Ronald A/S is an import company with 100 years of experience specializing in unique FMCG solutions within the nonfood sector. Their product offerings include fashion items, textiles, licensed merchandise, personal care products, and protective equipment.  We are going to upload 320gb corporate data. Detailed employee information (Passport scans and other personal documents), lots of HR data, contracts and agreements, payment details, customer information, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um9uywxkieevu0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-16 00:00:00.000000",
+    "disclosedDate": "2025-09-18 18:14:41.200158"
+  }
+}

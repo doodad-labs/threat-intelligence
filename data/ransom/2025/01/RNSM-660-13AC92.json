@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-13AC92",
+  "type": "ransomware-incident",
+  "title": "telering.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "telering.de",
+    "domain": "telering.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Telering Marketing GmbH & Co. KG in Mainz",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0905132419852c5c8766508896d16bb8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvszxjpbmcuzgvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-13 13:46:13.853160",
+    "disclosedDate": "2025-01-13 13:47:20.665541"
+  }
+}

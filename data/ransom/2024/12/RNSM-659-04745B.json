@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-659-04745B",
+  "type": "ransomware-incident",
+  "title": "Marine Stores Guide ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Marine Stores Guide",
+    "domain": "marinestoresguide.com",
+    "country": "GB",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "Downloaded about 700GB of data. Including personal data of clients, employees, finances, etc. The full e-book that is sold on the site will appear here. You will get it for free. Wait.The Marine Stores Guide (MSG) is a comprehensive and s            ...",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f05430506b2e40d2fd719baeb5eca051.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfyaw5lifn0b3jlcybhdwlkzubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-03 00:00:00.000000",
+    "disclosedDate": "2024-12-04 01:23:36.018431"
+  }
+}

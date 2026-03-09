@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-3058A4",
+  "type": "ransomware-incident",
+  "title": "Murex Petroleum ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Murex Petroleum",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 25000000000,
+    "description": "Murex Petroleum Corporation is engaged in the acquisition, development and operation of oil and gas properties in North America.We are ready to upload 25 GB of documents. Lots of confidential documents, employee information (SSN, DOB, address, passport/SSN/DL scans), detailed financial information (reports, invoices, so on), NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txvyzxggugv0cm9szxvtqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-30 00:00:00.000000",
+    "disclosedDate": "2025-06-30 14:12:48.613205"
+  }
+}

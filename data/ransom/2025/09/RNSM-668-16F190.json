@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-16F190",
+  "type": "ransomware-incident",
+  "title": "bmsi.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bmsi.org",
+    "domain": "bmsi.org",
+    "country": "US"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/71fd8a8115ec5a49446cc23c65ea5b89.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym1zas5vcmdaqnjhaw5daxbozxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-16 17:17:08.902554",
+    "disclosedDate": "2025-09-16 17:17:34.229410"
+  }
+}

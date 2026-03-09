@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-126772",
+  "type": "ransomware-incident",
+  "title": "Global Remote Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Global Remote Services",
+    "domain": "globalremoteservices.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "snatch",
+    "name": "snatch",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GRS provides personalized management services for its clients across a broad range of business sectors, whilst also offering support in an impressive number of European languages.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/16d65741998996b13c982c09701d4131.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2xvymfsifjlbw90zsbtzxj2awnlc0bzbmf0y2g=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-12 18:52:00.000000",
+    "disclosedDate": "2023-06-12 17:59:04.911086"
+  }
+}

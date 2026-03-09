@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-27EBDD",
+  "type": "ransomware-incident",
+  "title": "The Trevino Group, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Trevino Group, Inc",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "WE HAS COLLECTED SUCH DATA AS: \r \r - Confidential documents\r - Clients Data\r - NDA\r - Financial data\r - Operations\r - Corporate data\r - Business Agreements\r - Drawings\r \r And a lot of other VERY IMPORTANT information!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1387f57875249a1bd4d409196a0e4f37.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifryzxzpbm8gr3jvdxasieluy0bpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-26 00:00:00.000000",
+    "disclosedDate": "2026-01-27 08:35:00.853951"
+  }
+}

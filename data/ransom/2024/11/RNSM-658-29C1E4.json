@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-29C1E4",
+  "type": "ransomware-incident",
+  "title": "JTEKT NORTH AMERICA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JTEKT NORTH AMERICA",
+    "domain": "jtekt-na.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 893630000000,
+    "description": "893.63GB of Data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1e965e38c2022f7b26dbc24d5bc85066.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/slrfs1qgtk9sveggqu1fukldqubibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-11 00:00:00.000000",
+    "disclosedDate": "2024-11-29 01:17:04.957744"
+  }
+}

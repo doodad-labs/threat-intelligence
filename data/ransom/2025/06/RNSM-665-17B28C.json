@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-17B28C",
+  "type": "ransomware-incident",
+  "title": "coBuilder ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "coBuilder",
+    "domain": "cobuilder.com",
+    "country": "NO",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "(including complete databases) Cobuilder is a tech company providing digital solutions for the construction industry, aiming to enhance collaboration, digitalization, and sustainability across the entire value chain. Their offerings include asset data management, digital product passports, and sustainability reporting to meet new requirements. Cobuilder's solutions facilitate seamless information flow among construction stakeholders by integrating with other BIM software through APIs. They also provide consultancy services to develop digital strategies that optimize efficiency and reduce costs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/25c84669e4e7db5814e36032fd9b929b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29cdwlszgvyqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-17 17:58:18.509393",
+    "disclosedDate": "2025-06-17 18:23:48.111256"
+  }
+}

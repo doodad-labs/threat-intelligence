@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-25B152",
+  "type": "ransomware-incident",
+  "title": "Tri-Star Display ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tri-Star Display",
+    "domain": "tristardisplay.com",
+    "country": "SG",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tri-Star Display Pte Ltd is a company that operates in the Advertising & Marketing industry. It employs 1 to 4 people and has 1M to 5M of revenue.  If a company does not contact us, we will publish the data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/85ecfe8cf3fe1159c7bb247e988209fe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjplvn0yxigrglzcgxheubjawnhzgezmzax",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-25 00:00:00.000000",
+    "disclosedDate": "2024-07-25 19:12:19.086078"
+  }
+}

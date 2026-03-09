@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-30E67F",
+  "type": "ransomware-incident",
+  "title": "texline-global.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "texline-global.com",
+    "domain": "texline-global.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Integrated supply-chain system across 10 countriesTex Line provides comprehensive business solutions at all stages of the supply chain by leveraging onto our extensive network of global resources.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/13621cff29c14a49128c8e52001c5e06.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgv4bgluzs1nbg9iywwuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-30 16:58:00.000000",
+    "disclosedDate": "2023-08-30 17:32:31.410072"
+  }
+}

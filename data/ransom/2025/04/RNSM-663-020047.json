@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-663-020047",
+  "type": "ransomware-incident",
+  "title": "dardoc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dardoc.com",
+    "domain": "dardoc.com",
+    "country": "DK"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "dardoc.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3c2990fb326846eb97aca9c692d19637.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgfyzg9jlmnvbubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-25 03:45:32.846211",
+    "disclosedDate": "2025-04-02 20:15:47.510299"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-044259",
+  "type": "ransomware-incident",
+  "title": "www.pcipa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.pcipa.com",
+    "domain": "pcipa.com",
+    "country": "CN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PCIPA, or Professional Consultants Insurance Plan Administrators, offers tailored insurance solutions for professionals. Specializing in Errors & Omissions (E&O) and Professional Liability coverage, they cater to various industries, including technology, engineering, and healthcare. Their mission is to provide comprehensive risk management services, ensuring clients can focus on their core business activities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4550e7decf35f8cb4fbb0e39b18b2caa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnbjaxbhlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-04 17:46:23.000000",
+    "disclosedDate": "2024-09-04 18:34:19.852799"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-1520D3",
+  "type": "ransomware-incident",
+  "title": "www.eurocert.pl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.eurocert.pl",
+    "domain": "eurocert.pl",
+    "country": "PL",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Eurocert.pl is a Polish company specializing in the auditing and certification of management systems. They provide a wide range of services including ISO certification for quality management, environmental management, and food safety management systems. Eurocert.pl is recognized for their professional standards, customer-centred approach and promoting the culture of quality in various businesses throughout Poland.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1b0c2a18c7198749bcacf0d21afc2dbe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmv1cm9jzxj0lnbsqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-15 03:32:07.827630",
+    "disclosedDate": "2025-01-15 03:34:08.943268"
+  }
+}

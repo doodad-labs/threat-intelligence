@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-229211",
+  "type": "ransomware-incident",
+  "title": "www.reliablecontrols.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.reliablecontrols.com",
+    "domain": "reliablecontrols.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1986, Reliable Controls is a company that designs and manufactures building control products for use in distributed control systems. Reliable Controls is located in Canada",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/226d261d714081283eaf2707b1e91c9f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnjlbglhymxly29udhjvbhmuy29tqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-22 00:00:00.000000",
+    "disclosedDate": "2025-07-22 16:51:39.939835"
+  }
+}

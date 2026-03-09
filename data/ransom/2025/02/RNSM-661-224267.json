@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-224267",
+  "type": "ransomware-incident",
+  "title": "Al Bawani ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Al Bawani",
+    "domain": "albawani.net",
+    "country": "SA",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Al Bawani, headquartered in Riyadh, Saudi Arabia, is a construction company specializing in housing complexes, industrial & commercial buildings, hospitals, educational institutions, and more",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/930eef45fba989e822a2eb74efdfd6a7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwwgqmf3yw5pqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-14 12:08:39.370255",
+    "disclosedDate": "2025-02-22 17:40:02.972502"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19C7C7",
+  "type": "ransomware-incident",
+  "title": "energytransfer.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "energytransfer.com",
+    "domain": "energytransfer.com",
+    "country": "",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "energytransfer.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c2848f60fe77899469024db82980b48c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw5lcmd5dhjhbnnmzxiuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-19 11:34:10.546751",
+    "disclosedDate": "2024-04-19 11:34:10.546751"
+  }
+}

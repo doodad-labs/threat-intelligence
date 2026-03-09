@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-276AC7",
+  "type": "ransomware-incident",
+  "title": "SALTEDAWG.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SALTEDAWG.COM",
+    "domain": "saltedawg.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] SALTEDAWG.COM is an online platform known for selling signature merchandise and apparels. It specializes in offering a unique selection of items including clothing, stickers, and other distinct products reflecting the coastal lifestyle. Their selection is developed for customers who love activities such as fishing, surfing, boating, and other water-based pastimes, with designs highlighting seaside culture and aesthetics.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0fmveveqvdhlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:17:33.382327",
+    "disclosedDate": "2025-02-27 17:17:42.784808"
+  }
+}

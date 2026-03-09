@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-672-15E314",
+  "type": "ransomware-incident",
+  "title": "https://trustarholdingsllc.com/ https://vistlabs.com/ ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "https://trustarholdingsllc.com/ https://vistlabs.com/",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1400000000000,
+    "description": "All company data, development drawings, confidential files, investor company files, all financial transactions, equipment, violations, 1.4 TB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahr0chm6ly90cnvzdgfyag9szgluz3nsbgmuy29tlybodhrwczovl3zpc3rsywjzlmnvbs9aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-14 11:11:00.000000",
+    "disclosedDate": "2026-01-15 05:24:09.724636"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19BA4B",
+  "type": "ransomware-incident",
+  "title": "crowe.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "crowe.com",
+    "domain": "crowe.com",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "crowe.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/60f2796df60076c6905f2702a21a3160.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3jvd2uuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-19 11:35:09.697310",
+    "disclosedDate": "2024-04-19 11:35:09.697310"
+  }
+}

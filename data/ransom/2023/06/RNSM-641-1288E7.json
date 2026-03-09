@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-1288E7",
+  "type": "ransomware-incident",
+  "title": "Doesburg Components ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Doesburg Components",
+    "domain": "doesburg-comp.nl",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "If the company does not contact and cooperate by the end of the time counter, then we will leak all their important files and documents, including secret tax documents.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c35a5b7e42dfd3d7ab57c100b2087e64.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rg9lc2j1cmcgq29tcg9uzw50c0bub2vzy2fwzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-07 00:00:00.000000",
+    "disclosedDate": "2023-06-12 15:37:59.648631"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-27B48B",
+  "type": "ransomware-incident",
+  "title": "Civic San Diego ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Civic San Diego",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "CCDC is the public, non-profit corporation created by the City ofSan Diego to staff and implement Downtown redevelopment projectsand programs. Almost 200Gb of files. Confidential documents, personal information etc. Uploading soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l2awmgu2fuierpzwdvqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-27 17:33:43.101567",
+    "disclosedDate": "2023-09-27 17:33:43.358680"
+  }
+}

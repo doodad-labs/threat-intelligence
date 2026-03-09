@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-646-20C2DA",
+  "type": "ransomware-incident",
+  "title": "etude-villa.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "etude-villa.fr",
+    "domain": "etude-villa.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 43000000000,
+    "description": "Etude Villa Florek - legal servicesSITE: www.etude-villa.fr Address  18 Rue Néricault Destouches 37013 Tours FranceFULL DATA SIZE: 43gb 1. Finance 2. Accounting 3. Confidentiality 4. Customer Files 5. Users dataNETWORK: ETUDEVILLA-------------------------DOMAIN ADMINS------------------------- admin Admin de réseau adminabsi admininfra Administrateur OGMI SBSMonAcctetudevilla.local\\admin @bsi37300 etudevilla.loca\\administrateur @bsi37300-------------------------DC------------------------- VM-01-VILLA.etudevilla.local 192.168.36.203 Windows Server 2019 Standard-------------------------SERVERS------------------------- VM-03-VILLA.etudevilla.local 192.168.36.205 Windows Server 2019 Standard HYP-02-VILLA.etudevilla.local 192.168.36.212 Windows Server 2019 Standard VM-04-VILLA.etudevilla.local 192.168.36.206 Windows Server 2019 Standard VM-02-VILLA.etudevilla.local 192.168.36.204 Windows Server 2019 Standard HYP-03-PRET.etudevilla.local  Windows Server 2019 Standard HYP-01-VILLA.etudevilla.local 192.168.36.202 Windows Server 2019 Standard VSRV-TOURS-DATA.etudevilla.local  Windows Server 2016 Standard SRV-HPRV-villa.etudevilla.local  Windows Server 2016 Standard VSRV-TOURS-DC.etudevilla.local  Windows Server 2016 Standard VSRV-TOURS-RDS.etudevilla.local  Windows Server 2016 Standard SERVTSE.etudevilla.local  Windows Server 2008 R2 Standard SERVSYM.etudevilla.local  Windows Server 2008 R2 Standard SERVEUR.etudevilla.local  Windows Server® 2008 Standard FE",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4b8f460cfda0623770fd0c4ac53bac65.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxr1zgutdmlsbgeuznjaymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-08 00:00:00.000000",
+    "disclosedDate": "2023-11-20 14:27:21.563940"
+  }
+}

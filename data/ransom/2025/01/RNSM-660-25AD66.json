@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-25AD66",
+  "type": "ransomware-incident",
+  "title": "mcpathology.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mcpathology.com",
+    "domain": "mcpathology.com",
+    "country": "AU",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] McPathology.com is essentially a Brisbane-based medical diagnostic service and laboratory that provides a wide range of pathology testing services. It is fully accredited by the Royal College of Pathologists of Australia. Professional pathologists, doctors, and health professionals rely on it to deliver accurate results with the aim of diagnosing, treating, and monitoring diseases and health conditions more effectively.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ab3cea8dc5e5b35e64397f0b5ff27e27.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwnwyxrob2xvz3kuy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-16 00:00:00.000000",
+    "disclosedDate": "2025-01-25 20:33:06.003795"
+  }
+}

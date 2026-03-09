@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-650-252A66",
+  "type": "ransomware-incident",
+  "title": "Greenline Service ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Greenline Service",
+    "domain": "greenlineva.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Industrial Machinery & Equipment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jlzw5saw5lifnlcnzpy2vazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-25 16:34:06.167428",
+    "disclosedDate": "2024-03-25 17:51:04.277143"
+  }
+}

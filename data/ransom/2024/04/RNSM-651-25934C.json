@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-25934C",
+  "type": "ransomware-incident",
+  "title": "hominemclinic.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hominemclinic.com.br",
+    "domain": "hominemclinic.com.br",
+    "country": "BR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qiulong",
+    "name": "qiulong",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000,
+    "description": "We are a medical clinic specialized in male sexual health care, focusing on the treatment of erectile dysfunction, premature ejaculation and andropause. Message to all men with sexual problems who are Hominem patients: THIS CLINIC DOES NOT PROTECT YOUR DATA AND YOUR PRIVACY, AND SOON EVERYONE WILL KNOW ABOUT YOUR PROBLEMS. In the past month, numerous attempts at contact were made, resulting in a total of zero responses and significant negligence on the part of the clinic’s staff. If silence persists, soon all friends and family of the patients will discover their sexual problems. CEO: Dr. Bruno Salomão Business email: atendimento@hominemclinic.com.brMobile Phone: : (31) 99351-4715 Data volume: 5 GB Data description:",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/22f6ec68b5f1b26e3fb02de0d8b6a3f7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ag9taw5lbwnsaw5pyy5jb20uynjacwl1bg9uzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-24 19:44:01.000000",
+    "disclosedDate": "2024-04-25 00:17:01.138591"
+  }
+}

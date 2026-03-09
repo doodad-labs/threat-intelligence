@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-643-29307C",
+  "type": "ransomware-incident",
+  "title": "Kendrion.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kendrion.com",
+    "domain": "kendrion.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "KENDRION - innovative solutions for automotive and industry Products Markets Career We focus on intelligent actuator technology to help drive the global transition towards electrification and other forms of clean energy.Tomorrow we'll attach proofs...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/50c4444dcead223d0891d778d98bbab8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2vuzhjpb24uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.beleggen.nl/nieuws/779930/kendrion-getroffen-door-cyberaanval.aspx",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-29 01:58:00.000000",
+    "disclosedDate": "2023-08-29 02:33:16.498908"
+  }
+}

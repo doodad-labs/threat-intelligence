@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-149E9D",
+  "type": "ransomware-incident",
+  "title": "JTI.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JTI.COM",
+    "domain": "jti.com",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "JTI - Japan Tobacco International​",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/92ec99d2bec77ebe83421284f9966e3a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/slrjlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-14 12:29:42.118292",
+    "disclosedDate": "2023-07-14 12:29:42.118364"
+  }
+}

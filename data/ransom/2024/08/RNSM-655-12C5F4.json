@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-655-12C5F4",
+  "type": "ransomware-incident",
+  "title": "nicholsfleet.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nicholsfleet.com",
+    "domain": "nicholsfleet.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000000,
+    "description": "Nichols Fleet Equipment has been building the best service trucks in the industry. About 2 TB of private information. Drawings and developments. Banking information and more",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/592a9725e0d654d6fde1d5fa6c97c840.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmljag9sc2zszwv0lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-13 00:00:00.000000",
+    "disclosedDate": "2024-08-12 14:01:08.138970"
+  }
+}

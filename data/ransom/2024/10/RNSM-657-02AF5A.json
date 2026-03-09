@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-02AF5A",
+  "type": "ransomware-incident",
+  "title": "rollxvans.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rollxvans.com",
+    "domain": "rollxvans.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rollx Vans specializes in manufacturing and selling wheelchair-accessible vehicles. They offer customized minivans and full-size vans with features such as lowered floors, ramps, and hand controls to enhance mobility for individuals with disabilities. The company focuses on quality, safety, and customer satisfaction, providing both new and used options, as well as nationwide delivery and support services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/455eb68ff3b5e52ecd19d4bd3ff8008a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm9sbhh2yw5zlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-10 00:00:00.000000",
+    "disclosedDate": "2024-10-02 20:37:10.987043"
+  }
+}

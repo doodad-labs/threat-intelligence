@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-649-298B7F",
+  "type": "ransomware-incident",
+  "title": "hvd.host ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hvd.host",
+    "domain": "hvd.host",
+    "country": "AU",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "Hosted Companies australiantextiles.com.au ausweave.com.au bartgroup.com.au bruck.com.au opt.net.au wilsonfabrics.com knoxbridge.com.au novaemployment.com.au primrose.co.uk xenit.com.au advancedcs.com.au therose.pub localbar.com.auALL DATA SIZE: ~700gb 1. Accountings 2. Financial data 3. Personal employees documents 4. Legal & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/25a2307110c1e49b1439e78c68313c83.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahzklmhvc3raymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-22 00:00:00.000000",
+    "disclosedDate": "2024-02-29 22:17:27.922144"
+  }
+}

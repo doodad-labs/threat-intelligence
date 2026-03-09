@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-08D550",
+  "type": "ransomware-incident",
+  "title": "spdyn.de technology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "spdyn.de technology",
+    "domain": "spdyn.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Spdyn.de Technology is a company that offers dynamic DNS services, which allow users to associate a static hostname with a dynamic IP address. This is particularly useful for remote access to devices with changing IPs. The service caters to individuals and businesses by ensuring seamless connectivity and accessibility, supporting a variety of applications such as hosting servers or managing remote systems.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7e41e76cdbf2dba11223fe4bf1aade36.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3bkew4uzgugdgvjag5vbg9neubmdw5rc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-08 15:36:07.240812",
+    "disclosedDate": "2024-12-08 15:36:09.427822"
+  }
+}

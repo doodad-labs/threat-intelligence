@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-12013B",
+  "type": "ransomware-incident",
+  "title": "Kreyenhop & Kluge ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kreyenhop & Kluge",
+    "domain": "kreyenhop-kluge.com",
+    "country": "DE",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Germany - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/16369ea0905e95a0c539fc02117bed6b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s3jlewvuag9wicygs2x1z2vaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 10:00:14.000000",
+    "disclosedDate": "2024-02-12 10:26:26.493708"
+  }
+}

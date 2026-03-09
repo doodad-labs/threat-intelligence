@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-261230",
+  "type": "ransomware-incident",
+  "title": "Yale Mortgage ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Yale Mortgage",
+    "domain": "yalemortgage.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3436c36e4f1d05cfb5e5a3aca23f4726.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wwfszsbnb3j0z2fnzubwbgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-19 00:00:00.000000",
+    "disclosedDate": "2024-04-26 20:25:10.252433"
+  }
+}

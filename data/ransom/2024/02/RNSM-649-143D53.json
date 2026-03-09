@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-649-143D53",
+  "type": "ransomware-incident",
+  "title": "Nekoosa School District ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nekoosa School District",
+    "domain": "nekoosa.k12.wi.us",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Nekoosa School District is a public school district located in NEKOOSA, WI. Files of this district will be available for downloading soon. Some personal information of staff and students can be found inside. Addresses, phone numbers, scans of documents and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmvrb29zysbty2hvb2wgrglzdhjpy3raywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-14 17:56:17.737386",
+    "disclosedDate": "2024-02-14 17:56:17.815306"
+  }
+}

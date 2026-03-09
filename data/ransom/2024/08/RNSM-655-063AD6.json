@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-655-063AD6",
+  "type": "ransomware-incident",
+  "title": "www.consorzioinnova.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.consorzioinnova.it",
+    "domain": "consorzioinnova.it",
+    "country": "IT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "alphalocker",
+    "name": "alphalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 225000000000,
+    "description": "225GB DATAemployeesclientsdatabase and etc",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c1f40512fab62226f3ba5e2ba31e6b36.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnvbnnvcnppb2lubm92ys5pdebhbhboywxvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-06 22:14:23.551732",
+    "disclosedDate": "2024-08-06 22:14:24.304775"
+  }
+}

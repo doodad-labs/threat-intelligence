@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-113D53",
+  "type": "ransomware-incident",
+  "title": "Unimicron ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Unimicron",
+    "domain": "unimicron.com",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 377000000000,
+    "description": "UnimicronMade up of three strategic business units (SBU), namely PCB SBU, Carrier SBU, and IC Test SBU, Unimicron is currently among the top PCB and carrier manufactures in the world and a major supplier of HDI PCBs and carrier for world advanced mobile phones.Manufacturing bases are mainly set in Taiwan (Taoyuan, Hsinchu), Shenzhen of South China, Huangshi of Central China, and Kunshan and Suzhou of East China-Plants in China specialize in mass production, while in Taiwan provide high-end products to serve the market. In addition, to instantly respond to the demands of customers, besides establishing sales departments and representative offices in America, Europe, and Asia, there are also manufacturing bases in Germany and Japan to serve the customers there.Geo: Taiwan - Leak size: 377 GB Archive - Contains: Files, SQL",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pbwljcm9uqhnhcmnvbwe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isnew=y&seq_no=1&spoke_time=214002&spoke_date=20250201&co_id=3037",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-11 06:16:46.476251",
+    "disclosedDate": "2025-02-11 06:16:47.730131"
+  }
+}

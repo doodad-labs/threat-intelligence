@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19ECA4",
+  "type": "ransomware-incident",
+  "title": "citizenswv.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "citizenswv.com",
+    "domain": "citizenswv.com",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Part 1. Once again we see how greedy a bank can be , putting their own money above clients interests . Welcome to Citizens Bank of West Virginia, a locally owned community bank which provides a comprehensive line of banking, trust and investment...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ecdde511264fc813b5cb968407835324.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2l0axplbnn3di5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-11 18:57:00.000000",
+    "disclosedDate": "2024-04-19 09:28:51.514210"
+  }
+}

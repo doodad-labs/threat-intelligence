@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19C1AB",
+  "type": "ransomware-incident",
+  "title": "consolenergy.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "consolenergy.com",
+    "domain": "consolenergy.com",
+    "country": "",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "consolenergy.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/12108eb29440b5e29e97c155a5badc1e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29uc29szw5lcmd5lmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-02 00:23:00.000000",
+    "disclosedDate": "2024-04-19 11:57:07.274940"
+  }
+}

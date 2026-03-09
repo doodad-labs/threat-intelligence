@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-056B0E",
+  "type": "ransomware-incident",
+  "title": "www.iecsolutions.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.iecsolutions.com",
+    "domain": "iecsolutions.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] IEC Solutions is a telecommunication company specializing in designing, installing, and maintaining complex fiber-optic and copper communication networks. They offer a wide array of services including network design, project management, cable installation and upgrading, and communication room build-outs. Their clientele spans across both the public and private sectors. The company is committed to quality, safety and harnessing the latest technology.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmlly3nvbhv0aw9ucy5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-25 00:00:00.000000",
+    "disclosedDate": "2025-02-05 22:46:32.288528"
+  }
+}

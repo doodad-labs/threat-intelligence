@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-1709F7",
+  "type": "ransomware-incident",
+  "title": "HYBRO Saatzucht GmbH& Co KG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HYBRO Saatzucht GmbH& Co KG",
+    "country": "DE",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000,
+    "description": "HYBRO Saatzucht GmbH & Co KG is one of the leading seed breeding companies in the breeding of hybrid and population rye in Germanyand Europe.We are going to upload another 3GB of corporate data of another client. In the archive there are tons of project documents with client information. Contracts, agreements, financials and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sflcuk8gu2fhdhp1y2h0iedtykgmienviethqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-16 00:00:00.000000",
+    "disclosedDate": "2025-06-17 12:18:09.310831"
+  }
+}

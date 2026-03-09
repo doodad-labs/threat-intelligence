@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-642-31AD65",
+  "type": "ransomware-incident",
+  "title": "paretophone.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "paretophone.com",
+    "domain": "paretophone.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 150000000000,
+    "description": "150 gb personal data, nda.IVE Tele-fundraising is an industry leader in creating innovative, sustainable, data-led campaigns for charity telefundraising. Every year some of their best-known and most-loved charities engage them to provide telephone...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c6027e3360b0723d8f0e6bf077c28a5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgfyzxrvcghvbmuuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-31 18:22:00.000000",
+    "disclosedDate": "2023-07-31 19:00:15.618471"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-20A620",
+  "type": "ransomware-incident",
+  "title": "inthinking.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "inthinking.net",
+    "domain": "inthinking.net",
+    "country": "KR",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "InThinking is an innovative educational technology and training company which provides web-based resources and high quality training for IB World Schools. With more than 20 years experience, we are particularly committed to promoting critical thinking across the curriculum.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c7823c79a6d7a82e3ccef06ce57083af.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw50aglua2luzy5uzxrazgfya3zhdwx0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-20 00:00:00.000000",
+    "disclosedDate": "2024-11-20 15:14:33.995648"
+  }
+}

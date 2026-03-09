@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-307803",
+  "type": "ransomware-incident",
+  "title": "annals.edu.sg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "annals.edu.sg",
+    "domain": "annals.edu.sg",
+    "country": "SG",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Annals Singapore",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/323ab829b397a5ef7fabfb5288f403b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw5uywxzlmvkds5zz0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-30 21:28:00.000000",
+    "disclosedDate": "2023-08-30 22:07:31.655871"
+  }
+}

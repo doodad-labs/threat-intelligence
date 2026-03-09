@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-655-226204",
+  "type": "ransomware-incident",
+  "title": "cincinnatipainphysicians ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cincinnatipainphysicians",
+    "domain": "cincinnatipainphysicians.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.cincinnatipainphysicians.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5479292e38ea3220c498c73665207238.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2luy2lubmf0axbhaw5wahlzawnpyw5zqghlbgxkb3du",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://local12.com/news/investigates/how-hackers-stealing-medical-data-helldown-target-doctors-hospitals-threats-healthcare-info-cincinnati-blue-ash-gururau-sudarshan-ransomware-attack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-21 00:00:00.000000",
+    "disclosedDate": "2024-08-22 17:11:06.849351"
+  }
+}

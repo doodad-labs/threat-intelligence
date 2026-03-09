@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-2339DF",
+  "type": "ransomware-incident",
+  "title": "punjab.gov.pk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "punjab.gov.pk",
+    "domain": "punjab.gov.pk",
+    "country": "PK",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] The \"punjab.gov.pk\" is not a company. It's the official website of the Government of Punjab, Pakistan. It provides a platform for e-governance and hosts information regarding various departments, policies, services and latest updates of the government. It's intended to increase transparency and efficiency in delivering government services to citizens.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/56b5c572850963495933bfd17dad0041.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chvuamfilmdvdi5wa0bmdw5rc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-23 13:38:14.905063",
+    "disclosedDate": "2025-01-23 13:38:14.905063"
+  }
+}

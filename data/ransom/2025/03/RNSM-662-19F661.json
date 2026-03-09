@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-19F661",
+  "type": "ransomware-incident",
+  "title": "alphaoil.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "alphaoil.ca",
+    "domain": "alphaoil.ca",
+    "country": "CA",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Alpha Oil is a family run business based in Toronto servicing the Greater Toronto area. We are a full service fuel company offering a wide selection of quality, brand name products and services to businesses and homes. Our products include low sulfur clear diesel, coloured diesel, furnace oil, stove oil, gasoline, and a full range of lubricants. We have a 24 hour cardlock depot offering clear & coloured diesel. We have successfully built a business based on a solid commitment to service. Alpha Oil is a proud member of GTSWCA, TCA and ACMO.\r ===>\r [redacted]",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/20657a7205d8be22c3566f9bce3ed60d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxwagfvawwuy2faaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-22 00:00:00.000000",
+    "disclosedDate": "2025-03-19 03:28:24.562432"
+  }
+}

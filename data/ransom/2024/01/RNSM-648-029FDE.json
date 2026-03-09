@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-029FDE",
+  "type": "ransomware-incident",
+  "title": "SAED International ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SAED International",
+    "domain": "saed.sa",
+    "country": "SA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SAED is a Saudi Closed Joint Stock Company with a capital of SAR 100 million, formed in 2014, under the Regulations of Companies in the Kingdom of Saudi Arabia.  SAED is a B2B and B2C one-stop-source for all your manpower needs, domestic helper, and domestic labor serving across all economic sectors.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4da865559efb8784ea220592a8607a9a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0ffrcbjbnrlcm5hdglvbmfsqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-02 15:35:32.123456",
+    "disclosedDate": "2024-01-02 16:01:47.316512"
+  }
+}

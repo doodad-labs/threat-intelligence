@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-103583",
+  "type": "ransomware-incident",
+  "title": "Arc-Com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Arc-Com",
+    "domain": "arc-com.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Arc-Com is a leading designer, manufacturer and supplier of design-driven, high-performance textiles and wallcoverings.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjjlunvbubkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-09 17:41:15.941812",
+    "disclosedDate": "2024-09-10 15:34:50.117838"
+  }
+}

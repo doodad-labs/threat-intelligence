@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-25B7A5",
+  "type": "ransomware-incident",
+  "title": "J. SCHNEEBERGER Maschinen AG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "J. SCHNEEBERGER Maschinen AG",
+    "country": "CH",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "J. SCHNEEBERGER Maschinen AG develops and produces the most modern CNC grinding machines for the manufacturing and re-grinding of cutting tools and the production of a variety of precision parts.We are going to upload more than 30 GB of corporate documents such as: passports and identity cards of employees, financial data (audits, payment details, reports), corporate NDA’s and confidentiality agreements, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/si4gu0nitkvfqkvsr0vsie1hc2noaw5lbibbr0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-25 00:00:00.000000",
+    "disclosedDate": "2025-04-25 14:46:09.104297"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-26015F",
+  "type": "ransomware-incident",
+  "title": "thinlinetech.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "thinlinetech.com",
+    "domain": "thinlinetech.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Thinline Technologies offers reliable IT consulting and expert computer and network support services to businesses in the Baltimore metro area.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghpbmxpbmv0zwnolmnvbubhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-26 13:07:03.459558",
+    "disclosedDate": "2026-02-26 13:07:05.883295"
+  }
+}

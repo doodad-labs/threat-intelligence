@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-206CF1",
+  "type": "ransomware-incident",
+  "title": "Kelly Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kelly Group",
+    "domain": "kelly.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbyte",
+    "name": "blackbyte",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kelly Group has been at the forefront of the telecommunications industry for more than 35 years, installing the very first customer cable television service on 17th September 1985.Established to support the emerging UK cable television market, Kelly Group has grown and diversified to meet the needs of our clients and their customers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2vsbhkgr3jvdxbaymxhy2tiexrl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-20 11:07:10.076586",
+    "disclosedDate": "2023-03-20 11:07:10.076613"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-29AC87",
+  "type": "ransomware-incident",
+  "title": "nfe.fazenda.gov.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nfe.fazenda.gov.br",
+    "domain": "fazenda.gov.br",
+    "country": "BR",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The NF-e Portal aims to provide information about the Electronic Invoice (Nota Fiscal Eletr�nica), coordinated by ENCAT and developed in partnership with the Federal Revenue of Brazil. Its purpose is to transition from paper invoices to electronic invoices, which have legal validity for all purposes.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7240d4fad7d221600b8708b3645f670e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmzllmzhemvuzgeuz292lmjyqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-29 01:46:15.326203",
+    "disclosedDate": "2024-09-29 01:46:15.812973"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-07483F",
+  "type": "ransomware-incident",
+  "title": "Dunn and Dunn ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dunn and Dunn",
+    "domain": "dunnanddunn.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "insomnia",
+    "name": "insomnia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dunn and Dunn is a Boston - based law firm established in 1928. They specialize in providing legal counsel and representation to healthcare professionals. Core practice areas include: Medical malpractice defense, Long-term care defense, General liability defense",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fb77926af309148c3a4977b4ca4d036d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhvubibhbmqgrhvubkbpbnnvbw5pyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-08 00:00:00.000000",
+    "disclosedDate": "2026-02-07 21:24:48.442541"
+  }
+}

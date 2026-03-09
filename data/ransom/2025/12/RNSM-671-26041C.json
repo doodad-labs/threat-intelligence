@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-26041C",
+  "type": "ransomware-incident",
+  "title": "gumustasmaden.com.tr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gumustasmaden.com.tr",
+    "domain": "gumustasmaden.com.tr",
+    "country": "TR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Gümüştaş is a prominent player in the Turkish mining industry, specializing in the extraction and pr...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/267a8ab8c133c454d96cd28c777d48e4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3vtdxn0yxntywrlbi5jb20udhjabg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-25 14:08:00.000000",
+    "disclosedDate": "2025-12-26 15:34:38.474681"
+  }
+}

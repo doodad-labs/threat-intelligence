@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-300970",
+  "type": "ransomware-incident",
+  "title": "Excel Security Corp. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Excel Security Corp.",
+    "domain": "excelsecurity.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 150000000000,
+    "description": "Excel Security Corp. is an internationally respected provider of  security services. How did it happen that they themselves were le ft without security? Everything for customers? Anyways, 150GB of  data will be accessible here soon. Personal files of employees, S SNs, drivers licenses, phone numbers, emails, financial data, cus tomers information, NDAs, confidential agreements and so much oth er stuff.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxhjzwwgu2vjdxjpdhkgq29ycc5aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-30 17:14:54.191144",
+    "disclosedDate": "2024-05-30 17:14:54.268869"
+  }
+}

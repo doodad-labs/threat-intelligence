@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-2767C2",
+  "type": "ransomware-incident",
+  "title": "RDSGAMING.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RDSGAMING.COM",
+    "domain": "rdsgaming.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] RDSGAMING.COM is a platform dedicated to the gaming industry and enthusiasts. It focuses on providing various online games, gaming tips and strategies, latest gaming news and reviews. Their aim is to provide a comprehensive gaming guide to enhance players’ abilities. The website caters to all, from beginners to professional gamers, across all gaming platforms, genres and tournaments.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukrtr0fnsu5hlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:11:39.808643",
+    "disclosedDate": "2025-02-27 17:11:45.582702"
+  }
+}

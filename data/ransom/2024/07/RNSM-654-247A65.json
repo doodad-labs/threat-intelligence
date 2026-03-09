@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-247A65",
+  "type": "ransomware-incident",
+  "title": "Betances Health Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Betances Health Center",
+    "domain": "betances.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2b7acb734c3f14bf01cc0a56fa584b2c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmv0yw5jzxmgsgvhbhroienlbnrlckbodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-24 15:10:57.000000",
+    "disclosedDate": "2024-07-24 15:14:03.588380"
+  }
+}

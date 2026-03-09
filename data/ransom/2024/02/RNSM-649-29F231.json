@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-649-29F231",
+  "type": "ransomware-incident",
+  "title": "Essential Labs ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Essential Labs",
+    "domain": "ewlnatural.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Essential Labs, located in the Pacific Northwest, is a premium natural and organic personal care formulating, contract manufacturing and contract packaging company.ewlnatural.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f30cfa2ef5fa761bb4ddd24f65ef5775.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxnzzw50awfsiexhynnaogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-21 00:00:00.000000",
+    "disclosedDate": "2024-02-29 04:15:08.686644"
+  }
+}

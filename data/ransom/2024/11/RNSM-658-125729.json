@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-658-125729",
+  "type": "ransomware-incident",
+  "title": "Orange County Pathology Medical Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Orange County Pathology Medical Group",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "raworld",
+    "name": "raworld",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Orange County Pathology Medical Group is a healthcare organization specializing in pathology services. Located in Orange County, California, the group provides diagnostic services and laboratory testing to support patient care. Their team of skilled pathologists works closely with healthcare providers to deliver accurate and timely results, contributing to effective patient diagnosis and treatment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b4a1b520b4630470693ee7df3b1a5a8d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3jhbmdlienvdw50esbqyxrob2xvz3kgtwvkawnhbcbhcm91cebyyxdvcmxk",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-12 20:16:03.911867",
+    "disclosedDate": "2024-11-12 20:16:06.020507"
+  }
+}

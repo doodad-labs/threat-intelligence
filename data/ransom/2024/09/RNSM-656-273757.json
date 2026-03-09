@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-273757",
+  "type": "ransomware-incident",
+  "title": "www.vbrlogistica.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.vbrlogistica.com.br",
+    "domain": "vbrlogistica.com.br",
+    "country": "BR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "VBR Logística is a Brazilian company specializing in comprehensive logistics solutions. They offer a wide range of services including transportation, warehousing, inventory management, and distribution. Known for their reliability and efficiency, VBR Logística leverages advanced technology and a skilled workforce to optimize supply chain operations and meet diverse client needs across various industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/68b8d19e837f54fb9e4ffce95de83b05.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnzicmxvz2lzdgljys5jb20uynjacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-11 00:00:00.000000",
+    "disclosedDate": "2024-09-27 00:12:44.773445"
+  }
+}

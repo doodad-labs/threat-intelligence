@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-665-230D8A",
+  "type": "ransomware-incident",
+  "title": "Estes Forwarding Worldwide ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Estes Forwarding Worldwide",
+    "domain": "efwnow.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Estes Forwarding Worldwide (EFW) is a leading provider of high-touch, door-to-door logistics and freight forwarding solutions. Headquartered in Richmond, Virginia, and a subsidiary of Estes—the largest privately held freight transportation             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/112c483d810a4383bc68bbcf92a9a547.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxn0zxmgrm9yd2fyzgluzybxb3jszhdpzgvacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.freightwaves.com/news/estes-forwarding-worldwide-hit-by-cyberattack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-24 00:00:00.000000",
+    "disclosedDate": "2025-06-23 19:18:37.648239"
+  }
+}

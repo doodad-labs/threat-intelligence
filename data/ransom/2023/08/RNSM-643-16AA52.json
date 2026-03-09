@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-16AA52",
+  "type": "ransomware-incident",
+  "title": "ICON Creative Studio ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ICON Creative Studio",
+    "domain": "iconcreativestudio.com",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "metaencryptor",
+    "name": "metaencryptor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ICON Creative Studio is Canada’s largest independently owned CG Animation Studio, located in the historic Gastown district of Vancouver, BC Canada, housing over 950 talented creatives ranging from design, storyboarding, modeling, rigging, animation, shot finaling, lighting, visual effects and compositing artists alongside creative and management teams.Revenue: $410M",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f27bb1fe8de5e24839f500a3c6eace8d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sunptibdcmvhdgl2zsbtdhvkaw9abwv0ywvuy3j5chrvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-16 20:50:20.978842",
+    "disclosedDate": "2023-08-16 20:50:20.978863"
+  }
+}

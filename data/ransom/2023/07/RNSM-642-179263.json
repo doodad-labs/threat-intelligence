@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-179263",
+  "type": "ransomware-incident",
+  "title": "FMGL.COM.AU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FMGL.COM.AU",
+    "domain": "fmgl.com.au",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - Fortescue Metals Group Ltd",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8ed4cfc4f88d28a2dfca319f9b85e40a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rk1htc5dt00uqvvay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-17 13:20:06.138731",
+    "disclosedDate": "2023-07-17 13:20:06.138783"
+  }
+}

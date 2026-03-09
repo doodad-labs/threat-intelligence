@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-072C21",
+  "type": "ransomware-incident",
+  "title": "Chalmers tekniska högskola ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Chalmers tekniska högskola",
+    "domain": "chalmers.se",
+    "country": "SE",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: Chalmers tekniska högskola, Fligno, 3SS",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hhbg1lcnmgdgvrbmlza2egamo2z3nrb2xhqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-07 23:45:25.006616",
+    "disclosedDate": "2025-02-07 23:45:26.351007"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26959C",
+  "type": "ransomware-incident",
+  "title": "ENTERPRISEBANKING.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ENTERPRISEBANKING.COM",
+    "domain": "enterprisebanking.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Enterprise Bank",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6ea41469045e410b1e502e8f69ef32f7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ru5urvjqukltrujbtktjtkcuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:52:31.250056",
+    "disclosedDate": "2023-07-26 20:52:31.250081"
+  }
+}

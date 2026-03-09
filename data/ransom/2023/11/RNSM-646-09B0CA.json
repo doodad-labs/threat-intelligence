@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-646-09B0CA",
+  "type": "ransomware-incident",
+  "title": "Simons Petroleum/Maxum Petroleum/Pilot Thomas Logistics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Simons Petroleum/Maxum Petroleum/Pilot Thomas Logistics",
+    "domain": "pilotthomas.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 70000000000,
+    "description": "We've obtained about 70Gb data of a group of companies in logistics/energy providing fields named Simons Petroleum, Maxum Petroleum and Pilot Thomas Logistics. Lots of operating files, confidential docs, personal information of employees, NDAs and so on. I'll make an update soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2ltb25zifbldhjvbgv1bs9nyxh1bsbqzxryb2xldw0vuglsb3qgvghvbwfziexvz2lzdgljc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-09 12:59:37.549918",
+    "disclosedDate": "2023-11-09 12:59:37.678845"
+  }
+}

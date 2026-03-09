@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-07BE51",
+  "type": "ransomware-incident",
+  "title": "churchill-linen.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "churchill-linen.com",
+    "domain": "churchill-linen.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Churchill Linen Service has much to offer than just an extensive selection of product colors and sizes. We utilize state of the art technology to ensure accurate invoicing and inventory management. We offer valued added programs designed to show our...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1ec143686c0082e1cd57337f30bdd28d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2h1cmnoawxslwxpbmvulmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-24 00:00:00.000000",
+    "disclosedDate": "2024-05-07 10:40:19.079215"
+  }
+}

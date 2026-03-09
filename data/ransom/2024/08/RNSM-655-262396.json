@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-262396",
+  "type": "ransomware-incident",
+  "title": "Penn Veterinary Supply INC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Penn Veterinary Supply INC",
+    "domain": "pennvet.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Penn Veterinary Supply is a family-owned veterinary supply distributor. Penn Vet offers custom compounded medications through our partnership with Premium Compounding! *Available in Approved States Only.Company has 48 hours to contact us             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/18b7d01dabf83acf531a023c7549eb14.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvubibwzxrlcmluyxj5ifn1chbsesbjtknacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-14 00:00:00.000000",
+    "disclosedDate": "2024-08-26 01:27:16.169025"
+  }
+}

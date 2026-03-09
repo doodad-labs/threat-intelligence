@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-182C70",
+  "type": "ransomware-incident",
+  "title": "Atos-racks.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Atos-racks.com",
+    "domain": "atos-racks.com",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "vanhelsing",
+    "name": "VanHelsing",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ATOS designs, develops and manufactures in France enclosure products for the electronics industry: cabinets, boxes, racks, fine and precision sheet metal assemblies, 19\" indoor or outdoor solutions: standard, adaptation of the standard, specific, or production to drawings, up to the integration of complex assemblies.ATOS serves the Energy, Telecommunications, Electronics, IT and Transport markets,",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d1df1634e3a31d4644af4beece34e0e9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxrvcy1yywnrcy5jb21avmfusgvsc2luzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-18 22:40:15.807743",
+    "disclosedDate": "2025-03-18 22:41:28.692844"
+  }
+}

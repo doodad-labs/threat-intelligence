@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-183172",
+  "type": "ransomware-incident",
+  "title": "TBM Consulting Group, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TBM Consulting Group, Inc.",
+    "domain": "tbmcg.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] TBM Consulting Group, Inc. is a global management consulting firm specializing in operational excellence, lean manufacturing, and continuous improvement strategies. Founded in 1991, the company helps organizations enhance efficiency, productivity, and profitability by implementing process improvements and fostering a culture of innovation. TBM serves a diverse range of industries, focusing on sustainable growth and competitive advantage.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vejnienvbnn1bhrpbmcgr3jvdxasieluyy5arwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:04:32.407181",
+    "disclosedDate": "2024-11-18 21:04:34.187645"
+  }
+}

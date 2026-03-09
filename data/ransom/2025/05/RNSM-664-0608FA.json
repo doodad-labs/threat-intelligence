@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-0608FA",
+  "type": "ransomware-incident",
+  "title": "Dean & Fulkerson ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dean & Fulkerson",
+    "domain": "dflaw.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dean & Fulkerson P.C has received an SBA PPP loan for $350,000-1 million from PNC Bank, National Assoc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvhbiamiez1bgtlcnnvbkbtawxlbnrsyw5zb21hcm91ca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-13 04:29:48.106676",
+    "disclosedDate": "2025-05-06 18:17:05.622164"
+  }
+}

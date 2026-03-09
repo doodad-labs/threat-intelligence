@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-229708",
+  "type": "ransomware-incident",
+  "title": "rhschool.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rhschool.org",
+    "domain": "rhschool.org",
+    "country": "",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/50cf4a01bf5b5ad50b9cc16d7ee67526.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmhzy2hvb2wub3jnqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-21 00:00:00.000000",
+    "disclosedDate": "2025-07-22 19:26:14.871413"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-046650",
+  "type": "ransomware-incident",
+  "title": "www.motorworldarc.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.motorworldarc.co.uk",
+    "domain": "motorworldarc.co.uk",
+    "country": "GB",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "global",
+    "name": "global",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Motor World ARC is a UK-based company specializing in vehicle repairs and automotive services, offering expert solutions for a range of car-related needs. They provide high-quality accident repair, bodywork restoration, and mechanical services, with a commitment to customer satisfaction and precision.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1vdg9yd29ybgrhcmmuy28udwtaz2xvymfs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-02 00:00:00.000000",
+    "disclosedDate": "2025-06-04 07:41:14.416937"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-26202F",
+  "type": "ransomware-incident",
+  "title": "SONY.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SONY.COM",
+    "domain": "sony.com",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sony Group Corporation, formerly Tokyo Telecommunications Engineering Corporation, and Sony Corporation, is a Japanese multinational conglomerate corporation headquartered in Minato, Tokyo, JapanWe have successfully compromissed all of sony systems. We wont ransom them! we will sell the data. due to sony not wanting to pay. DATA IS FOR SALE----- File tree:linkSample Of Data:link-----WE ARE SELLING IT",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u09ows5dt01acmfuc29tzwq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-26 03:23:12.111541",
+    "disclosedDate": "2023-09-26 03:23:12.111571"
+  }
+}

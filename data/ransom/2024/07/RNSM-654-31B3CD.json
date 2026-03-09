@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-31B3CD",
+  "type": "ransomware-incident",
+  "title": "fingersstore.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fingersstore.com",
+    "domain": "fingersstore.com",
+    "country": "IN",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have breached fingersstore.com.                             For us to wipe the databreach, we ask for a ransom of 2000 EUR.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmluz2vyc3n0b3jllmnvbubrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-31 18:10:52.584631",
+    "disclosedDate": "2024-07-31 18:10:53.415104"
+  }
+}

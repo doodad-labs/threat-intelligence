@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-649-10D6A8",
+  "type": "ransomware-incident",
+  "title": "Village of Skokie ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Village of Skokie",
+    "domain": "skokie.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/abe3b6e039971d13683c4d5a0709e1e2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmlsbgfnzsbvzibta29rawvaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://patch.com/illinois/skokie/cyberattack-shuts-down-skokie-network-staff-told-keep-it-secret",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-10 19:15:27.000000",
+    "disclosedDate": "2024-02-10 19:28:38.375526"
+  }
+}

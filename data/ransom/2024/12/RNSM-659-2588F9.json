@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-2588F9",
+  "type": "ransomware-incident",
+  "title": "Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD)",
+    "domain": "kemendagri.go.id",
+    "country": "ID",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "hellcat",
+    "name": "hellcat",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have successfully stolen82 GBof data, including backups, from the e-Finance system of Blora Regency, known as theSistem Informasi Pengelolaan Keuangan Daerah (SIPKD). The data spans from 2018 to the present and remains in our possession. To ensure its safe return, we are demanding1.5 BTC. The deadline for this payment is fast approaching. Once the payment is received, the data will be returned without further delay. The terms are clear, and it is up to Blora Regency's authorities to act accordingly.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2lzdgvtieluzm9ybwfzasbqzw5nzwxvbgfhbiblzxvhbmdhbibeywvyywggkfnjuetekubozwxsy2f0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-25 13:10:40.676996",
+    "disclosedDate": "2024-12-25 13:10:41.372074"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-647-0262CB",
+  "type": "ransomware-incident",
+  "title": "hnncsb.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hnncsb.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hampton Newport News CSB is a drug rehab and alcohol rehabilitation center360GBData on patients (MRN, SSN, ID, DOB numbers, phone number, residential addresses, information about visits, medical history, results of various studies, various Patien...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eb9bb5358e607058cbf6e2c2e96f92b8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ag5uy3nilm9yz0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-01 12:08:00.000000",
+    "disclosedDate": "2023-12-02 13:20:17.032043"
+  }
+}

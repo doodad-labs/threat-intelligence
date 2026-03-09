@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-669-256DEF",
+  "type": "ransomware-incident",
+  "title": "MetroWest Community FCU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MetroWest Community FCU",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MetroWest Community Federal Credit Union offers a range of personal banking services including checking and savings accounts, mobile banking, and various lending products such as vehicle, home, and personal loans.We are ready to upload corporate and client documents. Lots of clients documents (DLs, birth and death certs and numerous forms with personal information), financial and accounting information, court cases information, employee personal files, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twv0cm9xzxn0ienvbw11bml0esbgq1vaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-25 00:00:00.000000",
+    "disclosedDate": "2025-10-25 12:39:16.742621"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-648-227876",
+  "type": "ransomware-incident",
+  "title": "Pozzi Italy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pozzi Italy",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pozzi Leopoldo Srl is a company that operates in the machinery industry. It employs 11-20 people and has $1M-$5M of revenue. The company is headquartered in Barlassina, Lombardia, Italy",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f86f4f6430643f3f9086e30355cb394f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ug96emkgsxrhbhlabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-22 10:52:58.12345",
+    "disclosedDate": "2024-01-22 14:12:42.941071"
+  }
+}

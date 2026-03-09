@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-16F40F",
+  "type": "ransomware-incident",
+  "title": "Grupo Cuevas ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Grupo Cuevas",
+    "domain": "grupocuevas.es",
+    "country": "ES",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 26000000000,
+    "description": "Visits: 71 Data Size: 26GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ebfb94fcf80cffb7dc2e4229678f0cb2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3j1cg8gq3vldmfzqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-16 11:51:29.189268",
+    "disclosedDate": "2024-04-16 11:51:29.189292"
+  }
+}

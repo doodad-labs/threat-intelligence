@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-26E56F",
+  "type": "ransomware-incident",
+  "title": "Salvatori Group of Companies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Salvatori Group of Companies",
+    "domain": "salvatori.com",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Salvatori Group is a leading provider of transport and distribution services in Kent, specializing in UK and European logistics. They offer a comprehensive range of services including express freight delivery, full load transport, pallet distribution, customs clearance, and storage solutions. Their dedicated fleet and membership in Europe's largest pallet network ensure reliable service and full visibility for clients. The company prides itself on customer care, maintaining high standards of service and communication",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0b26ca544513cacaaf8f882012745de9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fsdmf0b3jpiedyb3vwig9mienvbxbhbmllc0bkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-21 13:07:27.501011",
+    "disclosedDate": "2026-02-26 13:13:58.902088"
+  }
+}

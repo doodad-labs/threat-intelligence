@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-111A89",
+  "type": "ransomware-incident",
+  "title": "RITEAID.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RITEAID.COM",
+    "domain": "riteaid.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Online Pharmacy and Store - Rite Aid",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e1086f4ded361da40e248e09039cb0e2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uklurufjrc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-11 18:00:40.547082",
+    "disclosedDate": "2023-07-11 18:00:40.547108"
+  }
+}

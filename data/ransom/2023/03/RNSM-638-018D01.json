@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-018D01",
+  "type": "ransomware-incident",
+  "title": "Kenya Airports Authority ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kenya Airports Authority",
+    "domain": "kaa.go.ke",
+    "country": "KE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kenya Airports Authority (KAA) is the owner and operator of nine civilian airports and airstrips in Kenya. Kenya Airports Authority was established by an act of Parliament in 1992, by the ruling Kenya African National Union government. The KAA Act, Cap 395, provides for the powers and functions of the Authority. Its head office is on the property of Jomo Kenyatta International Airport in Embakasi, Nairobi.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8e5222b70c8e6412e1de796ae52fb36e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2vuewegqwlycg9ydhmgqxv0ag9yaxr5qg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-01 08:37:05.12345",
+    "disclosedDate": "2023-03-01 09:14:02.246920"
+  }
+}

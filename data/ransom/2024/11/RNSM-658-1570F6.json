@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-1570F6",
+  "type": "ransomware-incident",
+  "title": "BluMed Health ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BluMed Health",
+    "domain": "blupack.com",
+    "country": "IL",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bff64f102bf50523ffe27518f8545628.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmx1twvkiehlywx0aebrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-15 00:40:21.752241",
+    "disclosedDate": "2024-11-15 00:40:22.989315"
+  }
+}

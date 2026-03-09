@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-17E555",
+  "type": "ransomware-incident",
+  "title": "zyxel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "zyxel",
+    "domain": "zyxel.eu",
+    "country": "NL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Zyxel.eu is a European branch of Zyxel Communications Corporation, a global leader in networking solutions. It specializes in providing innovative and reliable internet connectivity products and services, including routers, switches, security appliances, and cloud-based network management systems. Zyxel focuses on empowering businesses and home users with cutting-edge technology to enhance their digital experiences.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fe85ee4c77b5b0de4f3b2951366b31ac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/enl4zwxaagvsbgrvd24=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-17 14:01:06.711366",
+    "disclosedDate": "2024-08-17 14:01:12.232298"
+  }
+}

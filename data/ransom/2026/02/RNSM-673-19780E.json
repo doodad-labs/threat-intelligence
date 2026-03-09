@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-673-19780E",
+  "type": "ransomware-incident",
+  "title": "TCPN Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TCPN Inc",
+    "domain": "tcpninc.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data is not available now.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/venqtibjbmnabmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-12 00:00:00.000000",
+    "disclosedDate": "2026-02-19 17:41:34.390886"
+  }
+}

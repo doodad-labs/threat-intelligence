@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-167ED2",
+  "type": "ransomware-incident",
+  "title": "pcdpackaging.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pcdpackaging.com",
+    "domain": "spgpackaging.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Development of customized industrial packaging. Single-use racks, export packaging, packaging for power units, specialized packaging, packaging for sea containers.1.The document is an official bank statement from PCD Packaging de México S.            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b28555f2c1decca772789be0c7f24995.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgnkcgfja2fnaw5nlmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-16 00:00:00.000000",
+    "disclosedDate": "2025-10-16 12:51:08.702374"
+  }
+}

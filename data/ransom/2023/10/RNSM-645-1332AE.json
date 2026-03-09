@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-1332AE",
+  "type": "ransomware-incident",
+  "title": "webpag.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "webpag.com.br",
+    "domain": "webpag.com.br",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sample: https://qu.ax/LHRf.gOur group was able to access everything from the main company servers, and it happened that their data was on the server too(shared) Sample: https://qu.ax/LHRf.gz",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7798f5470b619e43a939ff16ab247e33.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2vicgfnlmnvbs5ickbyyw5zb21lza==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-13 08:02:53.697474",
+    "disclosedDate": "2023-10-13 08:02:53.697495"
+  }
+}

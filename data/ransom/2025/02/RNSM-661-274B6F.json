@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-274B6F",
+  "type": "ransomware-incident",
+  "title": "JOBAR.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JOBAR.COM",
+    "domain": "jobar.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Jobar.com is a global company in the arena of innovative products, focusing on household, automotive, pets, and travel commodities. It operates as Jobar International, Inc. based in Carson, California. It provides a wide array of goods ranging from home organization items to health and wellness products. Its products are designed to make life easier and more comfortable for consumers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sk9cqviuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:29:36.848744",
+    "disclosedDate": "2025-02-27 16:29:43.027627"
+  }
+}

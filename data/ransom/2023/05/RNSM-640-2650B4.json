@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-2650B4",
+  "type": "ransomware-incident",
+  "title": "watersaversinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "watersaversinc.com",
+    "domain": "watersaversinc.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "For over 30 years, Watersavers Irrigation has been committed to providing high quality irrigation supplies and services. We carry smart irrigation products, landscape supplies and tools, outdoor lighting, drainage, fertilizers, sod, and artificial tu...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1eeed65c75d8a8226a410729e36ece1d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2f0zxjzyxzlcnnpbmmuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-26 13:45:00.000000",
+    "disclosedDate": "2023-05-26 14:54:03.752512"
+  }
+}

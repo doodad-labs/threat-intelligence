@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-226460",
+  "type": "ransomware-incident",
+  "title": "EDF Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EDF Group",
+    "domain": "theedfgroup.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7909fa6edd9f2b4f3fa63e9d524cfb52.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rurgiedyb3vwqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-22 17:05:08.318678",
+    "disclosedDate": "2026-01-22 17:05:27.787237"
+  }
+}

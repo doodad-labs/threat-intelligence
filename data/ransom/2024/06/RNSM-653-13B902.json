@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-13B902",
+  "type": "ransomware-incident",
+  "title": "2K Dental ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "2K Dental",
+    "domain": "2kdental.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Company has the last 48 hours to contact us using the instructions left.In case of silence, all data will be published and clients notified https://www.2kdental.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/mksgrgvudgfsqgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-13 17:42:33.582915",
+    "disclosedDate": "2024-06-13 17:42:34.629022"
+  }
+}

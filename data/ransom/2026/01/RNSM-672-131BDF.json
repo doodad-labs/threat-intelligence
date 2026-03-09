@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-131BDF",
+  "type": "ransomware-incident",
+  "title": "Tepco-Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tepco-Group",
+    "domain": "tepco-group.com",
+    "country": "JP",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Electronics",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1528b5e2facbe419559052cb6f31a7f3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvwy28tr3jvdxbazglyzxdvbgy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-13 15:58:51.918883",
+    "disclosedDate": "2026-01-13 16:45:15.121222"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-653-067B90",
+  "type": "ransomware-incident",
+  "title": "Mercy Drive Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mercy Drive Inc",
+    "domain": "mercydriveinc.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 161100000000,
+    "description": "Mercy Drive Inc.'s - provides services to support people with developmental disabilities and intelligence of different age categories. Mercy Drive corporate office is located in 11710 Hillside Ave, Jamaica, New York, 11418, United States and has 203 employees. The total amount of data leakage is 161.1 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvyy3kgrhjpdmugsw5jqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-04 14:26:10.12345",
+    "disclosedDate": "2024-06-06 07:41:19.041857"
+  }
+}

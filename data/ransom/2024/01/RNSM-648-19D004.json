@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-19D004",
+  "type": "ransomware-incident",
+  "title": "Alupar Investimento SA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Alupar Investimento SA",
+    "domain": "alupar.com.br",
+    "country": "BR",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Brazil - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/54ab6a8dd1652d498a68f78c0987d565.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwx1cgfyieludmvzdgltzw50bybtqubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-19 13:28:01.000000",
+    "disclosedDate": "2024-01-19 16:21:51.167147"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-11AA94",
+  "type": "ransomware-incident",
+  "title": "DSZ ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DSZ",
+    "domain": "dzsi.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DZS is a global leader of Network Edge, Connected Home/Enterprise and AI Cloud Software solutions that enable gigabit broadband everywhere.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/52ca4e0ecf3b80749e46ff2d29625f3f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rfnaqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-07 08:38:50.560000",
+    "disclosedDate": "2024-11-11 18:49:34.784751"
+  }
+}

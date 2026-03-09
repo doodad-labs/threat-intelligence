@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-17ADAF",
+  "type": "ransomware-incident",
+  "title": "Equip'LaboFROID ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Equip'LaboFROID",
+    "domain": "equiplabofroid.com",
+    "country": "FR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Équip'Labo FROID, se positionne en tant que leader sur le marché du matériel des métiers de bouche.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f28de61eaf9b1aa6a3951b12f8d4eaf2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxf1axantgfib0zst0leqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-17 17:02:17.661477",
+    "disclosedDate": "2025-06-17 17:16:44.438292"
+  }
+}

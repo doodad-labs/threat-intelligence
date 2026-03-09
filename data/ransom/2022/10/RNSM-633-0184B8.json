@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-633-0184B8",
+  "type": "ransomware-incident",
+  "title": "Bombardier Recreational Products (BRP) - SOURCE CODES ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bombardier Recreational Products (BRP) - SOURCE CODES",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomexx",
+    "name": "ransomexx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Here are some codes from BRP's repos. atgk.brp.ApprenticeShopAPI, atgk.brp.ApprenticeShopMobileAppBackend, atgk.brp.Tools.RemoteConnectionManager, BRP - Usine 9 - Tracking, BRP-PP-ALM, EPC, RIM, SAP-BenchStatusMobileApp.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5b2ab4c351ee44e27ab9a3891fdd668a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qm9tymfyzgllcibszwnyzwf0aw9uywwguhjvzhvjdhmgkejsuckglsbtt1vsq0ugq09ervnacmfuc29tzxh4",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-10-01 15:38:40.424768",
+    "disclosedDate": "2022-10-01 15:38:40.424768"
+  }
+}

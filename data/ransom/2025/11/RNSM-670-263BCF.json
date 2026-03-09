@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-263BCF",
+  "type": "ransomware-incident",
+  "title": "mazda-ploiesti.ro ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mazda-ploiesti.ro",
+    "domain": "mazda-ploiesti.ro",
+    "country": "RO",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "benzona",
+    "name": "benzona",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwf6zgetcgxvawvzdgkucm9aymvuem9uyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-26 17:46:32.719428",
+    "disclosedDate": "2025-11-26 17:46:35.239553"
+  }
+}

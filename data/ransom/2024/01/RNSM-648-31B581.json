@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-31B581",
+  "type": "ransomware-incident",
+  "title": "Geographe ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Geographe",
+    "domain": "geographe.com.au",
+    "country": "AU",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Spécialisé au travers de nos différentes sociétés dans la fabrication et la distribution d'accessoires textiles automobiles, (Housses Auto DBS, JCDezarnaud) d'accessoires literie adulte et puériculture (SweetHome) et d'Equipements de protection individuelle (Manusweet et Foxter). geographe.com.au",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/75af247f84e3fbfc4873621a1f3fd8cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2vvz3jhcghlqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-31 00:00:00.000000",
+    "disclosedDate": "2024-01-31 04:24:08.329033"
+  }
+}

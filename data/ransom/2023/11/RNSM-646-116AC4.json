@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-646-116AC4",
+  "type": "ransomware-incident",
+  "title": "motordepot.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "motordepot.co.uk",
+    "domain": "motordepot.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 636000000000,
+    "description": "Motor Depot 636Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw90b3jkzxbvdc5jby51a0bhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-11 09:53:50.014760",
+    "disclosedDate": "2023-11-11 09:53:50.014786"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-07BEA9",
+  "type": "ransomware-incident",
+  "title": "Saint-Bar (saintbar.be) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Saint-Bar (saintbar.be)",
+    "domain": "saintbar.be",
+    "country": "BE"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 16800000000,
+    "description": "16.8 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6a6eb79411482c3af612063dfddf2f2c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fpbnqtqmfyichzywludgjhci5izslazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-07 20:16:23.435498",
+    "disclosedDate": "2025-01-07 20:17:29.266961"
+  }
+}

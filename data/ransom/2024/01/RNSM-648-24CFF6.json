@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-24CFF6",
+  "type": "ransomware-incident",
+  "title": "Charles Trent ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Charles Trent",
+    "domain": "trents.co.uk",
+    "country": "GB",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ef8df7f934a387665dfa55e203b2248a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hhcmxlcybucmvudebodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-24 17:59:24.000000",
+    "disclosedDate": "2024-01-24 19:22:53.059880"
+  }
+}

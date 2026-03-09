@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-229AA6",
+  "type": "ransomware-incident",
+  "title": "Lincoln University (lincolnu.edu) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lincoln University (lincolnu.edu)",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "10 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aa3c6b3cd28bb1c4c753499a8bb89a31.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgluy29sbibvbml2zxjzaxr5ichsaw5jb2xuds5lzhupqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-22 00:00:00.000000",
+    "disclosedDate": "2024-10-22 16:05:51.635779"
+  }
+}

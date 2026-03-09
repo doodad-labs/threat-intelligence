@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-115069",
+  "type": "ransomware-incident",
+  "title": "Buckeye Packaging ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Buckeye Packaging",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "avoslocker",
+    "name": "avoslocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "Buckeye Packaging offers high-quality custom packaging solutions in a variety of substrates, delivered with outstanding customer service and terrible network security. 50 GB customer data will be released",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnvja2v5zsbqywnrywdpbmdayxzvc2xvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-11 15:54:59.122067",
+    "disclosedDate": "2023-02-11 15:54:59.122067"
+  }
+}

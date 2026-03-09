@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-096C99",
+  "type": "ransomware-incident",
+  "title": "Cipla ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cipla",
+    "country": "ZA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 70000000000,
+    "description": "Cipla is a global pharmaceutical company focused on agile and sustainable growth, complex generics, and deepening portfolio in ourhome markets of India, South Africa, North America, and key regulated and emerging marketsWe are ready to upload more than 70 GB of internal corporate documents including: personal medical records with used medications, inside financial information, customer contacts with phones and emails, employees contacts etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2lwbgfaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-09 00:00:00.000000",
+    "disclosedDate": "2024-12-09 14:59:46.006302"
+  }
+}

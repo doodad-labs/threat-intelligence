@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-25F7C4",
+  "type": "ransomware-incident",
+  "title": "Hypertype ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hypertype",
+    "domain": "ehypertype.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hypertype Inc. has been providing quality transcription service to Emergency Departments, Hospitals, Clinics, Physician's Offices, and HMO's for over 50 years.  We are a proud members of the Health Information Management Association of New York City (HIMANYC), NY State Health Management Association (NYHIMA), and the Association for Healthcare Documentation Integrity (AHDI).",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c74b2dafb2c6ccb395935706830a44bf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/shlwzxj0exblqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-29 00:00:00.000000",
+    "disclosedDate": "2024-11-25 06:21:06.680502"
+  }
+}

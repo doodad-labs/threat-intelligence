@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-649-07E451",
+  "type": "ransomware-incident",
+  "title": "TeraGo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TeraGo",
+    "domain": "terago.ca",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 45000000000,
+    "description": "TeraGo provides businesses across Canada with secure cloud services, date recovery, and business grade internet. 45Gb of data willbe uploaded soon. You will find there lots of client agreements with personal information. Many files with financial information and everything that a provider can get from its customers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvyyudvqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-31 00:00:00.000000",
+    "disclosedDate": "2024-02-07 18:00:10.152426"
+  }
+}

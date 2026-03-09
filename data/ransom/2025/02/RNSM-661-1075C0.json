@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-1075C0",
+  "type": "ransomware-incident",
+  "title": "kaplanstahler.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kaplanstahler.com",
+    "domain": "kaplanstahler.com",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Kaplan Stahler is a successful boutique agency located in Beverly Hills, California. The company specialises in representing writers, directors, and producers for television, film, and digital media. They are known for focusing on helping clients develop their unique voice, providing them with opportunities in various media outlets. The team at Kaplan Stahler Agency includes seasoned professionals from various areas of the industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f7e8b7467e082b59fab035743606c8a3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2fwbgfuc3rhagxlci5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 14:37:55.000000",
+    "disclosedDate": "2025-02-10 22:15:30.705657"
+  }
+}

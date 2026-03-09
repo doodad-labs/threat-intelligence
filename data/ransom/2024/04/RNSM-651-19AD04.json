@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19AD04",
+  "type": "ransomware-incident",
+  "title": "aplusfcu.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aplusfcu.org",
+    "domain": "aplusfcu.org",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "aplusfcu.org",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/27123e9b2c0431fc344f8cd008d671f2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxbsdxnmy3uub3jnqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-08-22 03:15:00.000000",
+    "disclosedDate": "2024-04-19 11:42:27.890260"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-651-205100",
+  "type": "ransomware-incident",
+  "title": "NORTHEAST OHIO NEIGHBORHOOD HEALTH SERVICES (NEON)  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NORTHEAST OHIO NEIGHBORHOOD HEALTH SERVICES (NEON) ",
+    "domain": "neonhealth.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50960000000,
+    "description": "NORTHEAST OHIO NEIGHBORHOOD HEALTH SERVICES (NEON, founded 1967) is a Federally Qualified Health Center (FQHC) network of community health centers dedicated to improving access to health care. Neon Health Services corporate office is located in 8300 Hough Ave Ste 308, Cleveland, Ohio, 44103, United States and has 138 employees. The total amount of data leakage is 50.96 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tk9svehfqvnuie9isu8gtkvjr0hct1jit09eiehfquxuscbtrvjwsunfuyaotkvptikgqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-18 16:06:04.12345",
+    "disclosedDate": "2024-04-20 18:23:37.073744"
+  }
+}

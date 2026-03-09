@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26FA3F",
+  "type": "ransomware-incident",
+  "title": "CONVERGEONE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CONVERGEONE.COM",
+    "domain": "convergeone.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Connected Customer Experiences - ConvergeOne",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4763e884fd439da498689e1e01c3af9d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q09ovkvsr0vptkuuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:55:43.903700",
+    "disclosedDate": "2023-07-26 20:55:43.903748"
+  }
+}

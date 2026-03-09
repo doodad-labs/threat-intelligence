@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-216F57",
+  "type": "ransomware-incident",
+  "title": "Insyst GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Insyst GmbH",
+    "domain": "insyst.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "InSyst GmbH is an owner-managed IT service company in Velbert/NRW. Across all sectors - from architectural offices to craft businessesWe are ready to upload a lot of essential corporate documents such as: NDA’s, contact numbers and e-mail addresses of employees and customers, financial data (audits, payment details, reports), confidential licenses, agreements and contracts, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5zexn0iedtykhaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-21 00:00:00.000000",
+    "disclosedDate": "2025-02-21 15:48:40.767999"
+  }
+}

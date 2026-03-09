@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-663-131A5D",
+  "type": "ransomware-incident",
+  "title": "Fall River Public Schools ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fall River Public Schools",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fall River Public Schools (FRPS) contains 17 schools and 10,521 students. Fall River corporate office is located in 417 Rock Street, Fall River, MA 2720, United States and has 720 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2b1abed692aa4176aafa72187347e64d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmfsbcbsaxzlcibqdwjsawmgu2nob29sc0btzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-12 13:44:22.000000",
+    "disclosedDate": "2025-04-13 20:12:36.526487"
+  }
+}

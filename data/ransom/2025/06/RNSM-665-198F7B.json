@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-665-198F7B",
+  "type": "ransomware-incident",
+  "title": "hparchitecture.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hparchitecture.com",
+    "domain": "hparchitecture.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 30.06.2025.A Chicago-based architectural, planning and interior design firm that has been in business nationally since 1987.1.A memo from the architectural and development team sent            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e9b35de18305ce06a29001346315788c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahbhcmnoaxrly3r1cmuuy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-09-11-hartshorne-plunkard-architecture-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-18 00:00:00.000000",
+    "disclosedDate": "2025-06-19 05:10:58.973816"
+  }
+}

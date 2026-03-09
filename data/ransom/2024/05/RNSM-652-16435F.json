@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-16435F",
+  "type": "ransomware-incident",
+  "title": "kauffmanschool.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kauffmanschool.org",
+    "domain": "kauffmanschool.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Ewing Marion Kauffman School is a free public charter school open to all students living in the Kansas City Public School District. The school is a three-school campus (two middle schools and a high school) of mission-driven college preparatory s...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2f1zmztyw5zy2hvb2wub3jnqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://fox4kc.com/news/kansas-city-charter-school-latest-cyberattack-victim/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-16 07:46:00.000000",
+    "disclosedDate": "2024-05-16 10:33:33.445929"
+  }
+}

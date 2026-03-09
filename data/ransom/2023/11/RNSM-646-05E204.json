@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-05E204",
+  "type": "ransomware-incident",
+  "title": "szutest.cz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "szutest.cz",
+    "domain": "szutest.cz",
+    "country": "CZ",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "szutest.cz",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3d5a5185fa0b4e6a86c713aa22dc79e6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3p1dgvzdc5jekbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-05 07:49:00.000000",
+    "disclosedDate": "2023-11-05 08:24:26.739600"
+  }
+}

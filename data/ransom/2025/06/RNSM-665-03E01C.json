@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-03E01C",
+  "type": "ransomware-incident",
+  "title": "Solar City ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Solar City",
+    "domain": "solarcity.org",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Electricity, Oil & GasAustralia<25 EmployeesSolar City® is dedicated to assisting towns, cities and city regions in fully integrating renewable energy technologies.Revenue <$5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/16b1eb06ea006ac36667010ea74847dc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u29syxigq2l0eubibgfja2xvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-03 10:09:51.000000",
+    "disclosedDate": "2025-06-03 11:15:49.785509"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-665-123FD0",
+  "type": "ransomware-incident",
+  "title": "Cryoviva ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cryoviva",
+    "country": "SG",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "frag",
+    "name": "frag",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cryoviva is now one of the leading private cord blood banks in Singapore.Our team was successful in extracting the following documents:Financial statements of the companyReporting documents",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q3j5b3zpdmfaznjhzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-12 11:28:25.868000",
+    "disclosedDate": "2025-06-12 11:45:14.697949"
+  }
+}

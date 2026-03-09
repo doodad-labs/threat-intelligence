@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-17B6C1",
+  "type": "ransomware-incident",
+  "title": "www.cityofbellville.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.cityofbellville.com",
+    "domain": "cityofbellville.com",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "vanhelsing",
+    "name": "VanHelsing",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bellville is a city in and the county seat of Austin County, Texas, in the southeastern part of the state. The population was 3,794 at the 2000 census. Bellville was named for Thomas B. Bell, one of Stephen F. Austin's Old Three Hundred, after he donated land for the new county seat established by voters in 1846. The original county seat was located in San Felipe. Bellville is located at the inter",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eda117fe74f75b8b273a6adad2061a51.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnpdhlvzmjlbgx2awxszs5jb21avmfusgvsc2luzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-12 22:12:48.779430",
+    "disclosedDate": "2025-03-17 12:55:44.274069"
+  }
+}

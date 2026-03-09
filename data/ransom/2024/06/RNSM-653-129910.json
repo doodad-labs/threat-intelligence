@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-129910",
+  "type": "ransomware-incident",
+  "title": "Eurotrol B.V. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Eurotrol B.V.",
+    "domain": "eurotrol.com",
+    "country": "NL",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Eurotroll B.V is a Netherlands based specialist in custom-made quality control solutions for in vitro diagnostics with a U.S. based production wing. Eurotrol provides high specification, custom-made quality control materials (QC) for the periodic verification of the precision and accuracy of in vitro diagnostics (IVD) analyzers. Our products are produced by an integrated ISO-approved process, from research and development through production, in which only the highest quality materials are used.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1c64226d615848db372de9641f627216.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxvyb3ryb2wgqi5wlkbibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-12 22:46:03.006397",
+    "disclosedDate": "2024-06-12 22:46:03.839766"
+  }
+}

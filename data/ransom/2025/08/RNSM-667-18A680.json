@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-18A680",
+  "type": "ransomware-incident",
+  "title": "Seoul Guarantee Insurance ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Seoul Guarantee Insurance",
+    "domain": "sgic.co.kr",
+    "country": "KR",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "gunra",
+    "name": "gunra",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Seoul Guarantee Insurance (SGI) is a South Korean company specializing in credit and guarantee insurance for businesses. It offers insurance cover for trade, construction, and small to medium-sized businesses. It also provides surety bonds, credit guarantees, and financial services. Other services include reinsurance, loan guarantees, export insurance, and retail insurance products. The company was established in 1969 and is based in Seoul, South Korea.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/173e694e6be0894064b49655e5fd59f5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vvdwwgr3vhcmfudgvlieluc3vyyw5jzubndw5yyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-18 08:09:18.655408",
+    "disclosedDate": "2025-08-18 08:09:59.674603"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-0681A0",
+  "type": "ransomware-incident",
+  "title": "Wilhelm ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wilhelm",
+    "domain": "e-wilhelm-gmbh.de",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Egmont Wilhelm GmbHWilly-Messerschmitt-Straße 1473457 EssingenDeutschland",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c2023a17f430c3f54da8fce113776683.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lsagvsbubyb3lhba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-06 01:02:03.456789",
+    "disclosedDate": "2023-03-06 15:14:42.478521"
+  }
+}

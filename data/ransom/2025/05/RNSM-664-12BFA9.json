@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-664-12BFA9",
+  "type": "ransomware-incident",
+  "title": "EIZO Rugged Solutions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EIZO Rugged Solutions",
+    "domain": "eizorugged.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/76245a6eb53af9eea2cec7df732dbb47.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rulatybsdwdnzwqgu29sdxrpb25zqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-07-07-eizo-rugged-solutions-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-02 00:00:00.000000",
+    "disclosedDate": "2025-05-12 19:38:28.383383"
+  }
+}

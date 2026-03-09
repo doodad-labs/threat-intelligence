@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-0701B0",
+  "type": "ransomware-incident",
+  "title": "lowcostspayneuterindiana.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lowcostspayneuterindiana.org",
+    "domain": "lowcostspayneuterindiana.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] LowCostSpayNeuterIndiana.org is an organization based in Indiana that aims to control the pet population and reduce euthanasia rates by providing affordable spay and neuter services. They cater to cats, dogs, and feral cats, providing medical services like vaccinations, heartworm testing, and microchipping in addition to population control measures.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a82852b8dd137ef131295d96f838a056.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bg93y29zdhnwyxluzxv0zxjpbmrpyw5hlm9yz0bzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-25 00:00:00.000000",
+    "disclosedDate": "2025-07-07 22:51:28.844723"
+  }
+}

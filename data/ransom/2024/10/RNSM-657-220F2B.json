@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-657-220F2B",
+  "type": "ransomware-incident",
+  "title": "autodukan.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "autodukan.com",
+    "domain": "autodukan.com",
+    "country": "IN"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AutoDukan offers a wide range of car spare parts and accessories online in India. Shop now for low prices, all car makes & models, and fast shipping across India.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3cc95113e958936fc68e6cebbdb96bf8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxv0b2r1a2fulmnvbubrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-22 00:39:05.535812",
+    "disclosedDate": "2024-10-22 00:39:06.038917"
+  }
+}

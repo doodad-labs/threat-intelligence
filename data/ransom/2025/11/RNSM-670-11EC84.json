@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-11EC84",
+  "type": "ransomware-incident",
+  "title": "Polidano Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Polidano Group",
+    "domain": "polidano-group.com",
+    "country": "MT",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Polidano Group is a leading construction company in Malta, specializing in a wide range of infrastructure projects including transport, social, and lifestyle developments. They also manufacture construction materials such as asphalt, concrete, and bricks, catering to industrial and commercial clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e2fff117ca1ce724b2b14b1fbf1b115a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ug9sawrhbm8gr3jvdxbacmfuc29tag91c2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-30 00:00:00.000000",
+    "disclosedDate": "2025-11-11 11:52:25.271271"
+  }
+}

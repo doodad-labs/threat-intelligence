@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-17A3FE",
+  "type": "ransomware-incident",
+  "title": "zimeda.eu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "zimeda.eu",
+    "domain": "zimeda.eu",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Zimeda GmbH & Co. KG is a German medical technology and healthcare supplier headquartered in Passau, Bavaria. The firm operates …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/076de66bde5c6382cb70e05589169689.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/emltzwrhlmv1qhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-17 20:23:26.748131",
+    "disclosedDate": "2025-12-17 20:23:43.379323"
+  }
+}

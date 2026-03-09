@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-264626",
+  "type": "ransomware-incident",
+  "title": "Hong Kong College of Technology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hong Kong College of Technology",
+    "domain": "hkct.edu.hk",
+    "country": "HK",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "VISION: We aspire to be a preferred, promising institution for tertiary and continuing education, contributing to the country and the community with its base in Hong Kong while embracing the world. Mission: To provide education and training opportunities for students with the hope to develop their potential.To offer distinguished professional courses according to social needs and international standards with a strong link to industry. To explore the advancement of education and services for sustainable corporate development. To foster and participate in diversified education and social affairs in Hong Kong on a proactive basis. To nurture competent persons for Hong Kong and the country.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2d9cd8f6550b3ce22e8c443806b4425d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9uzyblb25nienvbgxlz2ugb2ygvgvjag5vbg9neubyyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-13 00:00:00.000000",
+    "disclosedDate": "2024-04-26 08:20:05.003582"
+  }
+}

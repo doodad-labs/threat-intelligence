@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-032EE9",
+  "type": "ransomware-incident",
+  "title": "virtuosgames.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "virtuosgames.com",
+    "domain": "virtuosgames.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 2004, Virtuos is a leading content production company specializing in video game development and art production. With operations across Asia, North America, and Europe, we are home to over 3,500 full-time professionals.Virtuos is on a mi...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmlydhvvc2dhbwvzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-03 23:14:04.000034",
+    "disclosedDate": "2023-02-03 23:14:04.000034"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-093EAC",
+  "type": "ransomware-incident",
+  "title": "gotocfr.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gotocfr.com",
+    "domain": "gotocfr.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CFR is a privately held Wisconsin –USA based system integrator for the dairy and food industry. 553GBEmployees (ssn numbers, residential addresses, license numbers, contracts, salary information, tax forms, FMLA forms and more)Clients (informat...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/25c0170e20c45095b038cf018caf27f6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z290b2nmci5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-09 13:47:00.000000",
+    "disclosedDate": "2023-11-09 14:28:20.583360"
+  }
+}

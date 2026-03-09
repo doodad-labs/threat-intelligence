@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-1985A5",
+  "type": "ransomware-incident",
+  "title": "hartmannbund.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hartmannbund.de",
+    "domain": "hartmannbund.de",
+    "country": "DE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Hartmannbund is a German association representing the interests of physicians and medical students. It focuses on advocating for better working conditions, professional development, and healthcare policy improvements. The organization provides support, resources, and networking opportunities for its members, aiming to enhance the medical profession and healthcare system in Germany.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6d0e8d58e762733007a96b916898293f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfydg1hbm5idw5klmrlqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 09:30:50.000000",
+    "disclosedDate": "2024-11-19 12:30:29.709185"
+  }
+}

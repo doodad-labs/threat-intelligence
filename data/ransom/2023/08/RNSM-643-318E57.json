@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-643-318E57",
+  "type": "ransomware-incident",
+  "title": "MetroCLub DC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MetroCLub DC",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2100000000000,
+    "description": "We were able to dump the entire metroclub.org site. Metroclub is a privte club from DC.     There is 2.1TB of data. This screenshot show most of important info but still gathering a lot of data.     We have their entire members list and employee data.     Source and costumers data.",
+    "claimed_data_types": [
+      "employee-records"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twv0cm9dthviierdqhjhbnnvbwvk",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-31 22:01:29.589480",
+    "disclosedDate": "2023-08-31 22:01:29.589501"
+  }
+}

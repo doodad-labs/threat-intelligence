@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-25309E",
+  "type": "ransomware-incident",
+  "title": "Keepz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Keepz",
+    "domain": "keepz.me",
+    "country": "US"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Keepz is a cutting-edge digital payment solution provider based in Tbilisi, Georgia, offering innovative tools for businesses to streamline transactions. The company’s flagship product is its QR-based payment system, which enables businesses to accept payments without physical terminals or user registration.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3318c0303288ca1e2b9e4226cd0b605b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2vlchpaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-25 19:45:23.480750",
+    "disclosedDate": "2025-01-25 19:45:23.480750"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-248556",
+  "type": "ransomware-incident",
+  "title": "Thorite Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Thorite Group",
+    "domain": "thorite.co.uk",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cd3fd6bcbe836871e353ddc6b5d323ca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghvcml0zsbhcm91cebodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-24 17:00:01.000000",
+    "disclosedDate": "2024-01-24 17:53:17.650528"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-655-302E83",
+  "type": "ransomware-incident",
+  "title": "robesoncoso.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "robesoncoso.org",
+    "domain": "robesoncoso.org",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sheriff Burnis Wilkins Sheriff Burnis Wilkins is a 40+ year sworn law enforcement Officer serving with city, county, state and federal agencies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e3ddb449e74ef66b540d274df5fca2c3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm9izxnvbmnvc28ub3jnqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-30 09:34:00.000000",
+    "disclosedDate": "2024-08-30 14:26:00.235787"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-105847",
+  "type": "ransomware-incident",
+  "title": "AXISBANK.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AXISBANK.COM",
+    "domain": "axisbank.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Personal Banking - Internet Banking - Corporate, NRI Banking Services Online - Axis Bank",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f4bd87ff740df53da76375de06496b1d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvhju0jbtksuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-10 11:10:14.144808",
+    "disclosedDate": "2023-03-10 11:10:14.144820"
+  }
+}

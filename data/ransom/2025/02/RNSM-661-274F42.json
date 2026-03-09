@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-274F42",
+  "type": "ransomware-incident",
+  "title": "SAUNDERSMIDWEST.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SAUNDERSMIDWEST.COM",
+    "domain": "saundersmidwest.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Saunders Midwest is a manufacturing company that specializes in creating consumer products for various industries. It operates several brands like Rapesco Office Products, Midwest Products, and Saunders. Their catalogue includes a variety of items, from office supplies to craft and hobby materials, and much more. It prides itself in providing quality, innovative solutions that are made in the USA, upholding strong ethics in conducting business.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0fvtkrfulnnsurxrvnulknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:19:07.516318",
+    "disclosedDate": "2025-02-27 17:19:14.098265"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-05E24B",
+  "type": "ransomware-incident",
+  "title": "Unimed Blumenau ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Unimed Blumenau",
+    "domain": "unimedblumenau.com.br",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Unimed Blumenau is a company that operates in the Health, Wellness and Fitness industry. It employs 1,001-2,000 people and has $500M-$1B of revenue. The company is headquartered in Blumenau, Santa Catarina, Brazil",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6b3e34fdbc3f9eecd873eb457e2cd8d3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pbwvkiejsdw1lbmf1qg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-05 19:49:08.12345",
+    "disclosedDate": "2023-11-05 20:53:14.264578"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-193D0E",
+  "type": "ransomware-incident",
+  "title": "smart-union.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "smart-union.org",
+    "domain": "smart-union.org",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SMART has approximately 700 local unions and councils in the United States, Canada and Puerto Rico. The International Union, based in Washington, DC and Cleveland, Ohio coordinates the union’s activity on behalf of the membership. The International a...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9db1b5d412a09d677fa6a7660bfa24be.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c21hcnqtdw5pb24ub3jnqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-19 07:20:00.000000",
+    "disclosedDate": "2024-04-19 09:38:12.884142"
+  }
+}

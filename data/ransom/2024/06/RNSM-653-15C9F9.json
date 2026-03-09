@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-653-15C9F9",
+  "type": "ransomware-incident",
+  "title": "Lee Trevino Dental (USA,TX) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lee Trevino Dental (USA,TX)",
+    "domain": "leetrevinodental.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dental clinic Lee Trevino Dental, opened in 1977 and positions itself as a \"Family Dentistry Clinic\", that offer the latest in general and cosmetic procedures. Revenue:  <5M.Contents:- Patient Data (e-mail addresses, residential addresses, telephone numbers)- Patient Photo - Patient Medical Histories- Stuff Personal Data (including salary and position data)- Financial Reports- Databases- Other Valuable and Confidential Documentation https://leetrevinodental.com",
+    "claimed_data_types": [
+      "phone-numbers",
+      "addresses",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eff229e962443e84a29336847bc65728.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvlifryzxzpbm8grgvudgfsichvu0esvfgpqhnwywnlymvhcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-11 00:00:00.000000",
+    "disclosedDate": "2024-06-15 08:54:50.854123"
+  }
+}

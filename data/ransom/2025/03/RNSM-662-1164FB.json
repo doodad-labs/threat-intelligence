@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-1164FB",
+  "type": "ransomware-incident",
+  "title": "ciscientific.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ciscientific.com.au",
+    "domain": "ciscientific.com.au",
+    "country": "AU",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "C.I. Scientific Pty Ltd (CIS) is an Australian proprietary company that specialises in the provision of repair, maintenance and calibration services of scientific equipment and specialised measuring instruments that are used in various research and industrial laboratories and testing environments. The company is also the exclusive Australian selling agent of various brands of highly specialised overseas made instruments.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/312229696f43b52477af9c70ac9f977a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2lzy2llbnrpzmljlmnvbs5hdubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-04 00:00:00.000000",
+    "disclosedDate": "2025-03-11 16:29:27.060520"
+  }
+}

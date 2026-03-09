@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-061B9D",
+  "type": "ransomware-incident",
+  "title": "getcloudapp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "getcloudapp.com",
+    "domain": "getcloudapp.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CloudApp is a cross-platform screen capture and screen recording desktop client that supports online storage and sharing. CloudApp full and partial screen recordings export to.mp4 format. Full or partial screen image captures export to either JPG or...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e0823f01c89336b64c63142e262d36ce.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2v0y2xvdwrhchauy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-06 12:56:00.000000",
+    "disclosedDate": "2024-05-06 13:32:36.300622"
+  }
+}

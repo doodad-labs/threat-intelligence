@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-09C096",
+  "type": "ransomware-incident",
+  "title": "KH OneStop ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KH OneStop",
+    "domain": "khonestop.dk",
+    "country": "DK"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data will be published on Mar. 15. KH OneStop producerer og servicere en lang række produkter og ydelser der spænder lige fra transportkøleanlæg til presenninger. Til transportbranchen tilbyder KH OneStop salg og service af, transport            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3a5ea5fb00f4f48a671078f1e37bdeae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0ggt25lu3rvcebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-23 00:00:00.000000",
+    "disclosedDate": "2025-03-09 12:54:03.146389"
+  }
+}

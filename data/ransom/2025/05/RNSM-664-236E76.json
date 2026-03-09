@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-664-236E76",
+  "type": "ransomware-incident",
+  "title": "Kalamazoo Public School District ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kalamazoo Public School District",
+    "domain": "kalamazoopublicschools.com",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kalamazoo Public Schools oversees 25 public schools in the district . Provides educational services for students ranging from preschool to high school. The district offers diverse programs including adult education, special education, and various extracurricular activities to support student growth. It aims to serve the local community by fostering academic excellence and personal development among students. Additionally, it collaborates with various community organizations to enhance educational outcomes and support for families.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5c3ae85e87839e953333625911590c38.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fsyw1hem9vifb1ymxpyybty2hvb2wgrglzdhjpy3raaw50zxjsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.facebook.com/kalamazoopublicschools/posts/pfbid0jsjng3vxruko8ewntadsxyvgv472gnz69dugdp9anwagpweborruaflbgargdyzyl",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-26 00:00:00.000000",
+    "disclosedDate": "2025-05-23 22:16:49.821976"
+  }
+}

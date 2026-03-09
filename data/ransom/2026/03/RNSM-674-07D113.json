@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-07D113",
+  "type": "ransomware-incident",
+  "title": "Sileno Companies Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sileno Companies Inc",
+    "country": ""
+  },
+  "actor": {
+    "id": "tengu",
+    "name": "tengu",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 22900000000000,
+    "description": "Sileno Companies Inc. A US company primarily operating in the hospitality and real estate sectors, its activities include: Hotel operation Property management Management of hotels' restaurants and bars Hospitality project development 22.9TB was encrypted in 14 hours on 3/5/2026 More than 67.07 GB was extracted",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/80f3b5358fe042f7fc0dc072012470fd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2lszw5vienvbxbhbmllcybjbmnadgvuz3u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-07 12:36:14.655160",
+    "disclosedDate": "2026-03-07 12:36:43.406701"
+  }
+}

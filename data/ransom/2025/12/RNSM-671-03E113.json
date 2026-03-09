@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-671-03E113",
+  "type": "ransomware-incident",
+  "title": "Eggelhof ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Eggelhof",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 67000000000,
+    "description": "Eggelhof Inc is a Houston-based company established in 1926, specializing in engineering products such as filtration and water treatment, piping and plant equipment, and steam specialties.We are ready to upload 67gb of corporate data. Projects, employeeinformation (DOB, phones, addresses and so on), agreements and contracts, financials, client information, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwdnzwxob2zaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-03 00:00:00.000000",
+    "disclosedDate": "2025-12-03 14:06:57.730057"
+  }
+}

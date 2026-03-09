@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-648-12F82F",
+  "type": "ransomware-incident",
+  "title": "hotelcontinental.no ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hotelcontinental.no",
+    "domain": "hotelcontinental.no",
+    "country": "NO",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are waiting for you in the beginning of the next week. Hurry up...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ag90zwxjb250aw5lbnrhbc5ub0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-12 17:51:52.202855",
+    "disclosedDate": "2024-01-12 17:51:52.202878"
+  }
+}

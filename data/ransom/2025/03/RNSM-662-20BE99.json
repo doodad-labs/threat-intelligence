@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-662-20BE99",
+  "type": "ransomware-incident",
+  "title": "Auren ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Auren",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "Auren is a consulting firm for multidisciplinary services, whose aim is to contribute to the sustainable development of society, organizations and people. We are ready to upload more than 40 GB of essential corporate documents such as: contact numbers and e-mail addresses of employeesand customers, financial data (audits, payment details, reports), corporate licenses, agreements and contracts, personal passports, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxvyzw5aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-20 00:00:00.000000",
+    "disclosedDate": "2025-03-20 15:17:02.006832"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-0810BF",
+  "type": "ransomware-incident",
+  "title": "originalfootwear.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "originalfootwear.com",
+    "domain": "originalfootwear.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Original Footwear is the leading manufacturer of occupational and tactical footwear for military, law enforcement and first responders. Founded in 1999, and based in Morrison. Tennessee, Original Footwear is the parent of Altama, Original S.W.A.T and...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/043d0219066d6090ec414535c232b0b7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b3jpz2luywxmb290d2vhci5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-08 17:42:00.000000",
+    "disclosedDate": "2024-02-08 19:18:07.702263"
+  }
+}

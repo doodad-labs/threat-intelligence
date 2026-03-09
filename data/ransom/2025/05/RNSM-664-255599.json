@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-255599",
+  "type": "ransomware-incident",
+  "title": "Reliance Heating ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Reliance Heating",
+    "domain": "reliance-hvac.com",
+    "country": "",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Reliance Heating and Air is a repair, service, replacement, and maintenance company specializing in heating, cooling, air conditioning, heat pumps, ductless mini-splits, refrigeration, and furnaces. They serve residential and commercial clients in the Metro Atlanta and Nashville areas.Revenue: $21.7 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9892a0b0b7da5d1d18b984857fb5cc20.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvsawfuy2ugsgvhdgluz0bibgfja2xvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-25 19:33:53.000000",
+    "disclosedDate": "2025-05-25 21:18:52.370344"
+  }
+}

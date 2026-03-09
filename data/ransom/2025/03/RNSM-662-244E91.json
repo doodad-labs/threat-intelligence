@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-244E91",
+  "type": "ransomware-incident",
+  "title": "AeroWorx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AeroWorx",
+    "domain": "aero-worx.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "frag",
+    "name": "frag",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Aviation and Aerospace Component ManufacturingAeroWorx has quickly grown to become a leading FAA repair station dedicated to the repair and overhaul of pneumatic, hydraulic, electromechanical and fuel systems & components.Our team was successful in extracting the following documents:Corporate internal documents and agreementsFinancial statements of the companyThe icing on the cake:Non-disclosure agreementsEmployee passports and other personal documents",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwvyb1dvcnhaznjhzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 00:00:00.000000",
+    "disclosedDate": "2025-03-24 19:24:50.123304"
+  }
+}

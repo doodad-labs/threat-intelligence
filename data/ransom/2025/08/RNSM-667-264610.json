@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-264610",
+  "type": "ransomware-incident",
+  "title": "rivertoncabinets.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rivertoncabinets.com",
+    "domain": "rivertoncabinets.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Riverton Cabinet Company is a U.S.-based custom cabinetry firm in New Lenox, Illinois, known for its craftsmanship and personalized design …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34057cda6fbfb650382d4f8b99a99628.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cml2zxj0b25jywjpbmv0cy5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-26 00:00:00.000000",
+    "disclosedDate": "2025-08-26 09:46:40.920688"
+  }
+}

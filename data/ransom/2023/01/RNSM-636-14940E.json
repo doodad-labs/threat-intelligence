@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-636-14940E",
+  "type": "ransomware-incident",
+  "title": "TIMco ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TIMco",
+    "domain": "timco.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "vicesociety",
+    "name": "vicesociety",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TIMCO is a supplier of essential products that trade professionals rely on every day. Over 7,000 quality products across all essential categories.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/velny29admljzxnvy2lldhk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-14 21:37:00.108020",
+    "disclosedDate": "2023-01-14 21:37:00.108020"
+  }
+}

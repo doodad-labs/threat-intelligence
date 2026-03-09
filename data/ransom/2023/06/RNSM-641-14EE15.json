@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-14EE15",
+  "type": "ransomware-incident",
+  "title": "uga.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "uga.edu",
+    "domain": "uga.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "UGA",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b9a81cc3983560c68e1abf260cfb54aa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dwdhlmvkdubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-14 20:22:11.056585",
+    "disclosedDate": "2023-06-14 20:22:11.056603"
+  }
+}

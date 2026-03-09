@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-14BB96",
+  "type": "ransomware-incident",
+  "title": "pittman-construction.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pittman-construction.com",
+    "domain": "pittman-construction.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pittman Construction Company, based in Conyers, has been a pivotal player in the construction industry for over a century. Established in 1884, the company has a rich history of contributing significantly to infrastructure development in Atlanta and...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/39e5d09641e54df91b27a9b4597f15f6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgl0dg1hbi1jb25zdhj1y3rpb24uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-08 00:00:00.000000",
+    "disclosedDate": "2025-01-14 12:37:19.103942"
+  }
+}

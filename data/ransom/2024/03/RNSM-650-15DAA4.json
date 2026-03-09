@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-650-15DAA4",
+  "type": "ransomware-incident",
+  "title": "rushenergyservices.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rushenergyservices.com",
+    "country": "CA",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rush Energy Services Inc. develops a network of crude oil custom treating and water management facilities throughout Western Canada. We are investigating numerous opportunities with Canadian producers and mid-streamers for the acquisition and operati...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bb219121876ac57e00f563169b7edf95.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cnvzagvuzxjnexnlcnzpy2vzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-14 21:51:00.000000",
+    "disclosedDate": "2024-03-15 00:00:56.579813"
+  }
+}

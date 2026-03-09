@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-104890",
+  "type": "ransomware-incident",
+  "title": "Howard Financial & Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Howard Financial & Associates",
+    "domain": "howardfinancialcorp.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome to Howard Financial Corp\r Audit and compliance (LIP AUDIT 2023–2025)\r Customer databases (ACTIVE/INACTIVE blue files, customer lists)\r Internal procedures and templates (HOWARD FINANCIAL PROCEDURES)\r Working with partners (AIG, Allianz, Americo, etc.)\r Personal work logs and diaries\r Customer letter archives\r Financial and product materials\r Contracts and legal documentation\r You will soon see everything.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/36f6da21c929a85ae85f44b7754ad0bc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg93yxjkiezpbmfuy2lhbcamiefzc29jawf0zxnaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-19 00:00:00.000000",
+    "disclosedDate": "2025-08-10 12:10:28.864269"
+  }
+}

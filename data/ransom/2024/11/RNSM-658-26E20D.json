@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-26E20D",
+  "type": "ransomware-incident",
+  "title": "cal-tool.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cal-tool.com",
+    "domain": "cal-tool.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Cal-Tool is a company specializing in precision machining and manufacturing solutions. They offer a range of services including CNC machining, custom tooling, and component production for various industries such as aerospace, medical, and automotive. With a focus on quality and innovation, Cal-Tool provides tailored solutions to meet the specific needs of their clients, ensuring high standards and efficiency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4c60666f37c6ce73710f45eb5e00867d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fslxrvb2wuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-22 21:17:00.000000",
+    "disclosedDate": "2024-11-26 06:27:01.989218"
+  }
+}

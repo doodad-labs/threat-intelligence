@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-0468DA",
+  "type": "ransomware-incident",
+  "title": "Source Photonics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Source Photonics",
+    "domain": "sourcephotonics.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "frag",
+    "name": "frag",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Source Photonics is a leading global provider of innovative and reliable technology that enables communications and data connectivity.Our team was successful in extracting the following documents:Financial statements of the companyPartnership agreements, licenses and contractsEmployee passports and other personal documentsThe icing on the cake:Corporate non-disclosure agreementsPassport scansYou have a week to come to an agreement with us, after that your information will be made freely available.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u291cmnlifbob3rvbmljc0bmcmfn",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-04 14:39:27.629000",
+    "disclosedDate": "2025-04-04 15:25:11.947806"
+  }
+}

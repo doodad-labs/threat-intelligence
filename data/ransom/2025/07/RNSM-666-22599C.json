@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-22599C",
+  "type": "ransomware-incident",
+  "title": "www.optyma.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.optyma.co.uk",
+    "domain": "optyma.co.uk",
+    "country": "UK",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "kraken",
+    "name": "kraken",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Established in 1987, Optyma is a principle provider of integrated security systems. Our expertise in the design, implementation,...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3b01a275f8dcfd195ff53e343acbea0e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm9wdhltys5jby51a0brcmfrzw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-22 09:19:07.115698",
+    "disclosedDate": "2025-07-22 09:19:35.049905"
+  }
+}

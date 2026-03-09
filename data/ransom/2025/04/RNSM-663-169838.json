@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-663-169838",
+  "type": "ransomware-incident",
+  "title": "Pawnee Heights Unified School District ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pawnee Heights Unified School District",
+    "domain": "phtigers.net",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 498100000000,
+    "description": "Pawnee Heights Unified School District ( founded 1949 ) a school district located in Rozel, Kansas. It provides academic services from elementary and secondary level. Pawnee Heights Unified School District corporate office is located in 100 Grand, Rozel, Kansas, 67574, United States and has 129 employees. The total amount of data leakage is 498.10 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bc2b956896d1fa91308993cb466feb6e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugf3bmvliehlawdodhmgvw5pzmllzcbty2hvb2wgrglzdhjpy3rabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-14 14:11:19.000000",
+    "disclosedDate": "2025-04-16 08:21:09.011310"
+  }
+}

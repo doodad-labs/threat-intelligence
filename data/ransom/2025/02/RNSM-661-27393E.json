@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27393E",
+  "type": "ransomware-incident",
+  "title": "SDITECH.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SDITECH.COM",
+    "domain": "sditech.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] SDITECH.COM is a technology-based company specializing in telecommunications and related fields. It offers a broad range of services such as voice, data, video, and wireless to businesses of all sizes around the world. With its innovative technology and efficient solutions, the company is committed to improving communication systems and enhancing productivity for all its clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0rjvevdsc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:28:43.348912",
+    "disclosedDate": "2025-02-27 17:28:48.544442"
+  }
+}

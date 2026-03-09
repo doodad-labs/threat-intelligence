@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-047CDD",
+  "type": "ransomware-incident",
+  "title": "ISEKI and CO.,LTD ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ISEKI and CO.,LTD",
+    "domain": "customers.https",
+    "country": "JP",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "As a company dedicated to developing solutions for Food, agriculture and Land, Iseki and Co will contribute to creating a prosperous society by providing products and services that delight customers.https://www.iseki.co.jp/global/english/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8e373de46ad7342d899b028185980927.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/svnfs0kgyw5kienplixmveraogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-26 00:00:00.000000",
+    "disclosedDate": "2024-12-04 10:39:00.258461"
+  }
+}

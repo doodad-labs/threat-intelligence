@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-04D804",
+  "type": "ransomware-incident",
+  "title": "fkk.ac.th ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fkk.ac.th",
+    "domain": "fkk.ac.th",
+    "country": "TH",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "satanlockv2",
+    "name": "satanlockv2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "fkk.ac.th",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ee1c4bac5b95e73c5d2b867f3259bd5a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmtrlmfjlnroqhnhdgfubg9ja3yy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-04 00:00:00.000000",
+    "disclosedDate": "2025-07-04 21:54:59.426541"
+  }
+}

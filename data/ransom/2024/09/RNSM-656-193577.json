@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-193577",
+  "type": "ransomware-incident",
+  "title": "Wertachkliniken.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wertachkliniken.de",
+    "domain": "wertachkliniken.de",
+    "country": "DE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country: germany",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vydgfjagtsaw5pa2vulmrlqgnsb2fr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-19 20:03:03.339424",
+    "disclosedDate": "2024-09-19 20:03:03.975986"
+  }
+}

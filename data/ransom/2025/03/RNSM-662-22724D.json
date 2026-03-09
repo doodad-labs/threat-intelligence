@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-22724D",
+  "type": "ransomware-incident",
+  "title": "SPARSH Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SPARSH Hospital",
+    "domain": "sparshhospital.com",
+    "country": "IN",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/520a2a288339da70e544af0001368924.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1bbulniiehvc3bpdgfsqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-22 17:26:04.220431",
+    "disclosedDate": "2025-03-22 17:27:27.686771"
+  }
+}

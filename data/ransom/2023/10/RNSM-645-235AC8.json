@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-235AC8",
+  "type": "ransomware-incident",
+  "title": "www.portage.k12.in.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.portage.k12.in.us",
+    "domain": "portage.k12.in.us",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "If we do not receive the ransom within 48 hours. All data will be published.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b8bd45f7c540cf346195afd8406cbb02.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnbvcnrhz2uuazeylmlulnvzqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-23 20:07:43.123456",
+    "disclosedDate": "2023-10-23 20:37:05.058108"
+  }
+}

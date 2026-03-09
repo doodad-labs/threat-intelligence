@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-039D4E",
+  "type": "ransomware-incident",
+  "title": "fasttrackcargo.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fasttrackcargo.com",
+    "domain": "fasttrackcargo.com",
+    "country": "IN",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Fast Track Cargo is a logistics company that offers a range of services to customers globally. They specialize in fast, reliable, and affordable shipping services. Their services include air freight, sea freight, road transportation, and door-to-door deliveries. They work with a network of international partners to ensure smooth and efficient delivery of goods, irrespective of the destination.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ce2fdcea63929f63b846553e6a2b0132.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmfzdhryywnry2fyz28uy29tqgz1bmtzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-03 14:03:52.157550",
+    "disclosedDate": "2025-02-03 14:03:52.157550"
+  }
+}

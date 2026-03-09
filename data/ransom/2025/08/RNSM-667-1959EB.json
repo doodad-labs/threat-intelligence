@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-1959EB",
+  "type": "ransomware-incident",
+  "title": "godbyhearth.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "godbyhearth.com",
+    "domain": "godbyhearth.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Operating in Indianapolis and Carmel, Indiana, Godby Hearth & Home is a premium provider of home comfort solutions with origins …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d440ce1f5c42d055fdefa1781abb2c28.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z29kynlozwfydgguy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-30 00:00:00.000000",
+    "disclosedDate": "2025-08-19 10:11:14.910420"
+  }
+}

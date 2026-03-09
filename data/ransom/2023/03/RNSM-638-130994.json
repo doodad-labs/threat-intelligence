@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-130994",
+  "type": "ransomware-incident",
+  "title": "plasticproductsco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "plasticproductsco.com",
+    "domain": "plasticproductsco.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1962, Plastic Products is a company that specializes in providing plastic, metal, and ceramic injection molding services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgxhc3rpy3byb2r1y3rzy28uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-13 17:21:00.000000",
+    "disclosedDate": "2023-03-13 19:12:40.597280"
+  }
+}

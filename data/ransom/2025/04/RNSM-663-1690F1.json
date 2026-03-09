@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-663-1690F1",
+  "type": "ransomware-incident",
+  "title": "Lamberti Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lamberti Group",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Lamberti Group produces chemical specialties for a broad range of applications.We are ready to upload essential corporate documents such as: detailed financial information, employee personal information, projects, customers data, corporate NDA’s, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgftymvydgkgr3jvdxbaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-16 00:00:00.000000",
+    "disclosedDate": "2025-04-16 17:44:05.938088"
+  }
+}

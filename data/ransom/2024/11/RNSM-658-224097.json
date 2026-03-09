@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-658-224097",
+  "type": "ransomware-incident",
+  "title": "sheboyganwi.gov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sheboyganwi.gov",
+    "domain": "sheboyganwi.gov",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "chort",
+    "name": "chort",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Status: Wait for Decision - details: Wait for DecisionDatabases + Files of This Company Databases + Files of This Company",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/41ebb3bb9bb0e8c78f68c802ff2011ba.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2hlym95z2fud2kuz292qgnob3j0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1f937a68-1811-49e4-afe6-f0d34edbb837.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-22 14:36:22.593843",
+    "disclosedDate": "2024-11-22 14:36:23.984561"
+  }
+}

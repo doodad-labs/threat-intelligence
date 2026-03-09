@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-673-1150A2",
+  "type": "ransomware-incident",
+  "title": "COIT ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "COIT",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "COIT is a full-service specialty Cleaning & Restoration company that can handle all maintenance cleaning needs and unforeseen mishaps requiring professional remediation. We are going to upload company data soon. You will find financialdata (audit, payment details,financial reports), personal files and customers data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q09jvebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-11 00:00:00.000000",
+    "disclosedDate": "2026-02-11 17:27:36.760242"
+  }
+}

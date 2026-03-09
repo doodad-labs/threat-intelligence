@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-16B60E",
+  "type": "ransomware-incident",
+  "title": "www.ameda.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.ameda.com",
+    "domain": "ameda.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Ameda is a global healthcare company specializing in breastfeeding products for mothers. With a history dating back to 1942, this company develops innovative pumps, breast care products, and accessories to support mothers' breastfeeding journey. Ameda combines technological research and the understanding of a mothers' needs, breastfeeding conditions, and hurdles to craft their products.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/698f5b411e54bceb294b731e52838efd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmftzwrhlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-15 17:47:43.000000",
+    "disclosedDate": "2025-03-16 20:37:22.221228"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-05E32B",
+  "type": "ransomware-incident",
+  "title": "Leaguers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Leaguers",
+    "domain": "theleaguers.org",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Leaguers is a multi-purpose non-profit social services organization providing various services to the community for over 70 Years. The main office is located 405 University Ave 425, Newark, New Jersey, 07102, United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/39ebbf89df266d3a8e231cedc05dd40d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvhz3vlcnnabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-05 19:49:43.12345",
+    "disclosedDate": "2023-11-05 20:52:26.965736"
+  }
+}

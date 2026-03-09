@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-17150F",
+  "type": "ransomware-incident",
+  "title": "FINN ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FINN",
+    "domain": "finncorp.com",
+    "country": "AU",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "FINN Corporation has a worldwide presence with more than 100 North American dealer and service locations, plus others in Australia, South America, Africa and Europe.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fdbade3ddba1ec533d81f974cbd05166.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rklotkbkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-14 11:04:35.415711",
+    "disclosedDate": "2024-12-17 09:42:03.704747"
+  }
+}

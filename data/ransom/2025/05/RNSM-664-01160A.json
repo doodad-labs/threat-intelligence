@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-664-01160A",
+  "type": "ransomware-incident",
+  "title": "The Saint James Hospital Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Saint James Hospital Group",
+    "domain": "stjameshospital.com",
+    "country": "MT",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 250000000000,
+    "description": "At Saint James Hospital Group, they have over 25 years of experience in the healthcare sector. It has earned a reputation for excellence and innovation, backed by the latest state-of-the-art technology and staffed by highly-qualified professional personnel.\r They are the natural choice when seeking private medical treatment, not simply because they have the experience to meet your expectations, but also because they house the very best in modern technology – and the island’s most renowned consultants and health professionals.\r The Saint James Hospital Group became a victim of the data breach. 250Gb sensitive, medical and personal data will be published soon in our blog.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c3096f994d8ed0405b47a4f403c60bc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifnhaw50iephbwvziehvc3bpdgfsiedyb3vwqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-30 00:00:00.000000",
+    "disclosedDate": "2025-05-01 13:31:07.222281"
+  }
+}

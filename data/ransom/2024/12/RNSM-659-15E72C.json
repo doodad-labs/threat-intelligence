@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-15E72C",
+  "type": "ransomware-incident",
+  "title": "londonsmt.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "londonsmt.org",
+    "domain": "londonsmt.org",
+    "country": "GB",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "dragonransomware",
+    "name": "dragonransomware",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The London School of Ministries and Theology (LSMT) is a UK-based vocational Bible college established in 1994.[+] http://londonsmt.org/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/24dfb98f82e1c897a4e0830095744f83.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bg9uzg9uc210lm9yz0bkcmfnb25yyw5zb213yxjl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-01 00:17:56.000000",
+    "disclosedDate": "2024-12-15 09:55:19.916296"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-216B79",
+  "type": "ransomware-incident",
+  "title": "Cole Technologies Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cole Technologies Group",
+    "domain": "coletg.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6f2d484057778554252090a403606af5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29szsbuzwnobm9sb2dpzxmgr3jvdxbaqnjhaw5daxbozxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-21 19:22:10.201484",
+    "disclosedDate": "2024-07-21 19:22:10.555420"
+  }
+}

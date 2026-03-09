@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-254826",
+  "type": "ransomware-incident",
+  "title": "Podo Asset Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Podo Asset Management",
+    "domain": "podoam.co.kr",
+    "country": "KR",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Podo Asset Management, KoreanLeak3 -  Don't bite off more than you can chew. Not everyone follows this simple rule. A clear example is Podo Asset Management. It was founded in 2018. It specializes in direct investments and IPOs. Podo Asset Ma            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/710bd41584e4b592df7e9f59595f6ea9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ug9kbybbc3nldcbnyw5hz2vtzw50qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-05 00:00:00.000000",
+    "disclosedDate": "2025-09-25 23:41:12.045685"
+  }
+}

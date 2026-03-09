@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-1576DE",
+  "type": "ransomware-incident",
+  "title": "East Jefferson General Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "East Jefferson General Hospital",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Established in 1971, East Jefferson General Hospital is a non-profit community hospital providing care to patients throughout the area. The campus is located in Metairie, Louisiana.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/59fad4db9992467b57325c744281fc66.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwfzdcbkzwzmzxjzb24gr2vuzxjhbcbib3nwaxrhbebzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-15 16:37:41.818000",
+    "disclosedDate": "2025-10-15 16:45:57.258726"
+  }
+}

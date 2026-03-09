@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-13DCDC",
+  "type": "ransomware-incident",
+  "title": "Cathexis Holdings LP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cathexis Holdings LP",
+    "domain": "cathexis.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Today, we unveil nearly 3 million files from the \"Cathexis Holdings LP\" corporate network. Dive into a wealth of SQL databases, email backups, and an expansive collection of corporate documents that offer unparalleled insights into one of the most diverse investment firms out there. Now, the information that drives billion-dollar decisions is at your fingertips, absolutely free! Transform your business with data that others pay a fortune for your path to insider knowledge starts today",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aae7d45425eb1898e26cc64edcd9d701.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2f0agv4axmgsg9szgluz3mgtfbaaw50zxjsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-13 19:52:30.263587",
+    "disclosedDate": "2024-10-13 19:52:31.016932"
+  }
+}

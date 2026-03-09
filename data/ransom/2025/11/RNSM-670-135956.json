@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-670-135956",
+  "type": "ransomware-incident",
+  "title": "KorPath ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KorPath",
+    "country": "KR"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] KorPath is a biotechnology company that specializes in early-stage technologies. Their main focus is on identifying unique compounds and molecules that can be used in various medical interventions. The company conducts extensive research on pathological conditions including cancer and neurodegenerative disorders. They also offer preclinical services such as ex vivo efficacy studies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bf8c87c5306a7bf423a8a300d13aeb49.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s29yugf0aebldmvyzxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-12 00:00:00.000000",
+    "disclosedDate": "2025-11-13 11:18:24.325016"
+  }
+}

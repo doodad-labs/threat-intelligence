@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-667-07BC40",
+  "type": "ransomware-incident",
+  "title": "avosinamed.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "avosinamed.com",
+    "domain": "avosinamed.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Avosina Healthcare Solutions specializes in providing comprehensive medical billing and IT services, striving to optimize the work of doctors.1.The document is an official payslip for March 2025 for an employee of Avosina Medical Technologi            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/78c3f5c22d249829a5a5e4668bf188eb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxzvc2luyw1lzc5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2026-01-09-avosina-healthcare-solutions-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-07 00:00:00.000000",
+    "disclosedDate": "2025-08-07 16:30:20.477876"
+  }
+}

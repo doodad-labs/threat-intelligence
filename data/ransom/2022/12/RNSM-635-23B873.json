@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-635-23B873",
+  "type": "ransomware-incident",
+  "title": "bavelloni.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bavelloni.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "Bavelloni SpA provides glass processing technology and services for the architectural, furniture and domestic appliance and solar industries.We encrypted the network of this company. We also stole about 200GB of the date. Financial information. Sal...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymf2zwxsb25plmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-23 11:06:39.085556",
+    "disclosedDate": "2022-12-23 11:06:39.085556"
+  }
+}

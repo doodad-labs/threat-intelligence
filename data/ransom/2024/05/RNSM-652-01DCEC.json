@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-01DCEC",
+  "type": "ransomware-incident",
+  "title": "concorr.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "concorr.com",
+    "domain": "concorr.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CONCORR, Inc. was established in 1990 to develop technologies and provide solutions for mitigating corrosion of reinforcement, both conventional and stressed, in reinforced concrete structures. It specializes in diagnostic evaluation, developing...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f24dbf166f967440671c1012d5715b1b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29uy29yci5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-01 07:50:00.000000",
+    "disclosedDate": "2024-05-01 10:20:09.988379"
+  }
+}

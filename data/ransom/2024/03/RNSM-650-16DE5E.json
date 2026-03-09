@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-16DE5E",
+  "type": "ransomware-incident",
+  "title": "colefabrics.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "colefabrics.com",
+    "domain": "colefabrics.com",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "shanghai@colefabrics.com; Global Ribbons Italia. Bastioni di Porta Nuova 21; Milano; 20121; info@global-ribbons.com; www.global-ribbons.com +39 0289041200; Cole Fabrics Plc • Registered in England and Wales Number 2150561 • VAT Number GB520630001. Te...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dd941d3a5f11ccdced0e0f2efcbf466f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29szwzhynjpy3muy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-04 00:00:00.000000",
+    "disclosedDate": "2024-03-16 14:46:54.554571"
+  }
+}

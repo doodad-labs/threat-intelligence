@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-055280",
+  "type": "ransomware-incident",
+  "title": "caschile.cl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "caschile.cl",
+    "domain": "caschile.cl",
+    "country": "CL",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "vanhelsing",
+    "name": "VanHelsing",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CAS–CHILE® is a company with 30 years of experience in the Information Technology market, dedicated to the design, development, and maintenance of public and municipal management software. As experts in the design, construction, and maintenance of software for public management, we develop IT platforms distributed throughout the country with excellent results, backed by the improvement, optimiz",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fzy2hpbguuy2xavmfusgvsc2luzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-05 23:41:05.088511",
+    "disclosedDate": "2025-04-05 23:41:37.860423"
+  }
+}

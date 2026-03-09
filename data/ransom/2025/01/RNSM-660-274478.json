@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-274478",
+  "type": "ransomware-incident",
+  "title": "www.al-shefafarm.ro ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.al-shefafarm.ro",
+    "domain": "al-shefafarm.ro",
+    "country": "RO",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.al-shefafarm.ro",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7972f45c3eee7d352bb92477a0801b49.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmfslxnozwzhzmfybs5yb0biywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:35:49.174922",
+    "disclosedDate": "2025-01-27 07:36:55.618193"
+  }
+}

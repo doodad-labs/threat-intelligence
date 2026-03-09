@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-663-13253B",
+  "type": "ransomware-incident",
+  "title": "STORT ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "STORT",
+    "domain": "stort.nu",
+    "country": "SE"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "STORT(Sweden)",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1rpulrabmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-01 00:00:00.000000",
+    "disclosedDate": "2025-04-13 20:36:46.487316"
+  }
+}

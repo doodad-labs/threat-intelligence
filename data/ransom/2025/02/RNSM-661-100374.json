@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-100374",
+  "type": "ransomware-incident",
+  "title": "cedarsfoods.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cedarsfoods.com",
+    "domain": "cedarsfoods.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Cedars Foods is a family-owned and operated food company based in the US, best known for producing Mediterranean cuisines. They are well-recognized for their signature hommus, created based on traditional family recipes. Apart from hommus, their product line also includes other Mediterranean dishes such as various salads, tzatziki, and Pita Chips. They are committed to offering fresh and high-quality food products made from all-natural ingredients. They prioritize sustainability and environmental consciousness in their operations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2vkyxjzzm9vzhmuy29tqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:48:11.140079",
+    "disclosedDate": "2025-02-10 19:48:18.607015"
+  }
+}

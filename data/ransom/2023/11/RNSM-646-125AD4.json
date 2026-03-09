@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-125AD4",
+  "type": "ransomware-incident",
+  "title": "plati.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "plati.it",
+    "domain": "plati.it",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PLATI is a worldwide supplier of cable harnesses for the Automotive, Consumer, Industrial, Appliances, Healthcare and Telecommunication sectors",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/51eef5e076c6881f73ef3ba7c79a5e02.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgxhdgkuaxrabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-12 09:19:00.000000",
+    "disclosedDate": "2023-11-12 09:56:47.671138"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-644-1594DE",
+  "type": "ransomware-incident",
+  "title": "hillsboroughschools.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hillsboroughschools.org",
+    "domain": "hillsboroughschools.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "250+ Affected Schools. Hillsborough County Public Schools is a school district that runs the public school system of Hillsborough County in west central Florida and is headquartered in Tampa, Florida. It is frequently referred to as the School Distri...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/af8c97ae14fccfb5c35063a131fcd4d8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aglsbhnib3jvdwdoc2nob29scy5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.fox13news.com/news/hillsborough-county-school-district-cyber-security-breach-hackers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-15 09:18:00.000000",
+    "disclosedDate": "2023-09-15 10:04:42.064575"
+  }
+}

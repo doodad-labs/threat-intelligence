@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-26FE62",
+  "type": "ransomware-incident",
+  "title": "bg2i.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bg2i.fr",
+    "domain": "bg2i.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bg2i is a company that operates in the Professional Training & Coaching industry. It employs 11-20 people and has $1M-$5M of revenue. The company is headquartered in France",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/12cbb2d456d94344ec19741c8a40fd7d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymcyas5mckbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-26 17:33:00.000000",
+    "disclosedDate": "2023-04-26 18:49:31.052856"
+  }
+}

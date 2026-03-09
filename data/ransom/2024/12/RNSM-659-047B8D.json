@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-659-047B8D",
+  "type": "ransomware-incident",
+  "title": "snatt.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "snatt.it",
+    "domain": "snatt.it",
+    "country": "IT",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "The Snatt Omlog Companies are global specialists in logistics and technology, primarily serving the luxury, fashion, and lifestyle sectors. They operate under the Snatt brand in Italy and as Omlog in other international markets. The company focuses on providing customized supply chain solutions and operational support for major brands and retailers worldwide.SITE: www.sogroupglobal.com | www.snatt.itSnatt Logistica SpA P. IVA: 02060420359 Sede Legale: Campegine (RE) Via Kennedy n. 12/B, CAP 42040Omlog SpA P. IVA: 10925580150 Sede Legale: Settala (MI) Via Giuseppe Di Vittorio n. 21, CAP 20049ALL DATA SIZE: ≈1.5tb 1. Financial data 2. Personal data 3. Confidential data 4. NDA’s & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5b6861effce8d84cfca0aa3d6ce84fec.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c25hdhquaxraymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.ilrestodelcarlino.it/reggio-emilia/cronaca/snatt-attacco-hacker-e-sistemi-7f614a59",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-04 12:54:45.656207",
+    "disclosedDate": "2024-12-04 12:54:46.055860"
+  }
+}

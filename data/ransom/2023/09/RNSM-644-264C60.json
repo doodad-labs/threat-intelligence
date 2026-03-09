@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-264C60",
+  "type": "ransomware-incident",
+  "title": "Nordic Security Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nordic Security Services",
+    "domain": "nordicsec.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Nordic Security Services full service security firm. Mailing address is 3419 Via Lido 345, Newport Beach, California, 92663 United States.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/682647372ec606f33a3eb17090e1c7c2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9yzgljifnly3vyaxr5ifnlcnzpy2vzqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-26 11:53:42.123456",
+    "disclosedDate": "2023-09-26 13:07:38.875484"
+  }
+}

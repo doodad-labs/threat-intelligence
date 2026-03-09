@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-065308",
+  "type": "ransomware-incident",
+  "title": "celplan.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "celplan.com",
+    "domain": "celplan.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2vscgxhbi5jb21arwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-17 00:00:00.000000",
+    "disclosedDate": "2024-06-06 13:50:53.194542"
+  }
+}

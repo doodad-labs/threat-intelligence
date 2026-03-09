@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-06C292",
+  "type": "ransomware-incident",
+  "title": "pez.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pez.com",
+    "domain": "pez.com",
+    "country": "AT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PEZ was first marketed as a compressed peppermint candy in 1927 in Vienna, Austria. Today, the company sells and markets its products worldwide with locations in Orange, Connecticut and Traun, Austria.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgv6lmnvbubhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-06 06:46:10.296758",
+    "disclosedDate": "2024-12-06 06:46:10.800094"
+  }
+}

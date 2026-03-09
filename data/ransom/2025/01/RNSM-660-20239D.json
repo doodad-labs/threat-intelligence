@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-20239D",
+  "type": "ransomware-incident",
+  "title": "malindoair.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "malindoair.com",
+    "domain": "malindoair.com",
+    "country": "MY",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Airlines, Airports & Air Services · Bangladesh | \"Passenger Id\", \"Name\", \"Reservation\", \"Date Of...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2fb8418d5c2074d3359e7193cec952f3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfsaw5kb2fpci5jb21ayxb0nzm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-20 17:41:58.153823",
+    "disclosedDate": "2025-01-20 17:41:58.153823"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-185829",
+  "type": "ransomware-incident",
+  "title": "Bikkal & Associates (sblawyers) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bikkal & Associates (sblawyers)",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bikkal & Associates, P.C. is a full-service immigration law firm based in New York, specializing in immigration and nationality law for individuals, families, and employers. With over 40 years of experience, the firm provides comprehensive assistance with various immigration matters, including employment-based immigration, naturalization, and family-based immigration. They are dedicated to protecting the rights of immigrants and offer personalized legal guidance to navigate complex immigration processes. The firm serves clients in New York, the tri-state area, and nationwide.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/22b10094a73c706ab4e8c4c14f4738b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmlra2fsicygqxnzb2npyxrlcyaoc2jsyxd5zxjzkubzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-18 20:09:51.614000",
+    "disclosedDate": "2026-01-18 21:07:30.723544"
+  }
+}

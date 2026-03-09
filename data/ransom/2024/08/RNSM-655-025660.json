@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-025660",
+  "type": "ransomware-incident",
+  "title": "retaildatallc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "retaildatallc.com",
+    "domain": "retaildatallc.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/990c354e0480c45fc8ba4446079bd8b1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmv0ywlszgf0ywxsyy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-22 00:00:00.000000",
+    "disclosedDate": "2024-08-02 17:11:39.396601"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-660-243FAB",
+  "type": "ransomware-incident",
+  "title": "OLAMETER.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OLAMETER.COM",
+    "domain": "olameter.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Olameter is a diverse service company providing field metering services to gas, water and electric utilities, municipalities and cooperatives. It is based in Los Angeles, California, USA. The company offers a wide range of integrated utility solutions such as meter reading, customer service, AMR/AMI installations, meter testing, and field collection services among others. Their mission is to provide cost-effective, efficient, and innovative solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t0xbtuvurviuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 17:39:37.765114",
+    "disclosedDate": "2025-01-24 17:39:37.765114"
+  }
+}

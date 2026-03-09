@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-3051BC",
+  "type": "ransomware-incident",
+  "title": "grebe-korbach.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "grebe-korbach.de",
+    "domain": "grebe-korbach.de",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The company Grebe & Sohn GmbH operates a liquid gas distribution storage facility in your neighborhood in the Am Hagen industrial area on Elfringhäuser Weg in Korbach.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/635403b78a1996643e73163c0a357822.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jlymuta29yymfjac5kzubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-30 22:59:00.000000",
+    "disclosedDate": "2023-08-30 23:36:11.329055"
+  }
+}

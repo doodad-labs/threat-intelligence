@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-192704",
+  "type": "ransomware-incident",
+  "title": "libertyfirstcu.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "libertyfirstcu.com",
+    "domain": "libertyfirstcu.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Liberty First Credit Union is a financial institution located in Lincoln, Nebraska. It provides a range of financial services, including savings and checking accounts, loans, mortgages, and investment options. The credit union emphasizes member-focused service, competitive rates, and community involvement, aiming to help individuals achieve their financial goals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c2d98a3ba531895ac0309a7692d79bb9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bglizxj0ewzpcnn0y3uuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-19 14:09:48.000000",
+    "disclosedDate": "2024-09-19 15:12:02.108271"
+  }
+}

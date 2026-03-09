@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-669-029709",
+  "type": "ransomware-incident",
+  "title": "Displayit ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Displayit",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 105000000000,
+    "description": "DisplayIt specializes in designing and fabricating custom displays, casework, and signage tailored for various industries including retail, healthcare, restaurants, and technology.We are going to upload 105gb of corporate data. Employee information, financials, clients confidential files, contracts and agreements, projects (lots of Starbucks project files), and of other data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rglzcgxhewl0qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-01 00:00:00.000000",
+    "disclosedDate": "2025-10-02 12:19:39.155394"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-12B405",
+  "type": "ransomware-incident",
+  "title": "CASTEC Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CASTEC Inc",
+    "domain": "castec.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "If the company is not going to cooperate, then soon everyone will be able to see valuable company data in the data leak, such as tax documents and much more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3b77e73430d160c315ddfd70e69c87ea.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0ftvevdieluy0bub2vzy2fwzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-11 00:00:00.000000",
+    "disclosedDate": "2023-06-12 15:37:29.588450"
+  }
+}

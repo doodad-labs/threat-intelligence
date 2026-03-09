@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-0923E4",
+  "type": "ransomware-incident",
+  "title": "Montgomery General Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Montgomery General Hospital",
+    "domain": "mghwv.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "donutleaks",
+    "name": "donutleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Montgomery General HospitalIt provides the patient the opportunity to access their health information securely, confidentially and at their convenience.Montgomery General HospitalMontgomery General Hospitalhttps://mghwv.com/Here at Montgomery General Hospital, we understand that healthcare is evolving. The advances in medicine and strides in technology are providing local communities access…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/021bcf6bc5de497587a6adbcdf42bc40.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw9udgdvbwvyesbhzw5lcmfsiehvc3bpdgfsqgrvbnv0bgvha3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-31 00:00:00.00000",
+    "disclosedDate": "2023-07-09 08:24:17.585308"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-642-2090AC",
+  "type": "ransomware-incident",
+  "title": "Bright Future Electric, LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bright Future Electric, LLC",
+    "domain": "brightfutureelectric.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "Bright Future Electric is a full service electrical contractor se rving clients throughout the Southeast. We are going to shed some light on their 50 Gb of data and show you a massive amount of fi nancial docs with customers information. Besides that you can fin d there employee information and other operational documents. Com ing soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjpz2h0iez1dhvyzsbfbgvjdhjpyywgtexdqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-20 14:22:35.020307",
+    "disclosedDate": "2023-07-20 19:00:20.039035"
+  }
+}

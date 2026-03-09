@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09E3D2",
+  "type": "ransomware-incident",
+  "title": "tegaindustries.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tegaindustries.com",
+    "domain": "tegaindustries.com",
+    "country": "IN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tega is a global leader in designing and manufacturing of ‘critical-to-operate’ consumables for the mining, mineral processing and material handling industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/be8c60eee3b05c108847d6d2ce939784.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvnywluzhvzdhjpzxmuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-04 00:00:00.000000",
+    "disclosedDate": "2024-05-09 13:28:28.244788"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-651-091167",
+  "type": "ransomware-incident",
+  "title": "Consilux (Brazil) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Consilux (Brazil)",
+    "domain": "consilux.com.br",
+    "country": "BR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "Consilux Tecnologia is a modern company attentive to constant technological innovations, maintaining the development of innovativetechnologies capable of providing facilities, quality of life, safety and convenience to the population. 40Gb of data will be available soon. Employee personal documents, projects, agreements, abit of client info, NDA and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29uc2lsdxggkejyyxppbclaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-09 18:26:26.453929",
+    "disclosedDate": "2024-04-09 18:26:26.529835"
+  }
+}

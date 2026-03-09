@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-041043",
+  "type": "ransomware-incident",
+  "title": "westbankcorp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "westbankcorp.com",
+    "domain": "westbankcorp.com",
+    "country": "CA",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 500000000000,
+    "description": "Westbank Corp is a leading mixed-use real estate development company based in North America. Westbank Corp, founded in 1992, is dedicated to city building and the creation of beauty through their real estate developments. They specialize in residential and mixed-use projects, with a focus on sustainable urban development.SITE: www.westbankcorp.com Address : Suite 601 - 1067 West Cordova St. Vancouver, BC V6C 1C7 CanadaTEL#: 604-685-8986ALL DATA SIZE: ≈500gb 1. Company data: Financial, HR, Payroll, Tax… 2. Users personal folders and documents 3. Customers data 4. Contracts, NDA’s, Confidential data 5. Projects & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/45a0416518dceb55e5a927ccf5149ee0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2vzdgjhbmtjb3jwlmnvbubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-29 00:00:00.000000",
+    "disclosedDate": "2024-12-04 13:03:59.466787"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-279D43",
+  "type": "ransomware-incident",
+  "title": "MCWILLIAMSMOVING.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MCWILLIAMSMOVING.COM",
+    "domain": "mcwilliamsmoving.com",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] MCWILLIAMSMOVING.COM is a Canadian-based company that offers extensive moving and storage services. Established in 1955, they specialize in residential, commercial and corporate relocations and even facilitate international moving. The company prides themselves on their commitment to professional, reliable and personalized customer experiences. Their additional services include packing, storage facilities, and vehicle transportation among others.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tunxsuxmsufnu01pvklory5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:49:27.460847",
+    "disclosedDate": "2025-02-27 16:49:33.028185"
+  }
+}

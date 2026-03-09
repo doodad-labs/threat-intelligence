@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-658-1857F0",
+  "type": "ransomware-incident",
+  "title": "ATD-American ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ATD-American",
+    "domain": "atd-american.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ATD-American is a company known for supplying a wide range of institutional furniture and equipment. They cater to sectors such as education, healthcare, and government by providing products like classroom furniture, office supplies, and medical furnishings. The company emphasizes quality and customer service, aiming to meet the diverse needs of their clients with reliable and durable solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvreluftzxjpy2fuqevsrg9yywrv",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:06:51.228081",
+    "disclosedDate": "2024-11-18 21:06:54.417924"
+  }
+}

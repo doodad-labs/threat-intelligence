@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-277D8C",
+  "type": "ransomware-incident",
+  "title": "FAUSTDISTRIBUTING.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FAUSTDISTRIBUTING.COM",
+    "domain": "faustdistributing.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Faust Distributing is one of the largest independent alcoholic beverage distributors in Texas, USA. It offers a diverse portfolio of beer, cider, and energy drinks from globally renowned brands. Its services include sales, marketing, merchandising, and servicing of products in various counties across Texas. The company also actively involves itself in the community through charity partnerships.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rkfvu1resvnuuklcvvrjtkcuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:57:08.249212",
+    "disclosedDate": "2025-02-27 17:57:13.981573"
+  }
+}

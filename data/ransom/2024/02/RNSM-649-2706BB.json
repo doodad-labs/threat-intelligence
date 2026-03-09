@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-2706BB",
+  "type": "ransomware-incident",
+  "title": "moore-tibbits.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "moore-tibbits.co.uk",
+    "domain": "moore-tibbits.co.uk",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Moore & Tibbits is a well respected law firm, with more than 188 years of legal service in the centre of Warwick. Our reputation is based on a reliable, flexible, personal, first class service combined with the use of modern technology which...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ffb16c12aaee6f443ff39e721265c9b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw9vcmutdgliyml0cy5jby51a0b0ahjlzwft",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-27 12:56:58.596478",
+    "disclosedDate": "2024-02-27 12:56:58.596501"
+  }
+}

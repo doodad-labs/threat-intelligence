@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-206DE5",
+  "type": "ransomware-incident",
+  "title": "usadebusk.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "usadebusk.com",
+    "domain": "usadebusk.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000000,
+    "description": "USA DeBusk provides a comprehensive suite of industrial cleaning and infrastructure maintenance services to a diverse, blue-chip customer base across a broad r... - 2 TB including Contracts, Client Data, Employee Private Data, Incident Reports, and more",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b32f1647c53eadc135888b2fdc1116ba.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dxnhzgvidxnrlmnvbublbwjhcmdv",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-11 14:49:49.000681",
+    "disclosedDate": "2025-09-20 05:46:08.584974"
+  }
+}

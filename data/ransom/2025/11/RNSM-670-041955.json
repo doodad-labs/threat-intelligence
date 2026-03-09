@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-041955",
+  "type": "ransomware-incident",
+  "title": "thevisapro.com (Yibirin Law Group) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "thevisapro.com (Yibirin Law Group)",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "all client cases, personal data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3281df11173658bc35b4ca00cca547bc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghldmlzyxbyby5jb20gkflpymlyaw4gtgf3iedyb3vwkubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-04 19:04:00.000000",
+    "disclosedDate": "2025-11-04 19:16:23.488057"
+  }
+}

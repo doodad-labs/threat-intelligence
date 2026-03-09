@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-135DA2",
+  "type": "ransomware-incident",
+  "title": "plazadental.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "plazadental.com",
+    "domain": "plazadental.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "obscura",
+    "name": "obscura",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue: $<5kk | Leak Size: xx GB | Status: Published",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c1ac9a8355df0fb47032dfcea64370d5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgxhemfkzw50ywwuy29tqg9ic2n1cme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 11:53:47.667411",
+    "disclosedDate": "2025-10-13 11:53:59.900603"
+  }
+}

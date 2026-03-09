@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-094451",
+  "type": "ransomware-incident",
+  "title": "dsglobaltech.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dsglobaltech.com",
+    "domain": "dsglobaltech.com",
+    "country": "SG",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DS Global Technology, a 1-Stop ICT Service Provider, integrate end to end ICT and communcation engineering and software development solution for SME and larger enterprise. Our skilled engineers are well trained and certified to perform complex integr...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/da554e086a4d59c3cd010c26af9348a3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zhnnbg9iywx0zwnolmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-26 00:00:00.000000",
+    "disclosedDate": "2024-05-09 12:56:11.608578"
+  }
+}

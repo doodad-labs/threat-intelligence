@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-669-135342",
+  "type": "ransomware-incident",
+  "title": "michigancityin.gov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "michigancityin.gov",
+    "domain": "michigancityin.gov",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "obscura",
+    "name": "obscura",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 450000000000,
+    "description": "Revenue: ?? | Leak Size: 450 GB | Status: Published",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c800e57e7351ef031d2544007f93e7cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwljaglnyw5jaxr5aw4uz292qg9ic2n1cme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://wimsradio.com/2025/10/11/update-on-michigan-city-network-disruption/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 11:51:51.487333",
+    "disclosedDate": "2025-10-13 11:52:05.300024"
+  }
+}

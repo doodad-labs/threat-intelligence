@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-662-263A02",
+  "type": "ransomware-incident",
+  "title": "Elmos ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Elmos",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 186000000000,
+    "description": "ElmosElmos is fascinated by IT and passionate about people. This is reflected in a five-star service for our employees and our customers. What drives us, who do we match with and who do we welcome to our Elmos family? Let's connect!Geo: Belgium - Leak size: 186 GB Archive - Contains: Files, SQL",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwxtb3nac2fyy29tyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-26 07:13:54.629302",
+    "disclosedDate": "2025-03-26 07:13:55.887693"
+  }
+}

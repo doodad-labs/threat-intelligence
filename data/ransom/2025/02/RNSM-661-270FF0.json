@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-270FF0",
+  "type": "ransomware-incident",
+  "title": "Sterling BMW ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sterling BMW",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "Sterling BMW offers Orange County, CA, the best vehicles available. BMWs are known for high performance, true luxury, and industryleading design. Sterling BMW is proud to be a leading BMW dealerfor Orange County, and all of California.We are ready to upload more than 10 GB of essential corporate documents such as: financial data (audits, payment details, reports), contact numbers and e-mail addresses of employees and customers, confidential licenses, agreements and contracts, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rlcmxpbmcgqk1xqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 00:00:00.000000",
+    "disclosedDate": "2025-02-27 13:11:37.918094"
+  }
+}

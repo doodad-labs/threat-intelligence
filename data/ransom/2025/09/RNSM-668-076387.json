@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-076387",
+  "type": "ransomware-incident",
+  "title": "Archer Health ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Archer Health",
+    "domain": "archerhealthinc.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d2692df121d465c016c559bd2ed1e75f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjjagvyiehlywx0aebrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-07 06:12:59.114313",
+    "disclosedDate": "2025-09-07 06:13:17.835000"
+  }
+}

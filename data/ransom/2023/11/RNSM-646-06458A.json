@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-06458A",
+  "type": "ransomware-incident",
+  "title": "Comfloresta ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Comfloresta",
+    "domain": "comfloresta.com.br",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Excellence in Forest Management.  Founded in 1970, Comforesta Cia. Catarinense de Empreendimentos Florestais, with headquarters in Joinville - Santa Catarina. The company operates in the management of renewable forests in 14 municipalities of Santa Catarina, and 02 in Parana, meeting with excellence the most rigorous concepts of conservation and current legislation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a0f2c43996192b613ab961b6a125755b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tzmxvcmvzdgfaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-06 02:26:01.123456",
+    "disclosedDate": "2023-11-06 02:30:02.224186"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-052034",
+  "type": "ransomware-incident",
+  "title": "BARRICK.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BARRICK.COM",
+    "domain": "barrick.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Barrick Gold Corporation - Home",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/225c5662e5a2e457feb86efbcd594f15.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkfsukldsy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-05 23:07:24.266746",
+    "disclosedDate": "2023-07-05 23:07:24.266789"
+  }
+}

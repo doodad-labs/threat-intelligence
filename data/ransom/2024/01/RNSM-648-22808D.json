@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-22808D",
+  "type": "ransomware-incident",
+  "title": "wittmann.at ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wittmann.at",
+    "domain": "wittmann.at",
+    "country": "AT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Das Unternehmen wurde 1896 als Sattlerei von Franz Wittmann gegründet. Am Anfang wurde für die Bauern der Umgebung Sattlerzeug hergestellt. Der Enkel Franz Wittmann stellte die Produktion auf Möbelbau und Polsterei um. Kunden kamen anfangs vorwiegend...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/82266999742753c4ce74d6cb01e9ca3a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2l0dg1hbm4uyxrabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-21 22:51:00.000000",
+    "disclosedDate": "2024-01-22 02:56:30.433605"
+  }
+}

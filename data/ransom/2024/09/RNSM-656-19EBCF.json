@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-656-19EBCF",
+  "type": "ransomware-incident",
+  "title": "Nusser Mineralöl GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nusser Mineralöl GmbH",
+    "country": "DE",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://www.nusser-mineraloel.de",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c7e94fbcb8b42f916f5791507e6bcad4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tnvzc2vyie1pbmvyywzdtmwgr21isebpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-19 15:39:36.736000",
+    "disclosedDate": "2024-09-19 16:31:18.174281"
+  }
+}

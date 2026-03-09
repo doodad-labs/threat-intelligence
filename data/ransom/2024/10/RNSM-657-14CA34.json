@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-14CA34",
+  "type": "ransomware-incident",
+  "title": "medicato.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "medicato.com",
+    "domain": "medicato.com",
+    "country": "MX",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "La primera aplicación en México que conecta de manera instantánea a pacientes con doctores 24/7.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e07f39460f42f1e6ca6c385d37cef10c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwvkawnhdg8uy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-13 00:00:00.000000",
+    "disclosedDate": "2024-10-14 06:07:05.616064"
+  }
+}

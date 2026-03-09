@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-661-15C07D",
+  "type": "ransomware-incident",
+  "title": "www.cityoftarrant.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.cityoftarrant.com",
+    "domain": "cityoftarrant.com",
+    "country": "",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] City of Tarrant is the official website for the City of Tarrant, Alabama. It provides comprehensive information about various city services, department details, municipality codes, and ordinances. It acts as a communication bridge between citizens and local government, providing resources for business licenses, utility payments, and community event updates.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f39cf3463efd7aed7dabb5c7377e1082.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnpdhlvznrhcnjhbnquy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.wbrc.com/2025/02/10/city-tarrant-computer-systems-impacted-by-ransomware-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-15 08:19:00.000000",
+    "disclosedDate": "2025-02-15 16:35:39.333416"
+  }
+}

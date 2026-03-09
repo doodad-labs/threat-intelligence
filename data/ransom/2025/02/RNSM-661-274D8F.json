@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-274D8F",
+  "type": "ransomware-incident",
+  "title": "PTCOUPLING.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PTCOUPLING.COM",
+    "domain": "ptcoupling.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] PTCOUPLING.COM operates as a leading manufacturer and provider of high-quality quick connect/disconnect couplings and replacement parts. The company offers products for the petroleum, industrial, chemical, and food industries among others. Specializing in aluminum and stainless steel, the company also delivers custom solutions engineered to meet specific client needs. Their offerings include Cam & Groove, Petroleum, Swivels, Punch-Lok, and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ufrdt1vqtelory5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:08:13.738747",
+    "disclosedDate": "2025-02-27 17:08:20.045534"
+  }
+}

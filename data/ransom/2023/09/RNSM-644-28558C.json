@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-28558C",
+  "type": "ransomware-incident",
+  "title": "ezpaybuildings.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ezpaybuildings.net",
+    "domain": "ezpaybuildings.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "EZ Pay Buildings provides programs enabling consumers the ability to acquire ownership of Storage Barns, Steel Buildings, Gazebos, and more. Our dedicated sales team work towards growing the business of our partners. Our customer service representati...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/09142e194af21eb239a0aabe15e4e32a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxpwyxlidwlszgluz3mubmv0qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-28 19:58:00.000000",
+    "disclosedDate": "2023-09-28 20:39:15.988922"
+  }
+}

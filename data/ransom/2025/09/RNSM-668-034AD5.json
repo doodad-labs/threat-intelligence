@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-034AD5",
+  "type": "ransomware-incident",
+  "title": "Risen Energy Co. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Risen Energy Co.",
+    "domain": "risen.com",
+    "country": "CN",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Risen Energy Co., Ltd is a leading, global, tier-1, 'AAA' credit rated manufacturer of high-performance solar photovoltaic products and provider of total business solutions for power generation. It was established in 1986 and publicly listed in 2010. The company's business covers solar power system project development, engineering, procurement and construction management, and operation and maintenance services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/458be0670a3271fd0d3c03a89fccb3f3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umlzzw4grw5lcmd5ienvlkb3b3jszgxlywtz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-09 00:00:00.000000",
+    "disclosedDate": "2025-09-03 06:48:10.937795"
+  }
+}

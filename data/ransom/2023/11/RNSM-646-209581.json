@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-209581",
+  "type": "ransomware-incident",
+  "title": "Barnett Millworks ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Barnett Millworks",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "knight",
+    "name": "knight",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 350000000000,
+    "description": "Your network has been locked by us.350GB of data has been downloaded to our servers.We're waiting for you in the chat room to negotiate.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/447dfbd31a6e9cb9418c8f7a83b3278d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfybmv0dcbnawxsd29ya3naa25pz2h0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-14 20:38:47.812513",
+    "disclosedDate": "2023-11-20 20:38:47.814493"
+  }
+}

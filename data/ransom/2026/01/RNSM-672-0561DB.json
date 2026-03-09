@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-0561DB",
+  "type": "ransomware-incident",
+  "title": "M&M Auto Parts ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "M&M Auto Parts",
+    "domain": "mmautoparts.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "M&M Auto Parts, Inc. specializes in providing high-quality auto parts, including over 150,000 parts in stock and ready for delivery. They cater to customers looking for affordable replacement parts, offering savings of up to 70% over new parts. The company also features a wide range of aftermarket and remanufactured products, ensuring a comprehensive selection for various automotive needs. Their intended clients include both individual consumers and businesses seeking reliable and cost-effective auto parts solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c7328d022ff19078a98f40c7acf8943b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tsznief1dg8gugfydhnac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 07:35:11.271000",
+    "disclosedDate": "2026-01-05 07:37:06.520754"
+  }
+}

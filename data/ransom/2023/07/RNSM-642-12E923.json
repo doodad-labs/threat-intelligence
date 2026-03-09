@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-12E923",
+  "type": "ransomware-incident",
+  "title": "AINT.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AINT.COM",
+    "domain": "aint.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Advanced Integration Technology",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f80bc8fa8e60a7f74c6b44b35082eb6b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qulovc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-12 21:27:36.922462",
+    "disclosedDate": "2023-07-12 21:27:36.922482"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-643-31D135",
+  "type": "ransomware-incident",
+  "title": "S&P ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "S&P",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 6000000000000,
+    "description": "Affected nearly 6tb of data. Because of the size of the data I require a payment to the following address only. We demand 200,000 euro. bc1qqc7nla44te4wxyvf9j7zxtc5q296sxn94k6v00",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uyzqqhjhbnnvbwvk",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-31 12:59:39.433372",
+    "disclosedDate": "2023-08-31 12:59:39.433395"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-29379C",
+  "type": "ransomware-incident",
+  "title": "carolfoxassociates.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "carolfoxassociates.com",
+    "domain": "carolfoxassociates.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Carol Fox & Associates (CF&A) is an award-winning PR, branding, digital marketing and events agency. Fully integrated to meet the demands of an ever-changing industry, our team is plugged in, switched on and ready to elevate your brand. No project is...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b2343b11cf9f471072eaf4ab0ed90ada.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fyb2xmb3hhc3nvy2lhdgvzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-29 18:29:00.000000",
+    "disclosedDate": "2023-08-29 19:04:07.794939"
+  }
+}

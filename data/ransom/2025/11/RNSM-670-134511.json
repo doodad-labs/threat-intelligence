@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-134511",
+  "type": "ransomware-incident",
+  "title": "GLOBALLOGIC.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GLOBALLOGIC.COM",
+    "domain": "globallogic.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] GlobalLogic is a digital product engineering services company headquartered in California, USA. Founded in 2000, the company offers design, development, and digital transformation services to businesses around the globe. GlobalLogic operates across various industries such as telecommunications, media, automotive, healthcare, and technology. With over 20,000 employees, the firm has multiple delivery centers and design studios worldwide.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/711f19d9a83fc1e4ba0c86569bbe9d47.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r0xpqkfmte9hsumuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-13 19:10:03.449030",
+    "disclosedDate": "2025-11-13 19:10:18.613070"
+  }
+}

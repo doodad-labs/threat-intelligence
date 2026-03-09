@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-299503",
+  "type": "ransomware-incident",
+  "title": "Mastery Schools ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mastery Schools",
+    "domain": "masterycharter.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 2001, Mastery Charter Schools is a charter school network in Philadelphia, Pennsylvania and Camden, New Jersey.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfzdgvyesbty2hvb2xzqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1a2f7e23-e6a7-448f-b7a4-f2a875c0da1b.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 20:09:19.600563",
+    "disclosedDate": "2024-10-29 04:39:37.350660"
+  }
+}

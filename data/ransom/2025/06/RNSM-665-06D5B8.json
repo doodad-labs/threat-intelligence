@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-06D5B8",
+  "type": "ransomware-incident",
+  "title": "ACCS Le Groupe ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ACCS Le Groupe",
+    "domain": "accslegroupe.ca",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "gunra",
+    "name": "gunra",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ACCS Le Groupe is a French-based company specializing in the delivery of IT solutions and services. The company offers a comprehensive range of services including IT auditing, consulting, project management, and training. Their solutions are tailored to meet the specific needs of businesses across varying sectors. Additionally, ACCS Le Groupe provides infrastructures hosting, data management tools and cybersecurity measures to ensure efficient and secure business operations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/545df86944ab91078720f62c314f0601.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qunduybmzsbhcm91cgvaz3vucme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-06 17:10:37.294990",
+    "disclosedDate": "2025-06-06 17:10:37.294990"
+  }
+}

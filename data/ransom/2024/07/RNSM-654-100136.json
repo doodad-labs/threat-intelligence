@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-100136",
+  "type": "ransomware-incident",
+  "title": "O***M ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "O***M",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "flocker",
+    "name": "flocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 450000000000,
+    "description": "To the board of O***M, We have gained access to your system O***M.com and have highly confidential data, including 450GB […]",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/723308f4256a657626ff4f61bd5537bf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tyoqkk1azmxvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-10 00:00:00.000000",
+    "disclosedDate": "2024-07-10 09:34:47.300493"
+  }
+}

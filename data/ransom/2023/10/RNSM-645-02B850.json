@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-645-02B850",
+  "type": "ransomware-incident",
+  "title": "Federal University of Mato Grosso do Sul ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Federal University of Mato Grosso do Sul",
+    "domain": "ufms.br",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Federal University of Mato Grosso do Sul The Federal University of Mato Grosso do Sul, is a public university located in the state of Mato Grosso do Sul in Brazil.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/df7b230327fd2a7449c26f9776cca7a0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmvkzxjhbcbvbml2zxjzaxr5ig9mie1hdg8gr3jvc3nvigrvifn1bebyahlzawrh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.campograndenews.com.br/educacao-e-tecnologia/ufms-sofre-ataque-cibernetico-e-estudantes-ficam-sem-acesso-ao-sistema",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-02 01:17:36.429921",
+    "disclosedDate": "2023-10-02 01:17:36.429943"
+  }
+}

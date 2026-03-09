@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-656-289686",
+  "type": "ransomware-incident",
+  "title": "Soreq NRC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Soreq NRC",
+    "country": "IL",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "handala",
+    "name": "handala",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Handala Hacked Soreq NRC The sound of this operation will soon be heard throughout occupied Palestine! We dumped all Soreq data, including all emails, confidential administrative documents, confidential correspondence, confidential maps, sensitive infrastructure, personnel information, etc.! In dear Nasrallah’s early revenge, we know how to treat you! These confidential documents will be released soon! (…",
+    "claimed_data_types": [
+      "email-addresses"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aacca2d74d3d749450b663554c9865df.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u29yzxegtljdqghhbmrhbge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-28 21:50:36.000000",
+    "disclosedDate": "2024-09-28 22:33:34.156873"
+  }
+}

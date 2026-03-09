@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-648-2296AB",
+  "type": "ransomware-incident",
+  "title": "southernwater.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "southernwater.co.uk",
+    "domain": "southernwater.co.uk",
+    "country": "GB",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 750000000000,
+    "description": "We provide water for life to enhance health and wellbeing, protect and improve the environment and sustain the economy. We provide essential water services to 2.5 million customers and wastewater services to more than 4.7 million customers across Sussex, Kent, Hampshire and the Isle of Wight.SITE: www.southernwater.co.uk Address : Southern Water Services Limited, Southern House, Yeoman Road, Worthing, West Sussex, BN13 3NX.ALL DATA SITE: 750gb 1. Users personal documents and folders 2. Corporate documents and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/81870326b5b97098f028448a5fc8a512.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c291dghlcm53yxrlci5jby51a0bibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-22 17:57:39.488950",
+    "disclosedDate": "2024-01-22 17:57:39.488974"
+  }
+}

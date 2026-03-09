@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-03D5DF",
+  "type": "ransomware-incident",
+  "title": "West Idaho Orthopedics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "West Idaho Orthopedics",
+    "domain": "westidahoorthopedics.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "At West Idaho Orthopedics & Sports Medicine we’re committed to providing the best possible care for residents of Treasure Valley. Our dedicated experts work tirelessly to stay abreast of the latest...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c41ff4036a64082affe691c3b5ee586d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vzdcbjzgfobybpcnrob3blzgljc0bpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-03 17:55:57.266123",
+    "disclosedDate": "2024-04-03 17:55:57.446870"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-658-242C19",
+  "type": "ransomware-incident",
+  "title": "co.cullman.al.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "co.cullman.al.us",
+    "domain": "cullman.al.us",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] The website \"co.cullman.al.us\" represents Cullman County in Alabama. It serves as an online portal for county services, information, and resources. The site offers details about local government offices, departments, and officials, as well as public records, community events, and services for residents and businesses. It aims to enhance civic engagement and provide easy access to county-related information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34fc2afb79518ad6d6a51f042c6a7f6b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y28uy3vsbg1hbi5hbc51c0bibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cbs42.com/news/local/cullman-county-courthouse-victim-of-cyberattack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-24 11:39:51.727153",
+    "disclosedDate": "2024-11-24 11:39:54.035105"
+  }
+}

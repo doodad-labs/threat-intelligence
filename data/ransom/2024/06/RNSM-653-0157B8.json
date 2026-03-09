@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-653-0157B8",
+  "type": "ransomware-incident",
+  "title": "Frontier  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Frontier ",
+    "domain": "frontier.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000,
+    "description": "Visits: 9 Data Size: 5GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/029e9a83911e87fa763943b62a5d717d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnjvbnrpzxigqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-01 18:41:29.343575",
+    "disclosedDate": "2024-06-01 18:41:29.343594"
+  }
+}

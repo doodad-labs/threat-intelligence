@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-270785",
+  "type": "ransomware-incident",
+  "title": "INNOVADOR.COM.MX ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "INNOVADOR.COM.MX",
+    "domain": "innovador.com.mx",
+    "country": "MX",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] INNOVADOR.COM.MX is a digital media company based in Mexico that focuses on promoting technological innovation. They publish a wide variety of content including news articles, opinion pieces, and feature stories related to new technological trends, digital transformation, entrepreneurship, and startups. Their mission is to create a connection between the tech community and the general public, making complex technology concepts accessible to everyone.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/su5ot1zbre9slknpts5nwebjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:27:04.403867",
+    "disclosedDate": "2025-02-27 16:27:09.375654"
+  }
+}

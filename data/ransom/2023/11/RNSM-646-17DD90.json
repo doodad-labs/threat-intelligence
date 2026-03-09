@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-646-17DD90",
+  "type": "ransomware-incident",
+  "title": "owensgroup.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "owensgroup.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Owens Group, founded in 1972 and headquartered in Llanelli, UK, is a company that operates in the Logistics industry. Their service offerings include, but are not limited to; logistics, warehousing, steel & pallet distribution, bulk services, and exp...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/daeee8f270875f1f81f9a2a89d76fc96.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b3dlbnnncm91cc51a0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-17 07:49:00.000000",
+    "disclosedDate": "2023-11-17 08:16:56.807789"
+  }
+}

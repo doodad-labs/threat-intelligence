@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-644-293E8E",
+  "type": "ransomware-incident",
+  "title": "mclaren health care ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mclaren health care",
+    "domain": "mclaren.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/72860a92719452ae7d348e4c76fa0e52.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwnsyxjlbibozwfsdgggy2fyzubhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/79a56f34-ffbe-4621-a74c-9b1e49477904.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-29 22:20:28.123456",
+    "disclosedDate": "2023-09-29 23:37:11.554695"
+  }
+}

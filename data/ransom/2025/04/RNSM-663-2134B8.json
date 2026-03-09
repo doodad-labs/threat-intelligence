@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-2134B8",
+  "type": "ransomware-incident",
+  "title": "TrussWorks International ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TrussWorks International",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 13000000000,
+    "description": "TWI can engineer, design, fabricate, machine, paint, and pre-assemble all aspects of your project in house, which gives us complete control over quality, schedule, and budget. We are ready to upload more than 13 GB of essential corporate documents such as: contact numbers and e-mail addresses of employeesand customers, SSNs, phones, addresses, driver's licenses and soon. You will also find their and their clients financial data (audits, payment details, reports), corporate NDA’s, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhj1c3nxb3jrcybjbnrlcm5hdglvbmfsqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-18 00:00:00.000000",
+    "disclosedDate": "2025-04-21 14:44:29.473067"
+  }
+}

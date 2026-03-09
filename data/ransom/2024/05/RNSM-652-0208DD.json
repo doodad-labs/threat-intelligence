@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-652-0208DD",
+  "type": "ransomware-incident",
+  "title": "watergate ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "watergate",
+    "domain": "thewatergatehotel.com",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data will be open and available for downloading in 2 days!!!(03.05.24)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8ed902af39f349c3df7a9c6d6e7b837e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2f0zxjnyxrlqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-02-07%20the%20watergate%20hotel%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-18 00:00:00.000000",
+    "disclosedDate": "2024-05-02 14:09:47.498221"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-26E9A0",
+  "type": "ransomware-incident",
+  "title": "Community Care Alliance ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Community Care Alliance",
+    "domain": "communitycareri.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Community Care Alliance Community Care Alliance is a unified human service agency integrating resources, supports and programs to strengthen families.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tbxvuaxr5ienhcmugqwxsawfuy2vacmh5c2lkyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-03-07%20community%20care%20alliance%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-26 22:16:20.079488",
+    "disclosedDate": "2024-07-26 22:16:20.814501"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-04E406",
+  "type": "ransomware-incident",
+  "title": "IDTECHPRODUCTS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IDTECHPRODUCTS.COM",
+    "domain": "idtechproducts.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Homepage - ID TECH Products",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9e4aff023ce80fd4aa80d0a2fbbf60f0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sururuniufjprfvdvfmuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-04 00:50:52.492539",
+    "disclosedDate": "2023-05-04 00:50:52.492557"
+  }
+}

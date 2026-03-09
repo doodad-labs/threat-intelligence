@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-10AAD3",
+  "type": "ransomware-incident",
+  "title": "Arge Baustahl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Arge Baustahl",
+    "domain": "arge-baustahl.at",
+    "country": "AU",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since 1949, the company ARGE BAUSTAHL EISEN BLASY NEPTUN GmbH has stood for outstanding performance in the construction industry.  The files of the organization will be available for downloading s oon. There is a lot of internal business information in the archi ve like projects, drawings etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjnzsbcyxvzdgfobebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-10 14:45:51.709170",
+    "disclosedDate": "2024-06-10 14:45:52.532992"
+  }
+}

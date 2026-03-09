@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-01F403",
+  "type": "ransomware-incident",
+  "title": "vikurverk.is ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "vikurverk.is",
+    "domain": "vikurverk.is",
+    "country": "IS",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Greetings!  Today we are posting here the new company, \"Vikurverk ehf.\".  Company Description: Víkorverk is a company that sells new motorhomes, caravans, motorhomes and caravans, but we also have a large selection of used caravans. There is als...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmlrdxj2zxjrlmlzqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-30 00:00:00.000000",
+    "disclosedDate": "2024-11-01 18:10:05.460524"
+  }
+}

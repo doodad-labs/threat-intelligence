@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-05DCA3",
+  "type": "ransomware-incident",
+  "title": "britteninc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "britteninc.com",
+    "domain": "britteninc.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 19.06.2025.Britten is a creative production house dedicated to creating innovative signage, displays and event branding solutions that set our clients apart from the crowd. Utilizing             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/03b99222be2c43057e0d3c2edaa960f9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjpdhrlbmluyy5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-05 00:00:00.000000",
+    "disclosedDate": "2025-06-05 21:44:00.495526"
+  }
+}

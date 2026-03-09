@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-04F56C",
+  "type": "ransomware-incident",
+  "title": "hemio.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hemio.de",
+    "domain": "bhemio.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: hemio.de, SOLEIL, Devlion",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/87ab8fc8e17f7a7dc832683b17d56373.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agvtaw8uzgvazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-04 21:06:32.072277",
+    "disclosedDate": "2025-02-04 21:07:38.494073"
+  }
+}

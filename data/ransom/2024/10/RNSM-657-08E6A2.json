@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-08E6A2",
+  "type": "ransomware-incident",
+  "title": "pingan.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pingan.com",
+    "domain": "pingan.com",
+    "country": "CN",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ping An is a China-based conglomerate that owns and operates businesses in fields such as banking, insurance, asset management and healthcare services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgluz2fulmnvbubrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-08 22:06:19.488344",
+    "disclosedDate": "2024-10-08 22:06:19.838454"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-3091F7",
+  "type": "ransomware-incident",
+  "title": "losh.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "losh.com",
+    "domain": "losh.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We began in 1990 as Losh Communications installing Business telephones systems for AT&T. We stuck with it as that division of AT&T became Lucent and eventually, Avaya.Over the years, we have branched out to become a leading IT Service provider with...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9a3e3e4dd9421096bcdcb175eecc5a2a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bg9zac5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-30 22:59:00.000000",
+    "disclosedDate": "2023-08-30 23:34:38.616709"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-650-272DD0",
+  "type": "ransomware-incident",
+  "title": "NHS Scotland ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NHS Scotland",
+    "domain": "nhs.scot",
+    "country": "GB",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000000,
+    "description": "3 terabytes of data will be published soon.NHSScotland currently employs approximately 140,000 staff who work across 14 territorial NHS Boards, seven Special NHS Boards and one public health...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/033cfdf55c839d3d01fe4e43051782b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tkhtifnjb3rsyw5kqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-26 09:42:27.564406",
+    "disclosedDate": "2024-03-27 09:42:27.693242"
+  }
+}

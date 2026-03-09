@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-2575BF",
+  "type": "ransomware-incident",
+  "title": "First Federal Savings & Loan ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "First Federal Savings & Loan",
+    "domain": "firstwithus.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ba13282066d747fdf4512c15d66ec42.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmlyc3qgrmvkzxjhbcbtyxzpbmdzicygtg9hbkbwbgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-07 00:00:00.000000",
+    "disclosedDate": "2025-02-25 22:33:10.065349"
+  }
+}

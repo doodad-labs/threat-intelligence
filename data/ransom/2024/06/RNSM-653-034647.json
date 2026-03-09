@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-034647",
+  "type": "ransomware-incident",
+  "title": "ISETO CORPORATION ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ISETO CORPORATION",
+    "domain": "iseto.co.jp",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Information processing services, production and sale of computer paper, development and sale of system equipment.The main trading partners are City banks, trust banks, regional banks, labor banks, credit unions, life insurance, non-life insurance, local governments, government agencies, credit card companies, leasing companies, electricity, gas, cable television companies and 3,000 other companies.https://www.iseto.co.jp/en/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bb0a97d9b8b8f464b4aa70e45338dedc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/svnfve8gq09sue9sqvrjt05aogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-03 00:00:00.000000",
+    "disclosedDate": "2024-06-03 14:47:00.384700"
+  }
+}

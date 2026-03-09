@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-096F35",
+  "type": "ransomware-incident",
+  "title": "cdtmedicus.pl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cdtmedicus.pl",
+    "domain": "cdtmedicus.pl",
+    "country": "PL",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Medicus Diagnostic and Therapy Center has 19 specialized clinics where patients can receive professional advice from doctors.specialists, and thereby take care of the health of yourself and your loved ones.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a5562518c58a7c7917b48dee1b698b96.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2r0bwvkawn1cy5wbebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-17 00:00:00.000000",
+    "disclosedDate": "2024-02-09 14:40:57.073465"
+  }
+}

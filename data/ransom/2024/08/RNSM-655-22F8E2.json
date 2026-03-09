@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-22F8E2",
+  "type": "ransomware-incident",
+  "title": "level.game ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "level.game",
+    "domain": "level.game",
+    "country": "RU",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Level SuperMind is a wellness technology company focused on improving mental clarity and well-being through its mobile app. The app helps users reduce stress, anxiety, and overthinking by offering guided meditations, breathwork, sleep tools, and journaling exercises.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/03d4c52a58d4b545c9ecffd0c22c8d4d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgv2zwwuz2ftzubrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-22 15:14:53.205677",
+    "disclosedDate": "2024-08-22 15:14:54.331812"
+  }
+}

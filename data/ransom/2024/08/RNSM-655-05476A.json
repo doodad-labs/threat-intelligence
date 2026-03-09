@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-655-05476A",
+  "type": "ransomware-incident",
+  "title": "Hi-P International ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hi-P International",
+    "domain": "hi-p.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 22000000000,
+    "description": "22 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bb789c538220bcf0caac87b1706e9fd4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgktucbjbnrlcm5hdglvbmfsqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-05 17:36:54.026466",
+    "disclosedDate": "2024-08-05 17:36:55.027677"
+  }
+}

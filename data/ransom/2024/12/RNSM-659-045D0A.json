@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-045D0A",
+  "type": "ransomware-incident",
+  "title": "www.sefiso-atlantique.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.sefiso-atlantique.fr",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Sefiso Atlantique is a French company specializing in real estate development. It focuses on creating sustainable and innovative housing projects, primarily in the Atlantic region of France. The company is committed to quality construction, energy efficiency, and enhancing urban living spaces. Its projects often emphasize environmental responsibility and modern architectural design.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/910d5a6910585b000e128105433f9191.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnlzmlzby1hdgxhbnrpcxvllmzyqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-03 18:38:39.000000",
+    "disclosedDate": "2024-12-04 07:42:57.757907"
+  }
+}

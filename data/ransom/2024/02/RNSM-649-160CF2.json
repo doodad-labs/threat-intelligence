@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-160CF2",
+  "type": "ransomware-incident",
+  "title": "etisalat.ae ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "etisalat.ae",
+    "domain": "etisalat.ae",
+    "country": "AE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Emirates Telecommunications Group Company PJSC, doing business as etisalat by e&, is an UAE state-owned telecommunications company. It is the 18th largest mobile network operator in the world by number of subscribers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c2642185f6555394a5aeede5caf2fd1a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxrpc2fsyxquywvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-16 13:58:00.000000",
+    "disclosedDate": "2024-02-16 15:07:20.711156"
+  }
+}

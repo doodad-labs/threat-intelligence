@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-663-229FC9",
+  "type": "ransomware-incident",
+  "title": "Amazon Transportes ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Amazon Transportes",
+    "domain": "amazontransportes.com.br",
+    "country": "BR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 149000000000,
+    "description": "Status: 29d 23h 57m 18s - Size Data: 149 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fb910dc5b7e78b103093ca59f66ac91f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1hem9uifryyw5zcg9ydgvzqgnpy2fkytmzmde=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-22 00:00:00.000000",
+    "disclosedDate": "2025-04-22 15:19:20.693851"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-663-05C6EC",
+  "type": "ransomware-incident",
+  "title": "HighWire Press ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HighWire Press",
+    "domain": "highwirepress.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hellcat",
+    "name": "hellcat",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Jiraware <<3 !! We hold sensitive data from HighWire Press, a leading platform serving scholarly publishers. The data includes internal documents, communications, and materials that could impact both HighWire and its publishing partners.",
+    "claimed_data_types": [
+      "internal-documents"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sglnafdpcmuguhjlc3naagvsbgnhda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-18 07:44:28.190921",
+    "disclosedDate": "2025-04-05 10:47:28.576323"
+  }
+}

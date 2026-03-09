@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-218299",
+  "type": "ransomware-incident",
+  "title": "Codival ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Codival",
+    "domain": "codival.ci",
+    "country": "CI",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CODIVAL was created in 1975, on the initiative of local banks that wanted to secure the transportation of cash within their growing networks.Formerly known as BRINK'S WEST AFRICA, CODIVAL is a subsidiary of the SAGAM International group, which is the leader for all activities related to the securing of cash: cash-in-transit, cash processing, ATM management, electronic security and fire safety.This synergy of skills enables CODIVAL to benefit from the expertise, technical know-how, logistics and professionalism of the group which is represented in Senegal, Benin, Burkina Faso, Mali, Cameroon, and soon to be represented in Gabon, Ghana, Nigeria, Morocco and Central Africa.In Côte d'Ivoire, CODIVAL is the undisputed leader in the field of cash-in-transit, cash processing and ATM Management https://codival.ci/en/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ab2069d8a5c50da861d5863081dd4546.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29kaxzhbebzcgfjzwjlyxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-20 00:00:00.000000",
+    "disclosedDate": "2024-08-21 02:19:49.430642"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-06B9EC",
+  "type": "ransomware-incident",
+  "title": "National Ticket Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "National Ticket Company",
+    "domain": "nationalticket.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "bert",
+    "name": "bert",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "National Ticket Company – Tickets and wristbands since 1907.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/06689d351c3f84e6b7fef3463ee25a1c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf0aw9uywwgvglja2v0ienvbxbhbnlaymvyda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-04 09:20:52.537000",
+    "disclosedDate": "2025-04-06 10:41:13.423760"
+  }
+}

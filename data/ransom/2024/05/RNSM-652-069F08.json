@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-652-069F08",
+  "type": "ransomware-incident",
+  "title": "thebiglifegroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "thebiglifegroup.com",
+    "country": "",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Big Life group is a social enterprise that fights inequality by offering various services and support to people and places. Learn more about their values, history, people, news and how to find support near you.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/79fd26378cdfa001cf3221f571375859.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghlymlnbglmzwdyb3vwlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-06 15:01:00.000000",
+    "disclosedDate": "2024-05-06 16:47:31.104764"
+  }
+}

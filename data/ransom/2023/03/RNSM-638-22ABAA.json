@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-22ABAA",
+  "type": "ransomware-incident",
+  "title": "CROSSVILLEINC.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CROSSVILLEINC.COM",
+    "domain": "crossvilleinc.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Crossville Inc Tile - Home New",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bf53f8ea6d93fccb613f7872912cdfae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1jpu1nwsuxmruloqy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-22 23:02:11.284232",
+    "disclosedDate": "2023-03-22 23:02:11.284248"
+  }
+}

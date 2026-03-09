@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-11CFBD",
+  "type": "ransomware-incident",
+  "title": "scheuerle-stuttgart.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "scheuerle-stuttgart.de",
+    "domain": "scheuerle-stuttgart.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Scheuerle Stuttgart is a leading company in the heavy transport industry. Based in Stuttgart, Germany, it specializes in producing vehicles for the transportation of heavy and special loads. Their portfolio includes modular transporters, self-propelled modular transporters (SPMTs), and industrial and shipyard transporters. Scheuerle Stuttgart is globally recognized for its innovative solutions, advanced design, and robust machinery, serving various industries including construction and logistics.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/404ea22ef539f352b9b33b49d159571f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2nozxvlcmxllxn0dxr0z2fydc5kzubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-05 00:00:00.000000",
+    "disclosedDate": "2025-05-11 21:50:29.913168"
+  }
+}

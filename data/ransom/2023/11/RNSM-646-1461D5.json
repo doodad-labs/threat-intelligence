@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-646-1461D5",
+  "type": "ransomware-incident",
+  "title": "rekord.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rekord.de",
+    "domain": "rekord.de",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 917000000000,
+    "description": "REKORD ist meisterlicher Fachbetrieb für Fenster Sonderbau, Sprossenfenster und Denkmalschutzfenster. Damit können Sie sicher sein, ein handwerklich meisterhaftes und technisch perfektes Einzelstück zu erhalten. Eine Qualität, die bei uns von rekord seit über 100 Jahren gute Tradition ist. Unsere Produkte tragen das bekannte RAL-Gütezeichen für eine regelmäßige Qualitätskontrolle durch ein neutrales Institut. Darüberhinaus prüfen wir selbst vor dem Versand jedes einzelne Produkt noch einmal ganz genau, sorgfältig und umfassend anhand unseres Qualitätssicherheitssystems.SITE: www.rekord.de Address  Itzehoer Straße 10 25578 Dägeling DeutschlandFULL DATA SIZE: 917gb 1. Unternehmensdaten 2. Persönliche Daten 3. Projekte 4. CAD 5. Userdat",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e023d24d7ee16f8ec3b5fd90add42434.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmvrb3jklmrlqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.shz.de/lokales/itzehoe/artikel/daegelinger-firma-rekord-fenster-tueren-opfer-von-hacker-angriff-45869546",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-14 17:26:38.774486",
+    "disclosedDate": "2023-11-14 17:26:38.774507"
+  }
+}

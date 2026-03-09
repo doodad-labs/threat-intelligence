@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-663-16AA8F",
+  "type": "ransomware-incident",
+  "title": "shengyusteel.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "shengyusteel.com",
+    "domain": "shengyusteel.com",
+    "country": "TW",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "underground",
+    "name": "underground",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue: $431.6 million Type: Manufacturing Size: 353,9 GBytes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a80e9c3010eeb99f07d3090334aa542b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2hlbmd5dxn0zwvslmnvbub1bmrlcmdyb3vuza==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isnew=y&seq_no=2&spoke_time=211609&spoke_date=20250330&co_id=2029",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-08 08:09:00.000000",
+    "disclosedDate": "2025-04-16 12:53:45.678509"
+  }
+}

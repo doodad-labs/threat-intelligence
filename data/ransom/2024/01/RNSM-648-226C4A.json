@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-648-226C4A",
+  "type": "ransomware-incident",
+  "title": "agc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "agc.com",
+    "domain": "agc.com",
+    "country": "JP",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "Asahi Glass was founded on 8 September 1907 by Toshiya Iwasaki, the second son of the second president of the original Mitsubishi zaibatsu. It was the first Japanese producer of sheet glass. Asahi Glass Co. is one of the largest flat glass producing companies in the world, owning Glaverbel glass plants across Europe and AFG Industries in North America. It purchased AFG Industries in 1992.Wiki: en.wikipedia.org/wiki/AGC_Inc.SITE: www.agc.com Address : 1-5-1 Marunouchi, Tokyo, Tokyo, 100-8405, JapanALL DATA SIZE: 1.5tb 1. Users personal folers 2. Technology 3. Human Resources 4. Finance and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a5b4114c3b9f304f5c45e76b38cc97cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywdjlmnvbubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-17 00:00:00.000000",
+    "disclosedDate": "2024-01-22 19:35:41.091742"
+  }
+}

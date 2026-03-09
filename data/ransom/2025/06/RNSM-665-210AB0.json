@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-210AB0",
+  "type": "ransomware-incident",
+  "title": "ALFA Testing Equipment ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ALFA Testing Equipment",
+    "domain": "alfatest.com.tr",
+    "country": "TR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ALFA Testing Equipment (Turkey)",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/quxgqsbuzxn0aw5nievxdwlwbwvudebuawdodhnwaxjl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-16 00:00:00.000000",
+    "disclosedDate": "2025-06-21 06:38:23.913805"
+  }
+}

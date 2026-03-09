@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-166524",
+  "type": "ransomware-incident",
+  "title": "ARBURG.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ARBURG.COM",
+    "domain": "arburg.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - ARBURG",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/baa064195f55ed367b84fd4790576595.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvjcvvjhlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-16 14:36:42.790679",
+    "disclosedDate": "2023-06-16 14:36:42.790710"
+  }
+}

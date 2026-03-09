@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-03B294",
+  "type": "ransomware-incident",
+  "title": "Youngblood Tyler & Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Youngblood Tyler & Associates",
+    "domain": "youngbloodtylerassociates.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Youngblood, Tyler & Associates, P.C. is a leading firm specializing in civil engineering, land surveying, site development, and land planning, serving clients in Virginia, North Carolina, and West Virginia for over 50 years. Their comprehensive services include environmental assessments, drainage system design, surveying for residential and commercial projects, and detailed site development planning. The company fosters strong client partnerships throughout all phases of development, addressing needs from land purchasing to zoning and government approvals. With a dedicated team of professionals, they emphasize quality service and tailored solutions for each project.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4b19f9c446345a1055c8eaecd17e85c1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ww91bmdibg9vzcbuewxlciamiefzc29jawf0zxnac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-03 19:01:18.859000",
+    "disclosedDate": "2026-01-03 19:18:31.055237"
+  }
+}

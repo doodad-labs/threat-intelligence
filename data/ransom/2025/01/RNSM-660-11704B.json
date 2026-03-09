@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-660-11704B",
+  "type": "ransomware-incident",
+  "title": "arunestates.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "arunestates.co.uk",
+    "domain": "arunestates.co.uk",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "Arun Estates is an independent estate agency based in the South East of England, established in 1991. It operates over 100 branches under multiple trading brands, making it one of the largest independent estate agents in the region. The company specializes in a variety of property services, including residential sales, lettings, financial services, conveyancing, and land development.SITE: www.arunestates.co.ukADDRESS:St. Leonard’s HouseNorth StreetHorsham, West SussexRH12 1RJ, United KingdomTEL#: +44 1403 282400ALL DATA SIZE: ≈1.5tb+1. Financial data, Accounts2. Human Resources3. Home folders, Personal employees data and documents4. Personal clients(customers) data and documents5. Confidential documents, NDA’s…6. Branch data…& etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4f330d297f8c86c69b5ee423e39cfdd2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxj1bmvzdgf0zxmuy28udwtaymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 00:00:00.000000",
+    "disclosedDate": "2025-01-11 11:28:42.902704"
+  }
+}

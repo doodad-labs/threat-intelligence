@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-17CEAF",
+  "type": "ransomware-incident",
+  "title": "clarkmechanicalinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "clarkmechanicalinc.com",
+    "domain": "clarkmechanicalinc.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Clark Mechanical, Inc. is a mechanical contracting company based in California. They specialize in offering various commercial and industrial heating, ventilation, and air conditioning (HVAC) services. Their services include HVAC design, installation, repairs, and maintenance. They are dedicated to providing quality workmanship and exceptional customer service. They have been in the business for over 25 years.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/24231f3eea1f8d92317369193d498778.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2xhcmttzwnoyw5py2fsaw5jlmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-21 00:00:00.000000",
+    "disclosedDate": "2025-05-17 18:42:14.761284"
+  }
+}

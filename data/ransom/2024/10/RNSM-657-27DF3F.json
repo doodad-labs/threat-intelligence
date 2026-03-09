@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-27DF3F",
+  "type": "ransomware-incident",
+  "title": "Edmov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Edmov",
+    "domain": "edmov.com",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/429ada34846cb982c0f8f092a21a15eb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwrtb3zaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-27 03:50:27.874090",
+    "disclosedDate": "2024-10-27 03:50:28.667743"
+  }
+}

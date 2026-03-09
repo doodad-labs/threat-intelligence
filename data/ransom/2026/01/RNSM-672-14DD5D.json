@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-672-14DD5D",
+  "type": "ransomware-incident",
+  "title": "Adriatic Port Authority ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Adriatic Port Authority",
+    "country": "IT",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.porto.ancona.it - data breach.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwryawf0awmgug9ydcbbdxrob3jpdhlayw51ymlz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-14 14:38:12.028512",
+    "disclosedDate": "2026-01-14 14:39:14.336053"
+  }
+}

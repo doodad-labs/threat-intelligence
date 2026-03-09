@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-178401",
+  "type": "ransomware-incident",
+  "title": "primrose.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "primrose.com",
+    "domain": "primrose.com",
+    "country": "GB",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "warlock",
+    "name": "warlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "all data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjpbxjvc2uuy29tqhdhcmxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-17 09:17:58.022879",
+    "disclosedDate": "2025-08-17 09:18:00.117840"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-1449EE",
+  "type": "ransomware-incident",
+  "title": "morrisgroupint.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "morrisgroupint.com",
+    "domain": "morrisgroupint.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Morris Group International includes 28 divisions and partnerships and 27 locations worldwide. From stainless steel toilets, engineered plumbing and drainage products, and vacuum plumbing systems to drinking fountains and electric water heaters, our p...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw9ycmlzz3jvdxbpbnquy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-14 21:10:00.000000",
+    "disclosedDate": "2024-05-14 22:43:16.177168"
+  }
+}

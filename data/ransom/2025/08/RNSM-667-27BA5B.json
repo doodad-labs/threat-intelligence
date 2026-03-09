@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-27BA5B",
+  "type": "ransomware-incident",
+  "title": "dafo.se ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dafo.se",
+    "domain": "dafo.se",
+    "country": "SE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dafo is a market leader in extinguishing systems for vehicles",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/19a00927427570f1f4b6726f9c3e45a0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgfmby5zzubjagfvcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-27 09:03:32.453310",
+    "disclosedDate": "2025-08-27 09:03:48.308168"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-645-20F30F",
+  "type": "ransomware-incident",
+  "title": "Southland IntegratedServices ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Southland IntegratedServices",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "Southland Integrated Services provides a variety of health and social services such as primary care, behavioral health, dental services, and more. All the 40Gb we have will be uploaded soon. Medical records, confidential docs, passports may be found in there.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u291dghsyw5kieludgvncmf0zwrtzxj2awnlc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-20 13:03:25.143880",
+    "disclosedDate": "2023-10-20 13:03:25.308290"
+  }
+}

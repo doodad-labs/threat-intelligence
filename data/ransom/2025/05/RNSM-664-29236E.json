@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-664-29236E",
+  "type": "ransomware-incident",
+  "title": "Del Corona & Scardigli Canada ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Del Corona & Scardigli Canada",
+    "domain": "dcscanada.com",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15000000000,
+    "description": "Del Corona & Scardigli Canada provides a variety of logistics services for all your import, export and triangular shipments: air, sea and land transport, warehousing and distribution, etc. We are going to upload about 15 GB of corporate data. Employee information (DOB, address, phones and so on), financial data (audits, payment details, reports), lots of client data, correspondence, contracts and agreements, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvsienvcm9uysamifnjyxjkawdsasbdyw5hzgfaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-15 00:00:00.000000",
+    "disclosedDate": "2025-05-29 14:42:08.511546"
+  }
+}

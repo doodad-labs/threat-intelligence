@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-1720DF",
+  "type": "ransomware-incident",
+  "title": "terrell.k12.ga.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "terrell.k12.ga.us",
+    "domain": "terrell.k12.ga.us",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvycmvsbc5rmtiuz2eudxnac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 00:00:00.000000",
+    "disclosedDate": "2025-03-17 18:41:53.830794"
+  }
+}

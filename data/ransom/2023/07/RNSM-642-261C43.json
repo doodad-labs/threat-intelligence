@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-261C43",
+  "type": "ransomware-incident",
+  "title": "EirMed Devices, part of TRELLEBORG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EirMed Devices, part of TRELLEBORG",
+    "domain": "eirmed-devices.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "EirMed is a leader in the design, engineering, manufacturing, assembly and packaging of medical devices. Their expertise is integrated into the creation of devices designed to improve patients' lives. Now EirMed part of TRELLEBORG.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2344c7dc9b7bf8b06f2be9be47c17ede.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwlytwvkierldmljzxmsihbhcnqgb2ygvfjftexfqk9sr0bhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-02 05:27:39.000000",
+    "disclosedDate": "2023-07-26 15:03:20.405008"
+  }
+}

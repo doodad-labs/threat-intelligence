@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-650-12F97D",
+  "type": "ransomware-incident",
+  "title": "sierralobo.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sierralobo.com",
+    "domain": "sierralobo.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "Sierra Lobo, Inc. specializes in providing test, evaluation and engineering services to the aerospace sector nationwide. We also offer in-house engineering and R&D services through our Technology Development and Engineering Center (TDEC) in northern Ohio.SITE: www.sierralobo.com Address : 102 Pinnacle Drive Fremont, OH 43420 USALL DATA SIZE: ~1.5tb 1. Accounting 2. Personal employees  documents 3. Payroll 4. Projects and much more…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/faa1538230ae72e02a27e46de267ed29.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2llcnjhbg9iby5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-23 00:00:00.000000",
+    "disclosedDate": "2024-03-12 13:19:43.413577"
+  }
+}

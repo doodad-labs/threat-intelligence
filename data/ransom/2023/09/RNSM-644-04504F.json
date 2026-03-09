@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-04504F",
+  "type": "ransomware-incident",
+  "title": "quantinuum.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "quantinuum.com",
+    "domain": "quantinuum.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "we have access everything on their servers, including the Database, and other non public documents.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cxvhbnrpbnv1bs5jb21acmfuc29tzwq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-04 20:39:44.591323",
+    "disclosedDate": "2023-09-04 20:39:44.591355"
+  }
+}

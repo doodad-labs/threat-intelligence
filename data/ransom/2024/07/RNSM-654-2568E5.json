@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-654-2568E5",
+  "type": "ransomware-incident",
+  "title": "Environmental Design International ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Environmental Design International",
+    "domain": "envdesigni.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 60000000000,
+    "description": "Environmental Design International inc. (EDI) is an MBE/WBE/DBE/W OSB certified professional engineering firm headquartered in Chic ago. NDAs and confidential agreements, employees personal documen ts, detailed financial data. Everything is over 60GB.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw52axjvbm1lbnrhbcbezxnpz24gsw50zxjuyxrpb25hbebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-25 16:08:17.045335",
+    "disclosedDate": "2024-07-25 16:08:18.088925"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-152BAF",
+  "type": "ransomware-incident",
+  "title": "Like Family’s ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Like Family’s",
+    "domain": "likefamilypr.com",
+    "country": "PR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.likefamilypr.comLike Family is a Puerto Rican...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bbe6285a824f64ff2dfe2b7700650306.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tglrzsbgyw1pbhnigjlzqgfyy3vzbwvkawe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-14 23:50:23.000000",
+    "disclosedDate": "2024-09-15 01:32:29.691383"
+  }
+}

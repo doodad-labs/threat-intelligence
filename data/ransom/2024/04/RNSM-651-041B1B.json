@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-651-041B1B",
+  "type": "ransomware-incident",
+  "title": "Sutton Dental Arts ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sutton Dental Arts",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20200000000,
+    "description": "Sutton Dental Arts - a dental clinic providing a full range of dental services. Sutton Dental Arts corporate office is located in 1729 W Harvard Ave Ste 5, Roseburg, Oregon, 97471, United States and has 3 employees. The total amount of data leakage is 20.2 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3v0dg9uierlbnrhbcbbcnrzqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-03 15:17:07.12345",
+    "disclosedDate": "2024-04-04 17:00:21.511066"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-657-050931",
+  "type": "ransomware-incident",
+  "title": "seoulpi.io ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "seoulpi.io",
+    "domain": "seoulpi.io",
+    "country": "KR"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Seoul Property Insight (SPI) is a prominent player in the South Korean real estate sector, dedicated to providing comprehensive insights and analysis on commercial real estate investments.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/557bbe25f191d7449c3954822ef4b285.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vvdwxwas5pb0brawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-05 23:34:41.424122",
+    "disclosedDate": "2024-10-05 23:34:42.606668"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-1496CF",
+  "type": "ransomware-incident",
+  "title": "Perrigo Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Perrigo Company",
+    "domain": "perrigo.com",
+    "country": "IE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "termite",
+    "name": "termite",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Perrigo, founded in 1887 and headquartered in Dublin, Ireland, is a global healthcare supplier and manufacturer of private label over-the-counter pharmaceuticals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/632cc0fbaa965c0da2477b676f398734.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvycmlnbybdb21wyw55qhrlcm1pdgu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-14 20:40:21.666000",
+    "disclosedDate": "2025-03-14 22:20:50.562766"
+  }
+}

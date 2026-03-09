@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-660-24E00E",
+  "type": "ransomware-incident",
+  "title": "ARTIKA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ARTIKA.COM",
+    "domain": "artika.com",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Artika is a company based in Canada that specializes in modern lighting and plumbing solutions. Their catalog includes a variety of innovative, aesthetic and practical home improvement products like light fixtures, sinks, faucets and bathroom accessories. With a focus on design and functionality, Artika is renowned for their high-quality products that are widely sold in popular home improvement stores across North America.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvjusutblknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 17:27:59.544620",
+    "disclosedDate": "2025-01-24 17:27:59.544620"
+  }
+}

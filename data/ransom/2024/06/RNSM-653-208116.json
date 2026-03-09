@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-653-208116",
+  "type": "ransomware-incident",
+  "title": "BankSelfStorage ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BankSelfStorage",
+    "domain": "bankselfstorage.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We offer personal and business storage...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/09bd647d3517c4be310bd2e381589688.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfua1nlbgztdg9yywdlqgfyy3vzbwvkawe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-20 10:52:25.000000",
+    "disclosedDate": "2024-06-20 13:48:59.241214"
+  }
+}

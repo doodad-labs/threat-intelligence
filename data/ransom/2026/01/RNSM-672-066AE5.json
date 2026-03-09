@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-066AE5",
+  "type": "ransomware-incident",
+  "title": "www.swautomation.at ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.swautomation.at",
+    "domain": "swautomation.at",
+    "country": "AT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "sw-wireterminal.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/13c9a69723ecbbf3c42f2578dd0cffaa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnn3yxv0b21hdglvbi5hdebsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-06 06:11:14.421000",
+    "disclosedDate": "2026-01-06 06:52:19.917589"
+  }
+}

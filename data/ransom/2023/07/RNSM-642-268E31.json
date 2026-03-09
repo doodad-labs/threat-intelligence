@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-268E31",
+  "type": "ransomware-incident",
+  "title": "CF Assicurazioni ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CF Assicurazioni",
+    "domain": "cfassicurazioni.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CF Assicurazioni is an Italian insurance company. Has a wide client base. Ready to leak.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4f97b537287ee13b20384e9aa32c265e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0ygqxnzawn1cmf6aw9uaubhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 15:41:45.000000",
+    "disclosedDate": "2023-07-26 17:56:36.065738"
+  }
+}

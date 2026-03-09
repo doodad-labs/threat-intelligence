@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-196100",
+  "type": "ransomware-incident",
+  "title": "hubbell.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hubbell.com",
+    "domain": "hubbell.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "hubbell.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c18d9dadd9d99344cbb6414ed796da1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahviymvsbc5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-19 12:10:48.093149",
+    "disclosedDate": "2024-04-19 12:10:48.093149"
+  }
+}

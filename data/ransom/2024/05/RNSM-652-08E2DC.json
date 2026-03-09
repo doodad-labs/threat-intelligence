@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-652-08E2DC",
+  "type": "ransomware-incident",
+  "title": "Northeast Orthopedics and Sports Medicine ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Northeast Orthopedics and Sports Medicine",
+    "domain": "neosmteam.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dan0n",
+    "name": "dAn0n",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1560000000000,
+    "description": "Northeast Orthopedics and Sports Medicine is a company that operates in the Hospital & Health Care industry. The total size of stolen information is 1.56TB.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b334fd46abdc3c97de0f13d8830cacbe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9ydghlyxn0ie9ydghvcgvkawnzigfuzcbtcg9ydhmgtwvkawnpbmvazefumg4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-08 00:00:00.000000",
+    "disclosedDate": "2024-05-08 22:33:21.222383"
+  }
+}

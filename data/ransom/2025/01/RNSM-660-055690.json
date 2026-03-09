@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-055690",
+  "type": "ransomware-incident",
+  "title": "Hunter Taubman Fischer & Li ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hunter Taubman Fischer & Li",
+    "domain": "htflawyers.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A lot of confedential data will be published within 2 days",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/70b04fcc328a7be0eae23a4d40796baf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/shvudgvyifrhdwjtyw4grmlzy2hlciamiexpqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-05 12:51:53.215000",
+    "disclosedDate": "2025-01-05 13:20:04.429448"
+  }
+}

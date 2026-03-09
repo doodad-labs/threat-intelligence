@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-230157",
+  "type": "ransomware-incident",
+  "title": "BBBIND.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BBBIND.COM",
+    "domain": "bbbind.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] BBBIND.COM is a leading American company specialized in automotive aftermarket parts. It sells premium parts, particularly offering high-quality rotating electrical products. The company’s product portfolio includes alternators, starters, brake calipers, power steering products, etc. They also provide their customers with technical diagnostic support and information to ensure the correct product usage.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ff183ead0162c87bca82424826ef7424.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkjcsu5elknptubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-23 07:29:27.354250",
+    "disclosedDate": "2025-01-23 07:29:27.354250"
+  }
+}

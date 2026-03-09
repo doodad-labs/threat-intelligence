@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-20E334",
+  "type": "ransomware-incident",
+  "title": "Augusta Industrial Services, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Augusta Industrial Services, Inc.",
+    "domain": "augustaindustrial.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Augusta Industrial Services, Inc. is an Employee Owned industrial and environmental cleaning service company providing pipe, tank, drain, vacuum excavation, and waste services for commercial, industrial, and nuclear customers in the southeastern United States. Augusta Industrial Services corporate office is located in 15 Lovers Ln 1428, Augusta, Georgia, 30916, United States and has 90 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fd5798f5f3b0df78413fe9c0bcbb74b9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxvndxn0ysbjbmr1c3ryawfsifnlcnzpy2vzlcbjbmmuqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-17 18:46:31.000000",
+    "disclosedDate": "2025-03-20 16:12:14.975972"
+  }
+}

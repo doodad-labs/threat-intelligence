@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-3178FD",
+  "type": "ransomware-incident",
+  "title": "CyPark Resources Berhad ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CyPark Resources Berhad",
+    "domain": "cypark.com",
+    "country": "MY",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "blackshrantac",
+    "name": "blackshrantac",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] CyPark Resources Berhad is a Malaysian company specializing in renewable energy, environmental engineering, and landscaping infrastructure. They engage in various large-scale projects dealing with solid waste management and renewable energy sources. Additionally, the company provides solutions like landfill construction, waste treatment technologies, and landscape services for various sectors.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/746f7a2598dfeb14bd65cedf3b3affd1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q3lqyxjrifjlc291cmnlcybczxjoywraymxhy2tzahjhbnrhyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-31 01:21:20.816084",
+    "disclosedDate": "2025-10-31 01:21:47.472157"
+  }
+}

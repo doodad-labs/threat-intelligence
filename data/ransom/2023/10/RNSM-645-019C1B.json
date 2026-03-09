@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-019C1B",
+  "type": "ransomware-incident",
+  "title": "thermae.nl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "thermae.nl",
+    "domain": "thermae.nl",
+    "country": "NL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wellness hotel arrangementen",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a8f3704fcb66823a2cbb8115dbdca56b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghlcm1hzs5ubebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-01 22:57:00.000000",
+    "disclosedDate": "2023-10-01 23:41:25.688356"
+  }
+}

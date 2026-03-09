@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-14291B",
+  "type": "ransomware-incident",
+  "title": "Berexco LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Berexco LLC",
+    "domain": "berexco.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Berexco is an independent oil and gas exploration and production company headquartered in Wichita, Kansas.Employees contacts, credit cards with CCV, internal financial documentation, contacts of service providers will be uploaded soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvyzxhjbybmtenaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-13 09:44:27.328666",
+    "disclosedDate": "2024-11-14 09:44:28.324073"
+  }
+}

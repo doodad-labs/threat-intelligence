@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-647-060F1D",
+  "type": "ransomware-incident",
+  "title": "ACCU Reference Medical Lab ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ACCU Reference Medical Lab",
+    "domain": "accureference.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1200000000000,
+    "description": "ACCU Reference Medical Lab is a New Jersey-based full-service medical testing laboratory. Established in 2005, ACCU Reference Medical Lab serves healthcare providers in 19 states and employs over 750 professionals. The main office of the company is located at 1901 E Linden Ave Unit 25, Linden, New Jersey, 07036, United States. Over 1.2TB of data has been uploaded.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e327223dde98b41fc9dcf5c8f0ab3e91.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qundvsbszwzlcmvuy2ugtwvkawnhbcbmywjabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-06 06:45:46.12345",
+    "disclosedDate": "2023-12-06 08:54:56.973787"
+  }
+}

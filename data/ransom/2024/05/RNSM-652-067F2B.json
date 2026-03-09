@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-652-067F2B",
+  "type": "ransomware-incident",
+  "title": "yucatan.gob.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "yucatan.gob.mx",
+    "country": "MX",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Conoce las noticias, programas, servicios y atractivos turísticos de Yucatán. Accede a la cuenta pública, el diario oficial, los pagos en línea y más información del gobierno estatal.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/60ff3ae5de55e1a93eff12d27e51b6ed.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/exvjyxrhbi5nb2iubxhabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-06 13:01:00.000000",
+    "disclosedDate": "2024-05-06 13:30:59.909726"
+  }
+}

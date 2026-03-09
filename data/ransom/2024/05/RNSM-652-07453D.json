@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-07453D",
+  "type": "ransomware-incident",
+  "title": "lenmed.co.za ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lenmed.co.za",
+    "domain": "lenmed.co.za",
+    "country": "MZ",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Maputo Private Hospital is Mozambique’s first multidisciplinary hospital. It is equipped with cutting edge facilities and is located in the heart of Maputo. The hospital offers services in both English & Portuguese.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/72e47a7f62150b638d80903995c8d7f6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgvubwvklmnvlnphqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-07 08:55:00.000000",
+    "disclosedDate": "2024-05-07 10:42:22.262079"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-654-054906",
+  "type": "ransomware-incident",
+  "title": "National Health Laboratory Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "National Health Laboratory Services",
+    "domain": "nhls.ac.za",
+    "country": "ZA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The National Health Laboratory Service (NHLS) is a large diagnostic pathology service in South Africa",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/73cabdb4a1808b037eb7b5ae8be1b101.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf0aw9uywwgsgvhbhroiexhym9yyxrvcnkgu2vydmljzxnaymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.citizen.co.za/news/nhls-hit-by-ransomware-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-05 12:08:10.179335",
+    "disclosedDate": "2024-07-05 12:08:10.754998"
+  }
+}

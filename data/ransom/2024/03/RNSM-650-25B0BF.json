@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-650-25B0BF",
+  "type": "ransomware-incident",
+  "title": "Calida ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Calida",
+    "domain": "calida.com.au",
+    "country": "AU",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 26000000000,
+    "description": "Calida was established in 2008 as a high end retail, hospitality and commercial building and project management company. 26GB of data will uploaded soon. HR files, financial and accounting data, some project information can be found inside.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fsawrhqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-25 17:49:49.068455",
+    "disclosedDate": "2024-03-25 17:49:49.248800"
+  }
+}

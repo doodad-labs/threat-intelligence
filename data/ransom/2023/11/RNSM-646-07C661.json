@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-07C661",
+  "type": "ransomware-incident",
+  "title": "Hopewell Area School District ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hopewell Area School District",
+    "domain": "hopewell.k12.pa.us",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hopewell Area School District contains 5 schools (Hopewell Elementary, Independence Elementary, Margaret Ross Elementary, Hopewell Memorial Junior High School, Hopewell High School) and 2,107 students. The school district is located in Beaver County, Pennsylvania, USA. It serves the townships of Hopewell, Raccoon, and Independence.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bdf859376636ff6a654d9fc41f06626c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9wzxdlbgwgqxjlysbty2hvb2wgrglzdhjpy3rabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-07 09:05:13.12345",
+    "disclosedDate": "2023-11-07 10:04:05.013023"
+  }
+}

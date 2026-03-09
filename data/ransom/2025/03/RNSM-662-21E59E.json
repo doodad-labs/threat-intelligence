@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-21E59E",
+  "type": "ransomware-incident",
+  "title": "www.gestionquintessence.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.gestionquintessence.com",
+    "domain": "gestionquintessence.com",
+    "country": "CA",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Gestion Quintessence is a financial management company based in Quebec, Canada. It ensures optimal management of your family, personal, and business wealth. They provide services such as financial planning, tax planning, investment strategies, risk management, etc. Their professionals are dedicated to offering comprehensive support for various financial needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c10201aefd0ba187b8f0266d8fe000d1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmdlc3rpb25xdwludgvzc2vuy2uuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-21 16:19:00.000000",
+    "disclosedDate": "2025-03-21 19:04:36.166927"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-29C2F0",
+  "type": "ransomware-incident",
+  "title": "bridgecast.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bridgecast.ca",
+    "domain": "bridgecast.ca",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8e3dca6bbeb47284c34a49a315bf2317.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjpzgdly2fzdc5jyubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-29 02:48:56.571463",
+    "disclosedDate": "2025-05-29 02:50:14.251380"
+  }
+}

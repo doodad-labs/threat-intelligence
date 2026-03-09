@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-092522",
+  "type": "ransomware-incident",
+  "title": "Siltech (siltechcorp.local) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Siltech (siltechcorp.local)",
+    "domain": "siltech.com",
+    "country": "CA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Siltech has two modern plants, one located in Toronto, Canada and the other in Mississauga, Canada. Both plants are equipped with efficient, large-scale, high-temperature and pressure reactors, thin film evaporators and other modern equipment required in such unit processes as equilibration, hydrosylilation, quaternization, amidation, phosphation, esterification, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/395ded7a1b9bf55cb2a36e556dea506a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2lsdgvjacaoc2lsdgvjagnvcnaubg9jywwpqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-09 10:41:56.764000",
+    "disclosedDate": "2024-11-09 12:17:18.451591"
+  }
+}

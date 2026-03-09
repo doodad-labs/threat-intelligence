@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-657-241DB9",
+  "type": "ransomware-incident",
+  "title": "Apache Mills, Inc. (apachemills.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Apache Mills, Inc. (apachemills.com)",
+    "domain": "apachemills.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 27000000000,
+    "description": "27 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/08897754ec1bd766e933897107f39497.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxbhy2hlie1pbgxzlcbjbmmuichhcgfjagvtawxscy5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-24 00:00:00.000000",
+    "disclosedDate": "2024-10-24 14:05:46.278110"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-649-104031",
+  "type": "ransomware-incident",
+  "title": "mranet.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mranet.org",
+    "domain": "mranet.org",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000000,
+    "description": "mranet.org 3Tb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bxjhbmv0lm9yz0bhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-10 17:42:32.489389",
+    "disclosedDate": "2024-02-10 17:42:32.489411"
+  }
+}

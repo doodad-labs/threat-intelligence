@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-04E85C",
+  "type": "ransomware-incident",
+  "title": "albazaar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "albazaar",
+    "domain": "albazaar.shop",
+    "country": "QA"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Albazaar is a company known for its innovative approach to e-commerce, specializing in connecting local artisans and small businesses with a broader customer base. It emphasizes ethical sourcing and sustainability, offering a platform for unique, handcrafted products. Albazaar supports community development by promoting fair trade practices and fostering cultural appreciation through its diverse product offerings.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0994cbb7524c551b4ce4d4ec83f7835c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxiyxphyxjaznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-04 06:34:22.376703",
+    "disclosedDate": "2024-12-04 06:34:24.897845"
+  }
+}

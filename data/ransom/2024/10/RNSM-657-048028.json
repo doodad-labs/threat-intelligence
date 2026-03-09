@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-657-048028",
+  "type": "ransomware-incident",
+  "title": "GenPro Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GenPro Inc.",
+    "domain": "genproinc.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "\"Genpro, Inc. is an integrated 3PL with over 30 years of experience and a deep bench of proven professionals on both the shipper and carrier side. Real-time market intelligence keeps our shippers and carriers up-to-date on current pricing, availability and market trends. Our advanced technology facilitates data connectivity across platforms and systems. We're recognized as a trusted advisor, liaison, and partner for logistics planning and solutions in the most demanding, competitive and time sensitive applications.\"",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/341176e1849241083ee785cd5642faca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2vuuhjvieluyy5aymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/861d1ab0-c9bf-4817-9f5c-1cd798fa769b.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-24 00:00:00.000000",
+    "disclosedDate": "2024-10-04 15:48:06.376991"
+  }
+}

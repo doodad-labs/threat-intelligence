@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-650-01700D",
+  "type": "ransomware-incident",
+  "title": "SBM & Co ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SBM & Co",
+    "domain": "sbmaccountancy.co.uk",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Established in 1993, we have many years of experience in assisting clients with accounting and taxation matters. We assist businesses and individuals as well as specialized industries. Our clients range from owner-managed businesses to those listed on the London Stock Exchange.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0abbc15eba3eedbd02cf9305aa3fced8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0jnicygq29aywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-01 21:48:37.123456",
+    "disclosedDate": "2024-03-01 22:16:37.509891"
+  }
+}

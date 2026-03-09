@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-296DD3",
+  "type": "ransomware-incident",
+  "title": "Co-op Agro Centre ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Co-op Agro Centre",
+    "domain": "agro.crs",
+    "country": "CA",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "Co-op Agro Centre is a company that operates in the Home Improvement & Hardware Retail industry.We are ready to upload more than 50 GB of internal corporate documents including: employee medical documents, personal employmentsdata with SSN and SIN, and some internal confidential documents.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q28tb3agqwdybybdzw50cmvaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 00:00:00.000000",
+    "disclosedDate": "2024-11-29 13:00:15.649927"
+  }
+}

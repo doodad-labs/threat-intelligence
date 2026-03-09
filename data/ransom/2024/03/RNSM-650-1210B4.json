@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-1210B4",
+  "type": "ransomware-incident",
+  "title": "Kenneth Young Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kenneth Young Center",
+    "domain": "kennethyoung.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kenneth Young Center is a community-based non-profit, comprehensive provider of mental health and senior citizens' support services. Kenneth Young Center corporate office is located in 1001 Rohlwing Rd, Elk Grove Village, Illinois, 60007, United States and has 200 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2vubmv0acbzb3vuzybdzw50zxjabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-11 18:19:15.12345",
+    "disclosedDate": "2024-03-12 13:26:56.069484"
+  }
+}

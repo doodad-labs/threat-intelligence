@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-648-054D9D",
+  "type": "ransomware-incident",
+  "title": "ips-securex.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ips-securex.com",
+    "domain": "ips-securex.com",
+    "country": "SG",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Formed in 1991 and with offices and partners throughout Asia Pacific, IPS Securex has successfully implemented many complex integrated security systems throughout the region and has established a reputation for delivering customized solutions on time...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ac8c5c56df482a297c8a86589ef007b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axbzlxnly3vyzxguy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.theedgesingapore.com/news/company-news/ips-securexs-servers-hacked-no-evidence-data-exfiltration-cyberattack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-05 11:15:00.000000",
+    "disclosedDate": "2024-01-05 13:06:35.283635"
+  }
+}

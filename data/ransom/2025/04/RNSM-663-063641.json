@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-063641",
+  "type": "ransomware-incident",
+  "title": "Bosshard-Farben AG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bosshard-Farben AG",
+    "domain": "bosshard-farben.ch",
+    "country": "CH",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[IA generated] Swiss company specializing in the production of paints, varnishes, and glazes for building and wood protection,",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qm9zc2hhcmqtrmfyymvuiefhqgnsb2fr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.inside-it.ch/cyberangriff-trifft-bosshard-farben-20250403",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-28 00:00:00.000000",
+    "disclosedDate": "2025-04-06 08:00:17.163945"
+  }
+}

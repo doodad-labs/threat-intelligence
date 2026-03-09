@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-657-210D98",
+  "type": "ransomware-incident",
+  "title": "Schweiger Transport (schweiger-gmbh.de) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Schweiger Transport (schweiger-gmbh.de)",
+    "domain": "schweiger-gmbh.de",
+    "country": "DE",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 118000000000,
+    "description": "118 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9cb495ad090bc643fa8c45f9f25fdea6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2nod2vpz2vyifryyw5zcg9ydcaoc2nod2vpz2vylwdtymguzgupqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-21 00:00:00.000000",
+    "disclosedDate": "2024-10-21 16:33:31.636835"
+  }
+}

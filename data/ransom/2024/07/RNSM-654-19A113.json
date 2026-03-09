@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-19A113",
+  "type": "ransomware-incident",
+  "title": "glsco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "glsco.com",
+    "domain": "glsco.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We here at Great Lakes Supply eat, breathe, and sleep PTACs. We know them all,  sell them all and stock them all. We proudly serve the hospitality, health care, assisted  living, educational and multi-family housing industries, and enjoy having an...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b61e09899e46cbae1e4d912c72d6caaa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2xzy28uy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-18 14:50:00.000000",
+    "disclosedDate": "2024-07-19 09:24:07.400825"
+  }
+}

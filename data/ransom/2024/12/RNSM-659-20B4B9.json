@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-20B4B9",
+  "type": "ransomware-incident",
+  "title": "tabocas.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tabocas.com.br",
+    "domain": "tabocas.com.br",
+    "country": "BR",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Tabocas is a Brazilian company specializing in the production and distribution of electricity through renewable energy sources. They focus primarily on wind and solar power projects, contributing to sustainable energy development in Brazil. The company is committed to environmental responsibility and innovation, working to expand its portfolio while promoting clean energy solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/359cc28abdbd96538098137df3bac417.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgfib2nhcy5jb20uynjacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-20 00:00:00.000000",
+    "disclosedDate": "2024-12-20 15:27:28.461274"
+  }
+}

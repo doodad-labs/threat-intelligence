@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-656-11AA5D",
+  "type": "ransomware-incident",
+  "title": "allamericanpoly.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "allamericanpoly.com",
+    "domain": "allamericanpoly.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All American Poly is a company specializing in the production of polyethylene film and related products. They offer a range of items including custom and standard plastic bags, sheeting, tubing, and shrink films. Known for high-quality materials and customer-focused service, they cater to various industries such as food, medical, and industrial sectors, ensuring reliable and durable packaging solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2f7bbdd4ee7091ffdbfc0950717d3d09.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxsyw1lcmljyw5wb2x5lmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.jdsupra.com/legalnews/all-american-poly-confirms-data-breach-5772041/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-20 00:00:00.000000",
+    "disclosedDate": "2024-09-11 20:33:18.287707"
+  }
+}

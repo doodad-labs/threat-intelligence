@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-09745F",
+  "type": "ransomware-incident",
+  "title": "Navarra & Marzano ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Navarra & Marzano",
+    "domain": "studionamar.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 8000000000,
+    "description": "Electronic accounting data processing.Geo: Italy - Leak size: 22,8 GB Archive - Contains: Files, SQL",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf2yxjyysamie1hcnphbm9ac2fyy29tyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-09 19:58:13.211106",
+    "disclosedDate": "2024-10-09 19:58:13.507554"
+  }
+}

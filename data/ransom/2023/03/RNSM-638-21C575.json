@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-638-21C575",
+  "type": "ransomware-incident",
+  "title": "igadiltd.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "igadiltd.com",
+    "domain": "igadiltd.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 84000000000,
+    "description": "IgadI  84Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awdhzglsdgquy29tqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-21 09:55:39.355816",
+    "disclosedDate": "2023-03-21 09:55:39.355837"
+  }
+}

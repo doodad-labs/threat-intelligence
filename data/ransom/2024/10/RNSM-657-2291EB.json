@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-2291EB",
+  "type": "ransomware-incident",
+  "title": "dennissupply.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dennissupply.com",
+    "domain": "dennissupply.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dennis Supply is a company specializing in the distribution of HVACR (Heating, Ventilation, Air Conditioning, and Refrigeration) equipment and supplies. They offer a wide range of products, including parts and tools for both residential and commercial applications. Known for their customer service and technical support, Dennis Supply serves contractors, technicians, and businesses across the industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/20cbe95a7560aa02cccc0f3c57cc2573.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvubmlzc3vwcgx5lmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-22 10:04:02.000000",
+    "disclosedDate": "2024-10-22 11:19:02.513656"
+  }
+}

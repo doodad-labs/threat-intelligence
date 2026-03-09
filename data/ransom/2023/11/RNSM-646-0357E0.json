@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-0357E0",
+  "type": "ransomware-incident",
+  "title": "tasl.co.th ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tasl.co.th",
+    "domain": "tasl.co.th",
+    "country": "TH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Thai Aviation Services",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/84227458acf0ad035a5656e6bb3dd71b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgfzbc5jby50aebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-03 18:18:00.000000",
+    "disclosedDate": "2023-11-03 19:02:44.615844"
+  }
+}

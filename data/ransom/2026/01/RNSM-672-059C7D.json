@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-059C7D",
+  "type": "ransomware-incident",
+  "title": "www.braemac.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.braemac.com",
+    "domain": "braemac.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Braemac, headquartered in Sydney Australia, and founded in 1986, is an electronics distribution company providing component distribution, design to manufacture services, and logistics and supply chain solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8031f4fcee708bd84ab9da526cef9b36.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmjyywvtywmuy29tqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 08:31:25.489000",
+    "disclosedDate": "2026-01-05 09:32:17.089220"
+  }
+}

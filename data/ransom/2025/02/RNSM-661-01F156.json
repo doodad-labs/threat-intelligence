@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-01F156",
+  "type": "ransomware-incident",
+  "title": "DATACONSULTANTS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DATACONSULTANTS.COM",
+    "domain": "dataconsultants.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] DATACONSULTANTS.COM is a company which provides comprehensive IT solutions and consulting services. The company's main focus is on providing data management, IT consulting, project management, and software development for businesses of all sizes. Leveraging a team of experienced professionals, DATACONSULTANTS.COM helps companies effectively utilize their information technology resources, ultimately driving business growth and goals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b730c2e93c502571c68e2efd9753b3b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/refuqunptlnvtfrbtlrtlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-01 19:07:30.780490",
+    "disclosedDate": "2025-02-01 19:07:30.780490"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-193F1E",
+  "type": "ransomware-incident",
+  "title": "inphenix.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "inphenix.com",
+    "domain": "inphenix.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Inphenix designs and manufactures lasers and light sources that are critical in state of the art applications in the medical, telecom, sensing and measurement industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/99114dc119f0c21b12e06e90e5a4104a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw5wagvuaxguy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-11 10:18:00.000000",
+    "disclosedDate": "2024-04-19 10:56:09.693926"
+  }
+}

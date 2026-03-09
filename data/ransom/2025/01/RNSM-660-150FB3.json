@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-150FB3",
+  "type": "ransomware-incident",
+  "title": "Woodport Doors ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Woodport Doors",
+    "domain": "woodportdoors.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Woodport Doors offers more than 40 wood species. View the full list of standard offerings to your left. Looking for a specific wood material not shown here? Let us know what you want and we'll find it for you",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cbf7745652456566dda82ac4521e104f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v29vzhbvcnqgrg9vcnnabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 00:00:00.000000",
+    "disclosedDate": "2025-01-15 15:30:51.951785"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-06585A",
+  "type": "ransomware-incident",
+  "title": "icae.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "icae.net",
+    "domain": "icae.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "This organization primarily operates in the Computer Related Consulting Services business industry within the Business Services sector.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bacee4487c247a45d3f43de9cedac83f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awnhzs5uzxrabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-06 11:57:00.000000",
+    "disclosedDate": "2023-06-06 12:55:37.213237"
+  }
+}

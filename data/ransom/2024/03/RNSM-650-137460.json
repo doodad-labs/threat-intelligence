@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-137460",
+  "type": "ransomware-incident",
+  "title": "Forstinger Österreich GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Forstinger Österreich GmbH",
+    "domain": "forstinger.com",
+    "country": "AT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "FORSTINGER will take care of everything you need for your cars! Forstinger is a leading Austrian supplier of automotive accessories and offers in more than 70 stores not only everything related to the car, but also products for outdoor enthusiasts, mobile people such as motorcyclists and cyclists.forstinger.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1791f36e45f45b4f86bc846fd4cdc087.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rm9yc3rpbmdlciddlnn0zxjyzwljacbhbwjiqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-13 00:00:00.000000",
+    "disclosedDate": "2024-03-13 05:50:19.751919"
+  }
+}

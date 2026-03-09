@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-04B250",
+  "type": "ransomware-incident",
+  "title": "Nerim ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nerim",
+    "domain": "nerim.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "vicesociety",
+    "name": "vicesociety",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Nerim is a full service operator fulfilling the full range of communications needs of SMBs and local government since 1999. Nerim offers broadband connectivity, enterprise telephony, server hosting and network security services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7cd7a9961beff4b644e7bec7ac4cc81a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmvyaw1admljzxnvy2lldhk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-04 21:59:07.004634",
+    "disclosedDate": "2023-06-04 21:59:07.004656"
+  }
+}

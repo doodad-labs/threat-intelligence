@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-669-04D902",
+  "type": "ransomware-incident",
+  "title": "Corban OneSource ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Corban OneSource",
+    "domain": "corbanone.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Corban OneSource, USA - maximize risks to compliance. Company provides comprehensive HR outsourcing services, including payroll administration, employee benefits management, and HR support, aimed at reducing risks and improving organizational            ...",
+    "claimed_data_types": [
+      "financial-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7245f85405c6d494636ab3910ce7be03.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29yymfuie9uzvnvdxjjzubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-03 00:00:00.000000",
+    "disclosedDate": "2025-10-04 00:43:16.929834"
+  }
+}

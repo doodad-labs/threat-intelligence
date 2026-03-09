@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-29FDF8",
+  "type": "ransomware-incident",
+  "title": "greenside-sch.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "greenside-sch.org",
+    "domain": "greenside-sch.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Education School",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e69c4a40e3f983e2d6fd97401ed6427a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jlzw5zawrllxnjac5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-29 19:48:00.000000",
+    "disclosedDate": "2023-08-29 20:42:37.577553"
+  }
+}

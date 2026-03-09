@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-197F42",
+  "type": "ransomware-incident",
+  "title": "The InterTech Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The InterTech Group",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 17000000000,
+    "description": "The InterTech Group is a holding company based in North Charleston, South Carolina, focused on investments, diversification, and opportunity creation.We will upload 17gb of corporate documents soon. Detailed personal employee data (SSNs, passports, driver licenses, Mexican ID's, personal phones, addresses, addresses emails), employee relativesdata will be available as well, confidentiality agreements, financials and accounting, contracts and agreements, clients' information, NDA, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlieludgvyvgvjacbhcm91cebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-19 00:00:00.000000",
+    "disclosedDate": "2025-11-19 14:44:08.022452"
+  }
+}

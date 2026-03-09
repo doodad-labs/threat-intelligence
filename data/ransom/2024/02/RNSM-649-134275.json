@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-134275",
+  "type": "ransomware-incident",
+  "title": "The Source ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Source",
+    "domain": "thesource.ca",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Source Electronics Inc., doing business as The Source, is a Canadian consumer electronics and cell phone retail chain. The chain goes back over 40 years in Canada, initially as Radio Shack and later as The Source by Circuit City.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4472aeebd1286aa045544d377fca3ac0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifnvdxjjzubhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-13 11:57:45.123456",
+    "disclosedDate": "2024-02-13 13:11:40.112585"
+  }
+}

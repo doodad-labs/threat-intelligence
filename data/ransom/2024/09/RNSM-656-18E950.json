@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-18E950",
+  "type": "ransomware-incident",
+  "title": "www.plumbersstock.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.plumbersstock.com",
+    "domain": "plumbersstock.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PlumbersStock is an online retailer specializing in plumbing, HVAC, and irrigation supplies. It offers a wide range of products including faucets, toilets, pipe fittings, and tools from leading brands. The company caters to both homeowners and professionals, providing quality products at competitive prices with a focus on customer service and fast delivery.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0417b335d49c54c79c8299ea6f74f47e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnbsdw1izxjzc3rvy2suy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-03 00:00:00.000000",
+    "disclosedDate": "2024-09-18 09:14:37.102810"
+  }
+}

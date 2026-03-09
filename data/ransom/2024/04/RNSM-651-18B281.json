@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-18B281",
+  "type": "ransomware-incident",
+  "title": "ht-hospitaltechnik.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ht-hospitaltechnik.de",
+    "domain": "ht-hospitaltechnik.de",
+    "country": "DE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blackout",
+    "name": "blackout",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Why don't medical companies pay us? As usual we got into the network ht-h...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6cceca4e590dacc3c3a793a9d437a984.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahqtag9zcgl0ywx0zwnobmlrlmrlqgjsywnrb3v0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-18 13:33:35.020852",
+    "disclosedDate": "2024-04-18 13:33:35.020896"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-661-24DA66",
+  "type": "ransomware-incident",
+  "title": "Metro Supply Chain Group. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Metro Supply Chain Group.",
+    "domain": "metroscg.com",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have balance sheets, billings, budgets and other financial data and employee personal data ...Data will be published on our blog in 5 days...",
+    "claimed_data_types": [
+      "financial-data",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/472bd31814e89a141170eab110a339ea.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twv0cm8gu3vwcgx5ienoywluiedyb3vwlkbxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-24 00:00:00.000000",
+    "disclosedDate": "2025-02-24 13:55:34.465131"
+  }
+}

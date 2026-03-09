@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-162921",
+  "type": "ransomware-incident",
+  "title": "Acqua development ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Acqua development",
+    "domain": "acqua.ro",
+    "country": "RO"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: Acqua development, QBurst, Pamyra.de",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c6ae07a53cb8723c6a9ec68dd038f564.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnxdwegzgv2zwxvcg1lbnrazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-16 11:04:26.750605",
+    "disclosedDate": "2025-02-16 11:04:28.034838"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-30A962",
+  "type": "ransomware-incident",
+  "title": "wheel-king ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wheel-king",
+    "domain": "wheelkingtranshaul.com",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wheel King Transhaul Inc. is a privately held Canadian company with dedicated fleet services as its core business. Our company is built upon the values and work ethics that are foundational to family operated businesses. We offer our custome            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2hlzwwta2luz0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-29 00:00:00.000000",
+    "disclosedDate": "2025-05-30 13:15:19.983327"
+  }
+}

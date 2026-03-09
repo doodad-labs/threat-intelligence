@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-307B80",
+  "type": "ransomware-incident",
+  "title": "grant-associates.uk.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "grant-associates.uk.com",
+    "domain": "grant-associates.uk.com",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Grant Associates is a landscape architecture firm based in the UK, known for integrating nature and urban environments. They focus on sustainable, innovative design solutions that enhance biodiversity and community well-being. Their projects often blend creative landscape architecture with ecological sensitivity, aiming to create spaces that are both functional and inspiring.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/19b98bba933ab35405b9c4edf06361f4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jhbnqtyxnzb2npyxrlcy51ay5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-30 19:56:47.000000",
+    "disclosedDate": "2024-08-30 22:40:49.229394"
+  }
+}

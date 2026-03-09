@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-269A1C",
+  "type": "ransomware-incident",
+  "title": "glnf.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "glnf.fr",
+    "domain": "glnf.fr",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "La Grande Loge nationale française (abrégé en GLNF) est une obédience maçonnique française fondée en 1913 sous le nom de « Grande Loge nationale indépendante et régulière pour la France et ses colonies",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2xuzi5mckbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-02 00:00:00.000000",
+    "disclosedDate": "2024-07-26 02:53:49.037977"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-11D984",
+  "type": "ransomware-incident",
+  "title": "Barber Specialties ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Barber Specialties",
+    "domain": "barberspec.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f5fbf5b00363161b743ee0b0617625f6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfyymvyifnwzwnpywx0awvzqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-11 12:26:33.652789",
+    "disclosedDate": "2025-01-11 12:26:36.346115"
+  }
+}

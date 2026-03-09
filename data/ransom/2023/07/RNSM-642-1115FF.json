@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-1115FF",
+  "type": "ransomware-incident",
+  "title": "ARVATO.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ARVATO.COM",
+    "domain": "arvato.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Arvato - E-Commerce & Logistik",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1c91c36278a37c289bc8aec22587b4d2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvjwqvrplknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-11 18:01:15.145452",
+    "disclosedDate": "2023-07-11 18:01:15.145472"
+  }
+}

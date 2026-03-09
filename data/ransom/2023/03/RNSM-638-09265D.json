@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-638-09265D",
+  "type": "ransomware-incident",
+  "title": "Walker SCM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Walker SCM",
+    "domain": "walkerscm.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Walker SCM, LLC provides Global Supply Chain Services ranging from Transportation (Air and Ocean Freight Forwarding) to Warehousing Solutions that also include specialized value added services. We have stolen from their network 20GB in total, including: HR;Work files;Finance;Clients and others.Feel free to check!Archive password: 4+\"JdvDyH[a4:o@9D,b$wy!'~W]~jrk/z_\"yiz<r",
+    "claimed_data_types": [
+      "passwords"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7b23071def5db6b5cf15a8222b771ed3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fsa2vyifndtubyb3lhba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-30 01:02:03.456789",
+    "disclosedDate": "2023-03-09 17:21:21.510811"
+  }
+}

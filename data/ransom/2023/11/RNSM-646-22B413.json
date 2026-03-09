@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-22B413",
+  "type": "ransomware-incident",
+  "title": "art-eco.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "art-eco.it",
+    "domain": "art-eco.it",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Art-Eco is a company specialising in the design, installation and servicing of eco-friendly and sustainable air-conditioning systems; it uses the most innovative evaporative cooling and electric radiant heating technologies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cf22b423c3046a4be608ade8a731703e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxj0lwvjby5pdebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-22 09:19:00.000000",
+    "disclosedDate": "2023-11-22 10:00:00.735398"
+  }
+}

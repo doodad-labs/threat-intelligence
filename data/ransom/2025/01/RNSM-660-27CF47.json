@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-27CF47",
+  "type": "ransomware-incident",
+  "title": "qed.co.ug ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "qed.co.ug",
+    "domain": "qed.co.ug",
+    "country": "UG",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] QED Solutions Ltd operates \"qed.co.ug\", a Ugandan-based recruitment platform connecting employers with potential employees. They offer a range of human resource services, including recruitment, consultancy and training. They cover various sectors including, but not limited to, finance, IT, sales, and the oil and gas industry. The platform serves entities seeking small to large workforces.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ae61cfd036f11edf422825268c4e5815.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cwvklmnvlnvnqgz1bmtzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 11:36:56.476038",
+    "disclosedDate": "2025-01-27 11:36:56.476038"
+  }
+}

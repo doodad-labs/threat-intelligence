@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-039F1E",
+  "type": "ransomware-incident",
+  "title": "cydsa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cydsa.com",
+    "domain": "cydsa.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cydsa, S.A.B. de C.V., together its subsidiaries, engages in the production and marketing of salt, chlorine, caustic soda, and refrigerant gases in Mexico, the United States, Canada, Central and South America, Asia, and Europe.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2183a5de570bdbc06ec1f2e1eae5afb3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3lkc2euy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-03 01:15:00.000000",
+    "disclosedDate": "2023-05-03 01:51:05.780729"
+  }
+}

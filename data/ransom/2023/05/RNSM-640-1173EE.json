@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-640-1173EE",
+  "type": "ransomware-incident",
+  "title": "Hermes Medical Solutions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hermes Medical Solutions",
+    "domain": "hermesmedical.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HMS delivers a complete Molecular Imaging Software Suite to visualize, process, analyze, report and archive imaging data from multiple modalities and devices.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvybwvzie1lzgljywwgu29sdxrpb25zqgjpyw5sawfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-11 17:47:49.663378",
+    "disclosedDate": "2023-05-11 17:47:49.663400"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10E54C",
+  "type": "ransomware-incident",
+  "title": "catchuplogistics.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "catchuplogistics.com",
+    "domain": "catchuplogistics.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Catchup Logistics is a full-service warehousing, distribution, and fulfillment company based in Pennsylvania, USA. With over 70 years of experience in the industry, Catchup Logistics offers a wide range of services including storage, pick & pack, cross-docking, and freight management. They serve clients across various industries such as Food & Beverage, Consumer Goods, and Industrial Supplies, ensuring timely and efficient delivery.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2f0y2h1cgxvz2lzdgljcy5jb21ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:47:11.591394",
+    "disclosedDate": "2025-02-10 19:47:18.775473"
+  }
+}

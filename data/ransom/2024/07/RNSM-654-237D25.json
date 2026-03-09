@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-237D25",
+  "type": "ransomware-incident",
+  "title": "CIMP.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CIMP.COM",
+    "domain": "cimp.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome to Consultants in Pain Medicine, PA.\r CPM is lead by a multi-disciplinary team of highly trained physicians. We strive to provide the latest in pain treatment options – offering superior clinical care, up-to-date techniques and the latest technology. Pain affects every aspect of the patient. Our preferred and most beneficial treatment is a multi-disciplinary approach.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fdd8bfdf69beddeffbf81dd741a3e5c6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0lnuc5dt01aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-08 07:24:46.778000",
+    "disclosedDate": "2024-07-23 06:55:58.601779"
+  }
+}

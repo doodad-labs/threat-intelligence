@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-18FE1D",
+  "type": "ransomware-incident",
+  "title": "thesoftwareconsultinggroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "thesoftwareconsultinggroup.com",
+    "domain": "thesoftwareconsultinggroup.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SCG is an independent licensing advisory firm that helps private and public organizations around the world understand, navigate and manage their software licensing. Our leading services and solutions reduce your costs, mitigate risk, and improve oper...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e2d51bf8f79cf3066a0d4251f320ec12.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghlc29mdhdhcmvjb25zdwx0aw5nz3jvdxauy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-18 00:43:00.000000",
+    "disclosedDate": "2023-04-18 01:48:01.420482"
+  }
+}

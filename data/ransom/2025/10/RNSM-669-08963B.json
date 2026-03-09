@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-08963B",
+  "type": "ransomware-incident",
+  "title": "Public Relations Society of America ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Public Relations Society of America",
+    "domain": "prsa.org",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1947, the Public Relations Society of America (PRSA) is a nationwide non-profit trade association serving the communications community and public relations professionals. It is headquartered in New York City, New York.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/878b259dc109377eb3cf9807bc16e714.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhvibgljifjlbgf0aw9ucybtb2npzxr5ig9mieftzxjpy2fac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-08 15:39:59.636000",
+    "disclosedDate": "2025-10-08 17:24:23.077903"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-154322",
+  "type": "ransomware-incident",
+  "title": "Aaren Scientific ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aaren Scientific",
+    "domain": "aareninc.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0c75d441a74fc7739542926dcfdcf32d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwfyzw4gu2npzw50awzpy0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-15 10:11:47.000000",
+    "disclosedDate": "2024-10-15 10:32:57.216289"
+  }
+}

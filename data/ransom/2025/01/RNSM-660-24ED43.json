@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-24ED43",
+  "type": "ransomware-incident",
+  "title": "www.pcm.com.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.pcm.com.mx",
+    "domain": "pcm.com.mx",
+    "country": "MX",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"www.pcm.com.mx\" is the official website for PCM Mexico, a branch of PCM Inc, a leading IT provider in North America. The company offers a broad range of products and services, such as networking, software, storage, and more. As a multi-vendor provider, PCM works with clients to provide IT solutions that meet their individual needs, enabling them to improve efficiency, simplify their operations, and grow their businesses.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b3155c1746496e18ffe6e6cf6cd6546f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnbjbs5jb20ubxhacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 18:49:14.262030",
+    "disclosedDate": "2025-01-24 18:50:27.817448"
+  }
+}

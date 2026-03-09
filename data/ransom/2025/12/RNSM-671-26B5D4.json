@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-26B5D4",
+  "type": "ransomware-incident",
+  "title": "agfri.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "agfri.com",
+    "domain": "agfri.com",
+    "country": "",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Our core business is designing and manufacturing products for the HVAC sector, offering the highest...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a8b653d3ecb58aa069a3fb4e01b6893d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywdmcmkuy29tqgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-25 16:18:00.000000",
+    "disclosedDate": "2025-12-26 15:24:59.697216"
+  }
+}

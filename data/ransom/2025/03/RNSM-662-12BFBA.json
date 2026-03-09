@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-12BFBA",
+  "type": "ransomware-incident",
+  "title": "HYPERNOVA TELECOM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HYPERNOVA TELECOM",
+    "domain": "hypernovatelecom.com.br",
+    "country": "BR",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Days06Hours23Minutes33332222Seconds33336767www.hypernovatelecom.com.brYou know that nowadays the internet is no longer a luxury, but …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/13ddeaf92263831cfcefe9f7aa330def.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sflqrvjot1zbifrftevdt01ayxjjdxntzwrpyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-12 02:10:26.000000",
+    "disclosedDate": "2025-03-12 03:48:21.663694"
+  }
+}

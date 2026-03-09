@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-656-2362AC",
+  "type": "ransomware-incident",
+  "title": "Avi Resort & Casino ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Avi Resort & Casino",
+    "domain": "avicasino.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 17000000000,
+    "description": "AVI Casino Enterprise, Inc., doing business as AVI Resort & Casino, provides lodging and hospitality services. We will upload 17Gbof their files soon. You will find employee personal docs, finance information, clients data. So, there are a lot of interesting files inside: credit cards, DLs, payment docs...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxzpifjlc29ydcamienhc2lub0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-23 17:33:35.584732",
+    "disclosedDate": "2024-09-23 17:33:37.194883"
+  }
+}

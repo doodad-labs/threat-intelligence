@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-02123C",
+  "type": "ransomware-incident",
+  "title": "Bluewater Health (CA) and others ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bluewater Health (CA) and others",
+    "domain": "bluewaterhealth.ca",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "daixin",
+    "name": "daixin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bluewater Health is a hospital in Sarnia, Ontario.      The  hospital now encompasses about 600,000 square feet (56,000 m2). It employs almost 1,800 staff and physicians, along with over 700 volunteers, and is Sarnia—Lambton's largest public sector employer.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmx1zxdhdgvyiehlywx0acaoq0epigfuzcbvdghlcnnazgfpeglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://london.ctvnews.ca/bluewater-health-says-250k-patients-compromised-by-cyber-attack-1.6638358",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-02 00:58:40.027894",
+    "disclosedDate": "2023-11-02 00:58:40.027916"
+  }
+}

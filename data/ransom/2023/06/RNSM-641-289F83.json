@@ -1,0 +1,46 @@
+{
+  "id": "RNSM-641-289F83",
+  "type": "ransomware-incident",
+  "title": "CentroMed ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CentroMed",
+    "domain": "centromedsa.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "karakurt",
+    "name": "karakurt",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 25000000000,
+    "description": "El Centro del Barrio (CDB), which started doing business as CentroMed in 2001, was founded in 1971 and ran one counseling program for children and adolescents. They lost 25 GB of their data, which contains several thousand ssns and other medical and health information. Accounting, financial, human resources data is also represented.",
+    "claimed_data_types": [
+      "government-identifiers"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/85a461d7575066a7cbf137d22841f0df.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2vudhjvtwvkqgthcmfrdxj0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.ksat.com/news/local/2024/05/17/centromed-computer-network-hacked-patients-personal-information-acquired-investigation-reveals/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-28 15:52:55.987871",
+    "disclosedDate": "2023-06-28 15:52:55.987892"
+  }
+}

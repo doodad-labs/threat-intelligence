@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-09C48C",
+  "type": "ransomware-incident",
+  "title": "Sumter County Sheriff ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sumter County Sheriff",
+    "domain": "sumtercountysheriff.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sumter County Sheriff The Sumter County Sheriff's Office is founded on the principles of integrity, respect, honesty, and caring for others.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vtdgvyienvdw50esbtagvyawzmqhjoexnpzge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.villages-news.com/2024/08/06/sumter-county-sheriffs-office-victim-of-ransomware-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-09 10:00:23.194355",
+    "disclosedDate": "2024-08-09 10:00:24.106743"
+  }
+}

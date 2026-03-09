@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-041D49",
+  "type": "ransomware-incident",
+  "title": "islandphoto.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "islandphoto.com",
+    "domain": "islandphoto.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Islandphoto.com is a photography company that specializes in capturing events and providing professional photography services. They focus on delivering high-quality images for events such as graduations, sports, and other special occasions. With a commitment to customer satisfaction, they offer various packages and products to preserve memorable moments with clarity and artistry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/69b215f7e19b14e3d5d25e929143d1b3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axnsyw5kcghvdg8uy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-04 15:52:45.000000",
+    "disclosedDate": "2024-12-04 18:14:51.944999"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-19F17A",
+  "type": "ransomware-incident",
+  "title": "KMC Controls ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KMC Controls",
+    "domain": "kmccontrols.com.hk",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/da0266c6c0c2d31cf4affc36c1b1f934.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s01dienvbnryb2xzqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-19 17:31:24.000000",
+    "disclosedDate": "2024-10-19 17:39:27.123742"
+  }
+}

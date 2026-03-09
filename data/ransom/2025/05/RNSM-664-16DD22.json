@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-16DD22",
+  "type": "ransomware-incident",
+  "title": "Keizer's Collision CSN & Automotive ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Keizer's Collision CSN & Automotive",
+    "domain": "keizers.ca",
+    "country": "CA",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Keizer's Collision Centre has been a family run business for the last 35 years. We are a licensed automotive repair shop.Revenue > $5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eb66dbbe5842cd925c3685f2df87f75f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2vpemvyj3mgq29sbglzaw9uienttiamief1dg9tb3rpdmvaymxhy2tsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:02:31.023537",
+    "disclosedDate": "2025-05-16 13:14:28.724509"
+  }
+}

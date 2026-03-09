@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-2362DF",
+  "type": "ransomware-incident",
+  "title": "FAAB Invest Advisors Private Limite... ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FAAB Invest Advisors Private Limite...",
+    "domain": "faab.in",
+    "country": "IN",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "FAAB Invest Advisors Private Limited operates a green investment platform offering fractional ownership in sustainable assets such as electric mobility, farmlands, and renewable energy projects. The company focuses on providing retail investors access to environmentally-friendly, asset-backed investment opportunities with potential for returns and portfolio diversification.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rkfbqibjbnzlc3qgqwr2axnvcnmguhjpdmf0zsbmaw1pdguuli5aa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-23 16:19:04.102057",
+    "disclosedDate": "2025-10-23 16:19:05.401136"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-649-125A8D",
+  "type": "ransomware-incident",
+  "title": "jacksonvillebeach.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jacksonvillebeach.org",
+    "domain": "jacksonvillebeach.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Jacksonville Beach, FL",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/99872c5f492c02781faa22f49c452abf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/amfja3nvbnzpbgxlymvhy2gub3jnqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://floridapolitics.com/archives/656098-jacksonville-beach-admits-city-tech-services-have-been-hacked/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 07:14:00.000000",
+    "disclosedDate": "2024-02-12 10:36:21.806439"
+  }
+}

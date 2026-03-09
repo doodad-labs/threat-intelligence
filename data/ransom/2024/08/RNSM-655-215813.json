@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-215813",
+  "type": "ransomware-incident",
+  "title": "www.pindrophearing.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.pindrophearing.co.uk",
+    "domain": "pindrophearing.co.uk",
+    "country": "GB",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We’re specialists in the diagnosis and treatment of hearing conditions, but just as important is our understanding that hearing loss can make peo...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2620488a25cc82f56317d837bdc96b30.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnbpbmryb3bozwfyaw5nlmnvlnvrqgfwddcz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-21 15:18:10.286360",
+    "disclosedDate": "2024-08-21 15:18:11.261294"
+  }
+}

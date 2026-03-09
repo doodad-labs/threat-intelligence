@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-1527DD",
+  "type": "ransomware-incident",
+  "title": "SystemPavers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SystemPavers",
+    "domain": "systempavers.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "System Pavers is a design and installation company in the outdoor remodel industry. System Pavers inc. corporate office is located in 1570 Brookhollow Dr, Santa Ana, California, 92705, United States and has 496 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2bd0fc16887ecd4fb78b17e878dc2d62.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3lzdgvtugf2zxjzqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-15 11:22:00.000000",
+    "disclosedDate": "2024-10-15 13:56:57.231908"
+  }
+}

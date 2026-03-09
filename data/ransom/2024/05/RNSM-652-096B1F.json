@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-096B1F",
+  "type": "ransomware-incident",
+  "title": "habeco.com.vn ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "habeco.com.vn",
+    "domain": "habeco.com.vn",
+    "country": "VN",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HABECO cam kết uống có trách nhiệm. Đó là lý do tại sao chúng tôi cần đảm bảo rằng bạn ở trên độ tuổi uống rượu hợp pháp và được phép xem trang web này một cách hợp pháp. Bằng cách nhấp vào xác nhận \"Tôi đã đủ 18 tuổi\" là bạn đồng ý với các điều khoả...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f1f0e1cbe51817c6eb27b0924b06c40b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfizwnvlmnvbs52bkbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-20 00:00:00.000000",
+    "disclosedDate": "2024-05-09 16:40:15.087197"
+  }
+}

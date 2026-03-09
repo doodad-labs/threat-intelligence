@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-11FCE0",
+  "type": "ransomware-incident",
+  "title": "Motor Components, LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Motor Components, LLC",
+    "domain": "facet-purolator.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We attacked this company 06.07.2023www.facet-purolator.comCompany internal documentsContact list with information about partners and clientsEmployee Data BaseChecks, invoicesFinancial indicators and balance sheetOfficial letters, faxesShipment information in different countriesConfidential data about employees and their salariesIT infrastructure with detailed network map and access",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5e45b75fe7e36f5e17b7aa10f7385326.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw90b3igq29tcg9uzw50cywgtexdqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-08 00:00:00.000000",
+    "disclosedDate": "2023-07-11 08:48:03.802002"
+  }
+}

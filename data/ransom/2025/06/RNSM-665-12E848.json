@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-12E848",
+  "type": "ransomware-incident",
+  "title": "apollomd.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "apollomd.com",
+    "domain": "apollomd.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 16.06.2025.ApolloMD is a fully integrated and coordinated national group practice,that partners with more than 100 leading medical facilities across the country to provide multidiscip            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/38037641709e7ec6df2dbffa2bcd790c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxbvbgxvbwquy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-06 00:00:00.000000",
+    "disclosedDate": "2025-06-12 10:04:39.490276"
+  }
+}

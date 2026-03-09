@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-26EC3D",
+  "type": "ransomware-incident",
+  "title": "Augusta Orthopedic ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Augusta Orthopedic",
+    "domain": "augustaortho.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Augusta-Aiken Orthopedic Specialists is a comprehensive medical and surgical practice devoted to the care of musculoskeletal problems.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxvndxn0ysbpcnrob3blzgljqgjpyw5sawfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-26 14:39:16.787533",
+    "disclosedDate": "2024-07-26 14:39:18.834456"
+  }
+}

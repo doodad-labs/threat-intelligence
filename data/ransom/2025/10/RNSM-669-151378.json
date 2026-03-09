@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-151378",
+  "type": "ransomware-incident",
+  "title": "Bay West ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bay West",
+    "domain": "baywest.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bay West LLC provides environmental consulting and remediation services for government and commercial enterprises. The company offers services in the areas of industrial storm water permitting and consulting; brownfield site assessment, clean            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4d5661eea044d9a107a9f9c4a1e1be22.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmf5ifdlc3racwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-15 00:00:00.000000",
+    "disclosedDate": "2025-10-15 13:50:27.308771"
+  }
+}

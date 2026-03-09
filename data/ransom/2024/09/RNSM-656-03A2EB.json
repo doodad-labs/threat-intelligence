@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-03A2EB",
+  "type": "ransomware-incident",
+  "title": "mcphillips.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mcphillips.co.uk",
+    "domain": "mcphillips.co.uk",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/MCPHILLIPS/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/MCPHILLIPS/PROOF/DATA DESCRIPTIONS: Personal Identifiable Information, customer information, engineering data\\drawings\\projects, employees\\executives personal data, financial documents, contracts, corporate correspondence, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/00735ea22cf60319dfd83c3fa10cd632.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwnwaglsbglwcy5jby51a0bjywn0dxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-23 00:00:00.000000",
+    "disclosedDate": "2024-09-03 20:35:14.346023"
+  }
+}

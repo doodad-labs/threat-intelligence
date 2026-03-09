@@ -1,0 +1,31 @@
+{
+  "id": "RNSM-667-173F88",
+  "type": "ransomware-incident",
+  "title": "houra ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "houra",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "warlock",
+    "name": "warlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The data has been bought by other buyers (not victims)",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ag91cmfad2fybg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-04 00:00:00.000000",
+    "disclosedDate": "2025-08-17 09:24:28.580760"
+  }
+}

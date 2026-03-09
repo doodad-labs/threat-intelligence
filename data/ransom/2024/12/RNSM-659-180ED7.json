@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-180ED7",
+  "type": "ransomware-incident",
+  "title": "furmanos.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "furmanos.com",
+    "domain": "furmanos.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "Furmano’s is a family-owned company that produces tomatoes, beans, vegetables, and ancient grains for foodservice and retail. The company was founded in 1921 in the kitchen of a farming family in the Susquehanna Valley of Pennsylvania. Furmano’s is now in its fourth generation of family ownership and operation.SITE: www.furmanos.com Address : Furmano Foods, Inc. 770 Cannery Road Northumberland, PA 17857 United StatesTEL#: 1-800-952-1111ALL DATA SIZE: ≈1tb 1. Group data 2. Account 3. HR 4. RD 5. Users personal and home folders data & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2aaf148beb02c821ced9f4337046a8eb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/znvybwfub3muy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-10 00:00:00.000000",
+    "disclosedDate": "2024-12-18 10:23:27.675652"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-055540",
+  "type": "ransomware-incident",
+  "title": "iemsc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "iemsc.com",
+    "domain": "iemsc.com",
+    "country": "AE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We're not happy with the way you're doing business. You're not negotiating. Read carefully - you are now sending a new file for test transcription and you are not leaving this chat and negotiating. If you leave the chat and continue to stall            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awvtc2muy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-27 00:00:00.000000",
+    "disclosedDate": "2024-03-05 11:48:49.341681"
+  }
+}

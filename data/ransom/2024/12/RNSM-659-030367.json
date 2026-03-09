@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-030367",
+  "type": "ransomware-incident",
+  "title": "www.z2data.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.z2data.com",
+    "domain": "z2data.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Z2Data is a company that specializes in providing supply chain intelligence and risk management solutions. They offer tools and services that help businesses analyze and mitigate risks related to their supply chains, including supplier risk, component availability, and geopolitical factors. Their platform integrates data analytics to enhance decision-making and ensure supply chain resilience.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/86969802c7f65b458959fab857a721d1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnoyzgf0ys5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 00:00:00.000000",
+    "disclosedDate": "2024-12-03 18:40:35.176699"
+  }
+}

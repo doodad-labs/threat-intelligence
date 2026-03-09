@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-643-216289",
+  "type": "ransomware-incident",
+  "title": "I&G Brokers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "I&G Brokers",
+    "country": "BG",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "I&G brokers are top top favourite Bulgarian Broker houses.First Payment Due, leaking dataDownload Sample(https://pomf2.lain.la/f/XXXXXX.7z)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8afc3bb6e07fbe503fc867bf2b4a266d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sszhiejyb2tlcnnacmfuc29tzwq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-21 18:30:47.413863",
+    "disclosedDate": "2023-08-21 18:30:47.413892"
+  }
+}

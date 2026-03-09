@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-642-061F58",
+  "type": "ransomware-incident",
+  "title": "ENERGYTRANSFER.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ENERGYTRANSFER.COM",
+    "domain": "energytransfer.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Energy Transfer",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ru5fukdzvfjbtlngrviuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-06 23:24:28.734019",
+    "disclosedDate": "2023-07-06 23:24:28.734066"
+  }
+}

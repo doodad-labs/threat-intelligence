@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-2064E8",
+  "type": "ransomware-incident",
+  "title": "Access Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Access Group",
+    "domain": "theaccessgroup.com",
+    "country": "GB",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Access Group is headquartered in Leicestershire, United Kingdom, a provider of business software to mid-sized UK organizations. Offering custom ers across commercial and not-for-profit sectors with productivity and efficiency solutions in the IT field. Providing cloud platforms that assist customers data to be integrated across core business systems.   Downloads: http://cicadacnft7gcgnveb7wjm6pjpjcjcsugogmlrat7u7pcel3iwb7bhyd.onion/access-dataleak",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b61d425286b64c09f8e56f6321f1cc60.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnjzxnziedyb3vwqgnpy2fkytmzmde=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-19 00:00:00.000000",
+    "disclosedDate": "2024-06-20 06:26:58.834486"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-19DDBC",
+  "type": "ransomware-incident",
+  "title": "IMSPLGROUP.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IMSPLGROUP.COM",
+    "domain": "imsplgroup.com",
+    "country": "SG",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "_URL_",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a8243ca628668c9294beaf66bdc7b58d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/su1tuexhuk9vuc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-19 09:07:46.000696",
+    "disclosedDate": "2024-12-19 09:07:46.760633"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-31AAB2",
+  "type": "ransomware-incident",
+  "title": "Tranter (tcn.local) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tranter (tcn.local)",
+    "domain": "tranter.com",
+    "country": "SE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tranter is a global engineering and manufacturing group specializing in thermal ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/641284718f7aefb153dde31e4f40c8d1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjhbnrlciaodgnulmxvy2fskubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-16 00:00:00.000000",
+    "disclosedDate": "2024-08-31 06:10:41.432675"
+  }
+}

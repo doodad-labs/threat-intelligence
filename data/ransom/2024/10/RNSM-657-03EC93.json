@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-657-03EC93",
+  "type": "ransomware-incident",
+  "title": "Rob Levine & Associates (roblevine.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rob Levine & Associates (roblevine.com)",
+    "domain": "roblevine.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "Over 20 years ago, the personal injury law office of Rob Levine &Associates opened for business in Rhode Island. Since then, leadattorney Rob Levine has become known to have one of the most aggressive approaches to personal injury litigation in the tri-statearea.  His dedication to helping Veterans and those in need of Social Security benefits has grown the practice into a nationwide law firm.We have a huge amount of data (more than 300 GB) most of which ismedical records of military veterans. Besides that you can find payments details, personal information (for example driver licenses) and many others.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um9iiexldmluzsamiefzc29jawf0zxmgkhjvymxldmluzs5jb20pqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2024-12-18%20rob%20levine%20law%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-03 15:24:58.486719",
+    "disclosedDate": "2024-10-03 15:24:59.735989"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-662-06DCF1",
+  "type": "ransomware-incident",
+  "title": "www.hinton.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.hinton.ca",
+    "domain": "hinton.ca",
+    "country": "CA",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] www.hinton.ca is the website for The Town of Hinton, a community located in the province of Alberta, Canada. The website provides residents and visitors with a wide range of information including municipal services, recreation opportunities, local news, development plans and various administrative details. It serves as the digital platform for the local government, ensuring transparency and ease of access.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a1243cec226b223ba25ae9a6d176168d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmhpbnrvbi5jyubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.facebook.com/share/p/1frw6upktm/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-05 14:05:42.000000",
+    "disclosedDate": "2025-03-06 19:05:25.976209"
+  }
+}

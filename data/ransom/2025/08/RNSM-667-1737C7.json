@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-1737C7",
+  "type": "ransomware-incident",
+  "title": "mysecop.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mysecop.com",
+    "domain": "mysecop.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "warlock",
+    "name": "warlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "all data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bxlzzwnvcc5jb21ad2fybg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-29 00:00:00.000000",
+    "disclosedDate": "2025-08-17 09:23:23.155805"
+  }
+}

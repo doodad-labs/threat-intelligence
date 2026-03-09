@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-209C04",
+  "type": "ransomware-incident",
+  "title": "South Star Electronics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "South Star Electronics",
+    "domain": "south-star.com.cn",
+    "country": "CN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "trigona",
+    "name": "trigona",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "South Star Electronics Co., Ltd. is a prominent electronics company based in Dongguan City, China. Specializing in the design, manufacturing, and distribution of electronic products, SouthStar Electronics has established itself as a leading player in the industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a3c801772af8111330163af9f7c10ead.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u291dgggu3rhcibfbgvjdhjvbmljc0b0cmlnb25h",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-20 12:00:00.000000",
+    "disclosedDate": "2024-03-20 01:21:38.878997"
+  }
+}

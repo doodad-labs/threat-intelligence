@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-0637C1",
+  "type": "ransomware-incident",
+  "title": "Milliman Financial Risk Management LLC (Milliman, Inc. subsidiary) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Milliman Financial Risk Management LLC (Milliman, Inc. subsidiary)",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 260000000000,
+    "description": "Milliman Financial Risk Management LLC is a global leader in financial risk management to the retirement savings industry. Established in 1998, the practice includes over 200 professionals operating from three trading platforms around the world (Chicago, London, and Sydney). Milliman FRM is a subsidiary of Milliman, Inc.We are going to upload 260gb of corporate data soon. Client information (clients' financial portfolios, account balances, transfers and so on), lots of internal operating files, financial and accounting files, contracts, agreements, projects, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twlsbgltyw4grmluyw5jawfsifjpc2sgtwfuywdlbwvudcbmtemgke1pbgxpbwfulcbjbmmuihn1ynnpzglhcnkpqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-06 00:00:00.000000",
+    "disclosedDate": "2025-10-06 15:46:40.105639"
+  }
+}

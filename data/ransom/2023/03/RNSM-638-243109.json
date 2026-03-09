@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-243109",
+  "type": "ransomware-incident",
+  "title": "TLG.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TLG.COM",
+    "domain": "tlg.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "403 Forbidden",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7d06cd2d81bf040ee2bbe4c654c65731.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vexhlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-24 11:05:57.728438",
+    "disclosedDate": "2023-03-24 11:05:57.728453"
+  }
+}

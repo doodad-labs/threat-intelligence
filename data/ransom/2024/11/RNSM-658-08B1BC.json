@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-08B1BC",
+  "type": "ransomware-incident",
+  "title": "www.assurified.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.assurified.com",
+    "domain": "assurified.com",
+    "country": "NL",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Assurified revolutionizes risk management for multifamily real estate. Our AI-powered solutions and deep expertise in Total Cost of Risk (TCOR) opt...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/145abea8a6a0b9935fd2785701849d40.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmfzc3vyawzpzwquy29tqgfwddcz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-08 10:08:59.102601",
+    "disclosedDate": "2024-11-08 10:08:59.780199"
+  }
+}

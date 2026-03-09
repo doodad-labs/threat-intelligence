@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-15F8BA",
+  "type": "ransomware-incident",
+  "title": "ABA Research - Business Information 2 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ABA Research - Business Information 2",
+    "domain": "abaresearch.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ABA Research Ltd is a company that operates in the Research industry. It employs 51-100 people and has $10M-$25M of revenue. The company is headquartered in St Albans, England, United Kingdom.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9d37837c95bf34c2f35a9aec540ca892.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qujbifjlc2vhcmnoic0gqnvzaw5lc3mgsw5mb3jtyxrpb24gmkbhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-15 08:12:54.123456",
+    "disclosedDate": "2023-08-15 08:28:03.272628"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-19621A",
+  "type": "ransomware-incident",
+  "title": "macuspana.gob.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "macuspana.gob.mx",
+    "domain": "macuspana.gob.mx",
+    "country": "MX",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cuenta oficial del Gobierno de Macuspana. H. Ayuntamiento Constitucional 2021-2024",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4041de3b0aee5f0e8d2ce777eec2c2e9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfjdxnwyw5hlmdvyi5teebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-19 10:40:00.000000",
+    "disclosedDate": "2023-08-19 11:14:19.316019"
+  }
+}

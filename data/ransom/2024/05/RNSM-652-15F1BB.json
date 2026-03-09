@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-15F1BB",
+  "type": "ransomware-incident",
+  "title": "gravetye-manor ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gravetye-manor",
+    "domain": "gravetye.com",
+    "country": "GB",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GRAVETYE MANOR\r Nestled in the Sussex Countryside\r A manor house and garden that feel perfectly at one. Where beautiful grounds envelop the house. Where freshly grown produce becomes part of every meal in our Michelin Star restaurant.\r \r A place of timeless tranquillity in the Sussex Countryside, where a calm and warm atmosphere brings the most perfect relaxation. Where spirits are lifted and stresses left behind. Where the enthusiasm and passion of our staff shines bright.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jhdmv0ewutbwfub3jaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-08 05:52:07.088000",
+    "disclosedDate": "2024-05-15 02:41:43.308746"
+  }
+}

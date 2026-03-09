@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-259504",
+  "type": "ransomware-incident",
+  "title": "TOC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TOC",
+    "domain": "toclogistics.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TOC Logistics information",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/83d48344273c5eb02581cb116d7b8b0a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ve9dqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-15 00:00:00.000000",
+    "disclosedDate": "2024-11-25 13:44:00.860171"
+  }
+}

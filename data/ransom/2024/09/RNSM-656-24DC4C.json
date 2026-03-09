@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-24DC4C",
+  "type": "ransomware-incident",
+  "title": "Crown Mortgage Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Crown Mortgage Company",
+    "domain": "crownmortgagecompany.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Crown Mortgage Company, located in Oak Lawn, IL, is a local Chicago mortgage lender serving Chicagoland in Northeast Illinois.  Published data coming soon...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fb87f2b920ab1e16e78b9a80eb504462.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q3jvd24gtw9ydgdhz2ugq29tcgfueubjawnhzgezmzax",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-24 00:00:00.000000",
+    "disclosedDate": "2024-09-24 16:31:21.821640"
+  }
+}

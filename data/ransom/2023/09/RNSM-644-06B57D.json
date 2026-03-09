@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-06B57D",
+  "type": "ransomware-incident",
+  "title": "Ayass BioScience ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ayass BioScience",
+    "domain": "ayassbioscience.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "At Ayass Bioscience, LLC we offer genetic testing that provides authentic genomic information at an affordable cost. Genetic test results can help you make informed decisions about managing your health care and direct you toward available prevention.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c0c4a16718b9ea5f069612ea6acdd28b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxlhc3mgqmlvu2npzw5jzubhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-06 17:30:46.123456",
+    "disclosedDate": "2023-09-06 17:31:24.786462"
+  }
+}

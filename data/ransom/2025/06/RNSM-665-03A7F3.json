@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-665-03A7F3",
+  "type": "ransomware-incident",
+  "title": "Observer Media Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Observer Media Group",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 8000000000,
+    "description": "Observer Media Group Inc. is a multimedia company with seven newspapers, four websites, four quarterly lifestyle magazines and 100employees serving multiple communities around Florida.We are going to upload about 8 GB of corporate data. A lot of filled out forms with personal data and credit card details, employee personal information, financial data, client data, contracts and agreements, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2jzzxj2zxigtwvkawegr3jvdxbaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-03 00:00:00.000000",
+    "disclosedDate": "2025-06-03 14:49:09.062786"
+  }
+}

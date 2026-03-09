@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-180B30",
+  "type": "ransomware-incident",
+  "title": "Seamon Whiteside ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Seamon Whiteside",
+    "domain": "seamonwhiteside.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eca0720f876bd2925dbdded77d190f6b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vhbw9uifdoaxrlc2lkzubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-18 20:58:28.000000",
+    "disclosedDate": "2024-07-18 22:07:17.206913"
+  }
+}

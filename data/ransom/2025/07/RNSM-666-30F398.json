@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-666-30F398",
+  "type": "ransomware-incident",
+  "title": "Tooling Systems Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tooling Systems Group",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Advanced Tooling Systems (ATS)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/07708b32d66588ea402796e2c592b420.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vg9vbgluzybtexn0zw1ziedyb3vwqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-28 19:05:18.886000",
+    "disclosedDate": "2025-07-30 12:05:08.357535"
+  }
+}

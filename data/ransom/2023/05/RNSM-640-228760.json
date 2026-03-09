@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-640-228760",
+  "type": "ransomware-incident",
+  "title": "Xplain ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Xplain",
+    "domain": "xplain.ch",
+    "country": "CH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Switzerland",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/29cdb23937e60183a2e681954b0f7c45.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/whbsywluqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.letemps.ch/economie/cyber/une-cyberattaque-norme-frappe-suisse-touchant-larmee-nombreuses-polices",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-10 00:00:00.000000",
+    "disclosedDate": "2023-05-22 22:55:57.176393"
+  }
+}

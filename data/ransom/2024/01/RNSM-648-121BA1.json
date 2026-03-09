@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-121BA1",
+  "type": "ransomware-incident",
+  "title": "Washington School For The Deaf ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Washington School For The Deaf",
+    "domain": "wa.gov",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ESTABLISHED IN 1886 Washington School for the Deaf is the state of Washington’s only ASL-English bilingual school serving deaf and hard or hearing students in Pre-K through 12th grade.WSD’s...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/721b6f667f1d8fef811106748031e63d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fzagluz3rvbibty2hvb2wgrm9yifrozsbezwfmqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-12 11:48:16.301933",
+    "disclosedDate": "2024-01-12 11:48:16.361772"
+  }
+}

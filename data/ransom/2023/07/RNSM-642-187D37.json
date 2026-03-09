@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-642-187D37",
+  "type": "ransomware-incident",
+  "title": "www.brockhouse.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.brockhouse.co.uk",
+    "domain": "brockhouse.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 35000000000,
+    "description": "Brockhouse Group Ltd, 35Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmjyb2nrag91c2uuy28udwtaywj5c3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-18 09:55:06.374382",
+    "disclosedDate": "2023-07-18 09:55:06.374405"
+  }
+}

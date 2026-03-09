@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-644-04AAC8",
+  "type": "ransomware-incident",
+  "title": "Swipe.bg ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Swipe.bg",
+    "domain": "swipe.bg",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have successfuly obtained all data from Swipe.bg A online marketplace known for its cheap prices. Data we obtained: Userdata,Customer chats,SSNs,Numbers,Addresses and moreWe require a ransom of $50,000.",
+    "claimed_data_types": [
+      "addresses",
+      "government-identifiers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3dpcguuymdacmfuc29tzwq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-04 14:34:11.239089",
+    "disclosedDate": "2023-09-04 14:34:11.239110"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-2969F6",
+  "type": "ransomware-incident",
+  "title": "Bayou DeSiard Country Club ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bayou DeSiard Country Club",
+    "domain": "bayoudesiardcc.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Downloads: http://cicadacnft7gcgnveb7wjm6pjpjcjcsugogmlrat7u7pcel3iwb7bhyd.onion/BDCC-dataleak",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/175c45c8053f4b8627384ca0d4e8b656.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmf5b3ugrgvtawfyzcbdb3vudhj5iensdwjay2ljywrhmzmwmq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-05 00:00:00.000000",
+    "disclosedDate": "2024-09-29 22:33:52.983207"
+  }
+}

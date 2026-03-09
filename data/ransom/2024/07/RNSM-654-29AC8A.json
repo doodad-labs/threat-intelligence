@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-29AC8A",
+  "type": "ransomware-incident",
+  "title": "Priefert ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Priefert",
+    "domain": "priefert.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9ab9421766d5d668ed3c95dfa1b3ed1d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjpzwzlcnraahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-29 14:00:04.000000",
+    "disclosedDate": "2024-07-29 19:35:29.230182"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-0768E6",
+  "type": "ransomware-incident",
+  "title": "GROUPAMANA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GROUPAMANA.COM",
+    "domain": "groupamana.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Homepage - AMANA.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0c4ff939afe42353d440717eab258fca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r1jpvvbbtufoqs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-07 23:36:52.708866",
+    "disclosedDate": "2023-03-07 23:36:52.708886"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-094325",
+  "type": "ransomware-incident",
+  "title": "FULTON.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FULTON.COM",
+    "domain": "fulton.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fulton - A Worldwide Leader in Heat Transfer Equipment and Innovations",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c0fe75728594c7f35dc07045cfd2599e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rlvmve9olknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-09 09:36:10.997017",
+    "disclosedDate": "2024-10-09 09:36:11.917659"
+  }
+}

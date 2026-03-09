@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-207FA1",
+  "type": "ransomware-incident",
+  "title": "SASI JSC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SASI JSC",
+    "domain": "sasi.vn",
+    "country": "VN"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "sasi.vn - SASI (Saigon Auto Supporting Industry JSC) is a Vietnamese industrial manufacturing company operating via the domain sasi.vn, focused on large-scale OEM production.SASI is a long-established manufacturer, founded in the 1970s, with production facilities located in Ho Chi Minh City (Cu Chi Industrial Park), which is an important industrial zone for heavy and precision manufacturing in Vietnam.The company’s core activity is OEM and supporting industry manufacturing, meaning it produces metal parts, components, and assemblies strictly according to customer specifications rather than selling consumer products under its own brand.SASI plays a critical role in automotive and industrial supply chains, supplying components used in vehicles, motorcycles, industrial machinery, and selected medical and technical equipment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0ftssbku0nadghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-20 19:06:02.000000",
+    "disclosedDate": "2026-01-20 20:42:15.077857"
+  }
+}

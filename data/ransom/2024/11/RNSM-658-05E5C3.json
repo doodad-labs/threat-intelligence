@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-05E5C3",
+  "type": "ransomware-incident",
+  "title": "nwhealthporter.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nwhealthporter.com",
+    "domain": "nwhealthporter.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ed51f2fec90f4585da9c80fab25cc237.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bndozwfsdghwb3j0zxiuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-05 21:23:37.000000",
+    "disclosedDate": "2024-11-05 22:00:01.185079"
+  }
+}

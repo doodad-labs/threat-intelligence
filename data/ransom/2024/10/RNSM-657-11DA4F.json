@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-11DA4F",
+  "type": "ransomware-incident",
+  "title": "Volta River Authority ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Volta River Authority",
+    "domain": "vra.com",
+    "country": "GH",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Volta River Authority generates, transmits and distributes electricity under the Volta River Development.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eb42cdbe1e5313594ef4a5c4eaa025df.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vm9sdgeguml2zxigqxv0ag9yaxr5qgjsywnrc3vpda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-07 00:00:00.000000",
+    "disclosedDate": "2024-10-11 23:33:40.388640"
+  }
+}

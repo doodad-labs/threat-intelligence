@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-19ACE8",
+  "type": "ransomware-incident",
+  "title": "London Women's Clinic ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "London Women's Clinic",
+    "domain": "londonwomensclinic.com",
+    "country": "GB",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "London Women's Clinic is a leading fertility clinic established in 1985, offering a wide range of fertility treatments and services across fourteen locations in the UK. Their offerings include IVF, ICSI, IUI, egg donation, and surrogacy, cate            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/881860383da4d12ae6932960e1008db1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tg9uzg9uifdvbwvuj3mgq2xpbmljqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-19 00:00:00.000000",
+    "disclosedDate": "2025-10-19 16:09:19.434406"
+  }
+}

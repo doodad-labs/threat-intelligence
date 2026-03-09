@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-650-07A689",
+  "type": "ransomware-incident",
+  "title": "SP Mundi  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SP Mundi ",
+    "domain": "spmundi.com.br",
+    "country": "BR",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 8000000000,
+    "description": "Visits: 33 Data Size: 8GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a6fba6e993d08823f1416044b88c1f80.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1agtxvuzgkgqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-07 14:57:31.583717",
+    "disclosedDate": "2024-03-07 14:57:31.583737"
+  }
+}

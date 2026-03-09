@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-11B77B",
+  "type": "ransomware-incident",
+  "title": "fremontschools.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fremontschools.net",
+    "domain": "fremontschools.net",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fremont Ross High School is a public high school in Fremont, Ohio, United States. It is the only high school in the Fremont City School District, and one of two high schools in Fremont, the other being Saint Joseph Central Catholic High School. The s...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/60380f46e131828f49956f43d2c2b3d0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/znjlbw9udhnjag9vbhmubmv0qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-13 00:00:00.000000",
+    "disclosedDate": "2024-08-11 07:52:44.274655"
+  }
+}

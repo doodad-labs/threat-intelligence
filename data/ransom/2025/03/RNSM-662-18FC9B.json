@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-18FC9B",
+  "type": "ransomware-incident",
+  "title": "sp.tnitelecom.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sp.tnitelecom.com",
+    "domain": "tnitelecom.com",
+    "country": "US",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "sp.tnitelecom.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4778a87053236fd12002d4d3465ab37b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3audg5pdgvszwnvbs5jb21aymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-18 12:22:13.782261",
+    "disclosedDate": "2025-03-18 12:23:21.231865"
+  }
+}

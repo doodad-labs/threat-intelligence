@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27FC83",
+  "type": "ransomware-incident",
+  "title": "SAKAR.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SAKAR.COM",
+    "domain": "sakar.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] SAKAR International, Inc., commonly referred as SAKAR.COM, is an American consumer electronics company founded in 1977. It is headquartered in Edison, New Jersey. The company designs and manufactures a wide range of technological products including digital imaging products such as cameras and accessories, automotive dash cams, karaoke machines, and consumer electronics products. It also produces various licensed products under different brand names. It is known for its innovative products and quality customer service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0flqviuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:16:20.046466",
+    "disclosedDate": "2025-02-27 17:16:41.341966"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-15952F",
+  "type": "ransomware-incident",
+  "title": "MYVISAJOBS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MYVISAJOBS.COM",
+    "domain": "myvisajobs.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] MYVISAJOBS.COM is a website that helps international students and professionals seeking work in the United States. The platform provides information about job sponsors, visa filings, employment, immigration attorneys, etc. Their data is collected from various U.S. federal agencies. The company aims to help immigrants secure suitable employment in the U.S. and navigate through the visa process efficiently.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bdec9f43c32b77488598b54b04218483.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tvlwsvnbsk9cuy5dt01azxzlcmvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-14 00:00:00.000000",
+    "disclosedDate": "2025-08-15 15:08:44.401570"
+  }
+}

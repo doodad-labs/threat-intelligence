@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-27F902",
+  "type": "ransomware-incident",
+  "title": "www.merchant.id ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.merchant.id",
+    "domain": "merchant.id",
+    "country": "ID",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.merchant.id",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d129fc26d58997be05d1cb9da821852c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1lcmnoyw50lmlkqgjhynvrmg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:27:45.676265",
+    "disclosedDate": "2025-01-27 07:28:50.271364"
+  }
+}

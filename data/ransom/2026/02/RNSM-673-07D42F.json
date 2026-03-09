@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-07D42F",
+  "type": "ransomware-incident",
+  "title": "HTHELI.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HTHELI.COM",
+    "domain": "htheli.com",
+    "country": "CN"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"HTHELI.COM\" is an online platform dedicated to providing diverse high-end charter helicopter services. They specialize in assisting clients with various helicopter needs, including aerial work, air tours, private hire, VIP charter and aerial photography, among others. The platform connects users with a comprehensive list of experienced and professional charter operators globally.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b27c57d1f9f7c352ef0d1d8613f1d248.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sfriruxjlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 20:58:17.479964",
+    "disclosedDate": "2026-02-07 20:58:31.325955"
+  }
+}

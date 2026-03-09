@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-2703C7",
+  "type": "ransomware-incident",
+  "title": "Ville de Lille ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ville de Lille",
+    "domain": "lille.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AddressPlace Augustin Laurent CS 30667 59033 Lille Cedex",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d3b94a3a5b797792b837e33b50e29163.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmlsbgugzgugtglsbgvacm95yww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-27 01:02:03.456789",
+    "disclosedDate": "2023-03-27 07:11:04.919651"
+  }
+}

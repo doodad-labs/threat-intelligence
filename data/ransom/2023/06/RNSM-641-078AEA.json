@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-078AEA",
+  "type": "ransomware-incident",
+  "title": "worldlearning.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "worldlearning.org",
+    "domain": "worldlearning.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "World Learning is international organization that focuses on international development, education, and exchange programs. Based in Brattleboro, Vermont, World Learning \"unlocks the potential of people to address critical global issues\" through its co...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/431d8877a6dcf65c92c12bf6a899323a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d29ybgrszwfybmluzy5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-07 14:43:00.000000",
+    "disclosedDate": "2023-06-07 15:50:23.937868"
+  }
+}

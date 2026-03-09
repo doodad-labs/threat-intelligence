@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-173389",
+  "type": "ransomware-incident",
+  "title": "New Electric ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "New Electric",
+    "domain": "newelectricaz.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bfad5dc530dc5dd8f3d942fc5cafc0d4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv3ievszwn0cmljqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-17 16:05:32.000000",
+    "disclosedDate": "2024-09-17 17:06:27.126137"
+  }
+}

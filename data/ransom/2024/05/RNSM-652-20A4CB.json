@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-652-20A4CB",
+  "type": "ransomware-incident",
+  "title": "Embellir ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Embellir",
+    "domain": "embellir.fr",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Plastering - Painting - Decoration Suspended ceilings https://www.embellir.fr/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b7b65fb0fb2f06a07db282832f8583c2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw1izwxsaxjaogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-20 00:00:00.000000",
+    "disclosedDate": "2024-05-20 14:54:39.659682"
+  }
+}

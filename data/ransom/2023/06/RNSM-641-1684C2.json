@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-641-1684C2",
+  "type": "ransomware-incident",
+  "title": "Multistack ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Multistack",
+    "domain": "multistack.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbyte",
+    "name": "blackbyte",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "At Multistack, we recognize and respect the importance of providing HVAC solutions that promote energy and water efficiency, utilize the best refrigerant choices available, and embrace the transition from fossil fuels to electrification.Water and air-cooled MagLev® chiller platforms achieve superb efficiency across their full range of operation. Our unique MagLev chiller design and unrivalled Transitional Efficiency? chiller control algorithms deliver outstanding part-load performance at all condenser-water or ambient temperature conditions.  MagLev also offers refrigerant choices recognized worldwide safer for the environment: R1234ze, R-513, and R515B.Our modular product’s design allows you the freedom to use just enough energy to meet your current needs, while offering you the flexibility of incorporating additional modules as your operations grow. Minimizing embodied energy is an important design focus and we pride ourselves that our modular chillers deliver the industry’s highest cooling and heating output per pound. If you’re looking to cool and heat your building with as little environmental impact as possible, look no further than Multistack!",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txvsdglzdgfja0bibgfja2j5dgu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-16 04:53:11.278579",
+    "disclosedDate": "2023-06-16 04:53:11.278601"
+  }
+}

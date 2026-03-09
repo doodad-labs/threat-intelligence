@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-11601C",
+  "type": "ransomware-incident",
+  "title": "Pensam Residential ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pensam Residential",
+    "domain": "pensamcapital.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7721e11b96eaadb83049df2cbdb1e7e6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvuc2ftifjlc2lkzw50awfsqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-11 13:47:46.374592",
+    "disclosedDate": "2026-01-11 13:48:02.467810"
+  }
+}

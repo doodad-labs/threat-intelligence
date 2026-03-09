@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-1369FD",
+  "type": "ransomware-incident",
+  "title": "chempartner.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "chempartner.com",
+    "domain": "chempartner.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "281 GBContents of downloaded information: company analytics, project information, reports, information on drug supplies, etc.AboutUs: Over the past twenty years, ChemPartner has evolved from the pure chemistry service provider to a research inn...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2hlbxbhcnruzxiuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-13 11:19:25.094757",
+    "disclosedDate": "2023-02-13 11:19:25.094757"
+  }
+}

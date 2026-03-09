@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-12174D",
+  "type": "ransomware-incident",
+  "title": "InvivoGen HK ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "InvivoGen HK",
+    "country": "HK",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "InvivoGen's conducts bio research and has unparalleled skill in microbial fermentation that enables them to provide a wide range of biological molecules, including ultra-pure antibiotics, novel mycoplasma treatments and the largest collection of pattern recognition receptor agonists derived from a wide range of micro-organisms.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3582520ff34c1a15e3ac2ab19b860a67.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw52axzvr2vuiehlqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-11 19:56:25.039000",
+    "disclosedDate": "2026-01-12 00:56:24.841946"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-249456",
+  "type": "ransomware-incident",
+  "title": "COLMAC.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "COLMAC.COM",
+    "domain": "colmac.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Columbia Machine, Inc. - Engineered Solutions",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/af018ee238fd91760d8d2590d8d5724a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q09mtufdlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-24 21:33:42.658235",
+    "disclosedDate": "2023-03-24 21:33:42.658256"
+  }
+}

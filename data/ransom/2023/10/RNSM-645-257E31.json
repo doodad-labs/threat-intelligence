@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-257E31",
+  "type": "ransomware-incident",
+  "title": "Paul-Alexandre Doïcesco, Notaires Associés ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Paul-Alexandre Doïcesco, Notaires Associés",
+    "domain": "notairedoicesco.be",
+    "country": "BE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The company has chosen to ignore us means its data will be open and available for download below.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b9c6e6db927c3f73443a4910abdb2443.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugf1bc1bbgv4yw5kcmugrg/dr2nlc2nvlcbob3rhaxjlcybbc3nvy2ndqxnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-25 10:31:18.451383",
+    "disclosedDate": "2023-10-25 10:31:18.451404"
+  }
+}

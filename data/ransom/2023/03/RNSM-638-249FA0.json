@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-249FA0",
+  "type": "ransomware-incident",
+  "title": "IMAGINE360.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IMAGINE360.COM",
+    "domain": "imagine360.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "403 Forbidden",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/343c1adc06973e182e4754cfa0967436.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/su1br0lortm2mc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-24 15:07:24.531808",
+    "disclosedDate": "2023-03-24 15:07:24.531829"
+  }
+}

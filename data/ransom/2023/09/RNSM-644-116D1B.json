@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-116D1B",
+  "type": "ransomware-incident",
+  "title": "cfsigroup.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cfsigroup.ca",
+    "domain": "cfsigroup.ca",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Better yet, see us in person!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/253c0d1c42aa38cc318bf16977d478c4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2zzawdyb3vwlmnhqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-11 12:19:00.000000",
+    "disclosedDate": "2023-09-11 12:57:23.778882"
+  }
+}

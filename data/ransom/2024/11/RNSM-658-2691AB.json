@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-2691AB",
+  "type": "ransomware-incident",
+  "title": "Wisconsin Lifting Specialists ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wisconsin Lifting Specialists",
+    "domain": "wisconsinlifting.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "documents, personal info",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/91c8400bbd8456797572ba86b677d439.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lzy29uc2luiexpznrpbmcgu3bly2lhbglzdhnabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-22 19:53:46.785000",
+    "disclosedDate": "2024-11-26 21:17:11.379023"
+  }
+}

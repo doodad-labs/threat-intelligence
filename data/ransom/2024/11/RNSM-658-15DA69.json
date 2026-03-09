@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-658-15DA69",
+  "type": "ransomware-incident",
+  "title": "marysville.k12.oh.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "marysville.k12.oh.us",
+    "domain": "marysville.k12.oh.us",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Marysville.k12.oh.us is the domain for the Marysville Exempted Village School District located in Marysville, Ohio. The district serves a diverse student population with a focus on providing quality education through various academic programs, extracurricular activities, and community involvement. It emphasizes innovation, technology integration, and personalized learning to prepare students for future success.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a79ec335d458931dcf44cf19b20037dd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfyexn2awxszs5rmtiub2gudxnaymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://eu.dispatch.com/story/news/education/2024/10/28/marysville-cancels-classes-after-cybersecurity-incident/75896476007/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-28 00:00:00.000000",
+    "disclosedDate": "2024-11-15 19:01:24.117850"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-663-0800A4",
+  "type": "ransomware-incident",
+  "title": "FKS Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FKS Group",
+    "country": "ID"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 177000000000,
+    "description": "FKS GroupFKS Group is a South-East Asian holding company focused on food, infrastructure and property. Its companies combine a strong commitment to logistics and infrastructure with deep domestic and international understanding to realize the potential of businesses and people across the region.FKS Group strives to exceed stakeholders’ expectation and investment by ensuring a continued growth of the Group and developing employee’s competencies. The Group’s significant interests in agriculture, sugar refineries, infrastructure and property developments are managed by the subsidiaries.Geo: Singapore - Leak size: 177 GB Archive - Contains: Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rkttiedyb3vwqhnhcmnvbwe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-08 12:24:08.639040",
+    "disclosedDate": "2025-04-08 12:24:10.269209"
+  }
+}

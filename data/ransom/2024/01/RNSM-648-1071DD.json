@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-1071DD",
+  "type": "ransomware-incident",
+  "title": "twt.co.za ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "twt.co.za",
+    "domain": "twt.co.za",
+    "country": "ZA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tiger Wheel & Tyre is committed to providing consumers with expert advice, superior fitment services and products from leading brands in wheels, tyres and batteries. Tiger Wheel & Tyre – part of TiAuto Investments (PTY) Ltd is committed to providing...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/88eefbbeaf2c4526ba0a37d586367782.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhd0lmnvlnphqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-10 11:29:00.000000",
+    "disclosedDate": "2024-01-10 13:11:43.187847"
+  }
+}

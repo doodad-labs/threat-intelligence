@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-02604D",
+  "type": "ransomware-incident",
+  "title": "designlink.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "designlink.us",
+    "domain": "designlink.us",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Design Link - Business InformationBusiness Services · Georgia, United States ·",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5a42df00b793215804d8b1b2080a91cf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvzawdubgluay51c0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-02 15:30:00.000000",
+    "disclosedDate": "2023-09-02 16:00:31.085241"
+  }
+}

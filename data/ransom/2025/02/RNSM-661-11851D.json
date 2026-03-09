@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-661-11851D",
+  "type": "ransomware-incident",
+  "title": "CESI ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CESI",
+    "domain": "cesi.fr",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "termite",
+    "name": "termite",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CESI is a private French higher education and vocational training group specialising in training engineers, managers, technicians and supervisors.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c9d0d0049179611150075bc5a3d53aa1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0vtsub0zxjtaxrl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cesi.fr/incident-cybersecurite/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-11 20:41:28.000000",
+    "disclosedDate": "2025-02-11 21:55:28.573277"
+  }
+}

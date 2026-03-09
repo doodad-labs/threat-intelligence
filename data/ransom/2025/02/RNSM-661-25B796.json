@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-25B796",
+  "type": "ransomware-incident",
+  "title": "www.rgb.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.rgb.com",
+    "domain": "rgb.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] RGB.com is a digital media company that specializes in design and content development. Their services include digital signage, video production, web development, and print design. RGB.com helps businesses to visually communicate their message effectively to an audience. They have a team of experienced and innovative professionals committed to meeting the needs of their clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eb217894d23872ca7e54eb29246d6482.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnjnyi5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-12 00:00:00.000000",
+    "disclosedDate": "2025-02-25 18:10:51.307599"
+  }
+}

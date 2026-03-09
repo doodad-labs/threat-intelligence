@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-100507",
+  "type": "ransomware-incident",
+  "title": "lmgroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lmgroup.com",
+    "domain": "lmgroup.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/18738fe667dd4ce67f4adfd4b3d90cdf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bg1ncm91cc5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-14 05:42:56.000000",
+    "disclosedDate": "2024-08-10 21:03:46.845447"
+  }
+}

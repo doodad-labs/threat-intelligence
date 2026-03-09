@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-253DD4",
+  "type": "ransomware-incident",
+  "title": "wannagocloud ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wannagocloud",
+    "domain": "wannagocloud.com",
+    "country": "AE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "you have a few days left until your customers are hurt by you.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3865bcb7a2f0324ccf86386d43db6650.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2fubmfnb2nsb3vkqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-25 11:51:31.047799",
+    "disclosedDate": "2024-01-25 11:51:31.047822"
+  }
+}

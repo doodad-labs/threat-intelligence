@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-20EC5A",
+  "type": "ransomware-incident",
+  "title": "LEMKEN ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LEMKEN",
+    "domain": "lemken.com",
+    "country": "FR",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LEMKEN enjoys a worldwide reputation as a visionary, sustainably operating company that makes an important contribution to profitable agriculture. A medium-sized German family company, LEMKEN has applied its expertise and passion for progress for 241 years, delivering solutions for the challenges confronting agriculture today and tomorrow. The company's product range includes tillage implements, seed drills, hoeing machines, fertiliser spreaders and smart solutions for agricultural data management. LEMKEN currently employs 1,600 staff worldwide and has an annual turnover of about €400 million. www.lemken.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6662056b04273c0e49a317db9d5f6159.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tevns0voqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-20 00:00:00.000000",
+    "disclosedDate": "2024-05-20 14:52:27.237233"
+  }
+}

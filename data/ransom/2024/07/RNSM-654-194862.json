@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-194862",
+  "type": "ransomware-incident",
+  "title": "customssupport.be ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "customssupport.be",
+    "domain": "customssupport.be",
+    "country": "BE",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are specialised in  - Import, export, and transit - Goods Classification - Customs Consultancy",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d0f0cec2d2be17cd8a236a7b2282862f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3vzdg9tc3n1chbvcnquymvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-12 00:00:00.000000",
+    "disclosedDate": "2024-07-19 09:21:41.310203"
+  }
+}

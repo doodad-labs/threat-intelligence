@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-14CAE3",
+  "type": "ransomware-incident",
+  "title": "BROADREACHRETAIL.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BROADREACHRETAIL.COM",
+    "domain": "broadreachretail.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"BROADREACHRETAIL.COM\" is a real estate investment company specializing in the acquisition, management, and redevelopment of shopping centers across the United States. They acquire underperforming centers, enhancing them through hands-on leasing, management, and redevelopment, to increase property value and improve the local community.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6368e4030c5c475d1bffd77e310b6ac8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qljpqursrufdsfjfvefjtc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-14 10:44:55.627940",
+    "disclosedDate": "2026-02-14 10:45:08.827784"
+  }
+}

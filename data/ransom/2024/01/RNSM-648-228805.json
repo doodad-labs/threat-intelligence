@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-228805",
+  "type": "ransomware-incident",
+  "title": "umi-tiles.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "umi-tiles.com",
+    "domain": "umi-tiles.com",
+    "country": "TH",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Saha mosaic Industry Public Company Limited was founded on June 6, 2016, listed on the stock exchange of Thailand 2016. it manufactures tiles sold under the brand “duragres\", which means strong and durable tiles. it is a leader in the use of digital...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3fd7f796458df9f933ff8fae81d387e3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dw1plxrpbgvzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-21 22:53:00.000000",
+    "disclosedDate": "2024-01-22 02:54:35.330828"
+  }
+}

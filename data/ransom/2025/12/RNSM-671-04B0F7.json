@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-04B0F7",
+  "type": "ransomware-incident",
+  "title": "Atenção Primária à Saúde Brazil ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Atenção Primária à Saúde Brazil",
+    "country": "BR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "Atenção Primária à Saúde is system provided by Ministério da Saúde of brazil, we have exf all sql files (100GB of SQL files) from them systems and clouds, millions of patients records, 50M> records lines, samples will be provided to company when its contact, the goal system https://esusbelacruz.fixtecnologia.com.br/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2e884a4213c161e92bade7ea2220db6d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxrlbsonw6nvifbyaw3doxjpysddocbtyco6zgugqnjhemlsqg5vdme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-04 01:52:25.676774",
+    "disclosedDate": "2025-12-04 01:53:41.380830"
+  }
+}

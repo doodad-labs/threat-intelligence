@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-655-141D9F",
+  "type": "ransomware-incident",
+  "title": "Y*********I ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Y*********I",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "flocker",
+    "name": "flocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have Access Y*********I.edu servers, a well-known University. In just 7 days, we will leak all data we have taken. […]",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wsoqkioqkioqkklazmxvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-14 00:00:00.000000",
+    "disclosedDate": "2024-08-14 21:08:02.998096"
+  }
+}

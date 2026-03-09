@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-206204",
+  "type": "ransomware-incident",
+  "title": "Valentin Hotels ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Valentin Hotels",
+    "domain": "valentinhotels.com",
+    "country": "ES",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Valentin Hotels (Spain)",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmfszw50aw4gsg90zwxzqg5pz2h0c3bpcmu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-19 00:00:00.000000",
+    "disclosedDate": "2025-05-20 21:38:42.306579"
+  }
+}

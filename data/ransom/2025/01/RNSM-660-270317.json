@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-270317",
+  "type": "ransomware-incident",
+  "title": "alentec.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "alentec.com",
+    "domain": "alentec.com",
+    "country": "SE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "This is a public request for Alentec & Orion AB, you don't have much time left to get in touch with us and help you resolve your security problems, we also continue to be in your networks and monitor you",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eea0e4fc3e06e8c66ee7cfcb964a7f97.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxlbnrlyy5jb21aymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 08:24:41.663897",
+    "disclosedDate": "2025-01-27 08:25:47.044831"
+  }
+}

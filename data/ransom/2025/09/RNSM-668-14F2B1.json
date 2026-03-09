@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-14F2B1",
+  "type": "ransomware-incident",
+  "title": "Groupe Clarins ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Groupe Clarins",
+    "domain": "groupeclarins.com",
+    "country": "FR",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Groupe Clarins is a French luxury cosmetics company, which develops skincare, makeup and fragrances products. Founded in 1954 by Jacques Courtin-Clarins, the company originally began as a small Parisian beauty institute. Today, the company is present worldwide, known for its plant-based high-end skincare products. In 2018, it was ranked first for high-end facial skincare brands in Europe.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0f7a6323605a5b3bacac022f6e3efae5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jvdxbliensyxjpbnnazxzlcmvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-11 00:00:00.000000",
+    "disclosedDate": "2025-09-14 22:15:15.061127"
+  }
+}

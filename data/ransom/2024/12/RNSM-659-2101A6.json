@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-2101A6",
+  "type": "ransomware-incident",
+  "title": "berkotfoods.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "berkotfoods.com",
+    "domain": "berkotfoods.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Berkot's Super Foods is your neighborhood, family-owned and operated, full-service grocery store.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymvya290zm9vzhmuy29tqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/84264b1a-c62b-4721-b403-a2cf463613bf.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-21 19:09:47.021672",
+    "disclosedDate": "2024-12-21 19:09:47.744706"
+  }
+}

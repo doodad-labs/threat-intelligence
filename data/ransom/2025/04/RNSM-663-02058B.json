@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-02058B",
+  "type": "ransomware-incident",
+  "title": "Alton Steel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Alton Steel",
+    "domain": "altonsteel.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Alton Steel Inc. is an American steel manufacturing company founded in 2003 and based in Alton, Illinois. The company specializes in producing high-quality Special Bar Quality (SBQ) steel products, including round bars, round-cornered squares, and steel coils. Alton Steel's manufacturing facilities feature a 200-ton electric arc furnace and a 14-inch rolling mill, allowing an annual steel melting capacity of up to 750,000 tons and a rolling capacity of up to 400,000 tons of steel bars. In 2019, the company transitioned to employee ownership through an Employee Stock Ownership Plan (ESOP). Alton Steel actively implements sustainable technologies, including a partnership with Qcells North America to install a 6.5 MW solar panel array at their facility, making it the second steel mill in the U.S. to utilize on-site solar energy.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwx0b24gu3rlzwxabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-30 00:00:00.000000",
+    "disclosedDate": "2025-04-02 19:29:58.132278"
+  }
+}

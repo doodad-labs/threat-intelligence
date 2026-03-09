@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-279F1E",
+  "type": "ransomware-incident",
+  "title": "kiwi86 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kiwi86",
+    "domain": "kiwi86.com",
+    "country": "TW",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Provide 'fair' and 'professional': [Insurance Product Database] and related [Policy: Physical Examination and Management] system services",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7da32259f9cc7b2fd6a9d1cb31fcaf66.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2l3atg2qgrpcmv3b2xm",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-23 00:00:00.000000",
+    "disclosedDate": "2025-05-27 05:41:49.350803"
+  }
+}

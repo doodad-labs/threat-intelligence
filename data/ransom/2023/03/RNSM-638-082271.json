@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-082271",
+  "type": "ransomware-incident",
+  "title": "Wagner CAT ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wagner CAT",
+    "domain": "wagnerequipment.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbyte",
+    "name": "blackbyte",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since 1976, Wagner has been selling and renting quality Cat machines used in heavy construction, building construction, mining, waste handling, paving, municipal and governmental applications, forestry and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fnbmvyienbvebibgfja2j5dgu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-08 02:39:16.863803",
+    "disclosedDate": "2023-03-08 02:39:16.863826"
+  }
+}

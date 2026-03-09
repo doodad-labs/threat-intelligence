@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-215762",
+  "type": "ransomware-incident",
+  "title": "l.warsemann.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "l.warsemann.fr",
+    "domain": "warsemann.fr",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 3.03.2025. It is a family-owned group. It all started in 1952 when Maurice Warsemann, grandfather of Laurence Deletang-Warsemann, the group's current CEO, opened a garage in the cente            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bc53yxjzzw1hbm4uznjacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-18 00:00:00.000000",
+    "disclosedDate": "2025-02-21 13:30:33.447068"
+  }
+}

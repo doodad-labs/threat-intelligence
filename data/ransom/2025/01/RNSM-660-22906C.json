@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-22906C",
+  "type": "ransomware-incident",
+  "title": "Christian Community Aid ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Christian Community Aid",
+    "domain": "ccas.org.au",
+    "country": "AU",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CCA is a non-denominational service provider to the local communities. Contents: Valuable information (.jpg, .mp4, .mov, .xls, .doc, .mdf, .msg, .pdf... etc) https://ccas.org.au/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c0f43bb41514c041c3c318f51a88a707.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hyaxn0awfuienvbw11bml0esbbawrac3bhy2vizwfycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-22 04:44:53.136175",
+    "disclosedDate": "2025-01-22 04:46:02.285383"
+  }
+}

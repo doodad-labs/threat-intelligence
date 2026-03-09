@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-650-14A5A4",
+  "type": "ransomware-incident",
+  "title": "iamdesign.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "iamdesign.com",
+    "domain": "iamdesign.com",
+    "country": "IT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 78000000000,
+    "description": "iamdesign.com 78Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awftzgvzawdulmnvbubhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-14 11:54:00.547808",
+    "disclosedDate": "2024-03-14 11:54:00.547840"
+  }
+}

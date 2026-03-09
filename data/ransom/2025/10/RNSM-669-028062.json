@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-669-028062",
+  "type": "ransomware-incident",
+  "title": "Structural Component Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Structural Component Systems",
+    "domain": "scstruss.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "securotrop",
+    "name": "securotrop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1219000000000,
+    "description": "Status: AWAITINGSize: 1219 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/803e55e296e455f81d0ab9e71f8387ab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rydwn0dxjhbcbdb21wb25lbnqgu3lzdgvtc0bzzwn1cm90cm9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-02 23:53:57.206788",
+    "disclosedDate": "2025-10-02 23:54:09.708322"
+  }
+}

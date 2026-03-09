@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-649-06721E",
+  "type": "ransomware-incident",
+  "title": "Douglas County Libraries ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Douglas County Libraries",
+    "domain": "dcl.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/79133f2f443255502910e624b7742498.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rg91z2xhcybdb3vudhkgtglicmfyawvzqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-03 00:00:00.000000",
+    "disclosedDate": "2024-02-06 01:28:43.376912"
+  }
+}

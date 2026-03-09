@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-052F6E",
+  "type": "ransomware-incident",
+  "title": "Akantha ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Akantha",
+    "domain": "akantha.fr",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Software · France · <25 EmployeesAkantha offers Portalis, a legal software tailored for lawyers. The solution provides intuitive dashboards for each function, allowing easy management of law firms. Features include a 360-degree view, automatic update dashboards, secure document sharing, and data hosting in France. Akantha presents Portalis at various Barreau events, showcasing its tools for legal procedure management.Revenue <$5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwthbnroyubfbervcmfkbw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-23 00:00:00.000000",
+    "disclosedDate": "2025-01-05 15:05:44.305593"
+  }
+}

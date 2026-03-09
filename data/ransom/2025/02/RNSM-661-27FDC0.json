@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27FDC0",
+  "type": "ransomware-incident",
+  "title": "ESBERBEVERAGE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ESBERBEVERAGE.COM",
+    "domain": "esberbeverage.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ESBER BEVERAGE COMPANY is a family-run business that has specialized in beverage distribution since 1933. They are based in Ohio, USA. Their product range includes fine wines, craft beers, and specialty spirits. The company is famous for its wide selection of products and excellent service. They cater to both retail and wholesale customers while also offering valued insights about the beverage industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rvncrvjcrvzfukfhrs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:51:54.159331",
+    "disclosedDate": "2025-02-27 17:52:00.590538"
+  }
+}

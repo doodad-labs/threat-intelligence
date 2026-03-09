@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-26C0D7",
+  "type": "ransomware-incident",
+  "title": "Meli (BCYF & Bethany) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Meli (BCYF & Bethany)",
+    "domain": "meli.org.au",
+    "country": "AU",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Meli is a Victorian not-for-profit committed to strengthening communities through supporting people.We offer a unique combination of services to support members of our community throughout their lifetime, from early childhood through to ado            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ca4b6628fe98bae9cb0e695e0885e08.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvsasaoqknzriamiejldghhbnkpqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-16 00:00:00.000000",
+    "disclosedDate": "2024-08-26 01:23:52.946186"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-30C36D",
+  "type": "ransomware-incident",
+  "title": "nationalcoatingsinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nationalcoatingsinc.com",
+    "domain": "nationalcoatingsinc.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "National Coatings is a trusted commercial and industrial painting company serving a broad range of commercial and industrial customers, large and small, throughout the U.S.A. They offer expert painting, wallcovering, industrial coatings, and sandblasting services, plus more",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9d0aa6eaafdc87060fba3342829d6897.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmf0aw9uywxjb2f0aw5nc2luyy5jb21abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 00:00:00.000000",
+    "disclosedDate": "2025-10-30 00:18:13.537804"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-662-16F8EC",
+  "type": "ransomware-incident",
+  "title": "Lake Psychological Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lake Psychological Services",
+    "domain": "lakepsych.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "trinity",
+    "name": "trinity",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 190000000000,
+    "description": "190Gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3a679f52b14e03874b9f506d1c199247.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgfrzsbqc3ljag9sb2dpy2fsifnlcnzpy2vzqhryaw5pdhk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-16 21:25:15.956571",
+    "disclosedDate": "2025-03-16 21:26:30.396799"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-06CACB",
+  "type": "ransomware-incident",
+  "title": "fuelco ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fuelco",
+    "domain": "fuelco-us.com",
+    "country": "",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "fuelco-us.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e41d1db8a0ac94ff0491c0d1efc9b021.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/znvlbgnvqghlbgxkb3du",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-01 00:00:00.000000",
+    "disclosedDate": "2024-11-06 23:32:28.206634"
+  }
+}

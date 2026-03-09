@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-025204",
+  "type": "ransomware-incident",
+  "title": "gh2.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gh2.com",
+    "domain": "gh2.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GH2 Architects - Business InformationArchitecture, Engineering & Design · Oklahoma, United States ·",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9cc79fec4d0ac76126af429bf511688b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2gylmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-02 15:30:00.000000",
+    "disclosedDate": "2023-09-02 16:00:02.766584"
+  }
+}

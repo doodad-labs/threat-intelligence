@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-08D4EC",
+  "type": "ransomware-incident",
+  "title": "thinkmarkets.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "thinkmarkets.com",
+    "domain": "thinkmarkets.com",
+    "country": "AU",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 2010, ThinkMarkets is a multi-asset online brokerage with headquarters in London and Melbourne and hubs in the Asia-Pacific, the Middle East and North Africa, Europe, and South America.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2c3b8f745e63ee46a9e58dbdff00b12a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghpbmttyxjrzxrzlmnvbubjagfvcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-08 20:50:56.553067",
+    "disclosedDate": "2025-12-08 20:51:09.809501"
+  }
+}

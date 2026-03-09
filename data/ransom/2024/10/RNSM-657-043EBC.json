@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-043EBC",
+  "type": "ransomware-incident",
+  "title": "GW Mechanical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GW Mechanical",
+    "domain": "gwmechanical.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/31014d29d7833c9c5ad647c7cee48440.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r1cgtwvjagfuawnhbebodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-04 11:30:10.000000",
+    "disclosedDate": "2024-10-04 12:17:17.874888"
+  }
+}

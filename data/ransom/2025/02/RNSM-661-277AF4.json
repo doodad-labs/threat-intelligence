@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-277AF4",
+  "type": "ransomware-incident",
+  "title": "REESECHEMICAL.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "REESECHEMICAL.COM",
+    "domain": "reesechemical.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Reese Chemical Co. specializes in developing, formulating, producing, and selling specialty chemicals. They cater to various industries including petrochemical, paper, water treatment, metalworking, and more. Their commitment lies in delivering cost-effective, environmentally friendly, and superior quality solutions driven by continuous innovation and customer satisfaction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukvfu0vdsevnsunbtc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:12:41.084429",
+    "disclosedDate": "2025-02-27 17:12:47.916124"
+  }
+}

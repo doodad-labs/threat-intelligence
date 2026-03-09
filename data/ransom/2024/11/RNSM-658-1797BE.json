@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-1797BE",
+  "type": "ransomware-incident",
+  "title": "hartwick.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hartwick.edu",
+    "domain": "hartwick.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "chort",
+    "name": "chort",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Status: Wait for Decision - details:  Databases + Files of This Company",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfydhdpy2suzwr1qgnob3j0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.facebook.com/hartwickcollege/posts/pfbid0bsbwtvywkd59thw51jdkxudk784qmz2otjsddbtzxwrvfssg548etggjk4mu9dwql",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-17 10:22:10.240820",
+    "disclosedDate": "2024-11-17 10:22:11.008558"
+  }
+}

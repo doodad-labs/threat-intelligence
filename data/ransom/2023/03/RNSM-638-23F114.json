@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-23F114",
+  "type": "ransomware-incident",
+  "title": "THECROSBYGROUP.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "THECROSBYGROUP.COM",
+    "domain": "thecrosbygroup.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "403 Forbidden",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/11525440daa8ece242e6e1f32e8e58fc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vehfq1jpu0jzr1jpvvauq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-23 12:36:45.771429",
+    "disclosedDate": "2023-03-23 12:36:45.771455"
+  }
+}

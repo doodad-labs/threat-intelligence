@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-28236F",
+  "type": "ransomware-incident",
+  "title": "metalurgica roma ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "metalurgica roma",
+    "domain": "metalurgicaroma.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "monti",
+    "name": "monti",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "full leak",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/41eb4b561bbc05fd8651b5abbb277ce8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwv0ywx1cmdpy2egcm9tyubtb250aq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-28 21:41:20.357968",
+    "disclosedDate": "2025-01-28 21:42:30.097168"
+  }
+}

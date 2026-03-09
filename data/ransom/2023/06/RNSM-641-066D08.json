@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-066D08",
+  "type": "ransomware-incident",
+  "title": "progen.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "progen.com.br",
+    "domain": "progen.com.br",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mais de 5.000 projetos realizados para os maiores players do mercado nacional e internacional em 35 anos",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1a4f6557af730bba72c502f721b25041.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjvz2vulmnvbs5ickbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-06 20:30:00.000000",
+    "disclosedDate": "2023-06-06 21:54:20.134394"
+  }
+}

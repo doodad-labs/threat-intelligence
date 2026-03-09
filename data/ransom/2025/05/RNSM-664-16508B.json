@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-16508B",
+  "type": "ransomware-incident",
+  "title": "D&G Enviro-Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "D&G Enviro-Group",
+    "domain": "dgenviro.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Energy, Utilities & WasteCanada · <25 EmployeesThe flexible corporate structure at D&G Enviro-Group ensures that each client receives highly personalized service and cost-effective solutions to the challenges within a project. The ultimate objective of our team is to provide environmental services that are suited to the specific needs of each client.Revenue <$5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/464b50c9cd7de54de780f72f28e2f49a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rczhievudmlyby1hcm91cebibgfja2xvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-28 18:54:04.924595",
+    "disclosedDate": "2025-05-16 12:57:12.843542"
+  }
+}

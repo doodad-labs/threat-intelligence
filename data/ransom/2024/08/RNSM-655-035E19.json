@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-035E19",
+  "type": "ransomware-incident",
+  "title": "aikenhousing.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aikenhousing.org",
+    "domain": "aikenhousing.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9decb07a2ad8941e8c4d3255770e26da.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywlrzw5ob3vzaw5nlm9yz0bibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-23 00:00:00.000000",
+    "disclosedDate": "2024-08-03 04:02:17.961781"
+  }
+}

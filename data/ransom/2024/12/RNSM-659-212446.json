@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-212446",
+  "type": "ransomware-incident",
+  "title": "GAMKA SALES CO. INC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GAMKA SALES CO. INC",
+    "domain": "gamka.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a546e28fb430d1c144f9cfaf75f9fc3a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r0fns0egu0fmrvmgq08uieloq0brawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-21 21:13:19.482605",
+    "disclosedDate": "2024-12-21 21:13:20.387287"
+  }
+}

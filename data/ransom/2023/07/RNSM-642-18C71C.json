@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-18C71C",
+  "type": "ransomware-incident",
+  "title": "dixiesfed.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dixiesfed.com",
+    "domain": "dixiesfed.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home CU Banking at www.dixiefed.com. Our online banking is available 24/7/365. If you have not already enrolled in Home CU, you can enroll at any time. This service allows you to view your account balances, make transfers, view transactions and pay b...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8355aba0dacafe7a566821a441a43d07.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgl4awvzzmvklmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-18 08:41:00.000000",
+    "disclosedDate": "2023-07-18 09:57:34.901883"
+  }
+}

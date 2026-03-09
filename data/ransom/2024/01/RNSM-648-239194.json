@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-648-239194",
+  "type": "ransomware-incident",
+  "title": "Total Air Solutions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Total Air Solutions",
+    "domain": "totalairfl.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 250000000000,
+    "description": "Total Air Solutions provides residential and commercial HVAC services throughout North Port, Tampa, and Bradenton.  The network of this company has been breached by our organisation. As a result over 250GB of data leaked from there.  Stolen data contains but not limited with the following data related to Total Air Solutions:   -financial data  -projects data  -projects closeouts  -blueprints  -engineering  -personal documents  -contracts and subcontracts  -vendor and customers contacts  -employee personal data",
+    "claimed_data_types": [
+      "financial-data",
+      "blueprints",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/af656118a2d056c0d7132a923a21e884.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vg90ywwgqwlyifnvbhv0aw9uc0bhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-23 13:14:29.123456",
+    "disclosedDate": "2024-01-23 13:15:32.850598"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-247478",
+  "type": "ransomware-incident",
+  "title": "Andrew Davidson & Co., Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Andrew Davidson & Co., Inc.",
+    "domain": "ad-co.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "frag",
+    "name": "frag",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Financial ServicesAndrew Davidson & Co., Inc. is a leading provider of risk analytics and consulting to the mortgage-backed securities (MBS) and asset-backed securities (ABS) industry.Our team was successful in extracting the following documents:Contact details of customers and employeesFinancial statements of the companyInsurance certificates",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw5kcmv3ierhdmlkc29uicygq28ulcbjbmmuqgzyywc=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-14 00:00:00.000000",
+    "disclosedDate": "2025-03-24 19:24:53.885347"
+  }
+}

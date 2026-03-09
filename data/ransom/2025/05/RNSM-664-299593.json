@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-299593",
+  "type": "ransomware-incident",
+  "title": "schoenundendres.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "schoenundendres.de",
+    "domain": "schoenundendres.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7c8ef328b79852180c59b04f2c3b4164.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2nob2vudw5kzw5kcmvzlmrlqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-10 00:00:00.000000",
+    "disclosedDate": "2025-05-29 12:50:53.553650"
+  }
+}

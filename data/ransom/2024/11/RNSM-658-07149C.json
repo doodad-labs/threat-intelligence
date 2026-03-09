@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-07149C",
+  "type": "ransomware-incident",
+  "title": "Howell Electric Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Howell Electric Inc",
+    "domain": "howellelectric.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 189900000000,
+    "description": "Howell Electric Inc. ( founded 1986 ) is a electrical contractor company. It offers design-build construction, security, access control, & CCTV systems. Howell Electric corporate office is located in 3390 Viso Ct, Santa Clara, California, 95054, United States and has 104 employees. The total amount of data leakage is 189.9 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/02eaa14b9dd4d23070a87260e5e5844f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg93zwxsievszwn0cmljieluy0btzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-06 16:54:49.000000",
+    "disclosedDate": "2024-11-07 08:58:51.171728"
+  }
+}

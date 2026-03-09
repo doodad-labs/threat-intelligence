@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-085C85",
+  "type": "ransomware-incident",
+  "title": "Paulmann Licht ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Paulmann Licht",
+    "domain": "paulmann.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Germany - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d0657d1ee816e32d65b8ee8a84176d5a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugf1bg1hbm4gtgljahraahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-08 18:17:55.000000",
+    "disclosedDate": "2024-04-08 19:00:58.934695"
+  }
+}

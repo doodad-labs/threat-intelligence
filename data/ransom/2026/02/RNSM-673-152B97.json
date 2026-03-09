@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-152B97",
+  "type": "ransomware-incident",
+  "title": "Bigso ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bigso",
+    "domain": "bigso.com",
+    "country": "SE"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bigso Box, established in 1963, specializes in premium storage and packaging solutions that are both sustainable and stylish. Their product range includes customizable storage boxes and luxury packaging options designed for homes, offices, and retailers. The company prides itself on its commitment to quality, innovation, and customer service, ensuring efficient and elegant organization solutions. With a focus on eco-friendly materials and manufacturing processes, Bigso Box serves clients looking for functional yet decorative storage solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6b51ac9a943893c6ce6c3031b1e24522.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmlnc29azhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-15 08:04:13.203357",
+    "disclosedDate": "2026-02-15 09:22:04.547527"
+  }
+}

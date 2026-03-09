@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-157D35",
+  "type": "ransomware-incident",
+  "title": "Motor Munich ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Motor Munich",
+    "domain": "motormunich.cat",
+    "country": "ES",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Motor Munich is the official dealer of BMW and MINI since 1988 in Barcelona Area. It has facilities in Sant Cugat, Terrassa and Sabadell which total over 15,000...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw90b3igtxvuawnoqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-14 00:00:00.000000",
+    "disclosedDate": "2024-05-15 19:02:43.167668"
+  }
+}

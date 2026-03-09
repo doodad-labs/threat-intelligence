@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-653-28359B",
+  "type": "ransomware-incident",
+  "title": "ASI ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ASI",
+    "domain": "asipartner.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1987, ASI is a leader in the distribution of IT products and also offers custom integration on notebooks, desktops, servers, and NAS systems.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvnjqgjpyw5sawfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-28 19:23:06.568302",
+    "disclosedDate": "2024-06-28 19:23:07.439465"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-275368",
+  "type": "ransomware-incident",
+  "title": "FORDSTORAGE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FORDSTORAGE.COM",
+    "domain": "fordstorage.com",
+    "country": "",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] FordStorage.com is a comprehensive logistics and warehousing service provider that focuses on various verticals like packaging, shipping, storage, and distribution. This company enables its clients to handle their operations efficiently with innovative storage solutions, managing inventory, and streamlining shipment process effectively.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rk9srfnut1jbr0uuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:59:29.975695",
+    "disclosedDate": "2025-02-27 17:59:37.126930"
+  }
+}

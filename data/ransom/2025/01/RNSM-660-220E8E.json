@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-220E8E",
+  "type": "ransomware-incident",
+  "title": "www.grohe.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.grohe.com",
+    "domain": "grohe.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Grohe is a leading global brand for complete bathroom solutions and kitchen fittings. The company is headquartered in Germany and provides an extensive line of products that includes faucets, showers, thermostats, and flush systems. With a reputation for quality and innovation, Grohe blends advanced technology with premium design to deliver high-performance, water-saving products. The company emphasizes sustainability and durability in its designs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/51279800b0896aab806c369aada69885.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmdyb2hllmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-22 14:44:37.092363",
+    "disclosedDate": "2025-01-22 14:45:50.676980"
+  }
+}

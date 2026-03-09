@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-109D30",
+  "type": "ransomware-incident",
+  "title": "Atlantic Coast Consulting Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Atlantic Coast Consulting Inc",
+    "domain": "atlcc.net",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "meow",
+    "name": "meow",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Atlantic Coast Consulting Inc is a professional firm specializing in environmental consulting and engineering services. They focus on waste management, environmental compliance, and sustainable solutions for various industries. The company is known for its expertise in permitting, site assessments, and regulatory compliance, helping clients navigate complex environmental regulations efficiently.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e5a3cd0cd1321ab57fb075b8b5b800b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxrsyw50awmgq29hc3qgq29uc3vsdgluzybjbmnabwvvdw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-10 10:35:07.248446",
+    "disclosedDate": "2024-10-10 10:35:09.194027"
+  }
+}

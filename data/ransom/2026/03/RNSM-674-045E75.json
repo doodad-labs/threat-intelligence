@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-045E75",
+  "type": "ransomware-incident",
+  "title": "The City of Hesperia, CA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The City of Hesperia, CA",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Access was gained to files containing state secrets, non-disclosure agreements, contracts with private and public companies, as well as personal data of employees and government officials. Transactions, payment, and tax documents were also obtained.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c44129d6a3c52e04c7025cd3515f66d3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlienpdhkgb2ygsgvzcgvyawesienbqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-04 12:00:00.000000",
+    "disclosedDate": "2026-03-04 12:40:29.364165"
+  }
+}

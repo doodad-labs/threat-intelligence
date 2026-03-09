@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-18A65B",
+  "type": "ransomware-incident",
+  "title": "Alliance Industries, LLC. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Alliance Industries, LLC.",
+    "domain": "allianceind.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Alliance Industries, LLC is a diversified company specializing in manufacturing and industrial services. It operates across various sectors, providing customized solutions to meet client needs. The company is known for its commitment to quality, innovation, and customer service. With a focus on sustainability and efficiency, Alliance Industries aims to deliver high-value products and services to its clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxsawfuy2ugsw5kdxn0cmllcywgtexdlkbfbervcmfkbw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:03:57.687970",
+    "disclosedDate": "2024-11-18 21:03:59.892447"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-659-09CB87",
+  "type": "ransomware-incident",
+  "title": "Pelstar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pelstar",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pelstar Computer Systems is a complete technology solution provider. We are ready to upload some internal corporate documents including: credit cards data with CVC, customer contacts with phones, inside financial information, SSNs etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvsc3rhckbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-06 00:00:00.000000",
+    "disclosedDate": "2024-12-09 14:59:37.245961"
+  }
+}

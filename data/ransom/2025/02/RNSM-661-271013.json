@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-271013",
+  "type": "ransomware-incident",
+  "title": "MERANGUE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MERANGUE.COM",
+    "domain": "merangue.com",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Merangue International Limited, known as Merangue.com, is a Canadian-based company that specializes in manufacturing and supplying an array of office and school products. Its offerings include stationery, writing instruments, organizers and more. Established in 1982, the company has grown to provide its customers with creative, high-quality, and competitively priced products in the office supply industry. Its commitment to design, functionality, and innovation emphasizes customer satisfaction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tuvsqu5hvuuuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:43:10.249907",
+    "disclosedDate": "2025-02-27 16:43:16.865001"
+  }
+}

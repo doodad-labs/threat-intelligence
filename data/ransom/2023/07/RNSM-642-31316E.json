@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-642-31316E",
+  "type": "ransomware-incident",
+  "title": "obrelli.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "obrelli.it",
+    "domain": "obrelli.it",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 35000000000,
+    "description": "35gb-personal data of clients-confidential infoGioielleria Obrelli is a company that operates in the Luxury Goods & Jewelry industry. It employs 6-10 people and has $1M-$5M of revenue",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/18ca5af9c832a37614eba8c3984348c0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b2jyzwxsas5pdebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-31 18:37:00.000000",
+    "disclosedDate": "2023-07-31 19:58:16.004041"
+  }
+}

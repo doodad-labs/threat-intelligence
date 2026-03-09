@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-643-10745E",
+  "type": "ransomware-incident",
+  "title": "Boson ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Boson",
+    "domain": "boson.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Boson offers IT learning software to individuals, businesses, academic institutions and government entities around the world. We gained access to their network found some files there. We will upload the soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qm9zb25aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-10 13:27:43.507021",
+    "disclosedDate": "2023-08-10 13:27:43.707620"
+  }
+}

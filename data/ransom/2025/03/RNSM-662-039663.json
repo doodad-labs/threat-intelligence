@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-662-039663",
+  "type": "ransomware-incident",
+  "title": "K**d.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "K**d.edu",
+    "country": "",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "flocker",
+    "name": "flocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "To the board of K*** ********y ******e We have owned your system at k**d.edu we also took backup of data […]",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/syoqzc5lzhvazmxvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-03 00:00:00.000000",
+    "disclosedDate": "2025-03-03 12:52:26.097068"
+  }
+}

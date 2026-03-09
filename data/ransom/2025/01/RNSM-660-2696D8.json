@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-2696D8",
+  "type": "ransomware-incident",
+  "title": "Metro Wire & Cable ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Metro Wire & Cable",
+    "domain": "metrowire.net",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Metro Wire & Cable—one of the nation’s top 150 electrical distributors—provides warehousing, supply chain and delivery services of wire and cable products for a broad spectrum of markets. These markets include public utilities, electrical contractors, wind farm developers, commercial and industrial HVAC industries, traffic and transportation sectors, Original Equipment Manufacturers (OEM’s) and the security/low voltage industries.Our company was founded in Detroit in 1976 and since then we’ve only continued to grow. Our Southeast Regional Distribution Center was established in Atlanta in 1981, and our Midwest Regional Distribution Center opened its doors in Iowa City in 2008. We’re now headquartered in Sterling Heights, Michigan, and we’re dedicated to maintaining extensive inventories tailored specifically to customer requirements at each location.•   Financial document, accounting reports, personal information of employees and clients https://www.metrowire.net/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8aaf4c546548cbeba419fd65a73f84a5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twv0cm8gv2lyzsamienhymxlqhnwywnlymvhcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-26 12:15:24.747086",
+    "disclosedDate": "2025-01-26 12:16:42.649423"
+  }
+}

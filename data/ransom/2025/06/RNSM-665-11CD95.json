@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-11CD95",
+  "type": "ransomware-incident",
+  "title": "Eastern Platinum Limited ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Eastern Platinum Limited",
+    "domain": "eastplats.com",
+    "country": "CA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Eastern Platinum Limited is a Canada-based company engaged in the mining, exploration, and development of platinum group metal (PGM) deposits in South Africa. The company operates through its subsidiary, Barplats Mines Ltd, which holds significant reserves of PGMs in the Busveld Igneous Complex. The company’s primary asset is the Crocodile River Mine. Its services extend from extraction to refining and selling the metals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwfzdgvybibqbgf0aw51bsbmaw1pdgvkqhdvcmxkbgvha3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.businesslive.co.za/bd/companies/mining/2025-06-17-eastern-platinum-the-latest-miner-to-suffer-cyber-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-27 00:00:00.000000",
+    "disclosedDate": "2025-06-11 15:25:57.674387"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-24DB40",
+  "type": "ransomware-incident",
+  "title": "CORIENT  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CORIENT ",
+    "domain": "rhbco.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "Visits: 74 Data Size: 30GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ac9c2ef0e98e145a6c080933178bffac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q09ssuvovcbacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-24 10:23:28.777576",
+    "disclosedDate": "2024-04-24 10:23:28.777599"
+  }
+}

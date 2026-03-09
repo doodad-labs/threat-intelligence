@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-19D640",
+  "type": "ransomware-incident",
+  "title": "THAIRUNG GROUP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "THAIRUNG GROUP",
+    "domain": "thairunggroup.co.th",
+    "country": "TH",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Thairung Group is a leading group of companies in the automobile business.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/898dcb6fd5ca451a3c40525fd8a5d9be.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vehbsvjvtkcgr1jpvvbazglyzxdvbgy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-26 04:37:31.912527",
+    "disclosedDate": "2025-06-19 04:37:56.420279"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-1702EB",
+  "type": "ransomware-incident",
+  "title": "Toyota Financial ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Toyota Financial",
+    "domain": "toyota-fs.de",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. Toyota is one of the largest automobile manufacturers in the world, producing about 10 million vehicles per year. The leaked data is from Toyota Financial Services in Germany. Toyota Deutschland GmbH is an affiliated company held by Toyota Motor Europe (TME) in Brussels/Belgium and located in Köln (Cologne).",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a29e1facd59d9ed6680c0d1dcf74e60e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vg95b3rhiezpbmfuy2lhbebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-16 04:20:21.12345",
+    "disclosedDate": "2023-11-17 08:28:24.068658"
+  }
+}

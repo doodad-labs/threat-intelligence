@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-649-095C5C",
+  "type": "ransomware-incident",
+  "title": "posen.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "posen.com",
+    "domain": "posen.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 724000000000,
+    "description": "Posen Architects 724Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cg9zzw4uy29tqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-09 11:37:41.442208",
+    "disclosedDate": "2024-02-09 11:37:41.442231"
+  }
+}

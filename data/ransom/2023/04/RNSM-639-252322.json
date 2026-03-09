@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-252322",
+  "type": "ransomware-incident",
+  "title": "imanor.gov.ma ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "imanor.gov.ma",
+    "domain": "imanor.gov.ma",
+    "country": "MA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Institut Marocain de Normalisation IMANOR",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e0796126a3975eb8d26e8ae9a0458062.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw1hbm9ylmdvdi5tyubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-25 15:31:00.000000",
+    "disclosedDate": "2023-04-25 16:49:56.728018"
+  }
+}

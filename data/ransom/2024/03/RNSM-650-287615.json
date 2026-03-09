@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-287615",
+  "type": "ransomware-incident",
+  "title": "Sfi-wfc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sfi-wfc.com",
+    "domain": "sfi-wfc.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "redransomware",
+    "name": "redransomware",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "sfi-wfc.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2zplxdmyy5jb21acmvkcmfuc29td2fyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-05 00:00:00.000000",
+    "disclosedDate": "2024-03-28 21:23:44.653561"
+  }
+}

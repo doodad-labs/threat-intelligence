@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-636-12D37D",
+  "type": "ransomware-incident",
+  "title": "versteden.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "versteden.com",
+    "domain": "versteden.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Versteden is specialized in the fabrication of fiberglass piping systems (Polyester, Vinyl Ester or Epoxy) either with or without a thermoplastic liner (PE, PP, PVC-U, PVC-C, PVDF or ECTFE). Its broad range of products makes it easy to choose the rig...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmvyc3rlzgvulmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-12 11:19:39.067015",
+    "disclosedDate": "2023-01-12 11:19:39.067015"
+  }
+}

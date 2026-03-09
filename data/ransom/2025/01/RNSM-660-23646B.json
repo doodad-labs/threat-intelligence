@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-660-23646B",
+  "type": "ransomware-incident",
+  "title": "WorldNet Telecommunications LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WorldNet Telecommunications LLC",
+    "domain": "worldnetpr.com",
+    "country": "PR",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 8000000000,
+    "description": "WorldNet stands out for offering services to companies with a full range of technology solutions, including digital security, IT consulting, voice, data, cloud services, broadband Internet, satellite telephony and business continuity.We are ready to upload more than 8 GB of private corporate documents such as: license agreements, NDAs, internal financial data (audits, payment details, reports), insurance documents, customer contact emails and phones, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v29ybgrozxqgvgvszwnvbw11bmljyxrpb25ziexmq0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-10 00:00:00.000000",
+    "disclosedDate": "2025-01-23 14:50:37.795226"
+  }
+}

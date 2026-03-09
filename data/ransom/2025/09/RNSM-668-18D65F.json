@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-18D65F",
+  "type": "ransomware-incident",
+  "title": "Mitrani Rynor Adamsky & Toland ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mitrani Rynor Adamsky & Toland",
+    "domain": "mitrani.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "securotrop",
+    "name": "securotrop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2960000000000,
+    "description": "Status: AWAITINGSize: 2960 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/803e55e296e455f81d0ab9e71f8387ab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twl0cmfuasbsew5vcibbzgftc2t5icygvg9syw5kqhnly3vyb3ryb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-18 18:50:11.251805",
+    "disclosedDate": "2025-09-18 18:50:23.270939"
+  }
+}

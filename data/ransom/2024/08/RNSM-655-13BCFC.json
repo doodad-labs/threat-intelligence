@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-13BCFC",
+  "type": "ransomware-incident",
+  "title": "Banner and Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Banner and Associates",
+    "domain": "banneracc.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "trinity",
+    "name": "trinity",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000000,
+    "description": "full data base(1,5 TB) - Revenue: $7.6 Million - Publication date: 2024-09-20",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/49d10c60b3f7db96c4459d20092d8bdb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfubmvyigfuzcbbc3nvy2lhdgvzqhryaw5pdhk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-13 13:03:43.762772",
+    "disclosedDate": "2024-08-13 13:03:44.825907"
+  }
+}

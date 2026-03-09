@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-272619",
+  "type": "ransomware-incident",
+  "title": "carc.gov.jo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "carc.gov.jo",
+    "domain": "carc.gov.jo",
+    "country": "JO",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "carc.gov",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1571263ea6014e79c62f9621a731ca9d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fyyy5nb3yuam9aymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 08:13:24.487019",
+    "disclosedDate": "2025-01-27 08:14:30.414217"
+  }
+}

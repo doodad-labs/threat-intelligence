@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-098603",
+  "type": "ransomware-incident",
+  "title": "altaortho.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "altaortho.com",
+    "domain": "altaortho.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Alta Orthopaedics specializes in orthopaedic surgery, pain management, and sports medicine, serving clients in Santa Barbara, Solvang, Oxnard, and Santa Maria, CA. They offer a range of services including treatment for ACL injuries, meniscus tears, elbow tendon pathology, rotator cuff disease, fractures, and various types of surgical procedures. The practice boasts a convenient online booking system and a focus on patient education and care, as reflected in positive customer testimonials. Their team of specialists includes physicians and physician assistants experienced in various orthopaedic disciplines.\r Employees: 50\r Revenue: $8.9 Million\r Industry: Hospitals & Physicians Clinics\r Phone Number: (805) 688-8821",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cc95b30d443c542d7088868b09543552.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywx0yw9ydghvlmnvbubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-09 12:09:00.000000",
+    "disclosedDate": "2026-03-09 20:37:26.377016"
+  }
+}

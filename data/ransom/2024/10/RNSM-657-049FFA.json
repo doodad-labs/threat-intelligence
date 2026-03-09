@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-049FFA",
+  "type": "ransomware-incident",
+  "title": "enterpriseoutsourcing.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "enterpriseoutsourcing.com",
+    "domain": "enterpriseoutsourcing.com",
+    "country": "ZA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Enterprise Outsourcing is a technology services company offering a range of solutions including IT consulting, cloud services, cybersecurity, and digital transformation. They focus on enhancing business operations through innovative technology, aiming to improve efficiency and security. Their services cater to various industries, emphasizing tailored strategies and support to meet unique client needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/467193232e8fafd9b8ec6ddb301a6d78.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw50zxjwcmlzzw91dhnvdxjjaw5nlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-02 00:00:00.000000",
+    "disclosedDate": "2024-10-04 09:15:12.988038"
+  }
+}

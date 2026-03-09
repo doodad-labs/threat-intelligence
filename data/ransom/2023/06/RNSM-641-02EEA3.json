@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-02EEA3",
+  "type": "ransomware-incident",
+  "title": "ykk.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ykk.com",
+    "domain": "ykk.com",
+    "country": "JP",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "branch in the USAThe YKK Group (YKKグループ, Waikeikei Gurūpu) is a Japanese group of manufacturing companies. They are the world's largest zipper manufacturer, also producing other fastening products, architectural products, plastic hardware and i...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8b5d9280ed5c1b8fd3e0733084502efe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ewtrlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-02 08:05:00.000000",
+    "disclosedDate": "2023-06-02 08:50:47.916620"
+  }
+}

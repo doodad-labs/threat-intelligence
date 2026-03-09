@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-652-1696EE",
+  "type": "ransomware-incident",
+  "title": "Insurance Agency Marketing Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Insurance Agency Marketing Services",
+    "domain": "iamsinc.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "moneymessage",
+    "name": "moneymessage",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4a3bee41e75c432dacd07bb978c8f3cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5zdxjhbmnliefnzw5jesbnyxjrzxrpbmcgu2vydmljzxnabw9uzxltzxnzywdl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/breacha30611.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-16 14:43:39.902618",
+    "disclosedDate": "2024-05-16 14:43:39.902641"
+  }
+}

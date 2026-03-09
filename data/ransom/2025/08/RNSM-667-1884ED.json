@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-667-1884ED",
+  "type": "ransomware-incident",
+  "title": "Justicia Penal Militar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Justicia Penal Militar",
+    "domain": "justiciamilitar.gov.co",
+    "country": "CO",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "gunra",
+    "name": "gunra",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fcb90b6f32a933ff62a484b96688da07.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/snvzdgljawegugvuywwgtwlsaxrhckbndw5yyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.radiosantafe.com/2025/06/17/justicia-penal-militar-y-policial-en-emergencia-por-ataque-cibernetico/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-18 08:10:56.990203",
+    "disclosedDate": "2025-08-18 08:11:09.208414"
+  }
+}

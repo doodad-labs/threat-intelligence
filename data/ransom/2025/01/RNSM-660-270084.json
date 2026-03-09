@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-270084",
+  "type": "ransomware-incident",
+  "title": "precisediagnosticspacs.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "precisediagnosticspacs.com",
+    "domain": "precisediagnosticspacs.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "precisediagnosticspacs.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/95d0a1600c18fdbf56766e42a8e58513.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjly2lzzwrpywdub3n0awnzcgfjcy5jb21aymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 08:08:34.503591",
+    "disclosedDate": "2025-01-27 08:09:41.739689"
+  }
+}

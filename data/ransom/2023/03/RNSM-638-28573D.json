@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-638-28573D",
+  "type": "ransomware-incident",
+  "title": "MICROFINANCE INSTITUTION ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MICROFINANCE INSTITUTION",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "karakurt",
+    "name": "karakurt",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 4000000000000,
+    "description": "We're happy to present you a brilliant 4TB stolen from a microfinance institution. We have 2,861,839 SSNs in total. Beside this, we hold other high value databases - for example, a gigantic database with 3 million lines, which contains information about the status of the loan, addresses, last names, phone numbers, mails, and even the characteristics of the debtor - very entertaining reading.Moreover, we have finance, clients data, accounting data, legal data, CRM backups, fully dumped VIP users mailboxes and more.You will definitely enjoy it!",
+    "claimed_data_types": [
+      "government-identifiers",
+      "phone-numbers",
+      "addresses"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tulduk9gsu5btknfielou1rjvfvusu9oqgthcmfrdxj0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-28 15:06:29.336061",
+    "disclosedDate": "2023-03-28 15:06:29.336089"
+  }
+}

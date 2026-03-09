@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19A067",
+  "type": "ransomware-incident",
+  "title": "rgvfirm.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rgvfirm.com",
+    "domain": "rgvfirm.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Griffith Law Group is committed to the optimal resolution of all disputes in the most profitable, efficient and cost-effective way. When you contact our firm, we will work to develop a winning strategy tailored to your unique circumstances. This may...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/688e358a82c8afa6528ed2373b4d2ae4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmd2zmlybs5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-19 14:25:00.000000",
+    "disclosedDate": "2024-04-19 11:07:23.012355"
+  }
+}

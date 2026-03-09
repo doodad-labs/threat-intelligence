@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-26E09B",
+  "type": "ransomware-incident",
+  "title": "WSP.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WSP.COM",
+    "domain": "wsp.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Nous sommes WSP - WSP",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e238c4d9af399c70ac3a0094b6f4ad5c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v1nqlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:48:25.388829",
+    "disclosedDate": "2023-07-26 20:48:25.388882"
+  }
+}

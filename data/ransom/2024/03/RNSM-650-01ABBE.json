@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-650-01ABBE",
+  "type": "ransomware-incident",
+  "title": "Shein ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Shein",
+    "domain": "shein.com",
+    "country": "SG",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "mogilevich",
+    "name": "mogilevich",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "Revenue: +$30B We successfully fucked shein's servers Category: child labour Data compromised:customers,shipment, employees information Size: 300GB Data is also for sale! Deadline: 3.10.24 If you are an employee of the company or someone who would like to buy the data, click on me",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2hlaw5abw9nawxldmljaa==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-01 00:00:00.000000",
+    "disclosedDate": "2024-03-01 14:41:34.076860"
+  }
+}

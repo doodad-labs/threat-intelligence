@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-258AFE",
+  "type": "ransomware-incident",
+  "title": "Aroma Housewares Co (Aromaco.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aroma Housewares Co (Aromaco.com)",
+    "domain": "aromaco.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 35000000000,
+    "description": "35 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e8a7e1b2fab5c983d6c78f12ac3e58f6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjvbwegsg91c2v3yxjlcybdbyaoqxjvbwfjby5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-25 00:00:00.000000",
+    "disclosedDate": "2024-12-25 17:19:11.543324"
+  }
+}

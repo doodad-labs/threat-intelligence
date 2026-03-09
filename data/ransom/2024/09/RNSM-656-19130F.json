@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-656-19130F",
+  "type": "ransomware-incident",
+  "title": "Compass Group (2nd attack) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Compass Group (2nd attack)",
+    "domain": "compass-group.com.au",
+    "country": "AU",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Our affiliate entered this poor network this morning and messed the computers again!Company kiddy network administrators installed Crowdstrike Falcon EDR everywhere and thought they removed all our connections. Affiliate took the screenshots of DC. Company doesn't care the customer's privacy and also their network security too. One of the poorest company with poor network admins in Australia.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/917a401af157778020a4a01caef517ed.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tcgfzcybhcm91ccaomm5kigf0dgfjaylabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cyberdaily.au/security/11128-exclusive-sydney-based-compass-group-confirms-medusa-ransomware-attack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-18 23:44:09.000000",
+    "disclosedDate": "2024-09-19 04:04:08.320571"
+  }
+}

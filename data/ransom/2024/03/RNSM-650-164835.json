@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-650-164835",
+  "type": "ransomware-incident",
+  "title": "Topa Partners ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Topa Partners",
+    "domain": "topa.co.nz",
+    "country": "NZ"
+  },
+  "actor": {
+    "id": "trigona",
+    "name": "trigona",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Topa Electrical, led by Electrical Inspector Jeff Zhao, boasts a rich legacy of over a decade in providing top-notch electrical services to the Canterbury region in New Zealand. With a steadfast commitment to excellence and a focus on building enduring relationships with clients, Topa Electrical has emerged as a trusted name in the industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/74ddba26a2ed6764a3daf2fe58b5ad7d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vg9wysbqyxj0bmvyc0b0cmlnb25h",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-16 12:00:00.000000",
+    "disclosedDate": "2024-03-16 17:49:46.976170"
+  }
+}

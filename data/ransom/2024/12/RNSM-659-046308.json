@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-659-046308",
+  "type": "ransomware-incident",
+  "title": "marietta-city.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "marietta-city.org",
+    "domain": "marietta-city.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Marietta-city.org is the official website for the city of Marietta, Georgia. It serves as a central hub for information about the city's government, services, and community resources. The site provides details on city departments, local events, public notices, and municipal operations. It aims to facilitate communication between residents and city officials, enhancing civic engagement and access to public services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4eb3673770bf28889b5220bad97dc637.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfyawv0dgety2l0es5vcmdacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.wsbtv.com/news/local/cobb-county/unauthorized-access-marietta-city-schools-confirms-hackers-tried-breaking-into-computer-system/vzokj3h4uraalfxwex6q6zpsmq/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-03 13:23:36.000000",
+    "disclosedDate": "2024-12-04 07:41:52.483451"
+  }
+}

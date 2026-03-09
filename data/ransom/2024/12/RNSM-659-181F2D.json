@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-181F2D",
+  "type": "ransomware-incident",
+  "title": "valveworksusa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "valveworksusa.com",
+    "domain": "valveworksusa.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 905000000000,
+    "description": "Valveworks USA is a privately-held company based in Bossier City, Louisiana, founded in 1993 by Rick Roberts. With over 25 years of experience in the oil and gas industry, Valveworks specializes in manufacturing gate valves and wellhead equipment, establishing itself as a leading producer in this sector.SITE: www.valveworksusa.com Address : 1650 Swan Lake Road Bossier City, LA 71111 United StatesTEL#: 318-425-0266ALL DATA SIZE: ≈905gb+ 1. Financial data 2. Personal data 3. Human Resources, personal docs 4. Drawings, Engeneering, CAD & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e5e165ccb60a863a2d8c74ef0d29a797.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmfsdmv3b3jrc3vzys5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-26 00:00:00.000000",
+    "disclosedDate": "2024-12-18 13:51:28.756810"
+  }
+}

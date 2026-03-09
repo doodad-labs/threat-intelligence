@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-04981F",
+  "type": "ransomware-incident",
+  "title": "uniaomarmores ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "uniaomarmores",
+    "domain": "uniaomarmores.com.br",
+    "country": "BR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] União Mármores is a company specializing in the extraction, processing, and distribution of marble and other natural stones. Known for its commitment to quality and craftsmanship, the company offers a wide range of stone products for both residential and commercial projects. Their expertise in the industry allows them to deliver customized solutions that meet the specific needs of their clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dw5pyw9tyxjtb3jlc0bmdw5rc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-04 13:15:00.712927",
+    "disclosedDate": "2024-12-04 13:15:03.265816"
+  }
+}

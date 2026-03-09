@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-12A9EF",
+  "type": "ransomware-incident",
+  "title": "ICBC (London) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ICBC (London)",
+    "domain": "icbclondon.com",
+    "country": "GB",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/019488bc2e2eb3f44f74ca70c6f26d73.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/suncqyaotg9uzg9ukubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-11 07:22:44.000000",
+    "disclosedDate": "2024-09-12 18:01:48.965448"
+  }
+}

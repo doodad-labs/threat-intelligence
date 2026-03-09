@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-298D55",
+  "type": "ransomware-incident",
+  "title": "mcmtelecom.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mcmtelecom.com",
+    "domain": "mcmtelecom.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackout",
+    "name": "blackout",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We carried out an attack on mcmtelecom.com, a b2b telecommunications prov...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/93a5160f7b0bc67d68eed96e7d90f54b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwntdgvszwnvbs5jb21aymxhy2tvdxq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-29 14:48:19.870906",
+    "disclosedDate": "2024-05-29 14:48:19.870928"
+  }
+}

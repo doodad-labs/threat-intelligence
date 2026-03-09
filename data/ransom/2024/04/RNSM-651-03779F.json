@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-03779F",
+  "type": "ransomware-incident",
+  "title": "Apex Business Advisory ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Apex Business Advisory",
+    "domain": "apexadvisory.com.sg",
+    "country": "SG",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Apec Business Advisory are business advisors first. Based on out Singapore, we help companies with their general strategy, accounting, corporate secretarial and taxationhttp://www.apexadvisory.com.sg",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8e2dee497bafc752fe3eac9f7b03bec0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxblecbcdxnpbmvzcybbzhzpc29yeua4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-03 00:00:00.000000",
+    "disclosedDate": "2024-04-03 05:53:13.211613"
+  }
+}

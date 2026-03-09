@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-10333A",
+  "type": "ransomware-incident",
+  "title": "S5 Agency World ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "S5 Agency World",
+    "country": "GB",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "bert",
+    "name": "bert",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "S5 Agency World is a global port agency operating in over 360 ports, specializing in vessel and cargo services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f6fa6c0c057ebe5f4738c68aaa69f032.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uzugqwdlbmn5ifdvcmxkqgjlcnq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-10 05:27:51.673000",
+    "disclosedDate": "2025-06-10 05:44:36.366203"
+  }
+}

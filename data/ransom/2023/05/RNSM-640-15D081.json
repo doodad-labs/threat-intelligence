@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-15D081",
+  "type": "ransomware-incident",
+  "title": "BAMSI ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BAMSI",
+    "domain": "bamsi.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BAMSI is a private, non-profit social services organization that provides behavioral health and public health services to adults and children with developmental disabilities and mental illnesses. BAMSI was founded in 1975 and is headquartered in Brockton, Massachusetts, with 50,000 patients served annually.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/89ade25a5973ece9992b4ff5118cb6df.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkfnu0labwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-15 18:01:06.12345",
+    "disclosedDate": "2023-05-15 18:54:27.819323"
+  }
+}

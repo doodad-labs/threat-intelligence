@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-652-018100",
+  "type": "ransomware-incident",
+  "title": "frenckengroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "frenckengroup.com",
+    "country": "SG",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "underground",
+    "name": "underground",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue:$50.0M - Country :Singapore",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a688e93a9705fff168957a4a16bc8f8c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/znjlbmnrzw5ncm91cc5jb21adw5kzxjncm91bmq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-18 11:01:00.000000",
+    "disclosedDate": "2024-05-01 14:13:43.215817"
+  }
+}

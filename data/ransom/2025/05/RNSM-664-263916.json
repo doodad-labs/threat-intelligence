@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-263916",
+  "type": "ransomware-incident",
+  "title": "Étude Bordet ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Étude Bordet",
+    "domain": "etudebordet.com",
+    "country": "BE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "datacarry",
+    "name": "datacarry",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Étude Bordet\" is a estate firm specializing in property auctions. They provide a variety of services, including property valuations, asset management, and legal guidance related to property transactions. They support both buyers and sellers in the process of acquiring or disposing assets through auctions. Known for their expertise, they offer a comprehensive approach towards property auctions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/w4l0dwrliejvcmrldebkyxrhy2fycnk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-12 00:00:00.000000",
+    "disclosedDate": "2025-05-26 17:40:42.540041"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-25A5AD",
+  "type": "ransomware-incident",
+  "title": "zyloware.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "zyloware.com",
+    "domain": "zyloware.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Zyloware is a prominent eyewear company known for its innovative designs and high-quality products. Established in 1923, it has a rich history in the optical industry and offers a wide range of eyewear, including fashion-forward glasses and sunglasses for men and women. The company is committed to style, comfort, and durability, and caters to various consumer needs through its diverse brand portfolio.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f1860cb78b38d8c8c8c0ecb56ca66e66.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/enlsb3dhcmuuy29tqgjsywnrc3vpda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 05:07:32.605274",
+    "disclosedDate": "2024-10-25 05:07:35.131603"
+  }
+}

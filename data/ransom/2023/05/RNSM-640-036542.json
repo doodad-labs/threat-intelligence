@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-036542",
+  "type": "ransomware-incident",
+  "title": "SIVSA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SIVSA",
+    "domain": "sivsa.com",
+    "country": "ES",
+    "sector": ""
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Spaini - SIVSA Soluciones Informáticas is a consolidated company dedicated to the provision of services in the area of Information Technology, which with more than 25 years of experience in consulting and development, develops its business activity in Spain.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/96e999da6a72f5965d4fedfbc1ef34ef.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0lwu0facgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-03 22:54:34.458169",
+    "disclosedDate": "2023-05-03 22:54:34.458193"
+  }
+}

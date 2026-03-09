@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-663-062C93",
+  "type": "ransomware-incident",
+  "title": "Groupe Delcourt ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Groupe Delcourt",
+    "domain": "groupedelcourt.com",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4baf91a1d3488bc1c6b13596c2d24230.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jvdxblierlbgnvdxj0qgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://actualitte.com/article/123036/technologie/cyberattaque-chez-delcourt-des-donnees-personnelles-potentiellement-exposees",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-06 12:48:36.000000",
+    "disclosedDate": "2025-04-06 18:59:31.352185"
+  }
+}

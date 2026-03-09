@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-26AD6A",
+  "type": "ransomware-incident",
+  "title": "appsnw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "appsnw.com",
+    "domain": "appsnw.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e1725e13ad41b242f745aae7d80f511f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxbwc253lmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-27 00:00:00.000000",
+    "disclosedDate": "2025-07-26 20:50:29.276269"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-21C94F",
+  "type": "ransomware-incident",
+  "title": "Accueil - Site Offciel de la commune d'Ardon ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Accueil - Site Offciel de la commune d'Ardon",
+    "domain": "ardon45.fr",
+    "country": "FR",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Accueil - Site Offciel de la commune d'Ardon",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/23ed456a867e9b0e2531a32509f5e432.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnjdwvpbcatifnpdgugt2zmy2llbcbkzsbsysbjb21tdw5ligqnqxjkb25abmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-15 00:00:00.000000",
+    "disclosedDate": "2025-04-21 02:42:19.144691"
+  }
+}

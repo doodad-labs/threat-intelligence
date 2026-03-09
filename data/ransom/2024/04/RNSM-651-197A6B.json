@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-651-197A6B",
+  "type": "ransomware-incident",
+  "title": "fcps1.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fcps1.org",
+    "domain": "fcps1.org",
+    "country": "",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fauquier County Public Schools",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/364d1ae10836b00d61adeeae9fd68542.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmnwczeub3jnqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://therecord.media/virginia-school-district-open-lockbit",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-01 22:04:00.000000",
+    "disclosedDate": "2024-04-19 09:40:27.100067"
+  }
+}

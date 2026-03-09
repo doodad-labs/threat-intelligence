@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-659-20CDFD",
+  "type": "ransomware-incident",
+  "title": "City of Noblesville ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "City of Noblesville",
+    "domain": "in.gov",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "City of Noblesville is a company that operates in the Government industry. It employs 250to499 people and has 25Mto50M of revenue. The company is headquartered in Noblesville, IndianaWe present to your attention, a large SQL database, confidential data of employees, confidential data of the Police, and emergency services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ed0877b56ddbd91e1ce358b6e3b84003.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0esbvzibob2jszxn2awxszubpbnrlcmxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.noblesville.in.gov/egov/apps/document/center.egov?view=item&id=10902",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-20 04:41:24.492083",
+    "disclosedDate": "2024-12-20 04:41:25.217535"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-201283",
+  "type": "ransomware-incident",
+  "title": "lapostemobile.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lapostemobile.fr",
+    "domain": "lapostemobile.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "werewolves",
+    "name": "werewolves",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PosteMobile S.p.A. — итальянскаятелекоммуникационная компания,принадлежащая Poste Italiane S.p.A.которая работает в секторе мобильнойтелефонии в качестве операторамобильной виртуальной сети (Full MVNO)в сети Wind, а с 2018 года такжепредлагает фиксированную телефоннуюсвязь и интернет-услуги.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2df9959b444ee1ba4102ed22d8fb4bd3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgfwb3n0zw1vymlszs5mckb3zxjld29sdmvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-28 10:13:54.000000",
+    "disclosedDate": "2023-12-20 10:42:23.369895"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10FAA2",
+  "type": "ransomware-incident",
+  "title": "coghlans.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "coghlans.com",
+    "domain": "coghlans.com",
+    "country": "CA",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Coghlans.com is the online platform of Coghlan's Ltd, a Canada-based family-owned company established in 1959. The company is renowned for its camping gear, accessories & outdoor products. Its extensive product catalog includes cookware, first aid kits, insect protection, lighting, and camping tools. Coghlan's Ltd is committed to providing high-quality, affordable, and innovative products for outdoor enthusiasts around the globe.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29nagxhbnmuy29tqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:52:32.836332",
+    "disclosedDate": "2025-02-10 19:52:41.521146"
+  }
+}

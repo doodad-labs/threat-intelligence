@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-640-03B67B",
+  "type": "ransomware-incident",
+  "title": "City of Lowell ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "City of Lowell",
+    "domain": "lowellma.gov",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lowell, Massachusetts, United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8f98768a7ab997d1296fcbe564cec1ce.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0esbvzibmb3dlbgxacgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.lowellsun.com/2023/04/25/cyber-attack-on-lowell-city-halls-network/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-03 22:54:32.578483",
+    "disclosedDate": "2023-05-03 22:54:32.578506"
+  }
+}

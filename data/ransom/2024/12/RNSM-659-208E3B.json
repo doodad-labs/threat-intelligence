@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-659-208E3B",
+  "type": "ransomware-incident",
+  "title": "Izmocars ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Izmocars",
+    "domain": "izmolimited.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "Total volume data:More than 200GB of .msg files Files including:izmoltd izmocars izmolaw izmomedia izmolimited.com izmocars.be carazoosolutions.com auto-marketing.pro carazoo.com carsite.com cartalking.com citadeldefence.com citadelint.in citadelint.net cpa-marketing.pro deepheritage.com deepjansevasamiti.com dgipro.com dgipro-design.com digitalnanotechsg.com franchisenow.pro ipricecars.com izmocars.fr izmocrm.com izmodirect.com izmoeurope.be izmoinc.com izmolaw.com izmomedia.com izmonet.com izmostock.com izmostudio.com izmoweb.com izmoweb.in legal-marketing.pro partsgorilla.com smart-shiksha.com logixworld.com izmotion.com netmobyl.com si2microsystems.com vtcl.in sankeshwar.in medical-marketing.pro tejsoni.com motortrend.in […]",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7530810a45a7537594da3513f4fe7fb9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sxptb2nhcnnazxzlcmvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-20 19:42:30.304961",
+    "disclosedDate": "2024-12-20 19:42:31.167458"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-09D0E0",
+  "type": "ransomware-incident",
+  "title": "Cogdell Memorial Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cogdell Memorial Hospital",
+    "domain": "cogdellhospital.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lorenz",
+    "name": "lorenz",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29nzgvsbcbnzw1vcmlhbcbib3nwaxrhbebsb3jlbno=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.hipaajournal.com/cogdell-memorial-hospital-cyberattack-affects-87000-patients/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-09 00:00:00.000000",
+    "disclosedDate": "2023-11-09 13:09:16.960423"
+  }
+}

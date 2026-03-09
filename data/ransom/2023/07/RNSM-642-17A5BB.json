@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-17A5BB",
+  "type": "ransomware-incident",
+  "title": "VALMET.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VALMET.COM",
+    "domain": "valmet.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Valmet: technologies, services and automation to pulp, energy and paper industries",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a1a75977bc60204023f5939283f65c11.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vkfmtuvulknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-17 13:19:41.571401",
+    "disclosedDate": "2023-07-17 13:19:41.571448"
+  }
+}

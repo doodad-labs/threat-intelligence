@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-102D0E",
+  "type": "ransomware-incident",
+  "title": "BENSONMILLS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BENSONMILLS.COM",
+    "domain": "bensonmills.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Benson Mills is a company known for producing high-quality table linens and home products. Known for its durability and aesthetics, its product range includes placemats, tablecloths, runners, and napkins available in a variety of patterns and colors. Every item is designed to enhance any home dining experience. Additionally, they provide fabric, bamboo, glass, cork and PVC-based products.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0f920eeb2b309d9fdcfb31b2cb92aa8b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkvou09otulmtfmuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 15:04:05.837007",
+    "disclosedDate": "2025-02-10 15:05:25.950873"
+  }
+}

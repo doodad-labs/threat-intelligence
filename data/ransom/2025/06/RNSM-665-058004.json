@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-058004",
+  "type": "ransomware-incident",
+  "title": "American Hospital Dubai ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "American Hospital Dubai",
+    "domain": "ahdubai.com",
+    "country": "AE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "gunra",
+    "name": "gunra",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Healthcare Service",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c89a7dcd5cb0a980f07819b89d12843d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1lcmljyw4gsg9zcgl0ywwgrhviywlaz3vucme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-05 08:56:49.295060",
+    "disclosedDate": "2025-06-05 08:57:56.128074"
+  }
+}

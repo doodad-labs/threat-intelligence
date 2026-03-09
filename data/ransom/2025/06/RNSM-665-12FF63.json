@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-12FF63",
+  "type": "ransomware-incident",
+  "title": "garmonandcompany.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "garmonandcompany.com",
+    "domain": "garmonandcompany.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 26.06.2025.Garmon & Company specializes in commercial flooring designed specifically for businesses looking to expand their reach and impact. The company prides itself on understandin            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/528cdeb06eade056735dcb9ef8912bcf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2fybw9uyw5ky29tcgfues5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-12 00:00:00.000000",
+    "disclosedDate": "2025-06-12 15:02:45.733993"
+  }
+}

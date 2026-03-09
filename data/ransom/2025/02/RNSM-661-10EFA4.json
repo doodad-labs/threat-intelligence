@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10EFA4",
+  "type": "ransomware-incident",
+  "title": "detecno.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "detecno.com",
+    "domain": "detecno.com",
+    "country": "IT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Detecno.com is a technology company specializing in software development and digital solutions. They offer bespoke software development, including mobile app and web development, as well as digital transformation services. These services are targeted at businesses seeking to leverage technology for growth and efficiency improvements. Their team provides consulting services to make estimations, strategies, and technical solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgv0zwnuby5jb21ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 20:02:35.813684",
+    "disclosedDate": "2025-02-10 20:02:42.548384"
+  }
+}

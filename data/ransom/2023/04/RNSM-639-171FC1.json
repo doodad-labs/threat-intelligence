@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-639-171FC1",
+  "type": "ransomware-incident",
+  "title": "Moon Capital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Moon Capital",
+    "domain": "mooncapital.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Moon Capital Management is a company that specializes in global investment management solutions. While searching for a global solution they forgot to invest in their own cybersecurity. As a result we have almost 2TBs of their corporate and personal data: confidential finance and accounting data, reports etc. Employee information, medical insurance and other docs (even tests), passports, drivers licenses, interesting violations, salaries, securities and many other data.We are ready to share it with you! Stay in touch.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a7d30e18723fc78459626c5c2c7f5495.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw9vbibdyxbpdgfsqhjvewfs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-13 01:02:03.456789",
+    "disclosedDate": "2023-04-17 00:49:35.069859"
+  }
+}

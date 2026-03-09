@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-1818F9",
+  "type": "ransomware-incident",
+  "title": "neolife.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "neolife.com",
+    "domain": "neolife.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "NeolifeFood & Beverage · California, United States · 135 EmployeesNeoLife International Ltd is a company that operates in the Health, Wellness and Fitness industry. It employs 101-250 people and has $10M-$25M of revenue.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/acc8f25664de1e382dea6a0afebca58d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmvvbglmzs5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-18 15:31:00.000000",
+    "disclosedDate": "2023-08-18 16:04:39.963336"
+  }
+}

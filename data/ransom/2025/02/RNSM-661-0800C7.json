@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-661-0800C7",
+  "type": "ransomware-incident",
+  "title": "R******e.tw ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "R******e.tw",
+    "country": "TW"
+  },
+  "actor": {
+    "id": "flocker",
+    "name": "flocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The council Of R******e we look forward to talk We have breached R******e.tw server and extracted data on all employee, […]",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2ce35a03e6145ed1a67fa2ad4390c6e9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uioqkioqkmuudhdazmxvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-08 00:00:00.000000",
+    "disclosedDate": "2025-02-08 11:03:59.751630"
+  }
+}

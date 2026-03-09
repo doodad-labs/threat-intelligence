@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-659-26F561",
+  "type": "ransomware-incident",
+  "title": "Michelle Accesorios ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Michelle Accesorios",
+    "domain": "michelle.com.mx",
+    "country": "MX",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 296000000000,
+    "description": "Michelle AccesoriosSale of Acssesuars and Jewelry.Geo: Mexico - Leak size: 296 GB Archive - Contains: Files, SQL",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twljagvsbgugqwnjzxnvcmlvc0bzyxjjb21h",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-26 06:44:54.307990",
+    "disclosedDate": "2024-12-26 06:44:54.728162"
+  }
+}

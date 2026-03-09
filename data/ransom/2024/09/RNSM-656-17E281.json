@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-656-17E281",
+  "type": "ransomware-incident",
+  "title": "AutoCanada ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AutoCanada",
+    "domain": "autocan.ca",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Canada - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/07dc4aeaf0d598d4857b60684c74892a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxv0b0nhbmfkyubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/autocanada-discloses-cyberattack-impacting-internal-it-systems/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-17 13:36:32.000000",
+    "disclosedDate": "2024-09-17 17:03:02.982320"
+  }
+}

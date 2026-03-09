@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27F0C8",
+  "type": "ransomware-incident",
+  "title": "MCARDLESKEATH.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MCARDLESKEATH.COM",
+    "domain": "mcardleskeath.com",
+    "country": "IE",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] MCardle Skeath is an Ireland-based company that specializes in integrated supply chain solutions. It provides range of services including temperature controlled storage, cold chain logistics, intermodal transport, and warehousing. The company comes with over 50 years of experience and prides itself on transparency, technological innovation and reliability. MCardle Skeath services a variety of sectors, such as Pharmaceutical, Food & Beverage, and IT industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tunbukrmrvnlrufusc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:41:43.308159",
+    "disclosedDate": "2025-02-27 16:41:49.953627"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-22A28F",
+  "type": "ransomware-incident",
+  "title": "Bacton Transport Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bacton Transport Services",
+    "domain": "bactontransport.co.uk",
+    "country": "GB",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We offer a great range of road transport solutions to our clients, combining our technical expertise and products into packages designed to meet the requirements and budget of businesses throughout East Anglia: Contract Distributionis for clients requiring nationwide transport services who also seek the additional benefits and stability of a long-term partner. Our aim is to deliver high quality, value-added transport and management services to help drive down costs and maximise efficiency across your operations. Network Servicesprovides clients with a flexible transport service based upon our wide range of services for pallet freight, groupage/LCL and full loads; all offering nationwide delivery to UK, Eire and Europe. We will match your requirements to the right service, simplifying your sourcing process and enabling quicker routing decisions. Logistics Managementoffers solutions for clients sourcing products overseas and importing through the Port of Felixstowe.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d0fc0814b1d20bc510d6698331e96d38.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfjdg9uifryyw5zcg9ydcbtzxj2awnlc0byyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-10 00:00:00.000000",
+    "disclosedDate": "2025-04-22 14:41:48.287101"
+  }
+}

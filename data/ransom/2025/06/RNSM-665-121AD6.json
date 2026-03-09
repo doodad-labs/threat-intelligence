@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-121AD6",
+  "type": "ransomware-incident",
+  "title": "ramlaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ramlaw.com",
+    "domain": "ramlaw.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/45a93d9a11646e38a7fb66ce13385791.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmftbgf3lmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-20 00:00:00.000000",
+    "disclosedDate": "2025-06-12 21:18:59.247927"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-053156",
+  "type": "ransomware-incident",
+  "title": "davis-french-associates.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "davis-french-associates.co.uk",
+    "domain": "davis-french-associates.co.uk",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Davis French & Associates Ltd: Providing Disaster Response, Damage Management, Business Continuity and Recovery services to Insurers",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d6624cc5861d8aae16beaba9fc9a5bd3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgf2axmtznjlbmnolwfzc29jawf0zxmuy28udwtabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-05 16:49:00.000000",
+    "disclosedDate": "2024-02-05 17:56:59.032818"
+  }
+}

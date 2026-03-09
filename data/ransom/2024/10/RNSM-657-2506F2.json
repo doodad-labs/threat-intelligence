@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-2506F2",
+  "type": "ransomware-incident",
+  "title": "Doctor24x7 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Doctor24x7",
+    "domain": "doctor24x7.in",
+    "country": "IN",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f1c6006832d2c2b671207b5b01bfc17a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rg9jdg9ymjr4n0brawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 16:50:17.508978",
+    "disclosedDate": "2024-10-25 16:50:17.957617"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-122B32",
+  "type": "ransomware-incident",
+  "title": "doversd.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "doversd.org",
+    "domain": "doversd.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dover City Schools is a public K-12 school district located in Dover, Ohio, serving approximately 2,650 students across multiple schools. …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ec65f44e3fb4f725cb07d25816349f10.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zg92zxjzzc5vcmdac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-12 19:25:12.052707",
+    "disclosedDate": "2025-11-12 19:25:27.542683"
+  }
+}

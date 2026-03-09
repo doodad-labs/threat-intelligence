@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-07B9F1",
+  "type": "ransomware-incident",
+  "title": "bonatra.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bonatra.com",
+    "domain": "bonatra.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bonatra is the leading Holistic Health Care Company offering natural therapies to promote health and well-being.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f402887441686a66036f96a67663fad8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym9uyxryys5jb21aa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-07 08:23:11.012475",
+    "disclosedDate": "2024-08-07 08:23:12.017133"
+  }
+}

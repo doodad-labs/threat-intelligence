@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-14B048",
+  "type": "ransomware-incident",
+  "title": "DeVita & Associates, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DeVita & Associates, Inc.",
+    "domain": "devitainc.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 618400000000,
+    "description": "DeVita & Associates, Inc. ( founded in 1984) provides a full range of mechanical, electrical, and structural engineering services, including specialized structural precast design and detailing. DeVita & Associates corporate office is located in 1150 E Washington St, Greenville, South Carolina, 29601, United States and has 114 employees. The total amount of data leakage is 618.40 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/825cb82ba95c813fc8d4c1a19650a2b5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvwaxrhicygqxnzb2npyxrlcywgsw5jlkbtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-13 15:38:32.000000",
+    "disclosedDate": "2025-05-14 05:29:19.833093"
+  }
+}

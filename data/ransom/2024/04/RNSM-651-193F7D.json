@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-193F7D",
+  "type": "ransomware-incident",
+  "title": "ufcu.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ufcu.org",
+    "domain": "ufcu.org",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ufcu.org",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5c22ca0250c42ead5c1032ba75d6d60f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dwzjds5vcmdazglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-04 13:56:00.000000",
+    "disclosedDate": "2024-04-19 12:03:54.237017"
+  }
+}

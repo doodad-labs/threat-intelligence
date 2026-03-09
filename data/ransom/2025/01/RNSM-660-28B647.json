@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-28B647",
+  "type": "ransomware-incident",
+  "title": "broward.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "broward.edu",
+    "domain": "broward.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1959, Broward College is a education facility that offers a variety of courses such as health and science, math, and social behavioral. Broward College is located in Florida.\r \r Total Files Listed:\r 75435 File(s) 63,724,747,812 bytes\r 27140 Dir(s)  7,105,358,766,080 bytes free",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f6c4246b5fa18cfe42a1d1899e250826.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjvd2fyzc5lzhvaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-11 00:00:00.000000",
+    "disclosedDate": "2025-01-28 18:19:28.464779"
+  }
+}

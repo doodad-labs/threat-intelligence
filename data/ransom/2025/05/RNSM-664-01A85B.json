@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-01A85B",
+  "type": "ransomware-incident",
+  "title": "kll-law.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kll-law.com",
+    "domain": "kll-law.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kagan Lubic Lepper Finkelstein & Gold, LLP is a full-service AV–rated law firm providing practical and legal counsel to clients for over forty years.  A substantial portion of our practice is centered on real estate and cooperative and condominium la...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/36defbc9000a2efe98e3cb5cef97e664.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2xslwxhdy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-22 00:00:00.000000",
+    "disclosedDate": "2025-05-01 23:45:47.949139"
+  }
+}

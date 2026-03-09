@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-27059A",
+  "type": "ransomware-incident",
+  "title": "lamundialdeseguros.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lamundialdeseguros.com",
+    "domain": "lamundialdeseguros.com",
+    "country": "CO",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "lamundialdeseguros.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/86dcb058511e552880f0b23b5eab7690.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgftdw5kawfszgvzzwd1cm9zlmnvbubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:42:59.941807",
+    "disclosedDate": "2025-01-27 07:44:09.849888"
+  }
+}

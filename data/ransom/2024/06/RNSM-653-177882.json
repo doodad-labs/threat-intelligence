@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-653-177882",
+  "type": "ransomware-incident",
+  "title": "mgfsourcing.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mgfsourcing.com",
+    "domain": "mgfsourcing.com",
+    "country": "VN",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 500000000000,
+    "description": "MGF Sourcing is an independent US-led global sourcing company founded in 1970. We focus on US-based specialty apparel retailers and, with our strong track record in apparel sourcing and best-in-class technical capabilities, have developed a long-standing reputation as a reliable and trustworthy partner. We offer end-to-end services from design, product development, sourcing, quality assurance, and trade compliance to global logistics. We’ve developed a unique way of working that helps us deliver quality merchandise for our customers on time, at cost, and in compliance. Our values form the foundation of our approach to business and have led us to become a company with over $1 billion USD in annual sales. Headquartered in Columbus, Ohio, the company also maintains offices in Bangladesh, China, Hong Kong, Indonesia, India, Korea, Sri Lanka, and Vietnam. With more than 550 associates in 9 countries, our global team collaborates across categories and borders, supporting innovation and increasing flexibility for our customers.SITE: www.mgfsourcing.com Address : 4200 Regent Street; Suite 205 Columbus, OH 43219 United StatesALL DATA SIZE: ≈500gb+ 1. Corporate data: Finance, HR,… 2. Users personal data & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/38482bda210309a5c75d6b9d4e8f2e7c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwdmc291cmnpbmcuy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-28 00:00:00.000000",
+    "disclosedDate": "2024-06-17 12:12:38.219842"
+  }
+}

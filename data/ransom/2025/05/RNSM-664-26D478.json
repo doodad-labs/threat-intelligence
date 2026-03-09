@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-26D478",
+  "type": "ransomware-incident",
+  "title": "labbeemint.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "labbeemint.com",
+    "domain": "labbeemint.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Labbeemint Inc. is a global trader and exporter of mint and related products. It is based in the Yakima Valley, WA, USA. They specialize in providing top-quality mint oils such as peppermint oil and spearmint oil. They are committed to achieving customer satisfaction by providing high-quality products from a sustainable and environmentally friendly business operation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/824a1d801ab301a2e85d1018c34b3cfb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgfiymvlbwludc5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-29 00:00:00.000000",
+    "disclosedDate": "2025-05-26 20:53:25.218946"
+  }
+}

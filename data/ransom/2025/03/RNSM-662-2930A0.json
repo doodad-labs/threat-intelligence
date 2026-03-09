@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-662-2930A0",
+  "type": "ransomware-incident",
+  "title": "O'Shea Builders ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "O'Shea Builders",
+    "domain": "osheabuilders.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 120500000000,
+    "description": "O'Shea Builders (founded in 1902) is a commercial construction-services provider in Illinois with offices in Springfield and Peoria. O'Shea Builders provide general contracting, construction management, design build, civil and building maintenance services. O'Shea Builders corporate office is located in 3401 Constitution Dr, Springfield, Illinois, 62711, United States and has 137 employees. The total amount of data leakage is 120.50 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/db128d6198101964f454942b2342bde6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tydtagvhiej1awxkzxjzqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-28 23:13:00.000000",
+    "disclosedDate": "2025-03-29 16:32:54.165909"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-255C8D",
+  "type": "ransomware-incident",
+  "title": "The Blake Law Firm ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Blake Law Firm",
+    "domain": "theblakefirm.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dan0n",
+    "name": "dAn0n",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 740000000000,
+    "description": "The total size of stolen information is 740 GB. This leak contains corporate information of the company: Financial, legal, information on employees and partners. Information on clients was also receiv",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b2c5501a1c3f1f900c05104770295237.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghliejsywtliexhdybgaxjtqgrbbjbu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-30 00:00:00.000000",
+    "disclosedDate": "2024-04-25 15:43:47.735308"
+  }
+}

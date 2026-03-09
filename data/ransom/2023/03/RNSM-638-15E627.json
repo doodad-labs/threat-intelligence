@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-15E627",
+  "type": "ransomware-incident",
+  "title": "Cambridge College ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cambridge College",
+    "domain": "cambridgecollege.edu",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "monti",
+    "name": "monti",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "boston.cambridgecollege.edu",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f89b45ce8012e643dc82afb32efa0aa4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2ftynjpzgdlienvbgxlz2vabw9udgk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-15 12:53:52.000000",
+    "disclosedDate": "2023-03-15 11:13:53.433561"
+  }
+}

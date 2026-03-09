@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-017ACF",
+  "type": "ransomware-incident",
+  "title": "vodatech.com.tr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "vodatech.com.tr",
+    "domain": "vodatech.com.tr",
+    "country": "TR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Vodatech does not care at all about the safety of a huge amount of data of its customers, thanks to which this data ended up with us. Databases of world famous companies such as Suzuki, Nivea, Puma, which used Vodatech's services are now available to...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c3f71f0bce06dc03739a4979eec19c17.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dm9kyxrly2guy29tlnryqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-01 18:26:00.000000",
+    "disclosedDate": "2023-09-01 19:02:25.213653"
+  }
+}

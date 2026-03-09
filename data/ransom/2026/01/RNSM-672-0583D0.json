@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-0583D0",
+  "type": "ransomware-incident",
+  "title": "madisonareaymca.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "madisonareaymca.org",
+    "domain": "madisonareaymca.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Madison Area YMCA offers a variety of programs and services focusing on youth development, healthy living, and social responsibility. Their offerings include summer camps, early childhood education, fitness classes, and community initiatives, catering to individuals and families of all ages. The organization aims to create an inclusive and supportive environment where everyone can grow, connect, and thrive. With facilities like the F.M. Kirby Children's Center and various gyms, it provides resources and opportunities for physical and emotional well-being.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b8e2b0f36847b3f5b0540ba9521b9792.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfkaxnvbmfyzwf5bwnhlm9yz0bsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 07:01:56.109000",
+    "disclosedDate": "2026-01-05 07:26:43.538583"
+  }
+}

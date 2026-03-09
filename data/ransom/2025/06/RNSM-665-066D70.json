@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-066D70",
+  "type": "ransomware-incident",
+  "title": "In'Tech Industries ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "In'Tech Industries",
+    "domain": "intech-ind.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "InTech Industries, Inc. specializes in full-service manufacturing, offering services such as 3D printing, design, tooling, injection molding, and precision CNC machining. They serve a wide range of industries, including life sciences, medical devices, dental, and personal safety. Their clients include businesses in a variety of sectors, such as pharmaceuticals, home care devices, and the optical industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/138ca4edc8538468a78f5087b2973968.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw4nvgvjacbjbmr1c3ryawvzqgludgvybg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-06 23:19:14.094205",
+    "disclosedDate": "2025-06-06 23:20:18.770389"
+  }
+}

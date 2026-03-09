@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-648-16D32A",
+  "type": "ransomware-incident",
+  "title": "Premium Guard ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Premium Guard",
+    "domain": "pgfilters.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "Premium Guard Inc. (PGI) specializes in designing, manufacturing,and distributing products for automotive, diesel, powersport, and specialty filter markets. 40GB of files with clients and customers data, financial files, projects, orders, contracts will be available for downloading soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjlbwl1bsbhdwfyzebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-16 13:10:21.180694",
+    "disclosedDate": "2024-01-16 13:10:21.240105"
+  }
+}

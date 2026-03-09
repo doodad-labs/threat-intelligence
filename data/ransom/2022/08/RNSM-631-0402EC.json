@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-631-0402EC",
+  "type": "ransomware-incident",
+  "title": "Liftow LTD ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Liftow LTD",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "quantum",
+    "name": "quantum",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1960, Liftow is a Toyota forklift dealer group in North America. They offer new and pre-owned inventory of forklifts as well as parts and services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tglmdg93iexurebxdwfudhvt",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-08-04 14:57:57.481513",
+    "disclosedDate": "2022-08-04 14:57:57.481513"
+  }
+}

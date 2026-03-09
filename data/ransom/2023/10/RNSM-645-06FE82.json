@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-06FE82",
+  "type": "ransomware-incident",
+  "title": "bm.co.th ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bm.co.th",
+    "domain": "bm.co.th",
+    "country": "TH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bangsaen Mahanakorn Company Limited and affiliated companies of Bangsaen Mahanakorn",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/52126b75cda8c594081077bab54ded14.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym0uy28udghabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-06 07:58:00.000000",
+    "disclosedDate": "2023-10-06 08:34:17.121021"
+  }
+}

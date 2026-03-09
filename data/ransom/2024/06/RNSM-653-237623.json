@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-237623",
+  "type": "ransomware-incident",
+  "title": "www.glynmarais.co.za ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.glynmarais.co.za",
+    "domain": "glynmarais.co.za",
+    "country": "ZA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/JGM/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/JGM/PROOF/DATA DESCRIPTIONS: Employees and executives personal files, personal identifiable information, financial documents, corporate confidential files, correspondence, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b4a609e8d3e0bc13edf846abd08ed433.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmdsew5tyxjhaxmuy28uemfay2fjdhvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-12 00:00:00.000000",
+    "disclosedDate": "2024-06-23 19:43:44.755540"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-636-307D4A",
+  "type": "ransomware-incident",
+  "title": "Bank of Africa ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bank of Africa",
+    "domain": "boasenegal.com",
+    "country": "SN",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Headquartered in the city of Dakar, Senegal, the story of Bank of Africa Group began in Mali in 1982, with the first Bank of Africa, which was created with almost no external help. Since 2010, the Bank of Africa Group has been majority-owned by BMCE Bank.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/98696a21e76eb052401f526853d5a019.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfuaybvzibbznjpy2fabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-30 15:05:52.267651",
+    "disclosedDate": "2023-01-30 15:05:52.267651"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-644-12FDA9",
+  "type": "ransomware-incident",
+  "title": "CORTEL Technologies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CORTEL Technologies",
+    "domain": "cortel.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cortel is a cloud technology vendor that partners with businesses to deploy phone systems that connect customers to businesses.  Below you can see a small part of the data which were taken from the servers of this company.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q09svevmifrly2hub2xvz2llc0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-12 02:37:37.884034",
+    "disclosedDate": "2023-09-12 02:37:37.884059"
+  }
+}

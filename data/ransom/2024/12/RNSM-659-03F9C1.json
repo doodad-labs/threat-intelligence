@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-03F9C1",
+  "type": "ransomware-incident",
+  "title": "www.kiswire.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.kiswire.com",
+    "domain": "kiswire.com",
+    "country": "KR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Kiswire is a global company specializing in the manufacturing of steel wire products. Established in South Korea, it focuses on producing high-quality steel wires for various industries, including automotive, construction, and telecommunications. Kiswire is renowned for its innovation, advanced technology, and commitment to quality, maintaining a strong presence in the international market.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a255f99f32dd3c780d42836367318b3b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmtpc3dpcmuuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-16 00:00:00.000000",
+    "disclosedDate": "2024-12-03 18:36:31.332883"
+  }
+}

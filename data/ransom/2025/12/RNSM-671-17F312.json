@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-17F312",
+  "type": "ransomware-incident",
+  "title": "Latitude 33 Planning& Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Latitude 33 Planning& Engineering",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 53000000000,
+    "description": "Latitude 33 is a certified Small Business Enterprise that provides planning, engineering, and surveying services across various locations, including San Diego, Los Angeles, Sacramento, and Salt Lake City.We will upload 53gb of corporate data soon. Employees information(passports, DLs, and numerous forms with personal information), detailed financials, payment details, client files, projects, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgf0axr1zgugmzmgugxhbm5pbmcmievuz2luzwvyaw5nqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-17 00:00:00.000000",
+    "disclosedDate": "2025-12-17 15:43:46.723819"
+  }
+}

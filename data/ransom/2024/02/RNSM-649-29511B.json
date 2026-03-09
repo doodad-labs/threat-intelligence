@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-649-29511B",
+  "type": "ransomware-incident",
+  "title": "scullionlaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "scullionlaw.com",
+    "domain": "scullionlaw.com",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 155000000000,
+    "description": "Scullion Law: We are an award-winning law firm, known for our expertise and exceptional service. We prioritise the happiness and training of our people, ensuring exceptional results. By building trust and exceeding expectations, we consistently rank as the top-rated law firm in Glasgow and the West of Scotland.SITE: www.scullionlaw.com Address : 105 Cadzow Street Hamilton ML3 6HG Unated KingdomALL DATA SIZE: ~155gb 1. Company data 2. Personal employees data 3. Personal documents users and clients 4. Confidential documents and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/06f2fbe097578c7c8b064920628d6aaa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2n1bgxpb25syxcuy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.scottishlegal.com/articles/scullion-law-becomes-victim-of-cyberattack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-16 00:00:00.000000",
+    "disclosedDate": "2024-02-29 14:44:17.241401"
+  }
+}

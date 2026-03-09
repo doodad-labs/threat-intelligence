@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-28BC24",
+  "type": "ransomware-incident",
+  "title": "www.humac.dk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.humac.dk",
+    "domain": "humac.dk",
+    "country": "DK",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "kraken",
+    "name": "kraken",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Humac was established in 1989 and has sold and serviced Apple products ever since. Humac is to bring the HUman and MAC's togethe...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/623e29718d7b61696290f4c893ac9672.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmh1bwfjlmrrqgtyywtlbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-02 00:00:00.000000",
+    "disclosedDate": "2025-06-28 06:21:06.170877"
+  }
+}

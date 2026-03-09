@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-12E35B",
+  "type": "ransomware-incident",
+  "title": "SAC Finance ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SAC Finance",
+    "domain": "sacfinance.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SAC Finance  as one of the largest, privately-held automotive retailers in the United States, we are a notable name that you can trust...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fb8175af9a4d3708fc81f8b33fed9189.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0fdiezpbmfuy2vacmfuc29tag91c2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-03 00:00:00.000000",
+    "disclosedDate": "2023-09-12 22:11:37.411236"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-663-041911",
+  "type": "ransomware-incident",
+  "title": "Henna Chevrolet ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Henna Chevrolet",
+    "domain": "henna.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 43000000000,
+    "description": "Henna Chevrolet, part of the Henna Motor Co., has been proudly serving Austin, Texas, motorists for more than seven decades, and we look forward to continuing to provide our customers with the same unsurpassed level of care that they've come to expect from theHenna name.We are ready to upload more than 43 GB of essential corporate documents such as: driver licenses, financial data (audits, payment details, reports), contact numbers and e-mail addresses of employees and customers, personal SSN’s, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvubmegq2hldnjvbgv0qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-04 00:00:00.000000",
+    "disclosedDate": "2025-04-04 13:42:50.415559"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-142470",
+  "type": "ransomware-incident",
+  "title": "Micon National ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Micon National",
+    "domain": "miconnational.com.au",
+    "country": "AU"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 34000000000,
+    "description": "Micon NationalWho we are:Micon Office National is a family-owned and operated business, in addition to being an independent office products and office furniture dealer. Micon handles office refits and fit out's, tailoring the whole experience to the customer needs. Micon has over 15 thousand products available and unlimited options with office furniture. Thanks to our large product and furniture range we are able to create almost anything for your home office or business. Our products:Micon is a part of the Office National buying group with over 180 distribution points Australia wide.  This enables our representatives to cater to various office needs, whether it is for a small or large organisation. Micon is committed to understanding your business goals and helping you succeed. Micon National's main focus and efforts are dedicated to providing our customers with simplicity and the widest range of products at the most competitive prices. Micon National's large buying power enables it to provide a great savings on costs to our customers allowing them to focus on their primary business goals.What we can do for your business: Micon Office National is big enough to deliver but small enough to care. Micon Office National has been delivering stationery and furniture products for over 15 years and servicing the Illawarra and Wollongong regions, Nowra and Shoalhaven areas, Bowral, Mittagong, the Southern Highlands and all the of the Sydney Metropolitan areas. With this vast reach Micon is able to cater to various businesses all with changing needs.Geo: Australia - Leak size: 34 GB Archive - Contains: Files, SQL, Exchange",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twljb24gtmf0aw9uywxac2fyy29tyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cyberdaily.au/security/11360-exclusive-wollongong-based-micon-office-national-confirms-ransomware-attack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-14 06:40:14.748171",
+    "disclosedDate": "2024-11-14 06:40:15.054623"
+  }
+}

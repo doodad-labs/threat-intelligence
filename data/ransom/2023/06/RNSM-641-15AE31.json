@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-15AE31",
+  "type": "ransomware-incident",
+  "title": "GENERICON.AT ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GENERICON.AT",
+    "domain": "genericon.at",
+    "country": "AT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Startseite - Genericon Pharma",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/08596bd6d0af5b39deb69614198271d4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r0vorvjjq09olkfuqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-15 16:37:34.516296",
+    "disclosedDate": "2023-06-15 16:37:34.516351"
+  }
+}

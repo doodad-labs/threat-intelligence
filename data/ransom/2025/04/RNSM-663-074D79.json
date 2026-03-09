@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-663-074D79",
+  "type": "ransomware-incident",
+  "title": "TIME Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TIME Group",
+    "domain": "timegroup.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TIME develops and installs BMS, an ERP system and with both high-level technological and application features, to meet the market needs of Italian SMEs in production and business process management/monitoring.We are ready to upload a lot of essential corporate documents such as: financial data (audits, payment details, reports), employeeHR documents, contact numbers and e-mail addresses of employees and customers, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/velnrsbhcm91cebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-07 00:00:00.000000",
+    "disclosedDate": "2025-04-07 16:13:01.524755"
+  }
+}

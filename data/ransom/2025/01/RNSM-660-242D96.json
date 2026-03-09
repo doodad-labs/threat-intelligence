@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-660-242D96",
+  "type": "ransomware-incident",
+  "title": "aws.amazon.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aws.amazon.com",
+    "domain": "amazon.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "gdlockersec",
+    "name": "GDLockerSec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 9000000000,
+    "description": "9GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6565194d37a3699f28213f767054853b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxdzlmftyxpvbi5jb21ar0rmb2nrzxjtzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 16:47:03.343225",
+    "disclosedDate": "2025-01-24 16:48:09.243902"
+  }
+}

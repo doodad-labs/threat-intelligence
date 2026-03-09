@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-2774E3",
+  "type": "ransomware-incident",
+  "title": "LEADINGLADY.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LEADINGLADY.COM",
+    "domain": "leadinglady.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] LeadingLady.com is an online fashion destination dedicated to offering stylish, comfortable, and quality intimate apparel. They celebrate all figures, carrying sizes ranging from Small to 5X. Their selection includes maternity and nursing wear, full-figure bras, sports and leisure bras, and everyday basic underwear. Besides supporting women through various stages of life, the company is also known for philanthropic ventures.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tevbrelor0xbrfkuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:36:04.129333",
+    "disclosedDate": "2025-02-27 16:36:09.888309"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-668-181314",
+  "type": "ransomware-incident",
+  "title": "Gurney's Resorts ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Gurney's Resorts",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Gurneys Montauk Resort & Seawater Spa is a luxury beach hotel located in Montauk, NY, offering 158 rooms, suites, and beachfront cottages with stunning ocean views. We are going to upload 20GB of corporate data. Employees' personal information (passports, addresses, SSNs, phones, emails, medical information and so on), client information (DOB, full name, phone, emails, room numbers, addresses and so on), finance and accounting files, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3vybmv5j3mgumvzb3j0c0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-15 00:00:00.000000",
+    "disclosedDate": "2025-09-18 18:14:49.927727"
+  }
+}

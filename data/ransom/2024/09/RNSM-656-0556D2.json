@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-0556D2",
+  "type": "ransomware-incident",
+  "title": "tri-tech.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tri-tech.us",
+    "domain": "tri-tech.us",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tri-Tech is a company specializing in providing advanced technology solutions and services. They focus on delivering innovative IT and communication systems, offering expertise in areas such as network design, implementation, and support. Tri-Tech serves a diverse range of industries, ensuring tailored solutions to meet specific business needs, with an emphasis on quality, reliability, and customer satisfaction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d7230dcfa7c478429a77aa7ab47a7cb2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhjplxrly2gudxnacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-16 00:00:00.000000",
+    "disclosedDate": "2024-09-05 21:39:36.967447"
+  }
+}

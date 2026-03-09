@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-1470CD",
+  "type": "ransomware-incident",
+  "title": "TECHNOLOG S.r.l. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TECHNOLOG S.r.l.",
+    "country": "IT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 439400000000,
+    "description": "TECHNOLOG S.r.l. delivers integrated solutions for interology and industrial automation. TECHNOLOG S.r.l. corporate office is located in 31/a Via Trento, Parma, Emilia-Romagna, Italy. The total amount of data leakage is 439.40 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vevdse5pte9hifmuci5slkbtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-12 22:24:36.000000",
+    "disclosedDate": "2024-09-14 08:19:31.122644"
+  }
+}

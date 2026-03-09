@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-24374E",
+  "type": "ransomware-incident",
+  "title": "Menninger Clinic ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Menninger Clinic",
+    "domain": "menningerclinic.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Despite repeated attempts to contact menningerclinic.org we were ignored. The negligence of the management of this organization surprised us. This leaves us with no choice but to start publishing data. Menningerclinic.org has 72 hours to contact us and resolve the situation without exposing their employees to the problems they will face.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c1cd6203187bb3b0ff3984e0011e461.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvubmluz2vyiensaw5py0bibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-12 00:00:00.000000",
+    "disclosedDate": "2024-09-24 23:03:46.390970"
+  }
+}

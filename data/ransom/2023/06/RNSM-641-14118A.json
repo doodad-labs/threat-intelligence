@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-14118A",
+  "type": "ransomware-incident",
+  "title": "YAMAHA CORPORATION OF AMERICA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "YAMAHA CORPORATION OF AMERICA",
+    "domain": "yamaha.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbyte",
+    "name": "blackbyte",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Yamaha Corporation of America manufactures a complete line of musical instruments, professional audio products, customer-driven support products and computer based products targeted to both the amateur and professional markets.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wufnquhbienpulbpukfusu9oie9giefnrvjjq0faymxhy2tiexrl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.yamaha.com/ja/news_release/files/news/23072003/pdf/2307200301.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-14 22:53:28.821537",
+    "disclosedDate": "2023-06-14 22:53:28.821568"
+  }
+}

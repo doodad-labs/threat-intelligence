@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-659-06869E",
+  "type": "ransomware-incident",
+  "title": "Blue Yonder ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Blue Yonder",
+    "domain": "blueyonder.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "termite",
+    "name": "termite",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Blue Yonder Group, Inc. (formerly JDA Software Group) is an American supply chain management company operating as an independent subsidiary of Panasonic. Founded in 1985, the company is headquartered in Scottsdale, Arizona, with offices globally. Its acquisitions have included Yantriks, RedPrairie, i2 Technologies, Manugistics, E3, Intactix, and Arthur",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c7bc0db1f86f8b7875b3a9c7cd4f64f3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmx1zsbzb25kzxjadgvybwl0zq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.wral.com/story/software-company-providing-services-to-us-and-uk-grocery-stores-says-it-was-hit-by-ransomware-attack/21739436/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-06 11:13:50.000000",
+    "disclosedDate": "2024-12-06 11:59:49.924490"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-0511D2",
+  "type": "ransomware-incident",
+  "title": "boostheat.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "boostheat.com",
+    "domain": "boostheat.com",
+    "country": "FR",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Industrial Machinery & Equipment | internal files, docs, employees' info, clients' info",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/728d05bd30afd347514ec66988a74879.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ym9vc3rozwf0lmnvbubhchq3mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-05 15:31:35.116641",
+    "disclosedDate": "2025-02-05 15:32:43.080050"
+  }
+}

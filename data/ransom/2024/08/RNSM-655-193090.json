@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-193090",
+  "type": "ransomware-incident",
+  "title": "Khonaysser ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Khonaysser",
+    "domain": "khonaysser.com",
+    "country": "LB",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Khonaysser",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d9356ec201d17b953811fcfdc3ecb364.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2hvbmf5c3nlckbozwxszg93bg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-19 16:44:03.686731",
+    "disclosedDate": "2024-08-19 16:44:05.189226"
+  }
+}

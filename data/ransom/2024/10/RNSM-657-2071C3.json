@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-657-2071C3",
+  "type": "ransomware-incident",
+  "title": "Vasesa ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vasesa",
+    "domain": "vasesa.com.mx",
+    "country": "MX"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.vasesa.com.mxVasesa Vasesa is a company that...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d080f8592be1dafebdad3023c6af2560.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmfzzxnhqgfyy3vzbwvkawe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-20 15:52:14.000000",
+    "disclosedDate": "2024-10-20 18:06:05.184319"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-27CDD5",
+  "type": "ransomware-incident",
+  "title": "CBS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CBS",
+    "domain": "cbs-ee.ro",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Retail and distribution of office supplies  Installation of attachments on offices, fire and alarm guards",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/26290cccdddbd406a66214d580cb7838.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0jtqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-27 04:30:04.123456",
+    "disclosedDate": "2023-10-27 04:38:07.881866"
+  }
+}

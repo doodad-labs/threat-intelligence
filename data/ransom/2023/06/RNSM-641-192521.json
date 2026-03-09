@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-641-192521",
+  "type": "ransomware-incident",
+  "title": "CREELIGHTING.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CREELIGHTING.COM",
+    "domain": "creelighting.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - Cree Lighting",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1jfruxjr0husu5hlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-19 15:42:07.280344",
+    "disclosedDate": "2023-06-19 15:42:07.280372"
+  }
+}

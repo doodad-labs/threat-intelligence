@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-642-262B81",
+  "type": "ransomware-incident",
+  "title": "Rob Levine & Associates Lawyers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rob Levine & Associates Lawyers",
+    "domain": "roblevine.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rob Levine and Associates arepersonal injury attorneys helping individuals who have been hurt in an accidentor who are disabled. The firm practices law and services Rhode Island, Massachusetts, and Connecticut on injury cases.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1cba62a462f337c68e9ca19ac43ec6a2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um9iiexldmluzsamiefzc29jawf0zxmgtgf3ewvyc0bhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2024-12-18%20rob%20levine%20law%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-26 09:49:41.000000",
+    "disclosedDate": "2023-07-26 15:33:02.545683"
+  }
+}

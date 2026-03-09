@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-301F6E",
+  "type": "ransomware-incident",
+  "title": "pfsbrands.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pfsbrands.com",
+    "domain": "pfsbrands.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PFSbrands ® is an employee-owned company that provides three successful hot food brands primarily to the c-store and supermarket industries",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgzzynjhbmrzlmnvbubhynlzcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-30 20:05:31.818958",
+    "disclosedDate": "2024-08-30 20:05:32.763726"
+  }
+}

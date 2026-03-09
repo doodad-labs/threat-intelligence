@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-196AB7",
+  "type": "ransomware-incident",
+  "title": "edgeanalytical.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "edgeanalytical.com",
+    "domain": "edgeanalytical.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 28.05.2025.Edge Analytical provides comprehensive laboratory testing services including organic, inorganic, microbiological analyses and specialty testing for drinking water, soils, b            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0435391b6e28e3411153f909c1b6c3fe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwrnzwfuywx5dgljywwuy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-19 00:00:00.000000",
+    "disclosedDate": "2025-05-19 15:16:37.268017"
+  }
+}

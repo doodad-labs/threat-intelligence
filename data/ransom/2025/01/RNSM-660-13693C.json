@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-13693C",
+  "type": "ransomware-incident",
+  "title": "Delap & Waller ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Delap & Waller",
+    "domain": "delapandwaller.com",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have 300+GB of data leaked from network.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/16e8cfa59e1fc3bf8554906453cd74d6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvsyxagjibxywxszxjabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-04 00:00:00.000000",
+    "disclosedDate": "2025-01-13 19:21:50.426166"
+  }
+}

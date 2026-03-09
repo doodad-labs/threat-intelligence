@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-03076E",
+  "type": "ransomware-incident",
+  "title": "ceratec.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ceratec.com",
+    "domain": "ceratec.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Based in Quebec, Canada, Ceratec Surfaces sells a variety of home and commercial flooring products such as vinyl and tiles, and offers installation systems.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2vyyxrlyy5jb21aywj5c3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-03 09:40:27.523644",
+    "disclosedDate": "2025-03-03 09:40:28.552981"
+  }
+}

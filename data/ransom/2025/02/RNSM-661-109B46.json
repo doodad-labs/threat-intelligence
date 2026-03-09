@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-109B46",
+  "type": "ransomware-incident",
+  "title": "cassinfo.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cassinfo.com",
+    "domain": "cassinfo.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Cass Information Systems, Inc. is a leading provider of integrated information and payment management solutions. Leveraging its advanced, proprietary technologies, the company provides corporations with detailed analyses and controls over their expenditures, enhancing visibility, accuracy and processing efficiency. The company's services include expense management for telecom, waste, energy and freight.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fzc2luzm8uy29tqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:58:28.233025",
+    "disclosedDate": "2025-02-10 19:58:34.633926"
+  }
+}

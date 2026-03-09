@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-2576E2",
+  "type": "ransomware-incident",
+  "title": "EDVMS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EDVMS",
+    "domain": "bsb-steuerberatung.de",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Als BSB-Steuerberatungsgesellschaft mbH betreuen wir seit über 30 Jahren Unternehmen und Privatpersonen. Dabei fokussieren wir uns vor allem auf gewerbliche Steuerberatung, Lohnbuchhaltung sowie die Betreuung von land- und forstwirtschaftlichen Betrieben. Die enge Zusammenarbeit mit unseren Mandanten ist uns besonders wichtig. Durch unseren Verwaltungssitz mitten in Münster sowie 25 Niederlassungen, in Münster, im Münsterland und in Westfalen-Lippe sind wir vor allem regional tätig. Mit über 650 Mitarbeitern gewährleisten wir ein qualifiziertes Team mit großer Routine und einem breit gefächerten Fachwissen. Dadurch bieten wir Ihnen die bestmögliche Erfahrung. Egal, ob es sich um Fragen des Steuerrechts, spezielle Anforderungen des Rechnungswesens, digitale Anwendungen oder unsere Lohn-Spezialberatung handelt.SITE: bsb-steuerberatung.de Address  Schorlemerstraße 13 48143 Münster info@bsb-steuerberatung.de",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fe2e5e5034d3fe86cbd464196fc21d77.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rurwtvnaymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-25 16:58:24.790839",
+    "disclosedDate": "2023-07-25 16:58:24.790863"
+  }
+}

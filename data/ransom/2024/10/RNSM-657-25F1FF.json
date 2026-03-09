@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-657-25F1FF",
+  "type": "ransomware-incident",
+  "title": "Evergreen Local School District (evgvikings.org) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Evergreen Local School District (evgvikings.org)",
+    "domain": "evgvikings.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000,
+    "description": "5,1 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0c44f4a61882eef162d740d7c2684ff6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxzlcmdyzwvuiexvy2fsifnjag9vbcbeaxn0cmljdcaozxzndmlraw5ncy5vcmcpqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 00:00:00.000000",
+    "disclosedDate": "2024-10-25 13:10:45.581201"
+  }
+}

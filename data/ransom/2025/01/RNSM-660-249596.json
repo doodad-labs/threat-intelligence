@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-249596",
+  "type": "ransomware-incident",
+  "title": "www.shihka.com.hk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.shihka.com.hk",
+    "domain": "shihka.com.hk",
+    "country": "HK"
+  },
+  "actor": {
+    "id": "gdlockersec",
+    "name": "GDLockerSec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000,
+    "description": "10MB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ffae2e997700e052972fb109639c5bef.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnoawhrys5jb20uagtar0rmb2nrzxjtzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 16:40:28.062253",
+    "disclosedDate": "2025-01-24 16:41:36.046395"
+  }
+}

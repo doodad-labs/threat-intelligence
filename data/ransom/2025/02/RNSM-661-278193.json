@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-278193",
+  "type": "ransomware-incident",
+  "title": "LNFDISTRIBUTORS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LNFDISTRIBUTORS.COM",
+    "domain": "lnfdistributors.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] LNFDistributors.com is a wholesale company based out of Miami, Florida. It specializes in the distribution of a variety of products ranging from consumer electronics to toys and novelty items. Its selection is largely targeted towards retailers, with a commitment to delivering high-quality products in a timely manner. The company maintains competitive pricing, and bases its business on providing excellent customer service and reliability.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/te5greltvfjjqlvut1jtlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:37:33.747997",
+    "disclosedDate": "2025-02-27 16:37:38.541020"
+  }
+}

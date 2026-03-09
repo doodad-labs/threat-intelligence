@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-2353C5",
+  "type": "ransomware-incident",
+  "title": "hy-vee.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hy-vee.com",
+    "domain": "hy-vee.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Access to Hy-Vee’s environment was obtained through compromised Atlassian accounts, including tools such as Confluence and Jira.                             Internal documents, infrastructure diagrams, employee data, training materials, and technical information related to several operational systems were extracted. These include:",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f5823c11eedcc96a9fddf7e53fced924.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahktdmvllmnvbubzdg9ybw91cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-23 22:26:43.056344",
+    "disclosedDate": "2025-06-23 22:27:16.005540"
+  }
+}

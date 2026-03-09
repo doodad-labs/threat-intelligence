@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-651-1987B7",
+  "type": "ransomware-incident",
+  "title": "lipsg.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lipsg.com",
+    "domain": "lipsg.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "As the largest practice of its kind in the United States, New York Plastic Surgical Group, a Division of Long Island Plastic Surgical Group is among the most well-established plastic surgery practices in the nation. Founded in 1948, New York Plastic Surgical Group offers compassionate and comprehensive care through the collective medical experience of its specialty-trained surgeons. The doctors of NYPSG a is well known specialists across the world and one of the best in US.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/57eae9530a1001162501bd1d9a941211.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bglwc2cuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.newsday.com/business/data-breach-cyber-attack-j7q740l8",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-12 19:02:53.000000",
+    "disclosedDate": "2024-04-19 09:20:16.698531"
+  }
+}

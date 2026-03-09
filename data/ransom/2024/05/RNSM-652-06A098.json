@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-06A098",
+  "type": "ransomware-incident",
+  "title": "epr-groupe.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "epr-groupe.fr",
+    "domain": "epr-groupe.fr",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Le Groupe EPR, acteur majeur de la sécurité depuis 1994, se compose de diverses sociétés toutes spécialisées dans le domaine de la gestion du risque à destination de tous types de clients, et s'appuie sur plusieurs partenariats privilégiés pour offri...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/684e6179cb717f53bb1e9571895f0c96.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxbylwdyb3vwzs5mckbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-26 00:00:00.000000",
+    "disclosedDate": "2024-05-06 17:03:12.842818"
+  }
+}

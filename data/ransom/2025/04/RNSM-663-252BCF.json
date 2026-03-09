@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-663-252BCF",
+  "type": "ransomware-incident",
+  "title": "shgcpa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "shgcpa.com",
+    "domain": "shgcpa.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "At Sheheen Hancock & Godwin, LLP, we believe in the value of relationships. We view every client relationship like a partnership, and truly believe that our success is a result of your success. We are committed to providing quality services and attention to our clients at the level that each specifies, from tax preparation and bookkeeping, to business consulting and comprehensive planning. Regardless of the level of service you choose, we take pride in giving you the assurance that the assistance you receive comes from years of advanced training, technical experience and financial acumen. Our continual investment of time and resources in professional continuing education, state-of-the-art technology and extensive business relationships is indicative of our commitment to excellence. Located in Camden, South Carolina, our firm was established in 1959. We have grown from a solo practice into one that is among the largest in the Midlands area.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3cb32e1c5f700ac565a4ba40b40ecd18.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2hny3bhlmnvbubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2025-09-25-sheheen-hancock-godwin-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-07 00:00:00.000000",
+    "disclosedDate": "2025-04-25 15:41:06.815392"
+  }
+}

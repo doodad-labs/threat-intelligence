@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-637-2238AE",
+  "type": "ransomware-incident",
+  "title": "siqueiracastro.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "siqueiracastro.com.br",
+    "domain": "siqueiracastro.com.br",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 470000000000,
+    "description": "stolen 470gb data - finance, acc, reports, contractsActing on all fronts of the business, the so-called full service , is what is expected of a contemporary law firm. We, at SiqueiraCastro, go further. We are pioneers in full solution . With high...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2lxdwvpcmfjyxn0cm8uy29tlmjyqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-22 15:17:56.624176",
+    "disclosedDate": "2023-02-22 15:17:56.624176"
+  }
+}

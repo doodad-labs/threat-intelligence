@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-274BBF",
+  "type": "ransomware-incident",
+  "title": "HENRYKA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HENRYKA.COM",
+    "domain": "henryka.com",
+    "country": "PL"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Henryka is a UK-based company specializing in unique handmade silver and amber jewelry. Their collection varies from classic designs to fun and quirky styles. They use only natural and ethically sourced amber in their jewelry. The company pride itself on offering high-quality, affordable pieces which are crafted with attention to detail and design.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sevoulllqs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 18:10:50.472950",
+    "disclosedDate": "2025-02-27 18:10:55.766690"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-650-08963F",
+  "type": "ransomware-incident",
+  "title": "redwoodcoastrc.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "redwoodcoastrc.org",
+    "domain": "redwoodcoastrc.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "RCRC provides intake, assessment, diagnosis, and coordinates community-based services for over 10,000 children and adults with developmental disabilities in Del Norte, Humboldt, Lake, and Mendocino counties. We work in partnership with many individua...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/884232ba1ee6e044e8252210a3500b8f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmvkd29vzgnvyxn0cmmub3jnqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2024-11-05%20redwood%20coast%20regional%20center%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-05 00:00:00.000000",
+    "disclosedDate": "2024-03-08 20:39:52.498365"
+  }
+}

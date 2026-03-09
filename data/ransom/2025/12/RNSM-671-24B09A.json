@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-24B09A",
+  "type": "ransomware-incident",
+  "title": "Rafael Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rafael Construction",
+    "country": "",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Rafael Construction is a full-service commercial general contractor based in Las Vegas, Nevada, specializing in commercial development with services including ground-up construction, design-build, construction management, and public works projects.We will upload more than 20gb of corporate data soon. Personal employee files (passports, DL), financials, confidential internal files, client information, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umfmywvsienvbnn0cnvjdglvbkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 00:00:00.000000",
+    "disclosedDate": "2025-12-24 13:15:48.971229"
+  }
+}

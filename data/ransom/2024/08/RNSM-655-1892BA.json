@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-1892BA",
+  "type": "ransomware-incident",
+  "title": "SMK Ingenieurbüro ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SMK Ingenieurbüro",
+    "domain": "smk.de",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We design and accompany the introduction of new CAD/CAM systems and robot applications in the maritime industry. We take part in and initiate resea...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u01lieluz2vuawv1cmldvhjvqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-18 13:14:40.028339",
+    "disclosedDate": "2024-08-18 15:10:23.415498"
+  }
+}

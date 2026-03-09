@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-13558E",
+  "type": "ransomware-incident",
+  "title": "CoMo-Industrial Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CoMo-Industrial Engineering",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 17000000000,
+    "description": "CoMo Industrial Engineering offers a comprehensive range of industrial engineering services. From precise piping design and flexibility analysis to strength calculations for pressure vessels and storage tanks. We are ready to upload more than 17 GB of essential corporate documents such as: financial data (audits, payment details, reports), contact numbers and e-mail addresses of employees and customers, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29nby1jbmr1c3ryawfsievuz2luzwvyaw5nqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-13 00:00:00.000000",
+    "disclosedDate": "2025-02-13 16:07:32.963841"
+  }
+}

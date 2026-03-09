@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-01BECD",
+  "type": "ransomware-incident",
+  "title": "anatomage.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "anatomage.com",
+    "domain": "anatomage.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Anatomage enables an ecosystem of the next-generation 3D anatomy software and hardware, delivering innovations for multidisciplinary applications.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/63b7a2dd85b3ec2e6e350e7155fa84d4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw5hdg9tywdllmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-01 07:42:00.000000",
+    "disclosedDate": "2024-05-01 10:31:08.612587"
+  }
+}

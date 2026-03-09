@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-156760",
+  "type": "ransomware-incident",
+  "title": "Druckman Law Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Druckman Law Group",
+    "domain": "dlgnylaw.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Druckman Law Group PLLC is a law firm in Westbury, New York, that provides real estate transactions and litigation. We provide our services to the state of New York, representing lenders and mortgage...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c60a1d1de04ec91d5606d515131adc63.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhj1y2ttyw4gtgf3iedyb3vwqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-15 21:24:58.700176",
+    "disclosedDate": "2024-04-15 21:24:58.898620"
+  }
+}

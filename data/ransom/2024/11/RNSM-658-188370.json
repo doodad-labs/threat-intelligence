@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-188370",
+  "type": "ransomware-incident",
+  "title": "Premier Packaging ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Premier Packaging",
+    "domain": "premierpackaging.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Premier Packaging is a company that specializes in providing custom packaging solutions. They offer a wide range of products, including corrugated boxes, packaging supplies, and design services tailored to meet the needs of various industries. With a focus on sustainability and innovation, Premier Packaging aims to deliver cost-effective and environmentally friendly packaging solutions to enhance their clients' operations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjlbwllcibqywnrywdpbmdarwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:04:28.359737",
+    "disclosedDate": "2024-11-18 21:04:30.517538"
+  }
+}

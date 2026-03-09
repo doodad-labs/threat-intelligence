@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-229E61",
+  "type": "ransomware-incident",
+  "title": "alleghenybradford.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "alleghenybradford.com",
+    "domain": "alleghenybradford.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Allegheny Bradford Corporation is a Pennsylvania-based manufacturing company that specializes in stainless steel fabrication. They work to provide high-quality custom pressure vessels, process systems, and heat exchangers for pharmaceutical, biotech and other ultra-pure industries. With extensive engineering capabilities, they create precision equipment based on unique design requirements.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/21414fa56c00e5b5bd14ec3aaffde951.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxszwdozw55ynjhzgzvcmquy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-13 10:46:00.000000",
+    "disclosedDate": "2025-02-22 08:20:05.326374"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-23A69B",
+  "type": "ransomware-incident",
+  "title": "Gulf Energy Maritime ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Gulf Energy Maritime",
+    "domain": "gemships.com",
+    "country": "AE",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "raworld",
+    "name": "raworld",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Gulf Energy Maritime is a prominent maritime shipping company based in the United Arab Emirates. It specializes in the transportation of crude oil, petroleum products, and chemicals. The company operates a modern fleet of tankers, ensuring safe and efficient delivery while adhering to high environmental and safety standards. It plays a critical role in the global energy supply chain.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/233fe7fe391c99c63823d12776270b68.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3vszibfbmvyz3kgtwfyaxrpbwvacmf3b3jsza==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-23 16:17:47.632158",
+    "disclosedDate": "2024-11-23 16:17:50.207118"
+  }
+}

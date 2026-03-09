@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-079403",
+  "type": "ransomware-incident",
+  "title": "NELLESFRERES ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NELLESFRERES",
+    "domain": "nelles-freres.com",
+    "country": "BE",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "Entreprise familiale fondée en 1962 par Jean Nelles et ses frères, la s.a. Nelles Frères est d’abord une entreprise de travaux routiers et ses activités se déclinent maintenant dans de nombreux domaines.  We have more than 200gb data of this company",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tkvmtevtrljfukvtqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-30 01:51:05.427000",
+    "disclosedDate": "2024-05-07 02:04:40.377148"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-1239AC",
+  "type": "ransomware-incident",
+  "title": "Starr-Iva Water & Sewer District ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Starr-Iva Water & Sewer District",
+    "domain": "siwater.net",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Starr-Iva Water & Sewer District - provides water supply services. Starr-Iva Water and Sewer District corporate office is located in 104 Roy Arnold Rd, Starr, South Carolina, 29684, United States and has 6 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9203fe938f1806d3cbdedd8cd70c8126.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rhcnitsxzhifdhdgvyicygu2v3zxigrglzdhjpy3rabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-10 20:45:14.000000",
+    "disclosedDate": "2024-09-12 07:56:19.609484"
+  }
+}

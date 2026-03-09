@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-071EF8",
+  "type": "ransomware-incident",
+  "title": "NYASPHALT.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NYASPHALT.COM",
+    "domain": "nyasphalt.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] NYASPHALT.COM is a NY-based company that specializes in asphalt paving and repair for various infrastructure projects. It caters to unique needs in both commercial and residential sectors. Their services range from pothole repair, asphalt overlay to parking lot paving and road construction. They focus on high-quality workmanship, materials and customer service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7a1d8564b1a78d0a05bfc84e0673d524.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tllbu1biquxulknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 20:47:31.390195",
+    "disclosedDate": "2026-02-07 20:47:44.402620"
+  }
+}

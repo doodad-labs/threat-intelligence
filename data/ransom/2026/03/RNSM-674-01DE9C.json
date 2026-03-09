@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-01DE9C",
+  "type": "ransomware-incident",
+  "title": "Traffic Tech ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Traffic Tech",
+    "domain": "traffictech.com",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2376702053ac7c7c128814d44e4c152c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjhzmzpyybuzwnoqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-01 11:31:32.865105",
+    "disclosedDate": "2026-03-01 11:31:51.044703"
+  }
+}

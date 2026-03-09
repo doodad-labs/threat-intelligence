@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-08963C",
+  "type": "ransomware-incident",
+  "title": "Holstein Association USA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Holstein Association USA",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have downloaded all the company's confidential data. Including all research, incidents, genetic experiments, personal data of employees, clients, partners, finances and much more interesting things.  Holstein Association USA, Inc., provi            ...",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9sc3rlaw4gqxnzb2npyxrpb24gvvnbqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-08 18:22:09.770015",
+    "disclosedDate": "2024-05-08 18:22:09.770059"
+  }
+}

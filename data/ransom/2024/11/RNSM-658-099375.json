@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-658-099375",
+  "type": "ransomware-incident",
+  "title": "ATSG, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ATSG, Inc",
+    "domain": "atsg.net",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ATSG, Inc. was founded in 1994 as an IT solution provider with an initial focus in the enterprise networking arena.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/caec7ee08e119b2722875520959920b6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvrtrywgsw5jqgjpyw5sawfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.hipaajournal.com/atsg-data-breach-909000-individuals/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-09 19:42:23.577030",
+    "disclosedDate": "2024-11-09 19:42:24.351804"
+  }
+}

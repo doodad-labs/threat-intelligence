@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-053788",
+  "type": "ransomware-incident",
+  "title": "letillet.btprms.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "letillet.btprms.com",
+    "domain": "btprms.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dd2344db5a7bcb46fd69a217cb4cb769.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgv0awxszxquynrwcm1zlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-05 07:48:00.000000",
+    "disclosedDate": "2023-11-05 08:25:58.564576"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-263E83",
+  "type": "ransomware-incident",
+  "title": "Nationz Technologies Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nationz Technologies Inc.",
+    "domain": "nationz.com.cn",
+    "country": "CN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Nationz Technologies Inc. specializes in the development and production of microcontrollers (MCUs), automotive and industrial solutions, secure chips, and wireless RF modules. The company is committed to providing security, convenience, intelligence, and sustainability in its products.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4778f7bcd94732f66a8b9cdef6d77599.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf0aw9ueibuzwnobm9sb2dpzxmgsw5jlkbyyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-08 00:00:00.000000",
+    "disclosedDate": "2025-02-26 21:10:27.574049"
+  }
+}

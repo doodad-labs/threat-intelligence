@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-264AF6",
+  "type": "ransomware-incident",
+  "title": "BRADSHAW-MEDICAL.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BRADSHAW-MEDICAL.COM",
+    "domain": "bradshaw-medical.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4430618a96aedcda62966c9d678edb2b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qljbrfniqvcttuvesunbtc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-26 22:09:58.432716",
+    "disclosedDate": "2024-02-26 22:09:58.432744"
+  }
+}

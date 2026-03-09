@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-129265",
+  "type": "ransomware-incident",
+  "title": "www.ham.org.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.ham.org.br",
+    "domain": "ham.org.br",
+    "country": "BR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmhhbs5vcmcuynjacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-11 13:17:16.000000",
+    "disclosedDate": "2024-06-12 07:07:47.923678"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-133238",
+  "type": "ransomware-incident",
+  "title": "HostAfrica ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HostAfrica",
+    "domain": "hostafrica.co.za",
+    "country": "ZA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HostAfrica was founded in 2015 in Cape Town with the mission to provide high-performance servers and hosting services in South Africa at a reasonable price. HostAfrica is based in Cape Town, South Africa.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/90bc82fe99a1a7a545f80809db11aba0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9zdefmcmljyubtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-13 14:14:07.12345",
+    "disclosedDate": "2023-05-13 14:55:47.219466"
+  }
+}

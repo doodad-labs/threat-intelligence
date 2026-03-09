@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-28E197",
+  "type": "ransomware-incident",
+  "title": "www.sanmarti.es ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.sanmarti.es",
+    "domain": "sanmarti.es",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "kraken",
+    "name": "kraken",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Transportes Sanmarti SAhttp://[redacted].onion/...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9f4c930dcbc4891bf85665ccf0c04350.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnhbm1hcnrplmvzqgtyywtlbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-03 00:00:00.000000",
+    "disclosedDate": "2025-06-28 06:18:17.790080"
+  }
+}

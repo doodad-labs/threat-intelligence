@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-662-2905AF",
+  "type": "ransomware-incident",
+  "title": "Transsion Holdings ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Transsion Holdings",
+    "domain": "transsion.com",
+    "country": "CN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hellcat",
+    "name": "hellcat",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 70000000000,
+    "description": "We hold almost 70GB of sensitive data from Transsion, a leading mobile device provider with $8.6B in revenue. This includes emails, internal communications, source codes, project planning, and data from Transsion and its partners.",
+    "claimed_data_types": [
+      "email-addresses"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjhbnnzaw9uiehvbgrpbmdzqghlbgxjyxq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-29 02:38:20.000000",
+    "disclosedDate": "2025-03-29 04:20:04.719045"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-2384D6",
+  "type": "ransomware-incident",
+  "title": "Goldstein Law Group, S.C. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Goldstein Law Group, S.C.",
+    "domain": "goldsteinsc.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 60000000000,
+    "description": "Status: 29d 22h 37m 9s - Size Data: 60 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ff3cc4bd80e0e13b8c50536c9efc8ba.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r29szhn0zwluiexhdybhcm91ccwguy5dlkbjawnhzgezmzax",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-23 00:00:00.000000",
+    "disclosedDate": "2025-02-23 18:57:52.644843"
+  }
+}

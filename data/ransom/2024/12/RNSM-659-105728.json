@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-105728",
+  "type": "ransomware-incident",
+  "title": "tectaamerica.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tectaamerica.com",
+    "domain": "tectaamerica.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Tecta America is a leading commercial roofing contractor in the United States, offering a range of services including roof installation, repair, and maintenance. The company serves various sectors such as industrial, institutional, and retail, providing expertise in roofing systems and technologies. Tecta America is known for its commitment to safety, quality, and customer satisfaction.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fcf15d98942648504ae3004824000589.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvjdgfhbwvyawnhlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-01 00:00:00.000000",
+    "disclosedDate": "2024-12-10 18:22:12.721656"
+  }
+}

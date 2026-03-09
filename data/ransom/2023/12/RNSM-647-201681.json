@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-201681",
+  "type": "ransomware-incident",
+  "title": "croc.ru ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "croc.ru",
+    "domain": "croc.ru",
+    "country": "RU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "werewolves",
+    "name": "werewolves",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ЗАО «КРОК инкорпорейтед» — российская компания, связанная с рынком информационных технологий. Работает на рынке c 1992 года и занимается предоставлением услуг в области системной интеграции, тиражируемых продуктов, управляемых B2B-сервисов, перспективных сквозных технологий (Big Data, блокчейн, искусственный интеллект, интернет вещей, роботизация, машинное обучение). Компания владеет собственной сетью дата-центров и работает на рынке облачных сервисов и услуг ЦОД.Конфиденциальные данные скомпрометированы,информация выгружена и надежно сохранена на резервных и подконтрольных группе серверах.Ведутся переговоры.170000$.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/69d1f860de7de3588b16e7986367117c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3jvyy5ydub3zxjld29sdmvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-27 01:44:13.000000",
+    "disclosedDate": "2023-12-20 10:33:27.339533"
+  }
+}

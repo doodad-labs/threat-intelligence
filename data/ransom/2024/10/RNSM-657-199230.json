@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-199230",
+  "type": "ransomware-incident",
+  "title": "mh-mech.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mh-mech.com",
+    "domain": "mh-mech.com",
+    "country": "JP",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MH-Mech is a company specializing in mechanical engineering solutions, offering a wide range of services that include design, manufacturing, and maintenance of industrial machinery. They focus on providing innovative and efficient solutions tailored to meet the specific needs of their clients across various industries. Their expertise lies in precision engineering and high-quality craftsmanship.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b43e171a8f0ef147d51ab9300f998376.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwgtbwvjac5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-14 00:00:00.000000",
+    "disclosedDate": "2024-10-19 21:20:42.515082"
+  }
+}

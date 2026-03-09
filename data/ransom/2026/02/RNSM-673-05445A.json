@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-05445A",
+  "type": "ransomware-incident",
+  "title": "AOT Japan ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AOT Japan",
+    "country": "JP",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AOT Japan Ltd. is a Japanese logistics and freight forwarding company and a member of the international AOT Group. It was officially incorporated in 1986, following its establishment as a liaison and sales office of American Overseas Transport Ltd. Initially focused on ocean shipments from the United States to Japan, the company has since expanded its services worldwide.\r \r With over 30 years of experience in the Japanese market, AOT Japan Ltd. is a member of JIFFA and the Tokyo Chamber of Commerce and holds an NVOCC license, enabling it to issue its own House Bills of Lading. The company offers a full range of logistics services, emphasizing high service quality, operational expertise, and a personalized, customer-focused approach.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9342ffd6289fe303e7a7958d9467c84d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qu9uiephcgfuqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-05 00:00:00.000000",
+    "disclosedDate": "2026-02-05 00:34:24.092875"
+  }
+}

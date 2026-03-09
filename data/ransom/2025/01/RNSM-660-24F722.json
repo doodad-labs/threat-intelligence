@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-24F722",
+  "type": "ransomware-incident",
+  "title": "CREELED.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CREELED.COM",
+    "domain": "creeled.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"CREELED.COM\" is an online retail platform specializing in providing high-quality LED lighting solutions. The company offers a wide range of products including bulbs, tubes, and downlight fixtures, with a special focus on energy efficiency and durability. CREELED.COM works with leading manufacturers and implements strict quality control to ensure each product meets the highest standards. Beyond product sales, the company also provides expert advice and recommendations to help customers choose the right lighting solutions for their needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e2f03ccbe2c31375c81debd4a3d5bec6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1jfruxfrc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 09:04:04.097135",
+    "disclosedDate": "2025-01-24 09:04:04.097135"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-2466C0",
+  "type": "ransomware-incident",
+  "title": "medosweet.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "medosweet.com",
+    "domain": "medosweet.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Medosweet Farms provides a full range of distribution services for fresh and frozen locally produced dairy products, made from environmentally friendly materials, to food service businesses throughout the Pacific Northwest.1.Full company             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8ec07ee7f88dc537b3cece2a607dbb94.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwvkb3n3zwv0lmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-20 00:00:00.000000",
+    "disclosedDate": "2025-08-24 19:32:59.552187"
+  }
+}

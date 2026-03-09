@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-066891",
+  "type": "ransomware-incident",
+  "title": "qualiform.cz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "qualiform.cz",
+    "domain": "qualiform.cz",
+    "country": "CZ",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.qualiform.cz",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/841da7131bb4e510110516e1b37ac9e1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cxvhbglmb3jtlmn6qghlbgxkb3du",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-22 00:00:00.000000",
+    "disclosedDate": "2024-11-06 23:03:04.228485"
+  }
+}

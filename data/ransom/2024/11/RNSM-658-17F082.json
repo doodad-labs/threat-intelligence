@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-658-17F082",
+  "type": "ransomware-incident",
+  "title": "Conseil scolaire Viamonde ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Conseil scolaire Viamonde",
+    "domain": "csviamonde.ca",
+    "country": "CA",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "termite",
+    "name": "termite",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Conseil scolaire Viamonde is a public-secular French first language school board, and manages elementary and secondary schools in the Ontario Peninsula and the Greater Golden Horseshoe.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/69857d4c5435d8c5b92d0c27d9e4e7e1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29uc2vpbcbzy29sywlyzsbwawftb25kzub0zxjtaxrl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://l-express.ca/le-conseil-scolaire-viamonde-victime-dune-cyberattaque/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-14 20:38:33.000000",
+    "disclosedDate": "2024-11-17 19:36:31.097234"
+  }
+}

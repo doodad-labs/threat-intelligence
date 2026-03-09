@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-30744B",
+  "type": "ransomware-incident",
+  "title": "Brownell Boat Stands & Equipment Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Brownell Boat Stands & Equipment Company",
+    "domain": "boatstands.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 17000000000,
+    "description": "Brownell Boat Stands & Equipment Company ((founded 1954)- manufactures safest boat stands and equipment on the market. Brownell Boat Stands corporate office is located in 5 Boat Rock Rd, Mattapoisett, Massachusetts, 02739, United States. The total amount of data leakage is 17.00 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjvd25lbgwgqm9hdcbtdgfuzhmgjibfcxvpcg1lbnqgq29tcgfueubtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-27 18:30:49.12345",
+    "disclosedDate": "2024-05-30 14:43:21.107902"
+  }
+}

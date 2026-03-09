@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-2185B5",
+  "type": "ransomware-incident",
+  "title": "PHOENIX.EDU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PHOENIX.EDU",
+    "domain": "phoenix.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Phoenix.edu is the online portal for the University of Phoenix, a for-profit institution that is geared towards adult learners. The university offers degree programs at the associate's, bachelor's, master's and doctoral levels across a range of disciplines, including business, education, nursing, technology and more. It is recognized for its flexible course schedules, online classes, and professional development opportunities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e8d0911b1b6793b784e70c882746addb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uehpru5jwc5frfvay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 13:00:40.736118",
+    "disclosedDate": "2025-11-21 13:00:57.928957"
+  }
+}

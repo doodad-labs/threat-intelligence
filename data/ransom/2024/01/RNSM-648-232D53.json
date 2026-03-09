@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-648-232D53",
+  "type": "ransomware-incident",
+  "title": "stemcor.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "stemcor.com",
+    "domain": "stemcor.com",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1200000000000,
+    "description": "STEMCOR is a leading independently run service provider for the steel industry. We play a vital role, acting as an intermediary between customers and suppliers. We make complex transactions easy for buyers and sellers. With our specialised expertise and knowledge, we help customers choose from over 3,500 different grades of steel and raw materials available in the market. With our global infrastructure and connections, we ensure they get their product in the right place, at the right time, and at the right price. For suppliers, we use our relationships and long-standing expert knowledge to ensure that their products reach the best customer in the right destinations.SITE: www.stemcor.com Address : Stemcor Group Longbow House 4th Floor, 14-20 Chiswell Street London EC1Y 4TW United KingdomALL DATA SIZE: 1.2tb 1. Employee files 2. Finance 3. Accounting and etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/56b2eb4130ba5aed308c1d39dc1acff0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rlbwnvci5jb21aymxhy2tiyxn0yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-23 17:48:56.014824",
+    "disclosedDate": "2024-01-23 17:48:56.014843"
+  }
+}

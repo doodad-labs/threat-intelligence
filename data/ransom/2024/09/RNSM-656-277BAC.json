@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-277BAC",
+  "type": "ransomware-incident",
+  "title": "Xtera Communications ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Xtera Communications",
+    "domain": "xtera.com",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Xtera Communications (founded in 1951) is an provider of sub-sea telecoms solutions and carries an extensive portfolio of intellectual property. The company supplies both un-repeatered and repeatered systems, using its high performance optical amplifiers to deliver traffic directly inland to cities. Xtera Communications corporate office is located in Bates House Church Rd, London, Greater London, RM3 0SD, United Kingdom and has 103 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/whrlcmegq29tbxvuawnhdglvbnnabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-17 00:00:00.000000",
+    "disclosedDate": "2024-09-27 08:22:28.221679"
+  }
+}

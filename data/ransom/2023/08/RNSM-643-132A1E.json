@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-132A1E",
+  "type": "ransomware-incident",
+  "title": "siampremier.co.th ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "siampremier.co.th",
+    "domain": "siampremier.co.th",
+    "country": "TH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Providing legal advice and services to international clients, Siam Premier is a law firm in Thailand housing expert lawyers for all your business needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d6cb27ae0439b57309c3edf4ac0d4864.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2lhbxbyzw1pzxiuy28udghabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-13 08:24:00.000000",
+    "disclosedDate": "2023-08-13 08:55:27.827364"
+  }
+}

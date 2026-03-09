@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-663-0595D2",
+  "type": "ransomware-incident",
+  "title": "Optimax Technology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Optimax Technology",
+    "domain": "optimax.com.tw",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Optimax Technology ========================Pwn3d===================================                By Qilin & Devman================================================================p.s sorry guys did not yet wheight the files allot of             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b8e79bb025aaafa17dfc755d0bcbe070.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3b0aw1hecbuzwnobm9sb2d5qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isnew=y&seq_no=1&spoke_time=153314&spoke_date=20250407&co_id=3051",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-05 00:00:00.000000",
+    "disclosedDate": "2025-04-05 17:17:26.180952"
+  }
+}

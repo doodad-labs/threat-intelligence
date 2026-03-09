@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-197CA7",
+  "type": "ransomware-incident",
+  "title": "sinopecthc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sinopecthc.com",
+    "domain": "sinopecthc.com",
+    "country": "",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "STHC’s mission is to develop and deliver advanced, competitive research based technologies. We are committed to supporting the sustainability efforts of Sinopec’s oil and gas resources, including the implementation of a green, low-carbon strategy and...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9a2b5ad6886542045ec4b17c994cd621.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2lub3bly3royy5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-11-06 19:54:00.000000",
+    "disclosedDate": "2024-04-19 11:13:58.098050"
+  }
+}

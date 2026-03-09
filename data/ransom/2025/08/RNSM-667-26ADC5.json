@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-26ADC5",
+  "type": "ransomware-incident",
+  "title": "akd-ekbo.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "akd-ekbo.de",
+    "domain": "akd-ekbo.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Amt für kirchliche Dienste (AKD) is the central continuing education institution for professional and volunteer staff of the Evangelical …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8e5f9b544a345f6d56d67830938a9a01.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywtklwvrym8uzgvac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-19 00:00:00.000000",
+    "disclosedDate": "2025-08-26 12:44:50.359784"
+  }
+}

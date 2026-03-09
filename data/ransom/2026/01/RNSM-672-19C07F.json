@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-19C07F",
+  "type": "ransomware-incident",
+  "title": "Whitfield Welding Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Whitfield Welding Inc",
+    "domain": "whitfieldwelding.com",
+    "country": "CA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "nitrogen",
+    "name": "nitrogen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Specializing in instrumental welding (TIG, Micro TIG, MIG), microlaser welding, laser cladding, laser hardening, laser engraving, stress relieving, and mechanical processing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/42916a4e29bda66f6f0e033ee4239d7b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2hpdgzpzwxkifdlbgrpbmcgsw5jqg5pdhjvz2vu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-19 14:17:57.311613",
+    "disclosedDate": "2026-01-19 14:18:24.541925"
+  }
+}

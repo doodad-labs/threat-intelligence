@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-08B0F6",
+  "type": "ransomware-incident",
+  "title": "Linxx Global Solutions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Linxx Global Solutions",
+    "domain": "linxxglobal.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "payoutsking",
+    "name": "payoutsking",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Linxx Global Solutions is a U.S. based company that provides training and operational support services for the defense sector. Their offerings include security and defense training, protective services, intelligence, and maritime solutions. Linxx works in partnership with the federal government and military, and is particularly specialized in counter-terrorism and law enforcement training.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/015189ee76fa73c997f9649fb2f7057a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgluehggr2xvymfsifnvbhv0aw9uc0bwyxlvdxrza2luzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-30 09:36:00.000000",
+    "disclosedDate": "2025-10-08 11:17:08.868542"
+  }
+}

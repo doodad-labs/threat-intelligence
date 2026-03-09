@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-635-314B64",
+  "type": "ransomware-incident",
+  "title": "hacla.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hacla.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15000000000000,
+    "description": "More than 15TB of files : The Housing Authority of the City of Los Angeles is a state-chartered public agency. Established in 1938, HACLA provides the largest stock of affordable housing in the city Los Angeles, California and is one of the nation's...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfjbgeub3jnqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-31 18:30:54.681410",
+    "disclosedDate": "2022-12-31 18:30:54.681410"
+  }
+}

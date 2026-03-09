@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-07970C",
+  "type": "ransomware-incident",
+  "title": "SPORT BOUTIQ ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SPORT BOUTIQ",
+    "domain": "sport-boutique.com",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sport Boutique is a family business specializing in the sale and rental of ski equipment in Meribel, France, since 1947. For three generations, they have been offering a wide range of products from leading brands, including winter sports clothing, shoes, and accessories for men, women, and children.https://www.sport-boutique.com/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/122e1121a9670913a3d22cef6839b937.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1bpulqgqk9vvelrqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-07 09:28:40.117484",
+    "disclosedDate": "2025-01-07 09:29:48.509671"
+  }
+}

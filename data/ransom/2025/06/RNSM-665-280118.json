@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-665-280118",
+  "type": "ransomware-incident",
+  "title": "www.continental.aero ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.continental.aero",
+    "domain": "continental.aero",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "kraken",
+    "name": "kraken",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Continental Aerospace Technologies is a global leader in General Aviation. They are the only company to offer a full range of ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ad2fb07a765c173ade805f348d22547.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnvbnrpbmvudgfslmflcm9aa3jha2vu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.ftnonline.co.uk/2024/02/21/continental-aerospace-under-cyberattack-that-is-disrupting-daily-operations-at-the-engine-manufacturers-alabama-site/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 00:00:00.000000",
+    "disclosedDate": "2025-06-28 06:18:45.242762"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-170462",
+  "type": "ransomware-incident",
+  "title": "DA Capital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DA Capital",
+    "country": "",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DA Capital LLC is a global investment manager specializing in credit and special situations.We are ready to upload a lot of sensitive corporate documents such as: NDA’s, employee credit cards, confidential licenses, agreements and contracts, employee medical cards, insurance documents, passports and visas, tax information, driver licenses, contact numbers and e-mail addresses of employees and customers, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/reegq2fwaxrhbebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-17 00:00:00.000000",
+    "disclosedDate": "2025-02-17 11:44:21.254664"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-131E62",
+  "type": "ransomware-incident",
+  "title": "Satse ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Satse",
+    "domain": "satse.es",
+    "country": "ES",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Spain - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d998e83a08954b008926318fcc9d37c3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2f0c2vaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-13 09:29:18.000000",
+    "disclosedDate": "2024-02-13 10:05:16.952188"
+  }
+}

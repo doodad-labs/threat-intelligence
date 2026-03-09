@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-096B1E",
+  "type": "ransomware-incident",
+  "title": "Elysian Real Estate ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Elysian Real Estate",
+    "domain": "elysian.com",
+    "country": "AE",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "No description available.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6c4a8767988d4053f1eff6ad252abe83.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwx5c2lhbibszwfsievzdgf0zubjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-09 05:16:13.579562",
+    "disclosedDate": "2025-12-09 05:16:24.347700"
+  }
+}

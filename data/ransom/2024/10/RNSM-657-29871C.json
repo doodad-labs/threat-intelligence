@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-657-29871C",
+  "type": "ransomware-incident",
+  "title": "Sage Automotive Interior (sageautomotiveinteriors.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sage Automotive Interior (sageautomotiveinteriors.com)",
+    "domain": "sageautomotiveinteriors.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 76000000000,
+    "description": "76 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7029038b86dc941b01e2464d341d8cc3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fnzsbbdxrvbw90axzlieludgvyaw9yichzywdlyxv0b21vdgl2zwludgvyaw9ycy5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-29 00:00:00.000000",
+    "disclosedDate": "2024-10-29 12:23:46.207903"
+  }
+}

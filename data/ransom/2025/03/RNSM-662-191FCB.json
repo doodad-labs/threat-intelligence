@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-191FCB",
+  "type": "ransomware-incident",
+  "title": "rac.gov.my ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rac.gov.my",
+    "domain": "rac.gov.my",
+    "country": "MY",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "rac.gov.my",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/564971d4a137ce3eb94fef245df63025.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmfjlmdvdi5teubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-19 18:25:41.107486",
+    "disclosedDate": "2025-03-19 18:26:46.777294"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-232FC9",
+  "type": "ransomware-incident",
+  "title": "Rapid Granulator ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rapid Granulator",
+    "domain": "rapidgranulator.com",
+    "country": "SE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "80 years ago, in 1942, Harry Johansson founded Rapid Granulator in his hometown of Bredaryd, Sweden. He was an entrepreneur and visionary who was guided by strong values. Rapid’s products should make a difference for everyone who used them, and for the communities in which they operated. The concept of sustainable development may not have had the same impact then as now, but for Rapid’s founders it was a matter of course. The overall mentality in Swedish society at the time was to repair things that were broken instead of buying new, and to reuse items and equipment. Harry and his contemporary entrepreneurs were genuinely environmentally friendly, pioneers in sustainability work. Today, we are a world-leading company in producing equipment for plastic recycling, with operations and agencies located all over the world, on all continents. But our head office, production and development remain in Bredaryd, where we proudly have our roots.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3a2b6fd5d510f48307d760ef40fa512b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umfwawqgr3jhbnvsyxrvckbyyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-28 00:00:00.000000",
+    "disclosedDate": "2024-02-23 19:26:21.912275"
+  }
+}

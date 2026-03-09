@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-656-18E7EE",
+  "type": "ransomware-incident",
+  "title": "Providence Public School Department ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Providence Public School Department",
+    "domain": "providenceschools.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 201400000000,
+    "description": "The Providence Public School Department is the administrative force behind the primary public school district of Providence, Rhode Island. It serves about 21,700 students in pre-K through 12th grade. It has 21 elementary schools, seven middle schools and nine high schools, along with two public charter schools. The total amount of data leakage is 201.40 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/edfacc33ba24600d5cd8047806a9da15.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjvdmlkzw5jzsbqdwjsawmgu2nob29sierlcgfydg1lbnrabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://therecord.media/providence-schools-outage-cyberattack-wifi",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-16 14:24:58.000000",
+    "disclosedDate": "2024-09-18 14:01:16.635425"
+  }
+}

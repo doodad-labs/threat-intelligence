@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-02A08B",
+  "type": "ransomware-incident",
+  "title": "glprop.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "glprop.com",
+    "domain": "glprop.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Global Logistic Properties Ltd. operates as an investment holding company, which through its subsidiaries engages in the provision of distribution facilities and services. Its business solutions include multi-tenant distribution facilities developmen...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/16555498caef1f6d91a56815f7749792.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2xwcm9wlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-02 18:27:00.000000",
+    "disclosedDate": "2023-09-02 19:03:02.489352"
+  }
+}

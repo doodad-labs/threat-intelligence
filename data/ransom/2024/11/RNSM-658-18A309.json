@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-18A309",
+  "type": "ransomware-incident",
+  "title": "Istituto di Istruzione Superiore \"Giulio Natta\" ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Istituto di Istruzione Superiore \"Giulio Natta\"",
+    "domain": "itasnatta.edu.it",
+    "country": "IT",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Istituto di Istruzione Superiore \"Giulio Natta\" is an educational institution located in Italy, named after the renowned Italian chemist Giulio Natta. It offers a variety of secondary education programs, focusing on scientific and technical disciplines. The school emphasizes both theoretical knowledge and practical skills, preparing students for higher education and professional careers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sxn0axr1dg8gzgkgsxn0cnv6aw9uzsbtdxblcmlvcmugikdpdwxpbyboyxr0ysjarwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:03:37.876519",
+    "disclosedDate": "2024-11-18 21:03:40.147180"
+  }
+}

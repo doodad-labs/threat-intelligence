@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-19FEA2",
+  "type": "ransomware-incident",
+  "title": "COMREG.IE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "COMREG.IE",
+    "domain": "comreg.ie",
+    "country": "IE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Commission for Communications Regulation",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f0a514de8d2f0f560fdef2d73bc1d7d2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q09nukvhlklfqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-19 01:15:00.371077",
+    "disclosedDate": "2023-07-19 01:15:00.371112"
+  }
+}

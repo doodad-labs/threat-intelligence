@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-066DAF",
+  "type": "ransomware-incident",
+  "title": "thunderbirdcc.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "thunderbirdcc.org",
+    "domain": "thunderbirdcc.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "... Tags: #Thunderbird Country Club #Country Club #Rancho Mirage",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e36f4ddd47307517044e1c5c2c3f5552.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgh1bmrlcmjpcmrjyy5vcmdarwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-06 13:54:48.879388",
+    "disclosedDate": "2024-06-06 13:54:48.879409"
+  }
+}

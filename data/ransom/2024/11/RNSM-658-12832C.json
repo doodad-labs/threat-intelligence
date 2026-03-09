@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-12832C",
+  "type": "ransomware-incident",
+  "title": "TaxPros of Clermont ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TaxPros of Clermont",
+    "domain": "taxprosofclermont.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "For over 25 years, Tax Preparation/Consulting firm owned by CPA's and Attorney's specializing in ALL types of tax return preparation/consulting/IRS Tax Defense.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1363ab6839c676016cd16cabd362a2aa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgf4uhjvcybvzibdbgvybw9udebsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-24 00:00:00.000000",
+    "disclosedDate": "2024-11-12 00:10:35.194653"
+  }
+}

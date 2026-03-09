@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-22E680",
+  "type": "ransomware-incident",
+  "title": "Diedrich Coffee ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Diedrich Coffee",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15000000000,
+    "description": "Diedrich Coffee specializes in sourcing, roasting and selling theworld's highest quality coffees. The company markets its three leading brands of specialty coffees, Diedrich Coffee, Coffee People and Gloria Jeans Coffees, through office coffee service distributors, restaurants, and specialty retailers, and via the company's web stores. We are ready to upload more than 15 GB of corporate documents such as: various files of employees and customers, financial data (audits, payment details, reports), corporate NDA’s, confidential contracts, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgllzhjpy2ggq29mzmvlqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-22 00:00:00.000000",
+    "disclosedDate": "2025-04-22 16:41:05.308527"
+  }
+}

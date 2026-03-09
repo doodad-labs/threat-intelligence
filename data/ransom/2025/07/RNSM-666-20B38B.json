@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-666-20B38B",
+  "type": "ransomware-incident",
+  "title": "TransCore ITS, LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TransCore ITS, LLC",
+    "domain": "transcore.com",
+    "country": "AE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "crypto24",
+    "name": "crypto24",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000000,
+    "description": "We’ve successfully breached the internal network of TransCore’s Dubai office.Over 200 GB of internal data has been exfiltrated, including in-development source code, full file sets from active and archived client projects, internal financial records, and a massive trove of unprotected customer data — all stored without proper safeguards.The stolen data contains clear violations of multiple NDAs, exposing confidential third-party materials and client information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjhbnndb3jlieluuywgtexdqgnyexb0bzi0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-31 18:24:38.388288",
+    "disclosedDate": "2025-07-20 00:51:06.310683"
+  }
+}

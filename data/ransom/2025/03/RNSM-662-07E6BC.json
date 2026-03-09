@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-07E6BC",
+  "type": "ransomware-incident",
+  "title": "ADDA (adda.io) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ADDA (adda.io)",
+    "domain": "adda.io",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomexx",
+    "name": "ransomexx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ADDA is SaaS for Residential Community Management. 12 millions residents, visitors and stuff records leaked.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/76e4b073c45f27093852c9dcd98db371.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qureqsaoywrkys5pbylacmfuc29tzxh4",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-07 00:00:00.000000",
+    "disclosedDate": "2025-03-07 17:27:28.628529"
+  }
+}

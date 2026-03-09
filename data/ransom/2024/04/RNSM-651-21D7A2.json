@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-651-21D7A2",
+  "type": "ransomware-incident",
+  "title": "Ted Brown Music ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ted Brown Music",
+    "domain": "tedbrownmusic.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 29400000000,
+    "description": "Ted Brown Music is a family-owned full-service music store established in 1931. Ted Brown Music corporate office is located in 6228 Tacoma Mall Blvd, Tacoma, Washington, 98409, United States and has 95 employees. The total amount of data leakage is 29.4 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvkiejyb3duie11c2ljqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-20 20:23:19.12345",
+    "disclosedDate": "2024-04-21 20:32:57.489458"
+  }
+}

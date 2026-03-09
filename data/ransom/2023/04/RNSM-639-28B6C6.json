@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-28B6C6",
+  "type": "ransomware-incident",
+  "title": "AUTOCAM MEDICAL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AUTOCAM MEDICAL",
+    "domain": "autocam-medical.com",
+    "country": "BR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Autocam Medical is a privately held contract manufacturer of precision-machined surgical drill bits, drivers, screws, plates, cutting tools and other complex, highly engineered surgical implants, instruments, and handpieces, as well as other device components. Our clients are involved with instruments and devices used in the following anatomical areas: spine, foot and ankle, hand and wrist, hip and knee, shoulder and elbow, and craniomaxillofacial procedures.We offer a value-added approach to high-precision manufacturing, with specialties in CNC milling, turning and cutter grinding. State-of-the-art equipment and design for manufacturing engineering add value to the entire manufacturing process. ISO13485, FDA Registered, VISA (Brazil).SITE: www.autocam-medical.com Address 3607 Broadmoor Avenue SEKentwood, MI 49512, U.S.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/345dfffe1ef298b9f9f441ef102428f2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvvut0nbtsbnrurjq0fmqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-28 16:44:58.522382",
+    "disclosedDate": "2023-04-28 16:44:58.522404"
+  }
+}

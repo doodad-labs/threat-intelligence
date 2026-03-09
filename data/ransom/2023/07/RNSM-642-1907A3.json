@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-1907A3",
+  "type": "ransomware-incident",
+  "title": "BLUEFIN.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BLUEFIN.COM",
+    "domain": "bluefin.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bluefin: Payment & Sensitive Data Security Solutions",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1f001b1808ab99f9fb22e36e19c4a83b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkxvruzjti5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-19 01:17:47.880717",
+    "disclosedDate": "2023-07-19 01:17:47.880769"
+  }
+}

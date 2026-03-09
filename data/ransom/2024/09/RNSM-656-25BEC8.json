@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-25BEC8",
+  "type": "ransomware-incident",
+  "title": "ATG Communications Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ATG Communications Group",
+    "domain": "atgcommunications.com",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ATG Communications Group an Authorized Telus Dealer has been providing wireless products and services to the Canadian business market on a regional and national basis since 1997. We are going to disclose the files we obtained from this company. You will find credit cards, employee information, agreements and some other interesting information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvrhienvbw11bmljyxrpb25ziedyb3vwqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-25 15:30:14.829944",
+    "disclosedDate": "2024-09-25 15:30:16.031964"
+  }
+}

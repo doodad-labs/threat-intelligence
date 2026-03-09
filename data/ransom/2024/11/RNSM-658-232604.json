@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-232604",
+  "type": "ransomware-incident",
+  "title": "lgpunjab.gov.in ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lgpunjab.gov.in",
+    "domain": "lgpunjab.gov.in",
+    "country": "IN",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 200000000,
+    "description": "GOVERNMENT OF PUNJABBackup CRM, 0.2 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8bf277f23d5ff104a7b7c10940ed7693.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgdwdw5qywiuz292lmluqgfwddcz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-23 16:40:41.951290",
+    "disclosedDate": "2024-11-23 16:40:43.165653"
+  }
+}

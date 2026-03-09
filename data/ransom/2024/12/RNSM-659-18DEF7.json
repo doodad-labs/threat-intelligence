@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-18DEF7",
+  "type": "ransomware-incident",
+  "title": "Verosa LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Verosa LLC",
+    "domain": "verosa.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/040da53adcebd44fc449897850d51bcb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmvyb3nhiexmq0brawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-18 17:13:00.095961",
+    "disclosedDate": "2024-12-18 17:13:00.809946"
+  }
+}

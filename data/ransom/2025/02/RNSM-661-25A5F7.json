@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-25A5F7",
+  "type": "ransomware-incident",
+  "title": "Aurora Boardworks ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aurora Boardworks",
+    "domain": "auroraboardworks.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Aurora Boardworks manufactures custom built circuit assemblies for industrial, medical, military, agriculture, oil and gas applications. Aurora Boardworks corporate office is located in 103 Grant St, Aurora, Nebraska, 68818, United States and has 24 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0d3330eb88fe9a8b90a1b5e27cf9d1f5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxvyb3jhiejvyxjkd29ya3nabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-24 16:22:18.000000",
+    "disclosedDate": "2025-02-25 20:01:30.919116"
+  }
+}

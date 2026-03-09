@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-247743",
+  "type": "ransomware-incident",
+  "title": "JAKKS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JAKKS.COM",
+    "domain": "jakks.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] JAKKS Pacific, Inc., often referred to as JAKKS.COM, is a multi-brand company that designs and markets a broad range of toys, consumer products, and other leisure entertainment products. They provide merchandise for various franchises, such as Disney, Nintendo, and Star Wars among others. JAKKS Pacific is also known for its innovative technology application in toy manufacturing. The company started in 1995 and is situated in California, USA.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dd17781d22ae33b292a4bcf2780dcf78.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/skfls1muq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 09:01:54.388351",
+    "disclosedDate": "2025-01-24 09:01:54.388351"
+  }
+}

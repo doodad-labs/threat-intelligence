@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-662-30A1B3",
+  "type": "ransomware-incident",
+  "title": "beaudry.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "beaudry.ca",
+    "domain": "beaudry.ca",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymvhdwryes5jyubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-30 02:53:10.663043",
+    "disclosedDate": "2025-03-30 02:53:13.371863"
+  }
+}

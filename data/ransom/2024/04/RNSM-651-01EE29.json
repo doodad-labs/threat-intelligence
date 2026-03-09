@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-01EE29",
+  "type": "ransomware-incident",
+  "title": "besttrans.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "besttrans.com",
+    "domain": "besttrans.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/BESTTRANS/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/BESTTRANS/PROOF/DATA DESCRIPTIONS: Employees and executives personal folders, financial statements, payroll data, customer agreements, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fe221f4e898b2dba6ba5130e34d6a8f9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymvzdhryyw5zlmnvbubjywn0dxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-18 00:00:00.000000",
+    "disclosedDate": "2024-04-01 13:23:49.627695"
+  }
+}

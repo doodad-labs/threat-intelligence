@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09C697",
+  "type": "ransomware-incident",
+  "title": "dpkv.cz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dpkv.cz",
+    "domain": "dpkv.cz",
+    "country": "CZ",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dopravní podnik Karlovy Vary, a. s. is a traditional operator of public transport in Karlovy Vary.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2de616a14cf15bf4ad9ff3b915f3db4e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zhbrdi5jekbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-07 00:00:00.000000",
+    "disclosedDate": "2024-05-09 13:44:32.056729"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-14E243",
+  "type": "ransomware-incident",
+  "title": "troteclaser.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "troteclaser.com",
+    "domain": "troteclaser.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Trotec Laser makes laser users’ work simpler, faster and more profitable by setting new standards in laser machines.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/60cd3c0a42253d3c0a882587e864935c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhjvdgvjbgfzzxiuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-14 21:20:00.000000",
+    "disclosedDate": "2023-05-14 21:52:51.578855"
+  }
+}

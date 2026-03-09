@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-07B7E8",
+  "type": "ransomware-incident",
+  "title": "Dielco ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dielco",
+    "domain": "dielco.co",
+    "country": "NL"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f25c7488f40895da56c369e48dca567c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgllbgnvqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-07 18:15:21.684660",
+    "disclosedDate": "2026-03-07 18:15:36.098195"
+  }
+}

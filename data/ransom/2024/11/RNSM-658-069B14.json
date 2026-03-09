@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-069B14",
+  "type": "ransomware-incident",
+  "title": "SMARTS-ENGINEER ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SMARTS-ENGINEER",
+    "domain": "smarts-engineering.de",
+    "country": "RU",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.smarts-engineering.de",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e83432386e6166787a03b3a125dff854.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u01bulrtluvor0loruvsqghlbgxkb3du",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-28 00:00:00.000000",
+    "disclosedDate": "2024-11-06 22:59:50.643159"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-25B556",
+  "type": "ransomware-incident",
+  "title": "theeyeclinicsurgicenter.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "theeyeclinicsurgicenter.com",
+    "domain": "theeyeclinicsurgicenter.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Eye Clinic Surgicenter provides treatments for clear lens exchange, corneal cross-linking, contact lenses, corneal, dry eye, glaucoma, implanted contact lens, LASIK, optical, low vision, and retinal.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/801ec5943e5c4fd13dc0d65fbae5da60.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghlzxlly2xpbmljc3vyz2ljzw50zxiuy29tqgjsywnrc3vpda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-25 08:26:59.184004",
+    "disclosedDate": "2024-06-25 08:27:00.224374"
+  }
+}

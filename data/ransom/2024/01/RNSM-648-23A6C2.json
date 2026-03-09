@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-23A6C2",
+  "type": "ransomware-incident",
+  "title": "ARPEGE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ARPEGE",
+    "domain": "arpege-conseils.fr",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ARPEGE is a multidisciplinary accounting, consulting and audit firm that relies on specialized teamshttps://www.arpege-conseils.fr/fr",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1f21ac3ba7e9efbbe19607af8558b2c1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvjqrudfqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-16 00:00:00.000000",
+    "disclosedDate": "2024-01-23 07:12:49.964159"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-04CB1C",
+  "type": "ransomware-incident",
+  "title": "Hydrodiseño ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hydrodiseño",
+    "domain": "hydrodiseno.com",
+    "country": "ES",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Manufacturing",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6c659ba68e55f0159f771692c8dd52fa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/shlkcm9kaxnlw7fvqgrpcmv3b2xm",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-04 05:52:50.052001",
+    "disclosedDate": "2026-01-04 06:32:33.019468"
+  }
+}

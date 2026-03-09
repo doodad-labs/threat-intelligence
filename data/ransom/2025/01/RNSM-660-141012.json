@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-660-141012",
+  "type": "ransomware-incident",
+  "title": "The University of Oklahoma (ou.edu) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The University of Oklahoma (ou.edu)",
+    "domain": "ou.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 91000000,
+    "description": "91 MB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifvuaxzlcnnpdhkgb2ygt2tsywhvbwegkg91lmvkdslazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://therecord.media/university-of-oklahoma-isolates-systems-unusual-activity",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-14 12:30:08.636654",
+    "disclosedDate": "2025-01-14 12:31:12.197469"
+  }
+}

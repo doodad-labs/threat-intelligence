@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-21F3C8",
+  "type": "ransomware-incident",
+  "title": "Dunlop Aircraft Tyres ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dunlop Aircraft Tyres",
+    "domain": "dunlopaircrafttyres.com",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country: United Kingdom",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhvubg9wiefpcmnyywz0ifr5cmvzqgnsb2fr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.european-rubber-journal.com/article/2097469/datl-reports-cyberattack-at-uk-operations",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-21 17:46:50.321305",
+    "disclosedDate": "2024-08-21 17:46:50.767884"
+  }
+}

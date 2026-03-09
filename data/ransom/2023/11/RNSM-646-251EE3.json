@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-251EE3",
+  "type": "ransomware-incident",
+  "title": "TXWES.EDU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TXWES.EDU",
+    "domain": "txwes.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - Texas Wesleyan University",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eb909abf37fd13696156d32d6df604b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfhxrvmururvqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-25 14:14:37.076775",
+    "disclosedDate": "2023-11-25 14:14:37.076794"
+  }
+}

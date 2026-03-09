@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-658-20D3BF",
+  "type": "ransomware-incident",
+  "title": "Berman Law Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Berman Law Group",
+    "domain": "bermanlawgroup.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Company has 48 hours to contact us if not we will release clients data and financials files on the blog .",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e64cf5cfb066c17beb28273ad32a2f91.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvybwfuiexhdybhcm91cebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-07 00:00:00.000000",
+    "disclosedDate": "2024-11-20 23:18:09.432833"
+  }
+}

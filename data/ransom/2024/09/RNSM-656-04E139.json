@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-04E139",
+  "type": "ransomware-incident",
+  "title": "Sunrise Erectors ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sunrise Erectors",
+    "domain": "sunriseerectors.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0dcf71603a01988f21038844ad98d8bc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vucmlzzsbfcmvjdg9yc0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-04 06:49:07.000000",
+    "disclosedDate": "2024-09-04 07:05:02.010671"
+  }
+}

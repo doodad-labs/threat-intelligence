@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-128CFA",
+  "type": "ransomware-incident",
+  "title": "Squeezer-software ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Squeezer-software",
+    "domain": "squeezer-software.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Extract from Gitlabs: INGV, Spacemanic, Squeezer-software",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3f1zwv6zxitc29mdhdhcmvazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-12 17:18:51.898454",
+    "disclosedDate": "2025-02-12 17:18:58.690165"
+  }
+}

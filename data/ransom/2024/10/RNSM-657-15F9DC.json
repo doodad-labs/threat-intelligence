@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-15F9DC",
+  "type": "ransomware-incident",
+  "title": "Promise Technology, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Promise Technology, Inc.",
+    "domain": "promise.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We will publish every 3 days a new part, from old to new and at the end we will publish fresh source code (2024 and future developments) and internal databases 2024.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjvbwlzzsbuzwnobm9sb2d5lcbjbmmuqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-15 16:32:16.196450",
+    "disclosedDate": "2024-10-15 16:32:17.938565"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-03A881",
+  "type": "ransomware-incident",
+  "title": "Pineland community service board ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pineland community service board",
+    "domain": "pinelandcsb.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pineland BHDD is to develop and provide the services needed to minimize the impact of mental illness, developmental disabilities and addictive diseases in the lives of those we serve and their families.• Patients' personal information, documents and medical histories. Company network database and backups. http://www.pinelandcsb.org",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a9a5535fc2a587ccbf989802c84c5982.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugluzwxhbmqgy29tbxvuaxr5ihnlcnzpy2ugym9hcmrac3bhy2vizwfycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-03 00:09:16.103053",
+    "disclosedDate": "2025-02-03 00:10:38.073614"
+  }
+}

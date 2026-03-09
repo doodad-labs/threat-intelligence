@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-1355CA",
+  "type": "ransomware-incident",
+  "title": "piszcz.pl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "piszcz.pl",
+    "domain": "piszcz.pl",
+    "country": "PL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are one of the leading law firms in the Wielkopolska region and according to prestigious national rankings, we are also among top Polish law firms.  We have many years of experience in the provision of comprehensive legal services to big and mediu...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/58dfe9cc000c6f9e6698d3c717982d1d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cglzemn6lnbsqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-13 15:59:00.000000",
+    "disclosedDate": "2023-04-13 16:48:58.407512"
+  }
+}

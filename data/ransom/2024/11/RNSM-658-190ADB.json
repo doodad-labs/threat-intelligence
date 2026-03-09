@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-190ADB",
+  "type": "ransomware-incident",
+  "title": "ccseniorservices ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ccseniorservices",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "ZIP-50GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2nzzw5pb3jzzxj2awnlc0bzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 22:30:13.850928",
+    "disclosedDate": "2024-11-19 22:30:14.459750"
+  }
+}

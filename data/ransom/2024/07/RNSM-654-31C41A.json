@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-31C41A",
+  "type": "ransomware-incident",
+  "title": "EBL PARTNERS (construction interiors), Florida ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EBL PARTNERS (construction interiors), Florida",
+    "domain": "eblpartners.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Real Estate, developing and management. Florida.Financial Doc, Audit, Accounting Reports, BackUp, Project, Vendor Info, Customer Data Base https://eblpartners.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1304d2be20fcb737cba8b9e9aaacd912.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rujmifbbulrorvjtichjb25zdhj1y3rpb24gaw50zxjpb3jzkswgrmxvcmlkyubzcgfjzwjlyxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-30 00:00:00.000000",
+    "disclosedDate": "2024-07-31 18:18:10.855839"
+  }
+}

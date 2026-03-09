@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-660-223B1B",
+  "type": "ransomware-incident",
+  "title": "Architects West ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Architects West",
+    "domain": "architectswest.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 120000000000,
+    "description": "Architects West is a leading architecture firm based in Coeur dAlene and Spokane, offering architectural, landscape architectural,and interior design services since 1973.We are ready to upload more than 120 GB of private corporate documents such as: HR documents, contact numbers and e-mail addressesof employees and customers, confidential agreements and contracts, financial data (audits, payment details, reports), etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjjagl0zwn0cybxzxn0qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-22 16:28:24.259816",
+    "disclosedDate": "2025-01-22 16:28:25.683636"
+  }
+}

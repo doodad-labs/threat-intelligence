@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-159ABD",
+  "type": "ransomware-incident",
+  "title": "posiplus.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "posiplus.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 350000000000,
+    "description": "Since 1981, Posi+ has been manufacturing aerial devices, stand apart to meet your specific needs. Over the years, the range of products expanded. Motivated by the same concern for performance, quality and safety, Posi+ also offers digger derricks, cable handlers and cable placers for telecoms.SITE: www.posiplus.com Address : 100-489 PIERRE-ROUX E, VICTORIAVILLE QUEBEC, CANADA G6T 1S9Tel#: 1 800 758-5717ALL DATA SIZE: ≈350gb+ 1. Company data 2. Confidential & employees data 3. Financial data & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a44924f22097d0209cd81d0e9275e324.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cg9zaxbsdxmuy29tqgjsywnrymfzdge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-15 17:36:19.497059",
+    "disclosedDate": "2024-07-15 17:36:20.171415"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-21A735",
+  "type": "ransomware-incident",
+  "title": "NOVEXCO ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NOVEXCO",
+    "domain": "novexco.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Novexco is the largest Canadian-owned national distributor of office supplies and services. Mission Provide innovative business solutions for the workplace, by focusing on the satisfaction and loyalty of our various client groups.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/45cb1a2ed753c5214e4f0d7c4b1d4e50.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tk9wrvhdt0bhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-21 05:40:50.123456",
+    "disclosedDate": "2023-09-21 07:02:36.421254"
+  }
+}

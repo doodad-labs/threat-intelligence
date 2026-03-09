@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-319ACC",
+  "type": "ransomware-incident",
+  "title": "derrama.org.pe ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "derrama.org.pe",
+    "domain": "derrama.org.pe",
+    "country": "PE",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pídelo Aquí Maestro, accede a todos los servicios que tenemos para ti Derrama Magisterial es una institución de seguridad social privada, perteneciente a los maestros que trabajan en las instituciones educativas del Estado.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/622ca8d983b923911971b06b75fe4649.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvycmftys5vcmcucgvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-25 00:00:00.000000",
+    "disclosedDate": "2024-01-31 22:33:07.209953"
+  }
+}

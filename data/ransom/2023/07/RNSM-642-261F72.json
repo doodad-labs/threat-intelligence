@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-261F72",
+  "type": "ransomware-incident",
+  "title": "QBITS.CH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "QBITS.CH",
+    "domain": "qbits.ch",
+    "country": "CH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "QBITS AG - Home",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/acf6459e40e596aa694bc00d91995ca9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uujjvfmuq0hay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:38:05.439025",
+    "disclosedDate": "2023-07-26 20:38:05.439049"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-039EA7",
+  "type": "ransomware-incident",
+  "title": "Karadeniz Holding (karadenizholding.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Karadeniz Holding (karadenizholding.com)",
+    "domain": "karadenizholding.com",
+    "country": "TR",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "1.5 TB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f2cfa70f881ee8e64ff7aa4a0b72e988.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fyywrlbml6iehvbgrpbmcgkgthcmfkzw5pemhvbgrpbmcuy29tkubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-03 16:26:35.135847",
+    "disclosedDate": "2025-02-03 16:27:40.260377"
+  }
+}

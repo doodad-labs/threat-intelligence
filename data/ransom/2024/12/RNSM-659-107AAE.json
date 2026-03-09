@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-107AAE",
+  "type": "ransomware-incident",
+  "title": "womenscare.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "womenscare.com",
+    "domain": "womenscare.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] WomensCare.com is a healthcare organization focused on providing comprehensive services for women's health. They offer a wide range of medical care, including obstetrics, gynecology, and specialty services such as fertility treatments and menopause management. The company is dedicated to delivering personalized and compassionate care, prioritizing the well-being and health of women at every stage of life.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b9163adce4d828e83cdfdb7e28de360a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d29tzw5zy2fyzs5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 10:20:25.000000",
+    "disclosedDate": "2024-12-10 11:24:37.493147"
+  }
+}

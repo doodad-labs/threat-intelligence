@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-06F86B",
+  "type": "ransomware-incident",
+  "title": "Olinsky Law Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Olinsky Law Group",
+    "domain": "windisability.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Olinsky Law Group specializes in Social Security Disability, Appeals Council, Federal Court, and Long-…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2xpbnnresbmyxcgr3jvdxbau2lszw50umfuc29tr3jvdxa=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-19 21:28:47.457161",
+    "disclosedDate": "2025-05-06 18:16:05.939686"
+  }
+}

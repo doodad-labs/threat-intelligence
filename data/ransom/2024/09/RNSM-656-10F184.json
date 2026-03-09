@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-10F184",
+  "type": "ransomware-incident",
+  "title": "Myelec Electrical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Myelec Electrical",
+    "domain": "myelecgroup.com.au",
+    "country": "AU",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "meow",
+    "name": "meow",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Myelec Electrical is a professional electrical services company specializing in residential, commercial, and industrial installations and maintenance. Known for their expertise and reliability, they offer a comprehensive range of services including wiring, lighting, safety inspections, and energy-efficient solutions. Committed to quality and customer satisfaction, Myelec Electrical ensures projects are completed on time and within budget.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/99123f6874a9f17660c3e4127c63f17e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txllbgvjievszwn0cmljywxabwvvdw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-10 12:37:18.215440",
+    "disclosedDate": "2024-09-10 12:37:19.956355"
+  }
+}

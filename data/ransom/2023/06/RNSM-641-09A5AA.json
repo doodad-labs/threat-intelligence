@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-641-09A5AA",
+  "type": "ransomware-incident",
+  "title": "The Adams County Communication Center orADCOM911 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Adams County Communication Center orADCOM911",
+    "domain": "adcom911.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "The Adams County Communication Center, also known as ADCOM911, isa Dispatch Center located in Adams County, Colorado. To provide high-quality communication, dispatch, and data services to any who call on ADCOM for help. We are grateful to ADCOM for their high-quality services and for 40GB of their data and DBs with detailed information. Soon we will provide access to their data to any who is interested in. This organization has one of the best data services!",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghliefkyw1zienvdw50esbdb21tdw5py2f0aw9uienlbnrlcibvckfeq09notexqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-09 01:02:03.456789",
+    "disclosedDate": "2023-06-09 13:53:52.779038"
+  }
+}

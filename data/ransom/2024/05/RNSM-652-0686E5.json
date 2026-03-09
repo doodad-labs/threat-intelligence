@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-0686E5",
+  "type": "ransomware-incident",
+  "title": "kras.hr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kras.hr",
+    "domain": "kras.hr",
+    "country": "HR",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dani komunikacija 2024: Kraš je drugu godinu zaredom Oglašivač godine! 15. 04. 2024. Kraš se iz Rovinja vraća sa čak tri zlata i dva srebra - Frondi, Bajadera i Ki-Ki potvrdili su izvrsnost domaćeg konditorskog proizvođača. Više.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c80b9707ad058189ea20555035011401.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3jhcy5ockbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-06 11:23:00.000000",
+    "disclosedDate": "2024-05-06 13:41:45.515720"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-636-07D948",
+  "type": "ransomware-incident",
+  "title": "juarez.gob.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "juarez.gob.mx",
+    "domain": "juarez.gob.mx",
+    "country": "MX",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Gobierno Municipal. Ayuntamiento de JuárezUnidad Administrativa Benito JuárezAv. Francisco Villa 950 N., CentroC.P. 32000, Juárez, Chihuahua656 737 0000",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/anvhcmv6lmdvyi5teebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-01-07 11:56:52.220196",
+    "disclosedDate": "2023-01-07 11:56:52.220196"
+  }
+}

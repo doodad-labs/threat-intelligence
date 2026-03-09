@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-22578F",
+  "type": "ransomware-incident",
+  "title": "Bieler + Lang GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bieler + Lang GmbH",
+    "domain": "bieler-lang.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bieler+Lang - Eine Manufacturer of Gas Detection Systems PCB Assemblybieler-lang.de",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b96c91c530b056f7dcef70d6c81b542b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmllbgvyicsgtgfuzybhbwjiqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-22 00:00:00.000000",
+    "disclosedDate": "2024-04-22 16:23:30.831048"
+  }
+}

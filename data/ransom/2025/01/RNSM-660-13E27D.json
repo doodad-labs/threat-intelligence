@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-13E27D",
+  "type": "ransomware-incident",
+  "title": "PT PINS Indonesia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PT PINS Indonesia",
+    "domain": "pins.co.id",
+    "country": "ID",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PT PINS Indonesia adalah anak usaha Telkom Indonesia yang bergerak di bidang IoT. Untuk mendukung kegiatan bisnisnya, perusahaan ini memiliki delapan kantor area, yakni di Medan, Jakarta, Bandung, Semarang, Surabaya, Denpasar, Makassar, dan Balikpapan.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a4fad407f527255c23d6557455e65fb3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ufqguelouybjbmrvbmvzawfazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-13 21:21:13.429752",
+    "disclosedDate": "2025-01-13 21:22:18.449069"
+  }
+}

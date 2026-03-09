@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-13C05A",
+  "type": "ransomware-incident",
+  "title": "Kazyon ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kazyon",
+    "country": "RU",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "moneymessage",
+    "name": "moneymessage",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Kazyon is a prominent discount supermarket chain based in Egypt. Founded in 2014, it focuses on providing affordable grocery options to consumers. Kazyon operates numerous stores across the country, emphasizing cost-effective pricing and accessibility. The company aims to offer a wide range of products, including fresh produce, packaged goods, and household items, catering to diverse customer needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4a3bee41e75c432dacd07bb978c8f3cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2f6ew9uqg1vbmv5bwvzc2fnzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-13 19:17:18.058046",
+    "disclosedDate": "2024-12-13 19:17:21.617360"
+  }
+}

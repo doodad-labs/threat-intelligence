@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-1088F3",
+  "type": "ransomware-incident",
+  "title": "Nexperia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nexperia",
+    "domain": "nexperia.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dunghill",
+    "name": "dunghill",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Headquartered in the Netherlands, Nexperia is a global semiconductor company with a rich European history and more than 15,000 employees in Europe, Asia and the United States. As a leading expert in the design and manufacture of mission-critical semiconductors, Nexperia components provide the basic functionality for virtually every electronic device in the world - from automotive and industrial to mobile and consumer applications.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f67204110fe272ef6047964d501bd092.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv4cgvyawfazhvuz2hpbgw=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-10 21:05:37.096874",
+    "disclosedDate": "2024-04-10 21:05:37.096896"
+  }
+}

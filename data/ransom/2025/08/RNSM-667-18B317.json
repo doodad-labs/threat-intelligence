@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-18B317",
+  "type": "ransomware-incident",
+  "title": "apderm.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "apderm.com",
+    "domain": "apderm.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "APDerm is the largest physician-owned dermatology clinic in New England, with 25 locations in New Hampshire, Massachusetts, and Rhode Island. The company offers a full range of innovative medical, surgical, and cosmetic procedures to help pat            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bbe1efb8cf6e5ec195098e8f62fae18c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxbkzxjtlmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-13 00:00:00.000000",
+    "disclosedDate": "2025-08-18 17:41:26.541459"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-648-14BDA8",
+  "type": "ransomware-incident",
+  "title": "American International College ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "American International College",
+    "domain": "aic.edu",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "unsafe",
+    "name": "unsafe",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "country: US - revenue: 135.00M",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1lcmljyw4gsw50zxjuyxrpb25hbcbdb2xszwdlqhvuc2fmzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-14 23:22:16.578832",
+    "disclosedDate": "2024-01-14 23:22:16.578856"
+  }
+}

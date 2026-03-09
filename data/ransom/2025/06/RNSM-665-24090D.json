@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-665-24090D",
+  "type": "ransomware-incident",
+  "title": "Keystone Shipping ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Keystone Shipping",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Keystone is a U.S. shipowner and operator founded in Philadelphiain 1909.We are ready to upload corporate documents such as: personal information of employees (DOB, phone, email and so on), detailed financial data (payment details, reports, invoices, salaries, bonuses), corporate NDAs, cargo ship blueprints, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2v5c3rvbmugu2hpchbpbmdaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-24 00:00:00.000000",
+    "disclosedDate": "2025-06-24 14:49:47.380251"
+  }
+}

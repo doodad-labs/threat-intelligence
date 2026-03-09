@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-642-267A9B",
+  "type": "ransomware-incident",
+  "title": "KlamoyaCasino ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KlamoyaCasino",
+    "domain": "klamoyacasino.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Full pack of documents will be attached soon. SQL export contains players info with SSN. DL scans for KYC is attached.",
+    "claimed_data_types": [
+      "government-identifiers"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d0c21813d60318089db69332c7800136.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2xhbw95yunhc2lub0bhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-11-17 23:47:03.000000",
+    "disclosedDate": "2023-07-26 16:30:35.847950"
+  }
+}

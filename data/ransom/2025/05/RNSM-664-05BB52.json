@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-05BB52",
+  "type": "ransomware-incident",
+  "title": "mbmdubai.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mbmdubai.com",
+    "domain": "mbmdubai.com",
+    "country": "AE"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3734d2143088ab2f513251c4d27b87e5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwjtzhviywkuy29tqejyywluq2lwagvy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-05 10:33:55.623121",
+    "disclosedDate": "2025-05-05 10:35:36.088779"
+  }
+}

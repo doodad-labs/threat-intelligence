@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-14C949",
+  "type": "ransomware-incident",
+  "title": "www.calspa.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.calspa.it",
+    "domain": "calspa.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] CalSpa is an Italian company specializing in the sale of spa and wellness center equipment. They distribute high-quality, innovative products including spas, saunas, steam baths, and other wellness accessories. CalSpa is committed to improving their customers' health and well-being through their products, and they pride themselves on exceptional customer service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3a44b5c229d94d355e8b12c649161e65.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnhbhnwys5pdebyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-08 08:51:19.000000",
+    "disclosedDate": "2025-02-14 16:10:33.625247"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-296586",
+  "type": "ransomware-incident",
+  "title": "Tiger Communications ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tiger Communications",
+    "domain": "tigercomlv.com",
+    "country": "UK",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "securotrop",
+    "name": "securotrop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Tiger Communications is a UK-based company that specializes in providing telecoms analytics and call management solutions. They offer businesses insights into their telecommunications, whether it be for general analysis, cost reduction, or security purposes. Tiger's range of solutions includes real-time and historical reporting, CRM integration, fraud detection and prevention, and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/949a22e4c1022182585f12ce2544f9f7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vglnzxigq29tbxvuawnhdglvbnnac2vjdxjvdhjvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-18 00:00:00.000000",
+    "disclosedDate": "2025-07-29 16:49:32.219476"
+  }
+}

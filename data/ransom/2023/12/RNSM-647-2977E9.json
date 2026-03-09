@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-647-2977E9",
+  "type": "ransomware-incident",
+  "title": "Okada Manilla ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Okada Manilla",
+    "domain": "okadamanila.com",
+    "country": "PH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have repeatedly tried to contact you but have been unsuccessful, so as a Christmas present we have decided to contact your customers and tell them that they owe money to OKADA MANILLA. Hopefully you can explain to them that you need the money to pay for a quality pint from our team. I think they will contact you soon and tell you this good news. I want to inform you that next time we will tell your clients something more unpleasant than the fact that they owe you money. If you still care about your reputation and your customers, we encourage you to get in touch with us. To do this you can follow the link below and download the 2 files where you will find the answer key to how to contact us.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d10c4dbe196604bb7e7d9b89ea768e13.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2thzgegtwfuawxsyubhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.asgam.com/index.php/2023/11/16/okada-manila-blames-major-slots-outage-on-technical-issues/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-29 19:23:19.123456",
+    "disclosedDate": "2023-12-29 20:38:49.045491"
+  }
+}

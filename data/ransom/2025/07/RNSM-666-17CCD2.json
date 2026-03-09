@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-666-17CCD2",
+  "type": "ransomware-incident",
+  "title": "Multilift Logistic Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Multilift Logistic Group",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 17000000000,
+    "description": "Multilift International specializes in port operations and terminal warehousing services, handling two million tons annually at their facilities. We are ready to upload more than 17 GB of essential corporate documents. Complete employee personal information (DOB, identification number, passport (scan) and so on), financial files, a lot of client data, a lot of contracts, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txvsdglsawz0iexvz2lzdgljiedyb3vwqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-17 00:00:00.000000",
+    "disclosedDate": "2025-07-17 13:11:50.207638"
+  }
+}

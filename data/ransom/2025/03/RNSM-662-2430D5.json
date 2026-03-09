@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-2430D5",
+  "type": "ransomware-incident",
+  "title": "Nelson Law Firm ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nelson Law Firm",
+    "domain": "nelsonslaw.co.uk",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "frag",
+    "name": "frag",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Law Firms & Legal ServicesNelson Law Firm specializes in knowing the rights and responsibilities of creditors and the obligations of debtors. That includes assisting your business in obtaining the revenue you are owed in a professional manner while pursuing the fullest remedies under the law.Our team was successful in extracting the following documents:Contact information of clients and employeesHealthcare medical documentsFinancial statements of the companyThe icing on the cake:Employee and clients social security numbersDriving licenses",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmvsc29uiexhdybgaxjtqgzyywc=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-03 14:45:02.690000",
+    "disclosedDate": "2025-03-24 19:23:48.494395"
+  }
+}

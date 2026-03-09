@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-663-2942B8",
+  "type": "ransomware-incident",
+  "title": "SJERP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SJERP",
+    "domain": "sj.com.do",
+    "country": "DO"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "​The website sj.com.do is the official platform for SJ ERP, a comprehensive Enterprise Resource Planning (ERP) software developed by JoS...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0pfulbabm92yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-29 00:00:00.000000",
+    "disclosedDate": "2025-04-29 02:49:50.821643"
+  }
+}

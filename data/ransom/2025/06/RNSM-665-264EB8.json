@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-665-264EB8",
+  "type": "ransomware-incident",
+  "title": "Dealmed Medical Supplies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dealmed Medical Supplies",
+    "domain": "dealmed.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "(Data of the entire group of companies) Dealmed provides a comprehensive range of medical supplies designed for healthcare professionals. Their products cater to various medical needs, ensuring quality and reliability. Dealmed serves hospitals, clinics, and other healthcare facilities as its primary clients. The company is dedicated to enhancing patient care through its innovative supply solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b77a1febc81391c8bb267413b41b5cff.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvhbg1lzcbnzwrpy2fsifn1chbsawvzqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.hipaajournal.com/dealmed-medical-supplies-cyberattack-data-breach/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-26 18:19:57.262618",
+    "disclosedDate": "2025-06-26 18:23:35.695388"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-660-10490A",
+  "type": "ransomware-incident",
+  "title": "Thomas J. Henry Law ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Thomas J. Henry Law",
+    "domain": "thomasjhenrylaw.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 4000000000000,
+    "description": "Thomas J. Henry Law is one of the largest personal injury law firms in Texas, handling all types of personal injury claims and representing clients in mass torts, product liability, child injuries, and whistleblower defense cases.We have obtained over 4 Tb of private corporate documents including: NDAs, SSNs, passports, driver licenses, confidential medical information, medicare documents, contact numbers and e-mail addresses of employees and customers, personnel incident reports etc. We can put this information freely available at any time.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghvbwfzieouiehlbnj5iexhd0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-10 18:15:32.886605",
+    "disclosedDate": "2025-01-10 18:15:36.436339"
+  }
+}

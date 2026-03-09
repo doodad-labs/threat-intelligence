@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-302988",
+  "type": "ransomware-incident",
+  "title": "www.ramoncorripio.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.ramoncorripio.com",
+    "domain": "ramoncorripio.com",
+    "country": "DO",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ramon Corripio specializes in professional photography, offering services that capture high-quality images for various needs. The company focuses on creating visually compelling content, ranging from portraits to commercial photography. With a commitment to excellence, Ramon Corripio ensures that each project is tailored to meet the unique requirements of their clients, delivering exceptional results.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/efe29c0234ba9343af46fb6038461575.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnjhbw9uy29ycmlwaw8uy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-21 00:00:00.000000",
+    "disclosedDate": "2024-08-30 15:24:34.524350"
+  }
+}

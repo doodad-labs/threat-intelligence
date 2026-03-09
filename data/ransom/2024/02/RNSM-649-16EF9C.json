@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-16EF9C",
+  "type": "ransomware-incident",
+  "title": "theclosingagent.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "theclosingagent.com",
+    "domain": "theclosingagent.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Closing Agent is the Orlando Title Company. Real Estate Closing Solution for all of title insurance and settlement needs.Hundreds of terabytes with sensitive data are in our possession.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3cd2218de6b980051d26c85247860b9d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghly2xvc2luz2fnzw50lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-16 06:43:00.000000",
+    "disclosedDate": "2024-02-16 12:07:23.902820"
+  }
+}

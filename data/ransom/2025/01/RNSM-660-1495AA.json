@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-1495AA",
+  "type": "ransomware-incident",
+  "title": "Douglas County, GA (DDCWSA.COM) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Douglas County, GA (DDCWSA.COM)",
+    "domain": "ddcwsa.com",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Douglasville-Douglas County Water and Sewer Authority delivers quality water and wastewater service to Douglas County residents, as well as providing innovative storm water management services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6107602efea8593482636eff8dbdf6c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rg91z2xhcybdb3vudhksiedbicherenxu0euq09nkubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-14 12:41:28.328519",
+    "disclosedDate": "2025-01-14 12:42:33.478029"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-17F2A1",
+  "type": "ransomware-incident",
+  "title": "Washtech ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Washtech",
+    "domain": "washtech.co.nz",
+    "country": "NZ",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Washtech Starline family is New Zealand's favourite brand of commercial dishwashers, with low operating costs and the best cleaning results.washtech.co.nz",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8fca9c26cdda0cf5887e8b8aa328f51d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fzahrly2haogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-16 00:00:00.000000",
+    "disclosedDate": "2024-01-17 05:43:27.503790"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19327C",
+  "type": "ransomware-incident",
+  "title": "sccu.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sccu.com",
+    "domain": "sccu.com",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "sccu.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6b01a36f1c5068b14e17935cf1eadee3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2njds5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-02 09:48:00.000000",
+    "disclosedDate": "2024-04-19 11:56:36.875946"
+  }
+}

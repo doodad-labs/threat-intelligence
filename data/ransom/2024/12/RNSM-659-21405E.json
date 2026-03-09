@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-21405E",
+  "type": "ransomware-incident",
+  "title": "carsbeat.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "carsbeat.com",
+    "domain": "carsbeat.com",
+    "country": "IN",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Carsbeat.com is an online platform dedicated to automotive enthusiasts and consumers, providing the latest news, reviews, and insights on various car models and trends. The site offers detailed comparisons, expert opinions, and buying guides to help users make informed decisions. Carsbeat.com aims to connect car lovers with valuable information and foster a community around shared automotive interests.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/023860be42fc8210e57c3686cefc3c8d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fyc2jlyxquy29tqgz1bmtzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-21 14:11:12.864246",
+    "disclosedDate": "2024-12-21 14:11:14.883361"
+  }
+}

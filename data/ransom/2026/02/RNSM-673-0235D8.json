@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-0235D8",
+  "type": "ransomware-incident",
+  "title": "The Hechtman Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Hechtman Group",
+    "domain": "thehechtmangroup.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/05aa7e1214b744089cf76eba27be77c2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghliehly2h0bwfuiedyb3vwqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-02 15:10:36.207406",
+    "disclosedDate": "2026-02-02 15:10:52.531768"
+  }
+}

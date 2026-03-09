@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-277792",
+  "type": "ransomware-incident",
+  "title": "HP.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HP.COM",
+    "domain": "hp.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] HP.COM refers to Hewlett-Packard, a multinational IT company based in the USA. HP manufactures and sells hardware and software solutions along with related services to individual consumers, SMBs, and large enterprises. Products include PCs, printers, servers, storage devices, and networking products. HP was one of the founding entities of Silicon Valley and is widely recognized in the technology sector. The company split in 2015, forming HP Inc. and Hewlett Packard Enterprise.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sfauq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 18:11:53.539762",
+    "disclosedDate": "2025-02-27 18:11:59.988353"
+  }
+}

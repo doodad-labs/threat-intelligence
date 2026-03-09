@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-06DCA8",
+  "type": "ransomware-incident",
+  "title": "Lexington Electric ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lexington Electric",
+    "domain": "lexingtonelectric.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lexington Electric System is a public utility owned by the city of Lexington, Tennessee. The City of Lexington's electrical operation began in 1939 with the purchase of holdings from Tennessee Electric Power Company for $132,181.77. Lexington Electric System was formed by the Mayor and Board of Alderman at this time. A Power Committee was appointed consisting of E.A. Hay, H.H. Threadgill, and Coy Stewart. Herman Austin was appointed the first Manager of Lexington Electric System and served in this capacity from July 31,1939 to September 30, 1963. Since 1939, Lexington Electric has expanded into Henderson, Carroll, Decatur, and Hardin Counties.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/29075eb748f77c509c1697f82e3616bd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgv4aw5ndg9uievszwn0cmljqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-29 12:51:26.094000",
+    "disclosedDate": "2025-02-06 13:17:11.670365"
+  }
+}

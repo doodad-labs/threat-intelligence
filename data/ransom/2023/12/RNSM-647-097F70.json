@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-097F70",
+  "type": "ransomware-incident",
+  "title": "Staples ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Staples",
+    "domain": "staples.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "siegedsec",
+    "name": "siegedsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "retail",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rhcgxlc0bzawvnzwrzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/staples-confirms-cyberattack-behind-service-outages-delivery-issues/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-09 00:00:00.000000",
+    "disclosedDate": "2023-12-09 01:12:52.549776"
+  }
+}

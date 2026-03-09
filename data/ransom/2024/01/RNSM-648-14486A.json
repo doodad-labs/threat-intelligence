@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-648-14486A",
+  "type": "ransomware-incident",
+  "title": "Hartl European Transport Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hartl European Transport Company",
+    "domain": "hartlconnect.com",
+    "country": "CH",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "unsafe",
+    "name": "unsafe",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "country: CH - revenue: 46.00M",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgfydgwgrxvyb3blyw4gvhjhbnnwb3j0ienvbxbhbnladw5zywzl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-14 23:22:20.148560",
+    "disclosedDate": "2024-01-14 23:22:20.148580"
+  }
+}

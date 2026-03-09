@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-3186CB",
+  "type": "ransomware-incident",
+  "title": "tsag-agaar.gov.mn ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tsag-agaar.gov.mn",
+    "domain": "tsag-agaar.gov.mn",
+    "country": "MN",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Tsag-agaar.gov.mn is the official website of the National Agency for Meteorology and Environmental Monitoring of Mongolia. The agency is responsible for providing weather forecasts, climate data, and environmental monitoring services across Mongolia. It plays a crucial role in informing the public and government about weather conditions, climate changes, and environmental issues to aid in planning and decision-making.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhnhzy1hz2fhci5nb3yubw5aznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-31 09:14:07.551045",
+    "disclosedDate": "2024-12-31 09:14:09.806680"
+  }
+}

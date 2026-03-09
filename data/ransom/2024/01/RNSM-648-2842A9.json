@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-2842A9",
+  "type": "ransomware-incident",
+  "title": "mordfin ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mordfin",
+    "domain": "mordfin.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Mordfin Group was founded in 1922. The company provides accounting, tax, real estate, luxury, auditing, and estate planning services.Now you can download all data from this company.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4775f6cdfa6fefce4dcd6412f86b688b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw9yzgzpbkbxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-28 18:05:44.220762",
+    "disclosedDate": "2024-01-28 18:05:44.220782"
+  }
+}

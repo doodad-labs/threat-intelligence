@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-674-04DFC1",
+  "type": "ransomware-incident",
+  "title": "HTH Companies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HTH Companies",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 60000000000,
+    "description": "HTH Companies Inc. is a leading professional industrial service provider, specializing in scaffold erection, mechanical insulation, industrial cleaning, industrial maintenance, mechanical work, and painting and coatings.We will upload over 60gb of corporate data soon. Employee personal files (i9, w9, passports, DLs, medical information), NDAs, contracts and agreements, projects, financials, confidential files, and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sfriienvbxbhbmllc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-04 00:00:00.000000",
+    "disclosedDate": "2026-03-04 14:00:43.875259"
+  }
+}

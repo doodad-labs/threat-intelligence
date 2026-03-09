@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-156534",
+  "type": "ransomware-incident",
+  "title": "knesset.gov.il ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "knesset.gov.il",
+    "domain": "knesset.gov.il",
+    "country": "IL",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "knesset.gov.il",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3f3f4394ed69b11d6e1a623666b1d70b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a25lc3nldc5nb3yuawxaymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 08:53:03.237754",
+    "disclosedDate": "2025-03-15 10:22:38.871027"
+  }
+}

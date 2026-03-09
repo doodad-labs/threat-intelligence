@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-207E31",
+  "type": "ransomware-incident",
+  "title": "Sentinel Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sentinel Systems",
+    "domain": "sentinelsystems.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sentinel Systems Corp is a company that operates in the Software industry. It employs 20to49 people and has 1Mto5M of revenue. The company is headquartered in Lakewood, Colorado.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/07bcae5043a5b375e5932bde7eb65033.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vudgluzwwgu3lzdgvtc0bsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-06 00:00:00.000000",
+    "disclosedDate": "2025-01-20 12:32:58.478121"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-187E21",
+  "type": "ransomware-incident",
+  "title": "[EVIDENCE PACK 2] Telecontrol ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "[EVIDENCE PACK 2] Telecontrol",
+    "domain": "telecontrolspa.it",
+    "country": "ES",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "One of Telecontrol’s main objectives is to fully meet the client’s needs by delivering services with the utmost care and professionalism, with a view to continuous quality improvement, while respecting the environment and the Health and Safety of its staff.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/38e0199f4e6ffa304bd276e54e2c020a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/w0vwsurftknfifbbq0sgml0gvgvszwnvbnryb2xacmfuc29tag91c2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-01 00:00:00.000000",
+    "disclosedDate": "2025-04-18 14:44:44.896834"
+  }
+}

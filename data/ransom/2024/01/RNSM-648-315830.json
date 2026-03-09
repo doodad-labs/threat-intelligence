@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-315830",
+  "type": "ransomware-incident",
+  "title": "Meag Va-system AB ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Meag Va-system AB",
+    "domain": "meag.se",
+    "country": "SE",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We build infrastructure in the form of va systems using concrete. We are experts in bl.a. oil separators, grease separators and pumping stations.www.meag.se",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5f6ead0cdb58ccc5f74862cf3408273c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvhzybwys1zexn0zw0gqujaogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-31 00:00:00.000000",
+    "disclosedDate": "2024-01-31 04:26:01.771101"
+  }
+}

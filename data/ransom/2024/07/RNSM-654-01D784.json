@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-01D784",
+  "type": "ransomware-incident",
+  "title": "latinusa.co.id ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "latinusa.co.id",
+    "domain": "latinusa.co.id",
+    "country": "ID",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Internal and external company audit documents, claims, budgets, analysis, finance private info, etc.  PT Pelat Timah Nusantara Tbk (NIKL) atau Latinusa, didirikan pada tanggal 19 Agustus 1982 sebagai perusahaan penanaman modal dalam negeri, dengan...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgf0aw51c2euy28uawrabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-23 00:00:00.000000",
+    "disclosedDate": "2024-07-01 14:51:58.490619"
+  }
+}

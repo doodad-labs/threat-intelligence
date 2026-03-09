@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-643-046B4F",
+  "type": "ransomware-incident",
+  "title": "Koury Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Koury Engineering",
+    "domain": "kouryengineering.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 80000000000,
+    "description": "Koury Engineering provides geotechnical engineering, material testing, and inspection services for residential and commercial construction projects throughout Southern California. More that 80GB of confidential contracts, agreements and NDAs, complete employeedata, projects information and much other documents will be uploaded later. All questions to messages section please.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s291cnkgrw5naw5lzxjpbmdaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-04 15:02:50.110682",
+    "disclosedDate": "2023-08-04 15:02:50.211406"
+  }
+}

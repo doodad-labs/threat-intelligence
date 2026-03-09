@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-20EE0D",
+  "type": "ransomware-incident",
+  "title": "LiquiTech ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LiquiTech",
+    "domain": "liquitech.co",
+    "country": "CO",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/86fd1924ad96cf91bf7ac4f77fce44d1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tglxdwluzwnoqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-20 02:25:13.183313",
+    "disclosedDate": "2024-11-20 02:25:13.913170"
+  }
+}

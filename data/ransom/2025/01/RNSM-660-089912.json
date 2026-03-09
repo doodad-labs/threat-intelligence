@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-089912",
+  "type": "ransomware-incident",
+  "title": "Surface Combustion ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Surface Combustion",
+    "domain": "surfacecombustion.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Surface Combustion, Inc. is a highly respected producer of thermal processing equipment, headquartered in Maumee, Ohio.We are ready to upload more than 20 GB of private corporate documents including: contact numbers and e-mail addresses of employeesand customers, SSNs, driver licenses, HR documents, confidentialagreements etc.",
+    "claimed_data_types": [
+      "phone-numbers",
+      "addresses"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vyzmfjzsbdb21idxn0aw9uqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-04 00:00:00.000000",
+    "disclosedDate": "2025-01-08 12:05:21.975186"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-647-13AD04",
+  "type": "ransomware-incident",
+  "title": "agy.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "agy.com",
+    "domain": "agy.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 403000000000,
+    "description": "AGY is a world leader in high performance materials used in a range of markets including Electronics, Thermoplastics, Industrial, Aerospace, Recreation / Consumer and Defense with a focus on making our customers’ products lighter, faster and stronger. High performance materials in the form of glass fiber yarns and reinforcements provide our customers with six vital enhanced properties:  strength, impact resistance, stiffness, temperature resistance, fatigue resistance and radar transparency. With a product portfolio developed for extreme performance utilizing a set of unique manufacturing platforms AGY provides tailored materials solutions to end-use customers for the most demanding applications worldwide.SITE: www.agy.com Address : 2556 Wagener Road Aiken, South Carolina, USA 29801ALL DATA SIZE: 403gb 1. Human Resources 2. Finance 3. Engineering 4. Science & Technology 5. Departmental data 6. Home users data files 7. Drawings 8. Incident reports and etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9f311fec2f477cf2ebe9c893b900f059.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywd5lmnvbubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-03 00:00:00.000000",
+    "disclosedDate": "2023-12-13 13:09:32.455109"
+  }
+}

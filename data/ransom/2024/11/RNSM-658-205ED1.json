@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-205ED1",
+  "type": "ransomware-incident",
+  "title": "Prime Group US ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Prime Group US",
+    "domain": "primegroupus.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 500000000000,
+    "description": "Prime Group is a multifaceted business approach,exceptional construction products and vision toward quality of life serve.We stole over 500gb of data that ww will release if the company does not contact us in 48 hours",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c1b4470e6964984d35a446e483347052.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjpbwugr3jvdxagvvnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-07 00:00:00.000000",
+    "disclosedDate": "2024-11-20 23:17:07.659028"
+  }
+}

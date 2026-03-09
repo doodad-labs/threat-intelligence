@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-07E825",
+  "type": "ransomware-incident",
+  "title": "BARIATRIX NUTRITION ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BARIATRIX NUTRITION",
+    "domain": "bariatrix.com",
+    "country": "CA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "payoutsking",
+    "name": "payoutsking",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Bariatix Nutrition is a company specializing in the field of medical nutrition therapy. The company develops and manufactures a wide range of high protein, low carb food products specifically designed to meet the dietary needs of bariatric patients. Their products are clinically tested and used by doctors to help patients lose weight and maintain a healthy lifestyle post-surgery. Their offerings include protein supplements, meal replacements, protein bars, and vitamin and mineral supplements, among others.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/92449969f7b2a19a52b2e28e18eb082e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkfssufuuklyie5vvfjjvelptkbwyxlvdxrza2luzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-17 00:00:00.000000",
+    "disclosedDate": "2025-07-07 22:30:27.931160"
+  }
+}

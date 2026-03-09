@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-1021D9",
+  "type": "ransomware-incident",
+  "title": "crestmills.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "crestmills.com",
+    "domain": "crestmills.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Crest Mills is a wholesale company specializing in home decor and textiles. They offer an expansive product line that includes luxury bed linens, decorative pillows, throws, blankets, and comforter sets among others. Known for their stylish, high-quality products, Crest Mills serves numerous retailers throughout the United States. Their goal is to provide each customer with high-end products that exude elegance, comfort, and timeless design.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3jlc3rtawxscy5jb21ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:55:29.494384",
+    "disclosedDate": "2025-02-10 19:55:36.898703"
+  }
+}

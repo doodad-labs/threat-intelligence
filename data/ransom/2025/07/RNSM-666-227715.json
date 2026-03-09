@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-227715",
+  "type": "ransomware-incident",
+  "title": "heartlineoklahoma.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "heartlineoklahoma.org",
+    "domain": "heartlineoklahoma.org",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "HeartLine OK provides a comprehensive resource platform designed to help individuals find various services, programs, and facilities related to health and wellness. They offer access to an extensive library of articles and interactive tools covering topics such as mental health, substance use, and chronic diseases. Their intended clients include community members seeking assistance with health, housing, employment, and other essential services. HeartLine OK aims to empower users by facilitating access to critical care coordination and support resources.\r Employees: 26\r Revenue:$5 Million\r Industry:Organizations\r Downloaded: 20GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d7e93d2b1af17dcbc63d0fbbe0f04c19.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agvhcnrsaw5lb2tsywhvbweub3jnqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-05 00:00:00.000000",
+    "disclosedDate": "2025-07-22 02:22:53.452626"
+  }
+}

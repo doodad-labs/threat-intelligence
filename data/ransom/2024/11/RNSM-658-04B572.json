@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-04B572",
+  "type": "ransomware-incident",
+  "title": "European External Action Service (EEAS) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "European External Action Service (EEAS)",
+    "domain": "europa.eu",
+    "country": "FR",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : France - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9d0167c696f71e8b87d616b90a903dcc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxvyb3blyw4grxh0zxjuywwgqwn0aw9uifnlcnzpy2ugkevfqvmpqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 00:00:00.000000",
+    "disclosedDate": "2024-11-04 13:26:06.869108"
+  }
+}

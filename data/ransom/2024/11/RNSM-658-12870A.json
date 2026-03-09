@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-12870A",
+  "type": "ransomware-incident",
+  "title": "www.guymontigers.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.guymontigers.com",
+    "domain": "guymontigers.com",
+    "country": "AU",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Guymon Tigers refers to the sports teams of Guymon High School, located in Guymon, Oklahoma. The school's athletic program includes a variety of sports such as football, basketball, soccer, and more, fostering school spirit and community involvement. The website likely offers information on game schedules, team rosters, and highlights, serving as a hub for students, parents, and fans to support their local teams.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/52a8dfc141e9a1251c5755657d588fbb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmd1ew1vbnrpz2vycy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-28 09:43:34.000000",
+    "disclosedDate": "2024-11-12 11:21:52.561189"
+  }
+}

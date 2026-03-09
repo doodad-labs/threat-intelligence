@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-081F78",
+  "type": "ransomware-incident",
+  "title": "EPLS: Entreprise d'Installations électriques Courant Fort ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EPLS: Entreprise d'Installations électriques Courant Fort",
+    "domain": "epls.fr",
+    "country": "FR",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "EPLS, France - the company is engaged in the design and construction of high-voltage and low-voltage systems for a large service sector that includes airports, hospitals, data centers and other critical infrastructure in France. EPLS prides i            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/82cb735b216867f7211fd3d7bbe4ca4f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rvbmuzogrw50cmvwcmlzzsbkj0luc3rhbgxhdglvbnmgw6lszwn0cmlxdwvzienvdxjhbnqgrm9ydebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-08 00:00:00.000000",
+    "disclosedDate": "2025-09-08 16:41:44.425503"
+  }
+}

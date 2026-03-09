@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-1344DB",
+  "type": "ransomware-incident",
+  "title": "espectral.pt ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "espectral.pt",
+    "domain": "espectral.pt",
+    "country": "PT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "obscura",
+    "name": "obscura",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue: $<5kk | Leak Size: xx GB | Status: Published",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/94e160f5cb8dfe1f0a1d897930f3e7b2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxnwzwn0cmfslnb0qg9ic2n1cme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 11:52:28.152253",
+    "disclosedDate": "2025-10-13 11:52:40.658100"
+  }
+}

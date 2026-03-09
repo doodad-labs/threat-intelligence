@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-655-11376A",
+  "type": "ransomware-incident",
+  "title": "divaris.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "divaris.com",
+    "domain": "divaris.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "From Our Experts. Three Concepts Worth Considering. Pandemic Retail Strategies. Locations. Tenant Portal. Award Winning. Forward Thinking. Results Driven. Divaris is Moving Commercial Real Estate Forward.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ac47abdd3c6a56d3fdc6d8be5078a1b5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgl2yxjpcy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/35ab532f-0459-4e7a-b425-7ba6f77f1135.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-01 00:00:00.000000",
+    "disclosedDate": "2024-08-11 07:47:16.389559"
+  }
+}

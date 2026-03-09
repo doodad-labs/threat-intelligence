@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-128B0C",
+  "type": "ransomware-incident",
+  "title": "hotelemc2.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hotelemc2.com",
+    "domain": "hotelemc2.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hotel EMC2 is a downtown Chicago boutique hotel by the Magnificent Mile and Northwestern Memorial Hospital in Chicago's Streeterville neighborhood.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8822b375d6e7f83fc238137d039f897b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ag90zwxlbwmylmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-12 16:55:00.000000",
+    "disclosedDate": "2023-11-12 17:30:08.558000"
+  }
+}

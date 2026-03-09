@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-660-083231",
+  "type": "ransomware-incident",
+  "title": "fwmep.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fwmep.edu",
+    "domain": "fwmep.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 66000000000,
+    "description": "The Family Medicine Center, in partnership with the Fort Wayne Medical Education Program, has been serving the Fort Wayne community since 1967. During this time, we have developed a proven Patient Centered Medical Home model, built on the foundation of passionate, evidence-based care\r 66 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d6d8bb397df214a12112dc3032cbce8a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zndtzxauzwr1qgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/db82bce6-9122-4fdf-8c1f-1b1295238ac6.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-18 00:00:00.000000",
+    "disclosedDate": "2025-01-08 12:57:53.014780"
+  }
+}

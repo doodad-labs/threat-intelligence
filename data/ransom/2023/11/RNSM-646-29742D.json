@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-646-29742D",
+  "type": "ransomware-incident",
+  "title": "Teleflora ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Teleflora",
+    "domain": "teleflora.com",
+    "country": "CA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Teleflora is an online flower company headquartered in Los Angeles, California, Teleflora has over 10,000 member florists throughout the U.S. and Canada, with an additional 20,000 affiliated florists outside North America. We'll share a couple of dozens Gbs ofthis company files. Operational, financial docs, some HR files etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvszwzsb3jhqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-29 12:59:47.012978",
+    "disclosedDate": "2023-11-29 12:59:47.149621"
+  }
+}

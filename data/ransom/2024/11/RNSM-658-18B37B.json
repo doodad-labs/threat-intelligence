@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-18B37B",
+  "type": "ransomware-incident",
+  "title": "ANKERSKA PLOVIDBA d.d. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ANKERSKA PLOVIDBA d.d.",
+    "domain": "tankerska.hr",
+    "country": "HR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ANKERSKA PLOVIDBA d.d. is a maritime company based in Croatia. It primarily engages in shipping and related activities, focusing on the transport of goods across various sea routes. The company operates a fleet of vessels, managing logistics and maritime operations to ensure efficient and reliable service. ANKERSKA PLOVIDBA d.d. is known for its commitment to safety and sustainability in the shipping industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qu5lrvjts0eguexpvkleqkegzc5klkbfbervcmfkbw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:03:32.163609",
+    "disclosedDate": "2024-11-18 21:03:35.483412"
+  }
+}

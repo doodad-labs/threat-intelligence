@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-03D90C",
+  "type": "ransomware-incident",
+  "title": "UPS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UPS",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "shinyhunters",
+    "name": "shinyhunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] United Parcel Service (UPS) is an American multinational company that specializes in logistics, courier delivery services, and supply chain management solutions. Founded in 1907, it's headquartered in Atlanta, Georgia. With a global network, UPS delivers over 20 million packages daily to 220+ countries and territories worldwide. It also offers services like freight forwarding and supply chain designing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7c8cbd45ac6e9eb0f7dae9fca7d5f366.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vvbtqhnoaw55ahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-03 00:00:00.000000",
+    "disclosedDate": "2025-10-03 15:40:58.849289"
+  }
+}

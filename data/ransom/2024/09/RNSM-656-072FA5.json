@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-072FA5",
+  "type": "ransomware-incident",
+  "title": "Elsoms Seeds ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Elsoms Seeds",
+    "domain": "elsoms.com",
+    "country": "GB",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "meow",
+    "name": "meow",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Elsoms Seeds is a leading UK-based seed specialist established in 1844. The company focuses on breeding, supplying, and marketing high-quality vegetable and agricultural seeds. They offer a range of seeds for crops such as cereals, pulses, and oilseeds, and are known for their innovation, research, and commitment to sustainability in the agricultural sector.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cc20d901ff02ccedd544e1a748681dfe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwxzb21zifnlzwrzqg1lb3c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-07 15:31:09.983474",
+    "disclosedDate": "2024-09-07 15:31:12.471400"
+  }
+}

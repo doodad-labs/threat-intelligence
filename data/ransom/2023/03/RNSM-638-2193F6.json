@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-638-2193F6",
+  "type": "ransomware-incident",
+  "title": "stonehillcontracting.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "stonehillcontracting.com",
+    "domain": "stonehillcontracting.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 176000000000,
+    "description": "Stone Hill Contracting, Inc. 176Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rvbmvoawxsy29udhjhy3rpbmcuy29tqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-21 09:55:39.159944",
+    "disclosedDate": "2023-03-21 09:55:39.159970"
+  }
+}

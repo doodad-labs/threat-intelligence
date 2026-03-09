@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-258C8B",
+  "type": "ransomware-incident",
+  "title": "Prince George's County Public Schools ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Prince George's County Public Schools",
+    "domain": "pgcps.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Prince George's County Public Schools Prince George's County Public Schools (PGCPS), one of the nation's 20th largest school districts, has 201 schools and centers, more than 133,000 students and nearly 20,000 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjpbmnliedlb3jnzsdzienvdw50esbqdwjsawmgu2nob29sc0byahlzawrh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1a81abab-ef65-456c-9d7a-53837cdb2464.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-25 07:10:15.440897",
+    "disclosedDate": "2023-08-25 07:10:15.440929"
+  }
+}

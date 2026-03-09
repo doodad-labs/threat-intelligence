@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-299E66",
+  "type": "ransomware-incident",
+  "title": "Crownlea Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Crownlea Group",
+    "domain": "crownlea.com",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0390250eb98f56cecd6bc2825652bf88.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q3jvd25szwegr3jvdxbaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-29 14:41:31.000000",
+    "disclosedDate": "2024-07-29 19:36:58.880181"
+  }
+}

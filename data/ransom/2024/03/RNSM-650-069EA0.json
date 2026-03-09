@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-069EA0",
+  "type": "ransomware-incident",
+  "title": "American Renal Associates  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "American Renal Associates ",
+    "domain": "americanrenal.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "American Renal Associates (part of the Innovative Renal Care (IRC) group of companies) founded in 1999, it provides high-quality care to patients suffering from end-stage kidney disease (ESRD) and other kidney diseases. American Renal Associates corporate office is located in 500 Cummings Ctr Ste 6550, Beverly, Massachusetts, 01915, United States and has 2,127 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1lcmljyw4gumvuywwgqxnzb2npyxrlcybabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-06 17:05:11.12345",
+    "disclosedDate": "2024-03-06 19:53:03.600327"
+  }
+}

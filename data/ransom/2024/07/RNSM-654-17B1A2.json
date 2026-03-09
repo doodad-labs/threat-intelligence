@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-654-17B1A2",
+  "type": "ransomware-incident",
+  "title": "MIPS Technologies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MIPS Technologies",
+    "domain": "mips.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c1787b2e6a3782303b44cc685d916c3c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tulquybuzwnobm9sb2dpzxnacgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://straussborrelli.com/2024/09/20/mips-data-breach-investigation/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-10 00:00:00.000000",
+    "disclosedDate": "2024-07-17 19:07:57.066372"
+  }
+}

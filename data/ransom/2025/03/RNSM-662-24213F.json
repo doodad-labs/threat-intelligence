@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-24213F",
+  "type": "ransomware-incident",
+  "title": "Texas Fifth Wall Roofing Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Texas Fifth Wall Roofing Systems",
+    "domain": "fifthwallroofing.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "frag",
+    "name": "frag",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ConstructionTexas Fifth Wall Roofing Systems, founded in 1973, works with builders, tenants, owners, and their teams to protect assets and maximize capital investments by delivering the industry’s highest value through its roofing solutions.Our team was successful in extracting the following documents:Financial statements of the companyEmployee insurance certificatesHuman Resources documentsContact information of clients and employees",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgv4yxmgrmlmdgggv2fsbcbsb29maw5nifn5c3rlbxnaznjhzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-14 00:00:00.000000",
+    "disclosedDate": "2025-03-24 19:24:28.733655"
+  }
+}

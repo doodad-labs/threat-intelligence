@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-0665DC",
+  "type": "ransomware-incident",
+  "title": "First Resources ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "First Resources",
+    "domain": "first-resources.com",
+    "country": "SG"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in1992 and headquartered in First Resources Limited is primarily cultivating oil palms, harvesting the fruits, and milling them into crude palm oil (CPO) and palm kernel (PK) for sale to the local and export markets. With its integrated processing facilities, the Group also processes its CPO and PK into higher value palm-based products such as biodiesel, refined, bleached, and deodorized (RBD) olein, RBD stearin, palm kernel oil, and palm kernel expeller.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9b1676790fa28319a515339936a5e2b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmlyc3qgumvzb3vyy2vzqhjhbnnvbwhvdxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-24 07:41:58.338898",
+    "disclosedDate": "2025-11-06 15:43:43.480594"
+  }
+}

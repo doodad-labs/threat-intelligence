@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-651-160A52",
+  "type": "ransomware-incident",
+  "title": "Thermodyn Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Thermodyn Corporation",
+    "domain": "thermodyn.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 16700000000,
+    "description": "Thermodyn Corporation (founded 1979) is a coated fabrics and expansion joint manufacturing. Thermodyn specializes in Viton Fluoroelastomer based technologies for gasket fabrication, expansion joints, Fluorodyn caulk & adhesives, and various elastomeric coated substrates. Thermodyn corporate office is located in 3550 Silica Rd, Sylvania, Ohio, 43560, United States and has 22 employees. The total amount of data leakage is 16.70 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlcm1vzhluienvcnbvcmf0aw9uqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-15 13:10:10.12345",
+    "disclosedDate": "2024-04-16 09:52:31.844197"
+  }
+}

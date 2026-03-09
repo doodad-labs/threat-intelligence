@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-16867E",
+  "type": "ransomware-incident",
+  "title": "colfax.k12.wi.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "colfax.k12.wi.us",
+    "domain": "colfax.k12.wi.us",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d5e1f037f3554a5ac2906c9df29b79f8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29szmf4lmsxmi53as51c0bibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-25 00:00:00.000000",
+    "disclosedDate": "2024-06-16 18:13:00.722994"
+  }
+}

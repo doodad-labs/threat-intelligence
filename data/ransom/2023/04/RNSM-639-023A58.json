@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-023A58",
+  "type": "ransomware-incident",
+  "title": "LASOTEL.FR ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LASOTEL.FR",
+    "domain": "lasotel.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Accueil - LASOTEL",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/583c175cf7f070bacc72821e39c37b5d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/teftt1rftc5gukbjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-02 23:02:54.015065",
+    "disclosedDate": "2023-04-02 23:02:54.015082"
+  }
+}

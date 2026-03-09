@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-262F4E",
+  "type": "ransomware-incident",
+  "title": "silganholdings.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "silganholdings.com",
+    "domain": "silganholdings.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Silgan Holdings is a Connecticut-based American manufacturing company that produces consumer goods packaging. The company was founded in 1987 by two former executives of Continental Can, Phil Silver and Greg Horrigan – their names contributing to the...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c56fc442900e3904247eb9b56ca6e698.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2lsz2fuag9szgluz3muy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-16 00:00:00.000000",
+    "disclosedDate": "2024-02-26 13:16:45.882238"
+  }
+}

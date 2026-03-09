@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-653-052EE5",
+  "type": "ransomware-incident",
+  "title": "E-T-A ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "E-T-A",
+    "domain": "e-t-a.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 24000000000,
+    "description": "E-T-A is the world market leader for circuit breakers for equipme nt protection and circuit protectors. 24GB of data containing per sonal information of employees, clients information, NDAs, financ ial and accounting data. We will upload the files soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rs1ulufaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-05 19:11:56.158475",
+    "disclosedDate": "2024-06-05 19:11:56.229132"
+  }
+}

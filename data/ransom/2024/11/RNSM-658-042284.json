@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-042284",
+  "type": "ransomware-incident",
+  "title": "Air Specialists Heating & Air Conditioning ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Air Specialists Heating & Air Conditioning",
+    "domain": "airspecialist.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9672a70747f35ca709c23bebe6fc7568.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwlyifnwzwnpywxpc3rziehlyxrpbmcgjibbaxigq29uzgl0aw9uaw5nqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-07 00:00:00.000000",
+    "disclosedDate": "2024-11-04 11:21:57.909231"
+  }
+}

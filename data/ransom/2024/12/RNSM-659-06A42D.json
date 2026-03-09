@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-659-06A42D",
+  "type": "ransomware-incident",
+  "title": "RJM Marketing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RJM Marketing",
+    "domain": "rjmichaels.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Who is RJM Marketing. Founded in 1980, RJM has provided advertising and marketing services to clients across the United States. While founded in the era of traditional m edia and print, they have expanded their services over the years to become a leader in the ever-changing digital world.                                                        We present you with employee personal data, contracts and much more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fd6fa198da8acc9e3e7b87d9f2eab4a0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukpnie1hcmtldgluz0bpbnrlcmxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-06 20:51:10.219668",
+    "disclosedDate": "2024-12-06 20:51:11.329908"
+  }
+}

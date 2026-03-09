@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-663-28A7AA",
+  "type": "ransomware-incident",
+  "title": "Ihara ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ihara",
+    "domain": "ihara.com.br",
+    "country": "BR"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "​​​​​Data has been leaked shame on you and all who work with you",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/96b5f363dd1f2dc029e5b1da41a9969f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/swhhcmfabm92yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-27 00:00:00.000000",
+    "disclosedDate": "2025-04-28 13:29:30.035134"
+  }
+}

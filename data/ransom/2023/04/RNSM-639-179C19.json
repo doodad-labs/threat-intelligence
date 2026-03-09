@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-179C19",
+  "type": "ransomware-incident",
+  "title": "McKinney Trailers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "McKinney Trailers",
+    "domain": "mckinneytrailers.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "trigona",
+    "name": "trigona",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "McKinney Trailers is a leading transportation equipment and trailer manufacturer in the United States. The company operates several manufacturing plants and retail locations across the United States, providing customers with easy access to their products and services. Their diverse range of products includes dry and refrigerated trailers, flatbed and drop-deck trailers, intermodal chassis, and specialty trailers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b8a829839d152e741e05068fdb43a0f9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twnlaw5uzxkgvhjhawxlcnnadhjpz29uyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-17 19:17:27.515324",
+    "disclosedDate": "2023-04-17 19:17:27.515324"
+  }
+}

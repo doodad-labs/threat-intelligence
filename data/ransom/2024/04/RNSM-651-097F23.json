@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-097F23",
+  "type": "ransomware-incident",
+  "title": "columbiapipe.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "columbiapipe.com",
+    "domain": "columbiapipe.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 450000000000,
+    "description": "Since 1935, Columbia Pipe & Supply Co. has consistently delivered a wide range of high quality products and SERVICE plus SOLUTIONS. Since we are an independent company, our sales teams have the flexibility to focus their expertise on our customers’ unique needs without the bureaucratic limitations of a large corporation. With more than $50 million inventory, including over 130,000 individual SKUs, stocked in close to one million square feet of warehouse, Columbia Pipe is able to connect our global supply of product with our local markets. We have 16 mutually-supporting locations in Illinois, Indiana, Michigan, Wisconsin and Minnesota, so wherever you are—we are close-by.SITE: www.columbiapipe.com Address : 1120 West Pershing Road Chicago, IL 60609 Phone: 800-368-2709 Fax: 773-927-8415ALL DATA SIZE: ~450gb 1. Payroll 2. Finance 3. Accounts, Budgets 4. Human Resources 5. User Home Directories & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aa4f9c4b68c7014b0920f327259926d9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29sdw1iawfwaxbllmnvbubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-04 00:00:00.000000",
+    "disclosedDate": "2024-04-09 15:19:08.680564"
+  }
+}

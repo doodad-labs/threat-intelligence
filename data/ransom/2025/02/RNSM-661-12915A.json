@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-12915A",
+  "type": "ransomware-incident",
+  "title": "North American Spares ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "North American Spares",
+    "domain": "nasltd.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "North American Spares provides strategic turn-key solutions for military aircraft maintenance, offering services that go beyond parts supply.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1326ce8891517e9281527946f8e3b168.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9ydgggqw1lcmljyw4gu3bhcmvzqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 17:43:41.261386",
+    "disclosedDate": "2025-02-12 07:30:29.973482"
+  }
+}

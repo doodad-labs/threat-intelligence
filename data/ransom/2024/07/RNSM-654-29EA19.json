@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-654-29EA19",
+  "type": "ransomware-incident",
+  "title": "BASF - Nunhems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BASF - Nunhems",
+    "domain": "basf.com",
+    "country": "NL",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "30 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4f60e6622ee1eeb5c3e371a0544bdf43.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkftriatie51bmhlbxnazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-29 19:34:48.892210",
+    "disclosedDate": "2024-07-29 19:34:49.732032"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-646-115EE0",
+  "type": "ransomware-incident",
+  "title": "shawneemilling.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "shawneemilling.com",
+    "domain": "shawneemilling.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 805000000000,
+    "description": "Shawnee Mills 805Gb uncompressed data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2hhd25lzw1pbgxpbmcuy29tqgfiexnz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-11 12:54:35.771369",
+    "disclosedDate": "2023-11-11 12:54:35.771391"
+  }
+}

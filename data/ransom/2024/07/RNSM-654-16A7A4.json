@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-16A7A4",
+  "type": "ransomware-incident",
+  "title": "HOYA Corporation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HOYA Corporation",
+    "domain": "hoya.com",
+    "country": "JP",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Japan - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5804b1eac58a2181eaf0c3ae6f9b1364.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/se9zqsbdb3jwb3jhdglvbkbodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-16 13:25:16.000000",
+    "disclosedDate": "2024-07-16 14:40:05.115663"
+  }
+}

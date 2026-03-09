@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-3182B7",
+  "type": "ransomware-incident",
+  "title": "keytronic.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "keytronic.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 530000000000,
+    "description": "Keytronic has been manufacturing products overseas for over 25 years, first as an OEM, now as an manufacturing provider. You benefit from our global facilities while still working with a US based company. Our customers are some of the world’s leading OEM’s.SITE: www.keytronic.com Address : N. 4424 Sullivan Road Spokane Valley, WA 99216 USAALL DATA SIZE: ≈530gb 1. HR, Finance, Engineering… 2. Corporate data 3. Home Users Data & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/64a906e0187f90d09f7bb61793eafd98.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2v5dhjvbmljlmnvbubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-31 12:21:11.862495",
+    "disclosedDate": "2024-05-31 12:21:11.862528"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-659-27926E",
+  "type": "ransomware-incident",
+  "title": "falp.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "falp.org",
+    "domain": "falp.org",
+    "country": "CH",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fundación Arturo López Pérez",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fe4090337c921047740bf80af0412139.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmfscc5vcmdaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://x.com/1zrr4h/status/1866915007780245922/photo/1",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-22 01:20:10.274000",
+    "disclosedDate": "2024-12-27 13:46:42.751203"
+  }
+}

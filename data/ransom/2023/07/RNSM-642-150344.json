@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-150344",
+  "type": "ransomware-incident",
+  "title": "co.langlade.wi.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "co.langlade.wi.us",
+    "domain": "langlade.wi.us",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Langlade County is a county located in the U.S. state of Wisconsin. As of the 2020 census, the population was 19,491. Its county seat is Antigo",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bace51d4c60c03edbc76f228ada62c8d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y28ubgfuz2xhzguud2kudxnabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-15 14:22:00.000000",
+    "disclosedDate": "2023-07-15 14:56:46.162559"
+  }
+}

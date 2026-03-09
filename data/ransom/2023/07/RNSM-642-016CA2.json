@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-642-016CA2",
+  "type": "ransomware-incident",
+  "title": "Guatemala Military Intelligence Directorate ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Guatemala Military Intelligence Directorate",
+    "domain": "mindef.mil.gt",
+    "country": "GT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "cyclops",
+    "name": "cyclops",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Guatemalan Armed Forces (Fuerzas Armadas de Guatemala) consists of the National Army of Guatemala (Ejercito Nacional de Guatemala, ENG), the Guatemalan National Defense Navy (Marina de la Defensa Nacional, includes Marines), the Guatemalan Air Force (Fuerza Aerea Guatemalteca, FAG), and the Presidential Honor Guard (Guardia de Honor Presidencial).The Ministry of National Defence is the agency of the Guatemalan government responsible for the budget, training and policy of the armed forces. Based in Guatemala City, the Defence Ministry is heavily guarded, and the President of Guatemala frequently visits. As of 2017 the Minister of National Defence is Major General Luis Miguel Ralda Moreno.The Minister of Defense is responsible for policy. Day-to-day operations are the responsibility of the military chief of staff and the national defense staff.Data:===========https://anonfiles.com/F9pbi8zdzb/diemdn_mil_gt_zip",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3vhdgvtywxhie1pbgl0yxj5ieludgvsbglnzw5jzsbeaxjly3rvcmf0zubjewnsb3bz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-30 00:33:44.000000",
+    "disclosedDate": "2023-07-01 15:26:29.969589"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-656-23382F",
+  "type": "ransomware-incident",
+  "title": "Pureform Radiology Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pureform Radiology Center",
+    "domain": "mypureform.com",
+    "country": "CA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We were able to hack into the Pureform Radiology Center in Canada.All medical records, internal documents were stolen. But the most valuable thing we found was a zero-day exploit in the software of the company that acquired Pureform. Pureform’s president hired a recovery negotiator, unaware that he was dealing with a complete amateur who was […]",
+    "claimed_data_types": [
+      "internal-documents"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/80a601324495881ee63701e28f6184d7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhvyzwzvcm0gumfkaw9sb2d5ienlbnrlckbldmvyzxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-23 14:32:01.875767",
+    "disclosedDate": "2024-09-23 14:32:02.766717"
+  }
+}

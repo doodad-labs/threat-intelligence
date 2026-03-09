@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-663-139334",
+  "type": "ransomware-incident",
+  "title": "OMCI S.p.a ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OMCI S.p.a",
+    "domain": "omci.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "OMCI S.p.a(Italy)",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t01dssbtlnauyubuawdodhnwaxjl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-30 00:00:00.000000",
+    "disclosedDate": "2025-04-13 20:35:58.695680"
+  }
+}

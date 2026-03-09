@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-23BD1F",
+  "type": "ransomware-incident",
+  "title": "SEPIRE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SEPIRE.COM",
+    "domain": "sepire.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sepire - Communication Experts",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ea56522f215c60bd5800626ab4ceea3c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0vqsvjflknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-23 12:34:36.873462",
+    "disclosedDate": "2023-03-23 12:34:36.873486"
+  }
+}

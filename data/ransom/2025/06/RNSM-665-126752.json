@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-126752",
+  "type": "ransomware-incident",
+  "title": "upstartpower.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "upstartpower.com",
+    "domain": "upstartpower.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 23.06.2025. Upstart Power was founded in 2018 with a mission to design and manufacture solid oxide fuel cell (SOFC) generators that will make a sensation in the market, are reliable,             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ea8a55c4f1b6c8b585d8edf68031312.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dxbzdgfydhbvd2vylmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-03 00:00:00.000000",
+    "disclosedDate": "2025-06-12 15:07:15.844022"
+  }
+}

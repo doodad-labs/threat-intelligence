@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-119083",
+  "type": "ransomware-incident",
+  "title": "www.regencycountryclub.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.regencycountryclub.com",
+    "domain": "regencycountryclub.com",
+    "country": "ES",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Full customer reservation databases (names, phones, emails, addresses, booking dates)        Scanned ID documents (passports, national IDs)                Internal emails via OWA                 Employee and customer email lists                RDP credential files (with usernames/passwords)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/db89046eb3b303e63989016b517b5092.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnjlz2vuy3ljb3vudhj5y2x1yi5jb21ac3rvcm1vdxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-11 03:39:08.839399",
+    "disclosedDate": "2025-05-11 03:40:18.308227"
+  }
+}

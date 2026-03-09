@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-28426B",
+  "type": "ransomware-incident",
+  "title": "Chanas Assurances S.A. (chanasassurances.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Chanas Assurances S.A. (chanasassurances.com)",
+    "domain": "chanasassurances.com",
+    "country": "CM",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 6000000000,
+    "description": "6 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/09e015393139f8f691b9fa6c21d28a24.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hhbmfziefzc3vyyw5jzxmguy5bliaoy2hhbmfzyxnzdxjhbmnlcy5jb20pqgzvzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-28 00:00:00.000000",
+    "disclosedDate": "2024-11-28 15:36:41.017808"
+  }
+}

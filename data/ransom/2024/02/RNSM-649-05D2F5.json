@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-05D2F5",
+  "type": "ransomware-incident",
+  "title": "tgestiona.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tgestiona.br",
+    "domain": "tgestiona.br",
+    "country": "BR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tgestiona Logística Company",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4af14c07e4ecc5309ef878ebfe57a79e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgdlc3rpb25hlmjyqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-05 11:28:00.000000",
+    "disclosedDate": "2024-02-05 13:31:12.642881"
+  }
+}

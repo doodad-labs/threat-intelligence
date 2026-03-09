@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-113EA9",
+  "type": "ransomware-incident",
+  "title": "isee-eg.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "isee-eg.com",
+    "domain": "isee-eg.com",
+    "country": "EG",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] isee-eg.com, also known as ISEE, is an Egyptian marketing and consulting company. They specialize in providing businesses with comprehensive marketing strategies for their products or services. Their services include market research, digital marketing, business consulting, strategic planning, training, and branding. Founded in 2007, ISEE is dedicated to helping businesses succeed by providing effective and innovative marketing solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6d94de0be9d760a6aa55f30f5bee5d73.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axnlzs1lzy5jb21aznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-11 02:58:19.702803",
+    "disclosedDate": "2025-03-11 02:59:58.772168"
+  }
+}

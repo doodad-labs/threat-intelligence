@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-251D3A",
+  "type": "ransomware-incident",
+  "title": "BeClever ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BeClever",
+    "domain": "beclevercorp.com",
+    "country": "BR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://beclevercorp.com/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/edee38a40b4e78c18d43cd1c02955799.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvdbgv2zxjabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-24 00:00:00.000000",
+    "disclosedDate": "2024-11-25 06:23:12.565173"
+  }
+}

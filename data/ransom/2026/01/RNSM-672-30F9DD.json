@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-30F9DD",
+  "type": "ransomware-incident",
+  "title": "Abatix ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Abatix",
+    "domain": "zoominfo.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://www.zoominfo.com/c/abatix-corp/99255 www.abatix.com Foundeded in 1983, Abatix is a supplier of products for the general construction, industrial safety, petrochemical, energy, environmental, hospital, fire and water restoration, and disaster response industries supporting customers across the nation and is headquartered in Mesquite, Texas. Established in 1983 and with branch offices in the Atlanta, Baton Rouge, Chicago, Dallas, Houston, Jacksonville, Las Vegas, Los Angeles, Phoenix, San Antonio, San Diego, San Francisco, Sacramento and Seattle areas, Abatix has grown into a nationally recognized supplier of products for the General Construction, Industrial Safety, Petrochemical, Energy, Environmental, Hospital, Fire and Water Restoration, and Disaster Response industries supporting customers across the nation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwjhdgl4qhrozwdlbnrszw1lbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 00:00:00.000000",
+    "disclosedDate": "2026-01-30 23:05:53.213898"
+  }
+}

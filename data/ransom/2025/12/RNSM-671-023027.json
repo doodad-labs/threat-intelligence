@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-023027",
+  "type": "ransomware-incident",
+  "title": "lesker.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lesker.com",
+    "domain": "lesker.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since it's foundation in 1954, Kurt J. Lesker Company has manufactured and sold vacuum equipment and parts to the electronic and communications related industries",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1e7811a7fea4469c18f5b93a3efdc79b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgvza2vylmnvbubjagfvcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-02 20:51:13.906578",
+    "disclosedDate": "2025-12-02 20:51:28.100449"
+  }
+}

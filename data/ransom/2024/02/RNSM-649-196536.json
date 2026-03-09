@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-196536",
+  "type": "ransomware-incident",
+  "title": "se.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "se.com",
+    "domain": "se.com",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1: https://***************.onion/SUMMIT01/PROOFMirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/SUMMIT01/PROOF",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3499f2921fcbdd9d2d60333b189908db.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2uuy29tqgnhy3r1cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-17 00:00:00.000000",
+    "disclosedDate": "2024-02-19 14:33:26.380290"
+  }
+}

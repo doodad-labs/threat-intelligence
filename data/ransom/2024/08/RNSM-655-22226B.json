@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-22226B",
+  "type": "ransomware-incident",
+  "title": "kbosecurity.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kbosecurity.co.uk",
+    "domain": "kbosecurity.co.uk",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "kbosecurity.co.uk",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/29cb45cdb3f3283eddcb70ff5e959bd1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2jvc2vjdxjpdhkuy28udwtaagvsbgrvd24=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-22 03:14:07.877051",
+    "disclosedDate": "2024-08-22 03:14:08.327627"
+  }
+}

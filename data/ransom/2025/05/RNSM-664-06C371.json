@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-664-06C371",
+  "type": "ransomware-incident",
+  "title": "Palomar Insurance ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Palomar Insurance",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Palomar Insurance Corporation delivers tailored insurance programs to small and large companies in the…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfsb21hcibjbnn1cmfuy2vau2lszw50umfuc29tr3jvdxa=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-16 18:40:02.802746",
+    "disclosedDate": "2025-05-06 18:14:55.500294"
+  }
+}

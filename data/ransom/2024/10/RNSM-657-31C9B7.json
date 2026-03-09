@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-657-31C9B7",
+  "type": "ransomware-incident",
+  "title": "Transak.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Transak.com",
+    "domain": "transak.com",
+    "country": "GB",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "Data Size: 300GB, Status: ?, Data Type:  We have extracted more than 300GB of data, which includes sensitive personal documents such as government-issued IDs, proof of address, financial statements, and user selfies",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjhbnnhay5jb21ac3rvcm1vdxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-02-28%20transak%20usa%20data%20breach%20notice%20to%20consumers.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-31 02:06:14.815433",
+    "disclosedDate": "2024-10-31 02:06:15.822790"
+  }
+}

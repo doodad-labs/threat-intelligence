@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-31C0C0",
+  "type": "ransomware-incident",
+  "title": "BNZ Materials ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BNZ Materials",
+    "domain": "bnzmaterials.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9eb518a85dc5c4e8439fa015ab345042.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qk5aie1hdgvyawfsc0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-31 16:20:03.521256",
+    "disclosedDate": "2025-12-31 16:20:22.105816"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27D690",
+  "type": "ransomware-incident",
+  "title": "SHIPGFS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SHIPGFS.COM",
+    "domain": "shipgfs.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] SHIPGFS.COM, also known as Gustave A. Larson Company, is a leading wholesale distributor of HVACR (Heating, Ventilation, Air Conditioning and Refrigeration) equipment, parts, and supplies. Operating primarily in the midwestern and western regions of the United States, the company offers its services to commercial and residential HVAC contractors. Their offerings include various HVAC/R products from industry-leading manufacturers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0hjuedguy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:21:01.817421",
+    "disclosedDate": "2025-02-27 17:21:07.631790"
+  }
+}

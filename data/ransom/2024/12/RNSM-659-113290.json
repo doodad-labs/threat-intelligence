@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-113290",
+  "type": "ransomware-incident",
+  "title": "Bergerhof ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bergerhof",
+    "domain": "bergerhof.nl",
+    "country": "NL",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bergerhof (founded 1973) - transport company providing passenger transport services. Bergerhof corporate office is located in 78 Wilhelminastraat, Mierlo, Er 5731, NL.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/edd3a0f29ca7694836b20af5db4e8fc8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvyz2vyag9mqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-10 14:26:04.000000",
+    "disclosedDate": "2024-12-11 08:49:24.943299"
+  }
+}

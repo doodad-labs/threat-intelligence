@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-666-29A449",
+  "type": "ransomware-incident",
+  "title": "Washington Court House ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Washington Court House",
+    "domain": "cityofwch.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "beast",
+    "name": "beast",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Washington Court House is a city in Fayette County, Ohio. It is the county seat of Fayette County and is located approximately halfway between Cincinnati and Columbus.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/37beeacf58c6af74a4cf80b95c80cba9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fzagluz3rvbibdb3vydcbib3vzzubizwfzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-18 00:00:00.000000",
+    "disclosedDate": "2025-07-29 22:01:12.413363"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-234668",
+  "type": "ransomware-incident",
+  "title": "forabank.ru ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "forabank.ru",
+    "domain": "forabank.ru",
+    "country": "RU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "werewolves",
+    "name": "werewolves",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "АКБ «ФОРА-БАНК» (АО) зарегистрирован Банком России на рынке финансовых услуг 27 мая 1992 г. Входит в реестр системы обязательного страхования вкладов. Организация позиционируется как крупный универсальный финансовый институт. АКБ «ФОРА-БАНК» (АО) осуществляет расчетно-кассовое обслуживание и предоставляет широкий спектр услуг для физических и юридических лиц, проводит операции на валютном и фондовом рынках. АКБ «ФОРА-БАНК» (АО) является участником международных платежных систем VISA и MasterСard.Стоимость не публикации и удаления всей скомпрометрованной информации составляет 450000$.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc309356ccf5efeaddd2e4c812e21904.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zm9yywjhbmsucnvad2vyzxdvbhzlcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-15 00:43:00.000000",
+    "disclosedDate": "2023-12-23 16:07:20.143975"
+  }
+}

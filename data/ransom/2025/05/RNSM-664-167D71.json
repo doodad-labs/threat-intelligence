@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-167D71",
+  "type": "ransomware-incident",
+  "title": "Fleet Equipment Center, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fleet Equipment Center, Inc.",
+    "domain": "fleetequipment.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Fleet Equipment Center, Inc is a truck and trailer rental business that specializes in leasing commercial trucks and trailers to businesses. The company also provides repair services for these vehicles. Based in Lemont, Illinois, Fleet Equipment Center also offers preowned equipment for sale. Their successful operation is underpinned by their commitment to customer service and building long-term relations with clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/782232ca2a3f7b38a6249f104a680451.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmxlzxqgrxf1axbtzw50ienlbnrlciwgsw5jlkbibgfja2xvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:06:57.030083",
+    "disclosedDate": "2025-05-16 13:50:19.435827"
+  }
+}

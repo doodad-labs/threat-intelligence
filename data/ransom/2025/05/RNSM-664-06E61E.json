@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-664-06E61E",
+  "type": "ransomware-incident",
+  "title": "ATLAS CPAs & Advisors ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ATLAS CPAs & Advisors",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Accounting Services",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvrmqvmgq1bbcyamiefkdmlzb3jzqfnpbgvudfjhbnnvbudyb3vw",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-14 15:43:34.532316",
+    "disclosedDate": "2025-05-06 18:15:13.928108"
+  }
+}

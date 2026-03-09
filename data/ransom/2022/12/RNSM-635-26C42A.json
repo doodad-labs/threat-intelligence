@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-635-26C42A",
+  "type": "ransomware-incident",
+  "title": "Zeus Scientific Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Zeus Scientific Inc",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "avoslocker",
+    "name": "avoslocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://www.zeusscientific.com/about Zeus Scientific, Inc. manufactures clinical diagnostic solutions. The Company offers flexible solutions for autoimmune and infectious disease testing. AvosLocker team publishes the first part of exfiltrated files from Zeus Scientific Servers, NDA contracts etc",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wmv1cybty2llbnrpzmljieluy0bhdm9zbg9ja2vy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-26 16:12:21.118282",
+    "disclosedDate": "2022-12-26 16:12:21.118282"
+  }
+}

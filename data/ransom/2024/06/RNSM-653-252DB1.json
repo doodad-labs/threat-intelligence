@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-653-252DB1",
+  "type": "ransomware-incident",
+  "title": "scrubsandbeyond.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "scrubsandbeyond.com",
+    "domain": "scrubsandbeyond.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 600000000000,
+    "description": "Scrubs & Beyond was founded in 2000 with the thinking that the healthcare retail experience could be completely transformed. The result was a retail experience that elevated medical professional essentials beyond the practical — and added a much-needed sense of humanity that was otherwise missing in the industry.SITE: www.scrubsandbeyond.com Address : 12969 Manchester Rd Saint Louis MO, 63131-1805 United StatesALL DATA SIZE: ≈600gb 1. Human Resources data 2. Users folders, Employees confidential data 3. Personal documents 4. Departments data: Accounting, Management… & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aad8e63e2a5ca032eb52e4745dbff1f8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2nydwjzyw5kymv5b25klmnvbubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-08 00:00:00.000000",
+    "disclosedDate": "2024-06-25 08:22:41.993848"
+  }
+}

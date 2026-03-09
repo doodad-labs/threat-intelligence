@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-656-18FBF1",
+  "type": "ransomware-incident",
+  "title": "satiagroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "satiagroup.com",
+    "domain": "satiagroup.com",
+    "country": "LU",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "valencialeaks",
+    "name": "ValenciaLeaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 7100000000,
+    "description": "Data Exfiltrated : 7.1GB - Leak Date : 23.08.2024:00:01",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/40311d921257d2473b19012cdafa07a0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2f0awfncm91cc5jb21avmfszw5jawfmzwfrcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-18 09:44:13.537018",
+    "disclosedDate": "2024-09-18 09:44:14.436808"
+  }
+}

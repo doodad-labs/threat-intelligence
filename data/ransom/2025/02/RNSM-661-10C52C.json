@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10C52C",
+  "type": "ransomware-incident",
+  "title": "codagami.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "codagami.com",
+    "domain": "codagami.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Codagami is a US-based software development company best known for its strategic and innovative solutions for complex business problems. It offers customized software development, web design and development, mobile app development, and more. With years of experience, it assists businesses globally to expand their capabilities and to achieve their objectives efficiently. It values its customers' satisfaction and ensures high-quality end products with a collaborative approach.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29kywdhbwkuy29tqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:52:04.757977",
+    "disclosedDate": "2025-02-10 19:52:10.474734"
+  }
+}

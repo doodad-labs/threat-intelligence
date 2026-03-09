@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-656-30D38B",
+  "type": "ransomware-incident",
+  "title": "Isola ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Isola",
+    "domain": "isola.com",
+    "country": "NO",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Isola is a Norwegian manufacturer of building products and solutions for roofs, walls, floors and foundations. Isola corporate office is located in 9 Prestemoen, Porsgrunn, Telemark, 3946, Norway.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sxnvbgfabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-30 09:51:52.000000",
+    "disclosedDate": "2024-09-30 11:45:21.369743"
+  }
+}

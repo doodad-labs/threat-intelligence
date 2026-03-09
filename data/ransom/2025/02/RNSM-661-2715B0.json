@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-2715B0",
+  "type": "ransomware-incident",
+  "title": "VIDAGROUP.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VIDAGROUP.COM",
+    "domain": "vidagroup.com",
+    "country": "MX"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Vida Group is a global executive search and leadership advisory firm. It serves industries such as consumer, industrial, technology, health care, and biotech, providing services including executive search, management and leadership assessment, and succession planning. The firm is known for its rigorous and systematic search process, targeting and engaging world-class talent.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vklequdst1vqlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:45:00.938901",
+    "disclosedDate": "2025-02-27 17:45:06.734344"
+  }
+}

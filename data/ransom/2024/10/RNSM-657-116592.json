@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-116592",
+  "type": "ransomware-incident",
+  "title": "practicesuite.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "practicesuite.us",
+    "domain": "practicesuite.us",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PracticeSuite is a healthcare technology company that offers a comprehensive cloud-based practice management and electronic health records (EHR) platform. It serves medical practices by streamlining administrative tasks, billing, scheduling, and patient management to enhance operational efficiency. The platform aims to improve healthcare delivery and financial performance for medical providers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/79ea2d171b0fb0111dd6c4fa51f83394.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjhy3rpy2vzdwl0zs51c0byyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-14 00:00:00.000000",
+    "disclosedDate": "2024-10-11 14:40:44.190887"
+  }
+}

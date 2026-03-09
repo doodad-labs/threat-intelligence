@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-16F116",
+  "type": "ransomware-incident",
+  "title": "https://avenira.com/ ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "https://avenira.com/",
+    "country": "AU",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "1tb data    and nda data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/00a2e7dd240aaa941e82e2ea163d9bc7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahr0chm6ly9hdmvuaxjhlmnvbs9aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-17 10:11:00.000000",
+    "disclosedDate": "2025-12-16 23:51:35.431103"
+  }
+}

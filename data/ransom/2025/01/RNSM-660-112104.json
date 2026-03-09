@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-112104",
+  "type": "ransomware-incident",
+  "title": "Patriarche Office of Architecture ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Patriarche Office of Architecture",
+    "domain": "patriarche.fr",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c62063e1f824d3499722d6fd1d51b795.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugf0cmlhcmnozsbpzmzpy2ugb2ygqxjjagl0zwn0dxjlqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-11 12:23:39.624662",
+    "disclosedDate": "2025-01-11 12:23:42.327147"
+  }
+}

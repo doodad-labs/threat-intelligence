@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-25580D",
+  "type": "ransomware-incident",
+  "title": "iss-na.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "iss-na.com",
+    "domain": "iss-na.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 2007. Industrial Service Solutions is headquartered in Houston, Texas. Industrial Service Solutions processes equipment across a set of industrial markets and servicing and inspections.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cd24b38c715ec76ad77c93e126eb1774.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axnzlw5hlmnvbub0ahjlzwft",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-18 18:59:07.386482",
+    "disclosedDate": "2025-05-25 19:00:12.335947"
+  }
+}

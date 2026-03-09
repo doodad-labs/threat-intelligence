@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-06A73E",
+  "type": "ransomware-incident",
+  "title": "M2E Consulting Engineers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "M2E Consulting Engineers",
+    "domain": "m2econsulting.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "M2E Consulting Engineers is a multi-disciplinary firm providing engineering services toits partners across major markets and locations. Lots of confidential data, personal documents, client information, projects. We'll make the files available for you soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ttjfienvbnn1bhrpbmcgrw5naw5lzxjzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-06 16:35:57.018659",
+    "disclosedDate": "2024-05-06 16:35:57.104750"
+  }
+}

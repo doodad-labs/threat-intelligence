@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-205F45",
+  "type": "ransomware-incident",
+  "title": "Medical File ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Medical File",
+    "domain": "medicalfile.io",
+    "country": "MX",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "El expediente clínico más innovador del mercado",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e3e6fbc7e3ca13ca75053a359a2dd440.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvkawnhbcbgawxlqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-20 20:58:14.917037",
+    "disclosedDate": "2025-02-20 20:59:39.236943"
+  }
+}

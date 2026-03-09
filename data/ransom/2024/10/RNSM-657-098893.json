@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-098893",
+  "type": "ransomware-incident",
+  "title": "EasyPay ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EasyPay",
+    "country": "BG",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 560000,
+    "description": "Fourth Floor British American Building HAMILTON, Pembroke, HM12 Bermuda. Geo: Bermuda - Leak size: 560 KB Archive - Contains: SQL",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwfzevbheubzyxjjb21h",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-09 19:58:18.014963",
+    "disclosedDate": "2024-10-09 19:58:19.172662"
+  }
+}

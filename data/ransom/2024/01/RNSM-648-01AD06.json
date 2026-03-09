@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-01AD06",
+  "type": "ransomware-incident",
+  "title": "DELPHINUS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DELPHINUS.COM",
+    "domain": "delphinus.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7041b5dfb011964098261cc11159e5ac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/revmuehjtlvtlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-01 19:35:00.971808",
+    "disclosedDate": "2024-01-01 19:35:00.971830"
+  }
+}

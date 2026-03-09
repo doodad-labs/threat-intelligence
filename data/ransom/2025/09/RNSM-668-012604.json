@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-012604",
+  "type": "ransomware-incident",
+  "title": "oakland-museum-of-california ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "oakland-museum-of-california",
+    "domain": "oaklandmuseumofcalifornia.org",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Established in 1969, Oakland Museum of California provides collections, exhibitions, education programs and public dialogue. They are based in Oakland, California.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a9c57588b655a0277a8ff1d808991ced.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b2frbgfuzc1tdxnldw0tb2yty2fsawzvcm5pyubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-29 15:59:32.906000",
+    "disclosedDate": "2025-09-01 12:41:00.356831"
+  }
+}

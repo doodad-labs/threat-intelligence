@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-21B97C",
+  "type": "ransomware-incident",
+  "title": "the3rivers.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "the3rivers.net",
+    "domain": "the3rivers.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Three Rivers Learning Trust was established in 2011 and consists of eight Schools. These schools have a long and proud history of providing an excellent education service to the local population.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghlm3jpdmvycy5uzxrabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-21 10:46:00.000000",
+    "disclosedDate": "2023-03-21 11:09:41.576650"
+  }
+}

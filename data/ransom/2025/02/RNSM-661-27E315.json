@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27E315",
+  "type": "ransomware-incident",
+  "title": "INTERCHARGE.DE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "INTERCHARGE.DE",
+    "domain": "intercharge.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] INTERCHARGE.DE is a German company providing integrated electromobility solutions. They offer a unified, Europe-wide charging network for electric vehicles, consisting of various charging point operators. Their services include interoperability solutions, charging station maps, and seamless payment methods for users. They aim to connect different charging point operators to create a comprehensive, convenient, and user-friendly system for electric vehicle charging.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/su5urvjdsefsr0uurevay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:26:02.152708",
+    "disclosedDate": "2025-02-27 16:26:07.135493"
+  }
+}

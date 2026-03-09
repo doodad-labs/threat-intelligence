@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-645-0865E4",
+  "type": "ransomware-incident",
+  "title": "securicon.co.za ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "securicon.co.za",
+    "domain": "securicon.co.za",
+    "country": "ZA",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Securicon Lowveld offers a professional security services and in particular Risk management, experienced guarding, alarm monitoring and response service. Securicon Lowveld has been operating with its main focus in the Nkomazi ‘Onderberg region for th...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4bb7c4d2089020551f725bd4b89f934f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vjdxjpy29ulmnvlnphqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-08 21:25:00.000000",
+    "disclosedDate": "2023-10-08 22:02:39.437738"
+  }
+}

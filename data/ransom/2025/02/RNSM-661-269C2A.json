@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-269C2A",
+  "type": "ransomware-incident",
+  "title": "www.obrienavocats.qc.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.obrienavocats.qc.ca",
+    "domain": "obrienavocats.qc.ca",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] O'Brien Avocats is a law firm based in Montreal, Canada. Specializing in family law, they provide legal assistance in various areas including divorce, child custody, alimony, and marriage contracts. They are dedicated to protect the rights of their clients, guided by their values of integrity, expertise, and professionalism.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/311e110cfd51376f4f3135a8ffe69e9f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm9icmllbmf2b2nhdhmucwmuy2facmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-26 13:44:36.000000",
+    "disclosedDate": "2025-02-26 18:11:19.152349"
+  }
+}

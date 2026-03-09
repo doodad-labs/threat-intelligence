@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-229312",
+  "type": "ransomware-incident",
+  "title": "Polaris Parks ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Polaris Parks",
+    "domain": "polarisparks.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Real Estate",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/636f6f0b62b70dfac011f9b1815eb146.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ug9syxjpcybqyxjrc0bkaxjld29szg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-22 14:24:17.582865",
+    "disclosedDate": "2025-12-22 14:48:37.880673"
+  }
+}

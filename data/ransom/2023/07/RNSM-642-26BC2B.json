@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-642-26BC2B",
+  "type": "ransomware-incident",
+  "title": "nutiscom ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nutiscom",
+    "domain": "nutis.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2500000000000,
+    "description": "Nutis provides full-service print, point-of-purchase, and visual merchandising solutions.  We have 2.5TB of confidential company data. Company financial reports, projects, customer and employee information, and much more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ac1cb3106f19a2618b20e1b14653d486.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bnv0axnjb21aywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-06-23 18:57:09.000000",
+    "disclosedDate": "2023-07-26 17:12:29.440622"
+  }
+}

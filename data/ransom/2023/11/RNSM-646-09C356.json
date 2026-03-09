@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-646-09C356",
+  "type": "ransomware-incident",
+  "title": "SALUS Controls ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SALUS Controls",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "SALUS Controls is a company that operates in the Industrial Automation industry. 40 GB of data will be available here soon. Personal documents, operational information, contracts, agreements... There is much to look at.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0fmvvmgq29udhjvbhnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-09 16:00:28.193096",
+    "disclosedDate": "2023-11-09 16:00:28.347200"
+  }
+}

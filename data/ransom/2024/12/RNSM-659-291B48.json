@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-291B48",
+  "type": "ransomware-incident",
+  "title": "UPR.SG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UPR.SG",
+    "domain": "upr.sg",
+    "country": "SG",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $8.9 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vvbsllnhqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-29 23:51:52.525978",
+    "disclosedDate": "2024-12-29 23:51:53.145676"
+  }
+}

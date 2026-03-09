@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-650-27A18D",
+  "type": "ransomware-incident",
+  "title": "PT Bank Pembangunan Daerah Banten Tbk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PT Bank Pembangunan Daerah Banten Tbk",
+    "domain": "bankbanten.co.id",
+    "country": "ID",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 108470000000,
+    "description": "PT Bank Pembangunan Daerah Banten Tbk - founded in 1992, it is currently owned by the Banten Provincial government and has the status of a regional development bank. Currently, the Company serves customers of deposits, credit distribution (MSME, Consumer Credit and Commercial Credit), and other services and has been appointed as a partner of the Provincial Government of Banten in local cash management. Bank Pembangunan Daerah Banten Tbk PT corporate office is located in Environment Ruko Nine No. 8b-9a Sumur Pecung Village Jl. Sudirman Kemang, Serang, Banten, Indonesia and has 435 employees. The total amount of data leakage is 108.47 GB and includes all customer financial information SQL Database.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ufqgqmfuaybqzw1iyw5ndw5hbibeywvyywggqmfudgvuifria0btzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-27 07:51:05.12345",
+    "disclosedDate": "2024-03-27 21:36:25.373877"
+  }
+}

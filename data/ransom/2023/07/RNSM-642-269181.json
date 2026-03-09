@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-269181",
+  "type": "ransomware-incident",
+  "title": "DELOITTE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DELOITTE.COM",
+    "domain": "deloitte.com",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Deloitte France - Audit, Consulting, Financial Advisory, Risk Advisory, Juridique & Fiscal, Expertise comptable",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/753635dda66bf8d1dbc2b5d207d1296e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/revmt0luveuuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:49:14.190516",
+    "disclosedDate": "2023-07-26 20:49:14.190540"
+  }
+}

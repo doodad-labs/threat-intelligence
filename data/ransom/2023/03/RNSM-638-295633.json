@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-295633",
+  "type": "ransomware-incident",
+  "title": "Helmholtz Zentrum Munchen ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Helmholtz Zentrum Munchen",
+    "domain": "helmholtz.de",
+    "country": "DE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Helmholtz Zentrum Museum is interested for its top-level scientific achievements in different areas. The most interested ones were open by us for people who are interested in opening new horizons of digital illiterate of this institution.Here you can find the following data: employees information from HR, projects information (science, medical), financial information along with the confidential files.Take a look.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8e9b8e2c99aa5b0dc3b6e3f0b12d23de.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvsbwhvbhr6ifplbnrydw0gtxvuy2hlbkbyb3lhba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-27 01:02:03.456789",
+    "disclosedDate": "2023-03-29 02:36:40.938227"
+  }
+}

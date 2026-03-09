@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-19F610",
+  "type": "ransomware-incident",
+  "title": "Safex.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Safex.us",
+    "domain": "safex.us",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 70000000000,
+    "description": "ZIP-70GB - Revenue $5,4 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fmzxgudxnac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-19 22:28:08.442463",
+    "disclosedDate": "2024-11-19 22:28:09.203136"
+  }
+}

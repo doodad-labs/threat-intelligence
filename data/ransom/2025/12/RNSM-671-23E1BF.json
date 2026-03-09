@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-671-23E1BF",
+  "type": "ransomware-incident",
+  "title": "Chatham Asset Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Chatham Asset Management",
+    "domain": "chathamasset.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Chatham Asset Management is a private investment firm specializing in various sectors like media, real estate, and more. They primarily focus on improving operations, promoting growth, reducing costs, and increasing profits. They also aim at managing companies that are undervalued or facing financial difficulties. Established in 2002, it is headquartered in Chatham, New Jersey, USA.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/be70dbae35cde1826bd54f2b91f016d4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hhdghhbsbbc3nldcbnyw5hz2vtzw50qhdvcmxkbgvha3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2026-01-20-chatham-asset-management-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-23 11:31:32.000000",
+    "disclosedDate": "2025-12-23 13:24:01.098129"
+  }
+}

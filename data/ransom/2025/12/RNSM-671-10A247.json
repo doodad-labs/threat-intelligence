@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-10A247",
+  "type": "ransomware-incident",
+  "title": "CIDEF Argentina S.A. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CIDEF Argentina S.A.",
+    "domain": "cidef-arg.net",
+    "country": "AR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/157c83dc73d483c81ad562176769ef84.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0leruygqxjnzw50aw5hifmuqs5acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-10 00:00:00.000000",
+    "disclosedDate": "2025-12-10 05:49:10.962787"
+  }
+}

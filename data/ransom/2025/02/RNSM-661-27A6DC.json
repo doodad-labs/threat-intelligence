@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27A6DC",
+  "type": "ransomware-incident",
+  "title": "PETMATE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PETMATE.COM",
+    "domain": "petmate.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Petmate.com is a leading pet products company that specializes in providing a wide range of supplies for dogs, cats, and birds. The company offers an extensive selection of products including toys, beds, crates, carriers, feeders, and more. Petmate is devoted to creating fun, trusted, quality products to enhance the lives of pets and their families. This commitment continues to inspire and lead the industry in innovation and understanding of the need for pet products.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uevutufurs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:05:21.348695",
+    "disclosedDate": "2025-02-27 17:05:28.040663"
+  }
+}

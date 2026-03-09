@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-17CF53",
+  "type": "ransomware-incident",
+  "title": "kuritaamerica.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kuritaamerica.com",
+    "domain": "kuritaamerica.com",
+    "country": "JP",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kurita America Inc. (KAI) was established in 1996 as the US subsidiary of KURITA WATER INDUSTRIES LTD. of Tokyo, Japan. KAI provides complete turn-key systems, maintenance services, and water treatment chemicals capable of meeting the needs of...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a3vyaxrhyw1lcmljys5jb21adghyzwvhbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-29 00:00:00.000000",
+    "disclosedDate": "2024-12-17 16:43:58.575238"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-666-224208",
+  "type": "ransomware-incident",
+  "title": "nboat.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nboat.com",
+    "domain": "nboat.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Established in 1984, the National Boat Owners Association (NBOA) aims to accommodate all aspects of the boating lifestyle. They offer towing memberships with industry benefits as well as discounted boating safety products and specialty items on their online ship's store LifejacketsPlus.com. In addition to its membership base, NBOA is one of the largest marine insurance agencies in the country (NBOA Marine Insurance), providing every one of its customers with A+ rated coverage and affordable premiums.\r Employees: 27\r Revenue:$9.6 Million\r Industry:Insurance\r Phone Number:(941) 360-6777",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ede31f87c897e73a517aa9e27b7d9482.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmjvyxquy29tqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bf3eddfd-ec1a-473f-b09f-726ccbf9668c.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-20 00:00:00.000000",
+    "disclosedDate": "2025-07-22 02:47:32.871178"
+  }
+}

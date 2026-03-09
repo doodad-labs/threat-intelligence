@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-23566B",
+  "type": "ransomware-incident",
+  "title": "VIRGIN.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VIRGIN.COM",
+    "domain": "virgin.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Official site - Virgin",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/24596adb6ca81e77ecfd34a57c37c4cc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vklsr0lolknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-23 13:16:34.311287",
+    "disclosedDate": "2023-03-23 13:16:34.311305"
+  }
+}

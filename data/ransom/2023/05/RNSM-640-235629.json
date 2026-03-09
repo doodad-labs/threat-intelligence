@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-235629",
+  "type": "ransomware-incident",
+  "title": "City of Modesto ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "City of Modesto",
+    "domain": "modestogov.com",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "nokoyawa",
+    "name": "nokoyawa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Modesto is the county seat and largest city of Stanislaus County, California, United States. With a population of 218,464 at the 2020 census, it is the 19th largest city in the state of California and forms part of the Sacramento-Stockton-Modesto Combined Statistical Area.The city is surrounded by...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e11ef342440d358b7298fba6fc62e797.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0esbvzibnb2rlc3rvqg5va295yxdh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-02 00:44:53.485000",
+    "disclosedDate": "2023-05-23 16:08:01.182283"
+  }
+}

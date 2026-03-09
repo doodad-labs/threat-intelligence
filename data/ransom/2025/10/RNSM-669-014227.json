@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-014227",
+  "type": "ransomware-incident",
+  "title": "Nacsworld.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nacsworld.com",
+    "domain": "nacsworld.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1993 and headquartered in Morriston, Ontario, North America Construction LTD (NAC) is a general contractor and construction company. NAC provides Master Builder services to the municipal, civil, biofuel and energy marketplace.\r \r We have contracts, internal mail, drawings and more at our disposal. We will share all this.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e4b17b87b7c51852b1d58ee6e0478796.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmfjc3dvcmxklmnvbubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-29 01:00:00.000000",
+    "disclosedDate": "2025-10-01 00:52:02.725778"
+  }
+}

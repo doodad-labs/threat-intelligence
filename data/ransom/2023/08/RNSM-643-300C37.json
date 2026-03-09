@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-300C37",
+  "type": "ransomware-incident",
+  "title": "greensboro.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "greensboro.edu",
+    "domain": "greensboro.edu",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Greensboro College provides a liberal arts education fostering intellectual, social and spiritual development while supporting the individual needs of all students.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/60db7aad1cbc2c8591abbdaf5dd7fcbe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jlzw5zym9yby5lzhvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-30 22:59:00.000000",
+    "disclosedDate": "2023-08-30 23:34:07.443955"
+  }
+}

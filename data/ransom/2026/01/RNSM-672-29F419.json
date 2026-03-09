@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-29F419",
+  "type": "ransomware-incident",
+  "title": "anomatic.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "anomatic.com",
+    "domain": "zoominfo.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1965 and headquartered in New Albany, Ohio, Anomatic is a full-service manufacturer of anodized aluminum and metalized packaging for the automotive, beauty, personal care, consumer electronics, pharmaceutical, medical devices, and spirits industries worldwide",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/539f11adaa5057af92a0534e5b495c68.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw5vbwf0awmuy29tqgnoyw9z",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 00:00:00.000000",
+    "disclosedDate": "2026-01-29 16:31:06.289113"
+  }
+}

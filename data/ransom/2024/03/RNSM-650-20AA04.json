@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-20AA04",
+  "type": "ransomware-incident",
+  "title": "Springfield Sign ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Springfield Sign",
+    "domain": "springfieldsign.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Springfield Sign is a full-service signage company that designs, manufactures, installs and maintains professional custom signage.https://www.springfieldsign.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bb6ca2033106ca49169ce4612e98134b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3byaw5nzmllbgqgu2lnbka4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-20 00:00:00.000000",
+    "disclosedDate": "2024-03-20 07:16:12.012229"
+  }
+}

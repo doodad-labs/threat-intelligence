@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-658-06A631",
+  "type": "ransomware-incident",
+  "title": "hausdesstiftens.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hausdesstiftens.org",
+    "domain": "hausdesstiftens.org",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "helldown",
+    "name": "helldown",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "hausdesstiftens.org",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7bacae3bca0e437f8a959b803b8b41bb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agf1c2rlc3n0awz0zw5zlm9yz0bozwxszg93bg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-08 00:00:00.000000",
+    "disclosedDate": "2024-11-06 23:38:54.605970"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-031D44",
+  "type": "ransomware-incident",
+  "title": "Sleepy Hollow Country Club ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sleepy Hollow Country Club",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 14000000000,
+    "description": "Sleepy Hollow Country Club is a private country club located in Scarborough, New York.We are going to upload about 14 GB of corporate data. Confidential agreements, a lot of employee personal information (DOB, passports, social security cards, addresses, phones, emails, and so on), detailed financial data, a bit of client data, contracts and agreements, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2xlzxb5iehvbgxvdybdb3vudhj5iensdwjaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-03 00:00:00.000000",
+    "disclosedDate": "2025-06-03 14:49:00.361669"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-16EC0B",
+  "type": "ransomware-incident",
+  "title": "Keycodes Inspection Agency ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Keycodes Inspection Agency",
+    "domain": "keycodesinspectionagency.com",
+    "country": "IN",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Keycodes Inspection Agency is a Pennsylvania State certified third-party inspection agency specializing in residential and commercial building inspections, including plumbing, mechanical, electrical, energy, and accessibility inspections. The agency is dedicated to public safety and customer service, ensuring timely and professional building code inspections. Their inspectors maintain current knowledge of building codes through required continuing education courses. Keycodes Inspection Agency is recognized as Lehigh Valley's premier inspection agency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/98da20728738eb5d6c798006a0563f22.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2v5y29kzxmgsw5zcgvjdglvbibbz2vuy3lac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-16 20:49:22.385000",
+    "disclosedDate": "2025-12-16 21:30:17.602577"
+  }
+}

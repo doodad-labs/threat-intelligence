@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-2780BF",
+  "type": "ransomware-incident",
+  "title": "LKQCORP.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LKQCORP.COM",
+    "domain": "lkqcorp.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] LKQ Corporation is a leading provider of alternative and specialty parts to repair and accessorize automobiles and other vehicles. The company offers a broad range of replacement parts, components, and systems needed to repair cars and trucks, with an emphasis on recycled and remanufactured parts. LKQ Corporation operates across North America, Europe, and Taiwan.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/261e575c7369e5d9b31c89c49e1c9cd7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tetrq09suc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-27 11:26:24.973916",
+    "disclosedDate": "2025-10-27 11:26:41.253837"
+  }
+}

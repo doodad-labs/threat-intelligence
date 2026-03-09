@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-644-281925",
+  "type": "ransomware-incident",
+  "title": "fdf.org.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fdf.org.uk",
+    "domain": "fdf.org.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Food and Drink Federation (FDF) is a membership organisation that represents and advises UK food and drink manufacturers.Passports, banks, accounting, juridic, customers and etc private data was downloaded",
+    "claimed_data_types": [
+      "passport-numbers"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eea41c9c4a6c36f4190baaf242502c64.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmrmlm9yzy51a0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-28 21:28:00.000000",
+    "disclosedDate": "2023-09-28 22:09:28.273233"
+  }
+}

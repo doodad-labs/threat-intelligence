@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-657-21A0A7",
+  "type": "ransomware-incident",
+  "title": "Trimarc Financial (trimarc.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Trimarc Financial (trimarc.com)",
+    "domain": "trimarc.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000,
+    "description": "3 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/647441798c46f7d01ec820804a58ec74.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjpbwfyyybgaw5hbmnpywwgkhryaw1hcmmuy29tkubmb2c=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-21 00:00:00.000000",
+    "disclosedDate": "2024-10-21 12:08:20.820466"
+  }
+}

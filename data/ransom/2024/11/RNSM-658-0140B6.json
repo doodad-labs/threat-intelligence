@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-0140B6",
+  "type": "ransomware-incident",
+  "title": "lighthouseelectric.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lighthouseelectric.com",
+    "domain": "lighthouseelectric.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[IA generated] LighthouseElectric.com is a company specializing in electrical contracting services. They offer a range of solutions including design-build, electrical construction, and maintenance services. Their expertise spans various sectors such as commercial, industrial, and institutional projects. With a focus on innovation and quality, they aim to deliver efficient and reliable electrical systems tailored to client needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/710c756f3d805cb9cbf7fa7f89ab5efd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bglnahrob3vzzwvszwn0cmljlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-26 00:00:00.000000",
+    "disclosedDate": "2024-11-01 21:22:37.350564"
+  }
+}

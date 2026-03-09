@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-29C46D",
+  "type": "ransomware-incident",
+  "title": "www.legilog.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.legilog.fr",
+    "domain": "legilog.fr",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Management software for culture, businesses, religion and bishoprics.10 GBscrm systems / export files and backups / personal data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/69649b35d47aa5a6d1a028e3c025c0ad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmxlz2lsb2cuznjayxb0nzm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-08 00:00:00.000000",
+    "disclosedDate": "2024-10-29 15:40:17.819338"
+  }
+}

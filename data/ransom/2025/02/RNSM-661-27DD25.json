@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27DD25",
+  "type": "ransomware-incident",
+  "title": "EQLOGISTICS.US ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EQLOGISTICS.US",
+    "domain": "eqlogistics.us",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] EQLOGISTICS.US is a professional logistics company based in the United States. They specialize in supply chain management, offering integrated warehousing, and transportation services that can be scaled and customized based on customer needs. Their solutions aim to enhance customers' efficiency, reduce costs and minimize potential risks linked to logistics. Their operations reach global markets, making them a notable player in the industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rvfmt0dju1rjq1muvvnay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:53:47.666713",
+    "disclosedDate": "2025-02-27 17:53:52.014281"
+  }
+}

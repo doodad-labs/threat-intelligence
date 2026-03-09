@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-039D86",
+  "type": "ransomware-incident",
+  "title": "BeneCare Dental Insurance ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BeneCare Dental Insurance",
+    "domain": "benecare.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ddc2d55b5f8a9e0796312820bd69c644.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvuzunhcmugrgvudgfsieluc3vyyw5jzubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-03 18:12:38.000000",
+    "disclosedDate": "2024-04-03 19:29:42.350000"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-1279A2",
+  "type": "ransomware-incident",
+  "title": "grotonschools.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "grotonschools.org",
+    "domain": "grotonschools.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "grotonschools.orgGroton Public Schools (GPS, Groton School District) is a school district in New London County, Connecticut based in the city of Groton, Connecticut, United States. The Groton Public School District services approximately 4,000 stud...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/be195b8ca71b5ebfe289c7a897ecaf99.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jvdg9uc2nob29scy5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 07:19:00.000000",
+    "disclosedDate": "2024-02-12 10:34:42.223087"
+  }
+}

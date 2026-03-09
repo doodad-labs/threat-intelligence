@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-1636B1",
+  "type": "ransomware-incident",
+  "title": "Coilplus ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Coilplus",
+    "domain": "coilplus.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Coilplus is a company that mainly specializes in the metal processing industry. They provide tailored solutions for metal coil processing, including slitting, roll forming and cut-to-length lines. Founded in 1985 in Illinois, USA, Coilplus has expanded globally with facilities in Mexico, Spain, and China. The company emphasizes on quality control and employs a team of experts to ensure their products meet high industry standards.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a0ef305576dca693f2585f4ef5330df4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29pbhbsdxnad29ybgrszwfrcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-11 00:00:00.000000",
+    "disclosedDate": "2025-10-16 13:02:35.350840"
+  }
+}

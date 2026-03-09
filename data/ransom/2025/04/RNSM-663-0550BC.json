@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-663-0550BC",
+  "type": "ransomware-incident",
+  "title": "Racami ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Racami",
+    "domain": "racami.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hellcat",
+    "name": "hellcat",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Jiraware <<3 !! We have breached Racami’s internal systems. The data in our possession poses a serious threat to their business continuity, reputation, and client trust.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umfjyw1pqghlbgxjyxq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-05 09:44:10.000000",
+    "disclosedDate": "2025-04-05 10:47:24.036903"
+  }
+}

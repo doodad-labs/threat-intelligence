@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-113B66",
+  "type": "ransomware-incident",
+  "title": "clinicatezza.com.pe ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "clinicatezza.com.pe",
+    "domain": "clinicatezza.com.pe",
+    "country": "PE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Clinica Tezza - Cuidamos al enfermo como una madre cuida a su único hijo enfermo. «Cuidamos al enfermo como una madre cuida a su único hijo enfermo.». La Congregación Hijas de San Camilo cumple su misión a nivel mundial. En Europa está en Italia, don...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/17c489cba4cc42b3b7d8906333fb44ca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2xpbmljyxrlenphlmnvbs5wzubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-16 00:00:00.000000",
+    "disclosedDate": "2024-08-11 07:50:40.230089"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-665-013375",
+  "type": "ransomware-incident",
+  "title": "Town of North Providence Rhode Island corporate office ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Town of North Providence Rhode Island corporate office",
+    "domain": "northprovidenceri.gov",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Town of North Providence provides a variety of municipal services to its residents, including online permitting, tax payment options, and community events. Town of North Providence Rhode Island corporate office is located in 2000 Smith St, North Providence, Rhode Island, 02911, United States and has 40 employees.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/08f4f0bcb6d3f1bc27fb318b05152d16.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vg93bibvzibob3j0acbqcm92awrlbmnlifjob2rlielzbgfuzcbjb3jwb3jhdgugb2zmawnlqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bbadd348-a631-4500-b7b7-39c45eb0bb92.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-30 16:22:51.000000",
+    "disclosedDate": "2025-06-01 00:41:17.692724"
+  }
+}

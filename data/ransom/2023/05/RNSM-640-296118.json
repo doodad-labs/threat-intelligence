@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-640-296118",
+  "type": "ransomware-incident",
+  "title": "aquidneckclub.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aquidneckclub.com",
+    "domain": "aquidneckclub.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Aquidneck Club combines first class amenities with a casual, family-friendly culture and personalized service. This luxurious private club features an 18-Hole Championship Golf Course, Waterfront Dining, Tennis Courts, Fitness Center, Wellness Sp...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5c47462ac6e036c61c4bf35e8ba14f1b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxf1awruzwnry2x1yi5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-29 17:28:00.000000",
+    "disclosedDate": "2023-05-29 17:53:25.991265"
+  }
+}

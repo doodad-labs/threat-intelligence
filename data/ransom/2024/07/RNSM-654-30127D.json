@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-30127D",
+  "type": "ransomware-incident",
+  "title": "leonardssyrups.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "leonardssyrups.com",
+    "domain": "leonardssyrups.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/LEONARDDOMAIN/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/LEONARDDOMAIN/PROOF/DATA DESCRIPTIONS: Employees personal and corporate data, Personal Identifiable Information, accounting, financial documents, customer data, contracts, corporate correspondence, database exports etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a568dcf8737b2347d38280b0d552a65b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgvvbmfyzhnzexj1chmuy29tqgnhy3r1cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-05 00:00:00.000000",
+    "disclosedDate": "2024-07-30 19:36:39.967412"
+  }
+}

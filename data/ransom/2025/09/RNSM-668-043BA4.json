@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-043BA4",
+  "type": "ransomware-incident",
+  "title": "Ekmanian Tax & Accounting ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ekmanian Tax & Accounting",
+    "domain": "ekmaniancpa.com",
+    "country": "SE",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ekmanian Tax & Accounting, USA - scandal immediately after M&A. Company is a law firm that provides tax account services and bookkeeping for people and companies. Most recently, they announced a merger with another company, Brave Accounting.             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e58c84e4554fe636c6dd55dbacaaaa05.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwttyw5pyw4gvgf4icygqwnjb3vudgluz0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-28 00:00:00.000000",
+    "disclosedDate": "2025-09-04 21:10:40.571669"
+  }
+}

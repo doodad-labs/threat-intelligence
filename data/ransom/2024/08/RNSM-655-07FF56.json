@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-07FF56",
+  "type": "ransomware-incident",
+  "title": "infotexim.pe ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "infotexim.pe",
+    "domain": "infotexim.pe",
+    "country": "PE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/61246e98031629a41e1f367f37d94b64.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw5mb3rlegltlnblqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-06 13:48:05.000000",
+    "disclosedDate": "2024-08-07 14:37:11.927999"
+  }
+}

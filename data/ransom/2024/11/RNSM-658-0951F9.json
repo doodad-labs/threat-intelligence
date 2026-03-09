@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-658-0951F9",
+  "type": "ransomware-incident",
+  "title": "Mizuno (USA) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mizuno (USA)",
+    "domain": "mizunousa.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mizuno Corporation is a Japanese sports equipment and sportswear company, founded in Osaka in 1906 by Rihachi Mizuno.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/966f526df859e82fde88881a8789c83e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twl6dw5vichvu0epqgjpyw5sawfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/mizuno-usa-says-hackers-stayed-in-its-network-for-two-months/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-09 19:41:23.161241",
+    "disclosedDate": "2024-11-09 19:41:23.600461"
+  }
+}

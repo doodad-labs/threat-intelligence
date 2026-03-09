@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-173828",
+  "type": "ransomware-incident",
+  "title": "sipecom.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sipecom.com",
+    "domain": "sipecom.com",
+    "country": "EC",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "warlock",
+    "name": "warlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "all data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2lwzwnvbs5jb21ad2fybg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-06 00:00:00.000000",
+    "disclosedDate": "2025-08-17 09:21:11.726856"
+  }
+}

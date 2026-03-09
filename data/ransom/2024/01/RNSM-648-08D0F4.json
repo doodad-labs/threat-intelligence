@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-648-08D0F4",
+  "type": "ransomware-incident",
+  "title": "Van Buren Public Schools ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Van Buren Public Schools",
+    "domain": "vanburenschools.net",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Van Buren Public Schools is a school district headquartered in Belleville, Michigan. A lot of files with information about students and their parents, HR information, accounting and other files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmfuiej1cmvuifb1ymxpyybty2hvb2xzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-08 17:42:46.127692",
+    "disclosedDate": "2024-01-08 17:42:46.201227"
+  }
+}

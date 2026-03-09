@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-663-20E688",
+  "type": "ransomware-incident",
+  "title": "City of Grove ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "City of Grove",
+    "domain": "cityofgroveok.gov",
+    "country": "",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "City of Grove is a company that operates in the Government industry. It employs 10to19 people and has 500Kto1M of revenue. The company is headquartered in Grove, Oklahoma.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/86d7e70797354b833794cadb2f7f63be.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0esbvzibhcm92zubkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.fourstateshomepage.com/news/local/cyber-attack-hits-grove-city-offices/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-16 12:00:13.384507",
+    "disclosedDate": "2025-04-20 07:24:52.107061"
+  }
+}

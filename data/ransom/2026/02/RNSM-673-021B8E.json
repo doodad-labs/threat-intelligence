@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-021B8E",
+  "type": "ransomware-incident",
+  "title": "KOUEI ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KOUEI",
+    "domain": "kabkouei.co.jp",
+    "country": "JP"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/86c728843243072da6059aac7782342d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s09vrulacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-02 00:00:00.000000",
+    "disclosedDate": "2026-02-02 15:10:13.693122"
+  }
+}

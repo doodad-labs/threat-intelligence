@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-07313C",
+  "type": "ransomware-incident",
+  "title": "ACDC Express ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ACDC Express",
+    "domain": "acdcexpress.com",
+    "country": "ZA"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Established in 1984, ACDC Dynamics is the leading manufacturer, importer and distributor of quality products in the electrical, electronics, pumps and tools industries. Employing over 700 staff, ACDC Dynamics has its Head Office in Edenvale, Johannesburg with branches in Germiston, Cape Town, Pinetown and Riverhorse in KZN. Manufactured items from ACDC Dynamics includes transformers, power supplies, electronic timers, distribution boards, motor starters, MCCs and power factor correction systems. Since October 2006, ACDC Dynamics has manufactured and distributed Rhomberg Electronics, a long established premium brand whose products include timers, counters, temperature controllers, relays and sensors. These products are manufactured in Cape Town and distributed world-wide through the Rhomberg distributor network. The manufacturing facilities form part of our Cape Town branch in Paarden Eiland and are certified ISO9001:2008 by SABS.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8168cea74580482470c831e28b10d999.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/quneqybfehbyzxnzqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-14 00:00:00.000000",
+    "disclosedDate": "2025-03-07 11:25:44.385822"
+  }
+}

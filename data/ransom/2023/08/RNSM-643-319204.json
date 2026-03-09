@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-319204",
+  "type": "ransomware-incident",
+  "title": "guyer.com.uy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "guyer.com.uy",
+    "domain": "guyer.com.uy",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Attention!Due to incompetence of Guyer&Regules law firm's IT staff, I managed to infiltrate this company and steal a large archive of confidential client data weighing just under a terabyte. This archive contains data of many clients, including leg...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ac13b47a6ee35acad7054fd5523edff9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3v5zxiuy29tlnv5qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-31 22:15:00.000000",
+    "disclosedDate": "2023-08-31 23:42:05.152775"
+  }
+}

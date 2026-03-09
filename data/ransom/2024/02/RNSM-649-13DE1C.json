@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-13DE1C",
+  "type": "ransomware-incident",
+  "title": "motilaloswal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "motilaloswal.com",
+    "domain": "motilaloswal.com",
+    "country": "IN",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sharekhan write to us. I think you might be interested to see their confidential company data.Motilal Oswal provides products and services related to equity trading, commodity trading and investment advisory services, IPOs and SIPs investment, port...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1478f3fc3a82bcbabd899e2bd6ff6166.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw90awxhbg9zd2fslmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-13 21:31:00.000000",
+    "disclosedDate": "2024-02-13 22:28:03.864212"
+  }
+}

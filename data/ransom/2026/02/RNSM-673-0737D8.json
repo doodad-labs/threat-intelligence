@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-0737D8",
+  "type": "ransomware-incident",
+  "title": "Anatomic Clinical Laboratory Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Anatomic Clinical Laboratory Associates",
+    "domain": "aclapath.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "insomnia",
+    "name": "insomnia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Nashville-based physician-owned pathology group serving Middle Tennessee with high-quality diagnostics care with timely reporting and accessibility for clinicians, subspecialty expertise, timely reports, and community care for uninsured patients",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b44b45a682717977810321e58796be18.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw5hdg9tawmgq2xpbmljywwgtgfib3jhdg9yesbbc3nvy2lhdgvzqgluc29tbmlh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-25 00:00:00.000000",
+    "disclosedDate": "2026-02-07 21:25:24.699406"
+  }
+}

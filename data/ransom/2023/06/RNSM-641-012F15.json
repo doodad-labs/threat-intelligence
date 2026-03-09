@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-012F15",
+  "type": "ransomware-incident",
+  "title": "fsd.se ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fsd.se",
+    "domain": "fsd.se",
+    "country": "SE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sweden’s first private fire consulting company was founded by Dr. Yngve Anderberg in Lund in 1977. In the early years, FSD’s main focus was on research and structural fire protection.The first four employees were hired in 1985. Over time, the bus...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f5078b6f6cf12e11384ca6aea8a5eaba.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/znnklnnlqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-01 19:29:00.000000",
+    "disclosedDate": "2023-06-01 20:52:41.764436"
+  }
+}

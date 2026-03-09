@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-642-26509B",
+  "type": "ransomware-incident",
+  "title": "Globacom Limited ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Globacom Limited",
+    "domain": "gloworld.com",
+    "country": "NG",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 600000000000,
+    "description": "Globacom Limited, commonly known as Glo, is a Nigerian multinational telecommunications company with annual revenue about $1.3B. Network of this company has been breached and over 600Gb of data were leaked from there. Now we are offering top management of Gloworld and Mike Adenuga specially to contact us in next 3 days to protect this stolen data. In case if they will completely refuse to negotiate all data related to Gloworld will be exposed for free download. These data contains following information:   - payments  - financial data of your company  - financial data of your employees  - signed contracts and agreements  - employees personal data  - phone call records  - simcards registrations with abonent data  - phone calls detailed tracing of your all registered numbers  - full clients base with all data related   Management of Globacom Limited decided to hide this incident and not to inform both regulators and customers. Globacom's top management has last chance July 29rd, if they want to protect data of Globacom's business, partners and customers.",
+    "claimed_data_types": [
+      "financial-data",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f4e4cbac6bc42a5c5231a144723d5dae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2xvymfjb20gtgltaxrlzebhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 12:44:26.000000",
+    "disclosedDate": "2023-07-26 14:01:50.425262"
+  }
+}

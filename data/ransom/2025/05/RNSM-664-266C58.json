@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-266C58",
+  "type": "ransomware-incident",
+  "title": "Executive Jet Support ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Executive Jet Support",
+    "domain": "ejs.aero",
+    "country": "GB",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "datacarry",
+    "name": "datacarry",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Executive Jet Support is a UK-based company that specializes in providing comprehensive support services for the global aviation industry. They offer a wide range of services, including supply of aircraft parts, engine sales and leasing, component repair and overhaul, and aircraft disassembly. The company caters to both commercial and military sectors, ensuring maintenance, repair and operational support for fleets worldwide.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxhly3v0axzliepldcbtdxbwb3j0qgrhdgfjyxjyeq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-30 00:00:00.000000",
+    "disclosedDate": "2025-05-26 17:41:02.076984"
+  }
+}

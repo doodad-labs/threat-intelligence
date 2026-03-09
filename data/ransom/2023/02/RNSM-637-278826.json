@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-278826",
+  "type": "ransomware-incident",
+  "title": "carveraero.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "carveraero.com",
+    "domain": "carveraero.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Owned by CL Enterprises, Carver Aero(www.carveraero.com)has fixed-base operations in Muscatine and Davenport, Iowa. Carver Aero provides corporate and general aviation services in Iowa, including charter flights, corporate pilot services, airplane ma...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fydmvyywvyby5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-27 11:18:26.603757",
+    "disclosedDate": "2023-02-27 11:18:26.603776"
+  }
+}

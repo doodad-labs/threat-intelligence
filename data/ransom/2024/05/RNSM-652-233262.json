@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-233262",
+  "type": "ransomware-incident",
+  "title": "United Urology Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "United Urology Group",
+    "domain": "unitedurology.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United Urology Group’s affiliate practices around the country provide a comprehensive array of services to treat a wide range of urologic conditions in men, women, and in some cases, children. An integrated approach to care means patients have access to specially-trained and highly experienced urologic specialists, a support team of healthcare professionals, advanced diagnostics and treatments, leading-edge surgical techniques, state-of-the-art outpatient surgery centers, as well as clinical trials.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3359ba2681f35a6ab06eedc89ef14bf8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pdgvkifvyb2xvz3kgr3jvdxbacmfuc29tag91c2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-04 00:00:00.000000",
+    "disclosedDate": "2024-05-23 11:08:22.645132"
+  }
+}

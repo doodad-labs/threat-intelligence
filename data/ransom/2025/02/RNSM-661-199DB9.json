@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-199DB9",
+  "type": "ransomware-incident",
+  "title": "DR.Claims FL LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DR.Claims FL LLC",
+    "domain": "dr.claims",
+    "country": "US"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/36d1fbc00f047291d198daf18e26589f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rfiuq2xhaw1ziezmiexmq0brawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 13:27:37.931537",
+    "disclosedDate": "2025-02-19 13:28:55.835878"
+  }
+}

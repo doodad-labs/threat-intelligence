@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-17CF88",
+  "type": "ransomware-incident",
+  "title": "Cary Pediatric Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cary Pediatric Center",
+    "domain": "carypediatriccenter.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cd4cd74022a78776a90d94b306bf25c2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fyesbqzwrpyxryawmgq2vudgvyqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-17 14:56:16.641411",
+    "disclosedDate": "2026-01-17 14:56:34.554052"
+  }
+}

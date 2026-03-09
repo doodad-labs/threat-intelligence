@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-0617DF",
+  "type": "ransomware-incident",
+  "title": "saragroup.in ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "saragroup.in",
+    "domain": "saragroup.in",
+    "country": "IN",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sara Suole Pvt. Ltd. is India’s largest Builtup Sole manufacturer and one of its leading manufacturers of shoes and leather.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7be8f79811ad694327f2cd6cf5b05893.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2fyywdyb3vwlmluqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-06 13:04:00.000000",
+    "disclosedDate": "2023-06-06 14:50:54.589794"
+  }
+}

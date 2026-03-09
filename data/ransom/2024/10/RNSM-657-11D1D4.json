@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-11D1D4",
+  "type": "ransomware-incident",
+  "title": "promise.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "promise.com",
+    "domain": "promise.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Promise Technology Inc. is a recognized global leader in the storage industry and the leading developer of high-performance storage solutions, designed for the data center, surveillance, cloud and rich media markets.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjvbwlzzs5jb21aywj5c3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-11 16:03:26.562737",
+    "disclosedDate": "2024-10-11 16:03:27.622845"
+  }
+}

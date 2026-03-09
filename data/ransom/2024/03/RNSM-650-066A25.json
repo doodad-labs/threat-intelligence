@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-066A25",
+  "type": "ransomware-incident",
+  "title": "MainVest ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MainVest",
+    "domain": "mainvest.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/60fce120be65e649e28a86de9af68540.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfpblzlc3racgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-06 20:09:52.713538",
+    "disclosedDate": "2024-03-06 20:09:52.877978"
+  }
+}

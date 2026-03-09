@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-192EA1",
+  "type": "ransomware-incident",
+  "title": "buckprop.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "buckprop.com",
+    "domain": "buckprop.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Buckingham Properties offers real estate development and property management to its customers",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/916213fda521f40e36664af053fdec71.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynvja3byb3auy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-09 05:00:00.000000",
+    "disclosedDate": "2024-04-19 09:23:30.515798"
+  }
+}

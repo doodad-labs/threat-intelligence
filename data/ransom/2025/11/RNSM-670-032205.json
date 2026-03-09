@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-032205",
+  "type": "ransomware-incident",
+  "title": "Pinto Coates Kyre & Bowers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pinto Coates Kyre & Bowers",
+    "domain": "pckb-law.com",
+    "country": "AU"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pinto Coates Kyre & Bowers is a civil litigation law firm based in Greensboro, NC, specializing in defending individuals and corporations as well as representing claimants in diverse legal matters. Due to its easily accessible security, the company was compromised and published publicly! The company and its clients lost a significant amount of confidential information and data!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fa7405289463fbca14c936bd93790e60.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugludg8gq29hdgvziet5cmugjibcb3dlcnnaaw50zxjsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-03 15:56:15.684720",
+    "disclosedDate": "2025-11-03 15:56:30.035938"
+  }
+}

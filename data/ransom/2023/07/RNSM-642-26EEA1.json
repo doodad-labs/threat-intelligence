@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-642-26EEA1",
+  "type": "ransomware-incident",
+  "title": "unipilotoeduco ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "unipilotoeduco",
+    "domain": "unipiloto.edu.co",
+    "country": "CO",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "Over 300 gigabytes of data Data of students, teachers, administrators and much more....",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b32a455cb8da3ee7ce82388e01ebfb0c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dw5pcglsb3rvzwr1y29aywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-10-24 16:40:03.000000",
+    "disclosedDate": "2023-07-26 16:38:18.249457"
+  }
+}

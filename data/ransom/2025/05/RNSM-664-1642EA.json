@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-1642EA",
+  "type": "ransomware-incident",
+  "title": "gmb.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gmb.com",
+    "domain": "gmb.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 25.05.2025.GMB Architecture + Engineering is a full-service architecture and engineering firm of approximately 90 professionals,with offices in Holland, Michigan; Grand Rapids, Michig            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ef591ba171fa0ed602ba17b8920b557.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z21ilmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-16 00:00:00.000000",
+    "disclosedDate": "2025-05-16 22:18:24.481677"
+  }
+}

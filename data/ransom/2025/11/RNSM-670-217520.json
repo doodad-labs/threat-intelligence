@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-217520",
+  "type": "ransomware-incident",
+  "title": "BELFUSE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BELFUSE.COM",
+    "domain": "belfuse.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Bel Fuse Inc. is a leading global manufacturer of products that power, protect and connect electronic circuits. Founded in 1949, the company offers an array of products including magnetic solutions, power transformers, circuit protection connectors, and power conversion products. These products are used in industries such as computing, telecommunication, automotive and aerospace. Bel Fuse operates from numerous locations across America, Europe, and Asia.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/732971aac693efaee3371cba6ae771c1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkvmrlvtrs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 12:47:57.834722",
+    "disclosedDate": "2025-11-21 12:48:13.964416"
+  }
+}

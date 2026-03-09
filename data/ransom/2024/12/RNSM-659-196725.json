@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-196725",
+  "type": "ransomware-incident",
+  "title": "agti.eng.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "agti.eng.br",
+    "domain": "agti.eng.br",
+    "country": "BR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] AGTI Engenharia is a Brazilian company specializing in engineering solutions. They focus on providing innovative and efficient services in the fields of project management, construction, and infrastructure development. Known for their expertise and commitment to quality, AGTI Engenharia serves various industries by delivering tailored solutions that meet clients' specific needs and regulatory standards.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/885a92e76b10bfc663fc1da03354d2c0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywd0as5lbmcuynjaznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-19 09:22:18.211743",
+    "disclosedDate": "2024-12-19 09:22:20.559159"
+  }
+}

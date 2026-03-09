@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-24F5DE",
+  "type": "ransomware-incident",
+  "title": "goforcloud.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "goforcloud.com",
+    "domain": "goforcloud.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "At Go For Cloud, you can count on a no-nonsense IT consulting team specialising in cloud solutions and flexible digital workplaces. We help you define your IT strategy and look for solutions that perfectly match your business needs. Our consultants w...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6dd9f1fbf9b265f741c0fc40c8323ed6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z29mb3jjbg91zc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-24 21:29:00.000000",
+    "disclosedDate": "2023-04-24 22:46:49.345349"
+  }
+}

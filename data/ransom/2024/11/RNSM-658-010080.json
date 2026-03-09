@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-658-010080",
+  "type": "ransomware-incident",
+  "title": "MCNA Dental ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MCNA Dental",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "More than 1 million personal EMR’s https://gofile.io/d/yeIPm4 https://www.mcna.net/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/72e3bbd47bbc2663903b788f9bc80a14.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tunoqsbezw50ywxazxzlcmvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-01 00:56:32.084282",
+    "disclosedDate": "2024-11-01 00:56:32.956080"
+  }
+}

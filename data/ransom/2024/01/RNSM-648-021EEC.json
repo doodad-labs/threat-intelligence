@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-648-021EEC",
+  "type": "ransomware-incident",
+  "title": "MPM Medical Supply ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MPM Medical Supply",
+    "domain": "mpmmedicalsupply.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ciphbit",
+    "name": "ciphbit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MPM Medical Supply is a state of the art medical distributor. Recognized for Superior service, low prices and innovative value-added solutions – MPM Medical Supply is dedicated to helping our customers practice high-quality healthcare. From hospitals and surgery centers to physician offices we are dedicated to serving your needs. As the healthcare industry is faced with the challenges of having to do more with less – we are committed to helping you reduce costs without sacrificing the quality of care. Our relationships with Industry leading healthcare manufacturers are an important part of our success. We only partner with manufacturers who have the knowledge and expertise to provide you with the quality products, superior service and innovative solutions you deserve. At MPM Medical Supply, we are dedicated to helping our customers manage cost and practice high-quality healthcare without cutting care. We do this through superior service, low prices, and innovative value added solutions. We're a trusted medical distributor serving hospitals, surgery centers and physician offices for 20+ years.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tvbnie1lzgljywwgu3vwcgx5qgnpcghiaxq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-02 01:08:45.513918",
+    "disclosedDate": "2024-01-02 01:08:45.513941"
+  }
+}

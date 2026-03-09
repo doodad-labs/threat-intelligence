@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-034D22",
+  "type": "ransomware-incident",
+  "title": "Mutuelle LMP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mutuelle LMP",
+    "domain": "lmp.fr",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mutuelle LMP is a French company operating in the field of insurance. The company employs 51-100 people, and the revenue is from 10 to 25 million dollars. The company was founded more than 167 years ago, and provides insurance protection of more than 45,000 people.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1d38ff110f50e64b60ddc24f518ae034.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txv0dwvsbgugte1qqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-03 03:51:24.12345",
+    "disclosedDate": "2023-07-03 05:02:27.129929"
+  }
+}

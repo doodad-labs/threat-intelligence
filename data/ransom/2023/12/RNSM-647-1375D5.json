@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-1375D5",
+  "type": "ransomware-incident",
+  "title": "Baden ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Baden",
+    "domain": "baden.ch",
+    "country": "CH",
+    "sector": ""
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All levels of education through to the end of secondary school (higher education entrance qualification) can be completed in Baden. The city also boasts ultra-m...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfkzw5azhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bluewin.ch/de/newsregional/nord/dutzende-anfragen-bei-meldestelle-nach-cyberangriff-auf-stadt-baden-2105435.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-13 00:00:00.000000",
+    "disclosedDate": "2023-12-13 23:13:07.852407"
+  }
+}

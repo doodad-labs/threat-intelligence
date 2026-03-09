@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-22E1C4",
+  "type": "ransomware-incident",
+  "title": "www.wyongleagues.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.wyongleagues.com.au",
+    "domain": "wyongleagues.com.au",
+    "country": "AU",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wyong Rugby League Club, Australia is a network of 12 organizations, each offering entertainment, recreational and dining opportunities and promoting membership of their club. It is the membership card that opens up a full range of entertainm            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/668296e4a01160b9237ccb7697c5ed4d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnd5b25nbgvhz3vlcy5jb20uyxvacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-12 00:00:00.000000",
+    "disclosedDate": "2025-08-22 06:37:53.446046"
+  }
+}

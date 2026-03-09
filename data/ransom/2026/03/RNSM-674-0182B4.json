@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-0182B4",
+  "type": "ransomware-incident",
+  "title": "omaxauto.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "omaxauto.com",
+    "domain": "omaxauto.com",
+    "country": "IN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "OMAX Autos Limited is a leading manufacturer of sheet metal components, specializing in commercial v...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/527e5ee5eea61eafc0c83898e293aeb2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b21hegf1dg8uy29tqgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-23 17:35:00.000000",
+    "disclosedDate": "2026-03-01 13:58:24.510918"
+  }
+}

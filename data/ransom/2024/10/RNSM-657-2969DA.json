@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-657-2969DA",
+  "type": "ransomware-incident",
+  "title": "www.baymark.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.baymark.com",
+    "domain": "baymark.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[IA generated] BayMark Health Services is a leading provider specializing in the treatment of opioid addiction and related conditions. They offer medication-assisted treatment programs, incorporating medications like methadone and buprenorphine, alongside counseling and support services. With numerous facilities across North America, BayMark is dedicated to helping individuals achieve recovery and improve their quality of life.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2253fc1c1952b2984ea6685c6c41f7b9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmjhew1hcmsuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/largest-us-addiction-treatment-provider-notifies-patients-of-data-breach/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-29 00:00:00.000000",
+    "disclosedDate": "2024-10-29 21:22:31.673610"
+  }
+}

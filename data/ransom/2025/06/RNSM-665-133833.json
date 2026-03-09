@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-665-133833",
+  "type": "ransomware-incident",
+  "title": "Central Point School District 6 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Central Point School District 6",
+    "domain": "district6.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Central Point School District 6 is a school district in Oregon that operates schools in the communities of Central Point, Gold Hill, and Sams Valley. There are 11 schools and 4,861 students in Central Point School District 6. Central Point School District 6 spends $11,800 per student each year. Its annual revenue is $66,555,000.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a872b89bebb9349f5251d1d3cba6b457.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2vudhjhbcbqb2ludcbty2hvb2wgrglzdhjpy3qgnkbpbnrlcmxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.kdrv.com/news/top-stories/cybersecurity-incident-at-central-point-school-district-6/article_857faedb-42c6-4a1d-b0c6-46d63913e9a3.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-13 19:18:19.337815",
+    "disclosedDate": "2025-06-13 19:18:44.902735"
+  }
+}

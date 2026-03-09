@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-0240DD",
+  "type": "ransomware-incident",
+  "title": "confluxhr.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "confluxhr.com",
+    "domain": "confluxhr.com",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Conflux HR, your all-in-one HR partner, empowers businesses by automating routine HR tasks, ensuring compliance, engaging employees, and delivering valuable data insights.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2df3c7b75b6969d2e7cf162d2be8345a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29uzmx1eghylmnvbubkyxjrdmf1bhq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-02 00:00:00.000000",
+    "disclosedDate": "2025-01-02 20:03:44.917783"
+  }
+}

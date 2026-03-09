@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-128727",
+  "type": "ransomware-incident",
+  "title": "Hernando County ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hernando County",
+    "domain": "hernandocounty.us",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hernando County",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvybmfuzg8gq291bnr5qhjoexnpzge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.hernandosun.com/2024/04/04/countys-it-outage-is-under-active-investigation/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-12 06:01:34.403142",
+    "disclosedDate": "2024-04-12 06:01:34.403167"
+  }
+}

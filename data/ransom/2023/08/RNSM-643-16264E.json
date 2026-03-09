@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-16264E",
+  "type": "ransomware-incident",
+  "title": "CVO Antwerpen ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CVO Antwerpen",
+    "domain": "cvoantwerpen.be",
+    "country": "BE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "metaencryptor",
+    "name": "metaencryptor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Education for adults.Revenue: $72M",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/387a3715c929ec9ead331a53c005a8b6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1zpiefudhdlcnblbkbtzxrhzw5jcnlwdg9y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-16 20:50:51.162102",
+    "disclosedDate": "2023-08-16 20:50:51.162124"
+  }
+}

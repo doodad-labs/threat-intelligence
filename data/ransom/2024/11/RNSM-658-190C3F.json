@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-658-190C3F",
+  "type": "ransomware-incident",
+  "title": "threadfxinc/bluedogmerch ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "threadfxinc/bluedogmerch",
+    "domain": "threadfxinc.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 70000000000,
+    "description": "ZIP-70GB - Revenue $10.7 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghyzwfkznhpbmmvymx1zwrvz21lcmnoqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-18 00:00:00.000000",
+    "disclosedDate": "2024-11-19 22:19:48.726640"
+  }
+}

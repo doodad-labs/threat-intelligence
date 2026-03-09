@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-07479F",
+  "type": "ransomware-incident",
+  "title": "realcomp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "realcomp.com",
+    "domain": "realcomp.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Realcomp II Ltd. is proud to be Michigan’s largest Multiple Listing Service delivering cutting-edge, real-time MLS data services, support, & training to the real estate industry.Our Mission Statement:Driven by integrity, Realcomp delivers great...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/598d5c7142bca380de7a1627462ba4f5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmvhbgnvbxauy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-07 04:16:00.000000",
+    "disclosedDate": "2023-06-07 04:53:14.885375"
+  }
+}

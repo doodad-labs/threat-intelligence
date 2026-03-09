@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-218D36",
+  "type": "ransomware-incident",
+  "title": "Burns Industrial Equipment ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Burns Industrial Equipment",
+    "domain": "burnslift.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "meow",
+    "name": "meow",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Burns Industrial Equipment is a leading provider of material handling solutions, offering a wide range of forklifts, industrial vehicles, and warehouse equipment. They specialize in sales, rentals, parts, and service for various brands. With a strong focus on customer satisfaction and tailored solutions, Burns Industrial Equipment supports businesses in optimizing their material handling operations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e6cf773fce7c4a4517f4eaa6197bfceb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnvybnmgsw5kdxn0cmlhbcbfcxvpcg1lbnrabwvvdw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-21 11:50:54.001603",
+    "disclosedDate": "2024-08-21 11:50:56.610544"
+  }
+}

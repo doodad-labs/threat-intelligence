@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-020B15",
+  "type": "ransomware-incident",
+  "title": "cc-gorgesardeche.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cc-gorgesardeche.fr",
+    "domain": "cc-gorgesardeche.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Communauté de communes des Gorges de l'Ardèche",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/474a98a87d50e70f920da6e922ccadad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2mtz29yz2vzyxjkzwnozs5mckbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-02 09:29:00.000000",
+    "disclosedDate": "2023-09-02 09:59:20.336052"
+  }
+}

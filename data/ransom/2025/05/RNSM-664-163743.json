@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-163743",
+  "type": "ransomware-incident",
+  "title": "ATD-American ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ATD-American",
+    "domain": "atd-american.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ATD-American is a Pennsylvania-based company that serves customers globally by supplying them with office, school, and institutional furniture. Their wide product range includes desks, chairs, and cubicles for offices; classroom and dormitory furniture for schools; and beds, lockers for healthcare facilities and correctional institutions. It also offers customized solutions to suit specific needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4d7358d3c7bd5f84bee99f6e04bd73b3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvreluftzxjpy2fuqgjsywnrbg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 21:06:51.228081",
+    "disclosedDate": "2025-05-16 13:49:03.268410"
+  }
+}

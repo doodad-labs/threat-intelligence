@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-653-0321D1",
+  "type": "ransomware-incident",
+  "title": "My City application ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "My City application",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "handala",
+    "name": "handala",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Did you receive Handala’s message (https://www.israelhayom.co.il/tech/tech-news/article/15843626) on Saturday? We follow your internal events more than you, and we always had and will have our influence… We just don’t see the need to publish a report of all our actions. Handala’s hand in many events of the occupied territories is still hidden! Our meaning was clear…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c6518a9ff6234185239165d5721a2aa7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txkgq2l0esbhchbsawnhdglvbkboyw5kywxh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-03 08:33:27.000000",
+    "disclosedDate": "2024-06-03 10:38:40.107352"
+  }
+}

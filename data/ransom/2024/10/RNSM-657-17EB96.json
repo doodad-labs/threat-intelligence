@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-17EB96",
+  "type": "ransomware-incident",
+  "title": "www.icp.pr.gov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.icp.pr.gov",
+    "domain": "pr.gov",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The website \"www.icp.pr.gov\" belongs to the Instituto de Cultura Puertorriqueña (ICP), an organization dedicated to preserving, promoting, and developing Puerto Rican culture. The ICP manages cultural programs, supports the arts, and oversees historical preservation. It plays a key role in fostering cultural awareness and education across Puerto Rico, ensuring the rich heritage of the island is celebrated and maintained.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ada3b97d7c169228c08f9de871be340e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmljcc5wci5nb3zacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-30 00:00:00.000000",
+    "disclosedDate": "2024-10-17 21:17:30.504026"
+  }
+}

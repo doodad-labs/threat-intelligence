@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-2137BB",
+  "type": "ransomware-incident",
+  "title": "cityofallenpark.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cityofallenpark.org",
+    "domain": "cityofallenpark.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "first part of data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2l0ew9mywxszw5wyxjrlm9yz0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-21 10:34:00.000000",
+    "disclosedDate": "2023-03-21 11:09:44.653426"
+  }
+}

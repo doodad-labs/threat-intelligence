@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-276929",
+  "type": "ransomware-incident",
+  "title": "OUTERSTUFF.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "OUTERSTUFF.COM",
+    "domain": "outerstuff.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Outerstuff.com is a renowned provider of youth sports apparel. They collaborate with major sports leagues, including the NFL, NBA, MLB, and others to create and distribute high-quality, licensed children's clothing. Their offerings range from jerseys to sweatshirts, hats, and more. They are a trusted name in kids sports fashion, ensuring young fans can support their favorite teams in style.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t1vurvjtvfvgri5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:58:51.373349",
+    "disclosedDate": "2025-02-27 16:58:56.838783"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-252348",
+  "type": "ransomware-incident",
+  "title": "ossc.com.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ossc.com.mx",
+    "domain": "ossc.com.mx",
+    "country": "MX"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Greetings!  Today we are posting here the new company, \"OSSC Mexico\".  Company Description: In 2008, OSSC was created with a base of experts who already had more than ten years of experience in developing GIRO payroll software.  Headquarters:...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c1352a0614deb4d527c4044f5b754cfe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b3nzyy5jb20ubxhabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-19 00:00:00.000000",
+    "disclosedDate": "2025-03-25 14:07:00.394025"
+  }
+}

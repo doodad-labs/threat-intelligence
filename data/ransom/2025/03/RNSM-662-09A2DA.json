@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-09A2DA",
+  "type": "ransomware-incident",
+  "title": "wog-kaiserbaeder.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wog-kaiserbaeder.de",
+    "domain": "wog-kaiserbaeder.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wohnungsgesellschaft Kaiserbder Gemeinde Ostseebad Heringsdorf Verwaltungs - GmbH is a company that operates in the Fitness & Dance Facilities industry. It employs 50to99 people and has 10Mto25M of revenue. The company is headquartered in Heringsdorf, Mecklenburg-Vorpommern, Germany.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1fce37ff12002eeac71a35323fe83e8e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d29nlwthaxnlcmjhzwrlci5kzubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-13 00:00:00.000000",
+    "disclosedDate": "2025-03-09 19:32:28.537169"
+  }
+}

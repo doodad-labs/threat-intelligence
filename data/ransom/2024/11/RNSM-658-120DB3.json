@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-120DB3",
+  "type": "ransomware-incident",
+  "title": "steppingstonesd.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "steppingstonesd.org",
+    "domain": "steppingstonesd.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Stepping Stones is a non-profit organization focused on providing educational and therapeutic services to individuals with developmental disabilities. It offers a range of programs aimed at enhancing the quality of life and fostering independence for children and adults. The organization emphasizes personalized care, community integration, and skill development to support its members and their families.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2d61b4d015cc0d62611c6988fd591e49.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rlchbpbmdzdg9uzxnklm9yz0bibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-07 00:00:00.000000",
+    "disclosedDate": "2024-11-12 16:54:57.350738"
+  }
+}

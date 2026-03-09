@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-294440",
+  "type": "ransomware-incident",
+  "title": "Philip Laney & Jolly ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Philip Laney & Jolly",
+    "domain": "plandj.co.uk",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 391000000000,
+    "description": "Philip Laney & Jolly (founded in 1966) real estate agency, including lease and management services. Philip Laney & Jolly corporate office is located in 23 Worcester, RoadGreat Malvern, Worcestershire, WR14 4QY, UK The total amount of data leakage is 391.00 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ughpbglwiexhbmv5icygsm9sbhlabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-29 08:49:34.165626",
+    "disclosedDate": "2025-01-29 08:49:43.084222"
+  }
+}

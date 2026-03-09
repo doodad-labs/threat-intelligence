@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-13FE93",
+  "type": "ransomware-incident",
+  "title": "sabena-engineering.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sabena-engineering.com",
+    "domain": "sabena-engineering.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sabena Engineering is your reference for Maintenance, Repair, Overhaul & Upgrades. We support airlines and air forces around the globe. With our experienced engineers, technicians and mechanics, your fleet is in safe hands. We will attach proofs of...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/985a7b1861e0aaac2f4f37846dbd5ca8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2fizw5hlwvuz2luzwvyaw5nlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-13 21:55:00.000000",
+    "disclosedDate": "2023-03-13 23:05:10.766682"
+  }
+}

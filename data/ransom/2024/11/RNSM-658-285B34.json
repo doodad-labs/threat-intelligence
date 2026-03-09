@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-658-285B34",
+  "type": "ransomware-incident",
+  "title": "WPM Pathology Laboratory (wpmpath.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WPM Pathology Laboratory (wpmpath.com)",
+    "domain": "wpmpath.com",
+    "country": "AU",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000,
+    "description": "3 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d3e90c09365e70251d3847d416f2b0d4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v1bnifbhdghvbg9nesbmywjvcmf0b3j5ich3cg1wyxrolmnvbslazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-28 00:00:00.000000",
+    "disclosedDate": "2024-11-28 11:02:22.039773"
+  }
+}

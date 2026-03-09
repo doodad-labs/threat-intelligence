@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-1022B8",
+  "type": "ransomware-incident",
+  "title": "dana-co.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dana-co.com",
+    "domain": "dana-co.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Dana-co is a leading fashion company specializing in lingerie. Founded in 2001, they offer a broad spectrum of stylish and comfortable intimate apparel. Their collections include products designed with specific fits for targeted consumer groups. Dana-co prides itself on its innovative design, quality products, and impactful selling strategies. Their iconic brands include Natori and' N Natori.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgfuys1jby5jb21ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 20:08:49.308975",
+    "disclosedDate": "2025-02-10 20:08:55.838078"
+  }
+}

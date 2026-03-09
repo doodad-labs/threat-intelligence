@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-18BF22",
+  "type": "ransomware-incident",
+  "title": "waive.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "waive.com.au",
+    "domain": "waive.com.au",
+    "country": "AU",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Waive.com.au is an Australian company focused on providing innovative mobility solutions. It specializes in electric vehicle (EV) sharing and rental services, promoting sustainable transportation by offering eco-friendly alternatives to traditional car ownership. Their platform allows users to easily access and book electric vehicles, contributing to reduced carbon emissions and a greener urban environment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2073d4b363656eba33983d843cbd7cab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2fpdmuuy29tlmf1qhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-18 11:41:56.000000",
+    "disclosedDate": "2024-11-18 17:55:48.443648"
+  }
+}

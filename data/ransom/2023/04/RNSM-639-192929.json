@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-192929",
+  "type": "ransomware-incident",
+  "title": "crossinggroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "crossinggroup.com",
+    "domain": "crossinggroup.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Crossing Group is one of the largest trenchless construction companies in North America. We specialize in providing the energy, municipal, civil and utility sectors with the integrated, full-service offering of solutions required to overcome the...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7dd8752153685b61e95c9ed4b5f7d9b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3jvc3npbmdncm91cc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-19 13:14:00.000000",
+    "disclosedDate": "2023-04-19 13:45:41.703201"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-3001FE",
+  "type": "ransomware-incident",
+  "title": "Petraville Asset Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Petraville Asset Management",
+    "domain": "gabia.io",
+    "country": "HK",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Petraville Asset Management, KoreanLeak3 - a direct path to investment loss. Company was founded in Seoul, Korea, in 2022. The company is young but growing rapidly. Last year, they acquired a logistics center in Ichon (Gyeonggi Province). The            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3b0136db8032e045d0e4fcd16c5b85ac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugv0cmf2awxszsbbc3nldcbnyw5hz2vtzw50qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-07 00:00:00.000000",
+    "disclosedDate": "2025-09-30 17:16:53.066745"
+  }
+}

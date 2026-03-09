@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-073017",
+  "type": "ransomware-incident",
+  "title": "Neway Valve ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Neway Valve",
+    "domain": "newayvalve.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Neway Valve is a global company based in China, specializing in the research, development, and manufacturing of industrial valve products. Their product portfolio includes gate, globe, check, ball, and butterfly valves. These products are used in various industries like oil and gas, chemical, power, and metallurgy. Neway Valve is recognized for its quality, innovation, and service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2e7f6f792e1f55337c118d017d0e5e8f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv3yxkgvmfsdmvad29ybgrszwfrcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-10 00:00:00.000000",
+    "disclosedDate": "2025-08-07 15:21:52.924807"
+  }
+}

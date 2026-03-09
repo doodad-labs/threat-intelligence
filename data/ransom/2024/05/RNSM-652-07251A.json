@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-652-07251A",
+  "type": "ransomware-incident",
+  "title": "Young Consulting ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Young Consulting",
+    "domain": "youngconsulting.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Young Consulting is the market leader in providing software solutions to the employer stop loss marketplace.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3c6875f734a6ad3af0a60018a5d62409.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ww91bmcgq29uc3vsdgluz0bibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/blacksuit-ransomware-stole-data-of-950-000-from-software-vendor/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-07 01:59:07.589121",
+    "disclosedDate": "2024-05-07 01:59:07.589144"
+  }
+}

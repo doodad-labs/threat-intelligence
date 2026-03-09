@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-183B29",
+  "type": "ransomware-incident",
+  "title": "Circle K Atlanta ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Circle K Atlanta",
+    "domain": "circlekatl.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c56c8c525d1d442315035545ec733614.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2lyy2xliesgqxrsyw50yubodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-18 23:00:03.000000",
+    "disclosedDate": "2024-06-18 23:43:11.497302"
+  }
+}

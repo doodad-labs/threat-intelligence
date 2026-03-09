@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-27346C",
+  "type": "ransomware-incident",
+  "title": "Ventana Micro Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ventana Micro Systems",
+    "domain": "ventanamicro.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "raworld",
+    "name": "raworld",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Ventana Micro Systems is a technology company specializing in the development of high-performance RISC-V processors. The company focuses on delivering scalable and efficient computing solutions for data centers and edge computing applications. By leveraging the open RISC-V architecture, Ventana aims to provide innovative, customizable processors that balance performance, power efficiency, and flexibility.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fb13fd3e7ce5bde53a5052c70f1ea33c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmvudgfuysbnawnybybtexn0zw1zqhjhd29ybgq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 21:04:00.391851",
+    "disclosedDate": "2024-11-27 21:04:02.730135"
+  }
+}

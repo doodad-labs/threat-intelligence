@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-151DD7",
+  "type": "ransomware-incident",
+  "title": "Wealth Depot LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wealth Depot LLC",
+    "domain": "wealthdepot.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Company has the last 24 hours to contact us using the instructions left.In case of silence, all data will be publishedTotal amount of stolen data : 450 GBhttps://wealthdepot.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5c7ca76b5333938c69f36b0b5a240002.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vhbhroierlcg90iexmq0bldmvyzxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-15 02:36:12.728752",
+    "disclosedDate": "2024-05-15 02:36:12.728794"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-17A061",
+  "type": "ransomware-incident",
+  "title": "goodhopeholdings.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "goodhopeholdings.com",
+    "domain": "goodhopeholdings.com",
+    "country": "MY",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Goodhope is an established oil palm plantations operator and has in the recent past ventured further into its chosen value chain by acquiring an established edible oils and fats group of companies based in Malaysia and India. Today, Goodhope has a la...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c5e4e9d5547e184ab17d9a8c4015e3da.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z29vzghvcgvob2xkaw5ncy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-17 07:49:00.000000",
+    "disclosedDate": "2023-11-17 08:12:55.950231"
+  }
+}

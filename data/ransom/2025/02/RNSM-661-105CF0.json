@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-105CF0",
+  "type": "ransomware-incident",
+  "title": "covectra.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "covectra.com",
+    "domain": "covectra.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Covectra is a company that specializes in advanced authentication, serialization, and track & trace technologies. They offer solutions designed to counteract counterfeit and illicit trade activities, ensuring product integrity in sectors like pharmaceuticals, food & beverage, agrochemicals, and luxury goods. Covectra's technology is designed with regulatory compliance in mind, helping organizations meet global security and safety requirements.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y292zwn0cmeuy29tqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:54:32.347810",
+    "disclosedDate": "2025-02-10 19:54:38.552487"
+  }
+}

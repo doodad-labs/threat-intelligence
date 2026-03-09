@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-0327EE",
+  "type": "ransomware-incident",
+  "title": "5Design ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "5Design",
+    "domain": "5design.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "5Desing is a Californian design company that lost to our side lots of personal and corporate financial information, personal docs, many contracts, NDAs and similar documentation.We suppose you can find much interesting inside. Check it out!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2ba4a3bb37ebc20334ffb1d8c59982af.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/nurlc2lnbkbyb3lhba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-30 01:02:03.456789",
+    "disclosedDate": "2023-04-03 05:14:07.433410"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19B24E",
+  "type": "ransomware-incident",
+  "title": "bakermech.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bakermech.com",
+    "domain": "bakermech.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Baker Mechanical Inc. is a family-oriented company that prides itself on ensuring unsurpassed customer satisfaction.Centrally located in eastern North Carolina, BMI can handle any size mechanical project in the region. BMI is dedicated to preserving...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/edf73ccfdb43c903304b1bb4910d003a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymfrzxjtzwnolmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-21 10:45:00.000000",
+    "disclosedDate": "2024-04-19 10:51:40.059380"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-01AFD5",
+  "type": "ransomware-incident",
+  "title": "warrendale-wagyu.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "warrendale-wagyu.co.uk",
+    "domain": "warrendale-wagyu.co.uk",
+    "country": "GB",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Established in 2017, we are a Yorkshire based Wagyu Beef Business, currently working in partnership with over 800 farmer partners across the UK. We work with forward-thinking dairy farmers, to cross full blood Wagyu genetics to produce a Wagyu Cross, known as an F1 Wagyu.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/012b29d4497fb380080407838c79048a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2fycmvuzgfszs13ywd5ds5jby51a0bkyxjrdmf1bhq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-01 00:00:00.000000",
+    "disclosedDate": "2024-08-01 22:44:08.365249"
+  }
+}

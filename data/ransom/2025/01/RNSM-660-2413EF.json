@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-2413EF",
+  "type": "ransomware-incident",
+  "title": "WHITMOR.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WHITMOR.COM",
+    "domain": "whitmor.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Whitmor.com is an online platform that offers a wide range of storage, organization, and laundry care products. The company is known for providing simple, smart, stylish, and functional solutions to home organization challenges. Their diversified product portfolio includes items like garment racks, hangers, cubes, shelves, baskets, and laundry sorters. The company prides itself on high-quality products and exceptional customer service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0hjve1pui5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 17:30:16.458822",
+    "disclosedDate": "2025-01-24 17:30:16.458822"
+  }
+}

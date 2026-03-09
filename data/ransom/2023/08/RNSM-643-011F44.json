@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-643-011F44",
+  "type": "ransomware-incident",
+  "title": "Parathon by JDA eHealth Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Parathon by JDA eHealth Systems",
+    "domain": "jda.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 560000000000,
+    "description": "Parathon is a full-scale healthcare Revenue Cycle Management dataintegrator. We're almost ready to share the  560GB of data we'vetaken from their network . Contracts, employee personal information, and confidential documents will be posted shortly.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfyyxrob24gynkgskrbigvizwfsdgggu3lzdgvtc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-01 01:02:03.456789",
+    "disclosedDate": "2023-08-01 17:58:15.979672"
+  }
+}

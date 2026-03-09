@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-233844",
+  "type": "ransomware-incident",
+  "title": "iledefrance-nature.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "iledefrance-nature.fr",
+    "domain": "iledefrance-nature.fr",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dans le cadre de la création d’Île-de-France nature, le site internet est en cours de maintenance. Nous veillons à mettre à jour, dans les meilleurs délais, l’ensemble de ses contenus et vous remercions de votre compréhension",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3dffd56d17dc85452ccb3dfba7a1a155.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awxlzgvmcmfuy2utbmf0dxjllmzyqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-23 21:29:00.000000",
+    "disclosedDate": "2023-08-23 22:03:39.883100"
+  }
+}

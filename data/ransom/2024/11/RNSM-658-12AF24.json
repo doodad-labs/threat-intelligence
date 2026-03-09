@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-12AF24",
+  "type": "ransomware-incident",
+  "title": "Banco de Fomento Internacional ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Banco de Fomento Internacional",
+    "domain": "bfibank.com",
+    "country": "VE",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Finance Organization.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d7950fca6479b934d2ed140c36f9b092.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfuy28gzgugrm9tzw50bybjbnrlcm5hy2lvbmfsqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-06 02:22:16.598000",
+    "disclosedDate": "2024-11-12 01:57:13.968753"
+  }
+}

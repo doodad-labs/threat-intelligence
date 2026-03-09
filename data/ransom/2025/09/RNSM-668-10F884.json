@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-10F884",
+  "type": "ransomware-incident",
+  "title": "Accelerated Academy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Accelerated Academy",
+    "domain": "acceleratedacademy.us",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/da67bdaf1a4d65fa9eb8e641fb377866.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnjzwxlcmf0zwqgqwnhzgvteubrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-10 14:15:32.484219",
+    "disclosedDate": "2025-09-10 14:16:10.658539"
+  }
+}

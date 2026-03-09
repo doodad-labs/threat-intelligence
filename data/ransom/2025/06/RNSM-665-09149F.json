@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-09149F",
+  "type": "ransomware-incident",
+  "title": "dugoni ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dugoni",
+    "domain": "dugoni.com",
+    "country": "IT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dugoni is a company that operates in the Facilities Management & Commercial Cleaning industry. It employs 20to49 people and has 1Mto5M of revenue. The company is headquartered in Mantova, Lombardy, Italy.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b87ca528016287ddef0ea6e5bb2395db.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zhvnb25pqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-08 00:00:00.000000",
+    "disclosedDate": "2025-06-09 15:09:08.129667"
+  }
+}

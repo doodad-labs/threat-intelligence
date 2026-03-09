@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-664-16291E",
+  "type": "ransomware-incident",
+  "title": "diyar.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "diyar.com",
+    "domain": "diyar.com",
+    "country": "SA"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.diyar.com - Architecture, Engineering & Design",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/23fd75455424987852ea5d27d42520ec.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgl5yxiuy29tqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-16 22:53:06.176000",
+    "disclosedDate": "2025-05-16 23:04:08.271420"
+  }
+}

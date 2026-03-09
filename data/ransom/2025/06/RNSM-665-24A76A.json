@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-24A76A",
+  "type": "ransomware-incident",
+  "title": "Seppeler Gruppe ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Seppeler Gruppe",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 11000000000,
+    "description": "Die Seppeler Gruppe is a group of internationally producing service companies..We are going to upload another 11 GB of corporate data. You will find employee personal information (DOB, address, identification numbers and so on), financial data, payment details, project dataand so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vwcgvszxigr3j1chblqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-24 00:00:00.000000",
+    "disclosedDate": "2025-06-24 11:41:01.487027"
+  }
+}

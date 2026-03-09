@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-660-057371",
+  "type": "ransomware-incident",
+  "title": "bayan-ulgii.cfga.gov.mn ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bayan-ulgii.cfga.gov.mn",
+    "domain": "cfga.gov.mn",
+    "country": "MN",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Bayan-Ulgii\" appears to refer to Bayan-Ölgii, a province in western Mongolia known for its Kazakh culture and traditions. The \".cfga.gov.mn\" domain suggests an affiliation with a Mongolian government agency, possibly related to agriculture or regional governance. This entity likely focuses on administrative, agricultural, or cultural affairs within Bayan-Ölgii, supporting local development and community initiatives.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymf5yw4tdwxnawkuy2znys5nb3yubw5aznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-05 02:28:19.840621",
+    "disclosedDate": "2025-01-05 02:28:21.836484"
+  }
+}

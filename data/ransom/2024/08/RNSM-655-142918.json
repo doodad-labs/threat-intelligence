@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-142918",
+  "type": "ransomware-incident",
+  "title": "startaxi.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "startaxi.com",
+    "domain": "startaxi.com",
+    "country": "RO",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Star Taxi was designed as a revolutionary solution for the Romanian taxi market.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/de6128e7c6a55515cb376bfaecd1cef6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rhcnrhegkuy29tqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-14 16:06:34.612406",
+    "disclosedDate": "2024-08-14 16:06:35.668679"
+  }
+}

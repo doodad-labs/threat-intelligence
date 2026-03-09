@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-21198C",
+  "type": "ransomware-incident",
+  "title": "Hvb-ingenieure.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hvb-ingenieure.de",
+    "domain": "hvb-ingenieure.de",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cloak",
+    "name": "cloak",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country: germany",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/shzilwluz2vuawv1cmuuzgvay2xvyws=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-21 17:44:45.204783",
+    "disclosedDate": "2024-08-21 17:44:45.702685"
+  }
+}

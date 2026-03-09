@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-179A69",
+  "type": "ransomware-incident",
+  "title": "hsksgreenhalgh.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hsksgreenhalgh.co.uk",
+    "domain": "hsksgreenhalgh.co.uk",
+    "country": "GB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HSKS Greenhalgh Chartered Accountants and Business Advisors.168GBEmployees (NIN numbers, passport scans, ID scans, Employee forms with personal data, residential address, telephone, DOB, tax forms with personal data P60, P45, contracts and much m...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/15092178ddd23b6bd31bf2aeef9de7d1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahnrc2dyzwvuagfsz2guy28udwtabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-17 07:49:00.000000",
+    "disclosedDate": "2023-11-17 08:16:02.484848"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-067FAF",
+  "type": "ransomware-incident",
+  "title": "a-g.com 7/10/24 - data publication 38gb (150K) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "a-g.com 7/10/24 - data publication 38gb (150K)",
+    "domain": "a-g.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blacksuit",
+    "name": "blacksuit",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "You have 4 days to contact us; otherwise the data will be released.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9094078f829b92a5ca83091cc91bca6d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ys1nlmnvbsa3lzewlzi0ic0gzgf0ysbwdwjsawnhdglvbiazogdiicgxntblkubibgfja3n1axq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-09 00:00:00.000000",
+    "disclosedDate": "2024-07-06 08:57:16.245750"
+  }
+}

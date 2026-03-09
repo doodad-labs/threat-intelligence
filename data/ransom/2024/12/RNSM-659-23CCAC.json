@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-23CCAC",
+  "type": "ransomware-incident",
+  "title": "tsebrakes.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tsebrakes.com",
+    "domain": "tsebrakes.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "As a global player in the heavy-duty trucking industry, TSE utilizes an extensive technical support, sales, and distribution network to supply spring brakes for drum and disc brake applications in more than 30 countries worldwide. This global perspec...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/11a4dece2f43ef9c042cf1c6e3df0d5b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhnlynjha2vzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-23 17:33:00.000000",
+    "disclosedDate": "2024-12-23 18:49:38.985625"
+  }
+}

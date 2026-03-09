@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-2483D7",
+  "type": "ransomware-incident",
+  "title": "lcpublishinggroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lcpublishinggroup.com",
+    "domain": "lcpublishinggroup.com",
+    "country": "IT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LC Publishing Group S.p.A. is an international digital publishing and information services company headquartered in Milan, Italy. Founded in 2011, …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d1d502445a9b2d9dc84fdbdbcf385937.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgnwdwjsaxnoaw5nz3jvdxauy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-24 20:20:38.076208",
+    "disclosedDate": "2026-01-24 20:20:51.716589"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-078C06",
+  "type": "ransomware-incident",
+  "title": "Intuitae ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Intuitae",
+    "domain": "intuitae.com",
+    "country": "LU",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Intuitae is one of the preeminent family office firms in Europe with bureaus in Paris, Geneva and Luxembourg. We assist more than 50 families whosefortune is at least 20 million Euros, advising them how to preserve their wealth and pass it on            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw50dwl0ywvacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-16 00:00:00.000000",
+    "disclosedDate": "2024-05-07 22:29:27.499746"
+  }
+}

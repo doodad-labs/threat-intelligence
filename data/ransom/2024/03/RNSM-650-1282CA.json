@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-1282CA",
+  "type": "ransomware-incident",
+  "title": "ATL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ATL",
+    "domain": "atl.com.tn",
+    "country": "TN",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Tunisia - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5e14dbce6a703fe9559d558362932724.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qvrmqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-12 23:00:03.000000",
+    "disclosedDate": "2024-03-12 23:46:07.346647"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-2160EB",
+  "type": "ransomware-incident",
+  "title": "taylorlaw.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "taylorlaw.net",
+    "domain": "taylorlaw.net",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Taylor Law Offices, P.C. was established in 1980 as a general practice law firm and is located in Effingham, Illinois. We have seven attorneys with more than ninety years experience providing legal services to individuals and business clients through...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0f97ece2c94972f91a6dc892cfa0de5b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgf5bg9ybgf3lm5ldebsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-18 13:11:00.000000",
+    "disclosedDate": "2024-04-21 16:05:32.032445"
+  }
+}

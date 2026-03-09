@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-639-178029",
+  "type": "ransomware-incident",
+  "title": "joriszorg.nl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "joriszorg.nl",
+    "domain": "joriszorg.nl",
+    "country": "NL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "100gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/08839f0928621d7a2d8097c9d2b9a32a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/am9yaxn6b3jnlm5sqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-17 13:49:00.000000",
+    "disclosedDate": "2023-04-17 14:47:54.735401"
+  }
+}

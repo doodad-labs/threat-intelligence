@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-24FB05",
+  "type": "ransomware-incident",
+  "title": "Rahnama Law ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rahnama Law",
+    "domain": "rahnamalaw.com",
+    "country": "IR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "frag",
+    "name": "frag",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Legal ServicesProudly protecting the rights of innocent victims since 1996 and recovering over $750,000,000 in damages for clients.Our team was successful in extracting the following documents:Corporate non-disclosure agreementsContact information of clients and employeesEmployee and customer medical documentsThe icing on the cake:Employee and clients social security numbersIdentification cards",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umfobmftysbmyxdaznjhzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-14 00:00:00.000000",
+    "disclosedDate": "2025-03-24 19:23:35.502136"
+  }
+}

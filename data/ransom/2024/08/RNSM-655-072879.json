@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-072879",
+  "type": "ransomware-incident",
+  "title": "HUD User ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HUD User",
+    "domain": "huduser.gov",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "meow",
+    "name": "meow",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fce646003a2b5d61979788119b59114a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sfveifvzzxjabwvvdw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-07 07:30:29.508166",
+    "disclosedDate": "2024-08-07 07:30:30.444887"
+  }
+}

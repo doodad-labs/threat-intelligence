@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-3074B9",
+  "type": "ransomware-incident",
+  "title": "alconca.com.ve ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "alconca.com.ve",
+    "domain": "alconca.com.ve",
+    "country": "VE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Granja Alconca CA is a company that operates in the Animals & Livestock industry. It employs 20to49 people and has 1Mto5M of revenue",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/913b6a91d61559f0a3840982810bb0e7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxjb25jys5jb20udmvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-30 00:00:00.000000",
+    "disclosedDate": "2024-08-30 08:08:25.633778"
+  }
+}

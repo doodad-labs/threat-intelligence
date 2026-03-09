@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-078F0B",
+  "type": "ransomware-incident",
+  "title": "CYTOMX.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CYTOMX.COM",
+    "domain": "cytomx.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home - CytomX",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6b5b5f77da67dc7a4618701966784686.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1lut01ylknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-07 16:23:40.327502",
+    "disclosedDate": "2023-07-07 16:23:40.327536"
+  }
+}

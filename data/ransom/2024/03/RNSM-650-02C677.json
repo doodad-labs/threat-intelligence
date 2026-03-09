@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-02C677",
+  "type": "ransomware-incident",
+  "title": "roehr-stolberg.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "roehr-stolberg.de",
+    "domain": "roehr-stolberg.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Walzblei für Dach & Fassade. Röhr + Stolberg ist Deutschlands führender Hersteller von Walzblei und Bleiwolle für Dächer und Fassaden. Die Produkte zeichnen sich durch extreme Langlebigkeit und Witterungsbeständigkeit aus. Ob klassisches Saturnblei,...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9008fb93d94f20dfa71cb45abbc3ec2a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm9lahitc3rvbgjlcmcuzgvabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-25 00:00:00.000000",
+    "disclosedDate": "2024-03-02 20:58:53.115242"
+  }
+}

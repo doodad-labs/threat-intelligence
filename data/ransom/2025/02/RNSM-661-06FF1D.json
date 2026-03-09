@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-661-06FF1D",
+  "type": "ransomware-incident",
+  "title": "harcoboe.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "harcoboe.net",
+    "domain": "harcoboe.net",
+    "country": "DK",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Harcoboe.net\" is a webmail service provided by Harrison County Board of Education in the United States. This platform enables seamless communication within their education system, primarily used by staff members for professional electronic communication. They offer a secure, efficient and user-friendly email system improving operational efficiency within the Harrison County Schools.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5f29ac14ac7fe06ca51141a3151c02a2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agfyy29ib2uubmv0qhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.harcoboe.net/article/1982412",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-18 00:00:00.000000",
+    "disclosedDate": "2025-02-06 20:07:50.539665"
+  }
+}

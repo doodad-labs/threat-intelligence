@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-2216B5",
+  "type": "ransomware-incident",
+  "title": "Exotherm ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Exotherm",
+    "domain": "exotherm.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "Exotherm Corporation is a leader in the development and manufacture of custom-made heating devices. They produce Uniflux brand convection heaters.We are ready to upload more than 30GB files of essential corporate documents such as: financial data (audit, payment details, invoices), employees and customers information (Social Security Numbers, phones, medical information) confidential information, NDAs and other documents with detailed personal information so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxhvdghlcm1aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-29 00:00:00.000000",
+    "disclosedDate": "2025-08-22 15:11:22.303579"
+  }
+}

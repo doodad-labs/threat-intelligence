@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-013557",
+  "type": "ransomware-incident",
+  "title": "Kingsport Times-News ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kingsport Times-News",
+    "domain": "timesnews.net",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Local News Weather and Sports coverage for Kingsport Tennessee and the Tri-Cities The Kingsport Times News is a daily newspaper serving Northeast Tennessee and Southwest Virginia https://www.timesnews.net/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a8afa829f5486471844800b4b80d0685.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2luz3nwb3j0ifrpbwvzlu5ld3naogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-31 00:00:00.000000",
+    "disclosedDate": "2023-11-01 00:54:09.901305"
+  }
+}

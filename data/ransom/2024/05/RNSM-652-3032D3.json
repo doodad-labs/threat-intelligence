@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-3032D3",
+  "type": "ransomware-incident",
+  "title": "www.indigoent.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.indigoent.ca",
+    "domain": "indigoent.ca",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qiulong",
+    "name": "qiulong",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Indigo ENT Group is a company that operates in the Hospital & Health Care industry.  The company is headquartered in Coquitlam, British Columbia, Canada. Zoominfo: https://www.zoominfo.com/c/indigo-ent-group/448092524 Office Main Phone: 604-941-8474 Email: coquitlam@indigoent.ca Doctors: Dr. Dewji, Dr. Gooi, Dr. Mah In the past few weeks, our group has been operating within the network of Indigo EST, stealing thousands of personal, confidential, and PHI, & PII data of patients. This is the first warning. Samples:",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ad3c2bfa6bc3830bdd8e7c9ef68f2fd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmluzglnb2vudc5jyubxaxvsb25n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-30 20:58:46.000000",
+    "disclosedDate": "2024-05-30 23:42:09.438498"
+  }
+}

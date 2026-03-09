@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-075353",
+  "type": "ransomware-incident",
+  "title": "hennessyfunds.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hennessyfunds.com",
+    "domain": "hennessyfunds.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hennessy Funds offers high-conviction investment strategies that can play a role in nearly every inv...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8bbe4e3c2f5009602e1dae6cfc193e92.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agvubmvzc3lmdw5kcy5jb21abg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-30 00:00:00.000000",
+    "disclosedDate": "2025-12-07 10:27:48.427845"
+  }
+}

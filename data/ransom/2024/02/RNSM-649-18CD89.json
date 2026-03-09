@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-649-18CD89",
+  "type": "ransomware-incident",
+  "title": "carlfischer.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "carlfischer.com",
+    "domain": "carlfischer.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Helping educators and musicians",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/065200af27d427c356d88e4cef5819c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fybgzpc2nozxiuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-25 00:00:00.000000",
+    "disclosedDate": "2024-02-18 22:14:05.054938"
+  }
+}

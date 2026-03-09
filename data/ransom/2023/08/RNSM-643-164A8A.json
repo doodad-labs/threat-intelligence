@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-164A8A",
+  "type": "ransomware-incident",
+  "title": "Municipality of Ferrara ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Municipality of Ferrara",
+    "domain": "comune.fe.it",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Municipality of Ferrara Ferrara is a city and comune in Emilia-Romagna, northern Italy, capital city of the Province of Ferrara.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txvuawnpcgfsaxr5ig9miezlcnjhcmfacmh5c2lkyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.comune.fe.it/b/11822/palazzo-municipale-attacco-hacker-alla-rete-internet-del-comune",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-16 10:06:57.146637",
+    "disclosedDate": "2023-08-16 10:06:57.146659"
+  }
+}

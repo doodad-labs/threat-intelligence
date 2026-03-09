@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-663-23E6BB",
+  "type": "ransomware-incident",
+  "title": "Versa Networks ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Versa Networks",
+    "domain": "versa-networks.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "silent",
+    "name": "silent",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Not claimed yet",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/44c9c43b2b423cc73fb9f360cf5182da.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmvyc2egtmv0d29ya3nac2lszw50",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.lemagit.fr/actualites/366623040/versa-networks-confronte-a-une-cyberattaque",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-23 12:33:16.023880",
+    "disclosedDate": "2025-04-23 12:34:23.504100"
+  }
+}

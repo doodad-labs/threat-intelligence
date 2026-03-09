@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-062A5B",
+  "type": "ransomware-incident",
+  "title": "concretevalue.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "concretevalue.com",
+    "domain": "concretevalue.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CVC Concrete Value Corp is one of the nations largest concrete subcontractors successfully completing over 100,000 jobs serving Northern, Southern and Central California and Nevada. We are currently celebrating our 20th year together as a company....",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/97890dd2f2aa6e06ae31357e89eef024.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29uy3jldgv2ywx1zs5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-06 10:48:00.000000",
+    "disclosedDate": "2023-11-06 11:29:36.919612"
+  }
+}

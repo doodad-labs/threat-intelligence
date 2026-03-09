@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-651-048D97",
+  "type": "ransomware-incident",
+  "title": "Radiant Canada ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Radiant Canada",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 25000000000,
+    "description": "Radiant Canada is the result of integrating 30 years of transportation management expertise with warehousing services experience. 25GB for uploading here. A lot of financial data, personal information of employees, clients info and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umfkawfudcbdyw5hzgfaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-04 16:25:54.426934",
+    "disclosedDate": "2024-04-04 16:25:54.510121"
+  }
+}

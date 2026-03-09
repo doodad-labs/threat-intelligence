@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-641-26D63C",
+  "type": "ransomware-incident",
+  "title": "Chariton Valley ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Chariton Valley",
+    "domain": "cvalley.net",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000000,
+    "description": "Chariton Valley provides state-of-the-art telecommunications services to businesses and residents. Chariton Valley has a leading position in the state and in many other countries, offering a fiber-optic network to the premises of its subscribers. We can say that among our customers, this company is also leading the way. 3 TB of data and DB were taken from their servers. We will upload everything in the next few days.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hhcml0b24gvmfsbgv5qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-26 01:02:03.456789",
+    "disclosedDate": "2023-06-26 18:00:32.509604"
+  }
+}

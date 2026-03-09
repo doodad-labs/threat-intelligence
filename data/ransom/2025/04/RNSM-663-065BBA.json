@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-065BBA",
+  "type": "ransomware-incident",
+  "title": "Texla Energy Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Texla Energy Management",
+    "domain": "texlaenergy.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Texla Energy Management, Inc. is a privately-held energy marketing company based out of Houston, Texas",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/82c35de3881878e141a5fb0ac1ed3d26.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgv4bgegrw5lcmd5ie1hbmfnzw1lbnrazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-04 21:01:07.044956",
+    "disclosedDate": "2025-04-06 22:18:07.948109"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-20C887",
+  "type": "ransomware-incident",
+  "title": "brownintegratedlogistics.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "brownintegratedlogistics.com",
+    "domain": "brownintegratedlogistics.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Brown Integrated Logistics, through its subsidiaries Brown Logistics Services, West Logistics, Brown Fleet Services and Brown Trucking provides a suite of world-class services including third party logistics, brokerage, warehousing, fleet maintenance...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8d90dac3e093b35c9825ff47e087a168.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjvd25pbnrlz3jhdgvkbg9naxn0awnzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-20 12:00:00.000000",
+    "disclosedDate": "2023-11-20 13:02:52.888290"
+  }
+}

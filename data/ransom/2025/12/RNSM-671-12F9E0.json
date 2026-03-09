@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-671-12F9E0",
+  "type": "ransomware-incident",
+  "title": "Keylogistics Chile SA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Keylogistics Chile SA",
+    "domain": "keylogistics.cl",
+    "country": "CL",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "minteye",
+    "name": "minteye",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1400000000000,
+    "description": "Size: 1.4 TB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2v5bg9naxn0awnzienoawxlifnbqg1pbnrlewu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-12 22:49:02.531036",
+    "disclosedDate": "2025-12-12 22:49:04.247176"
+  }
+}

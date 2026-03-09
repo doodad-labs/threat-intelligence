@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-657-058A67",
+  "type": "ransomware-incident",
+  "title": "BNBuilders ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BNBuilders",
+    "domain": "bnbuilders.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b302861ed5e9181f9b11f002c5ef30f0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qk5cdwlszgvyc0bodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/breacha31248.pdf",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-05 07:54:25.000000",
+    "disclosedDate": "2024-10-05 09:10:59.357350"
+  }
+}

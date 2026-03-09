@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-629-149CC9",
+  "type": "ransomware-incident",
+  "title": "Medlab Pathology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Medlab Pathology",
+    "country": "AU",
+    "sector": "Healthcare Services"
+  },
+  "actor": {
+    "id": "quantum",
+    "name": "quantum",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Medlab Pathology is one of Australia's largest, privately owned independent pathology practices",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvkbgfiifbhdghvbg9neubxdwfudhvt",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-06-14 18:31:08.668229",
+    "disclosedDate": "2022-06-14 18:31:08.668229"
+  }
+}

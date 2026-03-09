@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-23E44E",
+  "type": "ransomware-incident",
+  "title": "Northern Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Northern Management",
+    "domain": "wisconsinapartments.biz",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "Status: 29d 22h 41m 38s - Size Data: 50 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/01f7f1fd22b442ae481a6536a929388c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9ydghlcm4gtwfuywdlbwvudebjawnhzgezmzax",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-23 00:00:00.000000",
+    "disclosedDate": "2025-02-23 18:56:23.235672"
+  }
+}

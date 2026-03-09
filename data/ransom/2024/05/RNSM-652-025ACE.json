@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-652-025ACE",
+  "type": "ransomware-incident",
+  "title": "extraco.ae ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "extraco.ae",
+    "domain": "extraco.ae",
+    "country": "AE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Visits: 348 Data Size: 20GB Published: False",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ce03665739fff3946e24e530b6d53b52.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxh0cmfjby5hzubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-02 14:09:56.315647",
+    "disclosedDate": "2024-05-02 14:09:56.315667"
+  }
+}

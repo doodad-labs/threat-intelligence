@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-2233CE",
+  "type": "ransomware-incident",
+  "title": "polypane.be ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "polypane.be",
+    "domain": "polypane.be",
+    "country": "BE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Polypane is a company specializing in a browser designed for web developers and designers. It offers tools for responsive design, accessibility testing, and performance optimization. The browser provides features like synchronized scrolling, live reloading, and multiple viewport testing to streamline development workflows and ensure websites look and function well across different devices and conditions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fed0552373fae55ffbc687e093a06679.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cg9sexbhbmuuymvacmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-22 09:52:49.000000",
+    "disclosedDate": "2024-10-22 11:22:10.287759"
+  }
+}

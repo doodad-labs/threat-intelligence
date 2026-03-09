@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-221B13",
+  "type": "ransomware-incident",
+  "title": "Professional TestingCorporation (PTC) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Professional TestingCorporation (PTC)",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000,
+    "description": "Professional Testing Corporation (PTC) is an established global leader in testing and assessment services.We are going to upload about 5 GB of corporate data. Employee personal documents, medical records, confidentiality agreements, contracts, client information, detailed financial data, project data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjvzmvzc2lvbmfsifrlc3rpbmddb3jwb3jhdglvbiaoufrdkubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-22 00:00:00.000000",
+    "disclosedDate": "2025-05-22 14:18:35.322911"
+  }
+}

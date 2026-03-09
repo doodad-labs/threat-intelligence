@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-20F521",
+  "type": "ransomware-incident",
+  "title": "Spuncast ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Spuncast",
+    "domain": "spuncast.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Spuncast, Inc was founded in 1976 and is headquartered in Watertown, Wisconsin. The company provides centrifugal castings and offers stainless steel tubing products, such as hydraulic cylinders.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b96db0c497ee5ce65b98784d2e5032e9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3b1bmnhc3ray2fjdhvz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-02 00:00:00.000000",
+    "disclosedDate": "2023-09-20 14:30:48.178165"
+  }
+}

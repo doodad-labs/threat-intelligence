@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-656-0573CF",
+  "type": "ransomware-incident",
+  "title": "Imetame ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Imetame",
+    "domain": "imetame.com.br",
+    "country": "BR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Imetame Group operates in different markets such as metalworking, ornamental rocks, port, energy and oil & gas. 20gb of data. Deta iled personal information of employees (scans), clients data, pro jects, contacts, financial files and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw1ldgftzubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-05 15:30:07.203003",
+    "disclosedDate": "2024-09-05 15:30:08.449545"
+  }
+}

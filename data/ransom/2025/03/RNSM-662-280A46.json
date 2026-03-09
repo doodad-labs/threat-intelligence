@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-280A46",
+  "type": "ransomware-incident",
+  "title": "agakam ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "agakam",
+    "domain": "agakam.com",
+    "country": "FR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Agakam is an association that provides management services for physiotherapists, dentists, and other liberal professions. The organization aims to support healthcare professionals by facilitating their administrative and operational tasks. In            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/758c40c2ec8aa52f0861184acc36f855.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywdha2ftqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-28 00:00:00.000000",
+    "disclosedDate": "2025-03-28 12:38:43.338743"
+  }
+}

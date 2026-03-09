@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-640-306028",
+  "type": "ransomware-incident",
+  "title": "SK Life Science ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SK Life Science",
+    "domain": "sklifescience.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SK Life Science is a subsidiary of SK Biopharmaceuticals, Co., Ltd., and a part of SK Group—a large conglomerate global corporation. SK Life Science is a CNS-focused pharmaceutical company. You will see their corporate data soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0sgtglmzsbty2llbmnlqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-30 01:02:03.456789",
+    "disclosedDate": "2023-05-30 16:39:15.887394"
+  }
+}

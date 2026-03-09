@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-641-291FCD",
+  "type": "ransomware-incident",
+  "title": "tsmc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tsmc.com",
+    "domain": "tsmc.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "In the case of payment refusal, also will be published points of entry into the network and passwords and logins company",
+    "claimed_data_types": [
+      "passwords"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bde31c6e332a834dfa2bc3720a6f8e9b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhntyy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-29 21:16:00.000000",
+    "disclosedDate": "2023-06-29 21:53:15.919073"
+  }
+}

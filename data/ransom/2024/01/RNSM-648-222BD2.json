@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-648-222BD2",
+  "type": "ransomware-incident",
+  "title": "cmmt.com.tw ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cmmt.com.tw",
+    "domain": "cmmt.com.tw",
+    "country": "TW",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "cmmt.com.tw",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/27188ecb6746c6ade5132edb6c117b51.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y21tdc5jb20udhdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-22 01:59:00.000000",
+    "disclosedDate": "2024-01-22 02:53:13.781030"
+  }
+}

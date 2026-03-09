@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-034928",
+  "type": "ransomware-incident",
+  "title": "portlandtractor.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "portlandtractor.com",
+    "domain": "portlandtractor.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Portland Tractor, IncLocated in the heart of the Pacific Northwest, our expansive yard is spread across 10 acres and includes over 60,000 square feet under the roof. Our yard holds not only the machines that we are currently dismantling, but also a...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a1929a1b3edde238faab3ea0fccf06c4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cg9ydgxhbmr0cmfjdg9ylmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-03 16:58:00.000000",
+    "disclosedDate": "2023-11-03 17:36:10.692134"
+  }
+}

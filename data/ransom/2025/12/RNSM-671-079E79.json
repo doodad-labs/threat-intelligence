@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-079E79",
+  "type": "ransomware-incident",
+  "title": "ende.bo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ende.bo",
+    "domain": "ende.bo",
+    "country": "BO"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Company Description: The National Electricity Company (ENDE) is a corporation of the Plurinational S...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/134c2a8b9aa7ba7870aaefce5970f078.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw5kzs5ib0bsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-04 00:00:00.000000",
+    "disclosedDate": "2025-12-07 10:17:49.045358"
+  }
+}

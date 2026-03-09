@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-036058",
+  "type": "ransomware-incident",
+  "title": "yahtec ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "yahtec",
+    "domain": "yahtec.com",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "YAHTEC is a French manufacturer of gas heating solutions, catering to industrial, commercial, agri-food, and residential sectors for over 30 years. Located near Paris, the company offers a wide range of heating and ventilation devices designed for large volumes in various buildings. Committed to innovation, YAHTEC invests heavily in research and development to address current market challenges. They also produce and distribute their products under private label for partners across Europe and internationally.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fbb5891ee6da4973e421dc0ba693710d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ewfodgvjqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-03 16:40:15.616000",
+    "disclosedDate": "2025-06-03 19:03:12.569646"
+  }
+}

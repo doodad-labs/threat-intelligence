@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-662-09A1F9",
+  "type": "ransomware-incident",
+  "title": "Syma-System ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Syma-System",
+    "domain": "syma.com",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Switzerland",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b6a7a61d3c34edff8b76163cf0f05465.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3ltys1texn0zw1acgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.inside-it.ch/cyberangriff-auf-messebau-gruppe-syma-20250313",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 00:00:00.000000",
+    "disclosedDate": "2025-03-09 12:50:43.550555"
+  }
+}

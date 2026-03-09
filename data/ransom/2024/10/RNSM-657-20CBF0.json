@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-20CBF0",
+  "type": "ransomware-incident",
+  "title": "Atende Software's ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Atende Software's",
+    "domain": "atende.pl",
+    "country": "PL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Poland - Exfiltraded data : yes - Encrypted data : no",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e01e5b786f9f0ace867c8703cd2f6683.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxrlbmrlifnvznr3yxjlj3naahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-20 14:25:44.000000",
+    "disclosedDate": "2024-10-20 15:07:32.931357"
+  }
+}

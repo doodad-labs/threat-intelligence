@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-01D184",
+  "type": "ransomware-incident",
+  "title": "yupousa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "yupousa.com",
+    "domain": "yupousa.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "YUPO is the recyclable, waterproof, tree-free Synthetic Paper with attributes and properties that make it the perfect solution for a variety of marketing, design, packaging and labeling needs.YUPO Synthetic Papers are extruded from polypropylene...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/853e0182e77bfcdd628da203df5bb522.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/exvwb3vzys5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-01 07:53:00.000000",
+    "disclosedDate": "2024-05-01 10:18:30.952358"
+  }
+}

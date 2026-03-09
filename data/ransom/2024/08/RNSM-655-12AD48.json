@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-12AD48",
+  "type": "ransomware-incident",
+  "title": "NetOne ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NetOne",
+    "domain": "netone.co.zw",
+    "country": "ZW",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Zimbabwe - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv0t25lqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-03 00:00:00.000000",
+    "disclosedDate": "2024-08-12 23:07:28.948478"
+  }
+}

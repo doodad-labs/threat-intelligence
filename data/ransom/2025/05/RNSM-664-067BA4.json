@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-067BA4",
+  "type": "ransomware-incident",
+  "title": "mooregiles.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mooregiles.com",
+    "domain": "mooregiles.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Moore & Giles is a Virginia-based company specializing in the design and distribution of high-quality leather and luxury home furnishings. Founded in 1933, they collaborate with tanneries worldwide. The company not only serves the high-end residential, hospitality and aviation markets, but also offers handbags, luggage and accessories in its product line. They are known for innovative designs and commitment to environmental accountability.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/47e79219e4bd89346371629c082e75b2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw9vcmvnawxlcy5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-28 00:00:00.000000",
+    "disclosedDate": "2025-05-06 16:32:09.295779"
+  }
+}

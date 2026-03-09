@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-29D7FB",
+  "type": "ransomware-incident",
+  "title": "cm.gov.nc.tr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cm.gov.nc.tr",
+    "domain": "cm.gov.nc.tr",
+    "country": "TR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Republic assemblish",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c87482a66a4e2bf2aa68f0eef426f397.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y20uz292lm5jlnryqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-29 18:28:00.000000",
+    "disclosedDate": "2023-08-29 19:06:31.157042"
+  }
+}

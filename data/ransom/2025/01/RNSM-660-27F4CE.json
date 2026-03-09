@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-27F4CE",
+  "type": "ransomware-incident",
+  "title": "skopje.gov.mk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "skopje.gov.mk",
+    "domain": "skopje.gov.mk",
+    "country": "MK",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "skopje.gov.mk",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/96c9e4825b63bd68fc4fc79cc0c5be20.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2tvcgpllmdvdi5ta0biywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 08:05:11.758442",
+    "disclosedDate": "2025-01-27 08:06:17.796244"
+  }
+}

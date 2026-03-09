@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-11B353",
+  "type": "ransomware-incident",
+  "title": "Nepes ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nepes",
+    "domain": "nepes.co.kr",
+    "country": "KR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/67aa41fdb998adb249d5d85391bf0a53.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmvwzxnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-11 14:46:14.179394",
+    "disclosedDate": "2025-12-11 14:46:29.763166"
+  }
+}

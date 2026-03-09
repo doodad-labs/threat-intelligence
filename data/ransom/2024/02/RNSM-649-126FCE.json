@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-126FCE",
+  "type": "ransomware-incident",
+  "title": "silverairways.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "silverairways.com",
+    "domain": "silverairways.com",
+    "country": "BS",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Silver Airways is a leading regional U.S. airline operating flights between gateways in Florida, the Southeast and The Bahamas. Silver Airways, affiliates of Versa Capital, is headquartered in Fort Lauderdale, FL. The Silver Airways fleet is comp...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d42b0a2b05d37fafaf7d5283b8162949.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2lsdmvyywlyd2f5cy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-12 09:03:00.000000",
+    "disclosedDate": "2024-02-12 10:27:17.930438"
+  }
+}

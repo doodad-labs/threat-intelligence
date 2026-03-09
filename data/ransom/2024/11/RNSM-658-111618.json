@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-658-111618",
+  "type": "ransomware-incident",
+  "title": "Followmont TransportPty Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Followmont TransportPty Ltd",
+    "domain": "followmont.com.au",
+    "country": "AU",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 230000000000,
+    "description": "Followmont Transport can provide a complete transport, warehousing and logistics solution or simply deliver a one-off parcel.We will upload 230Gb of data including NDAs,  passports, lot’s ofdriver licenses, medical documents, detailed financial information.",
+    "claimed_data_types": [
+      "passport-numbers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rm9sbg93bw9udcbucmfuc3bvcnrqdhkgthrkqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-11 16:13:57.072591",
+    "disclosedDate": "2024-11-11 16:13:58.712206"
+  }
+}

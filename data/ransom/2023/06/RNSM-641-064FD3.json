@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-064FD3",
+  "type": "ransomware-incident",
+  "title": "pentechsolution.com.my ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pentechsolution.com.my",
+    "domain": "pentechsolution.com.my",
+    "country": "MY",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "pentechsolution.com.my",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c4926c5048e681452710dc4b06e4a442.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgvudgvjahnvbhv0aw9ulmnvbs5teubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-06 20:37:00.000000",
+    "disclosedDate": "2023-06-06 21:53:54.769315"
+  }
+}

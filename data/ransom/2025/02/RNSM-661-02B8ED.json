@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-02B8ED",
+  "type": "ransomware-incident",
+  "title": "Tosaf ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tosaf",
+    "domain": "tosaf.com",
+    "country": "NL",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "handala",
+    "name": "handala",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Today, in a strategic move, we, the Handala Group, have successfully breached and taken full control of the systems at Tosaf, one of Zionist’s largest industrial giants, with over 5,000 employees and 60 offices worldwide. Early this morning, we initiated a full lockdown of all entry points to the facility, preventing workers from entering. Following…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/742f85c44209dcb39561f665d35203e8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vg9zywzaagfuzgfsyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-02 08:48:42.106211",
+    "disclosedDate": "2025-02-02 08:50:01.714938"
+  }
+}

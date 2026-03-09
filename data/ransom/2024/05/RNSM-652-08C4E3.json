@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-08C4E3",
+  "type": "ransomware-incident",
+  "title": "Trade-Mark Industrial ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Trade-Mark Industrial",
+    "domain": "trade-markind.com",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Canada - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjhzguttwfyaybjbmr1c3ryawfsqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-08 12:49:00.000000",
+    "disclosedDate": "2024-05-08 14:51:45.740184"
+  }
+}

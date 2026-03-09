@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-28EC22",
+  "type": "ransomware-incident",
+  "title": "Active Green + Ross ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Active Green + Ross",
+    "domain": "activegreenross.com",
+    "country": "CA",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Active Green + Ross operates a chain of Complete Tire & Auto Centres across Southern Ontario, offering a wide selection of passenger and light truck tires from leading manufacturers. Their services include tire sales, automotive repairs, and maintenance for various vehicle models, with a focus on preventative maintenance and repairs. The company emphasizes customer service and provides various promotions and rebates for tire purchases. With over 65 locations, they aim to serve a diverse clientele in the region.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fdb73687f9aa87f6254ea13762b2c336.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwn0axzliedyzwvuicsgum9zc0bzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-27 17:47:53.546000",
+    "disclosedDate": "2026-01-28 00:07:01.100373"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-19A326",
+  "type": "ransomware-incident",
+  "title": "varico Poland ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "varico Poland",
+    "domain": "varico.pl",
+    "country": "PL",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "​​​​​varico.pl is the official website of Varico, a Polish company specializing in financial and accounting ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ebb02c84ca0360b19190dc6cb6affad6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmfyawnvifbvbgfuzebub3zh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-19 05:45:14.849853",
+    "disclosedDate": "2025-06-19 05:45:47.801866"
+  }
+}

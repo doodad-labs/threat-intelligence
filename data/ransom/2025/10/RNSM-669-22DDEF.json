@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-22DDEF",
+  "type": "ransomware-incident",
+  "title": "Integral Networks ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Integral Networks",
+    "domain": "integralnetworks.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Integral Networks, Inc. is a leading IT services provider in Sacramento, specializing in responsive IT support tailored to the needs of legal firms and various other industries including construction, manufacturing, and finance. They offer a             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/99c4b4d081b34d1e817956b4e6908726.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw50zwdyywwgtmv0d29ya3nacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-22 00:00:00.000000",
+    "disclosedDate": "2025-10-22 22:10:10.865305"
+  }
+}

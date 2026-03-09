@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-03030C",
+  "type": "ransomware-incident",
+  "title": "East Baton Rouge Sheriff's Office ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "East Baton Rouge Sheriff's Office",
+    "domain": "ebrso.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 92200000000,
+    "description": "East Baton Rouge Sheriff's Office - led by Sheriff Sid Gautreaux, this Office is responsible for enforcing the laws of Louisiana within East Baton Rouge Parish,as well as maintaining the East Baton Rouge Parish Prison. East Baton Rouge Sheriff's Office corporate office is located in 100 Saint Ferdinand St Rm 203, Baton Rouge, Louisiana, 70802, United States and has 510 employees. The total amount of data leakage is 92.2 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwfzdcbcyxrvbibsb3vnzsbtagvyawzmj3mgt2zmawnlqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.theadvocate.com/baton_rouge/news/crime_police/east-baton-rouge-sheriff-cyber-attack/article_e7e5d38c-f14a-11ee-ac0e-bb117ad8cea4.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-02 12:57:44.12345",
+    "disclosedDate": "2024-04-03 13:05:15.427195"
+  }
+}

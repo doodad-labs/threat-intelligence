@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-665-05F6EA",
+  "type": "ransomware-incident",
+  "title": "cityofbelvedere.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cityofbelvedere.org",
+    "domain": "cityofbelvedere.org",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 18.06.2025.Belvedere is one of the smallest and oldest cities in California. It was incorporated in 1896 and is located north of San Francisco across the Golden Gate Bridge in Marin C            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c211111b9a32be2870f1050a5102167f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2l0ew9mymvsdmvkzxjllm9yz0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.thearknewspaper.com/live/belvedere-probes-cyberattack-as-report-warns-of-rising-risks",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-21 00:00:00.000000",
+    "disclosedDate": "2025-06-05 21:50:04.679708"
+  }
+}

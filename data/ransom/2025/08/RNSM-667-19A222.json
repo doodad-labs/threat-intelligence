@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-19A222",
+  "type": "ransomware-incident",
+  "title": "transelectric.co.il ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "transelectric.co.il",
+    "domain": "transelectric.co.il",
+    "country": "IL",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TransElectric, part of the Israeli Trans Innovation Group (TIG), is a value-add distributor of electronic components and electro-mechanical solutions. Based …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b8716a6a317aeb68f50164516c3b4b9a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhjhbnnlbgvjdhjpyy5jby5pbebzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-19 10:12:13.198350",
+    "disclosedDate": "2025-08-19 10:12:26.691835"
+  }
+}

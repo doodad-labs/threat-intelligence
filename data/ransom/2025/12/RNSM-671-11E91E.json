@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-11E91E",
+  "type": "ransomware-incident",
+  "title": "www.digital****.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.digital****.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 80000000000,
+    "description": "Data theft 80gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc654c1e2d252ab393a435186dfc3205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmrpz2l0ywwqkioqlmnvbubkzxztyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-11 00:00:00.000000",
+    "disclosedDate": "2025-12-11 09:17:25.870913"
+  }
+}

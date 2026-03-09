@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-647-040BC7",
+  "type": "ransomware-incident",
+  "title": "Getrix ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Getrix",
+    "domain": "getrix.it",
+    "country": "IT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "Getrix is the most used real estate management software in Italy.Client information, contracts, real estate and building information. Everything is about 10Gb. The archive will be available soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2v0cml4qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-24 00:00:00.000000",
+    "disclosedDate": "2023-12-04 13:08:30.490440"
+  }
+}

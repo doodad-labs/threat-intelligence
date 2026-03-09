@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-25AC43",
+  "type": "ransomware-incident",
+  "title": "EXCELAS1.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EXCELAS1.COM",
+    "domain": "excelas1.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Excelas1.com, also known as Excelas LLC, is a medical legal solutions company based in Cleveland, Ohio. They offer thorough medical record analysis and organization services to assist in complex medical-legal cases. Their specialized services aid attorneys, insurance companies, and healthcare establishments in making decisions. Their team of experienced professionals provides services such as Case Intake Triage, Medical Record Retrieval, and Chronology Creation among others.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f61754a1e5e2714a437ffd10ec4a1f80.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rvhdruxbuzeuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 15:02:41.672304",
+    "disclosedDate": "2026-01-25 15:02:57.212673"
+  }
+}

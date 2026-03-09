@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-658-1900A3",
+  "type": "ransomware-incident",
+  "title": "Gilazo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Gilazo",
+    "domain": "gilazo.com",
+    "country": "IL"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue $5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2lsyxpvqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-25 00:00:00.000000",
+    "disclosedDate": "2024-11-19 22:19:41.848284"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-290567",
+  "type": "ransomware-incident",
+  "title": "AMI Consulting Engineers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AMI Consulting Engineers",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "AMI is driving innovation in Ports & Harbors, Coastal & Riverine,Waterfronts & Marinas, Dams & Levees, Buildings, and Industrial Facilities.We are ready to upload more than 30 GB of internal corporate documents including: NDAs, human resources info, confidential agreements, SSNs, personal medical documents etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qu1jienvbnn1bhrpbmcgrw5naw5lzxjzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-26 00:00:00.000000",
+    "disclosedDate": "2024-11-29 13:00:01.903226"
+  }
+}

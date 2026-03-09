@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-3050D3",
+  "type": "ransomware-incident",
+  "title": "Eric Rossi CPA LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Eric Rossi CPA LLC",
+    "domain": "ericrossicpa.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Eric Rossi CPA LLC is a full-service Accounting firm licensed in PA. ERCPA offers a broad range of services for business owners, executives, and independent professionals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxjpyybsb3nzasbdueegtexdqgjpyw5sawfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-30 15:08:24.205912",
+    "disclosedDate": "2024-08-30 15:08:24.946467"
+  }
+}

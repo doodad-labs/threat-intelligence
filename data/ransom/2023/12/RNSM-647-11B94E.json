@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-647-11B94E",
+  "type": "ransomware-incident",
+  "title": "Hinsdale School District  ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hinsdale School District ",
+    "domain": "hinsdale.k12.nh.us",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hinsdale School District is an educational institution. It offers primary & high school education, job openings, professional development, financial information, and assessment. The school district was established in 1879 and is headquartered in Hinsdal,New Hampshire, 03451, United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b6e3911d7288dc5d033e475ce62d6983.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgluc2rhbgugu2nob29sierpc3ryawn0iebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-12-11 15:30:16.12345",
+    "disclosedDate": "2023-12-11 16:11:13.387501"
+  }
+}

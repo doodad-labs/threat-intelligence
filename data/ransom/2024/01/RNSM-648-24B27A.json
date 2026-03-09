@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-648-24B27A",
+  "type": "ransomware-incident",
+  "title": "IntegrityInc.org   Integrity Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IntegrityInc.org   Integrity Inc",
+    "domain": "integrityinc.org",
+    "country": "US"
+  },
+  "actor": {
+    "id": "alphalocker",
+    "name": "alphalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "IntegrityInc.org   Integrity, Inc. is an organization that provides home and community based services for people with developmental disabilities in the state of Arkansas.!!!this company has allowed confidential data to be published!!!SQL DB/accounting and other docs",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a8f87b8f83ff004dd9347723829c60a6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw50zwdyaxr5sw5jlm9yzyagieludgvncml0esbjbmnaywxwagfsb2nrzxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-24 14:45:44.391047",
+    "disclosedDate": "2024-01-24 14:45:44.391077"
+  }
+}

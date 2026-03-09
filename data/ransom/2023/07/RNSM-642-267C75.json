@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-267C75",
+  "type": "ransomware-incident",
+  "title": "First Community Credit Union ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "First Community Credit Union",
+    "domain": "fccu.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ALL DATA AVAILABLE FOR DOWNLOADING!!!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e8af8a48e7bd5da4791a6e423fa78ef0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmlyc3qgq29tbxvuaxr5ienyzwrpdcbvbmlvbkbhbhbodg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-05-26 16:52:48.000000",
+    "disclosedDate": "2023-07-26 14:29:16.947083"
+  }
+}

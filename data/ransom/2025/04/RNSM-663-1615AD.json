@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-1615AD",
+  "type": "ransomware-incident",
+  "title": "frapack.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "frapack.de",
+    "domain": "frapack.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Frapack.de is a German company specialized in the distribution and production of packaging materials. Their product range includes plastic and paper packaging, bags, industrial packaging materials, and packaging for food & beverages. They cater to both large-scale industrial needs and smaller commercial requirements. They're dedicated to providing sustainable, high-quality, custom packaging solutions for various industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/548e38f21d575edf91247d8f6a4526d3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/znjhcgfjay5kzubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-16 23:21:00.793741",
+    "disclosedDate": "2025-04-16 23:22:30.439697"
+  }
+}

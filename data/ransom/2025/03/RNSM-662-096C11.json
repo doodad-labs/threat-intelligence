@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-096C11",
+  "type": "ransomware-incident",
+  "title": "CPI Books ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CPI Books",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CPI Books is the UK’s book printing service provider. CPI produces books and journals across multiple channels including; Trade, STMA, Tax, Law, Bibles, Catalogues, as well as Self-Publishing. Cpi Uk corporate office is located in Copland Way, Beccles, Norfolk, NR34 7TL, United Kingdom and has 2,500 employees. The total amount of data leakage is 183.20",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0f008a2d0f97481266618d3b17327651.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1bjiejvb2tzqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-06 22:14:46.000000",
+    "disclosedDate": "2025-03-09 20:21:05.832442"
+  }
+}

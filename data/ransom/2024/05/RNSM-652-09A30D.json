@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09A30D",
+  "type": "ransomware-incident",
+  "title": "eif.org.na ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "eif.org.na",
+    "domain": "eif.org.na",
+    "country": "NA",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Environmental Investment Fund (EIF) is a fund created by Act 13 of 2001 of the Parliament of the Republic of Namibia with the overall aim of continuing this great legacy by supporting individuals, projects and communities that ensure the sustaina...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f78d3e56b9d035fa29392b068217ceb3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwlmlm9yzy5uyubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-02 00:00:00.000000",
+    "disclosedDate": "2024-05-09 13:17:20.129043"
+  }
+}

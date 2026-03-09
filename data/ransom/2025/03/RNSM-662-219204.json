@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-219204",
+  "type": "ransomware-incident",
+  "title": "www.avalonapparel.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.avalonapparel.com",
+    "domain": "avalonapparel.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Avalon Apparel, LLC, is an American fashion company that designs, manufactures, and distributes apparel for multiple brands. They work across various sectors such as juniors, misses, girls, boys, and adult men’s and women's apparel. They are known for providing high-quality products, innovative designs, and exceptional customer service to their clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4489afca61f021fb377442fd4e6960be.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmf2ywxvbmfwcgfyzwwuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-21 16:57:50.000000",
+    "disclosedDate": "2025-03-21 18:38:58.059125"
+  }
+}

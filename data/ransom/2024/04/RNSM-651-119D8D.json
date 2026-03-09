@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-119D8D",
+  "type": "ransomware-incident",
+  "title": "zanebenefits.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "zanebenefits.com",
+    "domain": "zanebenefits.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Zane Benefits is a legacy HR and employee benefits platform empowering employees to buy individual health plans funded by their employer.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9d34b4dc16f2e7cc803a0c933a5a7aaf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/emfuzwjlbmvmaxrzlmnvbubkyxjrdmf1bhq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-04 00:00:00.000000",
+    "disclosedDate": "2024-04-11 19:14:20.343966"
+  }
+}

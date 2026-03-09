@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10F0DF",
+  "type": "ransomware-incident",
+  "title": "cinema1.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cinema1.ca",
+    "domain": "cinema1.ca",
+    "country": "CA",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Cinema1.ca\" is a Canadian-based company that specializes in the retail of movies and pop culture merchandise. They offer a wide range of products from DVDs, Blu-rays, to collectibles and novelty items. They aim to cater to all movie and pop culture enthusiasts with their extensive catalog of classic and new release films, rare finds, and limited edition items.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2luzw1hms5jyubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:50:36.774524",
+    "disclosedDate": "2025-02-10 19:50:42.988817"
+  }
+}

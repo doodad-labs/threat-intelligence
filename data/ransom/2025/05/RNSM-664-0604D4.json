@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-0604D4",
+  "type": "ransomware-incident",
+  "title": "Langer & Langer ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Langer & Langer",
+    "domain": "langer-langer.de",
+    "country": "DE",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Langer & Langer GbR is a company that operates in the Retail industry. It employs 10to19 people and ha…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgfuz2vyicygtgfuz2vyqfnpbgvudfjhbnnvbudyb3vw",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-05 00:00:00.000000",
+    "disclosedDate": "2025-05-06 18:25:18.544492"
+  }
+}

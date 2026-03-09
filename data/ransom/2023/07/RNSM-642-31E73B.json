@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-31E73B",
+  "type": "ransomware-incident",
+  "title": "nbcc.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nbcc.org",
+    "domain": "nbcc.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "-personal data-nda220GBNational Board for Certified Counselors is dedicated to research and commentary on empirical, theoretical and innovative topics in the field of professional counseling and related areas",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/72845941afec3753bb1c44c030cde965.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmjjyy5vcmdabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-31 18:33:00.000000",
+    "disclosedDate": "2023-07-31 19:58:44.564062"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-19C0B5",
+  "type": "ransomware-incident",
+  "title": "obeidpartners.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "obeidpartners.com",
+    "domain": "obeidpartners.com",
+    "country": "LB",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "First established as Obeid Law Firm (OLF) in 1987, Obeid & Partners is a full service international law firm operating across the MENA region from its headquarters in Beirut, Lebanon.Obeid & Partners is widely acknowledged as being one of the lea...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7e31af6c872118c8d10c6d30c09bca0c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b2jlawrwyxj0bmvycy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-19 12:08:00.000000",
+    "disclosedDate": "2023-07-19 13:00:47.336788"
+  }
+}

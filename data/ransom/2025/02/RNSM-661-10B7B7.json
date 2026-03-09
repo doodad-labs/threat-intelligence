@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10B7B7",
+  "type": "ransomware-incident",
+  "title": "cmcoldstores.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cmcoldstores.com",
+    "domain": "cmcoldstores.com",
+    "country": "GB",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"CM Cold Stores\" is a UK-based logistics and warehousing company with expertise in frozen and chilled storage. The company provides a range of distribution services for both ambient and temperature-controlled products. It also offers pallet storage, order picking, re-packing, and reverse logistics services. Its facilities are located strategically close to major roads for efficient transport, excelling in delivering high-quality, customer-focused solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y21jb2xkc3rvcmvzlmnvbubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 19:51:34.005749",
+    "disclosedDate": "2025-02-10 19:51:41.835005"
+  }
+}

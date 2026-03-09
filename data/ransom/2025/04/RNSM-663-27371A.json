@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-663-27371A",
+  "type": "ransomware-incident",
+  "title": "www.southlandscs.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.southlandscs.com",
+    "domain": "southlandscs.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Southlands Christian Schools is a top tier K-12th private Christian school that boasts academics that consistenly rank in the top 10% of schools in the nation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/546d855f36a2365b03dafd94408685fa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnvdxrobgfuzhnjcy5jb21acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-27 00:00:00.000000",
+    "disclosedDate": "2025-04-27 17:24:41.655123"
+  }
+}

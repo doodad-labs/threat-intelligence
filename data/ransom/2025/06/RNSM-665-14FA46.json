@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-14FA46",
+  "type": "ransomware-incident",
+  "title": "bristolhose.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bristolhose.com",
+    "domain": "bristolhose.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Bristol Hose & Fitting\" is a company that specializes in providing high-quality industrial and hydraulic hoses, fittings, and accessories designed for a wide range of applications. The company also offers custom services to clients for specific needs. With an extensive inventory and a dedicated team, the company ensures they meet the unique requirements of each customer.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8a743a1b4b7b49a3c1e736f7ab07687c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjpc3rvbghvc2uuy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-17 00:00:00.000000",
+    "disclosedDate": "2025-06-14 14:37:17.449882"
+  }
+}

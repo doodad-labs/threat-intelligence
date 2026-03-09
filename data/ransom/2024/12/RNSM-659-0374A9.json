@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-0374A9",
+  "type": "ransomware-incident",
+  "title": "www.dalgroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.dalgroup.com",
+    "domain": "dalgroup.com",
+    "country": "SD",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] DAL Group is a prominent conglomerate based in Sudan, known for its diverse operations across multiple sectors. The company is involved in agriculture, food production, automotive distribution, healthcare, and education, among others. With a strong focus on innovation and sustainability, DAL Group plays a significant role in the Sudanese economy, providing quality products and services to enhance the community's well-being.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/489bc3a7549e701b0b523aabfb9b8c0e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmrhbgdyb3vwlmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-20 00:00:00.000000",
+    "disclosedDate": "2024-12-03 18:33:27.837920"
+  }
+}

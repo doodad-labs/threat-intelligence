@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-654-08CEE0",
+  "type": "ransomware-incident",
+  "title": "Allied Industrial Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Allied Industrial Group",
+    "domain": "alliedindgroup.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15000000000,
+    "description": "Allied Industrial Group is committed to providing world class pro ducts with service and support through the use of product knowled ge, product availability and application expertise to our ever ex panding customer base. 15GB of data will be provided. Confidentia l agreements, NDAs, employees personal files, customers informati on and other business data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxsawvkieluzhvzdhjpywwgr3jvdxbaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-08 16:34:25.100498",
+    "disclosedDate": "2024-07-08 16:34:26.025475"
+  }
+}

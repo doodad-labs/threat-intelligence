@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-655-2300C0",
+  "type": "ransomware-incident",
+  "title": "Saeilo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Saeilo",
+    "domain": "saeilo.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "metaencryptor",
+    "name": "metaencryptor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Saeilo is a diversified manufacturing company consisting of three operating divisions.SMI is a national network specializing in contract precision metalworking and other manufacturing services.Kahr Arms designs and manufactures quality firearms, primarily for personal protection and law enforcement back-up and off-duty carry.Revenue $44 M",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2flawxvqg1ldgflbmnyexb0b3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-23 06:49:27.377975",
+    "disclosedDate": "2024-08-23 06:49:28.454753"
+  }
+}

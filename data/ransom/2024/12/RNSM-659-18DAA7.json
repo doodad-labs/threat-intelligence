@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-18DAA7",
+  "type": "ransomware-incident",
+  "title": "Trev Deeley Motorcycles ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Trev Deeley Motorcycles",
+    "domain": "trevdeeley.com",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Country : Canada - Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6fd310992898640fa8ec821e01fba5c4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjldibezwvszxkgtw90b3jjewnszxnaahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-30 00:00:00.000000",
+    "disclosedDate": "2024-12-18 20:19:51.791454"
+  }
+}

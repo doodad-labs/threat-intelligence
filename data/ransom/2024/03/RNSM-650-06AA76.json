@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-06AA76",
+  "type": "ransomware-incident",
+  "title": "viadirectamarketing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "viadirectamarketing",
+    "domain": "viadirectamarketing.com",
+    "country": "ES",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Spain",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmlhzglyzwn0yw1hcmtldgluz0bzdg9ybw91cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-06 00:00:00.000000",
+    "disclosedDate": "2024-03-06 18:06:34.398737"
+  }
+}

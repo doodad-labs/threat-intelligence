@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-21CD9C",
+  "type": "ransomware-incident",
+  "title": "A10NETWORKS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "A10NETWORKS.COM",
+    "domain": "a10networks.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] A10 Networks is a leading provider of advanced network and security solutions. They offer high-performance products that help organizations ensure their applications are secure and always available. The company's portfolio includes solutions for network and traffic management, application delivery, DDoS protection, SSL inspection, load balancing and more. A10 Networks cater to organizations of all sizes, from large multinationals to small businesses.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/43d9ac6a5589d088ca99df0dc647e2bd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qtewtkvuv09ss1muq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 13:02:17.007013",
+    "disclosedDate": "2025-11-21 13:02:32.501040"
+  }
+}

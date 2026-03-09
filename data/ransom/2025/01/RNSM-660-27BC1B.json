@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-27BC1B",
+  "type": "ransomware-incident",
+  "title": "singularanalysts.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "singularanalysts.com",
+    "domain": "singularanalysts.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "singularanalysts.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/407434a1ceba22d25dc3917af8b194f6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2luz3vsyxjhbmfsexn0cy5jb21aymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:56:23.377690",
+    "disclosedDate": "2025-01-27 07:57:28.533212"
+  }
+}

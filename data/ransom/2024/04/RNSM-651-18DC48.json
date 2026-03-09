@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-18DC48",
+  "type": "ransomware-incident",
+  "title": "Myers Automotive Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Myers Automotive Group",
+    "domain": "myers.ca",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Myers Automotive Group sales and services automobiles. The company is headquartered in Ottawa, Ontario. Files of this company willbe available for downloading soon. Agreements, clients and employees information, detailed accounting and other data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txllcnmgqxv0b21vdgl2zsbhcm91cebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e118912b-a45b-4eee-a26e-fdff6d9d572e.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-18 17:28:14.833918",
+    "disclosedDate": "2024-04-18 17:28:14.904573"
+  }
+}

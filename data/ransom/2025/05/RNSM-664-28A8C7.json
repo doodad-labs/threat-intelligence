@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-664-28A8C7",
+  "type": "ransomware-incident",
+  "title": "Quick Frames USA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Quick Frames USA",
+    "domain": "quickframes.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "blacklock",
+    "name": "blacklock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Internet Service Providers,Website Hosting & Internet-related ServicesArizona, United States<25 EmployeesQuickFrames specializes in manufacturing innovative steel components for the commercial construction industry, offering products like bolt-in and drop-in roof frames.Revenue <$5 Million",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e6b2bf5fb929973f098e855dc93befe7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uxvpy2sgrnjhbwvzifvtqubibgfja2xvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-28 17:14:18.000000",
+    "disclosedDate": "2025-05-28 18:46:30.448766"
+  }
+}

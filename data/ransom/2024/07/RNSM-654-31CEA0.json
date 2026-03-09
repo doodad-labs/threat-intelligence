@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-31CEA0",
+  "type": "ransomware-incident",
+  "title": "pbw-india.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pbw-india.com",
+    "domain": "pbw-india.com",
+    "country": "IN",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HISTORY. Late Shri R. C. Patel, founder of Patel Brass Works was one of the first entrepreneurs to set up manufacturing facilities at Rajkot. Established in 1948 as a small foundry, PBW started its operations by producing castings for brass items. In...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/03d413975737968c68c112b15f7351ab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgj3lwluzglhlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-04 00:00:00.000000",
+    "disclosedDate": "2024-07-31 12:07:19.796762"
+  }
+}

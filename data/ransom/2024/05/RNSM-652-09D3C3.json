@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09D3C3",
+  "type": "ransomware-incident",
+  "title": "mutualclubunion.com.ar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mutualclubunion.com.ar",
+    "domain": "mutualclubunion.com.ar",
+    "country": "AR",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "masunion@mutualclubunion.com.ar promocion@mutualclubunion.com.ar . Casa Central: Av. Independencia 324 - Sunchales (Sta Fe) Información al usuario financiero. Atención al usuario de servicios financieros +Unión. Una tarjeta de crédito local con todos...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ad68e03d1eff496325ed2f06317c9898.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bxv0dwfsy2x1ynvuaw9ulmnvbs5hckbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-31 00:00:00.000000",
+    "disclosedDate": "2024-05-09 13:10:57.058537"
+  }
+}

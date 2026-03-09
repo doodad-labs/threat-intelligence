@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-25C87C",
+  "type": "ransomware-incident",
+  "title": "kharafiglobal.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kharafiglobal.com",
+    "domain": "kharafiglobal.com",
+    "country": "KW",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kharafi Global was established in 1993 by founding family members Waleed Al-Kharafi and Haidar Al-Naqeeb to develop and operate food beverage operations in Kuwait and neighboring Gulf countries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/40428091a408bb094dee6aadc398fc86.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2hhcmfmawdsb2jhbc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-09 00:00:00.000000",
+    "disclosedDate": "2024-05-25 12:51:24.731529"
+  }
+}

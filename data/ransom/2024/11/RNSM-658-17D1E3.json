@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-17D1E3",
+  "type": "ransomware-incident",
+  "title": "Nifast ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nifast",
+    "domain": "nifast.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "termite",
+    "name": "termite",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Operating from 1987, Nifast is a specialist of fastening components and automobile parts with a broad business scope of vendor approval, sourcing, quality assurance and delivery.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/21ec35dc29c566e6e054a0de2ad2cdae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmlmyxn0qhrlcm1pdgu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-12 22:55:37.000000",
+    "disclosedDate": "2024-11-17 19:24:29.596179"
+  }
+}

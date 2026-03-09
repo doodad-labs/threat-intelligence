@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-3106AB",
+  "type": "ransomware-incident",
+  "title": "www.metlife.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.metlife.com",
+    "domain": "metlife.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] MetLife is a leading global provider of insurance, annuities, and employee benefit programs. Established in 1868, it offers life, dental, disability, and accident insurance to individuals and groups. Headquartered in New York City, MetLife operates in over 40 countries, serving millions of customers. It focuses on delivering innovative solutions to help clients manage risks and secure their financial futures.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4c1057dced9c73a2ac83a3327c8e6a05.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1ldgxpzmuuy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-30 08:03:46.000000",
+    "disclosedDate": "2024-12-31 07:15:40.754811"
+  }
+}

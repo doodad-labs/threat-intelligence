@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-047CA4",
+  "type": "ransomware-incident",
+  "title": "Polanglo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Polanglo",
+    "domain": "polanglo.pl",
+    "country": "PL",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Polanglo SP. z O.o. is a network of bookstores and wholesalers operating since 1991 with an educational and language profile. Thanks to the dynamic development, we have been appreciated by the largest university publishing house in the world – Oxford University Press. The Oxford University Press authorities have granted us the exclusive right to import our English Language Teaching materials into Poland, and we make every effort to make Oxford University Press language publications available throughout Poland.https://www.polanglo.pl/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/47f5b8576a2a7cc7ef42da07244dd1ec.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ug9syw5nbg9aogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-04 00:00:00.000000",
+    "disclosedDate": "2023-07-04 08:56:13.411033"
+  }
+}

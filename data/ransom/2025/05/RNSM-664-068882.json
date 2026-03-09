@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-068882",
+  "type": "ransomware-incident",
+  "title": "NCheng ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NCheng",
+    "domain": "ncheng.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "NCheng LLP was founded in 1989 in New York City. Our practice is dedicated entirely to serve the not-f…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tknozw5nqfnpbgvudfjhbnnvbudyb3vw",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-20 00:28:39.142044",
+    "disclosedDate": "2025-05-06 18:16:23.161283"
+  }
+}

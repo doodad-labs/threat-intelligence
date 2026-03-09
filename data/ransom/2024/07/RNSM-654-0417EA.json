@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-0417EA",
+  "type": "ransomware-incident",
+  "title": "Elyria Foundry ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Elyria Foundry",
+    "domain": "elyriafoundry.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cc25bdc5aa6e2bca1a4b087f4371546f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwx5cmlhiezvdw5kcnlacgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-13 00:00:00.000000",
+    "disclosedDate": "2024-07-04 22:34:57.758344"
+  }
+}

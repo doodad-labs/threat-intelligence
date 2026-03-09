@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-225A06",
+  "type": "ransomware-incident",
+  "title": "Heli Securite ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Heli Securite",
+    "domain": "helisecurite.fr",
+    "country": "IT",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Héli Sécurité, the leading helicopter airline in FranceHeli Securite was founded in 1992 by Dominique Romet, a professional pilot, who wanted to nurture his passion for helicopters and put his experience to good use for his passengers.Two operational bases have since enabled Heli Securite to offer its passengers exceptional services: one in Annecy to serve the French and Swiss Alps, the other strategically located in Grimaud, close to Saint-Tropez, for private and regular flights dedicated to tourists and business travelers to all French Riviera, Provence, Corsica, and Italy destinations.Air transport does not support approximation, so Heli Securite’s teams are selected for their professionalism, expertise, and know-how. All of these professionals share a common goal: to deliver high-quality service, no matter when you travel.For more than 25 years, Heli Securite’s teams have been working to create luxury and personalized services and to anticipate the expectations of their customers. Heli Securite has deployed a range of services to facilitate the daily life of its customers, ranging from simple transfers between two destinations to initiation to piloting.This quality of service is made possible by the reliability of the helicopters, whose maintenance and servicing is managed internally in Heli Securite’s workshops and by the teams of its subsidiary Rotor Team. Heli Securite has been able to retain a demanding clientele by exploiting modern equipment whose comfort and materials rival those of the most beautiful yachts.Deluxe level service, exceptional reactivity, and highly secure flights have enabled Heli Securite to win and maintain the confidence of its customers. This trust and loyalty are the keys to Heli Securite’s longevity. https://helisecurite.fr/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/850479f6df2fb5214f94de5fd91c57c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvsasbtzwn1cml0zubzcgfjzwjlyxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-13 00:00:00.000000",
+    "disclosedDate": "2024-06-22 11:28:40.610433"
+  }
+}

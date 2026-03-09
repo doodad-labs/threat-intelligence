@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-03712C",
+  "type": "ransomware-incident",
+  "title": "Rutgers University ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rutgers University",
+    "domain": "rutgers.edu",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "flocker",
+    "name": "flocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have infiltrated the Rutgers.edu servers, a well-known educational institution. In just 7 days, we will unveil their hidden truths",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0534036691420aec46d9dcbb25b70e40.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/unv0z2vycybvbml2zxjzaxr5qgzsb2nrzxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-26 00:00:00.000000",
+    "disclosedDate": "2024-05-03 08:58:21.569708"
+  }
+}

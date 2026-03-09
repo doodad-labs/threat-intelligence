@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-097ABC",
+  "type": "ransomware-incident",
+  "title": "Substitute Teacher Service ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Substitute Teacher Service",
+    "domain": "thesubservice.com",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 210000000000,
+    "description": "Status: 6d 1h 50m 24s - Size Data: 210 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/488fda42f093d259936c677d28150f91.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vic3rpdhv0zsbuzwfjagvyifnlcnzpy2vay2ljywrhmzmwmq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-08 00:00:00.000000",
+    "disclosedDate": "2025-02-09 04:01:35.633820"
+  }
+}

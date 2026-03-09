@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-665-27B1F7",
+  "type": "ransomware-incident",
+  "title": "Morningsideservices ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Morningsideservices",
+    "domain": "morningsideservices.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "kawa4096",
+    "name": "kawa4096",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.morningsideservices.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d787d19b816693ff82a5e92a6eac309c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw9ybmluz3npzgvzzxj2awnlc0bryxdhnda5ng==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-20 18:23:55.821232",
+    "disclosedDate": "2025-06-27 14:17:27.664113"
+  }
+}

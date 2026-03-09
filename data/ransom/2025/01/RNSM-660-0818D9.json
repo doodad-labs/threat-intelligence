@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-660-0818D9",
+  "type": "ransomware-incident",
+  "title": "General Digital CRM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "General Digital CRM",
+    "domain": "my-gd.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Customer Relationship Management (CRM), a customer-centered business management philosophy. Use information technology to enhance customer satisfaction and loyalty; strengthen customer-oriented integrated information systems such as marketing, sales and service.Improve business operation processes in an automated way and integrate multiple external customer communication channels, including: website, call center, email, mobile devices, etc., to achieve the purpose of maintaining customer relationships, improving customer acquisition rates and increasing customer satisfaction.Microsoft certificationGeneral Digital has been awarded Microsoft Silver Certified Partner status, which represents the highest level of expertise in using Microsoft technology and provides professional sales, support, construction and integration solutions on the Microsoft platform.IBM certificationGeneral Digital has been certified as an IBM business partner by IBM PartnerWorld, providing professional sales, support, construction and integration solutions on various IBM software and hardware platforms. https://www.my-gd.com/MYGD/",
+    "claimed_data_types": [
+      "email-addresses"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aa3aedce701df2e97caded4af4432366.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2vuzxjhbcbeawdpdgfsienstubzcgfjzwjlyxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-08 07:00:15.198247",
+    "disclosedDate": "2025-01-08 07:01:35.356934"
+  }
+}

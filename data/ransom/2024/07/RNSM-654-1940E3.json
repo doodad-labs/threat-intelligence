@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-654-1940E3",
+  "type": "ransomware-incident",
+  "title": "gptchb.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gptchb.org",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Established in 1986, the Great Plains Tribal Leaders' Health Board (GPTLHB) is an organization representing the 18 tribal communities in the four-state region of South Dakota, North Dakota, Nebraska, and Iowa.   Through public health practices and...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4f5dd56cf2875db468e74bc59011b2f9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3b0y2hilm9yz0bsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-17 13:47:00.000000",
+    "disclosedDate": "2024-07-19 09:28:13.745432"
+  }
+}

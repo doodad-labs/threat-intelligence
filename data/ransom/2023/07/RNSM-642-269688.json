@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-269688",
+  "type": "ransomware-incident",
+  "title": "PCSupport ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PCSupport",
+    "domain": "pcsupport.co.nz",
+    "country": "NZ",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PC Support Christchurch is an onsite full-service computer support business. Operating in Canterbury since 2010, we are proudly 100% Kiwi owned and operated! Our highly trained, friendly technicians come to you.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b00a4a4b596dcb44e84f3b21adee8c04.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uentdxbwb3j0qgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-09-06 23:39:27.000000",
+    "disclosedDate": "2023-07-26 16:54:45.063267"
+  }
+}

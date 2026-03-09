@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-659-26262D",
+  "type": "ransomware-incident",
+  "title": "MLP Tax & Financial Services ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MLP Tax & Financial Services",
+    "domain": "mlpfinancial.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MLP Tax & Financial Services, Inc. is an independent firm providing tax and investment management services, including tax planning, return preparation, financial planning, retirement review, educational planning, and estate planning.We are ready to upload a lot of private corporate information including: SSNs, driver licenses, contact numbers and e-mail addresses of employees, corporate financial data, insurance documents etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tuxqifrhecamiezpbmfuy2lhbcbtzxj2awnlc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-26 00:00:00.000000",
+    "disclosedDate": "2024-12-26 13:40:15.669903"
+  }
+}

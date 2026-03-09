@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-084151",
+  "type": "ransomware-incident",
+  "title": "ncfe.org.in ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ncfe.org.in",
+    "domain": "ncfe.org.in",
+    "country": "IN",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] NCFE, or the National Centre for Financial Education, is an organization based in India focused on promoting financial literacy and education. It aims to empower individuals with essential financial knowledge and skills, enabling them to make informed financial decisions. NCFE collaborates with various stakeholders to implement educational initiatives and programs across the country, contributing to financial inclusion and awareness.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/507420c648e01555f3aca884230c9b1a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmnmzs5vcmcuaw5aznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-08 08:11:40.673932",
+    "disclosedDate": "2024-12-08 08:11:42.641465"
+  }
+}

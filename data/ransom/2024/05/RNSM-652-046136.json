@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-046136",
+  "type": "ransomware-incident",
+  "title": "ikfhomefinance.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ikfhomefinance.com",
+    "domain": "ikfhomefinance.com",
+    "country": "IN",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "darkvault",
+    "name": "darkvault",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "IKF Home Finance is a new age housing finance company rooted in the exceptional experience, values and track record of IKF in financing business and driven by the vision to transform lives in a new, thriving, aspirational India through flexible home loans.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/06e9bfa1c0dab085e960c69346f111c4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awtmag9tzwzpbmfuy2uuy29tqgrhcmt2yxvsda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-04 00:00:00.000000",
+    "disclosedDate": "2024-05-04 16:22:45.416786"
+  }
+}

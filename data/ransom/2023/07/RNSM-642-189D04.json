@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-189D04",
+  "type": "ransomware-incident",
+  "title": "suninsurance.com.fj ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "suninsurance.com.fj",
+    "domain": "suninsurance.com.fj",
+    "country": "FJ",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SUN Insurance (SUN) Company Limited is the only Fiji owned and operated General Insurance Company. The Company is head quartered at the Kaunikuila House, in Flagstaff, Suva, with its network of Agents and Branches spread across Fiji Islands.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8513c399965d17d8f836b3263253da69.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3vuaw5zdxjhbmnllmnvbs5makbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-18 13:02:00.000000",
+    "disclosedDate": "2023-07-18 13:55:49.780653"
+  }
+}

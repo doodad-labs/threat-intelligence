@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-15770E",
+  "type": "ransomware-incident",
+  "title": "Plug Power ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Plug Power",
+    "domain": "plugpower.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Plug Power is a premier provider of innovative hydrogen fuel cell solutions, specializing in clean energy technologies that enable the transition t...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f79be6c71fca5f3b31229de0dbcad575.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugx1zybqb3dlckbjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-15 20:46:11.540047",
+    "disclosedDate": "2025-09-15 20:46:24.662928"
+  }
+}

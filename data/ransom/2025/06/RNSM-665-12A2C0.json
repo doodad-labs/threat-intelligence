@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-12A2C0",
+  "type": "ransomware-incident",
+  "title": "biokplus.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "biokplus.com",
+    "domain": "biokplus.com",
+    "country": "CA",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data of this company will be available for download on 23.06.2025.Bio-K Plus International specializes in the research, production and marketing of Bio-K+ probiotic.1.Confidential agreement.2.Non-disclosure agreement.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0be7e166b539d609bfd5e5bb9b87e717.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymlva3bsdxmuy29tqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-12 00:00:00.000000",
+    "disclosedDate": "2025-06-12 15:05:26.673605"
+  }
+}

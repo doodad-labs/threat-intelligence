@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-29EF9A",
+  "type": "ransomware-incident",
+  "title": "Surfnet Communications ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Surfnet Communications",
+    "domain": "surfnetc.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.surfnetc.com Surfnet Communications is a high-speed...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d136d8e640a87ca45947f17f34507f4f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vyzm5ldcbdb21tdw5py2f0aw9uc0bhcmn1c21lzglh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-29 15:46:22.000000",
+    "disclosedDate": "2024-10-29 17:19:12.819566"
+  }
+}

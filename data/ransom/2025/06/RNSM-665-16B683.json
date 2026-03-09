@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-16B683",
+  "type": "ransomware-incident",
+  "title": "Tufton Capital Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tufton Capital Management",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000,
+    "description": "Tufton Capital Management is an independently owned wealth management and investment advisory firm serving high net worth individuals, families and institutions.We are going to upload about 3GB of corporate data. Numerous docswith client personal information as DOB, phone, address, emails are inside. Employee passports, driver licenses and other information can be found as well. Contracts, agreements and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhvmdg9uienhcgl0ywwgtwfuywdlbwvudebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-16 00:00:00.000000",
+    "disclosedDate": "2025-06-16 15:38:59.618968"
+  }
+}

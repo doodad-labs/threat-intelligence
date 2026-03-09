@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-648-265F82",
+  "type": "ransomware-incident",
+  "title": "elandenergy.com         Eland Energy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "elandenergy.com         Eland Energy",
+    "domain": "elandenergy.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "alphalocker",
+    "name": "alphalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "Eland Energy is an independent oil and natural gas exploration and production company. Eland's operations are focused onshore in the United States.stole ~100gb docs",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f0cc565e34463d4405e1299511017792.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwxhbmrlbmvyz3kuy29ticagicagicagrwxhbmqgrw5lcmd5qgfscghhbg9ja2vy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-26 15:01:53.810017",
+    "disclosedDate": "2024-01-26 15:01:53.810037"
+  }
+}

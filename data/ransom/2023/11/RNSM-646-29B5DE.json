@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-646-29B5DE",
+  "type": "ransomware-incident",
+  "title": "Lydall, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lydall, Inc.",
+    "domain": "lydall.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lydall is a New York Stock Exchange listed company, headquarteredin Manchester, Connecticut with global manufacturing operations producing specialty engineered products for the thermal/acoustical and filtration/separation markets. We are going to upload a good amount of their projects files with drawing and everything. There are many HR files with detailed information, finance, accounting in there.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/thlkywxslcbjbmmuqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-29 16:00:48.696952",
+    "disclosedDate": "2023-11-29 16:00:48.839738"
+  }
+}

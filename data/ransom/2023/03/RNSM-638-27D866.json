@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-27D866",
+  "type": "ransomware-incident",
+  "title": "ulmacarretillas.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ulmacarretillas.com",
+    "domain": "ulmacarretillas.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "With almost 40 years of experience, at ULMA Servicios de Manutención we offer the appropriate comprehensive logistics solution for all kinds of storage needs from different clients and sectors. Our in-depth knowledge of the handling and distribution...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e7867a6bf4639122e795c82904cb07df.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dwxtywnhcnjldglsbgfzlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-27 08:47:00.000000",
+    "disclosedDate": "2023-03-27 09:10:09.860526"
+  }
+}

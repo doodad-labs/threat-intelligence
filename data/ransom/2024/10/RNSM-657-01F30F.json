@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-657-01F30F",
+  "type": "ransomware-incident",
+  "title": "howardcpas.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "howardcpas.com",
+    "domain": "howardcpas.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "eldorado",
+    "name": "ElDorado",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Howard CPAs is a professional accounting firm offering comprehensive financial services including tax planning, auditing, consulting, and bookkeeping. Their team of experienced CPAs focuses on personalized solutions to meet the unique needs of individuals and businesses. Known for their commitment to accuracy and client service, they aim to help clients achieve financial success and compliance.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ag93yxjky3bhcy5jb21arwxeb3jhzg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-01 01:35:39.068897",
+    "disclosedDate": "2024-10-01 01:35:40.702214"
+  }
+}

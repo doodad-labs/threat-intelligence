@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-11F95E",
+  "type": "ransomware-incident",
+  "title": "falconmgt.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "falconmgt.com",
+    "domain": "falconmgt.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "reynolds",
+    "name": "reynolds",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Falcon Management Corp. was founded in 1991. The company's line of business includes providing financial planning and investment advisory services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5a11abac2c65a4612078f14a27e3c638.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmfsy29ubwd0lmnvbubyzxlub2xkcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-13 00:00:00.000000",
+    "disclosedDate": "2026-02-11 08:29:44.406414"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-650-2752D8",
+  "type": "ransomware-incident",
+  "title": "bulwarkpestcontrol.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bulwarkpestcontrol.com",
+    "domain": "bulwarkpestcontrol.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "blackbasta",
+    "name": "blackbasta",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 155000000000,
+    "description": "At Bulwark Exterminating, customers mean the world to us. As a family-owned business, we’re committed to keeping your household bug-free and happy with innovative, personalized pest control solutions. We make it a point to listen to your concerns and learn about your property, so we can provide the very best service possible. Unlike some corporate brands, we train our technicians to exceed expectations with every interaction. We believe that going the extra mile is the best way to do business because that’s what we would want for our families too. Are creepy crawlies making you lose sleep? The Bulwark Barrier keeps them at bay night and day.SITE: www.bulwarkpestcontrol.com Address : PO BOX 151 Queen Creek AZ 85142ALL DATA SIZE: ~ 155gb 1. Company data 2. Contracts and agreements & etc…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7485eeb435c4b7bc61069b0d292211d1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynvsd2fya3blc3rjb250cm9slmnvbubibgfja2jhc3rh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-13 00:00:00.000000",
+    "disclosedDate": "2024-03-27 19:26:22.224292"
+  }
+}

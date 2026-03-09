@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-662-22A6C7",
+  "type": "ransomware-incident",
+  "title": "National Edging ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "National Edging",
+    "domain": "nationaledging.co.za",
+    "country": "ZA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 120000000000,
+    "description": "Operating from our head office in Pinetown, KwaZulu-Natal, we have a nationwide footprint, stretching throughout South Africa and into Africa.National Edging was first established in 1997 and services the kitchen, furniture and shop-fitting industries in Sub-Saharan Africa. We’ve developed over 250 different designs in ABS, PVC, Melamine, Veneer Edgebanding and 3D Thermoplastic Foils, available in a variety of thicknesses and widths. National Edging stock the largest range of Edgebanding, PVAc, Flat Lamination, Foam Bonding, PU Dispersion and PUR adhesives in the country.We pride ourselves on the technical service and distribution network that we can offer our customers from any one of our 7 locations in South Africa. We have an active export division whilst also having offices in Nairobi Kenya. Production of furniture fittings.Geo: South Africa and into Africa. - Leak size: 120 GB Archive - Contains: Files, SQL",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmf0aw9uywwgrwrnaw5nqhnhcmnvbwe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-09 00:00:00.000000",
+    "disclosedDate": "2025-03-22 16:00:47.449162"
+  }
+}

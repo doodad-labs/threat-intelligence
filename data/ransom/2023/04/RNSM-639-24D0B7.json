@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-639-24D0B7",
+  "type": "ransomware-incident",
+  "title": "abro.se ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "abro.se",
+    "domain": "abro.se",
+    "country": "SE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 136000000000,
+    "description": "136gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1c01dcb9d0e00cd6242fb600f3753b7b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywjyby5zzubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-24 13:14:00.000000",
+    "disclosedDate": "2023-04-24 13:47:22.060606"
+  }
+}

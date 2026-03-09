@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-653-129245",
+  "type": "ransomware-incident",
+  "title": "Farnell Packaging ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Farnell Packaging",
+    "domain": "farnell.ns.ca",
+    "country": "CA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 193900000000,
+    "description": "Founded in 1961, Farnell Packaging is a family-owned and operated flexible packaging manufacturer servicing the North American market. The companyis headquartered in Dartmouth, Nova Scotia, Canada. The total amount of data leakage is 193.9 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmfybmvsbcbqywnrywdpbmdabwvkdxnh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-11 16:04:15.12345",
+    "disclosedDate": "2024-06-12 18:35:45.819314"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-643-022A1F",
+  "type": "ransomware-incident",
+  "title": "Grupo SCA - Business Information ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Grupo SCA - Business Information",
+    "domain": "gruposca.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Grupo SCA is a national consulting company specializing in solutions and consulting, operating on the market for more than twenty years. Our management team has been trained by multinational firms in the sector and our e...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/50ed38ef13577560d6534e3687d9ea6e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3j1cg8gu0nbic0gqnvzaw5lc3mgsw5mb3jtyxrpb25abm9lc2nhcgu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-25 00:00:00.000000",
+    "disclosedDate": "2023-08-02 16:07:46.871865"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-2604CB",
+  "type": "ransomware-incident",
+  "title": "blackswanhealth ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "blackswanhealth",
+    "domain": "blackswanhealth.com.au",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Black Swan Health is an independent not-for-profit healthcare provider specialising in the design and delivery of safe and high-quality primary health, mental health and disability services and supports.  As leaders in our field, we deliver a comprehensive range of high quality, person-centred services provided by qualified and experienced health professionals.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f475fe59164e56852753fe19a798a3f8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymxhy2tzd2fuagvhbhroqgfscgh2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-02 16:59:46.000000",
+    "disclosedDate": "2023-07-26 15:46:11.676858"
+  }
+}

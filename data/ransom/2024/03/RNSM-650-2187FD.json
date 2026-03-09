@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-650-2187FD",
+  "type": "ransomware-incident",
+  "title": "Ranzijn ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ranzijn",
+    "domain": "ranzijn.nl",
+    "country": "NL",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "raworld",
+    "name": "raworld",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f67df46dd4ea90692c1afcb1e904678a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umfuemlqbkbyyxdvcmxk",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.ad.nl/west-betuwe/dierenartspraktijk-ranzijn-slachtoffer-van-cyberaanval-gegevens-van-dieren-en-baasjes-gestolen~a6bc2e82/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-21 00:19:07.098862",
+    "disclosedDate": "2024-03-21 00:19:07.098888"
+  }
+}

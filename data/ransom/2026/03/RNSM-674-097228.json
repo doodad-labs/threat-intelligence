@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-674-097228",
+  "type": "ransomware-incident",
+  "title": "Peninsular Electric Distributors ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Peninsular Electric Distributors",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 60000000000,
+    "description": "Peninsular Electric offers a wide range of products including electrical equipment, heavy construction machinery, cleaning supplies, and safety gear. Their services cater to various sectors such as residential, commercial, and industrial clients.We will upload 60gb of corporate data soon. Employee files, customer information, financials, confidential agreements, projects and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvuaw5zdwxhcibfbgvjdhjpyybeaxn0cmlidxrvcnnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-09 00:00:00.000000",
+    "disclosedDate": "2026-03-09 18:36:08.629702"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-013EF3",
+  "type": "ransomware-incident",
+  "title": "TANATEX Chemicals ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TANATEX Chemicals",
+    "domain": "tanatexchemicals.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "metaencryptor",
+    "name": "metaencryptor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TANATEX Chemicals is an international organisation that sells, develops, and produces chemicals for the textile industry. The company have been leading innovative solutions for textile processing for almost 60 years. It has worldwide network of offices and distributors, support customers all over the world.Revenue: $117M Year 2022",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/544d3c4cc9cbbdd7e859d8b509a3f13d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vefoqvrfwcbdagvtawnhbhnabwv0ywvuy3j5chrvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-01 15:01:20.959862",
+    "disclosedDate": "2023-11-01 15:01:20.959883"
+  }
+}

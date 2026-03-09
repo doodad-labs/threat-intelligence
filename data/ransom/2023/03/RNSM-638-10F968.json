@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-10F968",
+  "type": "ransomware-incident",
+  "title": "wunan.org.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wunan.org.au",
+    "domain": "wunan.org.au",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wunan is an Aboriginal development organisation in the East Kimberley region of Western Australia. Wunan operates with a clear purpose and strategy to drive long-term socio- economic change for Aboriginal people by providing real opportunities, inves...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3vuyw4ub3jnlmf1qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-10 12:01:00.000000",
+    "disclosedDate": "2023-03-10 18:55:53.639466"
+  }
+}

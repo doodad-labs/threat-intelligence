@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-136084",
+  "type": "ransomware-incident",
+  "title": "Fic Expertise ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fic Expertise",
+    "domain": "fic-expertise.fr",
+    "country": "FR",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "About fifty employees with experience in accounting, taxation, auditing and laware at your disposal every day to implement all your projects. All work is supervised by one of the qualified specialists https://www.fic-expertise.fr/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/56b1d806591a56f003a683d6801eb233.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmljiev4cgvydglzzua4ymfzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-13 00:00:00.000000",
+    "disclosedDate": "2024-05-13 12:23:28.370554"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-665-193F37",
+  "type": "ransomware-incident",
+  "title": "Feng Chia University ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Feng Chia University",
+    "domain": "fcu.edu.tw",
+    "country": "TW",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Feng Chia University (FCU), located in Taichung, Taiwan, is a prominent private...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c9fb8111450a38c510850ffc96263cc6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmvuzybdaglhifvuaxzlcnnpdhlabm92yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-19 05:44:38.504261",
+    "disclosedDate": "2025-06-19 05:45:12.580655"
+  }
+}

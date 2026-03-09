@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-652-10E9CB",
+  "type": "ransomware-incident",
+  "title": "Reading Electric ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Reading Electric",
+    "domain": "readingelectric.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 82000000000,
+    "description": "Reading Electric is a leading supplier of electro-mechanical equipment, services, and problem solver for Industrial and Commercialcustomers. 82Gb of data will be available for downloading. You will find employees personal documents, confidential agreements, contracts inside and financial data inside.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvhzgluzybfbgvjdhjpy0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-10 12:10:16.171722",
+    "disclosedDate": "2024-05-10 12:10:16.246175"
+  }
+}

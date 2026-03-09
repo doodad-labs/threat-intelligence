@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-639-240D34",
+  "type": "ransomware-incident",
+  "title": "MW Components ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MW Components",
+    "domain": "mwcomponents.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 274000000000,
+    "description": "MW Components is focused on accelerating the entire process of delivering custom, stock, and standard parts to virtually any volume and against demanding deadlines. This time MW Components hasn't coped with deadlines and soon you will be able to download their data and see how they accelerate their their processes in their documents. Files of 274GB size that we obtained contain SSNs, passport data, detailed accounting and finance documents. Stay online!",
+    "claimed_data_types": [
+      "government-identifiers",
+      "passport-numbers"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c814a926238368aa8a1b61b18ca95da3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tvcgq29tcg9uzw50c0byb3lhba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-18 01:02:03.456789",
+    "disclosedDate": "2023-04-24 00:53:15.552147"
+  }
+}

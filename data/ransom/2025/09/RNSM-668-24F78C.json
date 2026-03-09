@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-24F78C",
+  "type": "ransomware-incident",
+  "title": "lwginc.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "lwginc.net",
+    "domain": "lwginc.net",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LWG Construction offers end-to-end commercial construction services, focusing on innovative solutions delivered with integrity and transparency. Their expertise spans various sectors including hospitality, retail, medical, and professional spaces, ensuring high-quality outcomes for diverse building projects. They prioritize teamwork, quality, and communication, fostering lasting relationships with clients, many of whom return for repeat business. With a commitment to safety and accountability, LWG Construction aims to exceed client expectations and create spaces that stand the test of time",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c15d5f7f13f56d63049cb6c18eac4ad0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bhdnaw5jlm5ldebsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-24 22:06:39.349000",
+    "disclosedDate": "2025-09-24 22:22:17.995066"
+  }
+}

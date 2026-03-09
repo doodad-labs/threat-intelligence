@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-651-088D05",
+  "type": "ransomware-incident",
+  "title": "REV Drill Sales & Rentals ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "REV Drill Sales & Rentals",
+    "domain": "revdrill.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "REV Drill Sales & Rentals provides economical drilling solutions and supports clients from start to finish in Frederick, MD. HR, financial docs, agreements, employee information and so on. We'll upload everything soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukvwieryawxsifnhbgvzicygumvudgfsc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-08 16:53:44.177087",
+    "disclosedDate": "2024-04-08 16:53:44.249492"
+  }
+}

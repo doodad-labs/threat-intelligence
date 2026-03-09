@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-641-232C1A",
+  "type": "ransomware-incident",
+  "title": "SONY.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SONY.COM",
+    "domain": "sony.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sony Group Portal - Home",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6c7faa82189fb77c2b7bce99835ec094.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u09ows5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-06-23 11:38:14.927844",
+    "disclosedDate": "2023-06-23 11:38:14.927866"
+  }
+}

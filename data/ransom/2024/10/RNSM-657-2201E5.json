@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-2201E5",
+  "type": "ransomware-incident",
+  "title": "Clear Connection (clearconnection.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Clear Connection (clearconnection.com)",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 71000000000,
+    "description": "71 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/084b38d7f18bd742344574fd1b7e5ffa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2xlyxigq29ubmvjdglvbiaoy2xlyxjjb25uzwn0aw9ulmnvbslazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-22 00:00:00.000000",
+    "disclosedDate": "2024-10-22 14:38:36.393308"
+  }
+}

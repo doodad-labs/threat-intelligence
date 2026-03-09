@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-204CCB",
+  "type": "ransomware-incident",
+  "title": "AJ Jersey ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AJ Jersey",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 22000000000,
+    "description": "AJ Jersey Inc. is an industry leader in Forklift Sales, Forklift Rentals, Forklift Service and all of your Material Handling needs.We will upload almost 22gb of corporate documents soon. Employee personal data (driver licenses of 73 employees, detailed health reports with DOB, phones, emails and so on), financials and accounting, client files, contracts, specifications, projects, NDA, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/quogsmvyc2v5qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-20 00:00:00.000000",
+    "disclosedDate": "2025-11-20 11:39:49.517524"
+  }
+}

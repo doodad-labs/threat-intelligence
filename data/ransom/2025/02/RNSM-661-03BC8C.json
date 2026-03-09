@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-661-03BC8C",
+  "type": "ransomware-incident",
+  "title": "realtaxcanada.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "realtaxcanada.com",
+    "domain": "realtaxcanada.com",
+    "country": "CA",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "apt73",
+    "name": "apt73",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000,
+    "description": "Accounting Services · Canada | clients' data. 5 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4b99e7f12f468d7e9d659ff65441d06a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmvhbhrhegnhbmfkys5jb21ayxb0nzm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-17 09:59:54.930661",
+    "disclosedDate": "2025-02-03 09:59:33.224089"
+  }
+}

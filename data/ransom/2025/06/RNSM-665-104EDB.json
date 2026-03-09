@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-665-104EDB",
+  "type": "ransomware-incident",
+  "title": "education.gouv.fr ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "education.gouv.fr",
+    "domain": "education.gouv.fr",
+    "country": "FR",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data of over +40,000 individuals has been accessed. The data includes email addresses, passwords, dates, login URLs, names, and regions",
+    "claimed_data_types": [
+      "passwords",
+      "email-addresses",
+      "addresses"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/472a6129ea255c1418e0cfe6ee432672.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwr1y2f0aw9ulmdvdxyuznjac3rvcm1vdxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-10 06:33:17.553189",
+    "disclosedDate": "2025-06-10 06:35:27.141646"
+  }
+}

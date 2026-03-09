@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-100658",
+  "type": "ransomware-incident",
+  "title": "deltachildren.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "deltachildren.com",
+    "domain": "deltachildren.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Delta Children is a family-owned and operated business dedicated to manufacturing high-quality children's furniture. Founded in 1968, they offer a wide range of products, including cribs, beds, dressers, and strollers. The company is known for its dedication to safety and rigorous testing of all products, ensuring they exceed industry standards for children's furniture. Despite its global operations, Delta Children maintains its family-oriented principles, ensuring value, safety, and well-being for every family.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvsdgfjaglszhjlbi5jb21ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 20:01:32.006190",
+    "disclosedDate": "2025-02-10 20:01:41.289151"
+  }
+}

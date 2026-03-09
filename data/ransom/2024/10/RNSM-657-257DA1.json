@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-257DA1",
+  "type": "ransomware-incident",
+  "title": "NoBroker ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NoBroker",
+    "domain": "nobroker.in",
+    "country": "IN",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "$50000",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/287ac3f1d473294de1ee2da4eac8492f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9ccm9rzxjaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 16:45:55.746182",
+    "disclosedDate": "2024-10-25 16:45:56.673284"
+  }
+}

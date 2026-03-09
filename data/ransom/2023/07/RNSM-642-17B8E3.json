@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-17B8E3",
+  "type": "ransomware-incident",
+  "title": "COMPUCOM.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "COMPUCOM.COM",
+    "domain": "compucom.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Your Single Source for Managed IT Services Supporting Enterprises",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/68000f1dd8426b33b61cd7481e9ebea1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q09nufvdt00uq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-17 13:21:17.920278",
+    "disclosedDate": "2023-07-17 13:21:17.920303"
+  }
+}

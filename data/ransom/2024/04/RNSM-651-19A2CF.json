@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19A2CF",
+  "type": "ransomware-incident",
+  "title": "andesaservices.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "andesaservices.com",
+    "domain": "andesaservices.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "andesaservices.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5cac9eb0c00ed4edc7b5da2def1ef3e2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw5kzxnhc2vydmljzxmuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-08-27 22:46:00.000000",
+    "disclosedDate": "2024-04-19 11:30:39.330585"
+  }
+}

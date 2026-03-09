@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-27DD34",
+  "type": "ransomware-incident",
+  "title": "Contrack Facilities Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Contrack Facilities Management",
+    "domain": "contrackfm.com",
+    "country": "AE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "raworld",
+    "name": "raworld",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Contrack Facilities Management is a company specializing in comprehensive facilities management services. They provide solutions for property maintenance, operations, and support services. Their offerings often include building maintenance, cleaning, security, and energy management, tailored to enhance the efficiency and sustainability of client properties. They cater to various sectors, ensuring optimal facility performance.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/85bcc3c770a13b63511072c188887b9b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29udhjhy2sgrmfjawxpdgllcybnyw5hz2vtzw50qhjhd29ybgq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-27 21:05:04.483770",
+    "disclosedDate": "2024-11-27 21:05:07.217561"
+  }
+}

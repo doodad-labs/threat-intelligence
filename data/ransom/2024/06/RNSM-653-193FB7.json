@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-653-193FB7",
+  "type": "ransomware-incident",
+  "title": "DERBY SCHOOL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DERBY SCHOOL",
+    "domain": "upperdarbysd.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome to the Upper Darby School District, home of the Royals!\r \r Located just outside of Philadelphia, we are one of the largest township school districts in the United States, educating over 12,000 students every day, who represent over 60 countries and 70 languages!\r \r From celebrations to graduations, there's always something exciting happening in one of our fourteen schools, as we strive to provide opportunity, create unity, and showcase our excellence here at the Upper Darby School District!",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/revsqlkgu0nit09mqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-11 05:30:01.879000",
+    "disclosedDate": "2024-06-19 11:42:48.026583"
+  }
+}

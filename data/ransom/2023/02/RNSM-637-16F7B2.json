@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-637-16F7B2",
+  "type": "ransomware-incident",
+  "title": "vitrox.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "vitrox.com",
+    "domain": "vitrox.com",
+    "country": "MY",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ViTrox Corporation Berhad (MYX: 0097) is a Malaysian based electronics company located at Penang, Malaysia. Vitrox specializes in designing and developing automated vision inspection system and equipment testers for the semiconductor and electronic p...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dml0cm94lmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-02-16 21:48:36.236480",
+    "disclosedDate": "2023-02-16 21:48:36.236480"
+  }
+}

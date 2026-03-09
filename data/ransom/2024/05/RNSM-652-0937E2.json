@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-0937E2",
+  "type": "ransomware-incident",
+  "title": "asafoot.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "asafoot.com",
+    "domain": "asafoot.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Our team at A Step Ahead Foot & Ankle Center is dedicated to offering you excellence in first step foot care. Our facilities have been designed to provide you with the utmost in comfort and convenience.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9841f20acd0baac9504617ca0a7f7312.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxnhzm9vdc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-04-09 00:00:00.000000",
+    "disclosedDate": "2024-05-09 12:36:43.871912"
+  }
+}

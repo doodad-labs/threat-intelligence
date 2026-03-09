@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-2777A5",
+  "type": "ransomware-incident",
+  "title": "gervetusa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gervetusa.com",
+    "domain": "gervetusa.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "gervetusa.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c5deea410a972dd37cee7a671257a556.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2vydmv0dxnhlmnvbubiywj1azi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-27 07:55:13.924363",
+    "disclosedDate": "2025-01-27 07:56:21.269929"
+  }
+}

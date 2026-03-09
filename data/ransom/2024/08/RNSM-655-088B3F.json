@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-088B3F",
+  "type": "ransomware-incident",
+  "title": "Horizon View Medical Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Horizon View Medical Center",
+    "domain": "horizonviewmed.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Company has the last 24 hours to contact us using the instructions left.In case of silence, all data will be published https://horizonviewmed.com(702) 641-85006170 N Durango Dr Ste 220 Las Vegas, NV 89149",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ddc388ebed3fd46c9b2a5794d5ca8493.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9yaxpvbibwawv3ie1lzgljywwgq2vudgvyqgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-08 07:08:05.727996",
+    "disclosedDate": "2024-08-08 07:08:06.664250"
+  }
+}

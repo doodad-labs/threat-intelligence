@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-262740",
+  "type": "ransomware-incident",
+  "title": "FERRING.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FERRING.COM",
+    "domain": "ferring.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "403 Forbidden",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d0207958d3f8813efde05159d7efc530.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rkvsuklory5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-26 20:39:19.087191",
+    "disclosedDate": "2023-07-26 20:39:19.087219"
+  }
+}

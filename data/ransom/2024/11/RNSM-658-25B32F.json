@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-25B32F",
+  "type": "ransomware-incident",
+  "title": "yunker.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "yunker.com",
+    "domain": "yunker.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Yunker.com is a company specializing in the design, production, and installation of signage and visual display solutions. They offer a range of services that include custom signs, graphics, and branding elements tailored to enhance retail environments and corporate spaces. With a focus on quality and innovation, Yunker.com aims to meet the unique needs of businesses seeking impactful visual communication.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/617e80bd911bc0556aa34a2fdac3ddfa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/exvua2vylmnvbubyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-25 15:38:40.000000",
+    "disclosedDate": "2024-11-25 16:47:54.403026"
+  }
+}

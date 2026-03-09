@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-654-256E2B",
+  "type": "ransomware-incident",
+  "title": "panitchlaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "panitchlaw.com",
+    "domain": "panitchlaw.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ca206acadebd970f01f477b8eacc1d9b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgfuaxrjagxhdy5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-25 17:09:21.000000",
+    "disclosedDate": "2024-07-25 19:20:26.414142"
+  }
+}

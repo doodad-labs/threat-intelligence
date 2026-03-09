@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-27E727",
+  "type": "ransomware-incident",
+  "title": "HOLLANDIADAIRY.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HOLLANDIADAIRY.COM",
+    "domain": "hollandiadairy.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Hollandia Dairy is a family-owned and operated dairy company located in San Diego, California. Established in 1950, it provides a range of fresh dairy produce to its local community. Their product line includes milk, cheese, yoghurt, sour cream, eggs, juices, and more. The company prides itself on its dedication to sustainable farming practices, ensuring the welfare of their animals and the quality of their products.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/se9mteforelbrefjulkuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 18:11:45.983711",
+    "disclosedDate": "2025-02-27 18:11:51.358715"
+  }
+}

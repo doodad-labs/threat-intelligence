@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-10B298",
+  "type": "ransomware-incident",
+  "title": "diazfoods.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "diazfoods.com",
+    "domain": "diazfoods.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Diaz Foods is a leading importer and distributor of specialty foods from Latin America and Spain in the U.S. The company offers a wide range of products including canned goods, bakery items, meat, seafood and beverages, among others. Founded in 1980, Diaz Foods serves retail grocers, foodservice operators, and wholesale distributors. Over the years, it has developed a reputation for quality products and customer service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zglhemzvb2rzlmnvbubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-10 20:03:04.629728",
+    "disclosedDate": "2025-02-10 20:03:10.725353"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-0332F2",
+  "type": "ransomware-incident",
+  "title": "DPA Auctions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DPA Auctions",
+    "domain": "dpaauctions.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DPA Auctions, headquartered in Fremont, Nebraska, and established in 1972, is a heavy machinery online auction company offering products for the agricultural, construction, and transportation industries",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/35945d6a88a0e1cde407bf1f4062ea07.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rfbbief1y3rpb25zqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-24 00:00:00.000000",
+    "disclosedDate": "2025-02-03 12:14:21.580920"
+  }
+}

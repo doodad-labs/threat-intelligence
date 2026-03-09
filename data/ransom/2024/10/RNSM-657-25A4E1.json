@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-657-25A4E1",
+  "type": "ransomware-incident",
+  "title": "Cucamonga Valley Water District (cvwdwater.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cucamonga Valley Water District (cvwdwater.com)",
+    "domain": "cvwdwater.com",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "fog",
+    "name": "fog",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 41000000000,
+    "description": "41 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d735eb8c5169024b6ee6aa80cd4e8a49.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q3vjyw1vbmdhifzhbgxlesbxyxrlcibeaxn0cmljdcaoy3z3zhdhdgvylmnvbslazm9n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://cvwdwater.com/alertcenter.aspx?aid=update-on-computer-network-disruption-14",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-25 00:00:00.000000",
+    "disclosedDate": "2024-10-25 13:11:46.225630"
+  }
+}

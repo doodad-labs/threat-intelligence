@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-661-274FEF",
+  "type": "ransomware-incident",
+  "title": "Lee Enterprises ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lee Enterprises",
+    "domain": "lee.net",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data will be published on March 5, 2025.We are preparing to share sensitive data with the public that could shed new light on Lee Enterprises, a prominent newspaper publishing firm active across all U.S. states. The documents we hold ab            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvlievudgvychjpc2vzqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://lesnews.ca/tech/cybersecurite/lee-enterprises-confronte-a-une-cyberattaque-menacant-ses-journaux/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 00:00:00.000000",
+    "disclosedDate": "2025-02-27 18:48:36.809854"
+  }
+}

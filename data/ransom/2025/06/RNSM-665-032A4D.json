@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-665-032A4D",
+  "type": "ransomware-incident",
+  "title": "Dynamic Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dynamic Engineering",
+    "country": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 7000000000,
+    "description": "Dynamic Engineering provides best maintained production machine shop equipment available. We are going to upload about 7 GB of corporate data. Employee (and relatives) personal information, financial data, projects info,client data, contracts and agreements, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhluyw1pyybfbmdpbmvlcmluz0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-03 00:00:00.000000",
+    "disclosedDate": "2025-06-03 14:49:14.639931"
+  }
+}

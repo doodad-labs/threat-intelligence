@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-273455",
+  "type": "ransomware-incident",
+  "title": "MAINFREIGHT.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MAINFREIGHT.COM",
+    "domain": "mainfreight.com",
+    "country": "NZ",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Mainfreight Ltd is a global logistics and freight company headquartered in New Zealand. The company specializes in managed warehousing and international and domestic freight forwarding. Mainfreight offers comprehensive logistic solutions, including supply chain management and specialized freight like hazardous substances and perishables. Its footprint spans Oceania, Asia, Europe, and the Americas, with a strong commitment to sustainable practices.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tufjtkzsrulhsfquq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 16:48:26.515118",
+    "disclosedDate": "2025-02-27 16:48:32.140284"
+  }
+}

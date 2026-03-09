@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-02FCD2",
+  "type": "ransomware-incident",
+  "title": "TriMed Inc. (Henry Schein) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TriMed Inc. (Henry Schein)",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Headquartered in Santa Clarita, California, TriMed is a leader in developing creative and clinically relevant surgical solutions that improve treatment in both the upper and lower extremities. In 2024, TriMed had net sales of approximately $58 million.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f215f88b17c05edce9d3ec2a4395de55.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjptwvkieluyy4gkehlbnj5ifnjagvpbilabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-02 19:16:03.743000",
+    "disclosedDate": "2025-10-02 19:36:32.202923"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-23AD60",
+  "type": "ransomware-incident",
+  "title": "ACCUZIP.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ACCUZIP.COM",
+    "domain": "accuzip.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AccuZIP Bulk Postal Software and Data Cleansing For Direct Mail Marketing",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2f8b48f0fba4f080e5cdea03a3a3a8cc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qundvvpjuc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-23 12:35:03.693816",
+    "disclosedDate": "2023-03-23 12:35:03.693844"
+  }
+}

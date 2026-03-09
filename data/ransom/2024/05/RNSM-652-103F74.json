@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-103F74",
+  "type": "ransomware-incident",
+  "title": "Kuhn Rechtsanwlte GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kuhn Rechtsanwlte GmbH",
+    "domain": "kanzlei-kuhn.at",
+    "country": "AT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "monti",
+    "name": "monti",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Law Firms & Legal Services",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s3vobibszwnodhnhbndsdgugr21isebtb250aq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-10 11:21:34.000000",
+    "disclosedDate": "2024-05-10 10:22:08.237873"
+  }
+}

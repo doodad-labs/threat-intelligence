@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-635-268268",
+  "type": "ransomware-incident",
+  "title": "Livingston ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Livingston",
+    "domain": "livingstonintl.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "avoslocker",
+    "name": "avoslocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Livingston is a quality source for rental of all Test Equipment and Equipment Management Services with local offices in all major countries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgl2aw5nc3rvbkbhdm9zbg9ja2vy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-26 16:12:32.775402",
+    "disclosedDate": "2022-12-26 16:12:32.775402"
+  }
+}

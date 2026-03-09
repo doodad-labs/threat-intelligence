@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-25A5DE",
+  "type": "ransomware-incident",
+  "title": "DGCX ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DGCX",
+    "domain": "dgcx.ae",
+    "country": "AE",
+    "sector": ""
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DGCX is a subsidiary of Dubai Multi Commodities Centre (DMCC), a strategic initiative of the Government of Dubai, with a mandate to enhance commodity trade flows through the Emirate by providing the appropriate physical, market, financial infrastructure and services required.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c096e14951b5fc09d8b7686fce5533fb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/reddwebzdg9ybw91cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-25 21:14:50.848517",
+    "disclosedDate": "2023-03-25 21:14:50.848598"
+  }
+}

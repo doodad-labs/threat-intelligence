@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-669-3092CE",
+  "type": "ransomware-incident",
+  "title": "Apache OpenOffice ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Apache OpenOffice",
+    "domain": "openoffice.org",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 23000000000,
+    "description": "Apache OpenOffice is an open-source office productivity software suite developed by the Apache Software Foundation. It was createdas a successor project of OpenOffice.org, itself a successor to StarOffice.We will upload 23gb of corporate documents soon. Employee information (addresses, phones, DOB, driver licenses, social security cards, credit cards information and so on), financial information, internal confidential files, lots of reports about their problemswith the application and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7feb90d70c8d4c85ecf7a0143f6964ab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxbhy2hlie9wzw5pzmzpy2vaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-30 00:00:00.000000",
+    "disclosedDate": "2025-10-30 12:15:54.821930"
+  }
+}

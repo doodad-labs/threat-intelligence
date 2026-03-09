@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-13FD22",
+  "type": "ransomware-incident",
+  "title": "Brovedani Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Brovedani Group",
+    "domain": "brovedanigroup.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BROVEDANI GROUP S.P.A. ANNOUNCES THE ACQUISITION of a controlling stake of Mondial Facert SRL San Vito al Tagliamento, 4th September 2018 Mondial Facert is headquartered in Brandizzo, in the district of Torino and deals with precision mechanical machining since 1949.brovedanigroup.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a9c28e8b0e0da8a220ccbfeb57cbd1ef.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjvdmvkyw5piedyb3vwqdhiyxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-13 00:00:00.000000",
+    "disclosedDate": "2024-05-13 12:24:43.892797"
+  }
+}

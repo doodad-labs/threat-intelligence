@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-649-258E64",
+  "type": "ransomware-incident",
+  "title": "magierp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "magierp.com",
+    "domain": "magierp.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "MAGI develops and supports high quality ERP business solutions for small to mid-sized manufacturers. MAGI has been developing software solutions since 1985 and has installations worldwide. Our premier product, WinMAGI, is a world class manufacturing...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3a0b42980a420a621324ddb05eff6124.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfnawvycc5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-24 21:35:00.000000",
+    "disclosedDate": "2024-02-25 03:43:55.524549"
+  }
+}

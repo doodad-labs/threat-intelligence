@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-665-12DFF1",
+  "type": "ransomware-incident",
+  "title": "Dyrham Park ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dyrham Park",
+    "country": "GB",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 38000000000,
+    "description": "Dyrham Park Country Club is a private members golf and country club in Barnet.We are going to upload about 38GB of corporate data. Lots of documents with client (and family members) personal information (DOB,Emails address, address, phone, driver license), financial data,contracts and agreements, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhlyagftifbhcmtaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-12 00:00:00.000000",
+    "disclosedDate": "2025-06-12 13:40:38.305716"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-661-2798FD",
+  "type": "ransomware-incident",
+  "title": "GOURMETTRADING.NET ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GOURMETTRADING.NET",
+    "domain": "gourmettrading.net",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Gourmet Trading Company, based in California, is a global supplier and distributor of fresh produce. Established in 1982, it specializes in supplying asparagus and blueberries, among other fruits and vegetables. Their network spans across North and South America, Australia, and New Zealand, serving retailers, wholesalers, and foodservice distributors. Apart from offering top-quality products, Gourmet Trading Company also values sustainability and social responsibilities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r09vuk1fvfrsqurjtkcutkvuqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 18:05:54.949706",
+    "disclosedDate": "2025-02-27 18:05:59.753085"
+  }
+}

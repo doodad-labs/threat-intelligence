@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-2787F7",
+  "type": "ransomware-incident",
+  "title": "www.law-taxes.pl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.law-taxes.pl",
+    "domain": "law-taxes.pl",
+    "country": "PL",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.law-taxes.pl is a professional firm based in Poland, offering specialized services in legal and tax advisory. The company assists both individuals and businesses with a wide range of legal matters, tax planning, and compliance issues. Their team of experienced lawyers and tax advisors is dedicated to providing personalized solutions to meet the unique needs of their clients, ensuring efficient and effective support.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/82bb02bc5115719840629627ef2d0a14.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmxhdy10yxhlcy5wbebyyw5zb21odwi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-28 00:00:00.000000",
+    "disclosedDate": "2024-09-27 00:18:13.235165"
+  }
+}

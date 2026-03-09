@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-257772",
+  "type": "ransomware-incident",
+  "title": "BK Aerospace ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BK Aerospace",
+    "domain": "b-kmfg.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "> What do you think about the classified documents, orders and much more by BOEING?> What about the Hellfire Dummy Seeker blueprints? Offer a full range of complementary services to our customers for design, test, manufacture and assembly of complex hardware.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qksgqwvyb3nwywnlqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-25 18:14:14.381459",
+    "disclosedDate": "2024-07-25 19:14:47.840034"
+  }
+}

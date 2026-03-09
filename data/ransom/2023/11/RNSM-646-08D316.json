@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-08D316",
+  "type": "ransomware-incident",
+  "title": "amberhillgroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "amberhillgroup.com",
+    "domain": "amberhillgroup.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Amber Hill Group is a global investment group. We focus on providing professional and customized wealth management solutions to institutional investors and high-net-worth individuals around the world. We established our core quantitative trading syst...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1b110ce17f1e38e79ce06047679d7248.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw1izxjoawxsz3jvdxauy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-08 19:55:00.000000",
+    "disclosedDate": "2023-11-08 20:28:24.383540"
+  }
+}

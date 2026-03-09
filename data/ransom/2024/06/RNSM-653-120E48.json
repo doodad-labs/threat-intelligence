@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-653-120E48",
+  "type": "ransomware-incident",
+  "title": "Western Mechanical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Western Mechanical",
+    "domain": "westmech-hvac.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b7a28bdb2031e8bfd5cd4d3c8fd95fa7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vzdgvybibnzwnoyw5py2fsqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-03 00:00:00.000000",
+    "disclosedDate": "2024-06-12 18:45:40.312089"
+  }
+}

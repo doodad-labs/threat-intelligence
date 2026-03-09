@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-642-0645EA",
+  "type": "ransomware-incident",
+  "title": "gacegypt.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gacegypt.net",
+    "domain": "gacegypt.net",
+    "country": "EG",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 452000000000,
+    "description": "GAC Egypt provides a range of shipping, logistics and marine services in Egypt, including Suez Canal Transits and Aviation Services.!!!Change the negotiatorHe asked for a private chat and is not negotiating. Over 452gb of data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4b259ac2197a5bc8ea4911e699b5f4da.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2fjzwd5chqubmv0qgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-06 15:16:00.000000",
+    "disclosedDate": "2023-07-06 15:55:41.566917"
+  }
+}

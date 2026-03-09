@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-674-03BC46",
+  "type": "ransomware-incident",
+  "title": "Integral Analytics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Integral Analytics",
+    "domain": "integralanalytics.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ailock",
+    "name": "AiLock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Integral Analytics specializes in data intelligence solutions for the energy sector, focusing on improving planning and forecasting for utilities, producers, manufacturers, and regulators.Their flagship products include LoadSEER, DSMore, and IDROP, which assist in energy efficiency, demand response, and distributed energy resource management.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw50zwdyywwgqw5hbhl0awnzqefptg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-10 00:00:00.000000",
+    "disclosedDate": "2026-03-03 09:40:21.405747"
+  }
+}

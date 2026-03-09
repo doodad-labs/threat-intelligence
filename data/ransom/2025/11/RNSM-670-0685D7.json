@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-0685D7",
+  "type": "ransomware-incident",
+  "title": "DRD Communications ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DRD Communications",
+    "domain": "zoominfo.com",
+    "country": "US",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://www.zoominfo.com/c/drd-software-and-systems-india-private-ltd/372534475 www.drd.co.in DRD India is a telecommunications and software development company with over 25 years of experience, dedicated to rejuvenating the telecommunications channel. They offer products and services such as Uboss, a cloud trading platform, and VanillaIP, a white label channel provider for the UK market. The company is committed to continuous development and innovation, ensuring high-quality solutions for their clients. DRD India caters to a wide audience, having successfully served millions of users over the years.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rfjeienvbw11bmljyxrpb25zqhrozwdlbnrszw1lbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-19 00:00:00.000000",
+    "disclosedDate": "2025-11-06 15:49:01.505081"
+  }
+}

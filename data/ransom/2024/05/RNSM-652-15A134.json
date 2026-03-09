@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-15A134",
+  "type": "ransomware-incident",
+  "title": "Consulting Radiologists ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Consulting Radiologists",
+    "domain": "consultingradiologists.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Consulting Radiologists LTD is an independent radiology group based out of Minneapolis, providing a complete range of radiology services to the healthcare community, including outpatient imaging services. After 89 years of existence, CRL cont            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29uc3vsdgluzybsywrpb2xvz2lzdhnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.twincities.com/2024/02/15/cyber-attack-shuts-down-access-to-off-site-radiology-services-for-some-allina-sites-other-healthcare-groups/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-11 00:00:00.000000",
+    "disclosedDate": "2024-05-15 22:41:16.392203"
+  }
+}

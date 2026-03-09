@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-0638BF",
+  "type": "ransomware-incident",
+  "title": "Steiner (Austrian furniture makers) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Steiner (Austrian furniture makers)",
+    "country": "AT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 20000000000,
+    "description": "Individual pieces of furniture combining creativity, aesthetics and function are the company's hallmark. About 20Gb of their data will be available for downloading soon. HR documents, contracts, clients info and projects can be found inside.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rlaw5lciaoqxvzdhjpyw4gznvybml0dxjlig1ha2vycylaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-06 13:12:40.645624",
+    "disclosedDate": "2024-03-06 13:12:40.713039"
+  }
+}

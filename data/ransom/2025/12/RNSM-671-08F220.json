@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-08F220",
+  "type": "ransomware-incident",
+  "title": "Carbon Graphics Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Carbon Graphics Group",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 35000000000,
+    "description": "Carbon Graphics Group provides a complete range of advanced visual communications solutions leveraging the latest technology.We are ready to upload 35gb of corporate data. Detailed financials, HR files, agreements and contracts, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fyym9uiedyyxboawnziedyb3vwqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-08 00:00:00.000000",
+    "disclosedDate": "2025-12-08 13:37:07.716842"
+  }
+}

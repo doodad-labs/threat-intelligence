@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-09CE22",
+  "type": "ransomware-incident",
+  "title": "One Broker Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "One Broker Group",
+    "domain": "obg.ae",
+    "country": "AE",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "No description available.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/db075c8538a373d62437ba3e24a9e789.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t25liejyb2tlcibhcm91cebjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-09 05:12:49.574584",
+    "disclosedDate": "2025-12-09 05:13:01.779406"
+  }
+}

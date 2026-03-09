@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-644-0541EE",
+  "type": "ransomware-incident",
+  "title": "TissuPath Australia FULL LEAK ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TissuPath Australia FULL LEAK",
+    "domain": "tissupath.com.au",
+    "country": "AU",
+    "sector": ""
+  },
+  "actor": {
+    "id": "alphv",
+    "name": "alphv",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TissuPath is Victoria’s premier specialist histopathology practice.  Established in 2004 and independently owned and operated by the reporting pathologists, we are very proud of the quality, reliable and friendly service we provide to our requesting doctors and their patients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c9d4d46d633fe9d353b0c59f59b90936.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vglzc3vqyxroief1c3ryywxpysbgvuxmiexfqutaywxwahy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.theguardian.com/technology/2023/sep/05/tissupath-hack-patient-data-breach-cyber-attack-melbourne-pathology-clinic",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-02 18:19:52.123456",
+    "disclosedDate": "2023-09-05 17:33:51.645236"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-635-11825A",
+  "type": "ransomware-incident",
+  "title": "PTSC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PTSC",
+    "country": "VN",
+    "sector": ""
+  },
+  "actor": {
+    "id": "karakurt",
+    "name": "karakurt",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000000,
+    "description": "PTSC, a member of Vietnam Oil & Gas Group (PetroVietnam - PVN), was established on the implementation of Decision No. 458/TTg dated 24 November 1976 for the approval of the master plan to build a petroleum base in Vung Tau city. In this release we can offer you 1,3 TB of their corporate data. You will definitely enjoy!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3990be04acd8097d337eaab38f922ba3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ufrtq0bryxjha3vyda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-11 09:34:34.110268",
+    "disclosedDate": "2022-12-11 09:34:34.110268"
+  }
+}

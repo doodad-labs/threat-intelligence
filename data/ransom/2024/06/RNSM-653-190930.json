@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-653-190930",
+  "type": "ransomware-incident",
+  "title": "Perfumes & Companhia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Perfumes & Companhia",
+    "domain": "perfumesecompanhia.pt",
+    "country": "PT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 5000000000,
+    "description": "Perfumes & Companhia is a company that operates in the Cosmetics  industry. It employs 501-1,000 people and has about $500M of reve nue. The company is h eadquartered in Lisbon, Lisbon, Portugal. 2 5GB of their data will go public soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvyznvtzxmgjibdb21wyw5oawfaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-19 14:48:09.517210",
+    "disclosedDate": "2024-06-19 14:48:10.540952"
+  }
+}

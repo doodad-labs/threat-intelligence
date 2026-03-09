@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-654-192E53",
+  "type": "ransomware-incident",
+  "title": "claycountyin.gov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "claycountyin.gov",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Clay County is a county located in the northeastern part of the U.S. state of Florida along the west bank of the St. Johns River. As of 2020, the population was 218,245 and in 2023, that number increased to 232,439, making it the third largest county...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a7c70e138221e3685fba3582cb224067.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2xhewnvdw50ewlulmdvdkbsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-18 14:38:00.000000",
+    "disclosedDate": "2024-07-19 09:26:41.969905"
+  }
+}

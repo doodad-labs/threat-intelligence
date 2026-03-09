@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-017537",
+  "type": "ransomware-incident",
+  "title": "konkconsulting.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "konkconsulting.com",
+    "domain": "konkconsulting.com",
+    "country": "PT",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Headquartered in Portugal, konkconsulting is an internationally oriented company with more than 10 years of experience in Microsoft, Oracle and SAP platforms.database (bak)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/037b37f9874404ca2568906b9ac9fa47.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a29ua2nvbnn1bhrpbmcuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-01 09:29:00.000000",
+    "disclosedDate": "2023-09-01 10:01:21.142168"
+  }
+}

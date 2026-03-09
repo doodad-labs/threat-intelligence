@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-645-1381CE",
+  "type": "ransomware-incident",
+  "title": "pilini.bg Database, Download Now! ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pilini.bg Database, Download Now!",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "ransomed",
+    "name": "ransomed",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://qu.ax/fiSD.sql",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fa98e3eff75106cb1cfc7c82669930b5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cglsaw5plmjnierhdgfiyxnllcbeb3dubg9hzcbob3chqhjhbnnvbwvk",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-13 08:00:12.417248",
+    "disclosedDate": "2023-10-13 08:00:12.417286"
+  }
+}

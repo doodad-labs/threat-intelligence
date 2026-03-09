@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-638-100160",
+  "type": "ransomware-incident",
+  "title": "Highway Equipment ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Highway Equipment",
+    "domain": "highway-equipment.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "royal",
+    "name": "royal",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Highway Equipment is a rental and leasing company of construction equipment and related parts. The company was founded in 1933 and is headquartered in Pennsylvania.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bd1762bf793213330dba2d46c3b69ddf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sglnahdhesbfcxvpcg1lbnracm95yww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-10 01:02:03.456789",
+    "disclosedDate": "2023-03-10 11:13:44.499136"
+  }
+}

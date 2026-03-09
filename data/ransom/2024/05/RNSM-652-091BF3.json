@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-652-091BF3",
+  "type": "ransomware-incident",
+  "title": "ufresources.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ufresources.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "UF Resources Corporation is a privately held holding company based in University Park, Florida, offering administration, information technology and other support services. We make extensive use of technology to leverage our resources to provide effic...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7391519dca6397562e95ff4f4c055267.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dwzyzxnvdxjjzxmuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-09 13:26:00.000000",
+    "disclosedDate": "2024-05-09 16:43:59.096011"
+  }
+}

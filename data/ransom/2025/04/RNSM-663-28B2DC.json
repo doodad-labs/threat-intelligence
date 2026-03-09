@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-663-28B2DC",
+  "type": "ransomware-incident",
+  "title": "Tomio Ingeniería ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tomio Ingeniería",
+    "domain": "tomioingenieria.com.ar",
+    "country": "AR"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "​​Data has been leaked shame on you and all who work with you",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/284f80814a634d7182e9a832ae05f019.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vg9taw8gsw5nzw5pzxldrwfabm92yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-22 00:00:00.000000",
+    "disclosedDate": "2025-04-28 13:30:57.099033"
+  }
+}

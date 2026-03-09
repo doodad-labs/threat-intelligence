@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-657-25D3F4",
+  "type": "ransomware-incident",
+  "title": "Precision Electrical Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Precision Electrical Systems",
+    "domain": "precisionelectricalsystems.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PROOFS(DOCUMENTS, DL)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6e889745104ec69ac8597b51a5b73543.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjly2lzaw9uievszwn0cmljywwgu3lzdgvtc0bsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-10-16 19:58:53.735000",
+    "disclosedDate": "2024-10-25 09:11:38.682948"
+  }
+}

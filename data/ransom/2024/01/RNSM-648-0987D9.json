@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-648-0987D9",
+  "type": "ransomware-incident",
+  "title": "Viridi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Viridi",
+    "domain": "viridiparente.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 70000000000,
+    "description": "Viridi Parente designs and builds fail-safe battery systems for industrial, medical, commercial, municipal, and residential building applications. 70 GB of data contain lots of files with accounting, payment, projects information. There are also many nondisclosure documents, NDA and personal documents of employees. Uploading is coming.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmlyawrpqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-01-09 17:37:49.448632",
+    "disclosedDate": "2024-01-09 17:37:49.618318"
+  }
+}

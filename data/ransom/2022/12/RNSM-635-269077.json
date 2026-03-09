@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-635-269077",
+  "type": "ransomware-incident",
+  "title": "Public Employees Credit Union ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Public Employees Credit Union",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "avoslocker",
+    "name": "avoslocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have confidential files belonging to all 29000 members including Name, Address, SSN, Telephone, Email, Credit Cards, Loan Applications, IRS Documents. Include small sample.",
+    "claimed_data_types": [
+      "email-addresses",
+      "government-identifiers",
+      "financial-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhvibgljievtcgxvewvlcybdcmvkaxqgvw5pb25ayxzvc2xvy2tlcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-12-26 16:12:35.317508",
+    "disclosedDate": "2022-12-26 16:12:35.317508"
+  }
+}

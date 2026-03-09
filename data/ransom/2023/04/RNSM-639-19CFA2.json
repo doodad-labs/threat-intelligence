@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-639-19CFA2",
+  "type": "ransomware-incident",
+  "title": "intuview.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "intuview.com",
+    "domain": "intuview.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "IntuView is an innovative software company, dedicated to development of \"artificial intuition\" software for real-time analysis of unstructured text in domains relating to Homeland Security and Counter-Terrorism and semantic analysis of data carrying...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cb5207ff88ee1ca431f284d3f727fc7f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw50dxzpzxcuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-19 19:39:00.000000",
+    "disclosedDate": "2023-04-19 20:52:06.775358"
+  }
+}

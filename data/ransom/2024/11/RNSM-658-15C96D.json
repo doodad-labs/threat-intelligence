@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-658-15C96D",
+  "type": "ransomware-incident",
+  "title": "potteau.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "potteau.com",
+    "domain": "potteau.com",
+    "country": "BE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Potteau.com is a company specializing in custom joinery and woodworking solutions. They offer a range of services, including the design and manufacture of high-quality staircases, windows, doors, and interior fittings. Known for their craftsmanship and attention to detail, Potteau.com caters to both residential and commercial clients, ensuring tailored solutions that meet specific architectural and aesthetic needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2655b9cf9e3d1824cd137305550cece5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cg90dgvhds5jb21acmfuc29tahvi",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-11-15 18:32:35.000000",
+    "disclosedDate": "2024-11-15 19:17:11.663169"
+  }
+}

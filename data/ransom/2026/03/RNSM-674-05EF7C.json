@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-674-05EF7C",
+  "type": "ransomware-incident",
+  "title": "K & S Company, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "K & S Company, Inc",
+    "domain": "kands.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/syamifmgq29tcgfueswgsw5jqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-05 00:00:00.000000",
+    "disclosedDate": "2026-03-05 14:05:53.572480"
+  }
+}

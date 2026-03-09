@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-06FE6B",
+  "type": "ransomware-incident",
+  "title": "Patterson & Rothwell Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Patterson & Rothwell Ltd",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 22700000000,
+    "description": "Patterson & Rothwell Ltd (founded 1982) is a plastic moulder, providing a wide range of product applications for all industries. Patterson & Rothwell Ltd  corporate office is located in  Bee Works, Shaw Road, Royton, Oldham, OL2 6EH, England. The total amount of data leakage is 22.7 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugf0dgvyc29uicygum90ahdlbgwgthrkqg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-06 08:53:30.12345",
+    "disclosedDate": "2024-05-06 09:36:37.172582"
+  }
+}

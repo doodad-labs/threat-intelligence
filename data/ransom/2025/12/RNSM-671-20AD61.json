@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-20AD61",
+  "type": "ransomware-incident",
+  "title": "Titan Motor Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Titan Motor Group",
+    "domain": "titanmotorgroup.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4a0dc08d2c50dbaa930549dc5f598708.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgl0yw4gtw90b3igr3jvdxbacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-20 16:55:55.576155",
+    "disclosedDate": "2025-12-20 16:56:10.362494"
+  }
+}

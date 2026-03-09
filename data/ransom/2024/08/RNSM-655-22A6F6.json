@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-22A6F6",
+  "type": "ransomware-incident",
+  "title": "EBA Ernest Bland Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EBA Ernest Bland Associates",
+    "domain": "ebapc.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "EBA Ernest Bland Associates, P.C. is a small business with experience in many areas of the design and construction field.  Data will be released soon if the company doesn't contact us!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fe87dc9f883418a29a06028e7fb86bf7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rujbievybmvzdcbcbgfuzcbbc3nvy2lhdgvzqgnpy2fkytmzmde=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-22 00:00:00.000000",
+    "disclosedDate": "2024-08-22 16:05:27.493201"
+  }
+}

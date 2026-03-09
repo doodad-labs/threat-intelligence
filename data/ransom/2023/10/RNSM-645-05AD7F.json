@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-645-05AD7F",
+  "type": "ransomware-incident",
+  "title": "sirva.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sirva.com",
+    "domain": "sirva.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "We have over 1.5TB of documents leaked + 3 full backups of CRM for branches (eu, na and au)Sirva Worldwide, Inc. provides HR and mobility professionals with the resources, guidance, and support they need to achieve the best possible relocation for...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/105d6b18cffc9ff9cf6610054b82d8cb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2lydmeuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-10-05 22:59:00.000000",
+    "disclosedDate": "2023-10-05 23:33:40.191911"
+  }
+}

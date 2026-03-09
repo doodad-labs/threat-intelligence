@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-646-18F7F3",
+  "type": "ransomware-incident",
+  "title": "PruittHealth ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PruittHealth",
+    "domain": "pruitthealth.com",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "noescape",
+    "name": "noescape",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A family-owned organization for more than 50 years, PruittHealth provides a seamless network of post-acute care services and resources, offering skilled nursing care, home ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/222f22bc97ef0ec2217f50066dbcbea1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhj1axr0sgvhbhroqg5vzxnjyxbl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-11-17 00:00:00.000000",
+    "disclosedDate": "2023-11-18 04:12:17.620744"
+  }
+}

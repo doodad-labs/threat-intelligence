@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-660-16891C",
+  "type": "ransomware-incident",
+  "title": "JD Lighting ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JD Lighting",
+    "domain": "jdlighting.com",
+    "country": "US",
+    "sector": "Retail"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 76000000000,
+    "description": "JD LightingWe are a full service wholesale lighting distributor specializing in Fluorescent, Incandescent, HID, Halogen, CFL and LED light bulbs. We also carry a large range of ballasts and drivers. We have proudly been supplying the highest quality products since 1986Geo: USA - Leak size: 76 GB Archive - Contains: Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/skqgtglnahrpbmdac2fyy29tyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-16 12:26:11.453976",
+    "disclosedDate": "2025-01-16 12:26:11.453976"
+  }
+}

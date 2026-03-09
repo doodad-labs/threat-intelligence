@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-653-04DB36",
+  "type": "ransomware-incident",
+  "title": "Mahindra Racing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mahindra Racing",
+    "domain": "mahindraracing.com",
+    "country": "",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 114000000000,
+    "description": "Mahindra Racing became one of the founding teams of the FIA Formu la E Championship, the worlds first all-electric, street racing s eries. 114GB of data will be released soon. We got information on pilots and other employees (passports and other), financial stat ements, accounting, NDAs and other information like car setups an d so on.",
+    "claimed_data_types": [
+      "passport-numbers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfoaw5kcmegumfjaw5nqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-06-04 19:23:27.886375",
+    "disclosedDate": "2024-06-04 19:23:27.962155"
+  }
+}

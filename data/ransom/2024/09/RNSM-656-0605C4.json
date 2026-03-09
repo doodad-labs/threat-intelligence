@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-656-0605C4",
+  "type": "ransomware-incident",
+  "title": "riomarineinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "riomarineinc.com",
+    "domain": "riomarineinc.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cactus",
+    "name": "cactus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Download link #1:  https://***************.onion/RIOMARINEINC/PROOF/Mirror: https://cactus5dqnqkppa5ayckiyk6dttpqwczdqphv5mxh4dkk5ct544q5aad.onion/RIOMARINEINC/PROOF/DATA DESCRIPTIONS: Personal Identifiable Information, employees\\executives personal data, engineering data\\drawings\\projects, customer information, financial documents, contracts, corporate correspondence, database backups etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a60cb4c469caa37f6426d6955337bf41.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmlvbwfyaw5law5jlmnvbubjywn0dxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0236977d-5a8f-4062-8d99-025bf2f77139.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-08-07 00:00:00.000000",
+    "disclosedDate": "2024-09-06 08:24:36.230026"
+  }
+}

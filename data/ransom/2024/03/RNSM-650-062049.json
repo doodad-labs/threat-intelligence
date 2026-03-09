@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-650-062049",
+  "type": "ransomware-incident",
+  "title": "Infosoft ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Infosoft",
+    "country": "NZ",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Infosoft is a New Zealand owned and operated software developmentcompany that provides an integrated range of products and services spanning software design, development, implementation and support. Their data will be available for downloading soon. Numerous operational files, projects, documents with personal information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5mb3nvznraywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-06 16:23:48.067637",
+    "disclosedDate": "2024-03-06 16:23:48.134568"
+  }
+}

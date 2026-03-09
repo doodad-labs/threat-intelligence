@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-658-19368A",
+  "type": "ransomware-incident",
+  "title": "Richmond Hill Primary Academy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Richmond Hill Primary Academy",
+    "domain": "richmond.doncaster.sch.uk",
+    "country": "GB",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Richmond Hill Primary Academy is an educational institution focused on providing a nurturing and dynamic learning environment for children. It emphasizes academic excellence, personal growth, and community engagement. The academy offers a broad curriculum designed to foster creativity, critical thinking, and a love for learning, supported by a dedicated team of educators and staff.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umljag1vbmqgsglsbcbqcmltyxj5iefjywrlbxlac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-09-20 00:00:00.000000",
+    "disclosedDate": "2024-11-19 22:19:31.613108"
+  }
+}

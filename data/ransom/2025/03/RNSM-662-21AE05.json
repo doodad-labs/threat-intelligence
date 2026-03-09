@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-21AE05",
+  "type": "ransomware-incident",
+  "title": "www.sinkdirect.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.sinkdirect.com",
+    "domain": "sinkdirect.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "ransomhub",
+    "name": "ransomhub",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"SinkDirect.com\" is an online-based retail company in the United States specializing in kitchen and bathroom sinks. Their wide variety of products includes stainless steel sinks, ceramic sinks, stone sinks, glass sinks, and copper sinks. Additionally, they provide related sink accessories. They are committed to providing quality products at economical prices with a commitment to superior customer service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b8b856292475fef2c34736d710a546d7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnnpbmtkaxjly3quy29tqhjhbnnvbwh1yg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-21 16:28:44.000000",
+    "disclosedDate": "2025-03-21 18:53:54.089615"
+  }
+}

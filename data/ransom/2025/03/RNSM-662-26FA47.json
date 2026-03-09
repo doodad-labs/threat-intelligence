@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-26FA47",
+  "type": "ransomware-incident",
+  "title": "Initiative Var ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Initiative Var",
+    "domain": "initiative-var.fr",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 80000000000,
+    "description": "Initiative VarInitiative Var is a company that operates in the Membership Organizations industry. It employs 5to9 people and has 500Kto1M of revenue. The company is headquartered in Toulon, Provence-Alpes-Cote d'Azur, FranceGeo: France - Leak size: 80 GB Archive - Contains: Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5pdglhdgl2zsbwyxjac2fyy29tyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-26 07:14:01.618251",
+    "disclosedDate": "2025-03-26 07:14:02.932291"
+  }
+}

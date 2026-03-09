@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-01C51F",
+  "type": "ransomware-incident",
+  "title": "MCKINLEYPACKAGING.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MCKINLEYPACKAGING.COM",
+    "domain": "mckinleypackaging.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "McKinley Packaging",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tunlsu5mrvlqqunlqudjtkcuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-01 10:26:46.304055",
+    "disclosedDate": "2024-05-01 10:26:46.304080"
+  }
+}

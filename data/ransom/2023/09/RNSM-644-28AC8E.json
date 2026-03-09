@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-644-28AC8E",
+  "type": "ransomware-incident",
+  "title": "Notel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Notel",
+    "domain": "notelit.pl",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "8base",
+    "name": "8base",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Maintaining the company’s effectiveness at an appropriate level requires strict control of the telecommunications network’s performance.Facing these needs, Notel offers a wide range of products and services that enable effective analysis, optimization, and management of telecommunications network performance.We cooperate with Mobile Network Service Provider, Infrastructure Vendors, and Enterprises, supporting their needs in deep dive into analytics, network health check, and process automation. https://notelit.pl/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9c63a121308b44416fd1f821daa717a3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm90zwxaogjhc2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-09-28 00:00:00.000000",
+    "disclosedDate": "2023-09-28 05:35:22.745483"
+  }
+}

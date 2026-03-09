@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-664-06C90A",
+  "type": "ransomware-incident",
+  "title": "Elmore & Bunn ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Elmore & Bunn",
+    "domain": "chadwickwashington.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "silentransomgroup",
+    "name": "SilentRansomGroup",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Chadwick, Washington, Moriarty, Elmore & Bunn P.C.  is a Virginia and D.C. law firm that offers compli…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwxtb3jlicygqnvubkbtawxlbnrsyw5zb21hcm91ca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-15 21:34:36.168171",
+    "disclosedDate": "2025-05-06 18:17:16.699064"
+  }
+}

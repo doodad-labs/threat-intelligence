@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-133F84",
+  "type": "ransomware-incident",
+  "title": "bee-insurance.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bee-insurance.com",
+    "domain": "bee-insurance.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Bee-insurance.com is a company specializing in providing a range of insurance products designed to meet diverse customer needs. They focus on delivering user-friendly, digital solutions to simplify the process of obtaining insurance coverage. The company emphasizes transparency, affordability, and personalized service, aiming to make insurance accessible and straightforward for individuals and businesses alike.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e6f707344304f74bef0842dc51b8b27e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymvllwluc3vyyw5jzs5jb21aznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-13 14:43:12.283221",
+    "disclosedDate": "2024-12-13 14:43:14.138819"
+  }
+}

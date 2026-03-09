@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-661-27419A",
+  "type": "ransomware-incident",
+  "title": "PEMAMERICA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PEMAMERICA.COM",
+    "domain": "pemamerica.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] PEMAMERICA.COM is a textile company that specializes in the production and distribution of home fashions. The company produces a vast range of products including, bed covers, comforters, curtains, quilts, and pillows. They cater to different tastes, from modern and trendy to classic and refined. They are well-known for impeccable quality, unique designs and offering a vast selection of home products to retailers nationwide.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uevnqu1fukldqs5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-02-27 17:04:18.684542",
+    "disclosedDate": "2025-02-27 17:04:28.000330"
+  }
+}

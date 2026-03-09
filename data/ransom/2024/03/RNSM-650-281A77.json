@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-650-281A77",
+  "type": "ransomware-incident",
+  "title": "Lakes Precision ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lakes Precision",
+    "domain": "lakesprecision.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lakes Precision provides a wide variety of value added services and programs to assist our customers. Lot's of financial data, NDAs, employee information. We'll provide access to their data soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgfrzxmguhjly2lzaw9uqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-28 17:46:05.452608",
+    "disclosedDate": "2024-03-28 17:46:05.522609"
+  }
+}

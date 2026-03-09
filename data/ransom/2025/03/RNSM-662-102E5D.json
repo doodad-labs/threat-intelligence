@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-662-102E5D",
+  "type": "ransomware-incident",
+  "title": "Fickling & Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fickling & Company",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 70000000000,
+    "description": "Fickling & Company is a regional real estate services and development firm headquartered in Macon, GA.We are ready to upload more than 70 GB of essential corporate documents such as: corporate NDA’s, personal SSN’s. credit cards with CVV numbers, confidential licenses, agreements and contracts, passport scans, health care certificates, contact numbers and e-mail addresses of employees and customers, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmlja2xpbmcgjibdb21wyw55qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-10 00:00:00.000000",
+    "disclosedDate": "2025-03-10 13:18:20.310868"
+  }
+}

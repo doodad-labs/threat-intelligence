@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-662-03E550",
+  "type": "ransomware-incident",
+  "title": "Openreso ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Openreso",
+    "domain": "openreso.com",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Openreso is a company that operates in the Consumer Services industry, has 1Mt…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2d0be0a5176eb9962047f50ec4717dc7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3blbnjlc29ayxjjdxntzwrpyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-03 18:56:34.000000",
+    "disclosedDate": "2025-03-03 20:01:42.208474"
+  }
+}

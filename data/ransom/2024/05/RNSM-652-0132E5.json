@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-652-0132E5",
+  "type": "ransomware-incident",
+  "title": "PILOTPEN.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PILOTPEN.COM",
+    "domain": "pilotpen.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome To Pilot Pen Global Landing Page",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uelmt1rqru4uq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-05-01 10:26:12.588588",
+    "disclosedDate": "2024-05-01 10:26:12.588635"
+  }
+}

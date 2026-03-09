@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09B10C",
+  "type": "ransomware-incident",
+  "title": "kowessex.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kowessex.co.uk",
+    "domain": "kowessex.co.uk",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kings is a high achieving 13-18 years school. Exam results are consistently high year-on-year, with students making outstanding progress from Key Stage 2 to 4, and after the Sixth Form many students go on to top universities.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bd60db07b6d2748fe80bd86bb89ef2c5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a293zxnzzxguy28udwtabg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-02-27 00:00:00.000000",
+    "disclosedDate": "2024-05-09 10:41:39.099092"
+  }
+}

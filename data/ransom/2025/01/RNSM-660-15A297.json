@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-660-15A297",
+  "type": "ransomware-incident",
+  "title": "anwsd.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "anwsd.org",
+    "domain": "anwsd.org",
+    "country": "US"
+  },
+  "actor": {
+    "id": "threeam",
+    "name": "threeam",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Our district is comprised of Vergennes Union Elementary School (K-6), Ferrisburgh Central School (K-6), Addison Central School (K-6) and Vergennes Union High School (7-12). We are conveniently located between Burlington and Middlebury communities...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw53c2qub3jnqhrocmvlyw0=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.addisonindependent.com/2025/01/07/anwsd-shuts-down-computers-after-cyberattack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-01-15 10:09:30.804720",
+    "disclosedDate": "2025-01-15 10:09:30.804720"
+  }
+}

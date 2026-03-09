@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-642-20181E",
+  "type": "ransomware-incident",
+  "title": "Tampa General Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tampa General Hospital",
+    "domain": "tgh.org",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "nokoyawa",
+    "name": "nokoyawa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tampa General Hospital is a private not-for-profit hospital and one of the most comprehensive medical facilities in West Central Florida serving a dozen counties with a population in excess of 4 million. As one of the largest hospitals in Florida, Tampa General is licensed for 1,040...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f42198cb9a625203bea6498b67713071.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgftcgegr2vuzxjhbcbib3nwaxrhbebub2tvewf3yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.tgh.org/cybersecurity-notice",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-07-20 15:54:23.706000",
+    "disclosedDate": "2023-07-20 17:15:20.199670"
+  }
+}

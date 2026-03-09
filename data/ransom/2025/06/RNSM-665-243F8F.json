@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-665-243F8F",
+  "type": "ransomware-incident",
+  "title": "tdunhamcpa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tdunhamcpa.com",
+    "domain": "tdunhamcpa.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"tdunhamcpa.com\" represents the online presence of Tracy Dunham, a Certified Public Accountant (CPA) based in Jackson, Wyoming. She specializes in tax preparation, planning, and representation for small business owners, individuals, estates, and trusts. Her services also extend to bookkeeping, payroll, QuickBooks consulting, and financial planning.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9e0ffa47e26fb45e818b7507aaaaf968.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgr1bmhhbwnwys5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6cd240a5-1052-4a3f-b83a-a84d81f4c7b6.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-06-24 21:12:48.072927",
+    "disclosedDate": "2025-06-24 21:13:39.731555"
+  }
+}

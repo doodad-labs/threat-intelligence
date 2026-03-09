@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-638-2102B6",
+  "type": "ransomware-incident",
+  "title": "co.ottawa.oh.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "co.ottawa.oh.us",
+    "domain": "ottawa.oh.us",
+    "country": "US",
+    "sector": ""
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Regional Government in Port Clinton, Ohio",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y28ub3r0yxdhlm9olnvzqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-03-21 09:38:00.000000",
+    "disclosedDate": "2023-03-21 11:09:44.980216"
+  }
+}

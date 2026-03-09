@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-25011A",
+  "type": "ransomware-incident",
+  "title": "netox.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "netox.net",
+    "domain": "netox.net",
+    "country": "TR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Videojet,Linx,Citronix.Markem İmaje 7x24 Teknik servis , Destek ve Garantili Sarf Malzeme",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d2242766f173b98b22288e634af2c921.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmv0b3gubmv0qgz1bmtzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-25 13:05:38.010764",
+    "disclosedDate": "2024-12-25 13:05:39.617461"
+  }
+}

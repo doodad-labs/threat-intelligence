@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-659-05B682",
+  "type": "ransomware-incident",
+  "title": "altuslab ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "altuslab",
+    "domain": "altuslab.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "funksec",
+    "name": "funksec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] AltusLab is a technology company specializing in advanced data analytics and artificial intelligence solutions. It focuses on providing innovative software tools that help businesses optimize their operations and make data-driven decisions. The company leverages cutting-edge machine learning algorithms to offer insights across various industries, aiming to enhance efficiency and drive growth.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6d9c0ae3d2c091981fd7a271130dda59.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywx0dxnsywjaznvua3nlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-05 13:37:56.133235",
+    "disclosedDate": "2024-12-05 13:37:58.608008"
+  }
+}

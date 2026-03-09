@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-662-09ECAB",
+  "type": "ransomware-incident",
+  "title": "BerksBar.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BerksBar.org",
+    "domain": "berksbar.org",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Berks County Bar Association's mission is to promote professional excellence, access to justice, and the integrity of the legal system, through service to our members and the community. The company is headquartered in Reading, Pennsylvania.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/53368d86018bbd4f7ebd284ba78dc57c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmvya3ncyxiub3jnqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-09 10:38:00.000000",
+    "disclosedDate": "2025-03-09 18:07:03.767982"
+  }
+}

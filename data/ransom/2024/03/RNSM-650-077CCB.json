@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-650-077CCB",
+  "type": "ransomware-incident",
+  "title": "Palmer Construction Co., Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Palmer Construction Co., Inc",
+    "domain": "palmerconstruction.net",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "bianlian",
+    "name": "bianlian",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Palmer Construction is a design-build, general contractor with a 100% commitment to quality and reliability.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b58915b0289dca2ff144a6f912de4dda.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfsbwvyienvbnn0cnvjdglvbibdby4sieluy0biawfubglhbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-03-07 19:24:33.590898",
+    "disclosedDate": "2024-03-07 19:24:33.590929"
+  }
+}

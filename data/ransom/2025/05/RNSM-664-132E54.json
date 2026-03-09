@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-664-132E54",
+  "type": "ransomware-incident",
+  "title": "Superior Steel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Superior Steel",
+    "domain": "superiorsteelinc.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 6000000000,
+    "description": "Superior Steel is experienced in all manners of contracting arrangements including competitive bid, negotiated contract, design build and fast track projects.We are going to upload more than 6 GB of corporate documents. Employees passports, DLs, NDAs, confidentiality agreements, financial data of clients, projects, documents containing personal information, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vwzxjpb3igu3rlzwxaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-05-13 00:00:00.000000",
+    "disclosedDate": "2025-05-13 13:41:12.029261"
+  }
+}

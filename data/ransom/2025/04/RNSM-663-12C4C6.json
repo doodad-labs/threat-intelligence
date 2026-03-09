@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-663-12C4C6",
+  "type": "ransomware-incident",
+  "title": "Mapaex ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mapaex",
+    "domain": "mapaex.com",
+    "country": "IN"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "All data will be published online on Apr.20. Mapaex, now in its third generation of a family-owned business, comprising independent centres for excellence specialising in oral care, consumer products, health solutions, vitamins and supplement            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d9dec06a8e2b371557ffa0564f147308.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfwywv4qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-04-12 00:00:00.000000",
+    "disclosedDate": "2025-04-12 10:42:44.809150"
+  }
+}

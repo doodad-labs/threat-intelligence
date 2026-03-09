@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-654-0724D2",
+  "type": "ransomware-incident",
+  "title": "Viasat ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Viasat",
+    "country": "ES",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 98900000000,
+    "description": "Viasat offers telematic solutions for the automobile sector, such as car control or fleet and guarantees recovery in case of theft. Viasat Telematics corporate office is located in 6 Avda. Del Arroyo Del Santo, Madrid, Madrid, 28042, Spain. The total amount of data leakage is 98.9 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmlhc2f0qg1lzhvzyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-07-07 11:42:27.853551",
+    "disclosedDate": "2024-07-07 11:42:28.257334"
+  }
+}

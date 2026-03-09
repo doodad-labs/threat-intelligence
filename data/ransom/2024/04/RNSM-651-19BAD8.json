@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19BAD8",
+  "type": "ransomware-incident",
+  "title": "wcinet.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wcinet.com",
+    "domain": "wcinet.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Last chance",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a711d447a41227173d2b65e03f8c6b71.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2npbmv0lmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2023-04-03 09:50:00.000000",
+    "disclosedDate": "2024-04-19 10:49:07.534907"
+  }
+}

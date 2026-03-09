@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-659-179F3A",
+  "type": "ransomware-incident",
+  "title": "Polskie Wydawnictwo Muzyczne ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Polskie Wydawnictwo Muzyczne",
+    "country": "PL"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "Established in 1945, Polskie Wydawnictwo Muzyczne (PWM), has already been specialising in publishing scores and books about classical music, jazz, and now, more frequently, film music. We are ready to upload more than 40 GB of internal corporate documents including: inside corporate info with internal correspondence, employees and customers contact data etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ug9sc2tpzsbxewrhd25py3r3bybndxp5y3puzubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2024-12-17 00:00:00.000000",
+    "disclosedDate": "2024-12-17 14:19:21.431078"
+  }
+}

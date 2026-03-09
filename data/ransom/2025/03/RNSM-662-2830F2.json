@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-662-2830F2",
+  "type": "ransomware-incident",
+  "title": "entandallergy.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "entandallergy.com",
+    "domain": "entandallergy.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "abyss",
+    "name": "abyss",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ENT and Allergy Associates is an ear, nose, and throat specialist clinic, with locations throughout Southeast New York and Northern New Jersey. Their headquarters is in Tarrytown, New York.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw50yw5kywxszxjnes5jb21aywj5c3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-03-28 10:15:42.801293",
+    "disclosedDate": "2025-03-28 10:15:44.535498"
+  }
+}
