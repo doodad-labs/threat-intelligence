@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-040A6",
+  "type": "ransomware-incident",
+  "title": "sandg.local ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sandg.local",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 370000000000,
+    "description": "https://shaferpartners.com/    law 370gb data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0b58315e9fcdde28dfda184641727c00.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2fuzgcubg9jywxaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-03 18:22:00.000000",
+    "disclosedDate": "2025-09-04 01:26:45.640081"
+  }
+}

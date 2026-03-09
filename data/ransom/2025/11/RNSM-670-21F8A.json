@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-670-21F8A",
+  "type": "ransomware-incident",
+  "title": "gsccca.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gsccca.org",
+    "domain": "gsccca.org",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 500000000000,
+    "description": "Ransom: 500gb400k",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c7edfc0768df19650d2d25f365218a4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3njy2nhlm9yz0bkzxztyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 21:53:19.051264",
+    "disclosedDate": "2025-11-21 21:53:55.597583"
+  }
+}

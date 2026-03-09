@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-262C3",
+  "type": "ransomware-incident",
+  "title": "tealca.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tealca.com",
+    "domain": "tealca.com",
+    "country": "VE",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TEALCA is a Venezuelan company specializing in the shipment and distribution of packages, cargo, and...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/38050c8262e46157da9d6a755feb717d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvhbgnhlmnvbubsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 17:17:00.000000",
+    "disclosedDate": "2025-12-26 15:44:07.667070"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-667-19821",
+  "type": "ransomware-incident",
+  "title": "Inotiv, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Inotiv, Inc",
+    "domain": "inotiv.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Inotiv, Inc. is a publicly USA traded contract research organization (CRO) that provides nonclinical and analytical drug discovery and development services to the pharmaceutical and medical device industries.As a leading contract research org            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ced9f6a3e89cdaef24809701215d23de.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5vdgl2lcbjbmnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.sec.gov/archives/edgar/data/720154/000162828025040658/notv-20250808.htm",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-11 00:00:00.000000",
+    "disclosedDate": "2025-08-19 11:39:50.623199"
+  }
+}

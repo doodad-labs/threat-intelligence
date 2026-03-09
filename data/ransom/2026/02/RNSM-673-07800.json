@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-07800",
+  "type": "ransomware-incident",
+  "title": "PODIATRYWA.COM.AU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PODIATRYWA.COM.AU",
+    "domain": "podiatrywa.com.au",
+    "country": "AU",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"PODIATRYWA.COM.AU\" is a professional organization based in Western Australia that represents local podiatrists. Their main goal is to support the podiatric community by fostering professionalism through development, collaboration, and promotion of podiatric practice. They provide education, networking opportunities, and advocacy to boost professional standards and quality of care. They also assist the public in finding qualified podiatrists.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7da0bf9362d15fb7bc5d8b69a0485f53.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ue9esufuullxqs5dt00uqvvay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 20:51:00.207208",
+    "disclosedDate": "2026-02-07 20:51:13.759594"
+  }
+}

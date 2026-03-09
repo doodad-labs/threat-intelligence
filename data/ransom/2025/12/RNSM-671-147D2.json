@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-147D2",
+  "type": "ransomware-incident",
+  "title": "teccart.qc.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "teccart.qc.ca",
+    "domain": "teccart.qc.ca",
+    "country": "CA",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1945, the institution has a long history of delivering practical, career-focused education in technology, design, business, management, arts, …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c9b0532abba11ea3c72c491b0b71fa3c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgvjy2fydc5xyy5jyubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-14 20:41:08.820422",
+    "disclosedDate": "2025-12-14 20:41:22.439792"
+  }
+}

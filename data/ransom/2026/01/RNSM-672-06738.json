@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-06738",
+  "type": "ransomware-incident",
+  "title": "baja.gob.mx ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "baja.gob.mx",
+    "domain": "baja.gob.mx",
+    "country": "MX",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "tengu",
+    "name": "tengu",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "This is the official website of the Baja California State Government in Mexico — an important government site used to provide e-services, official information, procedures for citizens, news, and local government programs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aa508d57cce46b3923d4fecbd2d98834.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymfqys5nb2iubxhadgvuz3u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-06 12:05:09.018195",
+    "disclosedDate": "2026-01-06 12:05:28.592293"
+  }
+}

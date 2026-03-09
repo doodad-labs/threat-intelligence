@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-07B0C",
+  "type": "ransomware-incident",
+  "title": "IDEALWELDERS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IDEALWELDERS.COM",
+    "domain": "idealwelders.com",
+    "country": "CA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] IDEALWELDERS.COM is a Canadian company providing custom steel and metal fabrication services. They specialize in both complex and simple projects, inclusive of precision components and structures. Their capabilities include pressure vessels, piping fabrication, structural steel welding and more. With over 50 years of experience, they serve various industries such as chemical, pulp and paper, oil, and gas.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3278145332c34890cd08fad24d5c63ae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/surfquxxruxervjtlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 21:11:30.488955",
+    "disclosedDate": "2026-02-07 21:11:44.642504"
+  }
+}

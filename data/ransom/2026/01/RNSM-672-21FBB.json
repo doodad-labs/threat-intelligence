@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-21FBB",
+  "type": "ransomware-incident",
+  "title": "automax.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "automax.com",
+    "domain": "automax.com",
+    "country": "IN"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] AutoMax.com is a leading used car dealership group in the US. Known for its wide range of high-quality pre-owned vehicles, AutoMax.com provides affordable options with comprehensive auto inspection and warranty. They offer financing options for all credit situations. The company is committed to delivering excellent customer service through its knowledgeable and friendly staff.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc654c1e2d252ab393a435186dfc3205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxv0b21hec5jb21azgv2bwfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-20 00:00:00.000000",
+    "disclosedDate": "2026-01-21 13:26:13.703793"
+  }
+}

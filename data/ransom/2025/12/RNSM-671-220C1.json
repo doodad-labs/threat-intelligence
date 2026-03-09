@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-220C1",
+  "type": "ransomware-incident",
+  "title": "uniplaclages.edu.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "uniplaclages.edu.br",
+    "domain": "uniplaclages.edu.br",
+    "country": "BR",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "UNIPLAC offers various educational services including student and employee portals, distance learnin...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9986f34a9477465f5a620d3f382b19ed.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dw5pcgxhy2xhz2vzlmvkds5ickbsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-20 13:36:00.000000",
+    "disclosedDate": "2025-12-22 12:29:30.540155"
+  }
+}

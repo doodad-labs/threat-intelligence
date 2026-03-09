@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-669-20E8F",
+  "type": "ransomware-incident",
+  "title": "saacke.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "saacke.com",
+    "domain": "saacke.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SAACKE GmbH is a family-owned German company founded in 1931 and headquartered in Bremen. It specializes in the development and production of high-efficiency combustion and thermal energy systems for industrial and marine applications. SAACKE provides burners, boilers, and complete heating solutions focused on energy efficiency, emission reduction, and the use of alternative fuels. With subsidiaries and partners in more than 20 countries, the company serves clients worldwide across industries such as power generation, chemical processing, and shipbuilding.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6b5fd066dfb353222fe76f507b209828.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2fhy2tllmnvbubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.saacke.com/aktuelles/detail/wichtige-information/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-20 14:30:41.976000",
+    "disclosedDate": "2025-10-20 15:33:03.825958"
+  }
+}

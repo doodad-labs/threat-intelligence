@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-666-15072",
+  "type": "ransomware-incident",
+  "title": "BAF Management Consulting ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BAF Management Consulting",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BAF Management Consulting. The company provides consulting services.We are going to upload company data soon. They claim to process your data exclusively in accordance with applicable legal regulations but failed. Lots of client accounting and financial data, employee information, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkfgie1hbmfnzw1lbnqgq29uc3vsdgluz0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-15 00:00:00.000000",
+    "disclosedDate": "2025-07-15 15:08:07.450456"
+  }
+}

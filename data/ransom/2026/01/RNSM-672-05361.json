@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-05361",
+  "type": "ransomware-incident",
+  "title": "groupecho.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "groupecho.com",
+    "domain": "groupecho.com",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Groupecho Canada offers a wide range of services including credit reports, debt recovery, and client account management tailored to various businesses such as startups, SMEs, and larger enterprises in financial distress. Their solutions aim to help clients reduce risks, improve liquidity, and increase profitability. Target clients include autonomous workers, very small businesses, and medium to large enterprises across industries like construction, manufacturing, and financial services. Through training sessions and legal information resources, Groupecho supports businesses in making informed credit management decisions",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f9d5a56c06610da90b9d17c131a68ff7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jvdxbly2hvlmnvbubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 08:43:29.443000",
+    "disclosedDate": "2026-01-05 09:29:36.900029"
+  }
+}

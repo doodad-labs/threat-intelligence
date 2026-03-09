@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-104E6",
+  "type": "ransomware-incident",
+  "title": "Venesco ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Venesco",
+    "domain": "venesco.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Venesco specializes in providing premium administrative, healthcare, and professional services primarily for military and civilian clients. Their offerings include management consulting, logistics support, psychological services, and comprehensive training programs tailored to meet the unique needs of various agencies. With a strong focus on delivering quality and innovative solutions, Venesco supports a range of programs including research and development as well as health service initiatives. The company is dedicated to equipping clients with essential knowledge and skills to address critical challenges and achieve mission success.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/be5dd9d494d10444259c8c3f1554b14d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmvuzxnjb0bzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-10 18:10:51.820000",
+    "disclosedDate": "2026-02-10 19:03:05.301731"
+  }
+}

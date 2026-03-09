@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-28A51",
+  "type": "ransomware-incident",
+  "title": "decor-metall.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "decor-metall.de",
+    "domain": "decor-metall.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1963 and based in Bad Salzuflen, Germany, decor metall GmbH is a globally recognized specialist in point-of-sale (POS) …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/25e40b81ddbff4d0e45c0bc4c2b84677.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvjb3itbwv0ywxslmrlqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-15 00:00:00.000000",
+    "disclosedDate": "2025-08-28 19:33:22.162904"
+  }
+}

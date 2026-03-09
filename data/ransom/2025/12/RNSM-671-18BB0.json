@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-18BB0",
+  "type": "ransomware-incident",
+  "title": "Household & Commercial Products Association ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Household & Commercial Products Association",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 23000000000,
+    "description": "HCPA, or the Household and Commercial Products Association, represents companies that manufacture and sell household and commercial products, advocating for a sound business environment that promotes safety and innovation.We will upload 23gb of corporate data soon. Employees, clients, partners personal documents, financial information, a lot of projects files (many of them are confidential), production information, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg91c2vob2xkicygq29tbwvyy2lhbcbqcm9kdwn0cybbc3nvy2lhdglvbkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-18 00:00:00.000000",
+    "disclosedDate": "2025-12-18 14:09:13.697691"
+  }
+}

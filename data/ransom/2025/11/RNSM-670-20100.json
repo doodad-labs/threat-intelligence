@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-20100",
+  "type": "ransomware-incident",
+  "title": "HostingFest ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HostingFest",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "As HostingFest, we provide domain name (Domain), Hosting, VDS and Dedicated servers, E-commerce infrastructures and SEO services to our individual and corporate customers.Due to encryption, the official domain is currently inaccessible: https://hostingfest.net/However, here is the archived site: https://web.archive.org/web/20250815130556/https://hostingfest.net/ . Contact methods : info@hostingfest.net / https://www.linkedin.com/company/hostingfest",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3c3d89d36ccea54fa4af1203fe93bd26.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9zdgluz0zlc3rabm92yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-20 00:11:45.099290",
+    "disclosedDate": "2025-11-20 00:12:46.865384"
+  }
+}

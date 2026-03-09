@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-673-16FB6",
+  "type": "ransomware-incident",
+  "title": "iSMA CONTROLLI ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "iSMA CONTROLLI",
+    "country": "PL",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "iSMA CONTROLLI S.p.A. specializes in providing a wide range of products including valves, actuators, sensors, controllers, and software solutions for building management systems.We will upload corporate data soon. Clients' files, projects and specifications and other data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/avnnqsbdt05uuk9mtelaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-16 00:00:00.000000",
+    "disclosedDate": "2026-02-16 14:36:52.560101"
+  }
+}

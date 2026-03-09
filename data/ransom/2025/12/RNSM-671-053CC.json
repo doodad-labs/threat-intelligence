@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-053CC",
+  "type": "ransomware-incident",
+  "title": "barnet.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "barnet.com.au",
+    "domain": "barnet.com.au",
+    "country": "AU"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BarNet is an Australian specialist communications management organisation focused on serving legal professionals, particularly barristers and associated legal chambers. Founded …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/264b4b352c8f2582a81449c4c61f13b9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymfybmv0lmnvbs5hdubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-05 19:58:00.056472",
+    "disclosedDate": "2025-12-05 19:58:12.344415"
+  }
+}

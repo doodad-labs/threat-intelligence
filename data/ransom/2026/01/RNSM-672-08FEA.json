@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-08FEA",
+  "type": "ransomware-incident",
+  "title": "STESAD ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "STESAD",
+    "domain": "stesad.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2a96b0526534f0531b9ccadf30eae93f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1rfu0feqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-08 17:31:16.985318",
+    "disclosedDate": "2026-01-08 17:31:34.528902"
+  }
+}

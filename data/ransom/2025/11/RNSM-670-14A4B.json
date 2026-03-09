@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-14A4B",
+  "type": "ransomware-incident",
+  "title": "killinglyschools.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "killinglyschools.org",
+    "domain": "killinglyschools.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Killingly Public Schools is a K-12 public school district based in Danielson, Connecticut, serving students in the town of Killingly. …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bd4bc6fda6b3a034e531b5d460225265.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2lsbgluz2x5c2nob29scy5vcmdac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-14 22:18:27.535990",
+    "disclosedDate": "2025-11-14 22:18:42.860985"
+  }
+}

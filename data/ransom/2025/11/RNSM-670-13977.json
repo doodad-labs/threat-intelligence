@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-13977",
+  "type": "ransomware-incident",
+  "title": "PAFL.COM.PK ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PAFL.COM.PK",
+    "domain": "pafl.com.pk",
+    "country": "PK",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] PAFL.com.pk is the website for the Pakistan Aviation and Fuel Limited, a major company in Pakistan that specializes in the aviation industry. The company works primarily in the distribution and marketing of aviation fuels and allied products. It also provides refueling services to many international and domestic airlines at airports located throughout Pakistan.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/42a6a86f257dabbdd0e80e16832673ea.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uefgtc5dt00uuetay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-13 19:08:50.322942",
+    "disclosedDate": "2025-11-13 19:09:06.627296"
+  }
+}

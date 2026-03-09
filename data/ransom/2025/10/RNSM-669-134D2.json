@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-134D2",
+  "type": "ransomware-incident",
+  "title": "Canias ERP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Canias ERP",
+    "domain": "canias.com",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Canias ERP is a brand of IAS, an Industrial application software and ERP solution provider. Canias ERP is a software product that provides Enterpri...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4e6e8de39056fc5f5a48549641e98df2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fuawfzievsuebjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 09:20:47.506089",
+    "disclosedDate": "2025-10-13 09:20:59.895747"
+  }
+}

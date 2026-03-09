@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-014D9",
+  "type": "ransomware-incident",
+  "title": "The Green Labs ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Green Labs",
+    "domain": "thegreenlabs.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Green Labs LLC specializes in supplying bulk raw materials of organic functional foods and nutraceutical ingredients aimed at diverse industries including food, pharmaceuticals, and cosmeceuticals. They offer a wide range of innovative products such as superfoods, proteins, and extracts from reliable sources, focusing on quality and compliance. Their clientele consists of marketing companies, contract manufacturers, and private labelers, emphasizing long-term relationships and exceptional service. The company is committed to supporting consumers' transition to healthier lifestyles by providing high-quality organic certified raw materials.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d33b9599ae498dc62baf38d1179c1b6c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghliedyzwvuiexhynnac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-09 15:13:47.520000",
+    "disclosedDate": "2025-10-01 20:18:40.643864"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-24D5F",
+  "type": "ransomware-incident",
+  "title": "Edmunds.com, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Edmunds.com, Inc.",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "shinyhunters",
+    "name": "shinyhunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 12000000000,
+    "description": "Size: 12 GB (compressed) | Updated: 24 Jan 2026",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwrtdw5kcy5jb20sieluyy5ac2hpbnlodw50zxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-30 11:10:00.000000",
+    "disclosedDate": "2026-01-24 02:35:22.467150"
+  }
+}

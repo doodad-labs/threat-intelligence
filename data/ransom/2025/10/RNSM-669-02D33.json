@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-02D33",
+  "type": "ransomware-incident",
+  "title": "Integrity Wealth Consulting ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Integrity Wealth Consulting",
+    "domain": "integritywealthconsulting.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "IWC Schaffhausen, founded in 1868 and headquartered in New York, New York, is a luxury Swiss watch manufacturer. IWC has been a subsidiary of the Swiss Richemont Group since 2000.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3bb5bcbb01be3397828952f44fd0ed0a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw50zwdyaxr5ifdlywx0acbdb25zdwx0aw5nqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-01 21:36:24.740000",
+    "disclosedDate": "2025-10-02 00:14:45.206906"
+  }
+}

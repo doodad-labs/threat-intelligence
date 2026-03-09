@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-052D0",
+  "type": "ransomware-incident",
+  "title": "ocmaine.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ocmaine.com",
+    "domain": "ocmaine.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ouellet Construction is a family-led construction company specializing in commercial construction services in Southern Maine and the broader New England area. They are dedicated to delivering exceptional service through a collaborative and personalized approach that ensures projects remain on time and within budget. Their client base includes various sectors such as healthcare, manufacturing, non-profit, education, retail, and banking. With a focus on establishing enduring relationships, Ouellet Construction emphasizes integrity and consistency in all their projects.\r Employees: 25\r Revenue: $5.3 Million\r Industry: Commercial & Residential Construction \r Phone Number:(207) 725-0100",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fcb195ddb38dd6505a2c180df76f5fd2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b2ntywluzs5jb21aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-11 00:00:00.000000",
+    "disclosedDate": "2025-10-05 04:20:54.408098"
+  }
+}

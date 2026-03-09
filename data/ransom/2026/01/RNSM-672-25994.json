@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-25994",
+  "type": "ransomware-incident",
+  "title": "EASTPLATS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EASTPLATS.COM",
+    "domain": "eastplats.com",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Eastern Platinum Limited, also known as EASTPLATS.COM, is a Canadian-based mining company that specializes in the exploration, development, mining, and processing of platinum group metals (PGMs) including platinum, palladium, and rhodium. They focus on PGM deposits found specifically in southern Africa, offering both open-cast and underground mining.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3485d2ee3c711d231203d45ba6a178ae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ruftvfbmqvrtlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 14:58:21.103605",
+    "disclosedDate": "2026-01-25 14:58:35.250612"
+  }
+}

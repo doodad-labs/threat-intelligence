@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-08170",
+  "type": "ransomware-incident",
+  "title": "AB Data ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AB Data",
+    "domain": "abdata.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0a5a17290746b1a9dc93e7bec6c0adac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/quigrgf0yubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-08 08:37:35.002225",
+    "disclosedDate": "2026-02-08 08:37:50.410845"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-282E6",
+  "type": "ransomware-incident",
+  "title": "Mid South Pulmonary & Sleep Specialists ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mid South Pulmonary & Sleep Specialists",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Patient data breach.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/816681b04a4775d499f76bc40ad0720c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twlkifnvdxroifb1bg1vbmfyesamifnszwvwifnwzwnpywxpc3rzqgfudwjpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-28 12:18:51.141516",
+    "disclosedDate": "2025-11-28 12:19:44.930650"
+  }
+}

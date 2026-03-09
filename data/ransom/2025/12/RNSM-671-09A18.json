@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-09A18",
+  "type": "ransomware-incident",
+  "title": "Abacus Employment Services. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Abacus Employment Services.",
+    "domain": "abacus-employment.com",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A staffing company from UK.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/42ed5ee9f2f0269fa5aa2b5f8e468e96.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwjhy3vzievtcgxvew1lbnqgu2vydmljzxmuqgdlbmvzaxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-08 00:00:00.000000",
+    "disclosedDate": "2025-12-09 18:18:37.760862"
+  }
+}

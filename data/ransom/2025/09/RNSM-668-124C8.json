@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-124C8",
+  "type": "ransomware-incident",
+  "title": "Survival Flight Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Survival Flight Inc",
+    "domain": "survivalflightinc.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Survival Flight Inc. is a premier emergency medical transportation company in the United States. It provides critical care air and ground transport services in various states, serving hospitals, EMS agencies, and the public through direct request. Their team comprises highly skilled nurses, paramedics, and pilots delivering 24/7 emergency response. The company focuses on safety, rapid response time, and delivering superior medical care.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8389b96ae29cb1fbb2a0299bd0c458bd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vydml2ywwgrmxpz2h0ieluy0b3b3jszgxlywtz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-11 00:00:00.000000",
+    "disclosedDate": "2025-09-12 10:20:30.682860"
+  }
+}

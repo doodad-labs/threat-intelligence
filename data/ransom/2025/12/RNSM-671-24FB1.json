@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-24FB1",
+  "type": "ransomware-incident",
+  "title": "CoreHQ ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CoreHQ",
+    "domain": "corehq.io",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ddf78f83971d3bfdee5cf7db38803761.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29yzuhrqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-22 00:00:00.000000",
+    "disclosedDate": "2025-12-24 05:03:00.504564"
+  }
+}

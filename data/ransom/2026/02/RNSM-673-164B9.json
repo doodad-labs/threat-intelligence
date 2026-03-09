@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-164B9",
+  "type": "ransomware-incident",
+  "title": "mapsweb.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mapsweb.com",
+    "domain": "mapsweb.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Modern Advanced Print Solutions (MAPS, Inc.) is a leading independent corporation located in Leavenworth, Kansas, specializing in a wide range of products for document management and office systems. The company offers innovative print management, asset lifecycle management, and other professional services designed to improve business efficiency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d92e8235e06bf0685e5497369533f6f9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfwc3dlyi5jb21azhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-16 13:45:44.210431",
+    "disclosedDate": "2026-02-16 13:58:53.894090"
+  }
+}

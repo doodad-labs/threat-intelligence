@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-24CC1",
+  "type": "ransomware-incident",
+  "title": "NovAtel (belongs to Hexagon) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NovAtel (belongs to Hexagon)",
+    "domain": "novatel.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/48351e275e53395aecdab865b2d1c6d7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm92qxrlbcaoymvsb25ncyb0bybizxhhz29ukubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-24 15:47:23.563251",
+    "disclosedDate": "2025-11-24 15:47:40.826005"
+  }
+}

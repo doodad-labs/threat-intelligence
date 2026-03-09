@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-03C51",
+  "type": "ransomware-incident",
+  "title": "Bayshore Ford Truck Sales ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bayshore Ford Truck Sales",
+    "domain": "bayshoreford.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7d60a119c54f9f7a24602c9c7da326f3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmf5c2hvcmugrm9yzcbucnvjaybtywxlc0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-03 00:50:30.661002",
+    "disclosedDate": "2026-03-03 00:50:52.367822"
+  }
+}

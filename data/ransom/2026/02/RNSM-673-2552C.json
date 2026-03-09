@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-2552C",
+  "type": "ransomware-incident",
+  "title": "Birmingham Museum of Art ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Birmingham Museum of Art",
+    "domain": "artsbma.org",
+    "country": "US"
+  },
+  "actor": {
+    "id": "termite",
+    "name": "termite",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Birmingham Museum of Art in Alabama features a vast collection of over 27,000 artworks and offers free admission to visitors. The museum is open from Tuesday to Sunday and hosts various exhibitions and events throughout the year. It serves a diverse audience, including families, students, and art enthusiasts, providing educational resources and opportunities for engagement.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/754d0f39bbe517f743df29eb2081ad6b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmlybwluz2hhbsbndxnldw0gb2ygqxj0qhrlcm1pdgu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-24 23:56:42.139000",
+    "disclosedDate": "2026-02-25 00:53:46.609216"
+  }
+}

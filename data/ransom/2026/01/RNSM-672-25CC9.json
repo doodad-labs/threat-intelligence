@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-25CC9",
+  "type": "ransomware-incident",
+  "title": "WARRANTYFIRST.CO.UK ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WARRANTYFIRST.CO.UK",
+    "domain": "warrantyfirst.co.uk",
+    "country": "GB",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Warranty First is a UK-based company that provides vehicle warranty services. They offer a range of warranty packages to customers tailored to meet the specific requirements of different vehicles. Their plans cover various vehicle systems including engines, gearboxes, transmissions, ECUs, and more. The firm uses a national network of approved repairers to perform necessary repairs, promising a seamless service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ef5cafd13c540dee8df4a24e239f028.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0fsukfovflgsvjtvc5dty5vs0bjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 15:01:27.938141",
+    "disclosedDate": "2026-01-25 15:01:43.287761"
+  }
+}

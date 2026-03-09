@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-671-08BDC",
+  "type": "ransomware-incident",
+  "title": "TCG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TCG",
+    "country": ""
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TCG Inc delivers specialized information technology and management advisory services to federal government agencies, combining technical expertise with deep understanding of public sector operations. The company focuses on four core competencies: Agile development methodologies, federal shared services optimization, budget formulation and execution support, and health science analytics. This multifaceted approach enables TCG to address complex challenges across diverse government missions. The company's service offerings reflect extensive experience navigating federal procurement, compliance requirements, and mission-critical operations. TCG's Agile development capabilities help agencies modernize legacy systems and accelerate software delivery cycles. In budget management, the firm provides advisory support for formulation processes and execution strategies, helping agencies optimize resource allocation and financial planning.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/77d1fde1a96c1915e283973bf81db47a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/venhqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-07 13:35:38.539000",
+    "disclosedDate": "2025-12-08 16:09:49.824107"
+  }
+}

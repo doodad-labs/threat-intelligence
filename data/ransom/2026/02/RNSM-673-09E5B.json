@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-09E5B",
+  "type": "ransomware-incident",
+  "title": "tuftco ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tuftco",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "Tuftco is a world-leading manufacturer of tufting machines and equipment, providing comprehensive solutions for carpet mills from tufting to finished carpet\r Laek: 100GB \r WE HAS COLLECTED SUCH DATA AS: \r - Confidential documents \r - Clients Data \r - NDA \r - Financial data \r - Operations \r - Corporate data \r - Business Agreements \r - Development \r - Financial databases, all transactions, all clients\r And a lot of other VERY IMPORTANT information!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6313c09c03fa66c025d970465698e061.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhvmdgnvqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-09 19:00:00.000000",
+    "disclosedDate": "2026-02-09 20:28:57.884780"
+  }
+}

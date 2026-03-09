@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-13330",
+  "type": "ransomware-incident",
+  "title": "https://bellowsmfg.com/company/ ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "https://bellowsmfg.com/company/",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1300000000000,
+    "description": "1.3tb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ecf642c0fa631f6535e2d4cc102d62da.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahr0chm6ly9izwxsb3dzbwznlmnvbs9jb21wyw55l0bpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 11:11:00.000000",
+    "disclosedDate": "2026-01-13 22:46:22.258536"
+  }
+}

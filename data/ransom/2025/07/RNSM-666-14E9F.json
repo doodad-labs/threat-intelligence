@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-14E9F",
+  "type": "ransomware-incident",
+  "title": "Schlemmer Holding GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Schlemmer Holding GmbH",
+    "domain": "schlemmer.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "payoutsking",
+    "name": "payoutsking",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Schlemmer Holding GmbH, based in Germany, is a global technology company focusing on innovative solutions and products for a variety of sectors. Schlemmer specializes in the production of protective systems like cable protection and production technologies, offering its services to industries like the automotive, energy, and telecommunication sectors.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1fb05b4716f89c9cbf3d9a1cfc6da943.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2nobgvtbwvyiehvbgrpbmcgr21isebwyxlvdxrza2luzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-07 19:52:00.000000",
+    "disclosedDate": "2025-07-14 21:49:00.270828"
+  }
+}

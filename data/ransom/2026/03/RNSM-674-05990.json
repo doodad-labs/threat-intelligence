@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-05990",
+  "type": "ransomware-incident",
+  "title": "northstaria.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "northstaria.com",
+    "domain": "northstaria.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "North Star Insurance Advisors is the leading final expense telesales company in America, dedicated to serving the senior market, agents, and partners. The company offers innovative training, a competitive compensation structure, and limitless growth opportunities for agents and partners. With over 40 years of combined experience, North Star utilizes proprietary technology to assist families with their final expense needs. As a purpose-driven organization, they prioritize people and aim to provide valuable resources to navigate life's challenges.\r Employees: 200\r Revenue: $44.9 Million\r Industry: Insurance\r Phone Number: (636) 205-5005",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9b559e19b703882b7a8f3b93a26a4255.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bm9ydghzdgfyaweuy29tqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-05 13:32:00.000000",
+    "disclosedDate": "2026-03-05 22:28:44.341177"
+  }
+}

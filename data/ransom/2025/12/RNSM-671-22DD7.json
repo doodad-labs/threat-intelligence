@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-671-22DD7",
+  "type": "ransomware-incident",
+  "title": "Clínica Dávila ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Clínica Dávila",
+    "domain": "davila.cl",
+    "country": "CL",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Patients' full records, HIV test results, IDs.Throughout a long waiting period, and despite a vast number of phone calls and emails sent by our team to the hospital, we have seen no action from the clinic to resolve the issue - knowing that the HIV tests could potentially change the lives of people whose relatives, friends, and workplaces will...",
+    "claimed_data_types": [
+      "email-addresses"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc654c1e2d252ab393a435186dfc3205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2zdrw5py2egrmohdmlsyubkzxztyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-18 00:00:00.000000",
+    "disclosedDate": "2025-12-22 22:50:06.873101"
+  }
+}

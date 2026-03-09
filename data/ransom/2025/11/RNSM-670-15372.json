@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-670-15372",
+  "type": "ransomware-incident",
+  "title": "Spoleta Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Spoleta Construction",
+    "domain": "spoleta.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "brotherhood",
+    "name": "brotherhood",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 33000000000,
+    "description": "Contains: 4 Gb compressed Free Files + 33 Gb compressed Paid Files, Database",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3bvbgv0ysbdb25zdhj1y3rpb25aynjvdghlcmhvb2q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-15 15:51:28.038932",
+    "disclosedDate": "2025-11-15 15:51:29.283561"
+  }
+}

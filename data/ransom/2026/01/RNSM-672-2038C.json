@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-2038C",
+  "type": "ransomware-incident",
+  "title": "USTAR ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "USTAR",
+    "domain": "ustar.co.th",
+    "country": "CN"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.ustar.co.th https://www.zoominfo.com/c/ustar-cosmetics/458875985 USTAR specializes in beauty products that enhance women's appearance and confidence, offering high-quality items at affordable prices. Their product range includes cosmetics for the eyes, face, and lips, such as foundations, lipsticks, and skincare creams. USTAR aims to cater to women's fashion, beauty, and lifestyle needs. The company is committed to providing friendly service and support to its clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vvnuqvjadghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-20 17:49:26.000000",
+    "disclosedDate": "2026-01-20 19:09:27.004396"
+  }
+}

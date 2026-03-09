@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-670-06D64",
+  "type": "ransomware-incident",
+  "title": "Dermatology Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dermatology Associates",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Leak of clinic customer data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvybwf0b2xvz3kgqxnzb2npyxrlc0bhbnviaxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-06 14:18:15.316457",
+    "disclosedDate": "2025-11-06 14:19:19.524243"
+  }
+}

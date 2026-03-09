@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-07942",
+  "type": "ransomware-incident",
+  "title": "AFDL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AFDL",
+    "domain": "afdl.law",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9fa6e7d3ae6ebfe1b0c2691c77dbd9ed.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/quzetebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-07 00:00:00.000000",
+    "disclosedDate": "2026-03-07 07:39:56.291469"
+  }
+}

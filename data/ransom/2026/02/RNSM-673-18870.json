@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-673-18870",
+  "type": "ransomware-incident",
+  "title": "[Internal database pack 4] Warren County Sheriff’s Office ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "[Internal database pack 4] Warren County Sheriff’s Office",
+    "domain": "warrencountykysheriff.com",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Warren County Sheriff's Office (Kentucky, USA), led by Sheriff Brett Hightower, is a professional law enforcement agency dedicated to protecting residents and visitors, upholding Kentucky state laws and the U.S. Constitution, and delivering comprehensive public safety services across the county. The office provides a wide range of functions, including proactive crime prevention, rapid incident response, equitable enforcement of ordinances and statutes, civil process execution, tax collection and administration, concealed carry permit issuance, and various community-oriented programs and educational initiatives. Headquartered in Bowling Green, the agency maintains a 24/7 operational commitment to emergency preparedness, integrity-driven community policing, and continuous improvement through citizen engagement and feedback to enhance overall safety and quality of life.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bcce0c7137dbf88e0103e18790ef1cee.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/w0ludgvybmfsigrhdgfiyxnlihbhy2sgnf0gv2fycmvuienvdw50esbtagvyawzm4oczcybpzmzpy2vacmfuc29tag91c2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.wbko.com/2026/03/05/wcso-investigate-cyber-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-19 00:00:00.000000",
+    "disclosedDate": "2026-02-18 17:18:08.040742"
+  }
+}

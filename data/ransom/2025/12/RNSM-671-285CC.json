@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-285CC",
+  "type": "ransomware-incident",
+  "title": "Seac ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Seac",
+    "domain": "seac.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/abb39db940fdc7fb50b9d309e47dc7e5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vhy0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-28 19:19:15.182370",
+    "disclosedDate": "2025-12-28 19:19:33.225966"
+  }
+}

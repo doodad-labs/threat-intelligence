@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-074A7",
+  "type": "ransomware-incident",
+  "title": "rjwalker.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rjwalker.com",
+    "domain": "rjwalker.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "R J Walker Plumbing , Heating, Electrical and Cooling.Our family owned and operated business, with s...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/83bfd71dfe803ca6ac5489812a7a0073.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmp3ywxrzxiuy29tqgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-18 00:00:00.000000",
+    "disclosedDate": "2025-12-07 10:30:52.975390"
+  }
+}

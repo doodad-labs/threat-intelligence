@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-26522",
+  "type": "ransomware-incident",
+  "title": "manuaco.pt ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "manuaco.pt",
+    "domain": "manuaco.pt",
+    "country": "PT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A empresa MANUAÇO iniciou a sua atividade em 2006 tendo como único sócio administrador José Fernando...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f5eeef78d66423e05e0af2e15f8858a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfudwfjby5wdebsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-25 16:42:00.000000",
+    "disclosedDate": "2025-12-26 15:20:59.749181"
+  }
+}

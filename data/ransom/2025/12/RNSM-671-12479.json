@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-12479",
+  "type": "ransomware-incident",
+  "title": "Twinsoft ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Twinsoft",
+    "domain": "twinsoft.gr",
+    "country": "GR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Twinsoft is a leading provider of software solutions tailored for the hospitality market, focusing on enhancing business operations through their f...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/33b1853028c12373a3d24b27ca21de46.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhdpbnnvznray29pbmjhc2vjyxj0zww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-12 14:18:17.081850",
+    "disclosedDate": "2025-12-12 14:18:28.556853"
+  }
+}

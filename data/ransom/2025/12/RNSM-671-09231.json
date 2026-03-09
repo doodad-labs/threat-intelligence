@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-671-09231",
+  "type": "ransomware-incident",
+  "title": "Computing Dynamics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Computing Dynamics",
+    "domain": "cdisoftware.com",
+    "country": "UK",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Computing Dynamics Inc is a company that develops custom software and provides IT services. In other words, this company operates in the IT sector and yet manages to make stupid mistakes in its work. As a result, it fell victim to an attack and a large amount of confidential data was compromised! This included data about clients, employees, and the company itself. Names, phone numbers, addresses, and a lot of personal information were compromised!",
+    "claimed_data_types": [
+      "phone-numbers",
+      "addresses",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/335fbcb1d5512647afdb658f8888259f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tchv0aw5nier5bmftawnzqgludgvybg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-09 17:17:22.427907",
+    "disclosedDate": "2025-12-09 17:17:38.964791"
+  }
+}

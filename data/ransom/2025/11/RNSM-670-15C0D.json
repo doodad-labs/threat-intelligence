@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-670-15C0D",
+  "type": "ransomware-incident",
+  "title": "Horst Realty ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Horst Realty",
+    "domain": "horstrealty.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "brotherhood",
+    "name": "brotherhood",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 27000000000,
+    "description": "Contains: 27 Gb compressed Files, Emails",
+    "claimed_data_types": [
+      "email-addresses"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9yc3qgumvhbhr5qgjyb3rozxjob29k",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-15 15:51:52.011261",
+    "disclosedDate": "2025-11-15 15:51:53.974544"
+  }
+}

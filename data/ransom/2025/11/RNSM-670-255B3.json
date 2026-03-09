@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-255B3",
+  "type": "ransomware-incident",
+  "title": "amcor ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "amcor",
+    "domain": "amcor.com",
+    "country": "AU",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Amcor is a global leader in developing and producing packaging solutions for a wide range of products, including food, beverage, medical, and perso...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c6e26bc0fe42bc3e470da09ed1191024.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw1jb3jay29pbmjhc2vjyxj0zww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-25 15:21:54.782035",
+    "disclosedDate": "2025-11-25 15:22:07.991160"
+  }
+}

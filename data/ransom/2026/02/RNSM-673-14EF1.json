@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-14EF1",
+  "type": "ransomware-incident",
+  "title": "HUDSONEXECUTIVE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HUDSONEXECUTIVE.COM",
+    "domain": "hudsonexecutive.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Hudson Executive Capital LP is a SEC-registered investment advisor based in New York City. Founded in 2015, the company employs a constructive engagement investment approach, focusing on supporting well-performing businesses in delivering long-term growth. It collaborates with leading businesses and executives across different industry sectors. However, it specializes in Financials, Healthcare, Technology, and Media industries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9ed132ff180fd8cd4096b4c973d49215.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sfveu09orvhfq1vusvzflknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-14 10:41:56.595117",
+    "disclosedDate": "2026-02-14 10:42:11.956342"
+  }
+}

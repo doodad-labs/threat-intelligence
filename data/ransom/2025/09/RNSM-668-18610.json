@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-18610",
+  "type": "ransomware-incident",
+  "title": "cardinal-services.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cardinal-services.com",
+    "domain": "cardinal-services.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cardinal Services is a full-service staffing company founded in 1984 and headquartered in Coos Bay, Oregon.\r Employees: 50\r Revenue: $48.7 Million\r Industry: Business Services\r Phone Number:(541) 888-9799",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2c1908dfa58bff3d3912ac4ed31085fd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fyzgluywwtc2vydmljzxmuy29tqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-10 00:00:00.000000",
+    "disclosedDate": "2025-09-18 00:50:51.007162"
+  }
+}

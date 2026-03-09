@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-29A2F",
+  "type": "ransomware-incident",
+  "title": "precisionaluminum.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "precisionaluminum.ca",
+    "domain": "precisionaluminum.ca",
+    "country": "CA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Precision Aluminum Manufacturing Inc. is a Canadian metal fabrication and architectural products company headquartered in Rocky View County (near Calgary), …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6dfecbb8c0c1ef2521ef3f324ce81ea0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chjly2lzaw9uywx1bwludw0uy2fac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-29 20:09:35.720008",
+    "disclosedDate": "2025-12-29 20:09:48.518016"
+  }
+}

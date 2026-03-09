@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-317FD",
+  "type": "ransomware-incident",
+  "title": "VZW Avalon ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VZW Avalon",
+    "domain": "avalon-vzw.be",
+    "country": "BE",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "38554 File(s) 31,312,417,174 bytes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3b5c9fee182469fd2e40cf5365af2fb4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vlpxief2ywxvbkbpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-31 05:05:00.000000",
+    "disclosedDate": "2025-10-31 05:19:45.644441"
+  }
+}

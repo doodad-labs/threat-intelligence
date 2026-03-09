@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-21033",
+  "type": "ransomware-incident",
+  "title": "ACRONI.SI ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ACRONI.SI",
+    "domain": "acroni.si",
+    "country": "SI",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ACRONI.SI is a Slovenia-based company primarily engaged in the production of steel. The company specializes in heavy plates, electrical steel, clad plates, and off-cut tool steel. It caters to a varied range of industries including naval, heavy machinery, energy, automotive, construction, and tool making industries. Their operations involve processing crude iron, steel casting, rolling, heat treatment and other procedures.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6e2698f460633fe792663c97f0f01909.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qunst05jllnjqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 17:32:01.988267",
+    "disclosedDate": "2025-11-21 17:32:19.636640"
+  }
+}

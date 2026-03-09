@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-670-110EA",
+  "type": "ransomware-incident",
+  "title": "Sarulla Operation ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sarulla Operation",
+    "country": "ID",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Administration \r Financial operations \r Budgets and account balances \r User information \r Confidential information \r Over 1,000 passports \r Payment instructions and other accounting documents \r Contract discussions and final contracts \r and others",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fydwxsysbpcgvyyxrpb25aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-11 00:00:00.000000",
+    "disclosedDate": "2025-11-11 00:27:51.470545"
+  }
+}

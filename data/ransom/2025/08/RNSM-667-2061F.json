@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-2061F",
+  "type": "ransomware-incident",
+  "title": "Fullerton Surgical Center (FSC) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Fullerton Surgical Center (FSC)",
+    "domain": "fullerton-surgical.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fullerton Surgical Center, USA, is a surgical clinic offering services in general surgery, orthopedics, otolaryngology, plastic surgery, pain management, urology, and gastroenterology. Of course, all these services cost a fortune, and the US             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a820bae887109e5f166ded8f01c482fb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rnvsbgvydg9uifn1cmdpy2fsienlbnrlciaorlndkubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-20 00:00:00.000000",
+    "disclosedDate": "2025-08-20 23:36:02.591773"
+  }
+}

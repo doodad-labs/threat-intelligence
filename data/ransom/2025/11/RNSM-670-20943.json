@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-20943",
+  "type": "ransomware-incident",
+  "title": "N15 Technology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "N15 Technology",
+    "domain": "n15technology.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f47268e12733964b667f9a5215ca249c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tje1ifrly2hub2xvz3lacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-20 15:12:35.544529",
+    "disclosedDate": "2025-11-20 15:12:54.613935"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-671-076A4",
+  "type": "ransomware-incident",
+  "title": "Jeffrey W Krol & Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jeffrey W Krol & Associates",
+    "country": "US"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Jeffrey W. Krol & Associates, Ltd. is a full-service certified public accounting firm based in Chicago, Illinois, serving a diverse clientele across the United States. The firm offers a wide range of services including personal financial planning, business accounting, tax preparation, and QuickBooks services. Their dedicated team provides professional and personalized guidance to both individuals and businesses, addressing various financial and business needs. With years of experience, Krol & Associates is committed to assisting clients in navigating their accounting challenges.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5289c7064481692c87e3dfec69ba0162.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smvmznjlesbxietyb2wgjibbc3nvy2lhdgvzqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-07 13:21:56.029000",
+    "disclosedDate": "2025-12-07 18:48:19.945556"
+  }
+}

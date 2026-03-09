@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-668-30BDF",
+  "type": "ransomware-incident",
+  "title": "Apex CoVantage ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Apex CoVantage",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 35000000000,
+    "description": "Apex CoVantageThe company provides data conversion, prepress, content enhancement, and editorial services to publishers and both private and public libraries around the world.We are ready to upload more than 35GB files of essential corporate documents such as: financial data (audit, payment details,financial reports, invoices), employees and customers information (passports, death certificate, emails, phones) confidential information, NDAs and other documents with detailed personal information so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxblecbdb1zhbnrhz2vaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-30 00:00:00.000000",
+    "disclosedDate": "2025-09-30 11:45:16.153861"
+  }
+}

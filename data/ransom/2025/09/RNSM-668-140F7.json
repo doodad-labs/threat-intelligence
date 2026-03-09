@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-140F7",
+  "type": "ransomware-incident",
+  "title": "Homsey Law Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Homsey Law Center",
+    "domain": "homseylawcenter.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "pear",
+    "name": "pear",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Homsey Law Center are experts in personal injury law dedicated to serving Oklahoma City for the last 47 years",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/50427c663798ab3fac8daa6dd9ca5f60.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9tc2v5iexhdybdzw50zxjacgvhcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-04 00:00:00.000000",
+    "disclosedDate": "2025-09-14 13:24:34.539899"
+  }
+}

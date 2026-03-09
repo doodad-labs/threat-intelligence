@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-214E2",
+  "type": "ransomware-incident",
+  "title": "Burt Process Equipment ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Burt Process Equipment",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 19000000000,
+    "description": "Burt Process Equipment is a leader in the worldwide community of people, businesses, and organizations striving to create a betterenvironment through the innovative and responsible use of water and natural resources. We are going to upload about 19gb of corporate files. You will find employees information (DOB, addresses, SSNs, phones, emails and so on), HR files, detailed financial and accounting information(customers files, employee financial information, payment details), lots of scanned docs with personal data, agreements and contracts, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnvydcbqcm9jzxnzievxdwlwbwvudebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-21 00:00:00.000000",
+    "disclosedDate": "2025-08-21 13:13:21.209990"
+  }
+}

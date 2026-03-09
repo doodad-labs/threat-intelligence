@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-25F69",
+  "type": "ransomware-incident",
+  "title": "WILDRIDGELANDSCAPE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WILDRIDGELANDSCAPE.COM",
+    "domain": "wildridgelandscape.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Wildridge Landscape is a professional landscaping company located in the United States. They specialize in providing exceptional custom landscaping solutions for residences and businesses alike. Their services range from lawn care and garden design, to installation of patios, retaining walls, and other outdoor features. Backed by experienced professionals, Wildridge Landscape aims to enhance the aesthetic appeal and functionality of outdoor spaces.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d6f92c90141e1a02dc4a3618bbe08b0d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0lmrfjjredfteforfndqvbflknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 15:05:08.422019",
+    "disclosedDate": "2026-01-25 15:05:22.491343"
+  }
+}

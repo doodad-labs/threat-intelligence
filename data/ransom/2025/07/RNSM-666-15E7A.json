@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-15E7A",
+  "type": "ransomware-incident",
+  "title": "Progressive Auto Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Progressive Auto Group",
+    "domain": "progressiveautogroup.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "nitrogen",
+    "name": "nitrogen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sale of new cars of famous brands: Chevrolet, Chrysler, Dodge, Jeep, Ram. Sale of used cars, budget cars. Service and repair. Registration of loans, leasing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/33ac0d718425f1b57f6ddb5e547e13a1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjvz3jlc3npdmugqxv0bybhcm91cebuaxryb2dlbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-15 12:41:37.064815",
+    "disclosedDate": "2025-07-15 12:42:03.457199"
+  }
+}

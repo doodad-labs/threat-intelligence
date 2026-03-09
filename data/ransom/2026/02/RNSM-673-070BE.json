@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-070BE",
+  "type": "ransomware-incident",
+  "title": "Integrated Fresh Solutions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Integrated Fresh Solutions",
+    "domain": "integratedfresh.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "insomnia",
+    "name": "insomnia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "IFS supplies fresh produce, perishable logistics, warehousing, and custom support to foodservice, retail, and wholesale. With subsidiaries Fresh-Link Produce, Kool Logistics, and Synergy Worldwide, IFS streamlines farm-to-table operations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34025273c010af2573af4a4d8e2de841.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw50zwdyyxrlzcbgcmvzacbtb2x1dglvbnnaaw5zb21uawe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-08 00:00:00.000000",
+    "disclosedDate": "2026-02-07 21:33:06.778524"
+  }
+}

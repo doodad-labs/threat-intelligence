@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-20C24",
+  "type": "ransomware-incident",
+  "title": "South Atlanta Medical Clinic ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "South Atlanta Medical Clinic",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "South Atlanta Ambulatory Surgery Center is a specialized outpatient surgical facility in Stockbridge, Georgia, dedicated exclusively to ear, nose, and throat procedures. The center is staffed by experienced board-certified otolaryngologists and anesthesiologists, providing high-quality, personalized surgical services for both pediatric and adult patients. With a focus on excellence and comfort, South Atlanta ASC is equipped with advanced technology for various ENT surgeries, including computer image-guided sinus surgery and balloon sinuplasty. Their mission is to ensure cost-efficient, compassionate care tailored to the needs of each patient.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c91a3fa2eb320f85b64e01a48231513d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u291dgggqxrsyw50ysbnzwrpy2fsiensaw5py0bzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-20 18:43:07.894000",
+    "disclosedDate": "2025-10-20 19:50:29.146281"
+  }
+}

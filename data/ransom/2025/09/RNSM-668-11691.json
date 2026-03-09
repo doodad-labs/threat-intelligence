@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-11691",
+  "type": "ransomware-incident",
+  "title": "SGS Co ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SGS Co",
+    "domain": "sgsco.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "daixin",
+    "name": "daixin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Brand design and packaging solutions agency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0dtienvqgrhaxhpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d7e8a0b9-3de2-4255-ab6a-c89ff69b4a57.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-11 09:55:18.302229",
+    "disclosedDate": "2025-09-11 09:55:19.365780"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-292DF",
+  "type": "ransomware-incident",
+  "title": "busaba ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "busaba",
+    "domain": "busaba.com",
+    "country": "GB",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ransom: 580000 USD",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/48eb41ef440c54605117e42289d90710.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynvzywjhqgrldm1hbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-29 13:34:50.363178",
+    "disclosedDate": "2025-09-29 13:35:21.710130"
+  }
+}

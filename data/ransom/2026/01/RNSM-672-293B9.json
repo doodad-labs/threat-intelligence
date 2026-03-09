@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-293B9",
+  "type": "ransomware-incident",
+  "title": "Hillmann Consulting ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hillmann Consulting",
+    "country": "DE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 116000000000,
+    "description": "Hillmann Consulting is a nationwide construction consulting and due diligence company that specializes in planning, managing, and executing construction projects. They offer a wide range of services including environmental health and safety, due diligence and remediation management, energy consulting, and construction services.We will upload 116gb of corporate data soon. Employees' data (250 DLs, passports, SSNs and so on), contracts and agreements, financials, HR files, confidential files, NDAs and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sglsbg1hbm4gq29uc3vsdgluz0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-29 00:00:00.000000",
+    "disclosedDate": "2026-01-29 12:53:33.130523"
+  }
+}

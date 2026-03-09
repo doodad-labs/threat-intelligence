@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-670-275E5",
+  "type": "ransomware-incident",
+  "title": "Hitech ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hitech",
+    "country": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 85000000000,
+    "description": "Hitech is a prominent single-seater racing team based in Silverstone, UK, competing in various national and international motorsport championships including FIA Formula 2, FIA Formula 3, GB3, andFormula 4.We will upload 85gb of corporate documents soon. Drivers personaldocuments, race cars information, race reports, teams and staff information and other interesting files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgl0zwnoqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-27 00:00:00.000000",
+    "disclosedDate": "2025-11-27 13:10:10.185313"
+  }
+}

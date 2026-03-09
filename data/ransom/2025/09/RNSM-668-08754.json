@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-668-08754",
+  "type": "ransomware-incident",
+  "title": "ipathpr.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ipathpr.com",
+    "domain": "ipathpr.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "alphalocker",
+    "name": "alphalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 90000000000,
+    "description": "Integrated Pathology Services 90 GB data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9d652ceb9c4bc4ff3162bbd5716cfde7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axbhdghwci5jb21aywxwagfsb2nrzxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-08 10:57:25.807501",
+    "disclosedDate": "2025-09-08 10:57:41.700276"
+  }
+}

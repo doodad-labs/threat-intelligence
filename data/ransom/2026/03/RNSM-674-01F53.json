@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-01F53",
+  "type": "ransomware-incident",
+  "title": "LISI Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LISI Group",
+    "domain": "lisi-group.com",
+    "country": "FR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c76673124917409ed283f64d517e828f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/teltssbhcm91cebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-01 19:14:10.730869",
+    "disclosedDate": "2026-03-01 19:14:25.469697"
+  }
+}

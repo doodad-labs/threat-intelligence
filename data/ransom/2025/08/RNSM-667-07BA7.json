@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-07BA7",
+  "type": "ransomware-incident",
+  "title": "ONEX CANADA ASSET MANAGEMENT INC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ONEX CANADA ASSET MANAGEMENT INC",
+    "domain": "onex.com",
+    "country": "CA",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "d4rk4rmy",
+    "name": "d4rk4rmy",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://onex.com Onex Partners is a private equity platform focused on the upper-middle market in the United States, Canada, and Europe. Our successful track record is built on deep sector specialization and a disciplined, hands-on approach to private equity investing. they…",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t05fwcbdqu5breegqvntrvqgtufoqudftuvovcbjtknazdryazrybxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-07 11:48:51.592306",
+    "disclosedDate": "2025-08-07 11:48:52.898052"
+  }
+}

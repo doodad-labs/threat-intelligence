@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-01759",
+  "type": "ransomware-incident",
+  "title": "Abhe & Svoboda ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Abhe & Svoboda",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 82000000000,
+    "description": "Abhe & Svoboda, Inc. is a full-service restoration contractor. Inaddition to offering a full range of industrial coatings services, our core competencies also include a variety of related construction services, such as concrete repair, and steel repair and replacement.We are ready to upload 82GB of corporate documents such as: Detailed personal employee information (passports, DLs, SSNs, addresses, emails, phones, medical information, credit cards), client information, projects, agreements and contracts, other internal documents.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwjozsamifn2b2jvzgfaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-01 00:00:00.000000",
+    "disclosedDate": "2025-12-01 12:48:16.147182"
+  }
+}

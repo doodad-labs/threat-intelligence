@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-30597",
+  "type": "ransomware-incident",
+  "title": "Division 10 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Division 10",
+    "domain": "division10inc.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Division 10 Inc is a company based in Memphis, Tennessee, specializing in supplying specialty products to the construction industry since 1989. They offer services including product sales, estimating services, and installation quotes. Their clients range from contractors to automotive companies, evidenced by testimonials highlighting their successful project contributions. The company prides itself on its commitment to quality and customer satisfaction",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/77882fb8b6c484bf68c13a5a7007b06a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgl2axnpb24gmtbazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-30 06:10:05.194581",
+    "disclosedDate": "2025-11-30 06:44:15.160120"
+  }
+}

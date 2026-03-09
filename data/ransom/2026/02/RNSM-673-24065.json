@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-24065",
+  "type": "ransomware-incident",
+  "title": "Wachendorff ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wachendorff",
+    "domain": "wachendorff.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "wachendorff.de zoominfo.com/c/wachendorff-gebäude/368536587 Wachendorff Unternehmensgruppe specializes in the development and manufacturing of encoders and measurement systems, providing reliable solutions for rotary and linear measurement tasks. They also offer industrial electronics and automation technology, serving as a trusted partner for industrial communication and visualization for over 45 years. Their VISUALYS division focuses on creating data awareness through web and app-based software solutions, emphasizing IIoT, data visualization, and data analysis. The company caters to clients in the German machinery and plant engineering sector, delivering high-quality, robust devices tailored to specific applications",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fjagvuzg9yzmzadghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-24 18:40:41.000000",
+    "disclosedDate": "2026-02-24 18:52:44.209067"
+  }
+}

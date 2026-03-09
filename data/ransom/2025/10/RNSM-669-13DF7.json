@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-13DF7",
+  "type": "ransomware-incident",
+  "title": "Bank3 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bank3",
+    "domain": "bank3.com",
+    "country": "",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bank3, USA - it's a disaster for the clients. Bank3 is a community-driven banking institution offering personal and business banking services, as well as mortgage lending. The bank serves clients in various locations including Memphis, Nashvi            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7ab78e328fe0b42846387e90f373aab1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfuaznacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 00:00:00.000000",
+    "disclosedDate": "2025-10-13 23:19:25.617048"
+  }
+}

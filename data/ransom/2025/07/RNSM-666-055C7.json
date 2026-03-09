@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-055C7",
+  "type": "ransomware-incident",
+  "title": "Silver Lining Herbs ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Silver Lining Herbs",
+    "domain": "silverliningherbs.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Silver Lining Herbs specializes in herbal supplements for horses, dogs, and humans, providing natural health products aimed at enhancing the well-being of both pets and their owners. Their range includes various formulations that address health needs such as immune support, joint health, and digestive function. The company is family-owned and has over 25 years of experience in promoting animal health and performance. With a focus on education and optimal care, they offer product bundles designed to ensure the wellness of all family members, including pets.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c86d2f8b6e514c1d4e9d0ccee5a23af5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2lsdmvyiexpbmluzybizxjic0bkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-05 13:07:35.356756",
+    "disclosedDate": "2025-07-05 13:55:53.690740"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-243A8",
+  "type": "ransomware-incident",
+  "title": "simmerscrane.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "simmerscrane.com",
+    "domain": "simmerscrane.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Simmers Crane Design & Services Company was founded in 1958 by Charles Simmers, former Chief Engineer with Koppers Co. and Vice President of Engineering with Morgan Engineering Company. Mr. Simmers recognized the need for a specialty engineering group to serve the steel industry, and was able to staff his group with engineering personnel from major crane and mill builders. Initially providing engineering services only, Simmers became a Division of Pollock Research and Design, Inc. in 1966 and has expanded its' capabilities to include complete engineering services, field services, and materials for cranes, weight handling, mill, special, and category \"A\" nuclear equipment. Providing services both domestically and internationally, Simmers, along with its' sister division Reading Crane & Engineering Co., is an OEM supplier. Simmers is accredited by the U.S. Department of Labor to inspect, test, and certify Maritime shore based material handling devices such as cranes, derricks, spouts",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7e963289fb52857e38cacba9c00c87b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2ltbwvyc2nyyw5llmnvbubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-24 08:07:33.053000",
+    "disclosedDate": "2025-10-24 08:40:47.450758"
+  }
+}

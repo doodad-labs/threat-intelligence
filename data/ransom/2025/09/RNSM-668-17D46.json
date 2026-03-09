@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-17D46",
+  "type": "ransomware-incident",
+  "title": "SUNIQUE Asset Management Co ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SUNIQUE Asset Management Co",
+    "domain": "suniqueam.co.kr",
+    "country": "HK",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SUNIQUE Asset Management Co, Korean Leak2.  General business in the field of direct investment, investment consulting, and investment agency. The company's portfolio is 1.5 billion won ($1 million). The company claims that it works only with             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2ca2300634d6ea57e556d8fd3f6f25ea.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1vosvfvrsbbc3nldcbnyw5hz2vtzw50ienvqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-17 00:00:00.000000",
+    "disclosedDate": "2025-09-17 23:10:24.184555"
+  }
+}

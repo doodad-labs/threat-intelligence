@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-1748E",
+  "type": "ransomware-incident",
+  "title": "Eagle Oil & Gas ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Eagle Oil & Gas",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 70000000000,
+    "description": "Eagle Oil & Gas operates and manages its own properties and the assets of other companies, focusing on drilling new wells and optimizing legacy assets.We will upload 70gb of corporate documents soon. Employee personal documents (scanned passports, driver licenses, SSNs, phones, addresses, email addresses, credit card payment details and so on),confidential contracts and agreements, NDA, and other client's files, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwfnbgugt2lsicygr2fzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-17 00:00:00.000000",
+    "disclosedDate": "2025-11-17 15:16:23.702382"
+  }
+}

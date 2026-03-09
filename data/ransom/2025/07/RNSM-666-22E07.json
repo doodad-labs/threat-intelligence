@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-22E07",
+  "type": "ransomware-incident",
+  "title": "dtxstudio.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "dtxstudio.com",
+    "domain": "dtxstudio.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DTX Studio is a company that provides software for dental professionals that keeps imaging data together for diagnostics, treatments, and follow-ups. They are based in Brea, California.\r Employees: 324\r Revenue:17.8 Million\r Industry:Software",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/14907333b424cbc706a1fd7f48b073d2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zhr4c3r1zglvlmnvbubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-21 19:29:00.000000",
+    "disclosedDate": "2025-07-22 02:46:37.302132"
+  }
+}

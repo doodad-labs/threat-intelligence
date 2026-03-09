@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-2710B",
+  "type": "ransomware-incident",
+  "title": "gardiners solicitors ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gardiners solicitors",
+    "domain": "gardinerssolicitors.co.uk",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We are a small firm of solicitors based in West Kensington, close to Olympia, established in 1997 by Paul Gardiner. We specialise in:- Property- Shared Ownership- Employment lawWe offer private criminal work.We are not confined to the London area and can arrange to buy and sell properties throughout the UK. We have considerable experience in respect of shared ownership work.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2fyzgluzxjzihnvbgljaxrvcnnazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-17 08:51:45.785171",
+    "disclosedDate": "2025-10-27 11:56:16.400154"
+  }
+}

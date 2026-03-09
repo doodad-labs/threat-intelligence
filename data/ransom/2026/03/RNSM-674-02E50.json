@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-02E50",
+  "type": "ransomware-incident",
+  "title": "Cabka ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cabka",
+    "domain": "cabka.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Germany",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1b1edfe991703756ccd4bfb8c29dcaeb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fia2facgxheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-02 21:49:53.622278",
+    "disclosedDate": "2026-03-02 21:50:30.539092"
+  }
+}

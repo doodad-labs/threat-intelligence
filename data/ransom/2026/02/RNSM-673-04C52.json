@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-673-04C52",
+  "type": "ransomware-incident",
+  "title": "efulfillment Service ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "efulfillment Service",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "eFulfillment Service (eFS) is a third-party logistics provider (3PL) and provides ecommerce businesses with inventory storage, order processing, shipping, Fulfillment by Merchant (FBM), Fulfillment by Amazon (FBA) Prep and returns service.We will upload corporate data soon. Accounting files, clients' accounting files, detailed financials and other files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwz1bgzpbgxtzw50ifnlcnzpy2vaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-04 00:00:00.000000",
+    "disclosedDate": "2026-02-04 13:25:34.778745"
+  }
+}

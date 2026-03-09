@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-668-08A8B",
+  "type": "ransomware-incident",
+  "title": "Melwood ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Melwood",
+    "domain": "melwood.com",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Melwood is a family of companies with a shared vision of a world where people with disabilities are fully included. Melwood comprises three primary companies—Melwood Enterprises, Melwood Community Services, and Melwood Inc.—together serving as one of the nation’s leading advocates, service providers, and employers of people with disabilities and their caregivers. They offer employment, job placement, job training, life skills for independence, support services, and youth and community recreational services to more than 3,000 people each year in D.C., Maryland, and Virginia.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ae7556411f37f044f678be8bcaf38dbb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvsd29vzebzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2026-01-26-melwood-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-08 20:12:56.308000",
+    "disclosedDate": "2025-09-08 20:44:06.734126"
+  }
+}

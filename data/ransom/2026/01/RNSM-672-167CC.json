@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-167CC",
+  "type": "ransomware-incident",
+  "title": "JR Advertising Specialties ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JR Advertising Specialties",
+    "domain": "jradspec.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "JR Advertising Specialties Inc specializes in promotional products and business gifts, offering a vast selection to meet various needs. Their product range includes apparel, bags, drinkware, office supplies, and awards, catering to businesses looking to enhance their brand visibility. The company prides itself on providing high-quality merchandise with fast delivery times and budget-friendly prices. With a commitment to personalized recommendations, they aim to simplify the shopping experience for their clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a23fd75f99ae9a981f5a450380d69318.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sligqwr2zxj0axnpbmcgu3bly2lhbhrpzxnazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-16 07:22:24.677572",
+    "disclosedDate": "2026-01-16 08:24:31.148742"
+  }
+}

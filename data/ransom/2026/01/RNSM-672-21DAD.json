@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-21DAD",
+  "type": "ransomware-incident",
+  "title": "aditusbr.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aditusbr.com",
+    "domain": "aditusbr.com",
+    "country": "BR"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since 2011, ADITUS has been working alongside investors as an independent consulting firm specialize...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/883f132be0ec2cec0a606e4247646035.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywrpdhvzyniuy29tqgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-21 11:41:00.000000",
+    "disclosedDate": "2026-01-21 13:49:32.381973"
+  }
+}

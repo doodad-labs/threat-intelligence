@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-1175A",
+  "type": "ransomware-incident",
+  "title": "ITG Electronics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ITG Electronics",
+    "domain": "itgelectronics.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ITG Electronics, Inc. specializes in a vast range of electronic components including power inductors, EMI filters, common mode chokes, and transformers, catering to high-performance applications in various industries. Their products are designed for automotive, industrial, consumer, and medical sectors, offering both standard and custom solutions. With a strong commitment to energy efficiency and compliance with industry standards, ITG provides tailored solutions for power supplies and electronic systems. Their expert sales team is accessible for inquiries and customized product requirements, ensuring specific needs are met efficiently.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/513d5ff10c3d6f8d6d22e7e560430252.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/svrhievszwn0cm9uawnzqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-11 19:43:56.841000",
+    "disclosedDate": "2026-01-11 19:51:23.222030"
+  }
+}

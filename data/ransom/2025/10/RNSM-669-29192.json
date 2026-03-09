@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-29192",
+  "type": "ransomware-incident",
+  "title": "Phillips Printing Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Phillips Printing Company",
+    "domain": "philprint.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "nitrogen",
+    "name": "nitrogen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "This is a commercial printing house that deals with design, offset and digital printing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d874709d17e56d6893a4b26b25b9aa17.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ughpbgxpchmguhjpbnrpbmcgq29tcgfueubuaxryb2dlbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-29 19:13:44.560549",
+    "disclosedDate": "2025-10-29 19:13:59.007672"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-673-0407B",
+  "type": "ransomware-incident",
+  "title": "Karl Geuther ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Karl Geuther",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 45000000000,
+    "description": "Karl Geuther & Co. operates in five business areas: shipping, stevedoring/port handling, transport logistics/freight forwarding, mail order, and tourism.We will upload 45gb of corporate data soon. Employee documents (IDs, passports, DLs, birth certs), financials, contracts and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fybcbhzxv0agvyqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-04 00:00:00.000000",
+    "disclosedDate": "2026-02-04 16:20:09.927437"
+  }
+}

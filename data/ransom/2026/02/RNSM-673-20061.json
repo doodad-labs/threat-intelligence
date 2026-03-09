@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-20061",
+  "type": "ransomware-incident",
+  "title": "polymedicure.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "polymedicure.com",
+    "domain": "polymedicure.com",
+    "country": "IN",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Polymed is a global leader in the medical device industry, offering a wide range of medical devices since 1997. The company specializes in various fields including infusion therapy, critical care, dialysis, cardiology, and oncology",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f291ac93237f48879de1387c4778cf6f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cg9sew1lzgljdxjllmnvbubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-20 00:00:00.000000",
+    "disclosedDate": "2026-02-20 13:40:15.803830"
+  }
+}

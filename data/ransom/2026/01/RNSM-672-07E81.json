@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-07E81",
+  "type": "ransomware-incident",
+  "title": "RGD Consulting Engineers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RGD Consulting Engineers",
+    "domain": "rgdengineers.com",
+    "country": "AU",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "RGD Consulting Engineers is a full-service engineering firm specializing in mechanical, electrical, plumbing, and structural design, based in Florida. RGD is focused on providing engineering solutions, exceptional customer service, and cost-effective systems. Serving a variety of markets throughout Florida, the United States, and the Caribbean, RGD collaborates closely with its clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e874d3cbb13411b4903781692f56693b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukdeienvbnn1bhrpbmcgrw5naw5lzxjzqgludgvybg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-07 14:21:36.009159",
+    "disclosedDate": "2026-01-07 14:21:53.251508"
+  }
+}

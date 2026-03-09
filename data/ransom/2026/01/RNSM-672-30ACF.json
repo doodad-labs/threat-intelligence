@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-30ACF",
+  "type": "ransomware-incident",
+  "title": "www.roschvisionary.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.roschvisionary.com",
+    "domain": "roschvisionary.com",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rosch Visionary Systems specializes in software solutions designed specifically for allergy specialists, offering tools such as immunotherapy management, skin testing, and patient tracking. Their products enhance safety, efficiency, reportability, and profitability while being compatible with HL7 compliant electronic health record systems. The company aims to support allergy practices through a comprehensive implementation process, including training and technical support. Their intended clients are allergy specialists and practices in the United States and Canada",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e9cf779cdb56501d4db0c56169832b4e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnjvc2nodmlzaw9uyxj5lmnvbubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-30 08:48:45.847000",
+    "disclosedDate": "2026-01-30 09:29:06.203697"
+  }
+}

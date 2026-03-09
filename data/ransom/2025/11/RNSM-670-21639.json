@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-21639",
+  "type": "ransomware-incident",
+  "title": "ANYWHERE.RE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ANYWHERE.RE",
+    "domain": "anywhere.re",
+    "country": "RE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"ANYWHERE.RE\" is a proptech solution providing a comprehensive and innovative platform that transforms the real estate industry. It combines Augmented Reality (AR), Artificial Intelligence (AI), and big data for assisting real estate developers, brokers, and agents make data-driven decisions. In addition, it enhances the way potential buyers view and experience properties through virtual tours.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2b266cc510eeb0c19744f560063a3e96.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qu5zv0hfukuuukvay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 17:41:21.135936",
+    "disclosedDate": "2025-11-21 17:41:37.040202"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-04F5B",
+  "type": "ransomware-incident",
+  "title": "KwikLedgers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KwikLedgers",
+    "domain": "kwikledgers.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Finance",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/150dd6551b1d8a73677c051992dab89d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s3dpa0xlzgdlcnnazglyzxdvbgy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-04 05:33:18.096965",
+    "disclosedDate": "2026-01-04 05:53:57.254160"
+  }
+}

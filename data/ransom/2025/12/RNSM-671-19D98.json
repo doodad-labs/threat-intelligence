@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-19D98",
+  "type": "ransomware-incident",
+  "title": "Turnamics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Turnamics",
+    "domain": "turnamics.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Turnamics, Inc. is a contract manufacturer based in Asheville, NC, specializing in short to medium production runs of machined parts since 1969. The company has evolved from a small turning shop into a world-class manufacturing operation, employing nearly 75 skilled individuals. Turnamics is committed to quality and utilizes advanced machining techniques to meet diverse manufacturing needs. Their services cater to clients seeking reliable and precise machining solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/50cb2446f3fa0672bffe419ee4f39ef1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhvybmftawnzqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-19 21:53:47.903000",
+    "disclosedDate": "2025-12-19 22:26:21.265416"
+  }
+}

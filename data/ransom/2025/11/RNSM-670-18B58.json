@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-18B58",
+  "type": "ransomware-incident",
+  "title": "zadroinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "zadroinc.com",
+    "domain": "zadroinc.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Zadro Inc. is a California-based beauty, health, and wellness brand with over 37 years of experience in creating innovative products. Specializing in advanced technology and holding more than 40 patents, the company offers a range of items including makeup mirrors, towel warmers, massagers, and aromatherapy products. Its intended clients include individuals seeking to enhance their daily routines and achieve spa-like comfort at home. With a commitment to quality and customer satisfaction, Zadro Inc. has established itself as a trusted brand in the wellness and beauty industry.\r Employees: 200\r Revenue: $11.9 Million\r Industry: Retail\r Phone Number: (714) 892-9200",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e833048775047f9f22f711b804804097.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/emfkcm9pbmmuy29tqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-18 18:10:00.000000",
+    "disclosedDate": "2025-11-18 18:23:24.969974"
+  }
+}

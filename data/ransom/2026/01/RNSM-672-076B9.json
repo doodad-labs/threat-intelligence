@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-076B9",
+  "type": "ransomware-incident",
+  "title": "BUHLMANN GROUP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BUHLMANN GROUP",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 55000000000,
+    "description": "BUHLMANN GROUP is a premium trading company specializing in steelpipes, pipe fittings, and accessories, serving various industries including energy, chemicals, shipbuilding, and machine construction.We will upload more than 55gb of corporate data soon. Lots of drawings and specifications, confidentiality agreements, employees personal documents, project files, financials, contracts and agreements, customers information and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qlvite1btk4gr1jpvvbaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-07 00:00:00.000000",
+    "disclosedDate": "2026-01-07 15:17:48.762867"
+  }
+}

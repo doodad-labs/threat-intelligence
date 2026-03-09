@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-18E67",
+  "type": "ransomware-incident",
+  "title": "IQgistics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IQgistics",
+    "domain": "iqgistics.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "beast",
+    "name": "beast",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "IQgistics offers innovative GPS fleet tracking solutions designed to enhance logistics management for businesses of all sizes. Their comprehensive suite includes advanced tracking software and cellular products, providing tailored solutions that optimize fleet productivity and reduce operational costs. Utilizing cutting-edge technology, including AI-driven algorithms, IQgistics empowers clients to gain actionable insights and control over their logistics. With a dedicated support team, they ensure clients can focus on their core business while benefiting from scalable and flexible platform solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e9413c67fe5dd9287dd3922b36fb3f3d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/svfnaxn0awnzqgjlyxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-17 00:00:00.000000",
+    "disclosedDate": "2025-08-18 08:40:29.079333"
+  }
+}

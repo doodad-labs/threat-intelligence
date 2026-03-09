@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-667-15757",
+  "type": "ransomware-incident",
+  "title": "Grand Rapids Controls ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Grand Rapids Controls",
+    "domain": "grcontrols.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 150000000000,
+    "description": "The 150 GB leak involves confidential documents and NDA agreements with companies such as Ford, Bentley, Lear, and others.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0f1e849c9fd1cdc36f602b5866fe7f09.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jhbmqgumfwawrzienvbnryb2xzqgfudwjpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-15 18:46:52.102029",
+    "disclosedDate": "2025-08-15 18:47:50.845478"
+  }
+}

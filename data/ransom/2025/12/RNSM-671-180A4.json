@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-671-180A4",
+  "type": "ransomware-incident",
+  "title": "d*v***.cl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "d*v***.cl",
+    "country": "CL"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Patients full records, HIV tests results, ID's",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc654c1e2d252ab393a435186dfc3205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zcp2kioqlmnsqgrldm1hbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-18 00:00:00.000000",
+    "disclosedDate": "2025-12-18 10:23:12.313776"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-15456",
+  "type": "ransomware-incident",
+  "title": "Copamarina Beach Resort ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Copamarina Beach Resort",
+    "domain": "copamarina.com",
+    "country": "PR",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "copamarina.com zoominfo.com/c/copamarina-beach-resort/1146144172 Discover your ideal vacation at Copamarina Beach Resort and Spa! Book your stay at our beautiful oceanfront hotel destination in Guanica, Puerto Rico.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29wyw1hcmluysbczwfjacbszxnvcnradghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-15 15:17:26.000000",
+    "disclosedDate": "2026-02-15 15:26:14.233997"
+  }
+}

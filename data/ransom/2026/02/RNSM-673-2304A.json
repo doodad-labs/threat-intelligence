@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-2304A",
+  "type": "ransomware-incident",
+  "title": "FAMILY EYECARE LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FAMILY EYECARE LLC",
+    "domain": "lindeneyecare.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8dd684c5a038351feaee3219519cd699.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rkfnsuxzievzrunbukugtexdqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-23 15:16:50.676011",
+    "disclosedDate": "2026-02-23 15:17:56.447572"
+  }
+}

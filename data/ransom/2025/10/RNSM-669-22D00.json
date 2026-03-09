@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-22D00",
+  "type": "ransomware-incident",
+  "title": "CHDFS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CHDFS",
+    "domain": "chdfs.org",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CHDFS Inc is dedicated to providing social services and support for individuals, families, and communities in need. They offer a range of programs including OPWDD, OMH, Early Intervention, and Health Home Care Management. Their mission focuse            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1bc12631f118c004c97ccd2c6e3e7619.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0herlnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-22 00:00:00.000000",
+    "disclosedDate": "2025-10-22 20:35:10.437907"
+  }
+}

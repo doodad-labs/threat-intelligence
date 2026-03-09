@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-667-126B1",
+  "type": "ransomware-incident",
+  "title": "venturecreditunion.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "venturecreditunion.com",
+    "domain": "venturecreditunion.com",
+    "country": "TT",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Venture Credit Union is a company from Trinidad and Tobago that provides financial services: car loans, mortgages, and consumer loans, as well as tools for investing and saving. The company is a leader in its country in one of the most disgus            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cf1efff83006c401d6c995426ba46d48.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmvudhvyzwnyzwrpdhvuaw9ulmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://technewstt.com/venture-credit-union-ransomware-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-15 00:00:00.000000",
+    "disclosedDate": "2025-08-12 19:16:11.927287"
+  }
+}

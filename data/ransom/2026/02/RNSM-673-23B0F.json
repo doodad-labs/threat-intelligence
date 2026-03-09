@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-23B0F",
+  "type": "ransomware-incident",
+  "title": "davila.cl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "davila.cl",
+    "domain": "davila.cl",
+    "country": "CL",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bienvenidos a Red Dávila, contamos con la mejor atención y trabajamos con los más altos estándares d...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/08657777ad9b2feee51e6d775cc99a13.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgf2awxhlmnsqgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-18 00:00:00.000000",
+    "disclosedDate": "2026-02-23 13:12:04.377192"
+  }
+}

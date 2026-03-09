@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-19D1B",
+  "type": "ransomware-incident",
+  "title": "Telecare ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Telecare",
+    "domain": "telecarecorp.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/03d58039c40ca4c32e708a955226b27d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvszwnhcmvacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-19 17:44:27.808484",
+    "disclosedDate": "2026-02-19 17:44:45.233075"
+  }
+}

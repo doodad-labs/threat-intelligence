@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-11112",
+  "type": "ransomware-incident",
+  "title": "Integlia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Integlia",
+    "domain": "integlia.ca",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "brotherhood",
+    "name": "brotherhood",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 66000000000,
+    "description": "Contains: 66 Gb compressed Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw50zwdsawfaynjvdghlcmhvb2q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-11 20:32:39.152280",
+    "disclosedDate": "2025-10-11 20:32:39.960493"
+  }
+}

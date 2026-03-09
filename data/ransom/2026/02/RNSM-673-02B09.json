@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-02B09",
+  "type": "ransomware-incident",
+  "title": "Erickson Thorpe & Swainston ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Erickson Thorpe & Swainston",
+    "domain": "etsreno.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The law firm of Erickson, Thorpe & Swainston was founded in 1969. Since then, the firm has effectively and successfully represented its clients in state and federal courts in Nevada and Northern California. As experienced trial and appellate attorneys, we vigorously defend our clients' interests while remaining committed to the highest legal ethics.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c362ab0d03dbbb94fbc9bc94b7310123.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxjpy2tzb24gvghvcnblicygu3dhaw5zdg9uqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-02 16:24:25.447129",
+    "disclosedDate": "2026-02-02 17:33:25.729099"
+  }
+}

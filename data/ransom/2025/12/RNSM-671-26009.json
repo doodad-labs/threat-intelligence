@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-26009",
+  "type": "ransomware-incident",
+  "title": "jefar.be ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jefar.be",
+    "domain": "jefar.be",
+    "country": "BE"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "En 2013, l’asbl « Jeunes Emploi Formation », connue sous le nom de JEF, et l’asbl « Personnes Handic...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ce2f2d19f02e5bae358935feea031a77.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/amvmyxiuymvabg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-25 14:06:00.000000",
+    "disclosedDate": "2025-12-26 15:35:11.944739"
+  }
+}

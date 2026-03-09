@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-19F87",
+  "type": "ransomware-incident",
+  "title": "CHANGEPOND ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CHANGEPOND",
+    "domain": "changepond.com",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 2000, Changepond is a software company that provides enterprise software, digital and data solutions. The company is headquartered in Siruseri, Chennai, India.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8d071a23478bff35e9963ea68fe7bc47.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0hbtkdfue9orebzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-19 20:02:12.578000",
+    "disclosedDate": "2025-11-19 20:13:48.096507"
+  }
+}

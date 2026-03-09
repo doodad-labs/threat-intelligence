@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-30D85",
+  "type": "ransomware-incident",
+  "title": "Rocky Mountain Associated Physicians ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rocky Mountain Associated Physicians",
+    "domain": "utahbariatrics.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "pear",
+    "name": "pear",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Utah’s Leading Bariatric Specialists, surgical & Medical Weight Loss Solutions in Salt Lake City",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/918b1f6be781541aa6386efcbf0c5f66.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um9ja3kgtw91bnrhaw4gqxnzb2npyxrlzcbqahlzawnpyw5zqhblyxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-26 00:00:00.000000",
+    "disclosedDate": "2026-01-30 12:11:45.288252"
+  }
+}

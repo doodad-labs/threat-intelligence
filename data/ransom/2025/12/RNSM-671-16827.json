@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-16827",
+  "type": "ransomware-incident",
+  "title": "ernst-auto.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ernst-auto.de",
+    "domain": "ernst-auto.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ernst Autohaus is a German automotive dealership and service company operating in the regional vehicle retail market. The business is …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dcb95b6ad3b5ec2ec52489e2772c8fa5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxjuc3qtyxv0by5kzubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-16 21:24:25.995995",
+    "disclosedDate": "2025-12-16 21:24:43.213020"
+  }
+}

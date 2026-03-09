@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-668-1136F",
+  "type": "ransomware-incident",
+  "title": "TDK Technologies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TDK Technologies",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TDK Technologies provides information technology consulting and custom software development for businesses through either staff augmentation or outsourced project solution delivery.We are going to upload company data soon. You will find financialdata (audit, payment details,financial reports, invoices), employees and customers information (passports, driver's license, SSN ) confidential information, NDAs and other documents with detailed personal information so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/verlifrly2hub2xvz2llc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-11 00:00:00.000000",
+    "disclosedDate": "2025-09-11 13:12:30.133488"
+  }
+}

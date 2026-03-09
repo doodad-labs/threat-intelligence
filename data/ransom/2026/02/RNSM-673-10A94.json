@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-10A94",
+  "type": "ransomware-incident",
+  "title": "moultriesheriff.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "moultriesheriff.com",
+    "domain": "moultriesheriff.com",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sheriff's Office.\r 187-GB sensitive data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/940364f613a640fcd93b19e05da435aa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bw91bhryawvzagvyawzmlmnvbubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-10 11:11:00.000000",
+    "disclosedDate": "2026-02-10 12:24:07.301722"
+  }
+}

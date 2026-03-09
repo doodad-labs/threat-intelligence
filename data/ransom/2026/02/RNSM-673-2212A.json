@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-2212A",
+  "type": "ransomware-incident",
+  "title": "CYMOT ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CYMOT",
+    "domain": "cymot.com",
+    "country": "NA"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a7748488702fb3bb1de4f4fcd8525543.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1lnt1racwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-22 07:04:33.721040",
+    "disclosedDate": "2026-02-22 07:04:50.843893"
+  }
+}

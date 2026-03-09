@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-175CD",
+  "type": "ransomware-incident",
+  "title": "Castle Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Castle Group",
+    "domain": "castlegroup.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/60ed3d22900d56b35feb9878b30e4e64.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fzdgxliedyb3vwqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-17 12:23:50.525783",
+    "disclosedDate": "2026-02-17 12:24:11.195293"
+  }
+}

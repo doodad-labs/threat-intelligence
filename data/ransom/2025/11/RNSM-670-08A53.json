@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-08A53",
+  "type": "ransomware-incident",
+  "title": "SHRM New Mexico ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SHRM New Mexico",
+    "domain": "shrmnm.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3fb3ef1f735b15e413fa1b4af6d5b124.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0hstsbozxcgtwv4awnvqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-08 05:50:58.052140",
+    "disclosedDate": "2025-11-08 05:51:12.280432"
+  }
+}

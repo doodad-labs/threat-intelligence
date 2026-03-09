@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-2288A",
+  "type": "ransomware-incident",
+  "title": "Bronze Craft ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bronze Craft",
+    "domain": "bronzecraft.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "securotrop",
+    "name": "securotrop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Bronze Craft is a New Hampshire-based firm with a specialization in the design and manufacture of cast bronze window hardware. Since its establishment in 1945, the company has come to offer a comprehensive range of over 50,000 different types of precision cast and custom wrought products. It serves industries like timber windows, metal windows, and doors, among others. They also offer engineering and design services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/76621a436b6c5a59ea86fe63bf9572e8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjvbnplienyywz0qhnly3vyb3ryb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-21 00:00:00.000000",
+    "disclosedDate": "2025-07-22 14:53:27.292498"
+  }
+}

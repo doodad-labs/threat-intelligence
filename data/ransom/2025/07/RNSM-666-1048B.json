@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-666-1048B",
+  "type": "ransomware-incident",
+  "title": "Tara Pac ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tara Pac",
+    "country": "SE"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 6000000000,
+    "description": "Tara Pac is the leading supplier of packaging for food, construction, chemistry and cosmetics in the Nordic region. We are ready to upload 6 GB of corporate data. Contacts, agreements, financial data, client data, a bit of employee data.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgfyysbqywnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-10 00:00:00.000000",
+    "disclosedDate": "2025-07-10 15:46:18.848440"
+  }
+}

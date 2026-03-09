@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-19ED6",
+  "type": "ransomware-incident",
+  "title": "abcseamless.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "abcseamless.com",
+    "domain": "abcseamless.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ABC Seamless is a U.S.-based home improvement and exterior construction company that specialises in custom on-site manufactured seamless steel siding, …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8a4d962becf7f6e7d4a7bc30ca08a3b9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywjjc2vhbwxlc3muy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-19 19:36:32.008666",
+    "disclosedDate": "2026-01-19 19:36:46.233037"
+  }
+}

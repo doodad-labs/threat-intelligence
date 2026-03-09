@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-1674F",
+  "type": "ransomware-incident",
+  "title": "Darma Henwa ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Darma Henwa",
+    "domain": "ptdh.co.id",
+    "country": "ID",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PT Darma Henwa Tbk -  established in 1991, is a company that specializes in mining support and excavation activities. It provides services such as metal fabrication, machinery repair, and equipment leasing. The company also engages in road and railroad construction, as well as building and civil construction. Initially a domestic investment firm, Darma Henwa became a foreign investment company in 1996 and went public in 2007.- Employee personal data- Contracts and client information- Financial reports and audits- Projects and developments- Outlook emails- Internal security reports https://www.ptdh.co.id/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b2fe31828285ca259a68cbb1c0000cb2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgfybwegsgvud2fac3bhy2vizwfycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-15 00:00:00.000000",
+    "disclosedDate": "2026-02-16 18:03:19.826867"
+  }
+}

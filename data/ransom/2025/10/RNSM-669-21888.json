@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-21888",
+  "type": "ransomware-incident",
+  "title": "www.dekalbcountyga.gov ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.dekalbcountyga.gov",
+    "domain": "dekalbcountyga.gov",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DeKalb County is the third most populated county in the state of Georgia and is the county seat of Decatur.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fe13096f21193d1b0fe298a5ce559a2f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmrla2fsymnvdw50ewdhlmdvdkbsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-21 08:29:01.268000",
+    "disclosedDate": "2025-10-21 08:50:49.405574"
+  }
+}

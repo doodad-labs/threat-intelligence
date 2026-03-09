@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-20174",
+  "type": "ransomware-incident",
+  "title": "Unipres Alabama Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Unipres Alabama Inc.",
+    "domain": "unipres.co.jp",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Unipres is a leading manufacturer of press-formed automotive components in the world. It designs, develops and offers car body structural parts, including upper and lower car body parts, bumper parts, front side members, steering members , fuel tanks and transmission products.It started working in United Kingdom in 1987 and is headquartered in Sunderland. The company is a wholly owned subsidiary of Unipres Corporation",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1572094a9a414f2a3596918b22438a4d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pchjlcybbbgfiyw1hieluyy5azhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-18 14:49:12.148382",
+    "disclosedDate": "2025-12-20 14:51:20.329768"
+  }
+}

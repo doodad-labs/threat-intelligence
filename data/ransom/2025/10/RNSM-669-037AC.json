@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-669-037AC",
+  "type": "ransomware-incident",
+  "title": "Banco Hipotecario del Uruguay ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Banco Hipotecario del Uruguay",
+    "domain": "bhu.net",
+    "country": "UY",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "crypto24",
+    "name": "crypto24",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "We have exfiltrated over 700GB of most sensitive highly sensitive customer PII, financial/accounting records, legal/contracts, property/title documents, credit and risk files, market/trading operations data, and IT/security configuration information.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfuy28gsglwb3rly2fyaw8gzgvsifvydwd1yxlay3j5chrvmjq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-03 09:12:17.484263",
+    "disclosedDate": "2025-10-03 09:12:18.989659"
+  }
+}

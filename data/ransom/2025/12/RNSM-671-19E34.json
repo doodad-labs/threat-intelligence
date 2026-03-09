@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-19E34",
+  "type": "ransomware-incident",
+  "title": "kenalex.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kenalex.ca",
+    "domain": "kenalex.ca",
+    "country": "CA",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kenalex Construction Co. Ltd. is a Canadian construction and development firm headquartered in North Bay, Ontario, serving Central and Northern …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2582413783f80b6d33d8f7b0931ba270.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2vuywxlec5jyubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-19 18:46:20.734570",
+    "disclosedDate": "2025-12-19 18:46:33.290404"
+  }
+}

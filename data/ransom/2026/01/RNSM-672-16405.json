@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-16405",
+  "type": "ransomware-incident",
+  "title": "Dedman Gray Property Consultants ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dedman Gray Property Consultants",
+    "domain": "dedmangray.co.uk",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A full service real estate company from UK",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e338a095b81522a4d439de3d0d066c18.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvkbwfuiedyyxkguhjvcgvydhkgq29uc3vsdgfudhnaz2vuzxnpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-15 00:00:00.000000",
+    "disclosedDate": "2026-01-16 08:26:45.197115"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-01D98",
+  "type": "ransomware-incident",
+  "title": "PathoQuest-Biotechnology Research ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PathoQuest-Biotechnology Research",
+    "domain": "pathoquest.com",
+    "country": "FR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PathoQuest-Biotechnology Research, USA-France The company conducts research on innovative biopharmaceuticals under complex testing conditions on two continents. PathoQuest offers a proven next-generation sequencing (NGS) approach to biosafety            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8b4ff820cfb6f7b9f512a6c80a9592cd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugf0ag9rdwvzdc1caw90zwnobm9sb2d5ifjlc2vhcmnoqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-01 00:00:00.000000",
+    "disclosedDate": "2025-09-01 10:47:36.180934"
+  }
+}

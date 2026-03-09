@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-26AB4",
+  "type": "ransomware-incident",
+  "title": "anwalt-austria.at ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "anwalt-austria.at",
+    "domain": "anwalt-austria.at",
+    "country": "AT"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Zuverlässige und lebensnahe Betreuung Ihrer Rechtsangelegenheiten.  für Unternehmen und Privatpe...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/87f811a782cdb76b3c318cc5957f09e7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw53ywx0lwf1c3ryaweuyxrabg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-25 16:10:00.000000",
+    "disclosedDate": "2025-12-26 15:26:06.314954"
+  }
+}

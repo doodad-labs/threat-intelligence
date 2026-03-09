@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-26047",
+  "type": "ransomware-incident",
+  "title": "Memphis Millwork ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Memphis Millwork",
+    "domain": "memphismasterworks.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "(Client data, accounting records, and internal documentation) Memphis Millwork specializes in commercial architectural millwork, catering to clients in Memphis and the surrounding areas. The company focuses on providing high-quality millwork solutions for various architectural projects. They are known for their expertise in crafting custom millwork that enhances the aesthetics and functionality of commercial spaces. Memphis Millwork is committed to delivering exceptional craftsmanship and customer service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/47058e97a08ed1d2b6ab2d8ff14bbc34.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvtcghpcybnawxsd29ya0bkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-26 17:54:31.182192",
+    "disclosedDate": "2025-09-26 18:21:17.642124"
+  }
+}

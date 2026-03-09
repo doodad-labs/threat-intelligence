@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-12A18",
+  "type": "ransomware-incident",
+  "title": "Yelete Group Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Yelete Group Inc",
+    "domain": "yelete.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Yelete Group, Inc. specializes in wholesale activewear, apparel, and lingerie, offering a wide range of products including leggings, tights, and various clothing items for women, men, and kids. Their product lineup features items such as loungewear, socks, and intimate apparel, catering to diverse sizes and styles. The company targets retailers and businesses looking to stock quality activewear and fashion items at competitive prices. With a minimum order requirement, they provide customer support to assist clients in their purchasing needs",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/df36ef92e9f2f39f9346f7fe0de8a2b6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wwvszxrliedyb3vwieluy0bkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-12 20:41:33.965509",
+    "disclosedDate": "2026-02-12 20:47:47.492309"
+  }
+}

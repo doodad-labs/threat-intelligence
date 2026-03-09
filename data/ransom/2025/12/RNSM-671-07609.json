@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-07609",
+  "type": "ransomware-incident",
+  "title": "incolease.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "incolease.com",
+    "domain": "incolease.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "International Company for Leasing S.A.E. &quot;Incolease&#039;&#039; | 4,972 followers on LinkedIn....",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4de3a05cbbff4513df4d049d9ce95aca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw5jb2xlyxnllmnvbubsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-30 00:00:00.000000",
+    "disclosedDate": "2025-12-07 10:17:17.941833"
+  }
+}

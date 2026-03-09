@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-17DB7",
+  "type": "ransomware-incident",
+  "title": "slusarski.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "slusarski.com",
+    "domain": "slusarski.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Slusarski is a Michigan-based sitework, earthmoving and paving contractor founded in 1982 that provides excavation, asphalt paving, sealcoating, striping, materials …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/94f38dfe8e766a3651bbe46d1e04a9fb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2x1c2fyc2tplmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-14 00:00:00.000000",
+    "disclosedDate": "2025-09-17 20:12:50.806952"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-299EB",
+  "type": "ransomware-incident",
+  "title": "Federal Auto Holdings Berhad ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Federal Auto Holdings Berhad",
+    "country": "MY",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "obscura",
+    "name": "obscura",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 6000000000,
+    "description": "Revenue: $41.8kk | Leak Size: 6 GB | Status: Pending | Time Left: 7d 18h 57m 21s",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/12a0056d1f0d8cda8e257205a689a978.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmvkzxjhbcbbdxrviehvbgrpbmdziejlcmhhzebvynnjdxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-29 05:40:16.257051",
+    "disclosedDate": "2025-10-29 05:40:28.952731"
+  }
+}

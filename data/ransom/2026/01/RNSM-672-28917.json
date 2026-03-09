@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-28917",
+  "type": "ransomware-incident",
+  "title": "DataBank ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DataBank",
+    "domain": "databank.com.ni",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DataBank",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgf0yujhbmtabmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-28 01:34:55.007332",
+    "disclosedDate": "2026-01-28 01:34:56.679857"
+  }
+}

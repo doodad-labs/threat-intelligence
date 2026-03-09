@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-1925A",
+  "type": "ransomware-incident",
+  "title": "aircotedivoire.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aircotedivoire.com",
+    "domain": "aircotedivoire.com",
+    "country": "ZA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Established in 2012, Air Côte d'Ivoire offers direct and frequent flights. They are based in Abidjan, Ivory Coast.\r Employees: 1000\r Revenue: 40.5 Million\r Industry: Airlines, Airports & Air Services\r Phone Number: +225 20251030",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1e7634d98ca2c2591a1d6fb511935cd7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywlyy290zwrpdm9pcmuuy29tqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-18 11:01:00.000000",
+    "disclosedDate": "2026-02-19 05:56:14.694264"
+  }
+}

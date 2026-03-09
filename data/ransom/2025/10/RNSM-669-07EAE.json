@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-669-07EAE",
+  "type": "ransomware-incident",
+  "title": "Asahi Group Holdings, Ltd. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Asahi Group Holdings, Ltd.",
+    "domain": "asahigroup-holdings.com",
+    "country": "JP",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Asahi Group Holdings, Japan - a leading manufacturer of beer and non-alcoholic beverages in Japan. Asahi is headquartered in Sumida, Tokyo. It ranked 593rd on the Forbes Global 2000 list of the world's largest companies in 2023. The company's            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6fe3da3121408d73c59bfe0a76f2c27a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxnhagkgr3jvdxagsg9szgluz3msiex0zc5acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.asahigroup-holdings.com/en/newsroom/detail/20250929-0202.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-07 00:00:00.000000",
+    "disclosedDate": "2025-10-07 14:40:26.158102"
+  }
+}

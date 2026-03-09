@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-064A5",
+  "type": "ransomware-incident",
+  "title": "Heart of America Medical Centr (HAMC) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Heart of America Medical Centr (HAMC)",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 800000000000,
+    "description": "About Heart of America Medical Center\rA non-profit hospital offering comprehensive medical services, including emergency care, radiology/imaging, surgical cen... - I have your Data 800GB. I will post the data in three stages. You can view some of the files on the link from tor browse...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f678e7af9d734693cbe1ce419e750723.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvhcnqgb2ygqw1lcmljysbnzwrpy2fsienlbnryichiqu1dkublbwjhcmdv",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-17 15:24:27.020488",
+    "disclosedDate": "2025-08-06 10:28:26.207279"
+  }
+}

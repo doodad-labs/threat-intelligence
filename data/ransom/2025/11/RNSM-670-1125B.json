@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-1125B",
+  "type": "ransomware-incident",
+  "title": "glendaleobgyn.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "glendaleobgyn.com",
+    "domain": "glendaleobgyn.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Glendale OBGYN (an obstetrics and gynecology practice) would likely operate as a mid-sized women’s health clinic in Glendale, California, offering …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/57a4c23e4aed65cab868a1caa68f0fbe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2xlbmrhbgvvymd5bi5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-11 19:18:23.093093",
+    "disclosedDate": "2025-11-11 19:18:38.391517"
+  }
+}

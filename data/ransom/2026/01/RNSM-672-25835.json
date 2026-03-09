@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-25835",
+  "type": "ransomware-incident",
+  "title": "TECHNIKEL.CA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TECHNIKEL.CA",
+    "domain": "technikel.ca",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] TECHNIKEL.CA is a leading Information Technology (IT) solutions provider based in Vancouver, Canada. It offers a diverse range of services including IT support, network management, cyber security, data backup and disaster recovery, and cloud solutions. Technikel prides itself on delivering personalized, cost-effective solutions to small and medium-sized businesses, meeting their unique IT needs and boosting their operational efficiency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/49837f535cd963f97285b0bb5415a008.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vevdse5js0vmlknbqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 15:10:52.648621",
+    "disclosedDate": "2026-01-25 15:11:06.956508"
+  }
+}

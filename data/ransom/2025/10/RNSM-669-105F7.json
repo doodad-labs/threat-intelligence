@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-105F7",
+  "type": "ransomware-incident",
+  "title": "www.ms-security-ltd.com/Cyprus/1.48TB ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.ms-security-ltd.com/Cyprus/1.48TB",
+    "domain": "ms-security-ltd.com",
+    "country": "CY"
+  },
+  "actor": {
+    "id": "kairos",
+    "name": "kairos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Unknown - MS Security & Personnel",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9236844892bcbbdced6e5f283c5342b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1zlxnly3vyaxr5lwx0zc5jb20vq3lwcnvzlzeundhuqkbrywlyb3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-10 21:55:36.993578",
+    "disclosedDate": "2025-10-10 21:56:10.693097"
+  }
+}

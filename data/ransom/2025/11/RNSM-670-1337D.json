@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-670-1337D",
+  "type": "ransomware-incident",
+  "title": "Goldhorse Capital Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Goldhorse Capital Management",
+    "domain": "goldhorse.com.hk",
+    "country": "CH",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "beast",
+    "name": "beast",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The company's customers' personal data, databases, and source code have been stolen. If the company does not respond within 24 hours, this data will be published.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0689e4ea240f55d65e8cab90e0bb7955.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r29szghvcnnlienhcgl0ywwgtwfuywdlbwvudebizwfzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-24 00:00:00.000000",
+    "disclosedDate": "2025-11-13 14:15:51.913713"
+  }
+}

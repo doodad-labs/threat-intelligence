@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-24123",
+  "type": "ransomware-incident",
+  "title": "envases-group.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "envases-group.com",
+    "domain": "envases-group.com",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Envases Group is a privately held multinational packaging manufacturer and solutions provider with deep roots in the global containers and …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9fc1e45523a28af21918c616f4c50c41.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw52yxnlcy1ncm91cc5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 19:26:11.189158",
+    "disclosedDate": "2025-12-24 19:26:24.189593"
+  }
+}

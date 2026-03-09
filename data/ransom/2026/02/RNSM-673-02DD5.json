@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-02DD5",
+  "type": "ransomware-incident",
+  "title": "JST Power Equipment ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "JST Power Equipment",
+    "country": "CN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 70000000000,
+    "description": "Founded in 1993, J.S.T. provides product development of any electric connection systems in products like amusement equipment, audio and visual equipment, household appliances, office equipment, industrial equipment, automobiles, and traffic systems.We will upload 70gb of corporate data soon. Employee information,financials, confidential clients information, large amount of projects files, contracts and agreements, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/slnuifbvd2vyievxdwlwbwvudebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-02 00:00:00.000000",
+    "disclosedDate": "2026-02-02 15:56:15.851278"
+  }
+}

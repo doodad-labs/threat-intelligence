@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-078DC",
+  "type": "ransomware-incident",
+  "title": "Griswold Controls ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Griswold Controls",
+    "domain": "griswoldcontrols.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A leader in flow control technology and valves, specializing in HVAC and irrigation applications",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ca4323ffe65715180f724d5b4125fcdc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jpc3dvbgqgq29udhjvbhnaz2vuzxnpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-06 00:00:00.000000",
+    "disclosedDate": "2026-03-07 11:45:50.705849"
+  }
+}

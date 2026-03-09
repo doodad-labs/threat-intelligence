@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-666-2242E",
+  "type": "ransomware-incident",
+  "title": "WIBAIE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WIBAIE",
+    "domain": "wibaie.fr",
+    "country": "IE"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "WIBAIE, a joinery specialist for over 50 years. Based in Cholet (Maine-et-Loire), WIBAIE is a key player in the French window and door market. Our business is 100% dedicated to Building & Housing distribution, and our industrial expertise has            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c801f5b854d94a00e9b78ebb62dead83.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0lcqulfqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.ouest-france.fr/societe/cyberattaque/une-cyberattaque-paralyse-cette-grande-entreprise-de-maine-et-loire-lusine-a-larret-26bd3bf4-5da1-11f0-a0c4-7d0511e82e11",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-18 00:00:00.000000",
+    "disclosedDate": "2025-07-22 03:15:06.579079"
+  }
+}

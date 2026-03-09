@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-13703",
+  "type": "ransomware-incident",
+  "title": "DARTMOUTH.EDU ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DARTMOUTH.EDU",
+    "domain": "dartmouth.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/19aa043c3cdcf1c975baf029c3d27a3e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/refsve1pvvrilkvevubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-13 19:09:28.616626",
+    "disclosedDate": "2025-11-13 19:09:41.006549"
+  }
+}

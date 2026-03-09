@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-668-18DD2",
+  "type": "ransomware-incident",
+  "title": "Legend Senior Living ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Legend Senior Living",
+    "domain": "legendseniorliving.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Legend Senior Living is an American-based, family-owned and operated company that provides quality elderly care across its facilities. They offer a variety of services from independent living, assisted living to memory care. Its mission is to serve seniors and their families by creating high-quality choices for senior living and foster an atmosphere of respect, dignity and personal engagement.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvnzw5kifnlbmlvcibmaxzpbmdad29ybgrszwfrcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-29 00:00:00.000000",
+    "disclosedDate": "2025-09-18 18:00:42.366482"
+  }
+}

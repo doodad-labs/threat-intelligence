@@ -1,0 +1,31 @@
+{
+  "id": "RNSM-672-22BD1",
+  "type": "ransomware-incident",
+  "title": "CYMA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CYMA",
+    "country": ""
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CYMA Systems has been producing payroll and accounting software solutions since 1980. CYMA's most recent accounting and payroll software suite is CYMA Accounting for Windows which offers solutions for mid-sized business with 200+ employees, PEOs, ASOs, Payroll Services, Directed Services (Fiscal / Employer Agents) Franchises, Staffing, and Nonprofit Organizations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q1lnqubub3zh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-22 13:31:26.261117",
+    "disclosedDate": "2026-01-22 13:32:00.278384"
+  }
+}

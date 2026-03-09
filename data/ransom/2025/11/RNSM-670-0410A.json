@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-670-0410A",
+  "type": "ransomware-incident",
+  "title": "www.heitech.com.my ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.heitech.com.my",
+    "domain": "heitech.com.my",
+    "country": "MY",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 60000000000,
+    "description": "Ransom: 500k60gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7a7dab6dc4a3ffc71b9c7533c3dc9c28.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmhlaxrly2guy29tlm15qgrldm1hbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-04 00:14:43.926266",
+    "disclosedDate": "2025-11-04 00:15:23.776091"
+  }
+}

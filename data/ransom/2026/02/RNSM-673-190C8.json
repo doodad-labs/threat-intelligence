@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-190C8",
+  "type": "ransomware-incident",
+  "title": "The Corradino Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Corradino Group",
+    "domain": "corradino.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1d4328811b764e1edb04872d2b6f0c67.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlienvcnjhzglubybhcm91cebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-19 20:42:07.078632",
+    "disclosedDate": "2026-02-19 20:42:22.735172"
+  }
+}

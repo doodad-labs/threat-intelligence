@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-29E23",
+  "type": "ransomware-incident",
+  "title": "labayenylaborde.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "labayenylaborde.com",
+    "domain": "labayenylaborde.com",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LABAYEN Y LABORDE S.L. A group of companies specialized in rotary machines",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c1cbbaeb07e41590e175970bd1f7af4e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bgfiyxllbnlsywjvcmrllmnvbubsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-29 11:38:00.000000",
+    "disclosedDate": "2025-12-29 19:52:09.698809"
+  }
+}

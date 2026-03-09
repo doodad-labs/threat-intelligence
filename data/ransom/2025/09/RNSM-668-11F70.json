@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-668-11F70",
+  "type": "ransomware-incident",
+  "title": "Insurance Office of America ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Insurance Office of America",
+    "domain": "ioausa.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "daixin",
+    "name": "daixin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Insurance Office of America (IOA) is a premier, full-service insurance agency dedicated to delivering bespoke insurance solutions since 1988. We’re one of the USA’s fastest-growing agencies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw5zdxjhbmnlie9mzmljzsbvzibbbwvyawnhqgrhaxhpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-11 09:54:52.714379",
+    "disclosedDate": "2025-09-11 09:54:53.608823"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-30411",
+  "type": "ransomware-incident",
+  "title": "Engineered Components ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Engineered Components",
+    "domain": "engcomponents.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "(Financial documents, counterparties, clients) We also distribute a multitude of other components that are utilized by original equipment manufacturers worldwide. Our Anchor Bolt division provides these products to countless fastener companies that operate in a range of industries, from coast to coast. Founded in 1983, ECC has continually grown in the areas of technology, market share and acquisition. Our highly-trained and tenured sales staff offers an unparalleled level of technical knowledge, service and personality. Additionally, with stocking warehouses located across the country that support a variance of VMI and in-plant material management programs, we have the ability to respond rapidly - and effectively - to our customers' needs. 1983 - Established",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/96eda49b423e3326f583b5093817af0a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw5naw5lzxjlzcbdb21wb25lbnrzqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-30 16:10:00.181545",
+    "disclosedDate": "2025-08-30 16:51:48.255754"
+  }
+}

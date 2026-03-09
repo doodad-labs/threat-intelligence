@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-669-1635E",
+  "type": "ransomware-incident",
+  "title": "www.o****m*nt.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.o****m*nt.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ransom: 1400000 USD",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/88a64b07f6a1a713c431853bac72ec9a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm8qkioqbspudc5jb21azgv2bwfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-16 22:50:13.407069",
+    "disclosedDate": "2025-10-16 22:50:50.262555"
+  }
+}

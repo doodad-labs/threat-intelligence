@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-050F7",
+  "type": "ransomware-incident",
+  "title": "Garrison Law Firm ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Garrison Law Firm",
+    "domain": "garrisonlegal.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "pear",
+    "name": "pear",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Garrison Law Firm, LLC specializes in personal injury law, providing legal services to individuals who have suffered injuries due to accidents in Indiana, including car accidents, slip and fall incidents, and wrongful death cases",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2fycmlzb24gtgf3iezpcm1acgvhcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-15 00:00:00.000000",
+    "disclosedDate": "2025-08-05 21:30:58.285219"
+  }
+}

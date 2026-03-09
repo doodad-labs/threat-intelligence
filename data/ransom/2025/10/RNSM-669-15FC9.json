@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-15FC9",
+  "type": "ransomware-incident",
+  "title": "Richmond Behavioral Health Authority ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Richmond Behavioral Health Authority",
+    "domain": "rbha.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Richmond Behavioral Health Authority (RBHA) is a statewide organization dedicated to providing comprehensive mental health, mental retardation, substance abuse and prevention services to the residents of the City of Richmond. The organization            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a728c4658398b4642f9eb0d77f530ff7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umljag1vbmqgqmvoyxzpb3jhbcbizwfsdgggqxv0ag9yaxr5qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-15 00:00:00.000000",
+    "disclosedDate": "2025-10-15 18:43:19.238866"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "RNSM-667-20C85",
+  "type": "ransomware-incident",
+  "title": "Expert E-commerce GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Expert E-commerce GmbH",
+    "domain": "expert.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 114000000000,
+    "description": "Expert E-commerce GmbH is a company specializes in E-commerce Services. It offers services that provide the participating specialist stores of the expert group (Expert SE) via online support. The company was formed in 1999 and is based in Langenhagen, Germany. The total amount of data leakage is 114 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/46511003b2189bb57cc8bbe6e1dec9c4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxhwzxj0ieuty29tbwvyy2ugr21isebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.csoonline.com/article/4058587/hackerangriff-auf-hem-expert.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-17 11:06:33.000000",
+    "disclosedDate": "2025-08-20 13:36:47.534060"
+  }
+}

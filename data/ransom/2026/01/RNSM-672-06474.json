@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-06474",
+  "type": "ransomware-incident",
+  "title": "Health Bridge Chiropractic ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Health Bridge Chiropractic",
+    "domain": "healthbridgechiro.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/164d157257dbfc4ff2967fce67faebf9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvhbhroiejyawrnzsbdaglyb3byywn0awnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-06 14:47:56.187928",
+    "disclosedDate": "2026-01-06 14:48:15.934258"
+  }
+}

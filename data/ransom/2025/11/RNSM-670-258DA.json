@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-258DA",
+  "type": "ransomware-incident",
+  "title": "Schmidt's ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Schmidt's",
+    "country": "AT"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "SCHMIDT'S is a specialized market that offers a wide array of products and services for house, garden, crafts, and industry, boasting over 130 years of tradition and quality. They cater to both private and business clients, providing expert advice and tailored solutions from their extensive product range. The company's services include workshop support, delivery, eBusiness solutions, and a strong focus on customer satisfaction and reliability. SCHMIDT'S is dedicated to maintaining long-lasting partnerships and fostering a family-oriented company culture.\r \r Over 100GB of data was extracted: contracts, clients, payment data, PII, and bank transfers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6620ea1e803228dba66069234b277d27.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2nobwlkdcdzqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-25 00:00:00.000000",
+    "disclosedDate": "2025-11-25 12:26:39.435324"
+  }
+}

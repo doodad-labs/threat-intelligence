@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-09475",
+  "type": "ransomware-incident",
+  "title": "Shifa Oman ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Shifa Oman",
+    "domain": "shifahospital.om",
+    "country": "OM",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://www.shifahospital.om Shifa Hospital is a multispecialty private facility in the heart of Muscat and a fully-fledged medical service provider. Our state-of-the-art infrastructure is built to the highest standards possible with dedication and careful health planning that meets international standards. Our purpose-built facility is designed and operated by Omani pioneers and is dedicated to serving our country’s population and supporting their healthcare needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2hpzmegt21hbkb0agvnzw50bgvtzw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-21 11:47:07.000000",
+    "disclosedDate": "2025-09-09 15:48:16.362834"
+  }
+}

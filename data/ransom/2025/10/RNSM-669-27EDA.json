@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-27EDA",
+  "type": "ransomware-incident",
+  "title": "WITS.AC.ZA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WITS.AC.ZA",
+    "domain": "wits.ac.za",
+    "country": "ZA",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] WITS.AC.ZA is the online domain for the University of the Witwatersrand, located in Johannesburg, South Africa. Also known as Wits University, it offers undergraduate and postgraduate courses across a wide range of disciplines, such as commerce, law, management, humanities, health sciences and more. Known for its research-intensive focus, Wits University is one of Africa's top learning institutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5c7083f3d4221cb69344cb00d56e9357.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0luuy5bqy5aqubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-27 11:24:48.269836",
+    "disclosedDate": "2025-10-27 11:25:03.786499"
+  }
+}

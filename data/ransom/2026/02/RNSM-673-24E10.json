@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-24E10",
+  "type": "ransomware-incident",
+  "title": "El IBR ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "El IBR",
+    "domain": "ibr-conicet.gov.ar",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ibr-conicet.gov.ar zoominfo.com/c/el-ibr/547000244 IBR is a leading research institute with over 240 professionals specializing in microbiology, biomedicine, structural biology, and agrobiotechnology. It offers cutting-edge technology and access to advanced infrastructure for researchers, companies, and organizations globally. The institute promotes scientific knowledge generation and its transfer to the production sector while encouraging innovation through startups led by researchers. IBR also provides opportunities for doctoral and postdoctoral training to advance careers in scientific research",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwwgsujsqhrozwdlbnrszw1lbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-24 18:04:21.000000",
+    "disclosedDate": "2026-02-24 18:55:45.776651"
+  }
+}

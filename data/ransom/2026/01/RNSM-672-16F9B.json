@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-16F9B",
+  "type": "ransomware-incident",
+  "title": "CFM Mozambique ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CFM Mozambique",
+    "domain": "cfm.co.mz",
+    "country": "MZ",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7e34876a5104a9818f3855c87adc1830.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0znie1vemftymlxdwvacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-16 12:05:27.795723",
+    "disclosedDate": "2026-01-16 12:05:44.857558"
+  }
+}

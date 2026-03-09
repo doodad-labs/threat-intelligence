@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-1472C",
+  "type": "ransomware-incident",
+  "title": "Atarfil ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Atarfil",
+    "domain": "atarfil.com",
+    "country": "ES",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Atarfil Sl is a company that operates in the Repair Services industry. It employs 50to99 people and has 10Mto25M of revenue. The company is headquartered in Atarfe, Andalusia, Spain",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/32895a2de37fc94635202bffefc152b8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxrhcmzpbebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-11 00:00:00.000000",
+    "disclosedDate": "2025-10-14 14:24:07.598969"
+  }
+}

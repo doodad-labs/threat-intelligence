@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-2498F",
+  "type": "ransomware-incident",
+  "title": "vitatrac.com.gt ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "vitatrac.com.gt",
+    "domain": "vitatrac.com.gt",
+    "country": "GT",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Vitatrac S.A. is a long-established automotive service and tire distribution company headquartered in Guatemala City, Guatemala, with multiple service centers …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/15b2c33bd0b8826fbecc4ffc0bbc6c4f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dml0yxryywmuy29tlmd0qhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 21:21:02.842067",
+    "disclosedDate": "2025-12-24 21:21:15.153609"
+  }
+}

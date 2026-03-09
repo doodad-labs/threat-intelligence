@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-05CD4",
+  "type": "ransomware-incident",
+  "title": "HeavenlyDental ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HeavenlyDental",
+    "domain": "heavenly-dental.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "obscura",
+    "name": "obscura",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dental clinics in San Jose",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b763da16e32ab6c6976501c13a113130.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvhdmvubhlezw50ywxab2jzy3vyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-29 00:00:00.000000",
+    "disclosedDate": "2025-09-05 06:41:41.720226"
+  }
+}

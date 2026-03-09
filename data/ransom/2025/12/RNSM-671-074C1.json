@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-074C1",
+  "type": "ransomware-incident",
+  "title": "iscot.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "iscot.it",
+    "domain": "iscot.it",
+    "country": "IT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Chi siamo passato, presentee futuro Siamo una società che offre Servizi Tecnici per le imprese. Le n...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/37124782fb54585cb4b383929d218af6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/axnjb3quaxrabg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-27 00:00:00.000000",
+    "disclosedDate": "2025-12-07 10:22:04.478374"
+  }
+}

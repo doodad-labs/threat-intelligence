@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-29759",
+  "type": "ransomware-incident",
+  "title": "Crosslists Data ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Crosslists Data",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 21000000000,
+    "description": "Crosslists Data specializes in providing high-quality new business data for marketers across the country. Their services include custom segmentation and data acquisition, catering to a diverse clientele that includes publishers and non-profits.We will upload 21gb of corporate data soon. Employee personal information (passports, DLs, address and so on), customers' financial and accounting files, contracts and agreements, confidential files, NDAs and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q3jvc3nsaxn0cybeyxrhqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-29 00:00:00.000000",
+    "disclosedDate": "2026-01-29 15:46:57.045425"
+  }
+}

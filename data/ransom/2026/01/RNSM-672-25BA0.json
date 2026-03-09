@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-25BA0",
+  "type": "ransomware-incident",
+  "title": "Golden Growth Biotechnology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Golden Growth Biotechnology",
+    "domain": "ggb.vn",
+    "country": "JP",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Golden Growth Biotechnology",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r29szgvuiedyb3d0acbcaw90zwnobm9sb2d5qg5pz2h0c3bpcmu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 05:16:32.957711",
+    "disclosedDate": "2026-01-25 05:16:35.052757"
+  }
+}

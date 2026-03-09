@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-064B2",
+  "type": "ransomware-incident",
+  "title": "eMedicoERP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "eMedicoERP",
+    "domain": "emedicoerp.com",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dc7e82665739e112faeb1aeef7bc5a3e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zu1lzgljb0vsuebrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-06 11:52:58.889461",
+    "disclosedDate": "2025-09-06 11:54:27.602936"
+  }
+}

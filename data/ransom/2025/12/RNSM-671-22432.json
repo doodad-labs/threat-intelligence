@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-22432",
+  "type": "ransomware-incident",
+  "title": "Empire Screen Printing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Empire Screen Printing",
+    "domain": "empirescreenprinting.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Empire Screen Printing, Inc. provides screen printing. The Company flexography, digital printing, and doming. Empire Screen Printing services customers in the United States.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0c2a9e78a859a81c4a473990f1cab9ed.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw1waxjlifnjcmvlbibqcmludgluz0bzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-18 21:12:38.350000",
+    "disclosedDate": "2025-12-22 00:26:23.804107"
+  }
+}

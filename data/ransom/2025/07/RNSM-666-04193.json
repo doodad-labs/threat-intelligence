@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-666-04193",
+  "type": "ransomware-incident",
+  "title": "DKN Hotels ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DKN Hotels",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30000000000,
+    "description": "DKN Hotels is a leading hotel and hospitality management company,offering comprehensive hotel management services.We are ready to upload more than 30 GB of corporate documents. Numerous financial files, confidentiality agreements, personal documents and other personal data (DOB, address, driver license and so on), lots of project docs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/retoiehvdgvsc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-04 00:00:00.000000",
+    "disclosedDate": "2025-07-04 15:10:17.441598"
+  }
+}

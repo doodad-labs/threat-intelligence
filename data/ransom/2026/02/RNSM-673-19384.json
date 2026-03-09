@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-673-19384",
+  "type": "ransomware-incident",
+  "title": "Universal Mailing Service ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Universal Mailing Service",
+    "domain": "umsmail.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "securotrop",
+    "name": "securotrop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 490000000000,
+    "description": "Status: AWAITINGSize: 490 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/803e55e296e455f81d0ab9e71f8387ab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pdmvyc2fsie1hawxpbmcgu2vydmljzubzzwn1cm90cm9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-19 00:00:00.000000",
+    "disclosedDate": "2026-02-19 23:42:25.128586"
+  }
+}

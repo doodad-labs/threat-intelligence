@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-13BF4",
+  "type": "ransomware-incident",
+  "title": "wafergrind.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wafergrind.com",
+    "domain": "wafergrind.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Grinding & Dicing Services Inc (GDSI) provides wafer thinning and dicing services to the IC industry for critical post-fabrication process requirements. GDSI is headquartered in San Jose, California.\r Employees: 50\r Revenue: $5 Million\r Industry: Manufacturing-Electronics \r Phone Number: (408) 451-2000",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ba479dd70ae78d9d9d5e1911ce70402d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2fmzxjncmluzc5jb21aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-13 00:19:00.000000",
+    "disclosedDate": "2025-11-13 23:47:53.910545"
+  }
+}

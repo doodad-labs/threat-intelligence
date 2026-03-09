@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-03CFC",
+  "type": "ransomware-incident",
+  "title": "www.chrishudsonlaw.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.chrishudsonlaw.com",
+    "domain": "chrishudsonlaw.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "At Chris Hudson Law Group, we value the attorney-client relationship and understand that being an injured party in an accident is a stressful and overwhelming experience — things are even worse if there is a permanent disability or if a death occurs. We're here to help you recover and move past this difficult time.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/20a5cc81027004874ee9c67282c8f49b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnocmlzahvkc29ubgf3lmnvbubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-03 10:10:00.000000",
+    "disclosedDate": "2026-03-03 19:39:56.216980"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-198F5",
+  "type": "ransomware-incident",
+  "title": "Susquehanna Glass ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Susquehanna Glass",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 35000000000,
+    "description": "Susquehanna Glass is a family-owned and operated business. Today,it flourishes under the leadership of third-generation owner Walt Rowen, the grandson of original partner, Walter Roye.We will upload 35gb of corporate data soon. Detailed personal information of almost 800 people (i-9 forms, scans of passports, DLs, SSNs, drug test ans so on), detailed financials, customer information, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vzcxvlagfubmegr2xhc3naywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-19 00:00:00.000000",
+    "disclosedDate": "2025-12-19 13:20:02.213345"
+  }
+}

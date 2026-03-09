@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-2786B",
+  "type": "ransomware-incident",
+  "title": "wadzeck-stiftung.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wadzeck-stiftung.de",
+    "domain": "wadzeck-stiftung.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wadzeck-Stiftung is one of Germany’s oldest charitable youth-welfare organisations, founded in 1819 in Berlin as the first evangelical orphanage in …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2cb8cc797abad89a3793526eb3531380.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2fkemvjay1zdglmdhvuzy5kzubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-27 20:40:35.507391",
+    "disclosedDate": "2025-12-27 20:40:48.147428"
+  }
+}

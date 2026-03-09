@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-07532",
+  "type": "ransomware-incident",
+  "title": "DCSNORWAY.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DCSNORWAY.COM",
+    "domain": "dcsnorway.com",
+    "country": "NO"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/93fe5ef323b7e8de49b91841a3acb781.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/renttk9sv0fzlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-07 21:05:32.430729",
+    "disclosedDate": "2026-02-07 21:05:44.664396"
+  }
+}

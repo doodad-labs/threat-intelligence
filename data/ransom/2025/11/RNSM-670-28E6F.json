@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-28E6F",
+  "type": "ransomware-incident",
+  "title": "Williamson County, TX ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Williamson County, TX",
+    "domain": "williamson-county.org",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/64ee6695ebba836fbe64390576ad6e56.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lsbglhbxnvbibdb3vudhksifryqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-28 19:15:29.499545",
+    "disclosedDate": "2025-11-28 19:15:44.703095"
+  }
+}

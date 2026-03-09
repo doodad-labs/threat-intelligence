@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-12718",
+  "type": "ransomware-incident",
+  "title": "GDEV ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GDEV",
+    "domain": "gdev.inc",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GDEV (Nasdaq: GDEV) is a gaming and entertainment powerhouse, focused on growing and enhancing its portfolio of studios. With a diverse range of su...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a872e355ed898d4aaef320ad72cc64ca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r0rfvkbjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-12 14:15:43.644781",
+    "disclosedDate": "2025-12-12 14:15:54.795397"
+  }
+}

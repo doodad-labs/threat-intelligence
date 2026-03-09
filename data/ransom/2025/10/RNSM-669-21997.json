@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-21997",
+  "type": "ransomware-incident",
+  "title": "Roth & Scholl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Roth & Scholl",
+    "domain": "rothandscholl.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Providing legal service in Commercial Litigation, Real Estate, Business Law.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e1bd1145ae9356b9725e18670dbaf8f6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um90acamifnjag9sbebnzw5lc2lz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-09 00:00:00.000000",
+    "disclosedDate": "2025-10-21 15:17:09.510389"
+  }
+}

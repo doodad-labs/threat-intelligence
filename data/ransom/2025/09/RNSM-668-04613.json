@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-04613",
+  "type": "ransomware-incident",
+  "title": "highdoc.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "highdoc.de",
+    "domain": "highdoc.de",
+    "country": "DE",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wir sind HighDoc Technische Dokumentation GmbH, mit Sitz im schönen Thüringen - dem grünen Herzen Deutschlands. Seit über 20 Jahren unterstützen wir Unternehmen aller Größen und Branchen dabei, ihre Produkte/Maschinen sicher, konform und marktfähig zu machen. Unsere Dienstleistungen umfassen: Technische Dokumentation / Produktdokumentation, Produktkonformität, Konformitätsbewertung, Risikobeurteilung, CE-Kennzeichnung / CE-Zertifizierung, Bedienungsanleitungen / Betriebsanleitung und vieles mehr. Impressum: www.highdoc.de/impressum/ Datenschutz: www.highdoc.de/datenschutzerklaerung/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aac8245d2070dd1e2185b9bb9abc94e0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aglnagrvyy5kzubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-04 14:10:13.308000",
+    "disclosedDate": "2025-09-04 14:18:35.599368"
+  }
+}

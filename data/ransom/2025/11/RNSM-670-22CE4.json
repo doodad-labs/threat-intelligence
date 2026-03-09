@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-22CE4",
+  "type": "ransomware-incident",
+  "title": "Healthcare & More ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Healthcare & More",
+    "domain": "healthcareandmoore.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Healthcare & Moore, led by independent insurance broker Myra 'Lynn' Moore, specializes in a comprehensive range of insurance products including Medicare plans, health insurance, life insurance, annuities, and dental coverage. The company is dedicated to providing exceptional service and assisting clients, particularly seniors, in navigating their healthcare insurance options. By offering free consultations and personalized guidance, they aim to ensure clients make informed choices about their insurance needs. With access to over 6,225 products from 305 organizations, Healthcare & Moore is committed to finding the best coverage for their clients’ specific situations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3e0bf87fab3fdccffe49a1dbfcacd091.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvhbhroy2fyzsamie1vcmvazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-22 18:43:58.353773",
+    "disclosedDate": "2025-11-22 18:53:48.156786"
+  }
+}

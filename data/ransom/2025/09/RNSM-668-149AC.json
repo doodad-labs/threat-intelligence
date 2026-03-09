@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-149AC",
+  "type": "ransomware-incident",
+  "title": "US Graphite ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "US Graphite",
+    "domain": "us-graphite.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "pear",
+    "name": "pear",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Specialists in carbon and graphite engineering solutions",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b36e5e19299c5da2230d60f754a3e66b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vvmgr3jhcghpdgvacgvhcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-19 00:00:00.000000",
+    "disclosedDate": "2025-09-14 13:19:30.312952"
+  }
+}

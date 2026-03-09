@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-21390",
+  "type": "ransomware-incident",
+  "title": "Electro Mechanical Industries ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Electro Mechanical Industries",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "Electro-Mechanical Industries, Inc. (EMI) is a manufacturer of standard and custom electrical distribution equipment serving the needs of the electrical industry in the national and internationalmarketplaces.We will upload 50gb of corporate documents soon. Lots of forms with personal employee data (SSNs, addresses, phones, emails), financials, client data, contracts and agreements, projects, drawingsand specifications, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwxly3rybybnzwnoyw5py2fsieluzhvzdhjpzxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 00:00:00.000000",
+    "disclosedDate": "2025-11-21 14:18:30.856579"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-02141",
+  "type": "ransomware-incident",
+  "title": "Reading Elevator Service ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Reading Elevator Service",
+    "domain": "readingelevatorservice.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Reading Elevator Service (RES) is a reputable elevator company established in 1969, specializing in the installation, maintenance, and modernization of non-proprietary elevator systems. The company is dedicated to delivering excellent customer service, ensuring safety and efficient traffic flow in both residential and commercial properties across Eastern Pennsylvania. RES is fully bonded and insured, with affiliations including IUEC, NAEC, NFIB, and the Chamber of Commerce. They provide a range of services aimed at meeting the unique needs of their clients while allowing flexibility in choosing service providers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fda6d28a8f8df367104c2292b192120f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvhzgluzybfbgv2yxrvcibtzxj2awnlqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-02 18:10:34.292000",
+    "disclosedDate": "2025-12-02 19:14:38.383674"
+  }
+}

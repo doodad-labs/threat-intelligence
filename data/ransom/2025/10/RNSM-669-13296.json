@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-13296",
+  "type": "ransomware-incident",
+  "title": "thefixingcompany.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "thefixingcompany.com",
+    "domain": "thefixingcompany.com",
+    "country": "IE"
+  },
+  "actor": {
+    "id": "obscura",
+    "name": "obscura",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue: $<5kk | Leak Size: xx GB | Status: Published",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/39c5f2912bdda7608447f9ed000af091.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghlzml4aw5ny29tcgfues5jb21ab2jzy3vyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 11:53:17.794777",
+    "disclosedDate": "2025-10-13 11:53:30.601360"
+  }
+}

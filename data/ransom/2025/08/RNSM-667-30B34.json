@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-30B34",
+  "type": "ransomware-incident",
+  "title": "Hilco Metal Building & Roofing Supply ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hilco Metal Building & Roofing Supply",
+    "domain": "hilcosupply.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hilco Metal Building & Metal Roofing Supply specializes in providing a comprehensive range of metal buildings, roofing materials, and custom-designed arenas specifically aimed at clients in industrial, oil field, and retail sectors. They offer products such as barndominiums, fencing supplies, and other building components to suit both residential and commercial needs. Serving a wide geographic area in Texas, they cater to clients requiring durable and efficient building materials for storage, equestrian, and construction projects. Their commitment to quality and customer service ensures that clients can source both in-stock and custom order items efficiently.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/15db1a77ec30dec6fc663ee1c6e82e02.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sglsy28gtwv0ywwgqnvpbgrpbmcgjibsb29maw5nifn1chbseubkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-30 15:51:49.074664",
+    "disclosedDate": "2025-08-30 16:11:44.006159"
+  }
+}

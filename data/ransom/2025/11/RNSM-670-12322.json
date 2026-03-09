@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-12322",
+  "type": "ransomware-incident",
+  "title": "galileo.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "galileo.it",
+    "domain": "galileo.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Galileo is a global payments platform that powers fintech, financial services, and investment firms by removing the complexity of payments. We're a proven financial technology platform, an innovation engine and a leader in card issuing, payments and digital banking. Galileo was founded in 2000 and is headquartered in Utah.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3c02c234974ca0b39427d99a6a4713ab.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2fsawxlby5pdebpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-12 00:00:00.000000",
+    "disclosedDate": "2025-11-12 11:47:58.601762"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-199E6",
+  "type": "ransomware-incident",
+  "title": "Electro-Tech ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Electro-Tech",
+    "domain": "electrotech-inc.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ElectroTech, Incorporated is a manufacturers representative for electrical products.We are going to upload company data soon. You will find financialdata (audit, payment details,financial reports, invoices), NDAs and other documents with detailed personal information and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwxly3ryby1uzwnoqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-19 00:00:00.000000",
+    "disclosedDate": "2025-08-19 13:19:01.324497"
+  }
+}

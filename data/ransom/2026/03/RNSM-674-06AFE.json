@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-06AFE",
+  "type": "ransomware-incident",
+  "title": "salfordcc.ac.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "salfordcc.ac.uk",
+    "domain": "salfordcc.ac.uk",
+    "country": "GB",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Salford City College is one of the largest further education providers in Greater Manchester. It was established in 2009 following a merger between several predecessor colleges.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cd5325a4bd9c46144327f483ab8f250e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2fszm9yzgnjlmfjlnvrqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-06 07:35:50.472630",
+    "disclosedDate": "2026-03-06 09:12:05.994422"
+  }
+}

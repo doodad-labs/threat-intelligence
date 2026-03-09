@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-15FF9",
+  "type": "ransomware-incident",
+  "title": "DAT AUTOHUS AG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DAT AUTOHUS AG",
+    "domain": "autohus.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] DAT AUTOHUS AG is a Germany-based company that specializes in the sale of new and used vehicles. It offers a wide array of cars, including compact cars, sedans, SUVs, sports cars, and commercial vehicles from various brands. The company also provides services such as financing, leasing, insurance, and car maintenance and repair. It's located in Bockel, Gyhum, Germany.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a600eee35710912998b856a2ba735ff7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/refuiefvve9ivvmgqudazxzlcmvzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-06 00:00:00.000000",
+    "disclosedDate": "2025-08-15 15:10:08.414095"
+  }
+}

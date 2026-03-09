@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-094B2",
+  "type": "ransomware-incident",
+  "title": "Tech Environmental ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tech Environmental",
+    "domain": "techenv.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/84430cb7f4b0d8effe1173019e1abebf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvjacbfbnzpcm9ubwvudgfsqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-09 19:32:44.068668",
+    "disclosedDate": "2026-02-09 19:32:59.357639"
+  }
+}

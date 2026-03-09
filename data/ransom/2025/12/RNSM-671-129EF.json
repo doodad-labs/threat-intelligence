@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-671-129EF",
+  "type": "ransomware-incident",
+  "title": "David M. Schwarz Architects ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "David M. Schwarz Architects",
+    "domain": "dmsas.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "minteye",
+    "name": "minteye",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1900000000000,
+    "description": "Size: 1.9 TB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgf2awqgts4gu2nod2fyeibbcmnoaxrly3rzqg1pbnrlewu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-07 15:42:39.840115",
+    "disclosedDate": "2025-12-12 22:47:27.507306"
+  }
+}

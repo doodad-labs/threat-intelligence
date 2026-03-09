@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-2441A",
+  "type": "ransomware-incident",
+  "title": "LTS Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LTS Group",
+    "domain": "ltsgroup.tech",
+    "country": "JP"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] LTS Group Inc. is a private company specializing in providing educational and healthcare professionals for schools and centers. Based in New York, US, LTS Group Inc. primarily assists special needs children. Its services include staffing registered nurses, occupational, physical and speech therapists. The firm also offers therapeutic staffing for Special Education settings. LTS Group Inc. additionally helps school administrators and liaisons manage their staff and students effectively.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34b2173bc095112f6b4404b0683ce22e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tfrtiedyb3vwqhdvcmxkbgvha3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-24 13:18:20.000000",
+    "disclosedDate": "2026-01-24 15:48:29.229983"
+  }
+}

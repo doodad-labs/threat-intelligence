@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-123A7",
+  "type": "ransomware-incident",
+  "title": "Vennerhus Weine AG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Vennerhus Weine AG",
+    "domain": "vennerhus.ch",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Vennerhus Weine AG is a Swiss wine company based in Grosshöchstetten, Canton of Bern. Founded in 1994, the company specializes in the import, trade, and distribution of high-quality wines. In addition to wine sales, Vennerhus offers professional wine tastings, courses, and events designed for both private clients and corporate customers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fb4983cc636c881841a2821c11d1eacf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmvubmvyahvzifdlaw5liefhqhjhbnnvbwhvdxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-20 00:00:00.000000",
+    "disclosedDate": "2025-11-12 12:54:45.417129"
+  }
+}

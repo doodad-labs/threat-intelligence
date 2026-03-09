@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-08256",
+  "type": "ransomware-incident",
+  "title": "www.goodmanmfg.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.goodmanmfg.com",
+    "domain": "goodmanmfg.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Administrative/System Files/ADMIN, DOAS,General operational, administrative records, and potential system configuration files /Proprietary Engineering Drawings/IP/Highly specific technical documents, schematics, and design files (Intellectual Property). The (MklUp) indicates marked-up or working drafts.Product Line/System Data /RoofTop Systems Folder, Goodman Models, Goodman 12.5 /Confidential information related to specific product lines,Systematically numbered Bitmap image files (BMP), which function as internal references for parts, components, or quality checks/Goodman LC",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmdvb2rtyw5tzmcuy29tqhn0b3jtb3vz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-08 18:50:42.207989",
+    "disclosedDate": "2025-12-08 18:50:43.457625"
+  }
+}

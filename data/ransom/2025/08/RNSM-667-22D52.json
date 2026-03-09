@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-667-22D52",
+  "type": "ransomware-incident",
+  "title": "Hogan Construction Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hogan Construction Group",
+    "domain": "hoganconstructiongroup.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 16000000000,
+    "description": "Hogan Construction Group is a company that provides a comprehensive platform of value-based, client-focused construction management services. It offers interior renovations, design and bid-Build,historic restorations, and adaptive re-use.We are ready to upload more than 16GB files of essential corporate documents such as: financial data (audit, payment details, invoices), employees and customers information (Social Security Numbers, phones, emails, death/birth certificate ) confidential information and other documents with detailed personal information and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9nyw4gq29uc3rydwn0aw9uiedyb3vwqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-25 00:00:00.000000",
+    "disclosedDate": "2025-08-22 15:11:16.773957"
+  }
+}

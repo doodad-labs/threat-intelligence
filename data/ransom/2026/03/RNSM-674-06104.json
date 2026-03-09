@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-06104",
+  "type": "ransomware-incident",
+  "title": "nelsonworldwide.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nelsonworldwide.com",
+    "domain": "nelsonworldwide.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "NELSON Worldwide is an award-winning firm delivering architecture, interior design, graphic design, and brand strategy services that transform all dimensions of the human experience, providing our clients with strategic and creative solutions that positively impact their lives and the environments w…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8684d887b91689b2349d99a3486f3a3b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmvsc29ud29ybgr3awrllmnvbubjagfvcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-06 20:34:01.139454",
+    "disclosedDate": "2026-03-06 20:34:14.317693"
+  }
+}

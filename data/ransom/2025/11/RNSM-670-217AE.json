@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-217AE",
+  "type": "ransomware-incident",
+  "title": "MAZDAUSA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MAZDAUSA.COM",
+    "domain": "mazdausa.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] MazdaUSA.com is the official website of Mazda Motor Corporation's U.S. subsidiary. This website serves as a one-stop shop for consumers to browse and purchase vehicles, schedule test drives, and access service and maintenance information. Users can also view vehicle specifications, compare different models, and explore financing options. The site provides extensive knowledge about its range of car models including sedans, SUVs, sports cars, and concept cars.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/45717c945d8539b81886dcc23949af4c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tufarefvu0euq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 12:58:45.339616",
+    "disclosedDate": "2025-11-21 12:59:00.846161"
+  }
+}

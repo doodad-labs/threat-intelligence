@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-29AF2",
+  "type": "ransomware-incident",
+  "title": "BrandingBusiness ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BrandingBusiness",
+    "domain": "brandingbusiness.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BrandingBusiness",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjhbmrpbmdcdxnpbmvzc0buawdodhnwaxjl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-29 14:09:12.589094",
+    "disclosedDate": "2026-01-29 14:09:14.964468"
+  }
+}

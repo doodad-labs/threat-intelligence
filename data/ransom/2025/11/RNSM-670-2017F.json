@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-2017F",
+  "type": "ransomware-incident",
+  "title": "SAExploration ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SAExploration",
+    "domain": "saexploration.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SAExploration Holdings, Inc., an oilfield services company, provides seismic data acquisition and logistical support services to the oil and natura...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fdc91e6940f3e1526b72c80e2eea70e3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0ffehbsb3jhdglvbkbjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-20 22:43:58.439265",
+    "disclosedDate": "2025-11-20 22:44:12.651877"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-670-2805F",
+  "type": "ransomware-incident",
+  "title": "Devereux Advanced Behavioral Health ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Devereux Advanced Behavioral Health",
+    "domain": "devereux.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.devereux.org https://www.zoominfo.com/c/the-devereux-foundation/60082215 Devereux Advanced Behavioral Health, headquartered in Villanova, Pennsylvania, is a behavioral healthcare organization that operates a network of clinical, therapeutic, educational, and employment programs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgv2zxjldxggqwr2yw5jzwqgqmvoyxzpb3jhbcbizwfsdghadghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.devereux.org/site/spageserver/?pagename=data_notice_2025",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-28 13:24:17.000000",
+    "disclosedDate": "2025-11-28 13:56:19.888216"
+  }
+}

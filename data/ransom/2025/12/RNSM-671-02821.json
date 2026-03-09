@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-02821",
+  "type": "ransomware-incident",
+  "title": "American Pools & Spas ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "American Pools & Spas",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 500000000000,
+    "description": "American Pools Spas is a premier pool builder based in Orlando, FL, offering a wide range of services including pool construction, renovation, and repair.\r \r We have 500GB of data at our disposal (fiscal data, internal mail,budgets and many other things)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e7def4b99d33475d963580798425e8a5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1lcmljyw4gug9vbhmgjibtcgfzqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-01 01:00:00.000000",
+    "disclosedDate": "2025-12-02 11:20:01.476617"
+  }
+}

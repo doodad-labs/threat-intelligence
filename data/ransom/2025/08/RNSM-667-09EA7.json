@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-09EA7",
+  "type": "ransomware-incident",
+  "title": "Drive & Shine ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Drive & Shine",
+    "domain": "driveandshine.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Drive & Shine is a premier car care service that offers express car washes, interior cleaning, detailing, and oil changes at locations in Michigan and Indiana. The company prides itself on using eco-friendly cleaning methods, including biodegradable soaps and advanced foam equipment, to ensure vehicles are cleaned without harsh chemicals. With a focus on convenience, they provide quick and easy services, including a VIP membership for unlimited washes and access to heated cleaning facilities. Drive & Shine caters to individual car owners as well as fleet services, prioritizing customer satisfaction and vehicle maintenance.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fcb11fe4e81006e4ccf4aa3cb528168b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhjpdmugjibtagluzubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-24 00:00:00.000000",
+    "disclosedDate": "2025-08-09 00:12:07.462354"
+  }
+}

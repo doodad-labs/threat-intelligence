@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-666-287B4",
+  "type": "ransomware-incident",
+  "title": "Albavision.tv ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Albavision.tv",
+    "domain": "albavision.tv",
+    "country": "GT",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "global",
+    "name": "global",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 400000000000,
+    "description": "Albavisión is a major Latin American media company founded by Remigio Ángel González. Headquartered in Miami, it owns numerous TV and radio stations across Latin America. The company is known for acquiring struggling media outlets and revitalizing them with popular programming like telenovelas and U.S. films. === 400GB stolen. ===",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxiyxzpc2lvbi50dkbnbg9iyww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-28 00:00:00.000000",
+    "disclosedDate": "2025-07-28 19:44:13.442039"
+  }
+}

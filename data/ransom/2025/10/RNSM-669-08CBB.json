@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-08CBB",
+  "type": "ransomware-incident",
+  "title": "Osland Financial Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Osland Financial Group",
+    "domain": "oslandfinancialgroup.com",
+    "country": "CA",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Osland Financial Group specializes in simplifying financial planning to help clients navigate investment, risk management, retirement preparation, and wealth preservation. They offer a range of services including annuities, long-term care insurance, life insurance, and disability income insurance. The company aims to establish long-term, trusted relationships by providing essential information for achieving financial objectives. Their intended clientele includes individuals seeking financial security and proactive asset protection.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b7a3793f90da8509a304d6a991f9d11f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3nsyw5kiezpbmfuy2lhbcbhcm91cebzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-19 00:00:00.000000",
+    "disclosedDate": "2025-10-08 15:21:22.921998"
+  }
+}

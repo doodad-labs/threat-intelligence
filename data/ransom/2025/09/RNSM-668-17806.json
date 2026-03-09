@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-668-17806",
+  "type": "ransomware-incident",
+  "title": "RAC Consultoria ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RAC Consultoria",
+    "domain": "racconsultoria.net",
+    "country": "DO"
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rac Consulting began operations in June 2008, driven by its founder, Rinna Acosta, in offering solutions for companies' human and intellectual capital needs that enable them to improve their internal processes and effectively achieve their strategic objectives.Initially, it entered the market providing labor consulting and human resources management services. Today, it offers high-impact project administration and management services for companies, including improvement management, technological innovations, and organizational restructuring, among others.- SQL- Financial documents- Personal information of employees and clients https://www.racconsultoria.net/",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6a0316b4e073634d0e554a767c098b8c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukfdienvbnn1bhrvcmlhqhnwywnlymvhcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-13 00:00:00.000000",
+    "disclosedDate": "2025-09-17 13:27:20.800281"
+  }
+}

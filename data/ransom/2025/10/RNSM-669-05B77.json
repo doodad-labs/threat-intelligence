@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-669-05B77",
+  "type": "ransomware-incident",
+  "title": "Dnc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dnc",
+    "country": ""
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 130000000000,
+    "description": "dnc is an innovative company that offers a range of services including business consulting, facility management, eBusiness solutions, and GDPR compliance. The company aims to help businesses enhance their image and profitability. They serve a variety of clients looking for expertise in improving operational efficiencies and adherence to regulations. dnc is also recognized as an official partner of Heron - we have 130GB of data include billing , plans , costumers full names , phone numbers , gmails , genders , plans , payments and invoices and lot more",
+    "claimed_data_types": [
+      "phone-numbers"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/482843c62caf5c7cf2db2673c0d97ee2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rg5jqg5vdme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-05 20:17:31.481362",
+    "disclosedDate": "2025-10-05 20:18:16.860888"
+  }
+}

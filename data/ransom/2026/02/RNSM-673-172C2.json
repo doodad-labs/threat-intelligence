@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-172C2",
+  "type": "ransomware-incident",
+  "title": "Midwest Wheel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Midwest Wheel",
+    "domain": "midwestwheel.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/973adc602d35e5738e28bc6a8f12aa7b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twlkd2vzdcbxagvlbebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-17 19:43:51.423316",
+    "disclosedDate": "2026-02-17 19:44:18.916093"
+  }
+}

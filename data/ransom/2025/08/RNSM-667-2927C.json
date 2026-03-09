@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-667-2927C",
+  "type": "ransomware-incident",
+  "title": "BÜCHNER BARELLA Holding ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BÜCHNER BARELLA Holding",
+    "domain": "buechnerbarella.de",
+    "country": "DE",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BüchnerBarella gehört deutschlandweit zu den führenden, inhabergeführten technischen Industrie-Versicherungsmaklern. Und das bereits seit 1922. Wichtig ist uns, für Sie persönlich da zu sein, um für Sie und Ihr Unternehmen in allen Phasen – von der Risikoanalyse bis zur schnellen Abwicklung im Schadensfall – stets das Beste rauszuholen.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7f0f5a5a4f0a3b7d4b2b8337a4fb17fc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qsocq0horvigqkfsruxmqsbib2xkaw5nqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.procontra-online.de/versicherer/artikel/hintergruende-unklar-cyber-angriff-auf-versicherungsmakler-buechner-barella",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-27 10:31:04.526000",
+    "disclosedDate": "2025-08-29 09:47:35.551568"
+  }
+}

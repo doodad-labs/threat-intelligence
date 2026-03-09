@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-0197C",
+  "type": "ransomware-incident",
+  "title": "www.eastersealsnei.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.eastersealsnei.org",
+    "domain": "eastersealsnei.org",
+    "country": ""
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 280000000000,
+    "description": "Ransom: 550k280gb",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3a56d5f4e3d4276d22c2bc9bcc2e6d9c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmvhc3rlcnnlywxzbmvplm9yz0bkzxztyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-01 08:44:41.074492",
+    "disclosedDate": "2025-12-01 08:45:20.223008"
+  }
+}

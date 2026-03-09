@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-672-06689",
+  "type": "ransomware-incident",
+  "title": "Italgrafica Sistemi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Italgrafica Sistemi",
+    "domain": "konigprint.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "brotherhood",
+    "name": "brotherhood",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 470000000000,
+    "description": "Contains: 6 Gb Compressed Free Files, 470 Gb Compressed Paid Files, E-mails",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sxrhbgdyywzpy2egu2lzdgvtaubicm90agvyag9vza==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-06 10:13:40.953985",
+    "disclosedDate": "2026-01-06 10:13:42.500832"
+  }
+}

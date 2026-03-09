@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-265A2",
+  "type": "ransomware-incident",
+  "title": "occgrouptr.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "occgrouptr.com",
+    "domain": "occgrouptr.com",
+    "country": "TR"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "OCC Group&#039;un temel amacı, grubun yan kuruluşları arasında oluşturduğu sinerjiyle, reklamverenle...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bb70edd96ccb3e80b28a3f4cce8822b3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b2njz3jvdxb0ci5jb21abg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 17:27:00.000000",
+    "disclosedDate": "2025-12-26 15:40:55.000034"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-668-30754",
+  "type": "ransomware-incident",
+  "title": "Burke Contracting ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Burke Contracting",
+    "country": "",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 292000000000,
+    "description": "Burke Contracting provides design-build, general construction, construction management and preconstruction consulting services.We are going to upload 292gb of corporate data. Employees (including founders and upper management) personal information (w9 formswith full names, DOB, address, emails, phones), financials and credit cards information, customers information, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnvya2ugq29udhjhy3rpbmdaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-23 00:00:00.000000",
+    "disclosedDate": "2025-09-30 10:46:22.266111"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-015DE",
+  "type": "ransomware-incident",
+  "title": "PLUS Malaysia Berhad ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PLUS Malaysia Berhad",
+    "domain": "plus.com.my",
+    "country": "MY",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/79b78da4ed8ccda22b7a95d4b3826cd9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uexvuybnywxhexnpysbczxjoywracwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-06 18:10:37.000000",
+    "disclosedDate": "2026-03-01 11:31:10.285768"
+  }
+}

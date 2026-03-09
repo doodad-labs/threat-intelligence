@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-672-12E3B",
+  "type": "ransomware-incident",
+  "title": "s***p.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "s***p.com",
+    "country": "SJ"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Case data, atourney client data, hr data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc654c1e2d252ab393a435186dfc3205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cyoqknauy29tqgrldm1hbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-12 18:50:37.296163",
+    "disclosedDate": "2026-01-12 18:51:43.045194"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-080E4",
+  "type": "ransomware-incident",
+  "title": "Anteriad ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Anteriad",
+    "domain": "anteriad.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ca45dc1bdfabeb2ac8bc8349bb55ce5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw50zxjpywracwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-08 14:24:54.146250",
+    "disclosedDate": "2026-01-08 14:25:18.472507"
+  }
+}

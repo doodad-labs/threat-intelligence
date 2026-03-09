@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-27258",
+  "type": "ransomware-incident",
+  "title": "MotorsportMarkt.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MotorsportMarkt.de",
+    "domain": "motorsportmarkt.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"MotorsportMarkt.de\" is a German company that operates an online portal specializing in the market for motorsports. It provides a marketplace for buying and selling of motorsport vehicles, parts, equipment, and accessories. Additionally, it offers listings for motorsport-related jobs, properties and services. The platform corresponds to a broad range of motorsport disciplines including cars, motorcycles, karts, and offroad vehicles.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bd7fc2a1ea28b1c24fa881afd9dae6e8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw90b3jzcg9yde1hcmt0lmrlqgv2zxjlc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-27 14:09:43.620058",
+    "disclosedDate": "2025-10-27 14:10:02.511723"
+  }
+}

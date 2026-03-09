@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-1636E",
+  "type": "ransomware-incident",
+  "title": "GPC Industries ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GPC Industries",
+    "domain": "gpcind.co.uk",
+    "country": "HK"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GPC Industries Ltd is a leading trade supplier of high-quality access, handling, and storage products in the UK. With over 40 years of experience, they offer a wide range of equipment including ladders, trucks, trolleys, and various storage solutions, emphasizing UK-manufactured items as well as imported goods. Their intended clients include businesses in need of materials handling and safety equipment. GPC Industries is dedicated to providing exceptional products that meet high specifications and industry standards.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/32496b87ed73ffd5e912f6a1fb0b3bbb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r1bdieluzhvzdhjpzxnazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-16 11:59:03.856539",
+    "disclosedDate": "2025-12-16 12:50:40.569102"
+  }
+}

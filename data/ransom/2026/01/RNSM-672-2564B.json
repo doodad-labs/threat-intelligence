@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-2564B",
+  "type": "ransomware-incident",
+  "title": "MONTALBAARCHITECTS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MONTALBAARCHITECTS.COM",
+    "domain": "montalbaarchitects.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] MONTALBA ARCHITECTS, INC. is a Swiss and American-based architecture firm founded by David Montalba. With offices in Santa Monica, California and Lausanne, Switzerland, they handle both residential and commercial projects. Known for their attention to detail, spatial fluidity, and creative use of light, they have won numerous design awards. They also prioritize environmentally-friendly solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f0aa54c053542faefd985c0512d5bcee.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tu9ovefmqkfbuknisvrfq1rtlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 14:58:57.338801",
+    "disclosedDate": "2026-01-25 14:59:15.055488"
+  }
+}

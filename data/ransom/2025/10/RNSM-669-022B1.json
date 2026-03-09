@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-022B1",
+  "type": "ransomware-incident",
+  "title": "GWP Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GWP Engineering",
+    "domain": "gwpengineering.com",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GWP Engineering Limited operates from offices in Hong Kong, Shenzhen, and Singapore, offering a streamlined approach to clients seeking vitreous enamel panels, structural steel, and construction supplies. The company prides itself on its professional staff and expertise, providing adaptable solutions and handling larger projects. With established sourcing channels and partnered production facilities, GWP Engineering delivers tailor-made products at competitive prices.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1f3cc873b8399609b44549bcaba1b39d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r1dqievuz2luzwvyaw5nqhjhbnnvbwhvdxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-23 00:00:00.000000",
+    "disclosedDate": "2025-10-02 21:50:59.054147"
+  }
+}

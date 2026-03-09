@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-24621",
+  "type": "ransomware-incident",
+  "title": "Aptean ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aptean",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Aptean is a leading global provider of industry-specific software solutions. The company targets specific industries such as manufacturing, distribution, and retail to offer ERP, supply chain, and compliance solutions. The company helps businesses to stay at the forefront of their industries by using technology and industry-specific expertise to address unique business challenges.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9ddc58fe7d45b1e549390413cd336267.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxb0zwfuqgnvaw5iyxnly2fydgvs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-24 13:59:51.415992",
+    "disclosedDate": "2026-02-24 14:00:07.881721"
+  }
+}

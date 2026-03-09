@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-22561",
+  "type": "ransomware-incident",
+  "title": "Nike, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nike, Inc.",
+    "domain": "nike.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Nike, Inc. is a globally recognized sports apparel and equipment company headquartered in Beaverton, Oregon, USA. Founded in 1964 as \"Blue Ribbon Sports\" by Bill Bowerman and Phil Knight, it officially became Nike, Inc. in 1971. Known for its iconic \"Swoosh\" logo and \"Just Do It\" slogan, Nike offers comprehensive collections of sportswear, sports equipment, accessories, and services for a variety of sports.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/98a22d51dde7d36965438acf51b88da6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmlrzswgsw5jlkb3b3jszgxlywtz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-22 16:59:00.000000",
+    "disclosedDate": "2026-01-22 17:15:14.249646"
+  }
+}

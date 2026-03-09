@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-261FF",
+  "type": "ransomware-incident",
+  "title": "https://daricon.com/ (military US/CA/NATO) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "https://daricon.com/ (military US/CA/NATO)",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 400000000000,
+    "description": "400 GB of data, correspondence with NATO and US Army employees, confidential documents, signatures of NATO generals, their passport addresses, shipments to various countries, photos and videos, drawings, personal data, emails of employees of various US and NATO armies, numerous files, phone numbers, personal data, contracts with the Canadian and US Army, documentation on other companies involved in oil in Iraq, Uganda, and elsewhere.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ea675cd6bbb5832e745f9840ce672967.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahr0chm6ly9kyxjpy29ulmnvbs8gkg1pbgl0yxj5ifvtl0nbl05bve8pqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-25 11:11:00.000000",
+    "disclosedDate": "2026-02-26 21:29:29.430331"
+  }
+}

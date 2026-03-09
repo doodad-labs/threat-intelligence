@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-0781F",
+  "type": "ransomware-incident",
+  "title": "comune.balmuccia.vc.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "comune.balmuccia.vc.it",
+    "domain": "balmuccia.vc.it",
+    "country": "IT",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Comune di Balmuccia - Sito ufficialeSi pubblica il calendario di chiusura per ferie, aperture straor...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e6ec7a69558e63de6e576a8f91dab3a5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29tdw5llmjhbg11y2npys52yy5pdebsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-19 00:00:00.000000",
+    "disclosedDate": "2025-12-07 10:19:46.477152"
+  }
+}

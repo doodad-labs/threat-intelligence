@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-669-223E5",
+  "type": "ransomware-incident",
+  "title": "ACTi.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ACTi.com",
+    "domain": "acti.com",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1500000000000,
+    "description": "ACTi Corporation, founded in 2003, is a leading application developer with Big Data, Robot, IoT, Cloud and AI Technologies to empower business intelligent solut... - more than 1.5TB of data has been downloaded.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e5b3944311f0551ac67a4cab87ced14d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qunuas5jb21azw1iyxjnbw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-20 13:03:36.92539",
+    "disclosedDate": "2025-10-22 20:14:02.076829"
+  }
+}

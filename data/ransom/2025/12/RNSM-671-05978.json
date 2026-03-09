@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-05978",
+  "type": "ransomware-incident",
+  "title": "becksgroup.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "becksgroup.au",
+    "domain": "becksgroup.au",
+    "country": "AU"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Family-owned Australian company established in 1976 that operates within the luxury goods and jewellery industry, focusing on precious metals and …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4e615b6b153a8bceb72ea6df944db81f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymvja3nncm91cc5hdubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-05 18:49:33.525929",
+    "disclosedDate": "2025-12-05 18:49:48.169440"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-672-30449",
+  "type": "ransomware-incident",
+  "title": "Tulsa International Airport ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tulsa International Airport",
+    "domain": "flytulsa.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0a7257758d82d2b12954361d6eb1280f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhvsc2egsw50zxjuyxrpb25hbcbbaxjwb3j0qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.pryorinfopub.com/news/state/tulsa-airports-issues-notice-of-data-security-incident/article_179c1954-1774-555b-97f9-844012c3e10e.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-30 00:00:00.000000",
+    "disclosedDate": "2026-01-30 08:12:29.667823"
+  }
+}

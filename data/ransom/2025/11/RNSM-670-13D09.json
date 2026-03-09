@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-13D09",
+  "type": "ransomware-incident",
+  "title": "SATO-GLOBAL.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SATO-GLOBAL.COM",
+    "domain": "sato-global.com",
+    "country": "JP",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"SATO-GLOBAL.COM\", or SATO, is a global barcode and RFID technology company that focuses on data collection and label printing solutions. They serve a variety of industries, including retail, industrial, healthcare, logistics, and food packaging. Their product offerings include barcode printers, labels, software, and maintenance services. SATO aims to help businesses streamline operations, reduce costs, and improve accuracy through efficient data tracking and management.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c518532883ed2e22f84d4ae8d52d8ce4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0futy1hte9cquwuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-13 19:14:44.746535",
+    "disclosedDate": "2025-11-13 19:15:03.426247"
+  }
+}

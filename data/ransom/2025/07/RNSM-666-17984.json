@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-666-17984",
+  "type": "ransomware-incident",
+  "title": "GreenVest ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "GreenVest",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 7000000000,
+    "description": "GreenVest is an environmental development and consulting firm, specializing in ecological restoration, mitigations services and sustainable land planning.We are ready to upload more than 7 GB of corporate documents. Financial data, projects, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jlzw5wzxn0qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-17 00:00:00.000000",
+    "disclosedDate": "2025-07-17 12:42:19.702607"
+  }
+}

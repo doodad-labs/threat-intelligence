@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-038F8",
+  "type": "ransomware-incident",
+  "title": "Seasons Federal Credit Union ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Seasons Federal Credit Union",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 17000000000,
+    "description": "Montage Marketing Services is an outsourced contact center specializing in handling peak activity periods and supporting back-office needs through their Customer Contact Center, Custom Fulfillment Center, and Administrative Services.We will upload 17gb of corporate documents soon. Employee and customer information, w-9 forms, contracts and agreements, confidential files, accounting and financial documents, HR files, NDA, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vhc29ucybgzwrlcmfsienyzwrpdcbvbmlvbkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-03 00:00:00.000000",
+    "disclosedDate": "2025-11-03 13:35:59.067217"
+  }
+}

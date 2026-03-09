@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-268C8",
+  "type": "ransomware-incident",
+  "title": "ferienwohnungen.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ferienwohnungen.de",
+    "domain": "ferienwohnungen.de",
+    "country": "DE",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ferienwohnungen.de is a German online booking platform that connects travelers to over 77,000 holiday homes and apartments across Europe. Operated …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/35214043097bfb806f7dc09e0cbe509c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmvyawvud29obnvuz2vulmrlqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-26 09:48:49.552411",
+    "disclosedDate": "2025-08-26 09:49:01.707267"
+  }
+}

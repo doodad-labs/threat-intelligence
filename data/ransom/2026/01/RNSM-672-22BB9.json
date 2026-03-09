@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-22BB9",
+  "type": "ransomware-incident",
+  "title": "empreinte-hotel.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "empreinte-hotel.com",
+    "domain": "empreinte-hotel.com",
+    "country": "FR",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "benzona",
+    "name": "benzona",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] The Empreinte Hotel is a luxury establishment located in Orleans, France. This 4-star hotel is situated alongside the Loire River, providing guests with charming views. The hotel comprises of rooms and suites with elegant décor and amenities. Besides comfortable accommodation, the property also features a lounge bar and a wellness area, ensuring a truly restful and enjoyable stay for its guests.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw1wcmvpbnrllwhvdgvslmnvbubizw56b25h",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-22 12:00:51.281996",
+    "disclosedDate": "2026-01-22 12:00:58.873452"
+  }
+}

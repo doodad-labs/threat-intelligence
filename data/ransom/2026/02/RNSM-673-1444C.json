@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-1444C",
+  "type": "ransomware-incident",
+  "title": "HUDSONSUSTAINABLE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HUDSONSUSTAINABLE.COM",
+    "domain": "hudsonsustainable.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Hudson Sustainable Investments is a New York-based investment firm that focuses on sustainable investing. They aim to deliver superior risk-adjusted returns while promoting sustainable environmental practices and social responsibilities. The firm considers ecological, social, and governance issues while making investments, outlining a path to a resilient and sustainable global economy.\"",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9be0eefda07927549ea70173df212181.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sfveu09ou1vtvefjtkfcteuuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-14 10:47:17.687378",
+    "disclosedDate": "2026-02-14 10:47:31.906931"
+  }
+}

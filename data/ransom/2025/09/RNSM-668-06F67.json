@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-06F67",
+  "type": "ransomware-incident",
+  "title": "MedicSolution+ ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MedicSolution+",
+    "domain": "medicsolution.app",
+    "country": "BR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/57900d02871f9db626ad664103c1c969.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvkawntb2x1dglvbitaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-06 09:46:15.030962",
+    "disclosedDate": "2025-09-06 09:46:39.231014"
+  }
+}

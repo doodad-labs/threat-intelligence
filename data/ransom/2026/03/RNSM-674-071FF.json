@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-674-071FF",
+  "type": "ransomware-incident",
+  "title": "thallos AG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "thallos AG",
+    "domain": "thallos.ag",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data is not available now.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghhbgxvcybbr0buawdodhnwaxjl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-18 00:00:00.000000",
+    "disclosedDate": "2026-03-07 00:15:57.052257"
+  }
+}

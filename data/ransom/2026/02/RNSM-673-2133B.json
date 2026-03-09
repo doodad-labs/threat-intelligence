@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-2133B",
+  "type": "ransomware-incident",
+  "title": "Grupo Tomza ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Grupo Tomza",
+    "domain": "grupotomza.com",
+    "country": "MX",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ba5150aa51b55d58f2dbd13255e4275a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3j1cg8gvg9temfacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-21 15:17:33.234004",
+    "disclosedDate": "2026-02-21 15:17:48.769935"
+  }
+}

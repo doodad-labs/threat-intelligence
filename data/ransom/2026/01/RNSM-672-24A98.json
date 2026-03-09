@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-24A98",
+  "type": "ransomware-incident",
+  "title": "trulinemfg.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "trulinemfg.com",
+    "domain": "trulinemfg.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tru-Line Manufacturing Company is an American industrial fabrication firm headquartered in Decatur, Alabama that specialises in the metal fabrication of …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b73039cdef993e222e0721d6f5784fa9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhj1bgluzw1mzy5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-24 20:19:28.861847",
+    "disclosedDate": "2026-01-24 20:19:41.411965"
+  }
+}

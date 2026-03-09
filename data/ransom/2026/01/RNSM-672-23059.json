@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-23059",
+  "type": "ransomware-incident",
+  "title": "Propane Levac Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Propane Levac Inc.",
+    "country": "CA",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 45000000000,
+    "description": "Propane Levac inc. specializes in the distribution of propane across Ontario and Quebec, offering a range of services tailored for residential, commercial, and agricultural needsGeo: Canada - Leak size: 45Gb Archive - Contains: Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjvcgfuzsbmzxzhyybjbmmuqhnhcmnvbwe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-23 09:58:39.489401",
+    "disclosedDate": "2026-01-23 09:58:42.311084"
+  }
+}

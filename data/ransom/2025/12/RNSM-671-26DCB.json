@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-26DCB",
+  "type": "ransomware-incident",
+  "title": "savantivibranti.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "savantivibranti.com",
+    "domain": "savantivibranti.com",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Specialisti in sistemi antivibranti Dal 1967 ci occupiamo dello sviluppo e della produzione di sist...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/482f30efaadaa615b38e8a54d349108a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2f2yw50axzpynjhbnrplmnvbubsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 17:20:00.000000",
+    "disclosedDate": "2025-12-26 15:42:59.709231"
+  }
+}

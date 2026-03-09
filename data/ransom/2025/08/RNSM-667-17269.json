@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-17269",
+  "type": "ransomware-incident",
+  "title": "orange.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "orange.com",
+    "domain": "orange.com",
+    "country": "FR",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "warlock",
+    "name": "warlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "This is only a part of the files and file list. The full set of files needs to be purchased separately.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b3jhbmdllmnvbub3yxjsb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-groupe-de-telecommunications-orange-annonce-avoir-ete-victime-d-une-cyberattaque_7404658.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-09 00:00:00.000000",
+    "disclosedDate": "2025-08-17 09:22:54.931859"
+  }
+}

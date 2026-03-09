@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-259D3",
+  "type": "ransomware-incident",
+  "title": "Zecher ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Zecher",
+    "domain": "zecher.com",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6fca9d4ae54e20bca51374ca2943fd3c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wmvjagvyqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-25 05:17:59.989740",
+    "disclosedDate": "2025-11-25 05:18:15.876603"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-07188",
+  "type": "ransomware-incident",
+  "title": "grupoferrosider.com.br ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "grupoferrosider.com.br",
+    "domain": "grupoferrosider.com.br",
+    "country": "BR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ferrosider Componentes is a leading provider of automotive parts and components designed for the met...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a9ab4d253b36fd62af2b6af8522ba144.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3j1cg9mzxjyb3npzgvylmnvbs5ickbsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-06 11:23:00.000000",
+    "disclosedDate": "2026-02-07 20:19:17.302321"
+  }
+}

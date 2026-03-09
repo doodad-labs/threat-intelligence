@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-17042",
+  "type": "ransomware-incident",
+  "title": "Adelphi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Adelphi",
+    "domain": "adelphi.uk.com",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Adelphi is a global consultancy firm specializing in healthcare solutions. They operate in more than 25 countries, providing services to the pharmaceutical, biotech, and healthcare industries. They offer transformative solutions in areas like real world evidence, patient-centered outcomes, market access strategies, and medical communication. Their expertise helps clients improve patient lives through science, data, and technology.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a301ebb18bf3e4a58dc6a910c71a0b61.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwrlbhboaub3b3jszgxlywtz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-11 14:04:35.810290",
+    "disclosedDate": "2026-02-17 17:22:44.861637"
+  }
+}

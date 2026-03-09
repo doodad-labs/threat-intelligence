@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-05F1F",
+  "type": "ransomware-incident",
+  "title": "Durvet ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Durvet",
+    "domain": "durvet.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c1c68e75912c7b97cc8a1dc8a505de4d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhvydmv0qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-05 04:20:42.235870",
+    "disclosedDate": "2025-11-05 04:20:57.975654"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-27CFE",
+  "type": "ransomware-incident",
+  "title": "MILGARD.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MILGARD.COM",
+    "domain": "milgard.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Milgard.com is a manufacturer and supplier of high-quality windows and doors in the United States. They offer a wide array of products, including vinyl, aluminum, fiberglass, and wood-clad windows, as well as patio doors and moving glass wall systems. The company is renowned for its innovative designs, energy efficiency, and commitment to customer satisfaction. Milgard also provides professional installation and repair services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e0793cecf92628cf9618f09238f6ac13.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tulmr0fsrc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-27 11:26:04.798588",
+    "disclosedDate": "2025-10-27 11:26:23.231598"
+  }
+}

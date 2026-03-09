@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-20474",
+  "type": "ransomware-incident",
+  "title": "insoca.es ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "insoca.es",
+    "domain": "insoca.es",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A family-owned business with a high level of technology in the corrugated cardboard sector.1.The document is a gas bill from DISA ENERGY S.L.U. to Cartonajes Izquierdo S.A. for the period from June 1, 2025, to June 30, 2025.2.This is the             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/62ab6393462fa60a7e385d9b6ff14ac2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw5zb2nhlmvzqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-20 00:00:00.000000",
+    "disclosedDate": "2025-08-20 14:12:21.669862"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-134D9",
+  "type": "ransomware-incident",
+  "title": "stimgroup ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "stimgroup",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "STIM goes beyond by offering a comprehensive technological service ranging from Project Management activities to a Global Service\r Laek: 100GB \r WE HAS COLLECTED SUCH DATA AS: \r - Confidential documents \r - Clients Data \r - NDA \r - Financial data \r - Operations \r - Corporate data \r - Business Agreements \r - Development \r \r And a lot of other VERY IMPORTANT information!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7188b850d7293e7ba39d068c4facad34.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rpbwdyb3vwqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-13 03:33:00.000000",
+    "disclosedDate": "2026-01-13 03:51:46.577093"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-21E0A",
+  "type": "ransomware-incident",
+  "title": "Line Up Korea ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Line Up Korea",
+    "domain": "lineupkorea.com",
+    "country": "KR"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "lineupkorea.com Lineup Korea Co., Ltd. is a South Korean IT consulting company established in 2015 and located in Goyang City, Gyeonggi Province . The company has been recognized as an excellent youth-friendly small business by the Ministry of Employment and Labor and employs around 70 people . With annual sales of approximately 24.7 billion KRW, the company specializes in IT system engineering and infrastructure services . They are also registered as a partner with the Korea Radio Promotion Association",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgluzsbvccblb3jlyub0agvnzw50bgvtzw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-17 13:57:52.000000",
+    "disclosedDate": "2026-02-21 19:21:34.930135"
+  }
+}

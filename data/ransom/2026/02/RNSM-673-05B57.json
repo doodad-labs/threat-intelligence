@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-05B57",
+  "type": "ransomware-incident",
+  "title": "Wayco Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wayco Inc",
+    "domain": "waycoinc.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wayco, Inc. is a family-owned company with over 50 years of experience providing full-service paving solutions in northeastern Pennsylvania. Their extensive offerings include asphalt paving, oil chipping, aggregate sales, concrete services, excavating, and utility site work. The company prides itself on its knowledgeable staff, including licensed engineers for project consultation, and is a PA State Certified Contractor with products approved by PennDOT. Wayco, Inc. caters to clients in need of paving and construction services, ensuring high-quality results through a dedicated team.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/05756a8d514166ab39e05e4ad7ee01d4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2f5y28gsw5jqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-05 21:09:25.190935",
+    "disclosedDate": "2026-02-05 21:32:10.054502"
+  }
+}

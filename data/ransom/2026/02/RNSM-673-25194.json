@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-25194",
+  "type": "ransomware-incident",
+  "title": "Sus Insumos S.A.S ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sus Insumos S.A.S",
+    "domain": "susinsumos.com",
+    "country": "CO"
+  },
+  "actor": {
+    "id": "vect",
+    "name": "vect",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 30260000000,
+    "description": "Status: STATUS: NEGOTIATING | Sector: Seller | ├─ Web server and local development environment files├─ Database and SQL server data directories├─ Business/ERP and accounting application data├─ Shared company network data directories├─ Micr... DATA SIZE: 30.26 GB | Deadline: 18d 19h",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vzieluc3vtb3mguy5bllnadmvjda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-25 00:00:00.000000",
+    "disclosedDate": "2026-02-25 15:52:41.052786"
+  }
+}

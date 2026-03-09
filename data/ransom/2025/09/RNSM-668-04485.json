@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-668-04485",
+  "type": "ransomware-incident",
+  "title": "Carus ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Carus",
+    "country": "FI"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 161000000000,
+    "description": "Carus provides solutions to environmental concerns involving water, air and soil with specializations in the area of chemical oxidation and sequestration.We are ready to upload more than 161GB files of essential corporate documents such as: financial data (audit, payment details,financial reports, invoices), employees and customers information (passports, credit cards, medical information, emails, phones) confidential information, NDAs and other documents with detailed personal information so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fydxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-04 00:00:00.000000",
+    "disclosedDate": "2025-09-04 11:49:09.858331"
+  }
+}

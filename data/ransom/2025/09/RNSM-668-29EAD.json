@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-668-29EAD",
+  "type": "ransomware-incident",
+  "title": "Dodd-group-ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dodd-group-ltd",
+    "domain": "dodd-group-ltd.com",
+    "country": "",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 4000000000000,
+    "description": "During the attack we quietly extracted roughly 4 TB of data, including material from secured repositories. Time is running out - you have the opportunity to resolve this matter before inevitable consequences unfold.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2ab01cd215b2321cc7acf020ba4ae2c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rg9kzc1ncm91cc1sdgrabhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-23 15:17:48.467000",
+    "disclosedDate": "2025-09-29 23:16:23.139865"
+  }
+}

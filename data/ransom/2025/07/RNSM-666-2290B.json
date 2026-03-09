@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-666-2290B",
+  "type": "ransomware-incident",
+  "title": "sbamh.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sbamh.org",
+    "domain": "sbamh.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "kawa4096",
+    "name": "kawa4096",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "sbamh.org",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2jhbwgub3jnqgthd2e0mdk2",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-20 19:38:45.118670",
+    "disclosedDate": "2025-07-22 04:50:42.623188"
+  }
+}

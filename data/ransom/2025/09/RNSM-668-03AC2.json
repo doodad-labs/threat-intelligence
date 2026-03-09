@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-668-03AC2",
+  "type": "ransomware-incident",
+  "title": "Commission scolaire des Appalaches ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Commission scolaire des Appalaches",
+    "country": "CA",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Most of the archive (≈ 70%) contains critical or high-level information: personal data of students and employees, financial documents, legal documents, signatures.\r The medium level (≈ 20%) consists mainly of educational documents and administrative notes.\r The low level (≈ 5%) consists of auxiliary files.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c35220751a05ac2935803af1aedc2c2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tbwlzc2lvbibzy29sywlyzsbkzxmgqxbwywxhy2hlc0bpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-02 03:16:00.000000",
+    "disclosedDate": "2025-09-03 15:19:29.012647"
+  }
+}

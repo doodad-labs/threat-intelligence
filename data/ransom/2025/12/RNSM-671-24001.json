@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-671-24001",
+  "type": "ransomware-incident",
+  "title": "SV-Büro Ing. Schulz GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SV-Büro Ing. Schulz GmbH",
+    "domain": "sv-buero.at",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1ytqso8cm8gsw5nlibty2h1bhogr21isebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 00:00:00.000000",
+    "disclosedDate": "2025-12-24 13:59:33.721795"
+  }
+}

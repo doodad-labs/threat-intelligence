@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-0603B",
+  "type": "ransomware-incident",
+  "title": "Ludlow Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ludlow Construction",
+    "country": "",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 205000000000,
+    "description": "Ludlow Construction Co. Inc. is a business specializing in underground infrastructure, roadway construction, and site development with over 25 years of experience. They offer services including road construction, sewer, water, storm utilities installation, site development, and curbing concrete.We are going to upload 205gb of corporate data soon. Detailed employee information (Names, DOB, DLs of almost all the employees, medical certificates, passports and other docs scans), financial and accounting files, correspondence with authorities, contracts, agreements, projects with specifications, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/thvkbg93ienvbnn0cnvjdglvbkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-06 00:00:00.000000",
+    "disclosedDate": "2025-10-06 13:45:23.812715"
+  }
+}

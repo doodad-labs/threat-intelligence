@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-13EC3",
+  "type": "ransomware-incident",
+  "title": "San Bernard Electric Cooperative ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "San Bernard Electric Cooperative",
+    "domain": "sbec.org",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "San Bernard Electric Cooperative, USA - offers a range of services including outage reporting, generator installation, and energy efficiency programs. Its intended clients are members of the community who utilize electric services, as well as            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/177d7ed61e6db1ce5c36633972670896.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fuiejlcm5hcmqgrwxly3ryawmgq29vcgvyyxrpdmvacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 00:00:00.000000",
+    "disclosedDate": "2025-10-13 21:10:29.939050"
+  }
+}

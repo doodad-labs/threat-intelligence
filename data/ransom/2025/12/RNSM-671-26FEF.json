@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-26FEF",
+  "type": "ransomware-incident",
+  "title": "ambisig.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ambisig.com",
+    "domain": "ambisig.com",
+    "country": "PT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ambisig is a technology company that helps local governments and businesses manage information smart...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1a510d9c176fd925ab436b653170a281.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yw1iaxnpzy5jb21abg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-25 16:28:00.000000",
+    "disclosedDate": "2025-12-26 15:23:19.503085"
+  }
+}

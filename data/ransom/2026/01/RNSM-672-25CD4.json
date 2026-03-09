@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-25CD4",
+  "type": "ransomware-incident",
+  "title": "AERIFY.IO ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "AERIFY.IO",
+    "domain": "aerify.io",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] AERIFY.IO is a technology company that provides solutions in the field of web and software development. It specializes in cloud system integrations and designing systems for data analysis and processing. The company aims to simplify complex technological tasks for businesses by offering effective technical solutions and IT consulting services. With a strong focus on Amazon Web Services (AWS), AERIFY.IO helps businesses to scale and optimize operations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1ae8ce7e055c81d08d1bb8039b1420b3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/quvssuzzlklpqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 14:58:05.260924",
+    "disclosedDate": "2026-01-25 14:58:19.180242"
+  }
+}

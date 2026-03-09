@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-15766",
+  "type": "ransomware-incident",
+  "title": "Hodgins Law Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hodgins Law Group",
+    "domain": "hodginslawgroup.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/843a6442ba5770ba702d51bebc7539b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9kz2lucybmyxcgr3jvdxbacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-15 05:47:55.631531",
+    "disclosedDate": "2025-12-15 05:48:10.843742"
+  }
+}

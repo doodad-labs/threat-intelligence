@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-20231",
+  "type": "ransomware-incident",
+  "title": "Madison Services, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Madison Services, Inc.",
+    "domain": "mdsvc.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/29e6b728121d682dbef35b7d3c59ba57.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfkaxnvbibtzxj2awnlcywgsw5jlkbxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-20 17:09:16.895628",
+    "disclosedDate": "2026-02-20 17:09:34.553094"
+  }
+}

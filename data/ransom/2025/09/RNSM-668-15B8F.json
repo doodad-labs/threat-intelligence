@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-15B8F",
+  "type": "ransomware-incident",
+  "title": "VirMedice ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VirMedice",
+    "domain": "virmedice.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "pear",
+    "name": "pear",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "VirMedice offers the NextGen Ambulatory EHR (Electronic Health Records) and NextGen Ambulatory PM software (Practice Management) in two Models",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f18f0c1ca24a02744a03a88113b9254a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmlytwvkawnlqhblyxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-11 00:00:00.000000",
+    "disclosedDate": "2025-09-15 20:52:46.828182"
+  }
+}

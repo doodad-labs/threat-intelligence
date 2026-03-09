@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-06FA7",
+  "type": "ransomware-incident",
+  "title": "Silvi SRL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Silvi SRL",
+    "domain": "silvi.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "silvi.it Silvi SRL, established in 1990, specializes in advanced industrial automation solutions, offering a range of products including palletizing systems, depalletizing systems, and special machines. The company serves various sectors such as metal packaging, pet food, automotive, chemical and pharmaceutical, food and beverage, and warehouse logistics. With over 30 years of experience, Silvi SRL is known for its reliability and innovation, providing high-quality customer support",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2lsdmkgu1jmqhrozwdlbnrszw1lbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-06 17:26:44.000000",
+    "disclosedDate": "2026-02-06 18:45:44.285039"
+  }
+}

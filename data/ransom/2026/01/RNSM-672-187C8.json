@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-187C8",
+  "type": "ransomware-incident",
+  "title": "Jampen Holzbau AG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jampen Holzbau AG",
+    "domain": "jampen-holzbau.ch",
+    "country": "CH",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/34729bb3bcb7960f93f5fd1f044b7faa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smftcgvuiehvbhpiyxugqudacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-18 00:00:00.000000",
+    "disclosedDate": "2026-01-18 18:48:12.882052"
+  }
+}

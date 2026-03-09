@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-670-13AA8",
+  "type": "ransomware-incident",
+  "title": "kellylegal.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kellylegal.com.au",
+    "domain": "kellylegal.com.au",
+    "country": "AU"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kelly Legal is a law firm based in Brisbane and Mackay, offering a wide range of legal services throughout Queensland. Their experienced team provides personalized legal advice in areas such as family law, real estate, injury compensation, and business law. They focus on treating clients as individuals and strive to achieve the best outcomes for their unique circumstances. With a commitment to being there for their clients, Kelly Legal emphasizes a supportive approach in all legal matters.\r Employees: 50\r Revenue: $5 Million\r Industry: Law Firms & Legal Services\r Phone Number: +61 749110500",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6989e33ee40aac0283929d453fe20ab9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2vsbhlszwdhbc5jb20uyxvaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.cyberdaily.au/security/12910-exclusive-queensland-law-firm-listed-by-inc-ransom-hacking-group",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-13 20:49:00.000000",
+    "disclosedDate": "2025-11-13 23:48:27.474984"
+  }
+}

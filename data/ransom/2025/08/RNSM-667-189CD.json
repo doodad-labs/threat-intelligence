@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-189CD",
+  "type": "ransomware-incident",
+  "title": "Uganda Electricity Transmission Company Limited ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Uganda Electricity Transmission Company Limited",
+    "domain": "uetcl.go.ug",
+    "country": "UG",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Uganda Electricity Transmission Company Limited organizes the delivery of electricity within the country and to nearby countries. the company actively cooperates with other countries such as the USA. UETCL buys technology and equipment from t            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc57c51cb3d1e1f2b71b260b2abe3db6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vwdhbmrhievszwn0cmljaxr5ifryyw5zbwlzc2lvbibdb21wyw55iexpbwl0zwracwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-12 00:00:00.000000",
+    "disclosedDate": "2025-08-18 17:42:07.251989"
+  }
+}

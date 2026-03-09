@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-17635",
+  "type": "ransomware-incident",
+  "title": "PODOVIA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PODOVIA",
+    "domain": "podovia.pl",
+    "country": "PL"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ceb4e16d1110570dacadf9be7efb95a4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ue9et1zjqubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-17 00:00:00.000000",
+    "disclosedDate": "2025-12-17 17:07:59.829281"
+  }
+}

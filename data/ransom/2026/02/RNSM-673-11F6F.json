@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-11F6F",
+  "type": "ransomware-incident",
+  "title": "Aviam Corporate Housing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aviam Corporate Housing",
+    "domain": "aviam.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "insomnia",
+    "name": "insomnia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Aviam is the nation's premier corporate housing provider, offering furnished, fully equipped accommodations with maid service, 24/7 emergency support, and customizable packages for executives, teams, or interns — more comfort and savings than hotels.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/88c01530e98c6fc22c3651349efd5a4f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxzpyw0gq29ycg9yyxrliehvdxnpbmdaaw5zb21uawe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-08 00:00:00.000000",
+    "disclosedDate": "2026-02-11 16:06:44.956094"
+  }
+}

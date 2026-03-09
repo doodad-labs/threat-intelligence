@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-10135",
+  "type": "ransomware-incident",
+  "title": "Urban Remedy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Urban Remedy",
+    "domain": "urbanremedy.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/917ccd2a408747b30aebb513312dd0b7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vxjiyw4gumvtzwr5qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-10 05:47:43.854420",
+    "disclosedDate": "2025-12-10 05:47:58.535890"
+  }
+}

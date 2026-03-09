@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-13A5B",
+  "type": "ransomware-incident",
+  "title": "Kuehne + Nagel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kuehne + Nagel",
+    "domain": "kuehne-nagel.com",
+    "country": "CH",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "With more than 82,000 employees at almost 1,300 sites in close to 100 countries, the Kuehne+Nagel Group is one of the world's leading logistics pro...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e251729df2368099291534c2065e1ad2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s3vlag5licsgtmfnzwxay29pbmjhc2vjyxj0zww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 10:50:51.521743",
+    "disclosedDate": "2025-10-13 10:51:06.301090"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-669-13E5C",
+  "type": "ransomware-incident",
+  "title": "North Stonington Elementary School ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "North Stonington Elementary School",
+    "domain": "northstonington.k12.ct.us",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000000,
+    "description": "North Stonington Public Schools have two public schools and 736 students, strives to create a safe environment for themselves, their school, and their students. However, their \"Safety First\" slogan has recently changed! Despite having extensive resources and support, North Stonington Public Schools has a very poor IT security team that is doing a poor job! With our help, over 3 TB of confidential data was exposed, meaning all student data, including the entire history and documentation, is now in our hands!",
+    "claimed_data_types": [
+      "student-records"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ede6a1f3d0495e709fc35c19b77b8ef3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm9ydgggu3rvbmluz3rvbibfbgvtzw50yxj5ifnjag9vbebpbnrlcmxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 13:17:14.652100",
+    "disclosedDate": "2025-10-13 13:17:29.656946"
+  }
+}

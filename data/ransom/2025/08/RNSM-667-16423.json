@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-16423",
+  "type": "ransomware-incident",
+  "title": "VINSON & ELKINS LLP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VINSON & ELKINS LLP",
+    "domain": "velaw.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "d4rk4rmy",
+    "name": "d4rk4rmy",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "https://www.velaw.com Vinson & Elkins is a century-strong global law firm that partners with leading companies across key industries on wide‑ranging, complex matters. Blending deep experience with forward‑thinking counsel and close client collaboration, the firm helps organizations pursue goals and navigate…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a38adfe6186486643852c0ff87d735e2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vklou09oicygruxlsu5tiexmuebknhjrnhjteq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-16 08:19:32.159606",
+    "disclosedDate": "2025-08-16 08:19:33.861468"
+  }
+}

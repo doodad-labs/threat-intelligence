@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-10E44",
+  "type": "ransomware-incident",
+  "title": "Alascom ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Alascom",
+    "domain": "alascom.it",
+    "country": "IT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Alascom It has been operating for over 20 years as a system integrator and supplier of technical consulting services in the ICT and industrial automation sector with a fundamental knowledge of telecommunication networks and IP technologies.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6b2af3566a9b586188f765b14cb444a7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxhc2nvbubyahlzawrh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-10 17:41:56.709914",
+    "disclosedDate": "2025-08-10 17:41:58.480853"
+  }
+}

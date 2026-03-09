@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-17144",
+  "type": "ransomware-incident",
+  "title": "gosheating.co.uk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "gosheating.co.uk",
+    "domain": "gosheating.co.uk",
+    "country": "GB",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GOS Heating is a long-standing, family-run heating, plumbing and electrical contractor based in Preston, Lancashire. The company markets domestic and …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a299aa771ae0ecdbe89b0e4da5a64726.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z29zagvhdgluzy5jby51a0bzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-18 00:00:00.000000",
+    "disclosedDate": "2025-09-17 18:41:52.037642"
+  }
+}

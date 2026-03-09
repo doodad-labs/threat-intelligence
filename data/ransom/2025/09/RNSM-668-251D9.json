@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-668-251D9",
+  "type": "ransomware-incident",
+  "title": "MACMA Werbeartikel oHG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MACMA Werbeartikel oHG",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "sarcoma",
+    "name": "sarcoma",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 285000000000,
+    "description": "MACMA Werbeartikel oHGMACMA is one of the largest promotional product importers in Europe, serving as a supplier and partner to the promotional products trade. The company prides itself on being capable, fast, and reliable, with over 400 employees dedicated to ensuring customer satisfaction. Their extensive product range includes writing instruments, tools, travel accessories, and various promotional items designed to enhance customer engagement. MACMA focuses on providing high-quality products and efficient service to resellers in the promotional merchandise sector.Geo: Germany - Leak size: 285 GB Archive - Contains: Files",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tufdtuegv2vyymvhcnrpa2vsig9ir0bzyxjjb21h",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-25 06:23:32.716082",
+    "disclosedDate": "2025-09-25 06:23:35.592976"
+  }
+}

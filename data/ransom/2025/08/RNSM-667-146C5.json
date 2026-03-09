@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-146C5",
+  "type": "ransomware-incident",
+  "title": "Immigration Advice Service ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Immigration Advice Service",
+    "country": "GB",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] The Immigration Advice Service (IAS) is a UK-based legal firm specializing in immigration issues. It assists with various immigration matters such as visa applications, citizenship, asylum, business immigration, and more. It has a team of expert immigration lawyers who offer advice and services to individuals, families, and businesses. IAS also provides services globally with several offices in different countries.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fe81ddb9f27ec00bc929833319ecd826.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw1tawdyyxrpb24gqwr2awnlifnlcnzpy2vazglyzxdvbgy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-14 14:20:13.590446",
+    "disclosedDate": "2025-08-14 14:20:29.114545"
+  }
+}

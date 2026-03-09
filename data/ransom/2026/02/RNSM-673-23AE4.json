@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-23AE4",
+  "type": "ransomware-incident",
+  "title": "Rocky Mountain Care ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rocky Mountain Care",
+    "domain": "rockymountaincare.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0e372f255b0ea38ea4975fe4ea5473fa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um9ja3kgtw91bnrhaw4gq2fyzubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-23 21:07:58.905579",
+    "disclosedDate": "2026-02-23 21:08:17.485107"
+  }
+}

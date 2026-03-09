@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-666-20542",
+  "type": "ransomware-incident",
+  "title": "pt.elis.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pt.elis.com",
+    "domain": "elis.com",
+    "country": "PT"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "4000000 USD",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8bdd9cc3c4016fa1e0154b0b92e591a3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chquzwxpcy5jb21azgv2bwfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-20 20:45:07.732745",
+    "disclosedDate": "2025-07-20 20:45:32.413764"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-20EBB",
+  "type": "ransomware-incident",
+  "title": "Geoplin ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Geoplin",
+    "domain": "geoplin.com",
+    "country": "SI",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Geoplin is a leading supplier of natural gas in Slovenia, providing reliable and flexible energy solutions since 1975. The company caters to a diverse clientele, including industries, commercial sectors, and residential customers, by offering a range of services such as energy optimization and industrial lighting. Geoplin is also focused on environmental responsibility, promoting natural gas as a cleaner energy source to support the transition to a low-carbon society. With operations extending into neighboring countries, Geoplin is committed to adapting its offerings to meet the individual needs of its customers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2f62764409594b7d73e8d5914c45ce7f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2vvcgxpbkbzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-18 20:58:34.783000",
+    "disclosedDate": "2026-01-20 00:27:35.333928"
+  }
+}

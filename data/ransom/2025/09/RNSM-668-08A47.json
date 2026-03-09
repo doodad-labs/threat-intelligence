@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-668-08A47",
+  "type": "ransomware-incident",
+  "title": "nubox.com & sumasaas.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nubox.com & sumasaas.com",
+    "domain": "nubox.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "alphalocker",
+    "name": "alphalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 150000000000,
+    "description": "150 GB DATA -Contracts -Projects -Clients -Customers etc",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ecf5a2a60a839078397790e41ddf7fb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bnvib3guy29ticygc3vtyxnhyxmuy29tqgfscghhbg9ja2vy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-08 15:09:56.802144",
+    "disclosedDate": "2025-09-08 15:10:19.108976"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-26E1F",
+  "type": "ransomware-incident",
+  "title": "fresh2you.eu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fresh2you.eu",
+    "domain": "fresh2you.eu",
+    "country": "NL",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fresh2You is an importer, exporter, wholesaler and Cash &amp; Carry for the highest quality fruits a...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6ed6e6e70103911debd3bad7e8acf30d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/znjlc2gyew91lmv1qgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-26 05:08:00.000000",
+    "disclosedDate": "2025-12-26 15:32:56.300919"
+  }
+}

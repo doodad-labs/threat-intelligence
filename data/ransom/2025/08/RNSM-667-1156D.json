@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-1156D",
+  "type": "ransomware-incident",
+  "title": "agrofair ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "agrofair",
+    "domain": "agrofair.nl",
+    "country": "NL",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Banana collapse. AgroFair Benelux BV, based in Barendrecht, the Netherlands, is an importer and distributor of organic and Fairtrade tropical fresh fruit that sells its products in Belgium, Denmark, the Netherlands, Finland, Italy, Austria, S            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4225890a2939b2299b1151b4213db91d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywdyb2zhaxjacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-29 00:00:00.000000",
+    "disclosedDate": "2025-08-11 18:40:39.449776"
+  }
+}

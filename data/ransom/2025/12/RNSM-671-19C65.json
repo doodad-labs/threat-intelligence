@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-19C65",
+  "type": "ransomware-incident",
+  "title": "glasserstv.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "glasserstv.com",
+    "domain": "glasserstv.com",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Glasser's TV Service Ltd is a family-owned and operated business with over 40 years of experience, serving clients in Southeastern Saskatchewan and Southwestern Manitoba. They specialize in a wide range of electronics including computers, televisions, home security systems, and gaming consoles, as well as providing expert repair services. The company is dedicated to delivering quality products and reliable service for both home and business needs. Their knowledgeable team aims to ensure customer satisfaction through friendly and efficient assistance.\r Employees: 10\r Revenue: $5 Million\r Industry: Consumer Services \r Phone Number: (306) 435-3040",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3d4a97e353ece92b23aa21ff9ff7ae8b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z2xhc3nlcnn0di5jb21aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-18 09:50:00.000000",
+    "disclosedDate": "2025-12-19 18:19:15.968976"
+  }
+}

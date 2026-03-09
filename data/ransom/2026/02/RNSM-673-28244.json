@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-28244",
+  "type": "ransomware-incident",
+  "title": "jdaas ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jdaas",
+    "domain": "jdaas.com",
+    "country": "IN"
+  },
+  "actor": {
+    "id": "vect",
+    "name": "vect",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 600000000000,
+    "description": "Status: STATUS: NEGOTIATING | Sector: IT | backups, source codes, financial records, and so on DATA SIZE: 600GB | Deadline: 20d 7h",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/amrhyxnadmvjda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-28 00:00:00.000000",
+    "disclosedDate": "2026-02-28 03:10:37.647061"
+  }
+}

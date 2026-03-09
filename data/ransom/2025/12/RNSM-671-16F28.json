@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-16F28",
+  "type": "ransomware-incident",
+  "title": "Shlansky Law Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Shlansky Law Group",
+    "domain": "shlanskylawgroup.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Shlansky Law Group (SLG) is a business law firm based in Wilmington, Delaware, specializing in providing creative legal solutions for clients in various industries including aerospace, defense, IT, and biopharmaceuticals. Established in 1995, SLG's civil lawyers are skilled in handling complex business matters such as corporate governance, fiduciary duties, and contracts, focusing on achieving favorable outcomes for their clients. The firm's dedication to client service is characterized by a nimble and consistent approach that prioritizes the specific goals of each client. SLG offers extensive experience in civil litigation, helping clients navigate disputes effectively while ensuring robust legal representation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3335486ca19d81f3038f8d03116458d3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2hsyw5za3kgtgf3iedyb3vwqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-16 20:38:52.110000",
+    "disclosedDate": "2025-12-16 21:31:16.621531"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-20ED2",
+  "type": "ransomware-incident",
+  "title": "Rola Motor Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rola Motor Group",
+    "domain": "rola.co.za",
+    "country": "ZA"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.rola.co.za https://www.zoominfo.com/c/rola-motor-group/479741917 Rola Motor Group specializes in the sale of new, demo, and quality pre-owned vehicles, offering a seamless online finance pre-approval process. They provide services for buying and selling cars, as well as vehicle servicing across various brands. Their intended clients include individuals looking to purchase vehicles, sell their cars, or seek financing solutions. Established in 1963, Rola Motor Group is known for its exceptional customer service and a wide range of automotive solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um9sysbnb3rvcibhcm91ceb0agvnzw50bgvtzw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-20 17:57:12.000000",
+    "disclosedDate": "2026-01-20 19:06:21.139657"
+  }
+}

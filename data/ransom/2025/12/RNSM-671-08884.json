@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-671-08884",
+  "type": "ransomware-incident",
+  "title": "Nickman, DHK Architects, Profondia, Talbot & Associates, Fishbowl Solutions. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nickman, DHK Architects, Profondia, Talbot & Associates, Fishbowl Solutions.",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 24000000000,
+    "description": "We obtained about 24gb of data of the following companies:Nickman's Drug is a chain of five locally-owned community pharmacies located in Lemont and surrounding areas, dedicated to providing personalized, affordable pharmaceutical care.DHK Architects is an architecture and planning firm based in Boston, with offices in New York City and San Juan, PR.Profondia provides up-to-date data on the use of ICT in the Swissmarket.Talbot & Associates CPA is a bilingual accounting firm based in Manitoba, recognized as one of the top three accounting firms in Winnipeg.Fishbowl Solutions specializes in digital experience platforms, document management, and employee engagement services designed fororganizations seeking to streamline processes.You will find personal employee personal data, client information, numerous project files, accounting and financials and other internal operational files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmlja21hbiwgrehliefyy2hpdgvjdhmsifbyb2zvbmrpyswgvgfsym90icygqxnzb2npyxrlcywgrmlzagjvd2wgu29sdxrpb25zlkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-08 00:00:00.000000",
+    "disclosedDate": "2025-12-08 13:37:03.241428"
+  }
+}

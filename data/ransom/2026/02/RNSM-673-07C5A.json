@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-07C5A",
+  "type": "ransomware-incident",
+  "title": "Rella Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rella Associates",
+    "domain": "rella-associates.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "insomnia",
+    "name": "insomnia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rella Associates, P.C. provides legal help in Workers Compensation, Social Security Disability, and NYCERS for job injuries and illnesses. Led by Gerarda Rella and Michael Catallo, the Sleepy Hollow firm delivers personalized, aggressive representation and timely client communication.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/722c1689a2a087623620b87be663464f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvsbgegqxnzb2npyxrlc0bpbnnvbw5pyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-04 00:00:00.000000",
+    "disclosedDate": "2026-02-07 21:30:22.333340"
+  }
+}

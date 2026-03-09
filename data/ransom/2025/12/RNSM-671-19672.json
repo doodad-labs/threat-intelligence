@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-19672",
+  "type": "ransomware-incident",
+  "title": "reger-zahntechnik.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "reger-zahntechnik.de",
+    "domain": "reger-zahntechnik.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Reger Zahntechnik, formally registered in Nuremberg (Nürnberg), Germany as Walter Reger Zahntechnisches Labor GmbH, is a traditional dental laboratory specialising …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9cd5eef10c2625284f91a1322ccfcff7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cmvnzxitemfobnrly2huawsuzgvac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-19 18:48:04.580398",
+    "disclosedDate": "2025-12-19 18:48:17.198660"
+  }
+}

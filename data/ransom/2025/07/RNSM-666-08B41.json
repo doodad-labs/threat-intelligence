@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-666-08B41",
+  "type": "ransomware-incident",
+  "title": "Florida Hand Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Florida Hand Center",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "rhysida",
+    "name": "rhysida",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Florida Hand Center Florida Hand Center specializes in non-surgical and minimally invasive treatments for hand, wrist, and elbow conditions, serving patients in Punta Gorda, Port Charlotte, and Fort Myers, Florida.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ee5df1c728caee44f85d83d4c6f89785.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmxvcmlkysbiyw5kienlbnrlckbyahlzawrh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-08 15:26:55.324831",
+    "disclosedDate": "2025-07-08 15:26:57.670699"
+  }
+}

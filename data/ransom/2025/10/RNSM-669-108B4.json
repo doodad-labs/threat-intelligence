@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-108B4",
+  "type": "ransomware-incident",
+  "title": "portofuneralhomes.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "portofuneralhomes.net",
+    "domain": "portofuneralhomes.net",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Porto Funeral Homes (Porto / Porto Funeral Home) operates funeral and memorial services in New Haven County, Connecticut, with facilities …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b2a6e40ca1fbe5adbaa1740a3b6d2b76.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cg9ydg9mdw5lcmfsag9tzxmubmv0qhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-10 21:11:47.550151",
+    "disclosedDate": "2025-10-10 21:11:59.332022"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-666-164D6",
+  "type": "ransomware-incident",
+  "title": "Warisan TC Holdings Berhad ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Warisan TC Holdings Berhad",
+    "domain": "warisantc.com",
+    "country": "MY",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "crypto24",
+    "name": "crypto24",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "We have exfiltrated over 300GB of sensitive data, including Customer databases (all dbs of wtc - TOURPLAN, CRM, E-INVOICE,...),Legal and HR documents, Financial and employee records, Contractual documents with partners and customers.",
+    "claimed_data_types": [
+      "employee-records"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fyaxnhbibuqybib2xkaw5ncybczxjoywray3j5chrvmjq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-09",
+    "disclosedDate": "2025-07-16 16:27:16.133792"
+  }
+}

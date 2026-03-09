@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-244EF",
+  "type": "ransomware-incident",
+  "title": "Employer Solutions Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Employer Solutions Group",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 80000000000,
+    "description": "ESSG provides HR, payroll, and compliance solutions designed to streamline administrative tasks for businesses. Their services target employers of record seekers, staffing companies, and small tomedium-sized businesses, offering tailored assistance in payrollmanagement, employee benefits, and compliance regulations.We will upload almost 80gb of corporate data soon. Passports, Dls, SSNs and other information of more than 100 ppl, financials, HRfiles, client, partners information, NDAs and other confidentialfiles.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw1wbg95zxigu29sdxrpb25ziedyb3vwqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-24 00:00:00.000000",
+    "disclosedDate": "2026-02-24 12:36:32.100773"
+  }
+}

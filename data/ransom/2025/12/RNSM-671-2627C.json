@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-2627C",
+  "type": "ransomware-incident",
+  "title": "csd-drancy.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "csd-drancy.com",
+    "domain": "csd-drancy.com",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CENTRE DE SANTE DENTAIRE NOTRE ENGAGEMENT",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e7a3d1cb95a55cc9bf89f31d87e476f2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3nklwryyw5jes5jb21abg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-25 15:07:00.000000",
+    "disclosedDate": "2025-12-26 15:30:40.756972"
+  }
+}

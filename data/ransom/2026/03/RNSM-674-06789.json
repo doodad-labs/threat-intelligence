@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-674-06789",
+  "type": "ransomware-incident",
+  "title": "MyFair ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MyFair",
+    "domain": "myfair.co",
+    "country": "KR"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Price ??? Disclosures 0/1",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txlgywlyqgtpbgxzzwm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-06 03:10:45.156125",
+    "disclosedDate": "2026-03-06 03:10:46.154419"
+  }
+}

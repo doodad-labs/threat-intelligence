@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-671-260D7",
+  "type": "ransomware-incident",
+  "title": "Progressive Laboratories ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Progressive Laboratories",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Progressive Laboratories, Inc. specializes in producing targeted nutritional supplements specifically for healthcare professionals.We will upload corporate data soon. Financials, employees files, projects, contracts and agreements, NDAs and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjvz3jlc3npdmugtgfib3jhdg9yawvzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-26 00:00:00.000000",
+    "disclosedDate": "2025-12-26 13:40:35.479926"
+  }
+}

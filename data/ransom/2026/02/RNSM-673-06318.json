@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-06318",
+  "type": "ransomware-incident",
+  "title": "Wells Fargo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wells Fargo",
+    "domain": "fargo.co.ke",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "fargo.co.ke zoominfo.com/c/wells-fargo-ltd/430303869 Wells Fargo offers comprehensive domestic and corporate security services in Kenya, including guard services, electronic security, fire prevention, valuables in transit, and event security. The company aims to be the preferred supplier of security solutions in Eastern Africa, focusing on innovation and customer satisfaction. With a commitment to adapting to the evolving security landscape, Wells Fargo utilizes advanced technology",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vsbhmgrmfyz29adghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-06 18:47:09.000000",
+    "disclosedDate": "2026-02-06 20:09:26.789089"
+  }
+}

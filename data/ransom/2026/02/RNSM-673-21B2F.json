@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-21B2F",
+  "type": "ransomware-incident",
+  "title": "Sawafi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sawafi",
+    "domain": "sawafi.com",
+    "country": "SA",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "sawafi.com zoominfo.com/c/sawafi-co/402330352 Sawafi is a Saudi Arabian company specializing in drilling, completions, and production services tailored to enhance oil and gas performance. With a commitment to innovation and sustainability, the company offers a variety of advanced technologies, including eco-friendly electric submersible pumps (ESP) and efficient drilling products. Targeting clients in the oil and gas sector, Sawafi is dedicated to supporting local value creation and self-sufficiency in line with national goals. The company also invests in strategic partnerships and acquisitions to bolster its service capabilities and market presence",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2f3ywzpqhrozwdlbnrszw1lbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-21 09:23:45.000000",
+    "disclosedDate": "2026-02-21 19:17:58.536119"
+  }
+}

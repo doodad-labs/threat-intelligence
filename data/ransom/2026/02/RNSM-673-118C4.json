@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-118C4",
+  "type": "ransomware-incident",
+  "title": "Mississippi Market ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mississippi Market",
+    "domain": "msmarket.coop",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8139a3f24f2b06a33ad410b3bd064952.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twlzc2lzc2lwcgkgtwfya2v0qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-11 06:22:06.615949",
+    "disclosedDate": "2026-02-11 06:22:21.299803"
+  }
+}

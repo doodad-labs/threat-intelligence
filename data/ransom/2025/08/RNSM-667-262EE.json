@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-262EE",
+  "type": "ransomware-incident",
+  "title": "SystemExec Co., Ltd. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SystemExec Co., Ltd.",
+    "domain": "system-exe.co.jp",
+    "country": ""
+  },
+  "actor": {
+    "id": "cephalus",
+    "name": "cephalus",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SystemExec Co., Ltd. (システムエグゼ) GitLab naked repo leak | 30G+",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/04749a29f0cdff281cab7242b2d22c89.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3lzdgvtrxhlyybdby4siex0zc5ay2vwagfsdxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-26 14:43:39",
+    "disclosedDate": "2025-08-26 14:44:13.444706"
+  }
+}

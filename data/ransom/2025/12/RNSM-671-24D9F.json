@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-24D9F",
+  "type": "ransomware-incident",
+  "title": "polhun.pl ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "polhun.pl",
+    "domain": "polhun.pl",
+    "country": "PL"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "POL-HUN is a well-established Polish manufacturer and distributor of household cleaning products and consumer chemicals. Founded in 1990, the company …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ee09053db35679c9825a621cfe6288eb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cg9sahvulnbsqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 21:23:30.215513",
+    "disclosedDate": "2025-12-24 21:23:43.358297"
+  }
+}

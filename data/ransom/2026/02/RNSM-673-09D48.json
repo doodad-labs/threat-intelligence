@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-09D48",
+  "type": "ransomware-incident",
+  "title": "Augusta Housing Authority ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Augusta Housing Authority",
+    "domain": "augustapha.org",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/12965e8e7c6e58dfe7c2be1492a7ee0e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxvndxn0ysbib3vzaw5nief1dghvcml0eubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-09 18:00:10.228043",
+    "disclosedDate": "2026-02-09 18:00:30.350935"
+  }
+}

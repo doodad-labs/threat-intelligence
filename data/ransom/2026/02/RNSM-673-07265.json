@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-07265",
+  "type": "ransomware-incident",
+  "title": "Carlyle Senior Care of Florence ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Carlyle Senior Care of Florence",
+    "domain": "carlyleflorence.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "insomnia",
+    "name": "insomnia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CSC, a respected private nursing home, delivers high-quality skilled nursing, memory care, rehabilitation, medication management, assistance with ADLs, nutritious meals, social programs, and end-of-life care in a supportive, community-driven environment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/be37ae630728a4fb915fcbd6af51e36d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fybhlszsbtzw5pb3igq2fyzsbvzibgbg9yzw5jzubpbnnvbw5pyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-31 00:00:00.000000",
+    "disclosedDate": "2026-02-07 21:31:42.795268"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-24D52",
+  "type": "ransomware-incident",
+  "title": "greenhouseapt.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "greenhouseapt.com",
+    "domain": "greenhouseapt.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Greenhouse is an apartment building and management/letting operation in Boston’s Back Bay / South End that offers 1–3 bedroom …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/47c916aba9c6e5fa048e400496b311a0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jlzw5ob3vzzwfwdc5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-24 21:22:09.003915",
+    "disclosedDate": "2025-10-24 21:22:22.146043"
+  }
+}

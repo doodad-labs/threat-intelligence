@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-162EE",
+  "type": "ransomware-incident",
+  "title": "Mercury Wire Products ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mercury Wire Products",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mercury Wire is a manufacturer specializing in innovative custom wire, cable, and engineered assemblies since 1967. They provide tailored solutions by understanding client needs and employing lean processes, focusing on collaboration and high-value outputs. Their products serve a wide range of industries, including industrial, medical, military, and defense, as well as specific applications like underwater cable. The company is committed to building lasting relationships with clients through dedicated problem-solving and extensive material resources.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/854d6d12a5a8926fa9a52419741036d4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvyy3vyesbxaxjlifbyb2r1y3rzqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-16 21:22:15.107000",
+    "disclosedDate": "2025-12-16 21:29:22.526872"
+  }
+}

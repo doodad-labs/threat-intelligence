@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-0690C",
+  "type": "ransomware-incident",
+  "title": "www.landmarkmgtinc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.landmarkmgtinc.com",
+    "domain": "landmarkmgtinc.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Landmark Management, Inc., manages 90 projects, consisting of 2,462 units across 5 states. Whether you are searching for an apartment to rent or a reliable company to manage your rural development property, let us put our thirty-six years of             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f9519a886599138aadddb020a6be20ad.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmxhbmrtyxjrbwd0aw5jlmnvbubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-19 00:00:00.000000",
+    "disclosedDate": "2025-10-06 18:19:52.907657"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-30698",
+  "type": "ransomware-incident",
+  "title": "RPI Roofing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RPI Roofing",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 90000000000,
+    "description": "RPI Roofing specializes in providing professional commercial roofing services for businesses in the southeastern United States.We will upload 90gb of corporate documents soon. Detailed employee information (addresses, phones, DOB, driver licenses, social security cards and so on), financial information, internal confidential files, NDA, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ulbjifjvb2zpbmdaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-30 00:00:00.000000",
+    "disclosedDate": "2025-10-30 11:12:18.436746"
+  }
+}

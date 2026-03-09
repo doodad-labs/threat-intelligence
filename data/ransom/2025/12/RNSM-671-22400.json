@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-671-22400",
+  "type": "ransomware-incident",
+  "title": "k*v*.fi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "k*v*.fi",
+    "country": ""
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HR data",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc654c1e2d252ab393a435186dfc3205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ayp2ki5maubkzxztyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-22 15:47:44.880737",
+    "disclosedDate": "2025-12-22 15:48:44.525385"
+  }
+}

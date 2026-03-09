@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-2413F",
+  "type": "ransomware-incident",
+  "title": "www.hansemerkurintl.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.hansemerkurintl.com",
+    "domain": "hansemerkurintl.com",
+    "country": "DE",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HanseMerkur, founded in 1875 and headquartered in Germany, is an insurance company specializing in health insurance and other insurance products. The company offers customized insurance solutions with a focus on quality service and competitive pricing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/582356768ac37f8756db3d4ee805db27.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmhhbnnlbwvya3vyaw50bc5jb21azhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-24 06:47:09.481709",
+    "disclosedDate": "2026-01-24 07:37:06.585819"
+  }
+}

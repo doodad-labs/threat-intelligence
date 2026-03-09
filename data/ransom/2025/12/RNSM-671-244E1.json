@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-244E1",
+  "type": "ransomware-incident",
+  "title": "nhpsa.com.ar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nhpsa.com.ar",
+    "domain": "nhpsa.com.ar",
+    "country": "AR"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "NHPSA — formally New High Pack S.A. — is an Argentine packaging manufacturer and supplier based in Benavídez, Tigre, Province …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5eef658cffc8d0646d72385234fdad60.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmhwc2euy29tlmfyqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 21:21:37.320787",
+    "disclosedDate": "2025-12-24 21:21:49.788161"
+  }
+}

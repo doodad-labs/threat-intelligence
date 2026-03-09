@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-07F9E",
+  "type": "ransomware-incident",
+  "title": "KIER.CO.UK ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KIER.CO.UK",
+    "domain": "kier.co.uk",
+    "country": "GB",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] KIER.CO.UK is a leading construction, property, and residential and infrastructure company in the UK. It operates across a range of sectors including defence, transportation, health, education, and utilities. The company offers services such as construction and civil engineering, maintenance and refurbishment. It is responsible for many landmark projects and also aims to make a positive difference in the areas it operates.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc5e60011e19816f4c65c2f61e5573b3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0lfui5dty5vs0bjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-07 14:38:54.864104",
+    "disclosedDate": "2025-11-07 14:39:10.675127"
+  }
+}

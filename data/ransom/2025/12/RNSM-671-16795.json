@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-16795",
+  "type": "ransomware-incident",
+  "title": "aspenviewacademy.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aspenviewacademy.org",
+    "domain": "aspenviewacademy.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Aspen View Academy is a charter school located in Castle Rock, Colorado, serving students from pre-kindergarten through 8th grade. Founded …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0e57d377d17d5f3ca9093f0dfb5a8216.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxnwzw52awv3ywnhzgvtes5vcmdac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-16 21:27:44.296380",
+    "disclosedDate": "2025-12-16 21:27:57.381830"
+  }
+}

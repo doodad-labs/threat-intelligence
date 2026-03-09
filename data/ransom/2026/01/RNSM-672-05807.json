@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-05807",
+  "type": "ransomware-incident",
+  "title": "crawfordorthodontics.net ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "crawfordorthodontics.net",
+    "domain": "crawfordorthodontics.net",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Crawford Orthodontics",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7a5f9ecf7753a336a33e06c6cf3d0f06.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3jhd2zvcmrvcnrob2rvbnrpy3mubmv0qgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 15:09:09.563000",
+    "disclosedDate": "2026-01-05 15:15:50.172065"
+  }
+}

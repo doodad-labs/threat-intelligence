@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-14F85",
+  "type": "ransomware-incident",
+  "title": "aysa.com.ar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aysa.com.ar",
+    "domain": "aysa.com.ar",
+    "country": "AR"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "AYSA, formally known as Agua y Saneamientos Argentinos Sociedad Anónima, is Argentina’s largest state-owned water and sanitation utility, responsible for …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/56282632af23a885b42acd66fee2e5a7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxlzys5jb20uyxjac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-14 20:38:09.930074",
+    "disclosedDate": "2025-12-14 20:38:26.660790"
+  }
+}

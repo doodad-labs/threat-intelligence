@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-24B92",
+  "type": "ransomware-incident",
+  "title": "Harvard University ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Harvard University",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "shinyhunters",
+    "name": "shinyhunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1100000000,
+    "description": "Size: 1.1GB (compressed) | Updated: 04 Feb 2026 | Note: Make the right decision, don't be the next headline. | This is the direct result of advisors advising you against paying a ransom. It has the opposite effect. Do NOT provoke us again and pay the ransom when we contact you.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgfydmfyzcbvbml2zxjzaxr5qhnoaw55ahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-04 11:10:00.000000",
+    "disclosedDate": "2026-02-24 12:13:41.650816"
+  }
+}

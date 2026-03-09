@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-666-18114",
+  "type": "ransomware-incident",
+  "title": "Polykar ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Polykar",
+    "country": "CA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 16000000000,
+    "description": "Polykar is an innovative manufacturer of sustainable flexible packaging solutions, offering products that are 100% recyclable or compostable.We are ready to upload 16 GB of corporate documents. Detailed financial data, client data, payment details, forms with personal information and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ug9sewthckbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-18 00:00:00.000000",
+    "disclosedDate": "2025-07-18 14:38:56.621262"
+  }
+}

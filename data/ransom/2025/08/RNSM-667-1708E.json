@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-1708E",
+  "type": "ransomware-incident",
+  "title": "clearybuilding.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "clearybuilding.us",
+    "domain": "clearybuilding.us",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "warlock",
+    "name": "warlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "all data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2xlyxj5ynvpbgrpbmcudxnad2fybg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-17 09:17:33.572711",
+    "disclosedDate": "2025-08-17 09:17:35.554133"
+  }
+}

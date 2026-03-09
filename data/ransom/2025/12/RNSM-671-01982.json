@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-01982",
+  "type": "ransomware-incident",
+  "title": "Hollysys Asia Pacific ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hollysys Asia Pacific",
+    "domain": "hollysys.com",
+    "country": "SG",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "crypto24",
+    "name": "crypto24",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Hollysys Asia Pacific is part of Hollysys Automation Technologies Ltd, a leading provider of industrial and rail transportation automation solutions. Its core businesses include industrial automation, rail transportation, and mechanical and electrical solutions. The company utilizes advanced technologies in industrial automation and control, digital rail signaling, and mechanical and electrical solutions to address modern industrial operations and infrastructure requirements.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9sbhlzexmgqxnpysbqywnpzmljqgnyexb0bzi0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-01 07:11:58.953577",
+    "disclosedDate": "2025-12-01 07:12:03.332537"
+  }
+}

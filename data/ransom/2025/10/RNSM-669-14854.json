@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-669-14854",
+  "type": "ransomware-incident",
+  "title": "Ostrolenk Faber ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ostrolenk Faber",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 43000000000,
+    "description": "Ostrolenk Faber LLP is a premier intellectual property boutique law firm that has been specializing in domestic and international intellectual property legal matters since 1929.We are ready to upload more than 43gb of corporate documents. Employees personal documents, scans of customer documents (SSNs, name, DOB, address and so on), project files, lots of client information, financials, confidential project files, contracts and agreements, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t3n0cm9szw5riezhymvyqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-14 00:00:00.000000",
+    "disclosedDate": "2025-10-14 15:38:31.272520"
+  }
+}

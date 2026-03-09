@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-674-09020",
+  "type": "ransomware-incident",
+  "title": "Hauri AG Staffelbach ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hauri AG Staffelbach",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 100000000000,
+    "description": "Hauri AG is a carpentry company based in Staffelbach, specializing in high-quality kitchens, windows, doors, bathrooms, and interior fittings. They serve clients in the Aargau and Bern regions, offering a range of services including renovations and custom woodworking.We will upload almost 100gb of corporate data soon. Detailed employee files, customer information, financials, partner informationand so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgf1cmkgqucgu3rhzmzlbgjhy2haywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-09 00:00:00.000000",
+    "disclosedDate": "2026-03-09 18:36:00.967811"
+  }
+}

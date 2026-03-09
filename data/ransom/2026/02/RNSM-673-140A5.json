@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-140A5",
+  "type": "ransomware-incident",
+  "title": "sosltda.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "sosltda.com",
+    "domain": "sosltda.com",
+    "country": "CO"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "S.O.S. Ltda is a leading security solutions provider in Colombia, established in 1957. They speciali...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9209b5f195dc1a161eafc63f85ad1ce9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c29zbhrkys5jb21abg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-12 09:05:00.000000",
+    "disclosedDate": "2026-02-14 11:06:56.681263"
+  }
+}

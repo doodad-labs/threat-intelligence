@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-29710",
+  "type": "ransomware-incident",
+  "title": "Wright-Gardner Insurance ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Wright-Gardner Insurance",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 12000000000,
+    "description": "Wright-Gardner Agency offers customized insurance solutions for individuals and businesses, including home, auto, life, and commercial insurance options.We will upload more than 12gb of corporate documents soon. Clients and customers information (financials, contacts, contracts), detailed employee information (DOB, driver licenses, phones, addresses, emails, emergency contacts and so on), lots of confidential files, contracts and agreements, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v3jpz2h0ludhcmruzxigsw5zdxjhbmnlqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-29 00:00:00.000000",
+    "disclosedDate": "2025-10-29 14:06:53.118102"
+  }
+}

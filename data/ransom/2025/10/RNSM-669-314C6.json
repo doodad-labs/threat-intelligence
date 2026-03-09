@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-314C6",
+  "type": "ransomware-incident",
+  "title": "CCI Tax Pros, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CCI Tax Pros, Inc",
+    "domain": "ccitaxpros.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "blackshrantac",
+    "name": "blackshrantac",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] CCI Tax Pros, Inc., based in Virginia, USA, is a consulting company that specializes in providing comprehensive tax and financial services to both businesses and individual clients. Their services range from personal tax planning, professional tax return preparation, and representation before tax authorities, to business tax management and strategic planning. Their team comprises of experienced accountants and financial advisors who strive to maximize their clients' savings and returns.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fe7f9abc3dc5e469f3aa5a5751477ba8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0njifrhecbqcm9zlcbjbmnaymxhy2tzahjhbnrhyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-31 08:14:36.969206",
+    "disclosedDate": "2025-10-31 08:15:07.540363"
+  }
+}

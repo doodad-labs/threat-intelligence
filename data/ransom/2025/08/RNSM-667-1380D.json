@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-667-1380D",
+  "type": "ransomware-incident",
+  "title": "Ahtna Incorporated ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ahtna Incorporated",
+    "domain": "ahtna.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ahtna Inc., provides construction and integrated services. The company is headquartered in Glennallen, Alaska. Ahtna, Incorporated is Alaska Native Regional Corporations established by Congress under terms of the Alaska Native Claims Settleme            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1a3667ebb542c7d4b26b0ff49b5d4f24.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwh0bmegsw5jb3jwb3jhdgvkqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/19faead7-93ae-4b79-a4e7-1f563623828f.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-12 00:00:00.000000",
+    "disclosedDate": "2025-08-13 11:06:42.109244"
+  }
+}

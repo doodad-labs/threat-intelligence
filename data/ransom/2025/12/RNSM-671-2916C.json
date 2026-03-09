@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-2916C",
+  "type": "ransomware-incident",
+  "title": "estrumar.es ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "estrumar.es",
+    "domain": "estrumar.es",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Metálicas Estrumar is a Spanish metal fabrication and structural engineering company headquartered in Burgos, Castilla y León, Spain. It is …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ce40ddf5d14161b6314da474f16a71d9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxn0cnvtyxiuzxnac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-29 20:09:00.446227",
+    "disclosedDate": "2025-12-29 20:09:13.436078"
+  }
+}

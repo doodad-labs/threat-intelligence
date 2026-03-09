@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-25DCE",
+  "type": "ransomware-incident",
+  "title": "KOROLFINANCIAL.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KOROLFINANCIAL.COM",
+    "domain": "korolfinancial.com",
+    "country": "",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/886eac17911e5c05ad360da320a99ebf.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s09st0xgsu5btknjquwuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 14:55:44.214818",
+    "disclosedDate": "2026-01-25 14:55:57.173116"
+  }
+}

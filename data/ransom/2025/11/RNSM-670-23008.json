@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-23008",
+  "type": "ransomware-incident",
+  "title": "Cal-Comp Electronics Public ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cal-Comp Electronics Public",
+    "domain": "cal-comp.com.mx",
+    "country": "MX",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ce11d5ae363b76722697797dd079e9d6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fslunvbxagrwxly3ryb25py3mguhvibgljqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-23 18:45:46.433950",
+    "disclosedDate": "2025-11-23 18:46:02.450980"
+  }
+}

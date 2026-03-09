@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-27238",
+  "type": "ransomware-incident",
+  "title": "nbccministries.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nbccministries.org",
+    "domain": "nbccministries.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "New Beginnings Church is a company that operates in the Religious Organizations industry. It employs 5to9 people and has under500K of revenue. The company is headquartered in Matthews, North Carolina.\r Employees: 25\r Revenue: $5 Million\r Industry: Organizations \r Phone Number: (704) 567-2900",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a455e7ad25bd1e8b653e6d673467e1dd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmjjy21pbmlzdhjpzxmub3jnqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-27 14:48:00.000000",
+    "disclosedDate": "2026-01-27 23:40:51.522254"
+  }
+}

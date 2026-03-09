@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-06FA5",
+  "type": "ransomware-incident",
+  "title": "bennett.edu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bennett.edu",
+    "domain": "bennett.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Bennett College is a liberal arts college located in North Carolina, dedicated to empowering women through education. The institution offers a unique microcollege model that emphasizes personal attention and support for students, including high school, veterans, and first-generation college students. With a focus on equity in various fields such as health, education, and the environment, Bennett College prepares its students for successful careers and global citizenship. The college is recognized for its strong retention rates and innovative academic programs, including a Minimester model that enhances learning accessibility.\r Employees: 200\r Revenue: $20.9 Million\r Industry: Colleges & Universities\r Phone Number: (336) 517-2100",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymvubmv0dc5lzhvaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-05 23:59:00.000000",
+    "disclosedDate": "2025-12-06 00:17:47.586406"
+  }
+}

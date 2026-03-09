@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-08395",
+  "type": "ransomware-incident",
+  "title": "Nadel Architects ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nadel Architects",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 472000000000,
+    "description": "Nadel Architects has been a leader in comprehensive architecture design and planning services for over 50 years, known for their creativity, integrity, and cost-effective solutions.We are ready to upload 472gb of corporate data. Personal information of employees (passports and other information), agreements and contracts, confidential project files, financials, NDAs, and soon.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmfkzwwgqxjjagl0zwn0c0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-08 00:00:00.000000",
+    "disclosedDate": "2025-12-08 14:47:49.988449"
+  }
+}

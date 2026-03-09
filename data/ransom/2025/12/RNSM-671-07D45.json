@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-671-07D45",
+  "type": "ransomware-incident",
+  "title": "milanoristorazione.it ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "milanoristorazione.it",
+    "domain": "milanoristorazione.it",
+    "country": "IT",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "La Food Policy è la politica alimentare della città. Rappresenta uno strumento di supporto al govern...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5001313737dbe9a7b4c086d7dbc615cc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwlsyw5vcmlzdg9yyxppb25llml0qgxvy2tiaxq1",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.ilgiorno.it/milano/cronaca/ristorazione-malware-u03il66z",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-05 23:54:00.000000",
+    "disclosedDate": "2025-12-07 10:24:33.220053"
+  }
+}

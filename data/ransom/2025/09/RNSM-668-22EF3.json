@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-22EF3",
+  "type": "ransomware-incident",
+  "title": "PTR ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PTR",
+    "domain": "ptrco.com",
+    "country": "CN",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e8b401d14a91abefaeaafd6c61f65288.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ufrsqhbsyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-12 00:00:00.000000",
+    "disclosedDate": "2025-09-22 20:18:18.555095"
+  }
+}

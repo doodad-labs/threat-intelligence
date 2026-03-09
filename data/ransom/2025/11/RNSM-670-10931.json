@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-10931",
+  "type": "ransomware-incident",
+  "title": "CapitalPlus Exchange ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CapitalPlus Exchange",
+    "domain": "capitalplusexchange.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CapitalPlus Exchange (CapPlus) supports financial institutions in emerging economies by enhancing their strategic and operational capacities, offering training and innovative financing solutions for small and medium enterprises (SMEs). Through initiatives like the Education Markets Impact Initiative (EMII) and FIRST+, CapPlus helps to unlock education finance markets and catalyze job creation in sectors such as agriculture by improving access to finance. CapPlus partners with local institutions to tailor financial services, focusing on underserved demographics such as women and youth. With nearly two decades of experience, CapPlus aims to reduce poverty by expanding financial services for small businesses.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/abf1cf9bd485a2146d72ff1bd9df7261.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fwaxrhbfbsdxmgrxhjagfuz2vac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-09 20:07:18.635000",
+    "disclosedDate": "2025-11-10 00:52:48.450198"
+  }
+}

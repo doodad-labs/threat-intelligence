@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-155CF",
+  "type": "ransomware-incident",
+  "title": "SFA Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SFA Engineering",
+    "domain": "sfa.co.kr",
+    "country": "KR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "underground",
+    "name": "underground",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Revenue: $1.7 Billion Type: Industry Size: 2,3 TBytes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/635f658341601e41d575c3cb5f188300.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0zbievuz2luzwvyaw5nqhvuzgvyz3jvdw5k",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-15 12:48:00.000000",
+    "disclosedDate": "2025-08-15 14:03:57.684917"
+  }
+}

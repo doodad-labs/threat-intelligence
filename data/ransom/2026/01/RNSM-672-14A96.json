@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-14A96",
+  "type": "ransomware-incident",
+  "title": "Chemirol ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Chemirol",
+    "domain": "chemirol.com",
+    "country": "PL",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "payoutsking",
+    "name": "payoutsking",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Chemirol is a Polish company acknowledged in the agricultural market for offering a wide variety of services including purchase of agricultural produce, supply of fertilizers, and fuel. It also engages in grain trading, milling, oil industry and provides financial consulting to farmers. The company has been operating since 1992 with the purpose of supporting the growth and advancement of Polish agriculture.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/65c65f01e93f4b22a32425153564c785.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hlbwlyb2xacgf5b3v0c2tpbmc=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-27 00:00:00.000000",
+    "disclosedDate": "2026-01-14 21:38:25.283934"
+  }
+}

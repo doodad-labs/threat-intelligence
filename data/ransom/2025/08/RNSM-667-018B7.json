@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-018B7",
+  "type": "ransomware-incident",
+  "title": "chamberlainhuckeriede.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "chamberlainhuckeriede.com",
+    "domain": "chamberlainhuckeriede.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Chamberlain Huckeriede Funeral Home is a family-owned and operated business based in Lima, Ohio. They've been serving the community for over 100 years, offering a range of services including traditional funerals, cremations, and pre-planned funerals. They are known for providing compassionate and personalized services tailored to the individual needs of each family.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6d0860de2eb1d4afdc2aabd641dafaa4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2hhbwjlcmxhaw5odwnrzxjpzwrllmnvbubzywzlcgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-14 00:00:00.000000",
+    "disclosedDate": "2025-08-01 19:27:13.641688"
+  }
+}

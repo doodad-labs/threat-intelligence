@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-12EED",
+  "type": "ransomware-incident",
+  "title": "A1 Capital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "A1 Capital",
+    "domain": "a1capital.com.tr",
+    "country": "TR"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A1 Capital offers specialized solutions in various fields of capital markets, including equity, Eurobond, Futures and Options (Viop), investment consultancy, portfolio management, and public offerings. The company aims to serve clients looking for comprehensive financial services and personalized investment strategies. They provide various platforms and tools for trading and investment analysis. A1 Capital also runs promotional campaigns to enhance investor experience and engagement.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e7872e52fdb28b1e507a3d83936aefea.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qtegq2fwaxrhbebkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-12 16:43:31.662833",
+    "disclosedDate": "2026-02-12 16:55:01.590023"
+  }
+}

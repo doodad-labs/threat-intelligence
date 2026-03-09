@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-091F9",
+  "type": "ransomware-incident",
+  "title": "McKenna Pro ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "McKenna Pro",
+    "domain": "mckennapro.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a1c593fbd757a71c62e74341d080a67f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twnlzw5uysbqcm9acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-09 19:26:46.772231",
+    "disclosedDate": "2026-03-09 19:27:06.427861"
+  }
+}

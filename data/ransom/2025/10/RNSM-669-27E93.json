@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-27E93",
+  "type": "ransomware-incident",
+  "title": "Maki Building Centers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Maki Building Centers",
+    "domain": "makicorp.com",
+    "country": "",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "interlock",
+    "name": "interlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Maki Building Centers is a company engaged in commerce and manufacturing with three branches in central Massachusetts. The company has warehouses, manufacturing facilities, large volumes, and financial resources! Security was very low, and the entire system was successfully compromised and taken over. Company, employee, and customer data ended up in our hands and, accordingly, in the public!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d50b6a0d32e63339fed6c21538edee57.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfrasbcdwlszgluzybdzw50zxjzqgludgvybg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-27 15:47:48.518761",
+    "disclosedDate": "2025-10-27 15:48:11.849159"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-27228",
+  "type": "ransomware-incident",
+  "title": "The Smile Spa ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "The Smile Spa",
+    "domain": "drrussosmilespa.com",
+    "country": "CA",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "At the Smile Spa in Baton Rouge, LA, Dr. Aimee Russo-Mounger provides a variety of dental and spa services. Schedule a dentist appointment or fun spa day.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0461ce5ac9edb4913f414db37f2ed08b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghlifntawxlifnwyubkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-27 14:28:23.374487",
+    "disclosedDate": "2025-08-27 14:47:14.999502"
+  }
+}

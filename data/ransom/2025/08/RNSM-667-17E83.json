@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-17E83",
+  "type": "ransomware-incident",
+  "title": "hitachi-hta.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hitachi-hta.com",
+    "domain": "hitachi-hta.com",
+    "country": "JP",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "warlock",
+    "name": "warlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "all data",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agl0ywnoas1odgeuy29tqhdhcmxvy2s=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-17 09:18:22.468552",
+    "disclosedDate": "2025-08-17 09:18:23.672512"
+  }
+}

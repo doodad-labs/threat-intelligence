@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-0395F",
+  "type": "ransomware-incident",
+  "title": "Lawrence Journal - World ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lawrence Journal - World",
+    "domain": "ljworld.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lawrence Journal-World is a news organization based in Lawrence, Kansas, providing coverage on diverse topics including news, sports, opinion, and community events. The publication offers a platform for local announcements, classified ads, and job listings, catering primarily to residents and the surrounding community. It also features educational insights and updates relevant to local schools and government activities. Target clients include local residents, businesses, and those interested in Lawrence's happenings.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/30cb7277995ca4419ea5ae3125bdd210.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgf3cmvuy2ugsm91cm5hbcatifdvcmxkqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-03 21:24:09.467197",
+    "disclosedDate": "2026-03-03 22:37:31.766123"
+  }
+}

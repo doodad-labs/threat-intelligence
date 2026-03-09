@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-25432",
+  "type": "ransomware-incident",
+  "title": "Zaner Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Zaner Group",
+    "domain": "zaner.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "insomnia",
+    "name": "insomnia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Zaner, a family-owned brokerage since 1980, provides global commodities risk-management, advisory, research, and trading tech. Serving futures, metals, currencies, energies and agriculture, they offer hedging, precious metals solutions, competitive pricing.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4a50f1e34fbd2fa25153e5a408a778aa.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wmfuzxigr3jvdxbaaw5zb21uawe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-04 00:00:00.000000",
+    "disclosedDate": "2026-02-25 15:09:25.386219"
+  }
+}

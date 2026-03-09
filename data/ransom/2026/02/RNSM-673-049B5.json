@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-673-049B5",
+  "type": "ransomware-incident",
+  "title": "brooklyn group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "brooklyn group",
+    "domain": "brooklyngroup.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Price ??? Disclosures 0/1",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjvb2tsew4gz3jvdxbaa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-04 23:10:02.383202",
+    "disclosedDate": "2026-02-04 23:10:03.937238"
+  }
+}

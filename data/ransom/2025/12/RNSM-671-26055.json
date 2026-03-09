@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-26055",
+  "type": "ransomware-incident",
+  "title": "zszeleznice.cz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "zszeleznice.cz",
+    "domain": "zszeleznice.cz",
+    "country": "CZ",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Masarykova základní škola a mateřská škola, Železnice",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d612825af463296b796003b445aca45f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/enn6zwxlem5py2uuy3pabg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-26 05:17:00.000000",
+    "disclosedDate": "2025-12-26 15:46:54.685884"
+  }
+}

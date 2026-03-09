@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-10FCC",
+  "type": "ransomware-incident",
+  "title": "bridgenetcommunicationsrgv.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bridgenetcommunicationsrgv.com",
+    "domain": "bridgenetcommunicationsrgv.com",
+    "country": "US",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BridgeNet Communications is a regional low-voltage and structured-cabling specialist serving the Rio Grande Valley and parts of Central Texas. The …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ce80d2830881f2536ef27aa5993bec12.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjpzgdlbmv0y29tbxvuawnhdglvbnnyz3yuy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-10 21:13:11.711173",
+    "disclosedDate": "2025-10-10 21:13:24.146175"
+  }
+}

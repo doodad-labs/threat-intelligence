@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-1147D",
+  "type": "ransomware-incident",
+  "title": "Public Safety Mutual Benefit Fund ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Public Safety Mutual Benefit Fund",
+    "domain": "psmbfi.com.ph",
+    "country": "PH",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Public Safety Mutual Benefit Fund, Inc. (PSMBFI) is a non-stock, non-profit mutual benefit fund association dedicated to providing life insurance protection and financial assistance to its members, including personnel from various public safety agencies in the Philippines. Its services include various insurance plans, loans, and benefits tailored specifically for public safety practitioners, both uniformed and civilian. PSMBFI ensures timely releases of cash advances to beneficiaries for funeral expenses and processes full claims efficiently.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/554fc72ef858bc14121b2bb5b8da1d60.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhvibgljifnhzmv0esbndxr1ywwgqmvuzwzpdcbgdw5kqhjhbnnvbwhvdxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-04 00:00:00.000000",
+    "disclosedDate": "2025-11-11 14:20:11.512271"
+  }
+}

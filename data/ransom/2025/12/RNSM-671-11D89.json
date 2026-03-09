@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-11D89",
+  "type": "ransomware-incident",
+  "title": "Iroquois Memorial Hospital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Iroquois Memorial Hospital",
+    "domain": "iroquoismemorial.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "pear",
+    "name": "pear",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cost-efficient, high quality, consumer-responsive health care services",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6f7ba887e8bd3c6db03b7ad74273e5c6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sxjvcxvvaxmgtwvtb3jpywwgsg9zcgl0ywxacgvhcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-25 00:00:00.000000",
+    "disclosedDate": "2025-12-11 21:44:02.184643"
+  }
+}

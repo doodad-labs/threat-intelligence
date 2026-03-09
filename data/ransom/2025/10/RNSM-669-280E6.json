@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-280E6",
+  "type": "ransomware-incident",
+  "title": "romar industrial company limited ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "romar industrial company limited",
+    "domain": "romar.co.th",
+    "country": "HK",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "romar industrial company limited",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cm9tyxigaw5kdxn0cmlhbcbjb21wyw55igxpbwl0zwrabmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-26 00:00:00.000000",
+    "disclosedDate": "2025-10-28 15:43:12.846029"
+  }
+}

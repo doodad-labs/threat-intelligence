@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-14F67",
+  "type": "ransomware-incident",
+  "title": "Comprehensive Pain Centers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Comprehensive Pain Centers",
+    "domain": "comprehensivepaincenters.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We operate on a wellness-based system. We offer you medical care services that are local to your community at your work site, educational institution, senior care facility, mall, etc. We offer subscription-based plans that can be used as a replacement for and as a supplement to existing medical care services. No travel to a clinic. No fuss, no hassle, just you and your doctor.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bcb5df24441138a8d4dd7d61a25be9af.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tchjlagvuc2l2zsbqywluienlbnrlcnnac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-13 07:47:27.363000",
+    "disclosedDate": "2025-08-14 00:40:26.034178"
+  }
+}

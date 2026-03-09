@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-191F6",
+  "type": "ransomware-incident",
+  "title": "springersjewelers.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "springersjewelers.com",
+    "domain": "springersjewelers.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Springer’s Jewelers is a historic family-owned jewelry retailer based in Portland, Maine, with additional store locations in Bath, Maine and …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6ce4e4e90115dd190acbf10f1d554630.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3byaw5nzxjzamv3zwxlcnmuy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-19 18:47:29.749282",
+    "disclosedDate": "2025-12-19 18:47:42.157712"
+  }
+}

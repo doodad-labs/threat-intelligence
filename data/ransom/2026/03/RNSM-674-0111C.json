@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-0111C",
+  "type": "ransomware-incident",
+  "title": "yaomazi.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "yaomazi.com",
+    "domain": "yaomazi.com",
+    "country": "CN"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Yaomazi Food Co. LTD is located in Hongya, the hometown of Chinese green pepper. After more than 10...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/971df92530d70809886c105929393d4e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ewfvbwf6as5jb21abg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-23 17:29:00.000000",
+    "disclosedDate": "2026-03-01 13:58:58.885903"
+  }
+}

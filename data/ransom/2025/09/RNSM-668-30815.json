@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-668-30815",
+  "type": "ransomware-incident",
+  "title": "Cascade Pacific Pulp ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cascade Pacific Pulp",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 146000000000,
+    "description": "Cascade Pacific PulpCascade Pacific Pulp LLC is a leading market pulp mill located inthe Pacific Northwest, known for its environmentally progressivepractices. The company produces 200,000 tons per year of high-grade pulp, including products like Oregon Gold and White Gold, which are used in various applications such as tissue and printing papers. We are ready to upload more than 146GB data. There are lots of essential corporate documents such as: financial data (audit, payment details,financial reports, invoices), employees and customers information (passports, driver's license, Social Security Numbers, death certificate, emails, phones) confidential information, NDAs and other documents with detailed personal information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fzy2fkzsbqywnpzmljifb1bhbaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-30 00:00:00.000000",
+    "disclosedDate": "2025-09-30 15:47:37.173817"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-674-01B04",
+  "type": "ransomware-incident",
+  "title": "denmark.k12.wi.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "denmark.k12.wi.us",
+    "domain": "denmark.k12.wi.us",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Denmark High School is a company that employs 100to249 people and has 10Mto25M of revenue. The company is headquartered in Denmark, Wisconsin.\r Employees: 200 \r Revenue: $18.2 Million\r Industry: Education \r Phone Number: (920) 863-4200",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e4750c51e2c676a0f315b7e00702fef9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvubwfyay5rmtiud2kudxnaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://dysruptionhub.com/denmark-schools-outage-wisconsin/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-01 11:33:00.000000",
+    "disclosedDate": "2026-03-01 20:11:14.154190"
+  }
+}

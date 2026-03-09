@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-07D50",
+  "type": "ransomware-incident",
+  "title": "Sanders Legal Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sanders Legal Group",
+    "domain": "sanderslegalgroup.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A law firm based in Atlanta, Georgia",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e81bd09b57a52ff4b441268060827b82.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fuzgvycybmzwdhbcbhcm91cebnzw5lc2lz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-07 00:00:00.000000",
+    "disclosedDate": "2026-03-07 11:42:24.573952"
+  }
+}

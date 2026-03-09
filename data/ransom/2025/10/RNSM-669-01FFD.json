@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-01FFD",
+  "type": "ransomware-incident",
+  "title": "callhci.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "callhci.com",
+    "domain": "callhci.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Heritage Communications is a B2B telecommunications provider based in Little Rock, Arkansas, specializing in high-quality Cloud and On-Prem VoIP services from NEC. They serve businesses throughout Arkansas and West Tennessee, offering scalable and customizable telecommunications solutions tailored to meet specific client needs. With over 30 years of industry experience, they prioritize customer experience and provide exceptional service and support. Their partnership with NEC enables them to deliver advanced technology and reliable communication solutions to their clients.\r Employees: 25\r Revenue: $5.1 Million\r Industry: Cable & Satellite\r Phone Number:(501) 819-3100",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2011bae13aefc8adfc9ad618df3ead7c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fsbghjas5jb21aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-29 00:00:00.000000",
+    "disclosedDate": "2025-10-01 11:45:12.493295"
+  }
+}

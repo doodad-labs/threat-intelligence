@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-016FD",
+  "type": "ransomware-incident",
+  "title": "T & M Electric LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "T & M Electric LLC",
+    "domain": "tmelectricinc.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "T&M Electric LLC is a state certified full-service electrical contractor based in northeast Florida, specializing in residential and commercial electrical installations and services. They offer a range of services including new construction, electrical troubleshooting, panel upgrades, generator installations, and LED lighting upgrades. Their commitment to quality service, professionalism, and customer satisfaction distinguishes them in the electrical contracting industry. The company targets homeowners and businesses in northeast Florida, providing reliable and efficient solutions for all electrical needs",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vcamie0grwxly3ryawmgtexdqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-27 17:21:47.831109",
+    "disclosedDate": "2026-02-01 20:32:45.794046"
+  }
+}

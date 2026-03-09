@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-25075",
+  "type": "ransomware-incident",
+  "title": "TRUSTPAYMENTS.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TRUSTPAYMENTS.COM",
+    "domain": "trustpayments.com",
+    "country": "GB",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] TRUSTPAYMENTS.COM is a global payments company. They specialize in providing engaging and flexible payment solutions for businesses, ranging from startups to enterprises. They offer a range of services including online payment gateways, merchant accounts, risk & fraud management, payment processing, multi-currency processing, and more. Their aim is to assist businesses in reaching the global market securely and easily.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e54d350fc674f1e450fe73bfd68b173b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfjvu1rqqvlnru5uuy5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 14:55:07.490902",
+    "disclosedDate": "2026-01-25 14:55:22.052326"
+  }
+}

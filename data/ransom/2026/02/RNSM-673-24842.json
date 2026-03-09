@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-24842",
+  "type": "ransomware-incident",
+  "title": "Was Madeiras ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Was Madeiras",
+    "domain": "wasmadeiras.com.br",
+    "country": "BR"
+  },
+  "actor": {
+    "id": "vect",
+    "name": "vect",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 151000000000,
+    "description": "Status: STATUS: LEAKED | Sector: Manifacturer | Production control records    Daily production logs    Manufacturing scheduling data (multiple plants)    Assembly and mounting control records    Shipping and expedition records    Warehous... DATA SIZE: 151GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fzie1hzgvpcmfzqhzly3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-13 00:00:00.000000",
+    "disclosedDate": "2026-02-24 23:03:42.868725"
+  }
+}

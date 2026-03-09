@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-269FF",
+  "type": "ransomware-incident",
+  "title": "ITL Systemhaus ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ITL Systemhaus",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The company ITL Systemhaus für Datentechnik GmbH was founded in 1991.\r \r In the meantime, ITL has over 25 employees at a high level of training and offers a comprehensive range of services as a competent partner \"around IT\". The business policy is based on a long-term, partner-oriented relationship with the end customer. \r \r Milestones in the history of ITL were the move to the new office building in Münchberg with its own training rooms in 2005 and the complete takeover of the dental software DENTIXsoft with over 300 customers nationwide in 2010.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ee4c0981483990b97201925d8822787f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/svrmifn5c3rlbwhhdxnaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-26 10:00:00.000000",
+    "disclosedDate": "2025-11-26 13:18:13.584746"
+  }
+}

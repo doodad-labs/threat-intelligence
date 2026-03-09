@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-13556",
+  "type": "ransomware-incident",
+  "title": "Pilot automotive ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pilot automotive",
+    "domain": "pilotautomotive.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pilot specializes in a wide range of automotive accessories, including truck, interior, and exterior accessories as well as lighting and replacement parts. They offer products such as step bars, grille covers, and various car care items aimed at enhancing vehicle functionality and aesthetics. Targeting both personal vehicle owners and automotive enthusiasts, their products cater to any driver looking to customize and improve their car or truck. With a commitment to quality, Pilot features well-known brands like Bully Truck Accessories and Voodoo Ride.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d162e84bdd04f40b744676fce20d1e11.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uglsb3qgyxv0b21vdgl2zubzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-11 19:00:02.198000",
+    "disclosedDate": "2026-01-13 00:20:20.127776"
+  }
+}

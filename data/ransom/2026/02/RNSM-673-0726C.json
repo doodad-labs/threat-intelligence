@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-0726C",
+  "type": "ransomware-incident",
+  "title": "Tri-Cities Gastroenterology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tri-Cities Gastroenterology",
+    "domain": "digestivewellness.net",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "insomnia",
+    "name": "insomnia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tri-Cities Gastroenterology provides comprehensive digestive care focused on whole-person wellness, using human and technological resources to ensure patient comfort and timely, reliable information and reports for referring physicians.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b3a174a0c421291421d7e0bd7ac0b169.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjplunpdgllcybhyxn0cm9lbnrlcm9sb2d5qgluc29tbmlh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-16 00:00:00.000000",
+    "disclosedDate": "2026-02-07 21:24:10.829947"
+  }
+}

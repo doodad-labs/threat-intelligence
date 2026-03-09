@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-15E78",
+  "type": "ransomware-incident",
+  "title": "University of Gävle ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "University of Gävle",
+    "domain": "hig.se",
+    "country": "SE",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "University of Gävle is a university college located in Gävle, Sweden. The university was established in 1977 and is currently organized into three academies and nine departments. The university offers around 45 masters- and bachelor's degrees and 800 courses in technology, social- and natural sciences and the humanities. ZoomInfo: https://www.zoominfo.com/c/ga%CC%88vle/1142576926 / Domain: https://www.hig.se/",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ad61dbf245c4bc83af075d238a2bf61f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pdmvyc2l0esbvzibhw6r2bgvabm92yq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-15 15:38:23.309809",
+    "disclosedDate": "2025-11-15 15:39:14.149904"
+  }
+}

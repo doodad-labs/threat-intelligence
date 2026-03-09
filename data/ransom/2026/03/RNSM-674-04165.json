@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-04165",
+  "type": "ransomware-incident",
+  "title": "cwpa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cwpa.com",
+    "domain": "cwpa.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Office Products Retail & Distribution\r PO Box 11309, Spring, Texas, 77391, United States\r Phone Number\r (281) 251-9814\r Website\r www.cwpa.com\r Revenue\r <$5 Million\r \r CWPA is a provider of office equipment and furniture, specializing in customized solutions to improve office efficiency for businesses in Spring, TX. They offer a single-source approach for office supplies, managed print services, promotional products, and office ergonomics. Their intended clients include office managers and businesses seeking reliable, efficient ordering processes. CWPA emphasizes personalized customer service and prompt delivery, making them a preferred partner for various office supply needs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4f2fa6ccfaac0fe4c4481e51108ced7a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3dwys5jb21aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-04 11:00:00.000000",
+    "disclosedDate": "2026-03-04 11:13:18.484193"
+  }
+}

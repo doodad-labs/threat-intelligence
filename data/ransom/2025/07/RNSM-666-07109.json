@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-07109",
+  "type": "ransomware-incident",
+  "title": "PHARMARON.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PHARMARON.COM",
+    "domain": "pharmaron.com",
+    "country": "CN",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Pharmaron is a global drug research and development service provider. The company offers a range of services including drug discovery, preclinical development, clinical trial services, chemistry, manufacturing and controls (CMC), and pharmaceutical R&D services. Based in China, it has operations in North America and Europe, aiming to serve the international pharmaceutical industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0178c8284bdf1a40e5f7b5d583469ac2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uehbuk1buk9olknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-07 23:25:37.761850",
+    "disclosedDate": "2025-07-07 23:26:07.287254"
+  }
+}

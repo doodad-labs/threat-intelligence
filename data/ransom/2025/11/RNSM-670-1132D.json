@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-1132D",
+  "type": "ransomware-incident",
+  "title": "Olive Branch Family Medical Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Olive Branch Family Medical Center",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data Breach at U.S. Medical Center Puts Thousands of Patients at Risk",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/25263a14f2b2003b53026b8094712ba6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2xpdmugqnjhbmnoiezhbwlsesbnzwrpy2fsienlbnrlckbhbnviaxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-11 20:44:03.668285",
+    "disclosedDate": "2025-11-11 20:48:52.188197"
+  }
+}

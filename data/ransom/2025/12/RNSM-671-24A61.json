@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-24A61",
+  "type": "ransomware-incident",
+  "title": "SW/WC Service Cooperative ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SW/WC Service Cooperative",
+    "domain": "swwc.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1cvv0mgu2vydmljzsbdb29wzxjhdgl2zubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 05:03:26.023331",
+    "disclosedDate": "2025-12-24 05:03:57.472207"
+  }
+}

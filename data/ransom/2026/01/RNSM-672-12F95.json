@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-12F95",
+  "type": "ransomware-incident",
+  "title": "Resource Corporation of America ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Resource Corporation of America",
+    "domain": "resource-corp.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/af42a4b10afdd8c556303943e5ecc156.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umvzb3vyy2ugq29ycg9yyxrpb24gb2ygqw1lcmljyubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-12 20:12:55.176544",
+    "disclosedDate": "2026-01-12 20:13:11.558085"
+  }
+}

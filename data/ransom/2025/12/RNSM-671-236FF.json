@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-236FF",
+  "type": "ransomware-incident",
+  "title": "ruskcountywi.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ruskcountywi.us",
+    "domain": "ruskcountywi.us",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rusk County, Wisconsin is a community that provides services such as an Airport, Ambulance Services, Court Systems and other departments that service the community of Rusk County. Headquartered in Ladysmith, Wisconsin.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4141e55a0a457bbac3f322614fc24c3f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cnvza2nvdw50exdplnvzqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-23 13:59:27.841000",
+    "disclosedDate": "2025-12-23 14:13:23.178478"
+  }
+}

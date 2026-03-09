@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-672-3081B",
+  "type": "ransomware-incident",
+  "title": "Bryant Consultants ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bryant Consultants",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "Bryant Home specializes in providing comprehensive engineering solutions for the built world, focusing on geotechnical engineering, building envelope consulting, and hydrological analysis.We will upload 10gb of corporate data soon. Detailed employee personal information (health information,scans of personal documents), detailed financials, credit cards, payments details, contractsand agreements, confidential files, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnj5yw50ienvbnn1bhrhbnrzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-30 00:00:00.000000",
+    "disclosedDate": "2026-01-30 12:57:56.944352"
+  }
+}

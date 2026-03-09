@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-20AC1",
+  "type": "ransomware-incident",
+  "title": "Keylogistics Chile ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Keylogistics Chile",
+    "country": "CL",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Keylogistics Chile S A is a company that operates in the Restaurants industry. It employs 250to499 people and has 10Mto25M of revenue. The company is headquartered in San Bernardo, Santiago Metropolitan, Chile.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1d353c13684916af4a6df822b766de2a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2v5bg9naxn0awnzienoawxlqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-17 20:22:30.740000",
+    "disclosedDate": "2026-02-20 15:37:52.296701"
+  }
+}

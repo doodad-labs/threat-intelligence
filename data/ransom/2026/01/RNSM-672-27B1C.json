@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-27B1C",
+  "type": "ransomware-incident",
+  "title": "IMA Diligence Services (A Division of IMA Financial Group) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IMA Diligence Services (A Division of IMA Financial Group)",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A provider of financial services",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/99e1d6df06ba78ed5bfd3765a98ddea7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/su1bierpbglnzw5jzsbtzxj2awnlcyaoqsbeaxzpc2lvbibvzibjtuegrmluyw5jawfsiedyb3vwkubnzw5lc2lz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-27 00:00:00.000000",
+    "disclosedDate": "2026-01-27 13:05:54.816154"
+  }
+}

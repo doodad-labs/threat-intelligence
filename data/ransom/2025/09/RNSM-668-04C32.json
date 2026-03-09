@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-04C32",
+  "type": "ransomware-incident",
+  "title": "CI Engineering ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CI Engineering",
+    "domain": "cieng.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "Status: 0d 23h 23m 40s - Size Data: 700 GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9c9e5c5370964a49094b7ea2ff701064.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0kgrw5naw5lzxjpbmday2ljywrhmzmwmq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-04 00:00:00.000000",
+    "disclosedDate": "2025-09-04 18:21:18.473216"
+  }
+}

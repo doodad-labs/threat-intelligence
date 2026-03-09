@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-666-21C7D",
+  "type": "ransomware-incident",
+  "title": "Thompson+Hanson ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Thompson+Hanson",
+    "domain": "thompsonhanson.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "payoutsking",
+    "name": "payoutsking",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Thompson+Hanson is a landscape architecture firm specializing in personalized garden designs. The company, established in 1985 in Texas, blends architecture with horticulture to create unique outdoor spaces. They also have garden shops and a cafe, offering a diverse range of plants, garden essentials, and unique artifacts.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/289b094e31f78e99db90035cdf18b98d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghvbxbzb24rsgfuc29uqhbhew91dhnraw5n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-14 17:55:00.000000",
+    "disclosedDate": "2025-07-21 18:06:01.503047"
+  }
+}

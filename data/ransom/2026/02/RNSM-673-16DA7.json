@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-16DA7",
+  "type": "ransomware-incident",
+  "title": "wiproferretto.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wiproferretto.com",
+    "domain": "wiproferretto.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wipro Ferretto Group Srl develops and manufactures material handling and storage solutions for various industries.Its product range includes automated warehouses, warehouse management software, and a wide range of services such as after-sales support and consulting.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/98e545501088f2624375843aaae8397f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2lwcm9mzxjyzxr0by5jb21azhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-16 10:47:23.195967",
+    "disclosedDate": "2026-02-16 13:14:20.482484"
+  }
+}

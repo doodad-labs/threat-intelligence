@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-287A0",
+  "type": "ransomware-incident",
+  "title": "TRAF Industrial Products Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TRAF Industrial Products Inc",
+    "country": "CA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data breach at an aerospace and defense contractor.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/344b1334518260b049a23111bfc22216.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vfjbribjbmr1c3ryawfsifbyb2r1y3rzieluy0bhbnviaxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-28 01:08:35.125377",
+    "disclosedDate": "2025-08-28 01:09:29.836068"
+  }
+}

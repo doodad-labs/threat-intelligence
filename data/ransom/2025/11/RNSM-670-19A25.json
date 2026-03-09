@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-19A25",
+  "type": "ransomware-incident",
+  "title": "heywood.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "heywood.org",
+    "domain": "heywood.org",
+    "country": ""
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A member of the Heywood Healthcare system, Heywood Hospital is an acute care hospital in Gardner, MA, providing a broad range of high quality medical, surgical, obstetrical, pediatric and behavioral health services on an inpatient and outpatient basis.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9138c1aa41247546e05af9e726eda77c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agv5d29vzc5vcmdac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-09 19:38:27.702000",
+    "disclosedDate": "2025-11-19 00:38:37.206934"
+  }
+}

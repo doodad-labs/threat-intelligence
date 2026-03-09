@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-668-19589",
+  "type": "ransomware-incident",
+  "title": "Espectral ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Espectral",
+    "country": "PT"
+  },
+  "actor": {
+    "id": "obscura",
+    "name": "obscura",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Espectral specializes in providing testing and measurement equipment, focusing on sectors such as telecommunications, finance, healthcare, and education. Their product offerings include calibration services for various parameters, general electronics, and advanced testing equipment for protocols like PCI Express and USB. Established in 1987, the company aims to be a partner for future technological advancements, particularly in 5G and avionics. They cater to a diverse clientele, including government, industry, and laboratories.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/06595e8a46c29450dd0c1e9901195ed6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxnwzwn0cmfsqg9ic2n1cme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-19 16:50:29.062739",
+    "disclosedDate": "2025-09-19 16:50:45.618481"
+  }
+}

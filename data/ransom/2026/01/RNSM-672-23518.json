@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-23518",
+  "type": "ransomware-incident",
+  "title": "SoundCloud ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SoundCloud",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "shinyhunters",
+    "name": "shinyhunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2800000000,
+    "description": "Size: 2.8 GB (compressed) | Records: 30M Records | Updated: 23 Jan 2026",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u291bmrdbg91zebzagluewh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-10 11:10:00.000000",
+    "disclosedDate": "2026-01-23 14:42:50.636937"
+  }
+}

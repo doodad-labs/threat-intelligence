@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-08E2F",
+  "type": "ransomware-incident",
+  "title": "HESCO ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HESCO",
+    "domain": "hesco.ca",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HESCO Foodservice Ltd., based out of Edmonton and Calgary, specializes in providing a wide range of products, cleaning supplies, commercial equipment, and kitchen design for the foodservice industry. Leaders in Food Service Supply & Design for over 95 years To learn more about the company, please visit www.hesco.ca",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3ae2bcb945b37ce9b737ed892c60b0bd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sevtq09azhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-08 07:31:36.681368",
+    "disclosedDate": "2025-12-08 07:41:40.879643"
+  }
+}

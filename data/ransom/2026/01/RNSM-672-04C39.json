@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-04C39",
+  "type": "ransomware-incident",
+  "title": "Varimed Medikal ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Varimed Medikal",
+    "domain": "varimed.com.tr",
+    "country": "TR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Manufacturing",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/74e348a2d2d55260fbad261a690b8c6d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmfyaw1lzcbnzwrpa2fsqgrpcmv3b2xm",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-04 05:38:58.441923",
+    "disclosedDate": "2026-01-04 05:52:16.331028"
+  }
+}

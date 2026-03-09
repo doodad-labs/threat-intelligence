@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-3134E",
+  "type": "ransomware-incident",
+  "title": "Neuviz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Neuviz",
+    "domain": "neuviz.net.id",
+    "country": "ID",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Neuviz is a global technology company that specializes in cloud solutions, big data analytics, IT security, application development, and digital marketing among others. The company offers services to clients in various sectors, including finance, health, and e-commerce. Its mission is to aid businesses in achieving their goals with innovative and strategic technology solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3f02c6b5e887863cfab4ab312100dd2f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmv1dml6qgnvaw5iyxnly2fydgvs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-31 05:40:20.929271",
+    "disclosedDate": "2026-01-31 05:40:34.445587"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-27CB4",
+  "type": "ransomware-incident",
+  "title": "hmpccpa.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hmpccpa.com",
+    "domain": "hmpccpa.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Harvey & Martin, PLLC is a professional accounting firm based in Massachusetts, United States, with additional offices in Gloucester, MA …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d8abe253c8037a975b0c33c548b46679.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ag1wy2nwys5jb21ac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-27 20:41:43.824768",
+    "disclosedDate": "2025-12-27 20:41:55.397568"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-1342B",
+  "type": "ransomware-incident",
+  "title": "Cinvestav ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Cinvestav",
+    "domain": "cinvestav.mx",
+    "country": "MX",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/88e87e68f25bd2c337be233a950a5cc3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2ludmvzdgf2qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-13 14:18:39.087613",
+    "disclosedDate": "2025-12-13 15:44:14.558843"
+  }
+}

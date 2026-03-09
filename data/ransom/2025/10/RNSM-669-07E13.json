@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-07E13",
+  "type": "ransomware-incident",
+  "title": "archway.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "archway.com",
+    "domain": "archway.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1952 and headquartered in Rogers, Minnesota, Archway is a provider of marketing logistics, fulfillment services, and supply chain management solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5662fbb415feaf85c760499cad66277c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxjjahdhes5jb21ay2hhb3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-07 14:11:27.644518",
+    "disclosedDate": "2025-10-07 14:11:40.807366"
+  }
+}

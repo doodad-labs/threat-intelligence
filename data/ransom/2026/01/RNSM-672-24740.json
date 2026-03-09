@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-672-24740",
+  "type": "ransomware-incident",
+  "title": "****cr*nem*ds.c*m ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "****cr*nem*ds.c*m",
+    "country": "SJ"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Patient data, medical cards clinic records",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc654c1e2d252ab393a435186dfc3205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/kioqkmnykm5lbspkcy5jkm1azgv2bwfu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-24 02:07:47.374163",
+    "disclosedDate": "2026-01-24 02:09:06.518562"
+  }
+}

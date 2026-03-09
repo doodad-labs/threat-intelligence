@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-667-20638",
+  "type": "ransomware-incident",
+  "title": "RAVEN Mechanical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RAVEN Mechanical",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Raven Mechanical is a family owned and operated commercial specialty construction company specializing in plumbing, HVAC, utility and specialty piping projects.We are going to upload company data soon. You will find financialdata (audit, payment details,financial reports, invoices), employees and customers information (passports, driver's licenses, SSCs, birth certificates ) and other confidential information, NDAs and documents with detailed personal information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukfwru4gtwvjagfuawnhbebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-20 00:00:00.000000",
+    "disclosedDate": "2025-08-20 14:08:51.483530"
+  }
+}

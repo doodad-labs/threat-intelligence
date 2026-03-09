@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-24A9B",
+  "type": "ransomware-incident",
+  "title": "Building Trades ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Building Trades",
+    "country": "",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 14000000000,
+    "description": "The Los Angeles/Orange Counties Building and Construction Trades Council represents 48 local unions and district councils, servinga membership of 160,000 skilled workers. They provide rigorous apprenticeship programs, ensuring that members are well-trained for both private and public-sector projects.We will upload 14gb of corporate data soon. Detailed personal information about employees, clients and their families (scans of passports, DLs, complete forms with full personal information, photos and so on), detailed financials, client information, and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnvpbgrpbmcgvhjhzgvzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-24 00:00:00.000000",
+    "disclosedDate": "2025-12-24 14:17:19.489790"
+  }
+}

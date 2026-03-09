@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-28F94",
+  "type": "ransomware-incident",
+  "title": "Valbifrut ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Valbifrut",
+    "domain": "valbifrut.cl",
+    "country": "CL",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e4aa679b6d5f81ab9a979d1624245d0b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmfsymlmcnv0qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-28 19:11:40.666145",
+    "disclosedDate": "2026-01-28 19:11:58.421852"
+  }
+}

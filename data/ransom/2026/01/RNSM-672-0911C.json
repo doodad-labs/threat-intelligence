@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-0911C",
+  "type": "ransomware-incident",
+  "title": "McCraw Oil ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "McCraw Oil",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 40000000000,
+    "description": "Founded in 1948, McCraw Oil provides gas, diesel, propane, agricultural chemicals and other products to service stations and customers in Texas and Oklahoma. Bonham, Texas.We will upload 40gb of corporate data soon. We will upload employee documents, lots of projects, specifications and drawings, NDA,client information, contracts and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twndcmf3ie9pbebha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-09 00:00:00.000000",
+    "disclosedDate": "2026-01-09 14:11:04.498431"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-09BD9",
+  "type": "ransomware-incident",
+  "title": "Coldwell Banker UAE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Coldwell Banker UAE",
+    "domain": "coldwellbanker.ae",
+    "country": "AE",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "No description available.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7f5a29d80be50616209930d546558d4e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29szhdlbgwgqmfua2vyifvbrubjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-09 05:13:25.373862",
+    "disclosedDate": "2025-12-09 05:13:36.390275"
+  }
+}

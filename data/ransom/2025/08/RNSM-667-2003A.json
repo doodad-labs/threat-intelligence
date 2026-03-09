@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-2003A",
+  "type": "ransomware-incident",
+  "title": "hmsaojose.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hmsaojose.com",
+    "domain": "hmsaojose.com",
+    "country": "BR"
+  },
+  "actor": {
+    "id": "global",
+    "name": "global",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "Hospital Maternidade São José1TB of private patient information. Personal details and more.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ag1zyw9qb3nllmnvbubnbg9iyww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-20 00:00:00.000000",
+    "disclosedDate": "2025-08-20 16:42:32.502232"
+  }
+}

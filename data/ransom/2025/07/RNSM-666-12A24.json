@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-12A24",
+  "type": "ransomware-incident",
+  "title": "EIA Global ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EIA Global",
+    "domain": "eia-global.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "play",
+    "name": "play",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "United States",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c1a95437323a08c90facee940978ed61.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rulbiedsb2jhbebwbgf5",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-03 00:00:00.000000",
+    "disclosedDate": "2025-07-12 09:59:00.967394"
+  }
+}

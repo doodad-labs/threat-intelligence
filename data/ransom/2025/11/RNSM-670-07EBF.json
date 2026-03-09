@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-07EBF",
+  "type": "ransomware-incident",
+  "title": "ZANACO.CO.ZM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ZANACO.CO.ZM",
+    "domain": "zanaco.co.zm",
+    "country": "ZM",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Zambia National Commercial Bank Plc (ZANACO) is a major bank in Zambia. Founded in 1969 by the Zambian Government, it was initially designed to promote national interest in the financial industry. Its services range from personal and business banking, digital banking, to investment banking. The bank caters to both individual and corporate clients, striving to contribute to the country's economic development through innovative banking solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/98463bbf4d671e1905968ea716f69fbd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/wkfoqunplknpllpnqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-07 14:42:48.588633",
+    "disclosedDate": "2025-11-07 14:43:03.974980"
+  }
+}

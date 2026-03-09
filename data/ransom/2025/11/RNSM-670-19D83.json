@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-19D83",
+  "type": "ransomware-incident",
+  "title": "American Trust Administrators ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "American Trust Administrators",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 143000000000,
+    "description": "American Trust Administrators, Inc. (ATA) is a national leader inthe administration and management of employee benefit plans.We will upload almost 143gb of corporate documents soon. As you can understand there are a lot of HR files, confidentiality agreements, detailed financials and accounting, lots of client files, projects, NDA, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1lcmljyw4gvhj1c3qgqwrtaw5pc3ryyxrvcnnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-19 00:00:00.000000",
+    "disclosedDate": "2025-11-19 16:39:21.019509"
+  }
+}

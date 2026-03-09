@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-2321D",
+  "type": "ransomware-incident",
+  "title": "Nissan Capital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Nissan Capital",
+    "domain": "nissancapital.com",
+    "country": "JP",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7e5f44e294b16da2dc49cd502a87a25e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tmlzc2fuienhcgl0ywxacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-23 06:41:49.922683",
+    "disclosedDate": "2025-11-23 06:42:10.348523"
+  }
+}

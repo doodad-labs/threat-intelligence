@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-24E21",
+  "type": "ransomware-incident",
+  "title": "Mutualista Imbabura ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mutualista Imbabura",
+    "domain": "mutualistaimbabura.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "vect",
+    "name": "vect",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "Status: STATUS: LEAKED | Sector: Finance | Customer financial records (loans, savings, balances)    Credit and loan portfolio data    Payroll and salary information    Employee personal data (PII)    National ID documents    Customer... DATA SIZE: 300GB",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/txv0dwfsaxn0ysbjbwjhynvyyub2zwn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-13 00:00:00.000000",
+    "disclosedDate": "2026-02-24 23:03:20.049706"
+  }
+}

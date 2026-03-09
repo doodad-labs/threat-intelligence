@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-04604",
+  "type": "ransomware-incident",
+  "title": "Kana Pipeline Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Kana Pipeline Inc",
+    "domain": "kanapipeline.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0b741cf3ecd983e468ec47dae0a908ac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fuysbqaxblbgluzsbjbmnacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-04 20:20:53.968005",
+    "disclosedDate": "2025-12-04 20:21:13.337883"
+  }
+}

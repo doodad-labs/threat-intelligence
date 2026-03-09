@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-10028",
+  "type": "ransomware-incident",
+  "title": "waverlychildcare.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "waverlychildcare.org",
+    "domain": "waverlychildcare.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Waverly Child Care & Preschool is a nonprofit early childhood education provider based in Waverly, Iowa, established in 1970. It …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d7d6c34f20181ccc27c31fdfd4c4fc91.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2f2zxjsewnoawxky2fyzs5vcmdac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-08 00:00:00.000000",
+    "disclosedDate": "2025-09-10 19:09:55.881354"
+  }
+}

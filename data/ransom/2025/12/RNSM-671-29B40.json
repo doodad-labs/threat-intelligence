@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-29B40",
+  "type": "ransomware-incident",
+  "title": "SEACSUB S.p.a. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SEACSUB S.p.a.",
+    "domain": "seacsub.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/abb39db940fdc7fb50b9d309e47dc7e5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0vbq1nvqibtlnauys5acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-29 18:26:58.814289",
+    "disclosedDate": "2025-12-29 18:27:13.867679"
+  }
+}

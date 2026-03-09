@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-25811",
+  "type": "ransomware-incident",
+  "title": "VISTA-TRAINING.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VISTA-TRAINING.COM",
+    "domain": "vista-training.com",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Vista Training is a company that provides professional, comprehensive heavy equipment operator and safety training materials and services. The products and services they provide are designed to help companies minimize risk and increase productivity. With their sophisticated training curriculum, clients can improve safety and respond effectively to changes in technology and regulatory requirements.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3d4ad866cbd0d178bc87f0eda800eaf2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vkltveetvfjbsu5jtkcuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 15:06:21.010400",
+    "disclosedDate": "2026-01-25 15:06:35.467129"
+  }
+}

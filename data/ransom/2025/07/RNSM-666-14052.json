@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-14052",
+  "type": "ransomware-incident",
+  "title": "VM Racing ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VM Racing",
+    "domain": "vmracing.it",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 83000000000,
+    "description": "VM Racing, is a retail company specializing in sports merchandise and equipment. The company deals with the sale of sporting goods, mainly related to the motorcycle sector.We hacked VM Racing and managed to obtain 1.041.539 files, worth 83GB.            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e283b31193047459e671a8e9fa6449b6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vk0gumfjaw5nqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-13 00:00:00.000000",
+    "disclosedDate": "2025-07-14 22:49:12.067729"
+  }
+}

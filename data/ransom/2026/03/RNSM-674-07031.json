@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-07031",
+  "type": "ransomware-incident",
+  "title": "Brighton Eye ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Brighton Eye",
+    "domain": "brightoneye.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "An eye care center in Brooklyn, NY",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/91dba562a0440505056910aa1fe6971e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnjpz2h0b24grxllqgdlbmvzaxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-07 00:00:00.000000",
+    "disclosedDate": "2026-03-07 11:43:43.105645"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-01B81",
+  "type": "ransomware-incident",
+  "title": "Keystone Solutions Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Keystone Solutions Group",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 65000000000,
+    "description": "Keystone Solutions Group is a medical device contract manufacturer and product development company based in Kalamazoo, Michigan. They provide a range of services including assembly, kitting, packaging, sterilization management, and clean room environments. Keystone specializes in managing customer product transfers and offers comprehensive solutions from prototypes to full-scale production. We are ready to upload more than 65GB data. There are lots of essential corporate documents such as: financial data (audit, payment details,financial reports, invoices), employees and customers information (passports, driver's license, Social Security Numbers,emails, phones) confidential information, NDAs and other documents with detailed personal information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2v5c3rvbmugu29sdxrpb25ziedyb3vwqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-01 00:00:00.000000",
+    "disclosedDate": "2025-10-01 11:39:28.013311"
+  }
+}

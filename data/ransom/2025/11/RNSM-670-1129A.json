@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-1129A",
+  "type": "ransomware-incident",
+  "title": "Manusos General Contracting, Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Manusos General Contracting, Inc",
+    "domain": "manusosinc.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A general contracting construction company",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6fa70ce7fe300e154f3ef67b4630345f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfudxnvcybhzw5lcmfsienvbnryywn0aw5nlcbjbmnaz2vuzxnpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-11 00:00:00.000000",
+    "disclosedDate": "2025-11-11 18:20:51.567677"
+  }
+}

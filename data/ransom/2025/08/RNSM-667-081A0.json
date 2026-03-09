@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-081A0",
+  "type": "ransomware-incident",
+  "title": "Pacific HealthWorks ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Pacific HealthWorks",
+    "domain": "pacifichealthworks.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "everest",
+    "name": "everest",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Pacific HealthWorks is a management services organization based in Los Angeles, United States. The company primarily provides comprehensive management, administrative, and support services to healthcare practitioners and facilities, including doctors’ offices, healthcare clinics, and other related medical entities. They focus on business and operational aspects so the medical professionals can concentrate on patient care.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4fd26363c381c818f747ca366968dabb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfjawzpyybizwfsdghxb3jrc0bldmvyzxn0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-08 00:00:00.000000",
+    "disclosedDate": "2025-08-08 10:22:56.109692"
+  }
+}

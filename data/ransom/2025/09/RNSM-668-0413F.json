@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-0413F",
+  "type": "ransomware-incident",
+  "title": "denraytire.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "denraytire.com",
+    "domain": "denraytire.com",
+    "country": "CA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Denray Tire operates multiple locations across Manitoba and Saskatchewan, offering a wide range of tires, including car, truck, fleet, agricultural, and construction tires. The company also provides mechanical services and tire care solutions, catering to both retail and commercial clients. With expertise in tire retreading and specialty tires, Denray Tire is committed to customer satisfaction and offers various rebate programs. Their extensive service network ensures they meet the diverse needs of their client base effectively.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4d95ba039b74cb656813d583ddbc0ad1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvucmf5dglyzs5jb21abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-04 14:05:37.994000",
+    "disclosedDate": "2025-09-04 14:14:09.841501"
+  }
+}

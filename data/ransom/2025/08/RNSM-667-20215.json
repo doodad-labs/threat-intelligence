@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-20215",
+  "type": "ransomware-incident",
+  "title": "Ocean Edge Resort & Golf Club ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ocean Edge Resort & Golf Club",
+    "domain": "oceanedge.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "nitrogen",
+    "name": "nitrogen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ocean Edge Resort & Golf Club is a 429-acre resort in Brewster, Cape Cod (Massachusetts) featuring a historic mansion, luxury villas, golf, private beach access, and a wide range of dining, wellness, and recreational options.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/eddad29b6b9ae61839430801dfc73152.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2nlyw4grwrnzsbszxnvcnqgjibhb2xmiensdwjabml0cm9nzw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-20 20:30:19.934713",
+    "disclosedDate": "2025-08-20 20:31:23.586300"
+  }
+}

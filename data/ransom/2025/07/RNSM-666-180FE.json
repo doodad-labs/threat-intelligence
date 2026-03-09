@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-666-180FE",
+  "type": "ransomware-incident",
+  "title": "Eurofins Scientific ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Eurofins Scientific",
+    "country": "NL",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Eurofins Scientific is a global network of life sciences companies that offers a comprehensive range of analytical testing services to clients across various industries. The organization is recognized as a world leader in areas such as food, environmental, pharmaceutical, and cosmetic product testing...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxvyb2zpbnmgu2npzw50awzpy0bub3zh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-18 12:53:31.725114",
+    "disclosedDate": "2025-07-18 12:53:34.193386"
+  }
+}

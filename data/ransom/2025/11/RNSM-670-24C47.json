@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-24C47",
+  "type": "ransomware-incident",
+  "title": "Swedish Arts Council ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Swedish Arts Council",
+    "domain": "kulturradet.se",
+    "country": "SE",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Kulturrådet is a government agency that promotes the development of culture, provides information, and grants funding to realize national cultural policy. It focuses on various cultural sectors including music, literature, visual arts, performing arts, and support for children and youth. The agency aims to enhance international collaboration and cultural exchange, particularly through initiatives like Creative Europe.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/89e36881c935cacefc0ea5ca21aea632.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3dlzglzacbbcnrzienvdw5jawxacmfuc29tag91c2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-31 00:00:00.000000",
+    "disclosedDate": "2025-11-24 18:06:16.177321"
+  }
+}

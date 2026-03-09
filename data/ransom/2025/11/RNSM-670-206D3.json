@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-206D3",
+  "type": "ransomware-incident",
+  "title": "classiccenter.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "classiccenter.com",
+    "domain": "classiccenter.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Akins Ford Arena is a state-of-the-art entertainment venue located in downtown Athens, Georgia, with a seating capacity of 8,500. It hosts a variety of events including concerts, sports, and special performances, providing memorable experiences for fans. The venue serves local audiences, featuring events such as professional hockey games and concerts from renowned artists. As part of The Classic Center campus, Akins Ford Arena is committed to delivering top-tier entertainment in a vibrant setting",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/da41af5d20a4195ea689391e1d0806b2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2xhc3npy2nlbnrlci5jb21abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-11 12:52:28.956000",
+    "disclosedDate": "2025-11-20 20:10:33.591186"
+  }
+}

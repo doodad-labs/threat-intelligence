@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-667-26139",
+  "type": "ransomware-incident",
+  "title": "marlboroughpartners.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "marlboroughpartners.com",
+    "domain": "marlboroughpartners.com",
+    "country": "GB",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2000000000000,
+    "description": "2tb  data    confidencial",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/94fe623d65330434bccb6a277af63763.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwfybgjvcm91z2hwyxj0bmvycy5jb21aaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-25 16:59:00.000000",
+    "disclosedDate": "2025-08-26 00:20:07.491488"
+  }
+}

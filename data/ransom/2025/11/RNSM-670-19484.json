@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-670-19484",
+  "type": "ransomware-incident",
+  "title": "Aarco ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Aarco",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 17000000000,
+    "description": "AARCO is a Mexican insurance company that offers a diverse range of products including auto, life, medical, home, and travel insurance, tailored for both individuals and businesses.We will upload 17gb of corporate documents soon. Detailed personal employee data (passports, driver licenses, Mexican ID's, personal phones, addresses, addresses emails, fingerprints), lots of confidential files, financials and accounting, contracts and agreements, clients' personal information, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwfyy29aywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-19 00:00:00.000000",
+    "disclosedDate": "2025-11-19 12:51:01.026227"
+  }
+}

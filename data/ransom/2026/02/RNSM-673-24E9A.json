@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-24E9A",
+  "type": "ransomware-incident",
+  "title": "Microforum ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Microforum",
+    "country": "IT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "WMicroforum specializes in vinyl record pressing and offers a variety of services including CD/DVD & Blu-Ray production, cassette duplication, and bespoke packaging.We will upload over 1TB of corporate data soon. Employee files, specifications, projects, detailed financials, confidential agreements (PEPSICO and others), HR files, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twljcm9mb3j1bubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-24 00:00:00.000000",
+    "disclosedDate": "2026-02-24 15:03:30.968641"
+  }
+}

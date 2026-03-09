@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-1376B",
+  "type": "ransomware-incident",
+  "title": "ENNVEE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ENNVEE.COM",
+    "domain": "ennvee.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] ENNVEE is a global professional services firm that provides IT consulting and custom services for businesses to streamline their operations and improve overall efficiency. Specializing in enterprise application management, ENNVEE offers application development, ERP and CRM implementations, and system integration services. The company focuses on transforming business processes for companies through technology and automation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/46824dc9f8458e259e3aac135660cfc3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ru5ovkvflknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-13 19:05:41.685076",
+    "disclosedDate": "2025-11-13 19:05:56.719947"
+  }
+}

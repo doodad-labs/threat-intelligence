@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-671-161F9",
+  "type": "ransomware-incident",
+  "title": "stadtwerke-clausthal.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "stadtwerke-clausthal.de",
+    "domain": "stadtwerke-clausthal.de",
+    "country": "DE",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Stadtwerke Clausthal-Zellerfeld is a municipal utility company (Stadtwerk) serving the town of Clausthal-Zellerfeld in Lower Saxony, Germany. As a publicly …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ea74f6416ff9d1a12493f4e58e6806a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3rhzhr3zxjrzs1jbgf1c3roywwuzgvac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.goslarsche.de/lokales/stadtwerke-clausthal-hackerangriff-694919.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-16 21:25:20.617661",
+    "disclosedDate": "2025-12-16 21:25:33.380457"
+  }
+}

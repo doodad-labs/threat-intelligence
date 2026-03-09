@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-274AD",
+  "type": "ransomware-incident",
+  "title": "Amos Spacecom ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Amos Spacecom",
+    "country": "IL",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "handala",
+    "name": "handala",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We, the Handala Hack, have successfully breached the security systems of Spacecom (Space Communication Ltd.), the operator of the critical AMOS satellite network. Every piece of sensitive information, including military, governmental, and security data transmitted and stored within their infrastructure, is now fully in our possession. Spacecom’s AMOS satellites serve a wide array of functions,…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c26aca5a154887768423140df823d235.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw1vcybtcgfjzwnvbuboyw5kywxh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-27 16:52:40.559718",
+    "disclosedDate": "2025-09-27 16:53:22.146890"
+  }
+}

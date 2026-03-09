@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-29270",
+  "type": "ransomware-incident",
+  "title": "setex-textil.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "setex-textil.de",
+    "domain": "setex-textil.de",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SETEX-Textil GmbH is a vertically integrated German textile manufacturer headquartered in Hamminkeln-Dingden, North Rhine-Westphalia. The company operates comprehensive textile production …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f9fdfce31eeb5fdcc8ebd9f61c52f6d2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2v0zxgtdgv4dglslmrlqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-29 20:13:46.964174",
+    "disclosedDate": "2025-12-29 20:13:59.416794"
+  }
+}

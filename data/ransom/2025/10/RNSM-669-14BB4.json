@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-14BB4",
+  "type": "ransomware-incident",
+  "title": "Morris-Sockle ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Morris-Sockle",
+    "domain": "morris-sockle.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Morris-Sockle, PLLC is a premier law firm specializing in Family Law and Divorce, with over 40 years of experience in protecting clients' rights during and after divorce. They offer a comprehensive range of services including divorce processe            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4f8e042f2cf52c3498021d808e1e069a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw9ycmlzlvnvy2tszubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-14 00:00:00.000000",
+    "disclosedDate": "2025-10-14 17:21:35.243984"
+  }
+}

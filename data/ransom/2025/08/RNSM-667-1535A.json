@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-667-1535A",
+  "type": "ransomware-incident",
+  "title": "Karndean International, LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Karndean International, LLC",
+    "domain": "karndean.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "crypto24",
+    "name": "crypto24",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 600000000000,
+    "description": "We have exfiltrated over 600GB of your most sensitive corporate data, including financial, technical, operational, and personal information covering customers, employees, and strategic business plans.",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2fybmrlyw4gsw50zxjuyxrpb25hbcwgtexdqgnyexb0bzi0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-25 00:00:00.000000",
+    "disclosedDate": "2025-08-15 12:12:15.717169"
+  }
+}

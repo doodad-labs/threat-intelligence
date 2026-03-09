@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-671-23EB3",
+  "type": "ransomware-incident",
+  "title": "Sense Eletronica ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sense Eletronica",
+    "country": "BR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "BrazilSense Sensores e Instrumentos specializes in automation of production processes and electrical engineering solutions. They offer a wide range of automation services and products aimed at improving operational efficiency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vuc2ugrwxldhjvbmljyubub3zh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-23 15:17:00.026083",
+    "disclosedDate": "2025-12-23 15:17:32.950095"
+  }
+}

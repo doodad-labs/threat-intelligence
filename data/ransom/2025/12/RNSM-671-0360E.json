@@ -1,0 +1,42 @@
+{
+  "id": "RNSM-671-0360E",
+  "type": "ransomware-incident",
+  "title": "COTTAGE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "COTTAGE",
+    "domain": "cottagehospital.org",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a3aab62c5ca525b4abcf7245fb7c90a1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q09uvefhrubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://ago.vermont.gov/document/2026-02-06-cottage-hospital-data-breach-notice-consumers",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-27 20:13:02.249470",
+    "disclosedDate": "2025-12-03 20:13:20.398308"
+  }
+}

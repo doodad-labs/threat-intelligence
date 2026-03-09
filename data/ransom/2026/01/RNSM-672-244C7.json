@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-244C7",
+  "type": "ransomware-incident",
+  "title": "Borg Argentina ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Borg Argentina",
+    "domain": "borgargentina.com.ar",
+    "country": "AR"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a5ac2d5c79058cd21b59691f8d1c9eb1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qm9yzybbcmdlbnrpbmfacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-24 20:12:47.720072",
+    "disclosedDate": "2026-01-24 20:13:04.771975"
+  }
+}

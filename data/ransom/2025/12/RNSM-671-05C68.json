@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-671-05C68",
+  "type": "ransomware-incident",
+  "title": "Rosland Capital ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rosland Capital",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rosland Capital is a precious metals asset management firm that sells gold and other precious metals in physical form.We are ready to upload corporate data. Projects, clients data, a bit of confidential files and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um9zbgfuzcbdyxbpdgfsqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-05 00:00:00.000000",
+    "disclosedDate": "2025-12-05 15:07:23.051184"
+  }
+}

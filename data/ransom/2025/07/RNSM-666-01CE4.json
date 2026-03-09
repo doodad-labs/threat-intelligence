@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-01CE4",
+  "type": "ransomware-incident",
+  "title": "LP Charpente ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LP Charpente",
+    "domain": "lpcharpente.com",
+    "country": "FR",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Charpente in Annecy in the Haute-Savoie region of France, LP Charpente is a builder of timber-frame houses and all types of traditional carpentry work, including zinc work, roofing and building extension renovations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dd991f9e3ea29e1d7436e6b0171f4b34.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tfagq2hhcnblbnrlqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-01 00:00:00.000000",
+    "disclosedDate": "2025-07-01 16:45:20.480843"
+  }
+}

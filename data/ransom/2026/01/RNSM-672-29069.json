@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-29069",
+  "type": "ransomware-incident",
+  "title": "Ruskin College ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ruskin College",
+    "domain": "ruskin.ac.uk",
+    "country": "UK",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "beast",
+    "name": "beast",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ruskin College Oxford provides accessible adult learning opportunities for individuals of all ages and backgrounds, offering a variety of courses including degree programs, access courses, and short courses. The college focuses on career-oriented education, ensuring personalized support and small class sizes to help students achieve their academic and professional goals. As part of the University of West London, Ruskin College guarantees high-quality teaching and extensive student support. Their target clients include adults seeking further education, employment readiness, or personal development",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/deb2f3860ba7232345466e974460d62a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/unvza2luienvbgxlz2vaymvhc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 00:00:00.000000",
+    "disclosedDate": "2026-01-29 22:59:18.961268"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-02A1E",
+  "type": "ransomware-incident",
+  "title": "Röben Tonbaustoffe ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Röben Tonbaustoffe",
+    "domain": "roeben.com",
+    "country": "DE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1a1c99c1bacfa7f665eb708d077c875e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uso2ymvuifrvbmjhdxn0b2zmzubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-02 16:22:12.443111",
+    "disclosedDate": "2026-01-02 16:22:27.590528"
+  }
+}

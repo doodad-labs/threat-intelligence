@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-10ACF",
+  "type": "ransomware-incident",
+  "title": "empirico-mr.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "empirico-mr.com",
+    "domain": "empirico-mr.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Empirico Research is a boutique global market-research and data-collection firm founded around 2016. The company combines online panels, telephone interviewing …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/505c31846f8a83317990e9001e7ad9b9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw1waxjpy28tbxiuy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-10 21:14:19.265896",
+    "disclosedDate": "2025-10-10 21:14:30.846980"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-0197F",
+  "type": "ransomware-incident",
+  "title": "Astrofein ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Astrofein",
+    "domain": "astrofein.com",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ASTROFEIN develops, produces and tests components and systems for space. We focus on small satellites, attitude control, structures, mechanisms and payloads. The comprehensive knowledge, expertise and experience of the employees ensure a high quality standard in different fields of the space technologies. ASTROFEIN is one of the world's leading manufacturers of reaction wheels. A family of reaction wheels for small satellites was successfully launched on the market.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/162861581690ebeca4446e26fe490730.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxn0cm9mzwluqhjhbnnvbwhvdxnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-07 00:00:00.000000",
+    "disclosedDate": "2025-12-01 15:18:04.120055"
+  }
+}

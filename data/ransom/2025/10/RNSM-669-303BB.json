@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-303BB",
+  "type": "ransomware-incident",
+  "title": "Thompson Dorfman Sweatman ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Thompson Dorfman Sweatman",
+    "country": "CA",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "obscura",
+    "name": "obscura",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 250000000000,
+    "description": "Revenue: $31.2kk | Leak Size: 250 GB | Status: Pending | Time Left: 8d 3h 57m 25s",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/97f8397555841c4a127947379a4f76c8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghvbxbzb24grg9yzm1hbibtd2vhdg1hbkbvynnjdxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-30 20:42:35.174828",
+    "disclosedDate": "2025-10-30 20:42:48.554313"
+  }
+}

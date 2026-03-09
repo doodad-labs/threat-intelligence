@@ -1,0 +1,31 @@
+{
+  "id": "RNSM-672-05B64",
+  "type": "ransomware-incident",
+  "title": "Saplog Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Saplog Group",
+    "country": "AL"
+  },
+  "actor": {
+    "id": "nova",
+    "name": "nova",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "SapLog specializes in national and international transport services, offering full truckload (FTL) and less-than-truckload (LTL) shipping solutions across Italy and Europe. The company provides dedicated express transport for urgent requests and a range of accessory services to enhance efficiency. With a modern fleet of vehicles that adhere to Euro 6 standards, SapLog ensures safe and environmentally friendly transportation. Their intended clients include businesses requiring reliable logistics solutions for their goods.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2fwbg9niedyb3vwqg5vdme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 19:23:47.966234",
+    "disclosedDate": "2026-01-05 19:24:20.886824"
+  }
+}

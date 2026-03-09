@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-671-22B13",
+  "type": "ransomware-incident",
+  "title": "Lugiano Medical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Lugiano Medical",
+    "domain": "lugianomedical.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/thvnawfubybnzwrpy2fsqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-22 15:09:12.532373",
+    "disclosedDate": "2025-12-22 15:10:14.299077"
+  }
+}

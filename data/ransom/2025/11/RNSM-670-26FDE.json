@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-26FDE",
+  "type": "ransomware-incident",
+  "title": "Meinhardt Malaysia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Meinhardt Malaysia",
+    "domain": "meinhardtgroup.com",
+    "country": "MY",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Meinhardt Malaysia is an engineering consultancy firm that offers a diverse range of professional engineering and project management services. The company was established in 1973 and it's a subsidiary of the Meinhardt Group. Their service spans across multiple industries including Building Engineering, Transportation, Water & Environment, and Urban Development. They have numerous landmark projects in their portfolio including the planning and design of technologically advanced buildings.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/22d397bf6918aa00b8a288736d7f07b5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvpbmhhcmr0ie1hbgf5c2lhqgrpcmv3b2xm",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-24 07:17:52.081418",
+    "disclosedDate": "2025-11-26 17:17:25.954977"
+  }
+}

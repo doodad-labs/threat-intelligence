@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-0909C",
+  "type": "ransomware-incident",
+  "title": "iQ NetSolutions ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "iQ NetSolutions",
+    "domain": "iqnetsolutions.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8b69042120ac5f4c9cfda213ae730ceb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/avegtmv0u29sdxrpb25zqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-09 17:59:32.488541",
+    "disclosedDate": "2026-02-09 17:59:47.842133"
+  }
+}

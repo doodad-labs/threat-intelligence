@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-670-07BD0",
+  "type": "ransomware-incident",
+  "title": "Koch & Co, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Koch & Co, Inc.",
+    "country": "US"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 54000000000,
+    "description": "Koch & Co, Inc., is a wood door and cabinet manufacturing company.We will upload 54gb of corporate documents soon. Detailed financials and accounting, projects information, contracts, agreements, lots of HR files, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s29jacamienvlcbjbmmuqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-07 00:00:00.000000",
+    "disclosedDate": "2025-11-07 15:18:03.886096"
+  }
+}

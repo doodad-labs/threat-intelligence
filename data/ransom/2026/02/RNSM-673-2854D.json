@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-2854D",
+  "type": "ransomware-incident",
+  "title": "www.pyramisgroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.pyramisgroup.com",
+    "domain": "pyramisgroup.com",
+    "country": "GR",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "alphalocker",
+    "name": "alphalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "PYRAMIS METALLOURGIA S.A. PYRAMIS is the only producer of household electrical appliances in Greece, and at the same time, a Global Champion with presence in more than 85 countries and exports exceeding 97% of its production.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/85902cd77641208c51d6e24cc550db2b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnb5cmftaxnncm91cc5jb21aywxwagfsb2nrzxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-28 17:27:48.536383",
+    "disclosedDate": "2026-02-28 17:28:14.514577"
+  }
+}

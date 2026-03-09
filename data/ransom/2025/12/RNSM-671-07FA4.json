@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-07FA4",
+  "type": "ransomware-incident",
+  "title": "Acoustical Control ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Acoustical Control",
+    "domain": "acousticalcontrol-llc.com",
+    "country": "IN",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/74a6d2685f946424b09a3b9a989c4713.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnvdxn0awnhbcbdb250cm9sqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-07 13:53:45.601558",
+    "disclosedDate": "2025-12-07 13:54:02.557175"
+  }
+}

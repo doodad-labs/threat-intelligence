@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-30766",
+  "type": "ransomware-incident",
+  "title": "Anderson-Moore Construction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Anderson-Moore Construction",
+    "domain": "amcbuild.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9885e9de8ac081b9618b415f263313f2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw5kzxjzb24ttw9vcmugq29uc3rydwn0aw9uqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-30 16:52:39.531695",
+    "disclosedDate": "2025-10-30 16:52:54.743461"
+  }
+}

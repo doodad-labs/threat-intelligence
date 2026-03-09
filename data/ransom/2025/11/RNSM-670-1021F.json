@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-1021F",
+  "type": "ransomware-incident",
+  "title": "ielplumbing.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ielplumbing.com",
+    "domain": "ielplumbing.com",
+    "country": "CA",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "I.E. Plumbing Services is a privately-held plumbing contractor based in Southern California, operating from two locations in the Riverside / …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9486635bee1aca8c11741036e2412203.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/awvscgx1bwjpbmcuy29tqhnhzmvwyxk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-10 20:45:45.585023",
+    "disclosedDate": "2025-11-10 20:46:00.608200"
+  }
+}

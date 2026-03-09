@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-2648A",
+  "type": "ransomware-incident",
+  "title": "Uniflex Technology Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Uniflex Technology Inc",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 430000000000,
+    "description": "UNIFLEX TECHNOLOGY INC\r https://www.uniflex.com.tw/\r \r Total data in the leak: 430GB\r \r Leaked data:\r - Clients: Asus, BMW, Mercedes-Benz, ELAN MICROELECTRONICS CORP., Dell, Volkswagen, Wacom, Netronix Inc, Solomon Systech, Innolux and other large clients all over the world!\r - Data Classification: confidential\r - Projects: Flexible printed circuit (FPC) boards, surface mount technology (SMT) services, design, manufacturing, assembly of FPC boards.\r - Data: Agreements, projects, drawings, contracts, technical documentation, reports, research, quality control, technological processes and equipment.\r And a lot of other VERY IMPORTANT information!\r \r Full publication within two weeks!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bfe46104c9ed1c408828c444e6c01f80.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pzmxlecbuzwnobm9sb2d5ieluy0bpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-26 00:00:00.000000",
+    "disclosedDate": "2026-01-26 21:22:57.005373"
+  }
+}

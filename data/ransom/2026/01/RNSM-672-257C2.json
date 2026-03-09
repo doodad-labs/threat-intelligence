@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-257C2",
+  "type": "ransomware-incident",
+  "title": "CCCM.BC.CA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CCCM.BC.CA",
+    "domain": "cccm.bc.ca",
+    "country": "CA"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/866d96d3a1849a67cb9a44b93a2455b9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0ndts5cqy5dqubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-25 15:11:29.147184",
+    "disclosedDate": "2026-01-25 15:11:43.367789"
+  }
+}

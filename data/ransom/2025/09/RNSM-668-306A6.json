@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-668-306A6",
+  "type": "ransomware-incident",
+  "title": "Tom Duffy Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tom Duffy Company",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 7000000000,
+    "description": "Tom Duffy Company specializes in floor covering and supplies offering flooring installation, Ceramic Tile & Stone Setting, and floor heating systems.We are going to upload 7 gb of corporate data. Employee information (names, DOB, address, emails, phones), customers and partners information, financials, lots of agreements and contracts, NDAs etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vg9tier1zmz5ienvbxbhbnlaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-26 00:00:00.000000",
+    "disclosedDate": "2025-09-30 11:45:41.292660"
+  }
+}

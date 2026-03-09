@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-02F6C",
+  "type": "ransomware-incident",
+  "title": "Farmacia San Pablo ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Farmacia San Pablo",
+    "domain": "farmaciasanpablo.com.mx",
+    "country": "MX",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/02de7811b2a3c1b8a9c979eb7ac0dc8b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmfybwfjawegu2fuifbhymxvqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-02 19:06:38.460067",
+    "disclosedDate": "2026-01-02 19:06:54.344956"
+  }
+}

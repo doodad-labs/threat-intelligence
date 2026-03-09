@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-21F04",
+  "type": "ransomware-incident",
+  "title": "trailridgeenergy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "trailridgeenergy",
+    "domain": "trailridgeenergy.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Trail Ridge Energy Partners II LLC is a privately held oil and gas exploration and production company headquartered in Grapevine, Texas and operating in West Texas' Permian Basin, one of the world's largest accumulation of hydrocarbons. Numerous unconventional resource oil plays are now being exploited through the application of modern vertical and horizontal drilling and completion technology. This new technology has caused a resurgence in activity and production from the basin and is expected to continue for decades. Attracted to the Permian by the vast quantities of oil-in-place and stacked reservoirs, the company commenced operations in Scurry County in 2013 on its 70,000 contiguous net acres targeting Wolfcamp D and Mississippian Lime.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3b22fb1c79d8306838a7251df9ee4ec5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhjhawxyawrnzwvuzxjneubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-21 08:22:35.211000",
+    "disclosedDate": "2025-10-21 08:51:05.865375"
+  }
+}

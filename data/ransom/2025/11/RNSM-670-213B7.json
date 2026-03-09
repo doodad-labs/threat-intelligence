@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-213B7",
+  "type": "ransomware-incident",
+  "title": "First Fruits Farms ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "First Fruits Farms",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 26000000000,
+    "description": "First Fruits Farms, located in Prescott, Washington, is an agricultural company that specializes in apple and cherry orchards.We will upload 26gb of corporate documents soon. Employee personal documents (SSNs, passports, w-9 forms), detailed financials, customer data, contracts and agreements, projects, drawings and specifications, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmlyc3qgrnj1axrziezhcm1zqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 00:00:00.000000",
+    "disclosedDate": "2025-11-21 17:19:12.654246"
+  }
+}

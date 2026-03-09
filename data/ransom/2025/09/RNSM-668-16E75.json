@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-16E75",
+  "type": "ransomware-incident",
+  "title": "Allure Clinics ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Allure Clinics",
+    "domain": "allureclinics.com",
+    "country": "AU",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7d0b68d1506a8e1320a13c61dd1fa323.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwxsdxjliensaw5py3naa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-16 07:21:58.310638",
+    "disclosedDate": "2025-09-16 07:22:18.166974"
+  }
+}

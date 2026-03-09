@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-046E7",
+  "type": "ransomware-incident",
+  "title": "Elliott Tax Service ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Elliott Tax Service",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 82000000000,
+    "description": "Elliott Tax Service is a local firm in San Mateo specializing in income tax preparation and advice, boasting 27 years of experience. We will upload 82gb corporate documents soon. Client personal documents scans, employee personal information and other HR information. Clients financials and other files, NDA, credit card details, payment details, confidentiality agreements, legal and court documents, police reports, and so on.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwxsaw90dcbuyxggu2vydmljzubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-04 00:00:00.000000",
+    "disclosedDate": "2025-11-04 15:13:25.948056"
+  }
+}

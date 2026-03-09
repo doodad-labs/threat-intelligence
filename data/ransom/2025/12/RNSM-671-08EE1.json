@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-08EE1",
+  "type": "ransomware-incident",
+  "title": "SLA.DK ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SLA.DK",
+    "domain": "sla.dk",
+    "country": "DK",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Our projects solve some of today's hardest urban problems while creating genuine amenity values for all. Based in Copenhagen, Aarhus and Oslo we form a multidisciplinary architectural lab that constantly strives to challenge and expand the boundaries of urban space, city planning and landscape architecture. Drawing on our strong Nordic roots we have realized numerous projects in Denmark, Europe, Asia and Africa.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ef303c81a3317d5bf7c7df8d7c855c7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u0xblkrlqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-07 13:48:27.050000",
+    "disclosedDate": "2025-12-08 15:26:09.308740"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-2688A",
+  "type": "ransomware-incident",
+  "title": "K.M. Packaging ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "K.M. Packaging",
+    "domain": "kmp.co.th",
+    "country": "TH",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "direwolf",
+    "name": "direwolf",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Manufacturing",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7fcc4b179b4f8864b51c56a15eb007b5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sy5nlibqywnrywdpbmdazglyzxdvbgy=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-20 22:48:13.728163",
+    "disclosedDate": "2025-11-26 17:20:43.196296"
+  }
+}

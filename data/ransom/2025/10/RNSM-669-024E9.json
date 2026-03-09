@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-669-024E9",
+  "type": "ransomware-incident",
+  "title": "suratisweetmart.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "suratisweetmart.com",
+    "domain": "suratisweetmart.com",
+    "country": "CA",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 600000000000,
+    "description": "We have over 600 GB of your data, if you dont want your data leak or sold, let us know",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8decc4ce5fd1b6ec291d9c813abfa165.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c3vyyxrpc3dlzxrtyxj0lmnvbubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-02 15:26:40.153000",
+    "disclosedDate": "2025-10-02 15:45:30.230991"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-138FA",
+  "type": "ransomware-incident",
+  "title": "Business Integra ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Business Integra",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 16000000000,
+    "description": "Business Integra provides solutions for scientific, engineering, information technology, cyber-security, and more.We are ready to upload 16gb of corporate documents. Detailed employees personal information (complete I-9 forms, passports, DLs, SSNs, address, emails and so on), customers/clients information, financials, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnvzaw5lc3mgsw50zwdyyubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 00:00:00.000000",
+    "disclosedDate": "2025-10-13 23:38:18.618371"
+  }
+}

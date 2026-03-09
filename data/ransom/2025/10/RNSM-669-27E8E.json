@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-27E8E",
+  "type": "ransomware-incident",
+  "title": "www.americanadecolchones.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.americanadecolchones.com",
+    "domain": "americanadecolchones.com",
+    "country": "CO",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "stormous",
+    "name": "stormous",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "VPN access to the company’s internal network is provided.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmftzxjpy2fuywrly29sy2hvbmvzlmnvbubzdg9ybw91cw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-27 20:46:42.405369",
+    "disclosedDate": "2025-10-27 20:46:44.411216"
+  }
+}

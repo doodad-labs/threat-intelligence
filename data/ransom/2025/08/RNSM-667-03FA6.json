@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-03FA6",
+  "type": "ransomware-incident",
+  "title": "Banco Guanabara ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Banco Guanabara",
+    "domain": "bancoguanabara.com.br",
+    "country": "BR",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Banco Guanabara, financiamento de veculos comerciais, financie seu nibus, caminhes e Sprinters, CDC, Leasing, BNDES Finame e Finame Leasing, Av. Brasil 8.255 Ramos Rio de Janeiro RJ CEP: 21030.000, Tel.: (21) 2562-9600",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3fa395ab32f5d03f619f7d896b374783.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmfuy28gr3vhbmfiyxjhqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-30 19:45:53.091602",
+    "disclosedDate": "2025-08-03 20:19:13.445591"
+  }
+}

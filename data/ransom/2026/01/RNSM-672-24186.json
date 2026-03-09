@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-24186",
+  "type": "ransomware-incident",
+  "title": "Milott Laboratories ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Milott Laboratories",
+    "domain": "milott.co.th",
+    "country": "TH",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/529f113974f27479c9925b859925efe1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twlsb3r0iexhym9yyxrvcmllc0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-24 05:22:28.667543",
+    "disclosedDate": "2026-01-24 05:22:52.838100"
+  }
+}

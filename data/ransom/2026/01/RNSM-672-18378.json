@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-672-18378",
+  "type": "ransomware-incident",
+  "title": "Mid-park Ink ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mid-park Ink",
+    "domain": "mid-park.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "A construction holding from Kentucky.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ec398c2ace59af15747de03d348d4375.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twlklxbhcmsgsw5rqgdlbmvzaxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-18 00:00:00.000000",
+    "disclosedDate": "2026-01-18 23:53:37.754143"
+  }
+}

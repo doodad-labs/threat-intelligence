@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-670-2084C",
+  "type": "ransomware-incident",
+  "title": "naffco.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "naffco.com",
+    "domain": "naffco.com",
+    "country": "AE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1000000000000,
+    "description": "NAFFCO is an international manufacturer and supplier of firefighting, security, and safety products.\r They also offer training services and emergency responder certification. The company is headquartered in Dubai, in the United Arab Emirates.\r With a global network spanning over 100 countries, NAFFCO has been recognized as the unparalleled leader in fire safety.\r \r The official website of NAFFCO says:\" Our success is driven by our \"passion to protect\"\"\r We do not know for certain how well they protect their clients, but they could not protect themselves.\r We have 1TB of data at our disposal (fiscal data, internal mail, HR data, budgets, strategic development plans and much more)",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7e1c65704a5bb32078de04271aea3d52.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmfmzmnvlmnvbubpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-19 01:00:00.000000",
+    "disclosedDate": "2025-11-20 01:44:21.043689"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-673-0868B",
+  "type": "ransomware-incident",
+  "title": "KlearNow.AI ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KlearNow.AI",
+    "domain": "klearnow.ai",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 3000000000000,
+    "description": "www.klearnow.ai https://www.zoominfo.com/c/klearnowai/566144278 3 TB of data: all correspondence for the last two years, a database dump, all source code. We filed CBP declarations for giants such as BASF, Safran, Sumitomo, etc. KlearNow.AI is on a mission to simplify global trade with AI and ML driven products that make logistics clear, cost-effective, and transparent by transforming B2B supply chains with its smart Logistics as a Service (LaaS) platform. The platform eliminates manual data ent",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2xlyxjob3cuquladghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-08 19:54:47.000000",
+    "disclosedDate": "2026-02-08 20:05:19.617147"
+  }
+}

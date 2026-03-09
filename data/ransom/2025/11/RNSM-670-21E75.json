@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-21E75",
+  "type": "ransomware-incident",
+  "title": "KOREANAIRCND.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "KOREANAIRCND.COM",
+    "domain": "koreanaircnd.com",
+    "country": "KR",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/32fe41253f0438b5dc68f20aec29eae8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s09srufoqulsq05elknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 17:36:19.958308",
+    "disclosedDate": "2025-11-21 17:36:34.250592"
+  }
+}

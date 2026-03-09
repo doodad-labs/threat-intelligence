@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-13804",
+  "type": "ransomware-incident",
+  "title": "FLUKE.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FLUKE.COM",
+    "domain": "fluke.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Fluke Corporation is an international company known for its production of electronic test tools and software. Established in 1948 in Everett, Washington, Fluke has become a global leader in the commercial electric test tool and software industry. Its products serve diverse markets such as wireless networking, precision measurement, and condition monitoring, helping various businesses and professionals across the globe.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2ebea3506b1b4e3e97ac4157bebdbdb4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rkxvs0uuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-13 19:14:04.929397",
+    "disclosedDate": "2025-11-13 19:14:22.673300"
+  }
+}

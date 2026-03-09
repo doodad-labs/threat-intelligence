@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-212F5",
+  "type": "ransomware-incident",
+  "title": "Krewett ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Krewett",
+    "domain": "krewett.de",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Das Ingenieurbüro Dipl.-Ing. K. Krewett in Iserlohn bietet fundierte Ingenieurdienstleistungen in verschiedenen Bereichen wie Bauplanung, technische Beratung und Projektmanagement. Mit langjähriger Erfahrung und hoher Fachkompetenz unterstützen wir private und gewerbliche Kunden bei der Planung, Umsetzung und Betreuung technischer Projekte – kompetent, zuverlässig und individuell.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2576b4be9897dcaaa4f5ff288329ff81.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s3jld2v0debkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-21 18:43:15.483379",
+    "disclosedDate": "2025-08-21 19:48:06.867470"
+  }
+}

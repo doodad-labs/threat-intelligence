@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-057A2",
+  "type": "ransomware-incident",
+  "title": "NLFX Professional ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "NLFX Professional",
+    "domain": "nlfxpro.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "NLFX Professional is an award-winning leader in the audio, video, and lighting industry, specializing in selling equipment and providing product integration solutions. They offer a wide range of products, including pro audio, lighting systems, video streaming gear, and musical instruments, catering to clients in various sectors such as entertainment and worship. With a focus on customer satisfaction, NLFX provides exceptional technical support, financing options, and expert installation services. They are certified dealers for over 300 top-rated professional manufacturers, ensuring high-quality offerings for their clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f66ac1de4271b99ea20014c983f6609d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tkxgwcbqcm9mzxnzaw9uywxac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-05 06:01:10.546000",
+    "disclosedDate": "2026-01-05 06:27:32.791609"
+  }
+}

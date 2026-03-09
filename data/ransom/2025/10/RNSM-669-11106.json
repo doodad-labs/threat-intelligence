@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-11106",
+  "type": "ransomware-incident",
+  "title": "EPS FUJ Private School UAE ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EPS FUJ Private School UAE",
+    "domain": "epsfuj.comw",
+    "country": "AE",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "bqtlock",
+    "name": "bqtlock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "epsfuj.com www.epsfuj.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b5a54b64a34de5d7844218183fd5cb70.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rvbtiezvsibqcml2yxrlifnjag9vbcbvquvaynf0bg9jaw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-11 20:27:08.384900",
+    "disclosedDate": "2025-10-11 20:27:35.043646"
+  }
+}

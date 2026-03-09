@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-27B37",
+  "type": "ransomware-incident",
+  "title": "Engineered Profiles ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Engineered Profiles",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 56000000000,
+    "description": "Engineered Profiles specializes in high-quality plastic extrusion, design, and advanced manufacturing technologies.We are ready to upload more than 56gb of corporate documents. Employee information (social security cards, driver licenses, medical information, addresses, phones and so on), projects, customer information, accounting, confidentiality agreements, NDA, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw5naw5lzxjlzcbqcm9mawxlc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-27 00:00:00.000000",
+    "disclosedDate": "2025-10-27 14:48:35.059986"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-04A9A",
+  "type": "ransomware-incident",
+  "title": "www.primax.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.primax.com",
+    "domain": "primax.com",
+    "country": "PE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Primax Perú is a leading Peruvian corporation in the fuel and lubricant sector, with over 20 years of consistent success, focused on energizing consumers through innovative solutions. The company offers a wide range of products including differentiated fuels, lubricants, and convenience store items, catering to both industrial and individual clients across Peru, Colombia, and Ecuador. Their commitment to quality and sustainability is evident in their extensive product portfolio designed to meet diverse operational needs. Primax also prioritizes corporate ethics, compliance, and community engagement as part of its operation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cd64a5fe1d01ecae49a3b2faa0c95def.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnbyaw1hec5jb21abhluea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-04 13:52:23.283000",
+    "disclosedDate": "2025-09-04 14:16:48.167576"
+  }
+}

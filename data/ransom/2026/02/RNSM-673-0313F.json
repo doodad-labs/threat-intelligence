@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-0313F",
+  "type": "ransomware-incident",
+  "title": "Drake Precision Dental Laboratory ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Drake Precision Dental Laboratory",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 39000000000,
+    "description": "Drake Dental Lab specializes in creating esthetic dental solutions, offering a range of products including crowns, bridges, dentures, implants, clear aligners, and sleep appliances. Since 1956, the company has been dedicated to precision and innovation in digital dentistry.We will upload 39gb of corporate data soon. Employee personal information (SSNs and other information of more than 120 employees),financials, NDAs, contracts and agreements, customers' information.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rhjha2uguhjly2lzaw9uierlbnrhbcbmywjvcmf0b3j5qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-03 00:00:00.000000",
+    "disclosedDate": "2026-02-03 14:48:31.597331"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-668-01B63",
+  "type": "ransomware-incident",
+  "title": "LEVEL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LEVEL",
+    "country": "US"
+  },
+  "actor": {
+    "id": "desolator",
+    "name": "desolator",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Status: waiting | Expiration: 2025-09-05T00:00",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6293ae03d5db00228d7351189deddfa1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tevwruxazgvzb2xhdg9y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-31 00:00:00",
+    "disclosedDate": "2025-09-01 10:19:53.871371"
+  }
+}

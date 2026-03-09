@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-21B9B",
+  "type": "ransomware-incident",
+  "title": "SUMITOMOCHEMICAL.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SUMITOMOCHEMICAL.COM",
+    "domain": "sumitomochemical.com",
+    "country": "JP",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Sumitomo Chemical Co. Limited is a Japan-based company involved in the petrochemicals, energy, and functional materials sectors. It also deals with construction materials, pharmaceuticals, and agricultural chemicals. Sumitomo Chemical offers a wide range of products and services from raw materials to processed products in each of these areas. Its mission includes resolving societal issues through business activities, implementing sustainable practices, and nurturing a vibrant corporate culture.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/523c883353f404de998a4d121bbd7446.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1vnsvrptu9dsevnsunbtc5dt01ay2xvca==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 13:06:13.793233",
+    "disclosedDate": "2025-11-21 13:06:28.773865"
+  }
+}

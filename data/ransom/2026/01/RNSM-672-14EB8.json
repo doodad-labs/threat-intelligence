@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-14EB8",
+  "type": "ransomware-incident",
+  "title": "Soapeople ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Soapeople",
+    "domain": "soapeople.com",
+    "country": "BE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "payoutsking",
+    "name": "payoutsking",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Soapeople is a consulting company that specializes in SAP and salesforce implementation to drive digital transformation. They are an accredited SAP and Salesforce partner. With a team of experts, they provide solutions to businesses in areas like ERP, CRM, Analytics, Cloud infrastructure, and more. Their solutions are focused on improving business performance and efficiency.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c57082be069239381a200c28996f4424.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u29hcgvvcgxlqhbhew91dhnraw5n",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-25 00:00:00.000000",
+    "disclosedDate": "2026-01-14 21:39:44.711534"
+  }
+}

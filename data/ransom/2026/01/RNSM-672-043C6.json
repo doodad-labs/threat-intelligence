@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-043C6",
+  "type": "ransomware-incident",
+  "title": "Sönmezler Metal ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sönmezler Metal",
+    "domain": "sonmezlermetal.com.tr",
+    "country": "TR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aefdd49b65b2bc45de860e1c1232256f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u8o2bm1lemxlcibnzxrhbebxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-04 13:09:14.306112",
+    "disclosedDate": "2026-01-04 13:09:28.830354"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-667-233C6",
+  "type": "ransomware-incident",
+  "title": "Dottori Commercialisti Associati ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Dottori Commercialisti Associati",
+    "domain": "ppidottoricommercialisti.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "(including financial documentation and client data) DCA - Dottori Commercialisti Associati is a professional association founded by members with over 20 years of experience in tax and corporate consulting. They offer services including tax and fiscal advice, corporate consulting, and business and accounting advice. The firm aims to assist clients needing guidance in various financial matters. Their location is in Milan, Italy.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4b5656d47805164ca0880079db7c184e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rg90dg9yasbdb21tzxjjawfsaxn0asbbc3nvy2lhdglazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-23 05:26:49.812248",
+    "disclosedDate": "2025-08-23 06:14:32.141740"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-0492B",
+  "type": "ransomware-incident",
+  "title": "IONODES ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IONODES",
+    "domain": "ionodes.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "IONODES, Canada - Privacy? No, we don't know about that. The company supplies and configures solutions for IP video storage, management, and display. Its products include smart devices such as IP video encoders and decoders, NVR servers, reco            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d79d783e692418782b53e19046743084.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/su9ot0rfu0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-03 00:00:00.000000",
+    "disclosedDate": "2025-10-04 00:42:39.371326"
+  }
+}

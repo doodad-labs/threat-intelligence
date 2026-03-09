@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-27663",
+  "type": "ransomware-incident",
+  "title": "twi-group.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "twi-group.com",
+    "domain": "twi-group.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "devman",
+    "name": "devman",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] TWI Group is a specialized freight forwarder and logistics provider that primarily focuses on the trade show industry. The company provides a wide range of services, including domestic and international transportation, on-site handling, customs clearance, and more. Based in Nevada, USA, TWI operates globally reaching more than 180 countries. They are recognized for their expertise in managing logistics for all sizes of trade show exhibits.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fc654c1e2d252ab393a435186dfc3205.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dhdplwdyb3vwlmnvbubkzxztyw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-27 23:36:04.296060",
+    "disclosedDate": "2026-01-27 23:37:26.044658"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-1483F",
+  "type": "ransomware-incident",
+  "title": "olarra ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "olarra",
+    "domain": "olarra.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Olarra is specialized in long products manufacturing. Olarra is a leaflet martensitic and ferritic steels can be found, but the essential part of their production is based on austenitic steels. New requirements involve high-quality materials such as duplex steels which also have a place in their production. Olarra was founded in 1955 and is based in Italy.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dbf203884a6812ec22fde5b558df61c4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/b2xhcnjhqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-14 18:09:04.679000",
+    "disclosedDate": "2025-09-14 19:04:56.333083"
+  }
+}

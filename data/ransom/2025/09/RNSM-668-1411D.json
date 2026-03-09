@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-1411D",
+  "type": "ransomware-incident",
+  "title": "VANCHOR Asset Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "VANCHOR Asset Management",
+    "domain": "fairfield.co.kr",
+    "country": "HK",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "VANCHOR Asset Management, Korean Leak part 1. - The company operates in the stock market and provides and manages products based on alternative investment assets, primarily real estate investments. The company states that “the company puts             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9e2e1bc8abe4a616d26fa6717d5a6a21.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vkfoq0hpuibbc3nldcbnyw5hz2vtzw50qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-14 00:00:00.000000",
+    "disclosedDate": "2025-09-14 23:51:19.505441"
+  }
+}

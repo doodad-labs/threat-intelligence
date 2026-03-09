@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-29A4A",
+  "type": "ransomware-incident",
+  "title": "Time Equities ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Time Equities",
+    "domain": "timeequities.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "payoutsking",
+    "name": "payoutsking",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Time Equities is a globally diversified real estate firm, founded in 1966, based in New York City. The company focuses on 3 main aspects: acquisition, development, and management of properties. It handles a variety of types, ranging from office and retail to industrial and residential. They have properties in 30 states in the US, as well as in Europe and Canada.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c048f5a1637292cb3dfb2240ee3e683d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgltzsbfcxvpdgllc0bwyxlvdxrza2luzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-22 10:07:00.000000",
+    "disclosedDate": "2025-10-29 19:15:10.652054"
+  }
+}

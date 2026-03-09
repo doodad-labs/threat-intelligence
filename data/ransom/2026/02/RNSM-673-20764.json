@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-20764",
+  "type": "ransomware-incident",
+  "title": "LaBaguette ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LaBaguette",
+    "domain": "labaguette.com.kw",
+    "country": "",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6231a10bbcd3ec1fa3d2aea7d62dcf66.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgfcywd1zxr0zubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-17 00:00:00.000000",
+    "disclosedDate": "2026-02-20 23:08:13.268554"
+  }
+}

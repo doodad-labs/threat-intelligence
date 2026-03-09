@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-05085",
+  "type": "ransomware-incident",
+  "title": "hillsidelibrary.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hillsidelibrary.org",
+    "domain": "hillsidelibrary.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hillside Public Library offers a number of options for patrons blind or visually impaired. Our Kurzweil software scans in any typewritten document and reads the document aloud to the patron. We also have 2 types of magnifiers. The first, the software-based Zoomtext, reads any computer-generated documents and files, including web/internet pages. Our other magnifier allows the user to increase the print size on documents and books.\r Employees: 25\r Revenue: $5 Million\r Industry: Hospitality\r Phone Number:(973) 923-4413",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0ee5778c5d7abe699166427d1d95092c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aglsbhnpzgvsawjyyxj5lm9yz0bpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-05 06:44:00.000000",
+    "disclosedDate": "2025-10-05 07:19:54.152599"
+  }
+}

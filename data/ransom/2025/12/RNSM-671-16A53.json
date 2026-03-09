@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-16A53",
+  "type": "ransomware-incident",
+  "title": "Milhench Supply Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Milhench Supply Company",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Milhench is a family-run business that has been providing everyday necessities to keep various industries running cleanly and efficiently for over three generations. Their mission focuses on delivering dependability and quick delivery services across New England. They offer Vendor Managed Inventory programs to help clients maintain lean inventory and improve cash flow. Milhench serves a diverse range of clients, including agriculture, healthcare, hospitality, and government sectors.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7429fa7a862e99ebaefb405d2d0458b1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twlsagvuy2ggu3vwcgx5ienvbxbhbnlac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-16 21:29:34.366000",
+    "disclosedDate": "2025-12-16 21:31:57.199192"
+  }
+}

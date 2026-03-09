@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-2398C",
+  "type": "ransomware-incident",
+  "title": "maxusacorp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "maxusacorp.com",
+    "domain": "maxusacorp.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The company specializes in developing innovative and durable tools such as rebar tiers, nail guns, a...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/286087d167ec01e99c7a30dbb0082904.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bwf4dxnhy29ycc5jb21abg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-15 17:25:00.000000",
+    "disclosedDate": "2026-02-23 13:19:00.366601"
+  }
+}

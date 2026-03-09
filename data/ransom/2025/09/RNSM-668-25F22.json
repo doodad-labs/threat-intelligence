@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-25F22",
+  "type": "ransomware-incident",
+  "title": "HUB ASSET MANAGEMENT Co ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "HUB ASSET MANAGEMENT Co",
+    "domain": "hubasset.co.kr",
+    "country": "JP",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HUB ASSET MANAGEMENT Co, KoreanLeak3 - an alternative approach to investment security. The company has a portfolio of 2.8 billion won, $2 million. HUB ASSET \"strives to set standards for best practices in alternative investments by making inv            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c4c1f6b2c36bb60980bec97b581dd228.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sfvcieftu0vuie1btkfhru1ftlqgq29acwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-25 00:00:00.000000",
+    "disclosedDate": "2025-09-25 19:10:25.977709"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-07F17",
+  "type": "ransomware-incident",
+  "title": "indiesemi.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "indiesemi.com",
+    "domain": "indiesemi.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "indie offers highly innovative automotive semiconductors and software solutions for Advanced Driver Assistance Systems (ADAS), including LiDAR, connected car, user experience and electrification applications.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/55f767c9049b3281e2a43c3050d1eb3c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw5kawvzzw1plmnvbubjagfvcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-07 19:50:53.188903",
+    "disclosedDate": "2025-10-07 19:51:06.189793"
+  }
+}

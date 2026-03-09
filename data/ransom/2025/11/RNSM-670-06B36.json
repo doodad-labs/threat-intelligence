@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-670-06B36",
+  "type": "ransomware-incident",
+  "title": "vratatech ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "vratatech",
+    "domain": "vratatech.com",
+    "country": "IN"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "vratatech",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dnjhdgf0zwnoqg5pz2h0c3bpcmu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-06 09:40:28.031906",
+    "disclosedDate": "2025-11-06 09:40:30.774517"
+  }
+}

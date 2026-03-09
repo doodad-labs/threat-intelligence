@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-077BF",
+  "type": "ransomware-incident",
+  "title": "Sierra Management Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sierra Management Group",
+    "domain": "sierramanagementgroup.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "genesis",
+    "name": "genesis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Provides comprehensive medical practice management",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ecd1e585d5c86b340dc75efcb78baf54.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2llcnjhie1hbmfnzw1lbnqgr3jvdxbaz2vuzxnpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-07 00:00:00.000000",
+    "disclosedDate": "2026-03-07 11:41:03.997042"
+  }
+}

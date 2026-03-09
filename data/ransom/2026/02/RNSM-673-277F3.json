@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-673-277F3",
+  "type": "ransomware-incident",
+  "title": "Grand Hotel ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Grand Hotel",
+    "domain": "grand-hotel.org",
+    "country": "",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "grand-hotel.org zoominfo.com/c/grand-hotel/369020995 The Grand Hotel was established in 1952. Supported by red columns and with golden roof tiling, the Grand Hotel stands midway up Yuanshan, much like a majestic 14-storey palace. Facing Keelung River, with Yangming Mountain to its, the hotel offers an amazing view of Songshan District to the East and Danshui to the West. The Grand Hotel, structured through western construction methods, is decorated with elegant classical Chinese details. This fusion ofEast and West makes the hotel a fine expression of Chinese art upon a foundation of modern western architecture. No matter if visitors are tourists or business men, all those who stop by and marvel at the architectural beauty of the hotel would no doubt want to reserve for themselves a wonderful stay. The hotel is equipped with 500 rooms",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3jhbmqgsg90zwxadghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.travelweekly-asia.com/travel-news/hotel-news/iconic-hotel-in-taiwan-hit-by-cyberattack",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-27 11:30:27.000000",
+    "disclosedDate": "2026-02-27 14:45:55.252755"
+  }
+}

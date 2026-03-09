@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-26F4B",
+  "type": "ransomware-incident",
+  "title": "Georgia Dermatology & Skin Cancer Center ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Georgia Dermatology & Skin Cancer Center",
+    "domain": "gaderm.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ca5e06c15d97bc5637b7225be96dde6c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2vvcmdpysbezxjtyxrvbg9nesamifnraw4gq2fuy2vyienlbnrlckbxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-26 17:54:44.139050",
+    "disclosedDate": "2025-12-26 17:54:59.133201"
+  }
+}

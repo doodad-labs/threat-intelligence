@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-07251",
+  "type": "ransomware-incident",
+  "title": "J Lorber ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "J Lorber",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 45000000000,
+    "description": "J. Lorber Company specializes in a wide range of plumbing, HVAC, and hydronics products, including water heaters, fixtures, and heating systems.We are going to upload 45gb of data soon. Personal documents of customers (DLs, addresses, credit card details and so on), employee information (names, DOB and other information), financial and accounting files, contracts, agreements, projects, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sibmb3jizxjaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-07 00:00:00.000000",
+    "disclosedDate": "2025-10-07 13:16:54.209449"
+  }
+}

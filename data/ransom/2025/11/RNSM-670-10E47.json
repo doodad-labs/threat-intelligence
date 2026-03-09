@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-10E47",
+  "type": "ransomware-incident",
+  "title": "MARCK Industries ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MARCK Industries",
+    "domain": "marck.net",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "GMARCK Industries believe that the services we provide make a difference: In Your Company - From your first 360 Waste Audit to implementing and maintaining your customized recycling program, we help you reach your sustainability goals while helping you increase efficiencies and reduce costs. In Our Community - Recycling keeps reusable products out of the landfill, while boosting the local economy with sustainable jobs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ebb11e4415bcb5e0141b126248c62846.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tufsq0sgsw5kdxn0cmllc0byyw5zb21ob3vzzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-23 00:00:00.000000",
+    "disclosedDate": "2025-11-10 15:49:37.466082"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-210E2",
+  "type": "ransomware-incident",
+  "title": "Bayside Dental ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Bayside Dental",
+    "domain": "baysidedental.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Are you looking for a dentist in Rowlett, TX, 75088 near Mesquite? Bayside Dental offers general, restorative & cosmetic dentistry services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/889a5f5c4d325450aed8f9c3014dae8f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmf5c2lkzsbezw50ywxac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-21 19:15:33.440000",
+    "disclosedDate": "2026-01-21 19:50:03.787165"
+  }
+}

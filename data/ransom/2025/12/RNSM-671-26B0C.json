@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-26B0C",
+  "type": "ransomware-incident",
+  "title": "fortrex.hu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fortrex.hu",
+    "domain": "fortrex.hu",
+    "country": "HU",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fortrex Zrt.  - okos megoldás ipari tervezési, kivitelezési, karbantartási és alkatrész ellátási fe...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/66ea30c1f648e755f8431d92910b67ac.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zm9ydhjlec5odubsb2nryml0nq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-25 14:22:00.000000",
+    "disclosedDate": "2025-12-26 15:32:23.145796"
+  }
+}

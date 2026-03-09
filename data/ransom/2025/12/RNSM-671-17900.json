@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-17900",
+  "type": "ransomware-incident",
+  "title": "Hr Björkmans Entrémattor ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hr Björkmans Entrémattor",
+    "domain": "hrbjorkman.se",
+    "country": "SE",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f44b10712284335c95addc6732f3f524.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/shigqmrdtnjrbwfucybfbnryw6ltyxr0b3jacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-17 07:17:16.654774",
+    "disclosedDate": "2025-12-17 07:17:31.847703"
+  }
+}

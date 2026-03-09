@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-2712B",
+  "type": "ransomware-incident",
+  "title": "Thai Future Inc. PCL ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Thai Future Inc. PCL",
+    "domain": "pm-groups.com",
+    "country": "TH"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Stock symbol TFI. https://www.pm-groups.com/en/tfi.php https://thaifutureinc.com https://www.zoominfo.com/c/thai-film-industries-public-company-ltd/346313029 Thai Future Incorporation (TFI) was originally established under the name of Rachadachai O.P.P. Co., Ltd. on March 3, 1983. It was Thailand's and Southeast Asia's first BOPP film manufacturing facility to supply a fast-growing packaging industry, local and overseas.  Thai Film Industries specializes in the production and distribution of films in Thailand. The company offers a range of services including film production, post-production, and marketing. Their intended clients include filmmakers, distributors, and audiences interested in Thai cinema. With a focus on promoting local talent and stories, they aim to enhance the visibility of Thai films both domestically and internationally.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghhasbgdxr1cmugsw5jlibqq0xadghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-27 00:27:04.000000",
+    "disclosedDate": "2025-09-27 01:19:16.406055"
+  }
+}

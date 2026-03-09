@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-145AC",
+  "type": "ransomware-incident",
+  "title": "City of Riviera Beach, Florida ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "City of Riviera Beach, Florida",
+    "domain": "rivierabch.com",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The City of Riviera Beach is committed to making its' website/social media accessible and user-friendly for everyone. If you are having difficulty viewing or navigating the content on our website, or notice any content, feature, or functional            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/48848f462a01c544d9574dcc9386ddd4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0esbvzibsaxzpzxjhiejlywnolcbgbg9yawrhqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-14 00:00:00.000000",
+    "disclosedDate": "2025-10-14 20:22:58.759429"
+  }
+}

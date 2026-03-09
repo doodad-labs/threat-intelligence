@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-18ACE",
+  "type": "ransomware-incident",
+  "title": "Home Solutions of Iowa ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Home Solutions of Iowa",
+    "domain": "homesolutionsiowa.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Home Solutions of Iowa is a comprehensive exterior remodeling company that specializes in offering high-quality LeafGuard® gutters, roofing solutions, and insulation services to homeowners throughout Iowa.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b2a1c0ef8a268bf504fedac5a8b84b7f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sg9tzsbtb2x1dglvbnmgb2ygsw93yubkcmfnb25mb3jjzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-15 16:21:11.252231",
+    "disclosedDate": "2025-07-18 02:48:04.595633"
+  }
+}

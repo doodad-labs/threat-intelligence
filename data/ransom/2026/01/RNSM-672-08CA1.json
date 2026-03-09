@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-08CA1",
+  "type": "ransomware-incident",
+  "title": "MUTTI-PARMA.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "MUTTI-PARMA.COM",
+    "domain": "mutti-parma.com",
+    "country": "IT",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] MUTTI-PARMA.COM is the website for Mutti, a leading company in the production of paste-based tomatoes. Located in Parma, Italy, it has been family-run for over 100 years. The company is committed to sustainable farming, and its products are globally recognized for their superior quality. They offer a range of products like whole peel tomatoes, sauces, pasta and pastes.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/baf42326485c9a666e2b611c8af725a9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tvvuvektuefstueuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-08 17:47:29.191466",
+    "disclosedDate": "2026-01-08 17:47:46.286122"
+  }
+}

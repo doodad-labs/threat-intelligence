@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-26A13",
+  "type": "ransomware-incident",
+  "title": "Disston ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Disston",
+    "domain": "disstontools.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/754bfc842bb11221188ea929e76429d6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rglzc3rvbkbxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-26 10:48:06.819812",
+    "disclosedDate": "2025-11-26 10:48:23.624356"
+  }
+}

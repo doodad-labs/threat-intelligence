@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-292DE",
+  "type": "ransomware-incident",
+  "title": "LeMatic ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LeMatic",
+    "domain": "lematic.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LeMatic is a leader in automated baking technology, offering innovations such as the AutoOp® and AutoEye® equipment lines to meet the evolving demands of the baking industry. Their product range includes solutions for slicing, packaging, basket handling, specialty systems, dough imprinting, pan cleaning, and robotics. LeMatic also provides aftermarket services, parts, and upgrades, ensuring customers receive the support they need for high-volume production and cutting-edge technology. Their intended clients include bakeries and industrial food producers looking for reliable and advanced baking solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e76362674819ee16576611e75e90477f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvnyxrpy0bzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-27 17:42:26.115000",
+    "disclosedDate": "2026-01-29 00:43:01.930711"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-28252",
+  "type": "ransomware-incident",
+  "title": "CMA Flooring & Design ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CMA Flooring & Design",
+    "domain": "cmaflooring.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "CMA Flooring & Design",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q01biezsb29yaw5nicygrgvzawduqg5pz2h0c3bpcmu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-28 16:47:56.797588",
+    "disclosedDate": "2026-01-28 16:47:59.108677"
+  }
+}

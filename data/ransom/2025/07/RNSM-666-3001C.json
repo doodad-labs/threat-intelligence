@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-666-3001C",
+  "type": "ransomware-incident",
+  "title": "DARA Pharma ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DARA Pharma",
+    "domain": "dara-pharma.com",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "blackbyte",
+    "name": "blackbyte",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Dara Pharmaceutical designs, develops, and manufactures packaging equipment for washing, sterilizing, filling, freeze-drying, and closing machines for vials, bottles, syringes, cartridges, and IV Bags to process liquid, semi-solid products, and powders in sterile conditions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/refsqsbqagfybwfaymxhy2tiexrl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-20 15:52:35.000000",
+    "disclosedDate": "2025-07-30 10:43:58.138063"
+  }
+}

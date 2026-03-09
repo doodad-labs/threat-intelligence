@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-23579",
+  "type": "ransomware-incident",
+  "title": "mToilet ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mToilet",
+    "domain": "mtoilet.pl",
+    "country": "PL",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "mToilet is a company that operates in the Sporting & Recreational Equipment Retail industry.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4e9f73769e6a5cc4fbdc9042fae63039.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bvrvawxldebjagfvcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-23 19:44:45.852234",
+    "disclosedDate": "2025-11-23 19:44:57.785964"
+  }
+}

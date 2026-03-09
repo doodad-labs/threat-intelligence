@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-669-08DCF",
+  "type": "ransomware-incident",
+  "title": "Chek Tan and Company, LLP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Chek Tan and Company, LLP",
+    "domain": "chektan.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "radar",
+    "name": "radar",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Chek Tan and Company offers accounting, audits, management consulting, IRS representation, and tax management services. San Francisco, California, United States.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2hlaybuyw4gyw5kienvbxbhbnksiexmuebyywrhcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-08 18:34:28.000000",
+    "disclosedDate": "2025-10-08 19:10:17.101497"
+  }
+}

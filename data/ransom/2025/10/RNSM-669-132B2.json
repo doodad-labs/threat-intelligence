@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-132B2",
+  "type": "ransomware-incident",
+  "title": "Legal Boutique ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Legal Boutique",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "This is a private legal services firm representing high‑net‑worth individuals which would not want their business leaked online. Contact us or ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/19bd9936e1befe0485baac893c97b068.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgvnywwgqm91dglxdwvay29pbmjhc2vjyxj0zww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-13 09:21:02.358056",
+    "disclosedDate": "2025-10-13 09:21:18.714090"
+  }
+}

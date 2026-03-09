@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-230D0",
+  "type": "ransomware-incident",
+  "title": "www.margaritavilleatsea.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.margaritavilleatsea.com",
+    "domain": "margaritavilleatsea.com",
+    "country": "",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Margaritaville at Sea Cruises offers a unique offshore resort experience with fun-filled cruises to the Caribbean and Gulf of Mexico, epitomizing the carefree spirit of Margaritaville. Their services include a range of itineraries featuring world-class dining, entertainment, and relaxation options aboard their ships, the Islander and Paradise. The intended clients are those seeking a vibrant and leisurely travel experience, whether through family vacations, solo getaways, or special events like weddings at sea. With exclusive cruise deals and a commitment to memorable journeys, Margaritaville at Sea invites guests to enjoy a slice of paradise at sea.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/83a96f0bb808fb14545731342592b391.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lm1hcmdhcml0yxzpbgxlyxrzzweuy29tqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-23 17:06:30.860000",
+    "disclosedDate": "2025-09-23 18:19:31.146710"
+  }
+}

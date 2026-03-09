@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-667-1515B",
+  "type": "ransomware-incident",
+  "title": "Morgenstern AG ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Morgenstern AG",
+    "domain": "morgenstern.de",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Morgenstern AG, Germany specializes in providing comprehensive print and document solutions, including consulting services and digital workspace implementations. On August 7, the company's website reported that it had “successfully repelled            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw9yz2vuc3rlcm4gqudacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-15 00:00:00.000000",
+    "disclosedDate": "2025-08-15 11:08:22.996097"
+  }
+}

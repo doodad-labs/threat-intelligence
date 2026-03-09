@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-0807C",
+  "type": "ransomware-incident",
+  "title": "Mold In Graphic Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mold In Graphic Systems",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15000000000,
+    "description": "Mold In Graphic Systems specializes in providing permanent labeling solutions for plastic durable goods using their unique PolymerFusion Labels.We will upload 15gb of corporate documents soon. Employee information (Driver licenses, credit cards scans, medical information and so on), projects information, internal confidential files, agreements and contracts, NDAs, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw9szcbjbibhcmfwagljifn5c3rlbxnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-07 00:00:00.000000",
+    "disclosedDate": "2025-11-08 00:44:06.854203"
+  }
+}

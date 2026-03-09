@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-0400F",
+  "type": "ransomware-incident",
+  "title": "Quasar Inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Quasar Inc",
+    "domain": "quasar.us",
+    "country": ""
+  },
+  "actor": {
+    "id": "spacebears",
+    "name": "spacebears",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Quasar, Inc. specializes in high-quality design, implementation support, and related services tailored for the telecommunications industry. Since 1997, the company has set a benchmark with efficient and cost-effective network designs implemented across five continents and over 100 cities. Their offerings include plant network system designs, field services for strand work, and consulting to enhance operators' competitiveness. Additionally, Quasar provides complimentary services such as training and troubleshooting support to adapt to the evolving needs of the industry.Network projects, drawingsDetailed drawings of many cities with communications designsVarious information https://www.quasar.us",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c13ad0f31a83170bc634f93ce70d5503.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uxvhc2fyieluy0bzcgfjzwjlyxjz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-07 00:00:00.000000",
+    "disclosedDate": "2025-12-04 04:58:16.746257"
+  }
+}

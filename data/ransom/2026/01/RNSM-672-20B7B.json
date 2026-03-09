@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-20B7B",
+  "type": "ransomware-incident",
+  "title": "Autofinanciera ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Autofinanciera",
+    "domain": "autofinanciera.com.co",
+    "country": "CO",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.autofinanciera.com.co https://www.zoominfo.com/c/autofinanciera/474531250 Autofinanciera offers a unique program for purchasing goods and services without bank interest, featuring flexible terms and fixed payments. The company aims to help clients achieve their dreams by providing a structured savings plan that allows for the acquisition of vehicles, education, travel, and home renovations. Their target clients include individuals looking to invest in their future and fulfill personal goals through a planned savings approach. Autofinanciera emphasizes financial tranquility and the development of good financial habits for its customers.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxv0b2zpbmfuy2llcmfadghlz2vudgxlbwvu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-20 17:34:32.000000",
+    "disclosedDate": "2026-01-20 19:11:05.503725"
+  }
+}

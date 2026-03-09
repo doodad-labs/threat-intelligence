@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-24997",
+  "type": "ransomware-incident",
+  "title": "D & D Building ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "D & D Building",
+    "domain": "dndbuilding.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1c80921aff940f4f815e53857ae1bfb0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rcamieqgqnvpbgrpbmdacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-24 20:12:05.783140",
+    "disclosedDate": "2026-01-24 20:12:25.580737"
+  }
+}

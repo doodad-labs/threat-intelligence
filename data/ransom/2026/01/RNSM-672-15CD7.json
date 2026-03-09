@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-15CD7",
+  "type": "ransomware-incident",
+  "title": "Texas State Utilities ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Texas State Utilities",
+    "domain": "tsu1.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/86fcae3dc9d0b5283705c48d7a0bbe39.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgv4yxmgu3rhdgugvxrpbgl0awvzqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-15 18:29:37.214525",
+    "disclosedDate": "2026-01-15 18:29:51.095330"
+  }
+}

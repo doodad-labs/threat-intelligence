@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-0356B",
+  "type": "ransomware-incident",
+  "title": "TEAM GROUP ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "TEAM GROUP",
+    "country": "TH"
+  },
+  "actor": {
+    "id": "medusa",
+    "name": "medusa",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2250000000000,
+    "description": "TEAM GROUP is one of the leading integrated consulting firms in Thailand and region with more than 40 years of experience in comprehensive consulting services in the areas of Building and Infrastructure, Water Resources, Environmental Management, Transport and Logistics, as well as Power and Energy. TEAM GROUP has accomplished more than 2,500 projects in Thailand and overseas including the Xayaburi Hydroelectric Power Project, Suvarnabhumi Airport, Government Complex, and MRT Blue Line Extension.company is headquartered in TEAM Building, 151 Nuan Chan Road, Nuan Chan, Bueng Kum, Bangkok 10230 Thailand1028 Employees. The total amount of data leakage is 2.25 TB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f1b5e5cb07ca7ec746c3d263bedf8165.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vevbtsbhuk9vuebtzwr1c2e=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-01 18:10:15.000000",
+    "disclosedDate": "2025-09-03 04:22:27.752813"
+  }
+}

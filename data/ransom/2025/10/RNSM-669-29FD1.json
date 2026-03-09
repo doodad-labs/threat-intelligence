@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-29FD1",
+  "type": "ransomware-incident",
+  "title": "fsbgroup.ca ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fsbgroup.ca",
+    "domain": "fsbgroup.ca",
+    "country": "CA",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "braincipher",
+    "name": "BrainCipher",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8d4410c112b7eaf7ae2531f72919f464.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/znniz3jvdxauy2faqnjhaw5daxbozxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-29 21:37:33.219114",
+    "disclosedDate": "2025-10-29 21:37:52.388072"
+  }
+}

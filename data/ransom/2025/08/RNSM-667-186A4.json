@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-667-186A4",
+  "type": "ransomware-incident",
+  "title": "Welcome Financial Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Welcome Financial Group",
+    "domain": "welcomefg.co.kr",
+    "country": "HK",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Welcome Financial Group, Korea is a huge ecosystem operating in the finance industry. The group provides banking, digitalization, payments, integrated asset management, distressed loans, residential leasing, and startup financing services to             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f64056aebd93153f246fa2a39846a34f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2vsy29tzsbgaw5hbmnpywwgr3jvdxbacwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://en.yna.co.kr/view/aen20250818010400315",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-17 00:00:00.000000",
+    "disclosedDate": "2025-08-18 00:35:21.078672"
+  }
+}

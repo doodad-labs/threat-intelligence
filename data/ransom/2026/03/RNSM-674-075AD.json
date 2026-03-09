@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-075AD",
+  "type": "ransomware-incident",
+  "title": "Artemedica ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Artemedica",
+    "domain": "artemedica.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b7f5a4bd7c24550f1b1dc75f14267f94.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxj0zw1lzgljyubxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-07 18:14:04.848008",
+    "disclosedDate": "2026-03-07 18:14:21.742628"
+  }
+}

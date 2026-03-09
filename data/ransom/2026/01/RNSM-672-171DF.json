@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-171DF",
+  "type": "ransomware-incident",
+  "title": "Laboratorios Smasac ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Laboratorios Smasac",
+    "domain": "smasac.com",
+    "country": "MX",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/0dc4fecd174f774c9b8eac2139370b14.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgfib3jhdg9yaw9zifntyxnhy0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-17 06:59:05.430358",
+    "disclosedDate": "2026-01-17 06:59:20.426892"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-282CD",
+  "type": "ransomware-incident",
+  "title": "WarmBlue ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "WarmBlue",
+    "domain": "warmblue.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Small company",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c3baf67cfd9f7e138b3ef64f4612ecda.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2fybujsdwvac2lub2jp",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-28 21:47:52.437000",
+    "disclosedDate": "2025-10-28 21:49:16.900384"
+  }
+}

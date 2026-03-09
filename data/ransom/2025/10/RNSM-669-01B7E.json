@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-669-01B7E",
+  "type": "ransomware-incident",
+  "title": "DRL Group ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "DRL Group",
+    "country": "IN"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Customer data leak",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/63d628368f10d8af87749f692af9ef17.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rfjmiedyb3vwqgfudwjpcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-01 12:47:05.279788",
+    "disclosedDate": "2025-10-01 12:47:50.567263"
+  }
+}

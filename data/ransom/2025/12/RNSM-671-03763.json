@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-03763",
+  "type": "ransomware-incident",
+  "title": "Valley Eye Associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Valley Eye Associates",
+    "domain": "valleyeye.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7776921f80a2fe0bdc0d1fc91ce94549.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmfsbgv5iev5zsbbc3nvy2lhdgvzqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-08 00:00:00.000000",
+    "disclosedDate": "2025-12-03 20:13:59.083365"
+  }
+}

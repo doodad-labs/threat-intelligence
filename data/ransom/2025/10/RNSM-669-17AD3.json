@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-669-17AD3",
+  "type": "ransomware-incident",
+  "title": "Sold Real Estate, Sold RE PTY LTD ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Sold Real Estate, Sold RE PTY LTD",
+    "domain": "soldrealestate.io",
+    "country": "AU",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "radar",
+    "name": "radar",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sold Real Estate and UrbanX PTY LTD share an Active Directory network infrastructure. Part of files - http://4q5tsu5o3msmv4am4dfhupwhzlyg7wv3lpswbvbhcrknr4ega7xetxad.onion/TRUCCHIS_PART_OF_FILES/part of files urbanx.io filelist.txt",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u29szcbszwfsievzdgf0zswgu29szcbsrsbqvfkgtfreqhjhzgfy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-17 15:44:50.000000",
+    "disclosedDate": "2025-10-17 16:06:52.716634"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-670-117C0",
+  "type": "ransomware-incident",
+  "title": "Octomeca Oy ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Octomeca Oy",
+    "domain": "octomeca.fi",
+    "country": "FI"
+  },
+  "actor": {
+    "id": "ransomhouse",
+    "name": "ransomhouse",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Octomeca is Finnish technology company, founded in 1989. We are specialized in designing and manufacturing of premium class stretch film wrapping machines.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/94592071a40e61e915e70ecc833d28fc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t2n0b21ly2egt3lacmfuc29tag91c2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-19 00:00:00.000000",
+    "disclosedDate": "2025-11-11 14:19:35.170230"
+  }
+}

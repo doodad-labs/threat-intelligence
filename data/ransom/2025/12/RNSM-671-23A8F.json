@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-671-23A8F",
+  "type": "ransomware-incident",
+  "title": "ccedarvalleyservices.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ccedarvalleyservices.org",
+    "domain": "ccedarvalleyservices.org",
+    "country": ""
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Cedar Valley Services Inc is an employment agency based in Southern Minnesota, operating for over 60 years with a focus on assisting individuals with disabilities in finding suitable job opportunities. Their services include employment counseling, rehabilitation, and training, aimed at helping clients assess their potential and succeed in the workforce. The agency offers free consultations and estimates and operates multiple locations in Austin, Albert Lea, and Owatonna, MN. They are dedicated to linking people with jobs and enhancing community living for their clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8979c8d14547d5d09a29b3a9eaed8973.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2nlzgfydmfsbgv5c2vydmljzxmub3jnqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-23 14:06:05.517000",
+    "disclosedDate": "2025-12-23 14:12:28.974619"
+  }
+}

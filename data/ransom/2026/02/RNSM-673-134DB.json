@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-673-134DB",
+  "type": "ransomware-incident",
+  "title": "SPIR STAR Asia ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "SPIR STAR Asia",
+    "domain": "spirstarasia.com",
+    "country": "SG"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Headquartered in Mörlenbach, Germany, SPIR STAR designs and manufactures a wide range of thermoplastic high pressure hoses for working pressures up to 3200 bar (46400 psi). The production of high pressure hoses was started in 1981 by PAPUREX in Mörlenbach with SPIR STAR being the brand name of the product. In 1989 SPIR STAR Druckschläuche GmbH was founded by the owners of PAPUREX. In 1991 SPIR STAR France S.A.R.L in Haguenau/France and in 1995 SPIR STAR Inc. in Houston/Texas were founded in order to promote SPIR STAR's products and develop the market. In 1999 SPIR STAR Asia in Singapore was founded. SPIR STAR hoses are constructed with spiral layers of specially treated, highly tensile steel wire. The inner core is made of Polyoxymethylene (POM) or Polyamide (PA) while the outer cover is either of Polyamide or Polyurethane (PUR).",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dcabf8358ed79b2ab63a214bf4b9f89b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1bjuibtvefsiefzawfazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-13 14:26:18.683503",
+    "disclosedDate": "2026-02-13 23:03:26.880435"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-20E51",
+  "type": "ransomware-incident",
+  "title": "www.coconutboard.gov.in ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.coconutboard.gov.in",
+    "domain": "coconutboard.gov.in",
+    "country": "IN",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "tengu",
+    "name": "tengu",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Coconut Development Board (CDB) focuses on the promotion and development of coconut cultivation and processing in India. It offers a range of products including virgin coconut oil, desiccated coconut, and coconut milk, catering to both domestic and international markets. The board supports farmers and producer companies through various schemes and technology missions aimed at enhancing productivity and sustainability. Its intended clients include coconut farmers, producers, and consumers interested in coconut-based products.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3775e3ca2c33958d5358abe2a10c2cb6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lmnvy29udxrib2fyzc5nb3yuaw5adgvuz3u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-20 12:07:36.412860",
+    "disclosedDate": "2026-01-20 12:08:02.749666"
+  }
+}

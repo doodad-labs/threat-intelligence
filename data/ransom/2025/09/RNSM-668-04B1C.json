@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-04B1C",
+  "type": "ransomware-incident",
+  "title": "pesadoconstruction ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pesadoconstruction",
+    "domain": "pesadoconstruction.com",
+    "country": "",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Pesado Construction is a premier General Contractor based in San Antonio, specializing in industrial facilities and heavy civil construction. With over 30 years of experience and more than 1000 completed projects, the company is committed to delivering excellence in utility construction services. Their expertise includes pump stations, water supply and wastewater treatment plants, storm drainage, water line construction, and sanitary sewer installation. The team strives for innovation and quality to ensure successful project outcomes for clients in San Antonio and neighboring areas.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/803a4e14ac9533598f993175357d8fda.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgvzywrvy29uc3rydwn0aw9uqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-04 14:12:28.431000",
+    "disclosedDate": "2025-09-04 14:17:56.410638"
+  }
+}

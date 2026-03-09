@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-670-06D5B",
+  "type": "ransomware-incident",
+  "title": "Ketat Grundstücksverwertungs GmbH ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ketat Grundstücksverwertungs GmbH",
+    "country": "AT"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We have data from Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH, payment and tax records, employee and client documents, as well as projects and developments, and personal correspondence with clients.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c6918b093fbd0e77fc26ecaf4b4e17b1.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2v0yxqgr3j1bmrzdmo8y2tzdmvyd2vydhvuz3mgr21isebpbmnyyw5zb20=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-06 12:00:00.000000",
+    "disclosedDate": "2025-11-06 20:23:34.376331"
+  }
+}

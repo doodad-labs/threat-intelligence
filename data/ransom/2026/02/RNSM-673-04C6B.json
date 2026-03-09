@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-04C6B",
+  "type": "ransomware-incident",
+  "title": "www.trisa.ch ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "www.trisa.ch",
+    "domain": "trisa.ch",
+    "country": "CH",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TRISA AG specializes in the development and production of high-quality oral care, hair care, and beauty care products, including toothbrushes, electric toothbrushes, and toothpastes.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f08e78903d7bd4e1d3ed02ed03515855.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3d3lnryaxnhlmnoqgx5bng=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-04 13:33:18.473000",
+    "disclosedDate": "2026-02-04 13:41:26.430454"
+  }
+}

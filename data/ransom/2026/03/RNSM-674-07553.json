@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-674-07553",
+  "type": "ransomware-incident",
+  "title": "City of Huntington ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "City of Huntington",
+    "domain": "cityofhuntington.com",
+    "country": "",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "termite",
+    "name": "termite",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Founded in 1871, the City of Huntington is located in western West Virginia. It is the county seat of Cabell County and also stretches into Wayne County.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9bfa050ea73b6423bdf0bc5d0d6250eb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2l0esbvzibidw50aw5ndg9uqhrlcm1pdgu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://dysruptionhub.com/huntington-wv-cyber-incident/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-06 22:32:50.000000",
+    "disclosedDate": "2026-03-07 00:25:55.876181"
+  }
+}

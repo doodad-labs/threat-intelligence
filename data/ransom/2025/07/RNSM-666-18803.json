@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-666-18803",
+  "type": "ransomware-incident",
+  "title": "Burnham Nationwide ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Burnham Nationwide",
+    "domain": "burnhamnationwide.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "cicada3301",
+    "name": "cicada3301",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2500000000000,
+    "description": "Status: 20d 19h 47m 11s - Size Data: 2.5 TB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/373ee2df402797201dc1d15d9ab15404.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qnvybmhhbsboyxrpb253awrlqgnpy2fkytmzmde=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-18 00:00:00.000000",
+    "disclosedDate": "2025-07-18 14:44:31.672377"
+  }
+}

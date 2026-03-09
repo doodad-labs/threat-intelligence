@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-673-23F75",
+  "type": "ransomware-incident",
+  "title": "fcc-inc.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fcc-inc.com",
+    "domain": "fcc-inc.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "lockbit5",
+    "name": "lockbit5",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Fremont Contract Carriers, Inc. - FCC - strives to be a low cost carrier, while still providing qual...",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmnjlwluyy5jb21abg9ja2jpddu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-15 22:08:00.000000",
+    "disclosedDate": "2026-02-23 13:21:27.971130"
+  }
+}

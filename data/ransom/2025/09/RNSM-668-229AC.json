@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-668-229AC",
+  "type": "ransomware-incident",
+  "title": "BEHCA ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "BEHCA",
+    "domain": "behca.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/175e29bd28e86ddf27c5febc90f8057e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qkviq0faa2lsbhnlyw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-22 09:24:12.763269",
+    "disclosedDate": "2025-09-22 09:24:35.655270"
+  }
+}

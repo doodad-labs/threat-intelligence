@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-672-27CBB",
+  "type": "ransomware-incident",
+  "title": "Morison Insurance Brokers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Morison Insurance Brokers",
+    "domain": "morisoninsurance.com",
+    "country": "CA",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Morison Insurance Brokers is a leading insurance provider in Ontario, specializing in home, auto, and business insurance. They offer a wide range of customized insurance products, including high-value home and luxury car insurance, catering to both individual and business clients. With a commitment to saving clients money and providing exceptional service, Morison Insurance has earned numerous awards and recognition in the industry. Their team is dedicated to community involvement, supporting over 100 organizations and events across Ontario.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fa46599766efe97361d213014578fad4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw9yaxnvbibjbnn1cmfuy2ugqnjva2vyc0bzaw5vymk=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-27 16:48:47.762000",
+    "disclosedDate": "2026-01-27 18:17:08.363988"
+  }
+}

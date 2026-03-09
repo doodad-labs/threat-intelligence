@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-667-21BC1",
+  "type": "ransomware-incident",
+  "title": "Blazer Building ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Blazer Building",
+    "country": "UK",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 10000000000,
+    "description": "Blazer Building is a general construction company that specializes in the expedited delivery of high-quality apartment homes.We are going to upload about 10gb of corporate files. You will find employees information (DOB, addresses, SSNs, phones, even petsnames and so on), HR files, detailed financial and accounting information (customers files), agreements and contracts, employee financial information, violation reports, police reports, etc.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmxhemvyiej1awxkaw5nqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-21 00:00:00.000000",
+    "disclosedDate": "2025-08-21 13:13:25.700799"
+  }
+}

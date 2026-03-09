@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-14142",
+  "type": "ransomware-incident",
+  "title": "PQCNC Hospitals ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "PQCNC Hospitals",
+    "domain": "pqcnc.org",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Perinatal Quality Collaborative of North Carolina is a community-focused organization dedicated to improving maternal and infant health outcomes in the state. They offer various initiatives and resources aimed at enhancing the quality of             ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/986a8478b4693633b66ad1fb438f9066.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uffdtkmgsg9zcgl0ywxzqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-14 00:00:00.000000",
+    "disclosedDate": "2025-10-14 20:25:46.047772"
+  }
+}

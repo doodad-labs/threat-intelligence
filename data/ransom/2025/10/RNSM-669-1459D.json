@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-669-1459D",
+  "type": "ransomware-incident",
+  "title": "UT Health Austin ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "UT Health Austin",
+    "domain": "uthealthaustin.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "UT Health Austin is the clinical practice of the Dell Medical School located in downtown Austin, offering personalized and comprehensive health care services. The organization provides a wide range of medical services including adult psychiat            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b0b80a8aaab5f151b96376e8473622b8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vvqgsgvhbhroief1c3rpbkbxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-14 00:00:00.000000",
+    "disclosedDate": "2025-10-14 20:25:07.488016"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "RNSM-672-077A8",
+  "type": "ransomware-incident",
+  "title": "RJS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "RJS",
+    "country": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "RJS Corporation is a global supplier of equipment for the tire manufacturing industry, specializing in products such as tension controllers, creel systems, and specialty tire equipment.We will upload corporate data soon. You will find detailed employee information (SSNs, passport numbers, DLs, addresses and so on), financials, agreements with Goddyear, Bridgestone, Nokia, Yokohama, Michelin, Pirelli and so on, NDAs and other files.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ukptqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-07 00:00:00.000000",
+    "disclosedDate": "2026-01-07 14:12:22.285079"
+  }
+}

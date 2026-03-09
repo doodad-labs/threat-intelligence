@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-672-112CC",
+  "type": "ransomware-incident",
+  "title": "STC Concrete Product ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "STC Concrete Product",
+    "domain": "stc.co.th",
+    "country": "",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "obscura",
+    "name": "obscura",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "STC Concrete Product Public Company Limited engages in the manufacture and distribution of precast concrete products in Thailand.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u1rdienvbmnyzxrlifbyb2r1y3rab2jzy3vyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-11 00:00:00.000000",
+    "disclosedDate": "2026-01-11 10:47:54.365109"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-667-083A2",
+  "type": "ransomware-incident",
+  "title": "Main Electric Supply Co. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Main Electric Supply Co.",
+    "domain": "mainelectricsupply.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Main Electric Supply Company was founded on October 14th, 1946 by Charles Vowels and Burt McCombs. From the very start, our company worked tirelessly to meet the growing demands of the electrical industry. Operating on a word of mouth basis and building a reputation for excellent service, it was not long before Main Electric Supply Company became a household name in the Los Angeles area.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1548837406f1751718bfbbf759fa982d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfpbibfbgvjdhjpyybtdxbwbhkgq28uqhnpbm9iaq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-29 20:48:46.002000",
+    "disclosedDate": "2025-08-08 00:13:16.305050"
+  }
+}

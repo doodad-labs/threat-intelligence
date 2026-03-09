@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-670-21CC7",
+  "type": "ransomware-incident",
+  "title": "IBIZSOFTINC.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "IBIZSOFTINC.COM",
+    "domain": "ibizsoftinc.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] IBIZSOFTINC is a multi-faceted company that specializes in developing innovative IT solutions. Their primary focus is on Oracle Cloud Applications, with comprehensive expertise in areas such as ecommerce, integration solutions, mobile commerce, and marketing automation. They aim to help businesses maximize efficiency, growth, and profitability through their tailored technological solutions.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/73fc8bbb962a671bdaab439e8acc4f85.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sujjwlnprlrjtkmuq09nqgnsb3a=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-11-21 17:30:43.534185",
+    "disclosedDate": "2025-11-21 17:31:01.133984"
+  }
+}

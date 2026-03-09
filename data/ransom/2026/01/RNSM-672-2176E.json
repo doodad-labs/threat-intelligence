@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-672-2176E",
+  "type": "ransomware-incident",
+  "title": "Serometrix LLC ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Serometrix LLC",
+    "domain": "serometrix.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Serometrix LLC",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vyb21ldhjpecbmtenabmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-01-21 15:53:27.322873",
+    "disclosedDate": "2026-01-21 15:53:29.728347"
+  }
+}

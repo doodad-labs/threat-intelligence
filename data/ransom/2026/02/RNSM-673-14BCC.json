@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-673-14BCC",
+  "type": "ransomware-incident",
+  "title": "FISHWINDOWCLEANING.COM ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "FISHWINDOWCLEANING.COM",
+    "domain": "fishwindowcleaning.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "clop",
+    "name": "clop",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] FishWindowCleaning.com is a US-based business dedicated to offering professional window cleaning services. They cater to commercial as well as residential clients, offering indoor and outdoor window cleaning, hard water stain removal, screen cleaning, and chandelier cleaning services. The company is known for its commitment to safety, professional staff, free estimates, and custom cleaning schedules.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/509cfe0cc458a3aa136ebdbdef819d0c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rkltsfdjtkrpv0nmrufosu5hlknptubjbg9w",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-02-14 10:54:31.655990",
+    "disclosedDate": "2026-02-14 10:54:45.654361"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-667-20DEA",
+  "type": "ransomware-incident",
+  "title": "EUROFILM ΜΑΝΤΖΑΡΗΣ Α.Ε ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "EUROFILM ΜΑΝΤΖΑΡΗΣ Α.Ε",
+    "country": "GR"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "info@mantzaris-film.com\r (+30) 27410 54900\r info.ath@mantzaris-film.com\r (+30) 212 000 0001",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4ce1ee4c93cb60163d8501627c086b03.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rvvst0zjte0gzpzokc6dzqtols6rzqhol86jim6rls6vqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-08-20 05:56:00.000000",
+    "disclosedDate": "2025-08-20 16:43:11.518840"
+  }
+}

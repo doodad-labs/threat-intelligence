@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-671-28AB5",
+  "type": "ransomware-incident",
+  "title": "Questica ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Questica",
+    "domain": "questica.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d0a01b91fb5a24aa277833a3cfd58e31.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uxvlc3rpy2facwlsaw4=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-12-28 19:19:55.761139",
+    "disclosedDate": "2025-12-28 19:20:12.362415"
+  }
+}

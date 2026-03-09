@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-01313",
+  "type": "ransomware-incident",
+  "title": "kclub.ie ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kclub.ie",
+    "domain": "kclub.ie",
+    "country": "IE",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The K Club is a luxury resort and golf destination located in County Kildare, Ireland. Known for its five-star accommodations, …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8aaf043fbb188831a4ed2e95242d3650.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2nsdwiuawvac2fmzxbheq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-01 19:09:15.105705",
+    "disclosedDate": "2025-09-01 19:09:46.140481"
+  }
+}

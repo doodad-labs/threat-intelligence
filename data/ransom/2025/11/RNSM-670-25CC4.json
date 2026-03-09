@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-670-25CC4",
+  "type": "ransomware-incident",
+  "title": "Accord Carton ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Accord Carton",
+    "domain": "accordcarton.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "payoutsking",
+    "name": "payoutsking",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Accord Carton is a family-owned company that specializes in designing and manufacturing high-quality folding cartons. Founded in 1940, the company is based in Alsip, Illinois. Accord Carton utilizes advanced printing and finishing technologies to produce innovative packaging design solutions. Their services are widely used across industries, including food and beverage, healthcare, and beauty products.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwnjb3jkienhcnrvbkbwyxlvdxrza2luzw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-10-19 20:40:05.964616",
+    "disclosedDate": "2025-11-25 16:45:04.096771"
+  }
+}

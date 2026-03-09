@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-669-27DCC",
+  "type": "ransomware-incident",
+  "title": "partitio.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "partitio.com",
+    "domain": "partitio.com",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "About Partitio\r Partitio specializes in digital technologies aimed at enhancing human interaction within organizations. They provide services in information system management, including private cloud hosting and content management solutions. Their target clients include SMEs, retailers, and accounting professionals, with a focus on improving collaboration and data security. As a trusted partner, Partitio is certified in ISO 27 001 and HDS, ensuring high standards in their offerings",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/af97efb39ed1537a8b28e70ee9b0e6fd.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgfydgl0aw8uy29tqgluy3jhbnnvbq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-30 00:00:00.000000",
+    "disclosedDate": "2025-10-27 00:44:07.092917"
+  }
+}

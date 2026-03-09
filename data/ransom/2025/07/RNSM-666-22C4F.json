@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-666-22C4F",
+  "type": "ransomware-incident",
+  "title": "Protech Medical ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Protech Medical",
+    "domain": "protechmedical.co.uk",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "arcusmedia",
+    "name": "arcusmedia",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Days06Hours23Minutes39Secondes43www.protechmedical.co.ukProtech Medical Limited are holding large stocks of our entire ran…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/088791489c4171da0af7f9f8254d6ea2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjvdgvjacbnzwrpy2fsqgfyy3vzbwvkawe=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-07-22 00:46:16.000000",
+    "disclosedDate": "2025-07-22 01:14:17.142144"
+  }
+}

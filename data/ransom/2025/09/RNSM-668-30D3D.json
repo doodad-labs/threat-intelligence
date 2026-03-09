@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-668-30D3D",
+  "type": "ransomware-incident",
+  "title": "Mobidic Asset Management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Mobidic Asset Management",
+    "domain": "mobydickam.com",
+    "country": "KR",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mobidic Asset Management Co., KoreanLeak3 - another failure. The company has been operating on the country's stock market since 2021 (EX-DK Investment Korea) and currently has capital of 6 billion won ($4.2 million). The company operates as a            ...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b663d89a61272dbc12868eb37647c675.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw9iawrpyybbc3nldcbnyw5hz2vtzw50qhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2025-09-30 00:00:00.000000",
+    "disclosedDate": "2025-09-30 03:11:59.061832"
+  }
+}
