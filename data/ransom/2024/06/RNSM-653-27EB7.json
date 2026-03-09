@@ -1,0 +1,30 @@
+{
+  "id": "RNSM-653-27EB7",
+  "name": "KADOKAWA Corporation",
+  "domain": "kadokawa.co.jp",
+  "country": "JP",
+  "message": "Our team gained access to the Kadokawa network almost a month ago. It took some time, because of the language, to figure out that Kadokawa subsidiaries' networks were connected to each other and to get through all the mess Kadokawa's IT department made there. We have discovered that Kadokawa networks architecture was not organised properly. It was different networks connected to the one big Kadokawas infrastructure being controlled through global control points, such as eSXI and V-sphere. Once we have gained access to the control center we have encrypted the whole network (Dwango, NicoNico, Kadokawa, other subsidiaries).",
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9f80b3bd570dc56b455a939f224aff9b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0fet0tbv0egq29ycg9yyxrpb25aymxhy2tzdwl0",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000014844.000007006.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "actor": {
+    "name": "blacksuit"
+  },
+  "attackedDate": "2024-06-27 12:22:31.038557",
+  "disclosedDate": "2024-06-27 12:22:31.884838"
+}
