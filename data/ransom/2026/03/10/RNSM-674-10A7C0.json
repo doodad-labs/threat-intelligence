@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-10A7C0",
+  "type": "ransomware-incident",
+  "title": "tazzetti.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tazzetti.com",
+    "domain": "tazzetti.com",
+    "country": "IT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "TAZZETTI - Special fluids and environmental services: Your international partner in refrigerants, specialty gases, hydrodynamic systems, gaseous waste treatment, chemical and environmental analysis, research, and technology development.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/04b74040000a7a72ddf16648dcfecd6a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgf6emv0dgkuy29tqgryywdvbmzvcmnl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-10 13:05:56.935560",
+    "disclosedDate": "2026-03-10 13:52:24.724034"
+  }
+}
