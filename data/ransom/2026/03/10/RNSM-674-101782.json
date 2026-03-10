@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-101782",
+  "type": "ransomware-incident",
+  "title": "LHT Holdings Limited ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "LHT Holdings Limited",
+    "country": "SG",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "LHT Holdings is a leading manufacturer of wooden pallets and crates based in Singapore, established in 1977. The company specializes in environmentally friendly packaging solutions, offering a comprehensive range of products including pest-free IPPC pallets, plastic pallets, and technical wood. LHT also provides services such as industrial packaging, pallet rental, and waste disposal, catering to clients looking for sustainable and innovative packaging options. With a focus on emerging technology and sustainability, LHT aims to reduce carbon footprints while delivering high-quality products and services.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f9513fa5a835a75991efc6bebb2d6b1d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tehuiehvbgrpbmdziexpbwl0zwraaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-10 12:00:00.000000",
+    "disclosedDate": "2026-03-10 12:34:06.608377"
+  }
+}

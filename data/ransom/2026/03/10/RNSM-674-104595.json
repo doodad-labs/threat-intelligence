@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-674-104595",
+  "type": "ransomware-incident",
+  "title": "netCOMPONENTS ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "netCOMPONENTS",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "netCOMPONENTS is a market leader in sourcing services for the global electronic components industry, connecting buyers and suppliers in a vendor-neutral environment. The platform offers extensivefeatures for purchasing agents and procurement professionals, including part searches, supplier quality ratings, and multilingualmessaging systems.We will upload corporate data soon. Detailed employee files (passports, DLs, a bit of medical files), clients' files, financials, NDAs and so on.",
+    "claimed_data_types": [
+      "internal-documents",
+      "drivers-licence-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmv0q09nue9oru5uu0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-10 00:00:00.000000",
+    "disclosedDate": "2026-03-10 13:45:39.212952"
+  }
+}
