@@ -15,7 +15,12 @@
   "extortion": {
     "data_size_bytes": 10000000000,
     "description": "Phillips Scales Alaska is the largest distributor of commercial and industrial scales in the state, offering a wide range of products including airport, bench, crane, floor, retail, and truck scales.We will upload 10gb of corporate data soon. Employees personal documents (passports, DLs, SSNs and other information), detailed financial information, client information, projects, NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

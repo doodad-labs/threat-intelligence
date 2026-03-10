@@ -15,7 +15,11 @@
   "extortion": {
     "data_size_bytes": 30000000000,
     "description": "NC Dynamics LLC is a full-service manufacturing facility specializing in high-speed machining, including 3, 4, and 5 axis milling,CNC turning, and assembly.We are going to upload about 30gb of corporate files. You will find employees informration (DOB, email addresses, addresses, SSNs,phones, and so on), HR files, detailed financial and accounting information, payment details, lost of agreements and contracts, credit card details, scans of documents with detailed personal information, employee financial information, lots of drawings, NDAs,etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "email-addresses",
+      "addresses",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

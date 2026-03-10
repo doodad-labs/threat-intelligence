@@ -15,7 +15,11 @@
   "extortion": {
     "data_size_bytes": 66000000000,
     "description": "THA Consulting is a DBE and W/MBE certified company that specializes in planning, design, and consultation services.We are going to upload 66GB of corporate data. Employees' personal documents (Passports, medical certificates, credit cards details), confidentiality agreements, payment details, finance and accounting files, clients information, projects, NDA etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "financial-data"
+    ]
   },
   "screenshots": [],
   "sources": [

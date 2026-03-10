@@ -16,7 +16,11 @@
   "extortion": {
     "data_size_bytes": 19000000000,
     "description": "Burt Process Equipment is a leader in the worldwide community of people, businesses, and organizations striving to create a betterenvironment through the innovative and responsible use of water and natural resources. We are going to upload about 19gb of corporate files. You will find employees information (DOB, addresses, SSNs, phones, emails and so on), HR files, detailed financial and accounting information(customers files, employee financial information, payment details), lots of scanned docs with personal data, agreements and contracts, NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "email-addresses",
+      "addresses",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

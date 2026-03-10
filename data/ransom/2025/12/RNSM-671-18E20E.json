@@ -15,7 +15,11 @@
   "extortion": {
     "data_size_bytes": 44000000000,
     "description": "Morningstar Properties is a vertically integrated real estate developer, owner, and operator specializing in self-storage and marinas. We will upload 44gb of corporate data soon. Employees personal documents (passports, DLs and other information), financials, client information, projects, confidential files, NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data"
+    ]
   },
   "screenshots": [],
   "sources": [

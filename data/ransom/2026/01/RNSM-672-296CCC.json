@@ -16,7 +16,12 @@
   "extortion": {
     "data_size_bytes": 24000000000,
     "description": "Medenet provides a comprehensive suite of services including EHR solutions, practice management, credentialing, and coding services tailored to the needs of physician practices. iGlobal Services is a specialized risk management firm focused oncybersecurity, providing solutions to complex challenges in the digital and regulated business environment.We will upload 24gb of corporate data soon. Very detailed employees' and customers' data (DLs, passports, SSNs and so on), contracts and agreements, financials, confidential files, NDAs and so on.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

@@ -15,7 +15,13 @@
   "extortion": {
     "data_size_bytes": 10000000000,
     "description": "McFarlane Agencies is an independent insurance brokerage located in Okotoks, Alberta, specializing in a wide range of insurance and financial services since 1975. They offer automobile, recreational, commercial, travel, pet, farm, acreage, and property insurance, along with financial services through a partnership with Desjardins Financial Security Investments Inc.We will upload 10gb of corporate data soon. Detailed clients' personal documents (SSNs, passports, DLs, addresses, phones and so on), employee information, financials, client information, NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "addresses",
+      "passport-numbers",
+      "drivers-licence-data",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

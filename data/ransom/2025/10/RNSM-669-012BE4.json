@@ -15,7 +15,11 @@
   "extortion": {
     "data_size_bytes": 323000000000,
     "description": "Barr & Barr, Inc is a construction management company that provides building information modeling & construction management.We are going to upload 323gb of corporate data. Employee detailedinformation (name, address, DOB, phones, scanned passports, DLs,death reports and so on), financials, clients information, contracts and agreements, projects, and of other files.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data"
+    ]
   },
   "screenshots": [],
   "sources": [

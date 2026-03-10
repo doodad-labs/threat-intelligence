@@ -16,7 +16,13 @@
   "extortion": {
     "data_size_bytes": 16000000000,
     "description": "Fluxergy is developing a platform with multi-modal detection technologies which bring the variety of tests found in the central laboratory.We are going to upload 16GB of corporate data. Detailed employee data (lots of personal documents: SSNs, driver licenses, passports and so on), detailed finance and accounting files including confidential ones, lots of customer information, contract and agreements, confidentiality agreements, NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "government-identifiers",
+      "employee-records",
+      "legal-documents"
+    ]
   },
   "screenshots": [],
   "sources": [

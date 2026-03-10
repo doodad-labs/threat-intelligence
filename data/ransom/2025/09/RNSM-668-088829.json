@@ -16,7 +16,11 @@
   "extortion": {
     "data_size_bytes": 42000000000,
     "description": "VARDECO SA specializes in high precision bar turning and screw machining, offering services for small, medium, and large custom series.We are going to upload 42 GB of corporate data. Employee personalfiles (passports, driver licenses, SSNs), project files, financial data, drawings and specifications, customer information, NDAs,etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

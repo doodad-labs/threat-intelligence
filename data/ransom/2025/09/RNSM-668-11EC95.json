@@ -16,7 +16,12 @@
   "extortion": {
     "data_size_bytes": 40000000000,
     "description": "STANDARD IRON & WIRE WORKS manufactures products in two distinct divisions. Contract Manufacturing fabricates, assembles and paints heavy-duty products for blue-chip original equipment manufacturers (OEMs) across numerous end markets including, agriculture, construction, power generation, industrial HVAC, among others.We are going to upload 40GB of corporate data. Employee data (SSNs, driver licenses, medical files and so on), finance and accounting files, payment details, customer information, contract and agreements, confidentiality agreements, NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "legal-documents",
+      "internal-documents",
+      "government-identifiers",
+      "employee-records"
+    ]
   },
   "screenshots": [],
   "sources": [

@@ -15,7 +15,12 @@
   "extortion": {
     "data_size_bytes": 45000000000,
     "description": "Karl Geuther & Co. operates in five business areas: shipping, stevedoring/port handling, transport logistics/freight forwarding, mail order, and tourism.We will upload 45gb of corporate data soon. Employee documents (IDs, passports, DLs, birth certs), financials, contracts and so on.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "legal-documents"
+    ]
   },
   "screenshots": [],
   "sources": [

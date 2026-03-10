@@ -15,7 +15,11 @@
   "extortion": {
     "data_size_bytes": 160000000000,
     "description": "Cook Brown LLP specializes in labor and employment law, providingcomprehensive legal representation to employers in areas such aslitigation, claims settlement, and labor relations.We are going to upload 160gb corporate data. Lots of client data where you can find at least 100 SSNs and other personal information, employee files (Passports and other personal documents), police reports, court documents, medical information, HR data, contracts and agreements, payment details and other financial information, NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "customer-records",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

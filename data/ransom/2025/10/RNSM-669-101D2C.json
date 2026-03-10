@@ -16,7 +16,13 @@
   "extortion": {
     "data_size_bytes": 30000000000,
     "description": "Five Star Mechanical Inc. specializes in providing commercial andindustrial HVAC services, plumbing, piping, and sheet metal fabrication.We are ready to upload 30gb of corporate documents. Employee and owners personal information (passports, DLs, SSNs, address, emails and so on), customers files, projects, financials and other operating files.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "email-addresses",
+      "passport-numbers",
+      "drivers-licence-data",
+      "government-identifiers",
+      "personal-data"
+    ]
   },
   "screenshots": [],
   "sources": [

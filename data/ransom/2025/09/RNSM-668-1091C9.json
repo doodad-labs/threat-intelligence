@@ -15,7 +15,13 @@
   "extortion": {
     "data_size_bytes": 35000000000,
     "description": "Venezia, headquartered in Limerick, PA, provides high quality transport & trucking services for the Liquid, Dry Bulk & Specialty commodities transportation industry to 48 states and Canada.We are going to upload 35GB of corporate data. Employee data (DOB, addresses, phones, emails, medical certificates, passports, driver licenses and so on), finance and accounting files, payment details, client information, project information, NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "employee-records",
+      "email-addresses",
+      "addresses",
+      "passport-numbers"
+    ]
   },
   "screenshots": [],
   "sources": [

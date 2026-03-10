@@ -16,7 +16,11 @@
   "extortion": {
     "data_size_bytes": 66000000000,
     "description": "Jones Soda Co.® (CSE: JSDA, OTCQB: JSDA) is a leading craft soda manufacturer with a growing line of cannabis products.We are going to upload 66gb corporate data. Employee information (complete name, DOB, address, emails, phones, SSNs and so on), financials, payment details, credit cards details, numerous contracts and agreements (with PepsiCo and others), NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "email-addresses",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

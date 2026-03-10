@@ -16,7 +16,13 @@
   "extortion": {
     "data_size_bytes": 20000000000,
     "description": "Gurneys Montauk Resort & Seawater Spa is a luxury beach hotel located in Montauk, NY, offering 158 rooms, suites, and beachfront cottages with stunning ocean views. We are going to upload 20GB of corporate data. Employees' personal information (passports, addresses, SSNs, phones, emails, medical information and so on), client information (DOB, full name, phone, emails, room numbers, addresses and so on), finance and accounting files, NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "email-addresses",
+      "addresses",
+      "passport-numbers",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

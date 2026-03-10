@@ -16,7 +16,12 @@
   "extortion": {
     "data_size_bytes": 25000000000,
     "description": "Royal Wine Corp is a family-owned company specializing in the production and distribution of high-quality kosher wines, liqueurs, and spirits. The company offers a diverse portfolio, including various brands of wines and spirits, with an emphasis on its Israeli selections. Their target clients include wine and spirit enthusiasts looking for unique and authentic kosher beverages.We will upload 25gb of corporate data soon. Detailed employee personal information (SSNs, passports, DLs, health information, credit cards and so on), clients information (projects, contracts, contacts), financials, NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

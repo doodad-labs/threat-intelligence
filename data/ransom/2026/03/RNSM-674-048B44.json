@@ -15,7 +15,14 @@
   "extortion": {
     "data_size_bytes": 100000000000,
     "description": "Reynolds, DeMarco Boland, Ltd. is a general litigation law firm based in Rhode Island, specializing in insurance law, personal injury, civil rights, and numerous other practice areas. The firm primarily represents insurers and their insureds in civil litigation, as well as providing legal advice for first party claims and coverage issues.We will upload over 100gb of corporate data soon. Clients' personal files (w9, i9 forms, passports, DLs, SSNs, medical records), police reports, court files, and other confidential files.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "government-identifiers",
+      "tax-documents",
+      "employment-eligibility-documents"
+    ]
   },
   "screenshots": [],
   "sources": [

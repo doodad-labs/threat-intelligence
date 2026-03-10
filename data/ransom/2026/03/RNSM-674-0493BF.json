@@ -16,7 +16,12 @@
   "extortion": {
     "data_size_bytes": 10000000000,
     "description": "Business Automation Specialists (BASM) is a Microsoft Partner that focuses on providing implementation, consultation, customization, and support for Microsoft Dynamics 365 Business Central and NAV.We will upload 10 gb of corporate data soon. Employee personal files (passports, DLs, medical files), NDAs, contracts and agreements, financials, projects, clients' files, internal confidential files, and so on.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "legal-documents"
+    ]
   },
   "screenshots": [],
   "sources": [

@@ -16,7 +16,12 @@
   "extortion": {
     "data_size_bytes": 44000000000,
     "description": "The Standing Chapter 13 Trustee District of Minnesota provides services related to bankruptcy cases under Chapter 13, assisting debtors with payment information and case-related resources.We will upload 44gb of corporate documents soon. Employee and client personal documents (SSNs, passports, DLs and so on), detailedfinancials, internal confidential docs, contracts and agreements, court documents, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "financial-data",
+      "passport-numbers",
+      "drivers-licence-data",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

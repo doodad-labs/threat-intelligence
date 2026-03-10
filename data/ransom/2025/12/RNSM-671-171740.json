@@ -16,7 +16,12 @@
   "extortion": {
     "data_size_bytes": 256000000000,
     "description": "ACME Industrial, Inc. offers a wide range of industrial, commercial, and marine repair and mechanical services from their 10,000 square foot facility in Staten Island, New York.We will upload 256gb of corporate data soon. Employees information (passports, DLs, SSNs, birth and death certs, medical information), financials, payment details, client files, NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

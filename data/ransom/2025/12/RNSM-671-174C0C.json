@@ -15,7 +15,12 @@
   "extortion": {
     "data_size_bytes": 31000000000,
     "description": "Adelman & Gettleman is a boutique law firm based in Chicago that specializes in commercial insolvency, bankruptcy, and related litigation. With over 40 years of experience, the firm is known for efficiently resolving financial difficulties for its clients through creative and consensus-driven approaches.We will upload 31gb of corporate data soon. Clients and employeesinformation (passports, DLs, SSNs), financials, court files, police reports and other confidential files.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

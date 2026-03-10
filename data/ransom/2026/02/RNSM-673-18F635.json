@@ -16,7 +16,12 @@
   "extortion": {
     "data_size_bytes": 27000000000,
     "description": "Cedar Grove Warehouse is a family-owned logistics and warehousingcompany that offers a range of services including dock-to-dock logistics solutions, rail car cross docking, and various storage options such as refrigerated, freezer, and dry storage. We will upload almost 27gb of corporate data soon. Personal filesof employees (SSNs, passports, national IDs and DLs of more than100 ppl and other personal information), financials, HR files, projects, client files, NDAs and so on.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [
