@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-192C5A",
+  "type": "ransomware-incident",
+  "title": "enstargroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "enstargroup.com",
+    "domain": "enstargroup.com",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "enstargroup.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e94f18d18bcbb6489a97d7f6876381b7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw5zdgfyz3jvdxauy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-03-22 09:08:00.000000",
+    "disclosedDate": "2024-04-19 11:52:02.164010"
+  }
+}

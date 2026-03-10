@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-608-23B056",
+  "type": "ransomware-incident",
+  "title": "Tyler Technologies ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Tyler Technologies",
+    "domain": "tylertech.com",
+    "country": "US",
+    "sector": "Information Technology"
+  },
+  "actor": {
+    "id": "ransomexx",
+    "name": "ransomexx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhlszxigvgvjag5vbg9nawvzqhjhbnnvbwv4ea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://therecord.media/dc-city-agency-ransomware-attack-lockbit",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-09-23 00:00:00.000000",
+    "disclosedDate": "2020-09-23 00:00:00.000000"
+  }
+}

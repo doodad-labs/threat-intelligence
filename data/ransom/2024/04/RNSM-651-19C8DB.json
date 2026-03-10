@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19C8DB",
+  "type": "ransomware-incident",
+  "title": "cpiai.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cpiai.com",
+    "domain": "cpiai.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "cpiai.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b7d01396fcbe3657bac7399a1256c0e8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3bpywkuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-06-23 13:42:00.000000",
+    "disclosedDate": "2024-04-19 11:51:32.365402"
+  }
+}

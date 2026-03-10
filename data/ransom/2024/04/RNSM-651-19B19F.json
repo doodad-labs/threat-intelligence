@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19B19F",
+  "type": "ransomware-incident",
+  "title": "enterprisebanking.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "enterprisebanking.com",
+    "domain": "enterprisebanking.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "enterprisebanking.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2c15ff2f74eb5013d10d4023856f8568.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw50zxjwcmlzzwjhbmtpbmcuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-07-06 00:28:00.000000",
+    "disclosedDate": "2024-04-19 12:20:29.049129"
+  }
+}

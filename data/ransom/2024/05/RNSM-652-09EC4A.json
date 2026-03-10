@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-652-09EC4A",
+  "type": "ransomware-incident",
+  "title": "incegroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "incegroup.com",
+    "domain": "incegroup.com",
+    "country": "VC",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "ABOUT INERGROUP. We improve, manage, and deliver labor-intensive processes within our customers' manufacturing and distribution facilities. With our fixed cost pricing model and managed workforce deliverables, our Engineers work directly with your op...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/39b7a7638a2e5770fe3e5b2a8bdc7ec0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw5jzwdyb3vwlmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-03-13 00:00:00.000000",
+    "disclosedDate": "2024-05-09 22:35:49.318594"
+  }
+}

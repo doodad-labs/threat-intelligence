@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19E1F3",
+  "type": "ransomware-incident",
+  "title": "kellyservices.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kellyservices.com",
+    "domain": "kellyservices.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "kellyservices.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ede92ee6f3f3caacbff09de8fe3e1f59.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/a2vsbhlzzxj2awnlcy5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-01-01 21:45:00.000000",
+    "disclosedDate": "2024-04-19 12:11:18.384191"
+  }
+}

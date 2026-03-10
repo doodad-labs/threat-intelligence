@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19ABA9",
+  "type": "ransomware-incident",
+  "title": "shutterfly.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "shutterfly.com",
+    "domain": "shutterfly.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "shutterfly.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/773f7642b907fbfa8cba6bd5dccffe74.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2h1dhrlcmzses5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-09-05 02:51:00.000000",
+    "disclosedDate": "2024-04-19 11:39:04.704247"
+  }
+}

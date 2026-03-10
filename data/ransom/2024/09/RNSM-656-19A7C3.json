@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-19A7C3",
+  "type": "ransomware-incident",
+  "title": "paybito.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "paybito.com",
+    "domain": "paybito.com",
+    "country": "IN",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Quick Launch Self Branded Crypto Exchange. Create an exchange theme from scratch or go headless PayBitoPro APIs. Who We Serve Our experienced teams provide comprehensive financial solutions, meticulously tailored to address the unique needs of busine...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7634565ffdf67ba8257ec2c42ac3ac6a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgf5yml0by5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-01-31 00:00:00.000000",
+    "disclosedDate": "2024-09-19 04:10:35.556638"
+  }
+}

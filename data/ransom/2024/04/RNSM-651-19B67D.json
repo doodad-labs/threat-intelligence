@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19B67D",
+  "type": "ransomware-incident",
+  "title": "goalsolutions.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "goalsolutions.com",
+    "domain": "goalsolutions.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "goalsolutions.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ca926fafde27746e1ae3598c0930206f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z29hbhnvbhv0aw9ucy5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-01-26 20:23:00.000000",
+    "disclosedDate": "2024-04-19 12:31:08.806761"
+  }
+}

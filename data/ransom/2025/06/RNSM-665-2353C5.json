@@ -16,7 +16,10 @@
   },
   "extortion": {
     "description": "Access to Hy-Vee’s environment was obtained through compromised Atlassian accounts, including tools such as Confluence and Jira.                             Internal documents, infrastructure diagrams, employee data, training materials, and technical information related to several operational systems were extracted. These include:",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "employee-records",
+      "internal-documents"
+    ]
   },
   "screenshots": [
     {

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-642-312F5F",
+  "type": "ransomware-incident",
+  "title": "4murs.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "4murs.com",
+    "domain": "4murs.com",
+    "country": "FR",
+    "sector": ""
+  },
+  "actor": {
+    "id": "babuk",
+    "name": "babuk",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Babuk v2.0 new",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/44f79da60c4d505b713864e14824ada6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ng11cnmuy29tqgjhynvr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-06-15 14:05:51.000000",
+    "disclosedDate": "2023-07-31 14:37:09.822907"
+  }
+}

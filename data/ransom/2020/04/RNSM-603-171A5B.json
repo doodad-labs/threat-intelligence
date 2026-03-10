@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-603-171A5B",
+  "type": "ransomware-incident",
+  "title": "Afpa ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Afpa",
+    "domain": "afpa.fr",
+    "country": "FR",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "doppelpaymer",
+    "name": "doppelpaymer",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwzwyubkb3bwzwxwyxltzxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-04-17 00:00:00.000000",
+    "disclosedDate": "2020-04-17 00:00:00.000000"
+  }
+}

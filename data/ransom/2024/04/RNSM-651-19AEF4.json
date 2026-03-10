@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19AEF4",
+  "type": "ransomware-incident",
+  "title": "arietishealth.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "arietishealth.com",
+    "domain": "arietishealth.com",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "arietishealth.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a36e110e1aad2c6a884ee32f57a8e701.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/yxjpzxrpc2hlywx0ac5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-03-15 20:58:00.000000",
+    "disclosedDate": "2024-04-19 12:33:05.251085"
+  }
+}

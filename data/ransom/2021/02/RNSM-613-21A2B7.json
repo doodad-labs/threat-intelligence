@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-613-21A2B7",
+  "type": "ransomware-incident",
+  "title": "Manutan ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Manutan",
+    "domain": "manutan.fr",
+    "country": "FR",
+    "sector": "Critical Manufacturing"
+  },
+  "actor": {
+    "id": "doppelpaymer",
+    "name": "doppelpaymer",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfudxrhbkbkb3bwzwxwyxltzxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-02-21 00:00:00.000000",
+    "disclosedDate": "2021-02-21 00:00:00.000000"
+  }
+}

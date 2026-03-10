@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-624-138343",
+  "type": "ransomware-incident",
+  "title": "Hanon Systems ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Hanon Systems",
+    "domain": "hanonsystems.com",
+    "country": "KR",
+    "sector": "Automotive"
+  },
+  "actor": {
+    "id": "snatch",
+    "name": "snatch",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hanon Systems manufactures a variety of automotive air control equipment. The Company's products include air conditioners, heaters, cooling modules, compressors, radiators, fans, evaporators, and condensers. Hanon Systems distributes its products on an original equipment manufacturing (OEM) basis.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgfub24gu3lzdgvtc0bzbmf0y2g=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-01-13 19:25:44.063056",
+    "disclosedDate": "2022-01-13 19:25:44.063056"
+  }
+}

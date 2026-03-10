@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-660-2720F6",
+  "type": "ransomware-incident",
+  "title": "human.de ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "human.de",
+    "domain": "human.de",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "babuk2",
+    "name": "babuk2",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "HUMAN, founded in 1972, is a Germany based privately owned company which develops, manufactures and distributes a wide range of IVD Diagnostics and laboratory equipment.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/67beda4b3422a9625a2a9be76a27c7c5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahvtyw4uzgvaymfidwsy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-02-01 08:29:00.074268",
+    "disclosedDate": "2025-01-27 08:30:04.612068"
+  }
+}

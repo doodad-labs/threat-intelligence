@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19A4BB",
+  "type": "ransomware-incident",
+  "title": "putnam.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "putnam.com",
+    "domain": "putnam.com",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "putnam.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e03886243fedf1bcf748f2c7babcf81d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/chv0bmftlmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-05-19 04:45:00.000000",
+    "disclosedDate": "2024-04-19 11:32:08.617960"
+  }
+}

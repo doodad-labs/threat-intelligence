@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19CC55",
+  "type": "ransomware-incident",
+  "title": "hillrom.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hillrom.com",
+    "domain": "hillrom.com",
+    "country": "FR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "hillrom.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/84341529a288ba94f449c5e9baf8031f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aglsbhjvbs5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-03-28 17:14:00.000000",
+    "disclosedDate": "2024-04-19 12:14:50.734286"
+  }
+}

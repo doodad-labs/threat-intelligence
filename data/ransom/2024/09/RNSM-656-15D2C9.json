@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-15D2C9",
+  "type": "ransomware-incident",
+  "title": "fivestarproducts.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "fivestarproducts.com",
+    "domain": "fivestarproducts.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Markets & Applications Our innovative product solutions and unparalleled technical and engineering support make Five Star Products an outstanding choice for project success in a variety of markets and applications. Chemical Processing O&G",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/93ad12b88a45aca21f75bb05ec2bff22.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zml2zxn0yxjwcm9kdwn0cy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-02-03 00:00:00.000000",
+    "disclosedDate": "2024-09-15 17:07:50.286540"
+  }
+}

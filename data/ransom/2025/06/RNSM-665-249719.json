@@ -16,7 +16,10 @@
   "extortion": {
     "data_size_bytes": 5000000000,
     "description": "Datrose, founded in is a business outsourcing company that offersdocument management, mail services, contact center solutions, accounts payable, and staffing services.We are ready to upload more than 5 GB of corporate documents suchas: confidentiality agreements, numerous docs containing personal employee information (SSNs, DOB, emails, address), financial data (payment details, invoices), NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "email-addresses",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

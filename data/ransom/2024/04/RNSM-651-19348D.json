@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19348D",
+  "type": "ransomware-incident",
+  "title": "bankers-bank.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bankers-bank.com",
+    "domain": "bankers-bank.com",
+    "country": "",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "bankers-bank.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1f648fb9521d0068271bcf210a39f840.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ymfua2vycy1iyw5rlmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-07-19 11:26:00.000000",
+    "disclosedDate": "2024-04-19 11:40:03.081685"
+  }
+}

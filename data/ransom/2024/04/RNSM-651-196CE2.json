@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-196CE2",
+  "type": "ransomware-incident",
+  "title": "honeywell.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "honeywell.com",
+    "domain": "honeywell.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "honeywell.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ce9f2c1ba147cc946f4c5f7f51804939.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ag9uzxl3zwxslmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-10-02 03:57:00.000000",
+    "disclosedDate": "2024-04-19 11:38:06.552586"
+  }
+}

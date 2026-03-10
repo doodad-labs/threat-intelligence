@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-309C68",
+  "type": "ransomware-incident",
+  "title": "bridgestoneamericas.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "bridgestoneamericas.com",
+    "domain": "bridgestoneamericas.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Since its founding in 1931, Bridgestone is committed to innovating improvements for the world around us. We strive for what sets new standards.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/54d2ae51b0e98cfe0f9b621db031581a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjpzgdlc3rvbmvhbwvyawnhcy5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-02-27 00:00:00.000000",
+    "disclosedDate": "2024-08-30 07:58:15.036479"
+  }
+}

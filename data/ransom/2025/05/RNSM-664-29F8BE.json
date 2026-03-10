@@ -17,7 +17,12 @@
   "extortion": {
     "data_size_bytes": 42000000000,
     "description": "McKenzie Commercial delivers high-quality, cost-effective commercial construction services, while fostering a supportive work environment for employees who provide exceptional workmanship.We are going to upload about 42 GB of corporate data. Employee personal information (DOB, passports, addresses, phones, emails, and so on), financial data, client data, lots of project data, contracts and agreements, confidential documents, NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "email-addresses",
+      "addresses",
+      "passport-numbers"
+    ]
   },
   "screenshots": [],
   "sources": [

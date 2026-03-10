@@ -17,7 +17,12 @@
   "extortion": {
     "data_size_bytes": 728000000000,
     "description": "The Nashua, New Hampshire School District is a city of 88,000 residents with much to offer. Most notably, the City has a long tradition of supporting public education, both with resources and volunteers. The School District doesn't need it's 728GB of data containing SSNs, passports, forms with personal data both of employees and students. Confidential document and a crazy amount of databases will be uploaded here as well. Stay in touch.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "passport-numbers",
+      "government-identifiers",
+      "internal-documents",
+      "personal-data"
+    ]
   },
   "screenshots": [
     {

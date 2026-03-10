@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-307969",
+  "type": "ransomware-incident",
+  "title": "albanybank.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "albanybank.com",
+    "domain": "albanybank.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Personal Banking Business Internet Banking Promo Business Internet Banking Managing your business finances is easier than ever!",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/122863bd254f992772c6f5af7eb4ad6e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywxiyw55ymfuay5jb21abg9ja2jpddm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-02-05 00:00:00.000000",
+    "disclosedDate": "2024-08-30 08:01:13.421460"
+  }
+}

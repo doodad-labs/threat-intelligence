@@ -16,7 +16,11 @@
   "extortion": {
     "data_size_bytes": 269000000000,
     "description": "Bronx Pro Group is a neighborhood-based firm that employs approximately 100 professional and support staff engaged in real estate development, construction, property management, and residential services.We are going to upload about 269 GB of corporate data. Numerous employee personal documents (SSNs, passports, driver licenses, addresses medical documents), contracts and agreements, client information, detailed financial data, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-1949B2",
+  "type": "ransomware-incident",
+  "title": "powerfi.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "powerfi.org",
+    "domain": "powerfi.org",
+    "country": "",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "powerfi.org",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/83a5c750ddcfe7a51ec744c011673fa2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cg93zxjmas5vcmdazglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-08-26 09:43:00.000000",
+    "disclosedDate": "2024-04-19 11:41:30.188399"
+  }
+}

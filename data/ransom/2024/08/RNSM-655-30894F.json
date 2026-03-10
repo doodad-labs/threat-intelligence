@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-30894F",
+  "type": "ransomware-incident",
+  "title": "hphood.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hphood.com",
+    "domain": "hphood.com",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Products: Milk, Ice Cream, Cottage Cheese, Sour Cream, Cream Eggnog, Recipes, Store Locator, Girl drinking Hood Milk, Girl drinking Hood milk.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7c7e229736dddfadd41688b194cef9ca.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahbob29klmnvbubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-03-14 00:00:00.000000",
+    "disclosedDate": "2024-08-30 07:55:16.000406"
+  }
+}

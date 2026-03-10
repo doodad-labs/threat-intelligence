@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-22D201",
+  "type": "ransomware-incident",
+  "title": "Diagnostica Stago ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Diagnostica Stago",
+    "domain": "stago.fr",
+    "country": "FR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "ransomexx",
+    "name": "ransomexx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 423000000,
+    "description": "Diagnostica Stago is a global leader in the field of in-vitro diagnostics, specializing in hemostasis and thrombosis.Leaked data size: 423MB.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1a949784815b566f82dc64cbca8fe588.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rglhz25vc3rpy2egu3rhz29acmfuc29tzxh4",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-03-01 19:06:00.000000",
+    "disclosedDate": "2024-04-22 12:49:07.602884"
+  }
+}

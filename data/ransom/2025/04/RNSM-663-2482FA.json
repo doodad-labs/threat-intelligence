@@ -15,7 +15,10 @@
   "extortion": {
     "data_size_bytes": 12000000000,
     "description": "Fogelman is a multifamily investment and property management firm.We are ready to upload than 12GB of essential corporate document.The most interesting are ~4000 files filled with personal information of employees (SSN, DOB, phone, email and so on), financial data (audits, payment details, reports), corporate NDA’s, confidential trial documents, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "email-addresses",
+      "government-identifiers"
+    ]
   },
   "screenshots": [],
   "sources": [

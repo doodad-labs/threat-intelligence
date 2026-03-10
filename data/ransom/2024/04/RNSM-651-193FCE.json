@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-193FCE",
+  "type": "ransomware-incident",
+  "title": "jackson.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jackson.com",
+    "domain": "jackson.com",
+    "country": "",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "jackson.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4fc4265329c092b76253371627692bba.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/amfja3nvbi5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-02-03 14:26:00.000000",
+    "disclosedDate": "2024-04-19 11:49:00.903979"
+  }
+}

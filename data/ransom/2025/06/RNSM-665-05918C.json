@@ -16,7 +16,12 @@
   "extortion": {
     "data_size_bytes": 17000000000,
     "description": "AMS Paving, Inc. has been providing quality paving and maintenance services throughout Southern California since 1981.We are going to upload about 17 GB of corporate data. Employee personal information (DLs, DOB, addresses, credit card details and so on), lots of contracts and agreements, client data, financial data, accounting and financial data, payment details, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "addresses",
+      "drivers-licence-data",
+      "financial-data"
+    ]
   },
   "screenshots": [],
   "sources": [

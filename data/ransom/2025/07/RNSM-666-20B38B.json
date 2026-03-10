@@ -17,7 +17,10 @@
   "extortion": {
     "data_size_bytes": 200000000000,
     "description": "We’ve successfully breached the internal network of TransCore’s Dubai office.Over 200 GB of internal data has been exfiltrated, including in-development source code, full file sets from active and archived client projects, internal financial records, and a massive trove of unprotected customer data — all stored without proper safeguards.The stolen data contains clear violations of multiple NDAs, exposing confidential third-party materials and client information.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "customer-records",
+      "legal-documents"
+    ]
   },
   "screenshots": [],
   "sources": [

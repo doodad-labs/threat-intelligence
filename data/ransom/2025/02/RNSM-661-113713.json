@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-661-113713",
+  "type": "ransomware-incident",
+  "title": "Rogers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Rogers",
+    "domain": "rogershvac.com",
+    "country": "CA",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "hunters",
+    "name": "hunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Exfiltraded data : yes - Encrypted data : yes",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f235d258ecf6b75a51cf40a0bbcf523d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um9nzxjzqgh1bnrlcnm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-09-09 23:46:57.767787",
+    "disclosedDate": "2025-02-11 09:51:17.367374"
+  }
+}

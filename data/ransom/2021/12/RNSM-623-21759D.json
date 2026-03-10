@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-623-21759D",
+  "type": "ransomware-incident",
+  "title": "Eisai Co., Ltd ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Eisai Co., Ltd",
+    "domain": "eisai.com",
+    "country": "JP",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "atomsilo",
+    "name": "atomsilo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Eisai Co., Ltd. is a Japanese multinational pharmaceutical company headquartered in Tokyo. Established in 1941, it's one of the leading firms in the field of neurology and oncology. Eisai produces several drugs used globally such as Aricept for Alzheimer's disease and Halaven for breast cancer. Aside from drug creation, Eisai also engages in global health initiatives.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e6937bf67fe242ab7d27c1068d63152a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwlzywkgq28ulcbmdgrayxrvbxnpbg8=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.eisai.com/news/2023/news202341.html",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-12-21 20:28:18.130641",
+    "disclosedDate": "2021-12-21 20:28:18.130641"
+  }
+}

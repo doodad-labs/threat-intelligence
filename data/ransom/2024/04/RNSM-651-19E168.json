@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-651-19E168",
+  "type": "ransomware-incident",
+  "title": "planethomelending.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "planethomelending.com",
+    "domain": "planethomelending.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "planethomelending.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/77872d792de11aff95b864ad5f908017.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cgxhbmv0ag9tzwxlbmrpbmcuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.scmagazine.com/news/planet-home-lending-notifies-customers-of-lockbit-ransomware-incident",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-03-25 17:59:00.000000",
+    "disclosedDate": "2024-04-19 12:16:54.575209"
+  }
+}

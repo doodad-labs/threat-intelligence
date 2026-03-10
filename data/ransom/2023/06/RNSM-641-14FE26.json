@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-641-14FE26",
+  "type": "ransomware-incident",
+  "title": "Jalux Americas, Inc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Jalux Americas, Inc.",
+    "country": "",
+    "sector": ""
+  },
+  "actor": {
+    "id": "medusalocker",
+    "name": "medusalocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "DescriptionClient Case – agreement – email(.msg) – and other documents Price: 160000$The company failed to take care of the data leak and therefore ,many contracts and other documents have been leaked to the Internet.We are also going to provide any documents related to the aforementioned company if any law enforcement agency should request it",
+    "claimed_data_types": [
+      "email-addresses",
+      "legal-documents"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/aa7565e150fbd0dbaf77b0f8c0767276.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/smfsdxggqw1lcmljyxmsieluyy5abwvkdxnhbg9ja2vy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-11-03 01:27:43.000000",
+    "disclosedDate": "2023-06-14 18:01:22.044335"
+  }
+}

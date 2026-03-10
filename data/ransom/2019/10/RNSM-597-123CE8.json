@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-597-123CE8",
+  "type": "ransomware-incident",
+  "title": "M6 ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "M6",
+    "domain": "m6.fr",
+    "country": "FR",
+    "sector": "Communication"
+  },
+  "actor": {
+    "id": "bitpaymer",
+    "name": "bitpaymer",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ttzayml0cgf5bwvy",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2019-10-12 00:00:00.000000",
+    "disclosedDate": "2019-10-12 00:00:00.000000"
+  }
+}

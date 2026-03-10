@@ -15,7 +15,12 @@
   "extortion": {
     "data_size_bytes": 110000000000,
     "description": "These respected guys didn't seem to have much respect for their clients, as a huge amount of personal information was almost unprotected. We took 110 GB of files where a lot of client informationcan be found: passports, driver's licenses, birth/death certificates, correspondence, addresses, contacts and more. There is alsoa lot of data about the firm in the form of financial statementsand other documents, and many of them are confidential. The mostinteresting thing about this case is that these guys didn't wantto pay even with an active cyber insurance policy. We will upload the files shortly.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "customer-records",
+      "personal-data",
+      "passport-numbers",
+      "addresses"
+    ]
   },
   "screenshots": [],
   "sources": [

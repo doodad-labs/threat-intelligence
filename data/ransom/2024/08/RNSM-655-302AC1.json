@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-302AC1",
+  "type": "ransomware-incident",
+  "title": "inces.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "inces.com",
+    "domain": "inces.com",
+    "country": "DE",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "inces.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6019c02497b99f6311d81c5204fe642d.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw5jzxmuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-02-16 00:00:00.000000",
+    "disclosedDate": "2024-08-30 07:51:17.601572"
+  }
+}

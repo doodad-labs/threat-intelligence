@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-655-30B615",
+  "type": "ransomware-incident",
+  "title": "huntongroup.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "huntongroup.com",
+    "domain": "huntongroup.com",
+    "country": "CN",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hunton Group is a synergistic group of Companies focused on innovative systems, comprehensive solutions, and Trane's high-quality products.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/257ad216908d64eb44ae10a9639eeae6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ahvudg9uz3jvdxauy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-02-21 00:00:00.000000",
+    "disclosedDate": "2024-08-30 07:52:15.912679"
+  }
+}

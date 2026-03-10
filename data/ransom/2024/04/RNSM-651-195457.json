@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-195457",
+  "type": "ransomware-incident",
+  "title": "abbvie.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "abbvie.com",
+    "domain": "abbvie.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "abbvie.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5d42b206934803450402282f27296094.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywjidmlllmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-03-08 14:09:00.000000",
+    "disclosedDate": "2024-04-19 11:47:30.106244"
+  }
+}

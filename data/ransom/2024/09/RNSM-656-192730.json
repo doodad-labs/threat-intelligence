@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-192730",
+  "type": "ransomware-incident",
+  "title": "yesmoke.eu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "yesmoke.eu",
+    "domain": "yesmoke.eu",
+    "country": "IT",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Sede legale | C.so Europa, 7 20122 Milano, Italia; Sede Operativa | Via San Giusto, 5 10036 Settimo Torinese (To), Italia; contact@yesmoke.eu +39 011 821 1653",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6d99a166544791c18ab95964bce6bfee.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ewvzbw9rzs5ldubsb2nryml0mw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-03-23 00:00:00.000000",
+    "disclosedDate": "2024-09-19 04:14:38.979835"
+  }
+}

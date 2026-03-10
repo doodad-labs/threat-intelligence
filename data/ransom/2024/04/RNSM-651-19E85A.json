@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19E85A",
+  "type": "ransomware-incident",
+  "title": "deloitte.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "deloitte.com",
+    "domain": "deloitte.com",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "deloitte.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1df006758eff6d7f9fd0b2b04eb71ad5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zgvsb2l0dguuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-09-06 21:02:00.000000",
+    "disclosedDate": "2024-04-19 12:17:54.120176"
+  }
+}

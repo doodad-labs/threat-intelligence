@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-195730",
+  "type": "ransomware-incident",
+  "title": "cap.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cap.org",
+    "domain": "cap.org",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "cap.org",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e70897e7eef70b22da12bbaf8e848f4a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2fwlm9yz0bkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-06-03 06:23:00.000000",
+    "disclosedDate": "2024-04-19 12:22:09.951550"
+  }
+}

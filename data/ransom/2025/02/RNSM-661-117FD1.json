@@ -16,7 +16,12 @@
   "extortion": {
     "data_size_bytes": 13000000000,
     "description": "Wakefield & Associates is a financial services company that specializes in debt collection and billing services.We are ready to upload more than 13 GB of sensitive private corporate documents such as: SSNs, passport numbers, confidential licenses, agreements and contracts, financial data (audits, payment details, reports), contact numbers and e-mail addresses of employees and customers, medical insurance documents, internal correspondences, medicare numbers, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "passport-numbers",
+      "government-identifiers",
+      "financial-data",
+      "legal-documents"
+    ]
   },
   "screenshots": [],
   "sources": [

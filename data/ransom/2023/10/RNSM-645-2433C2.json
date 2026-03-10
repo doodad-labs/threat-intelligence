@@ -17,7 +17,14 @@
   "extortion": {
     "data_size_bytes": 270000000000,
     "description": "CMC Group is a fully integrated real estate development company focused on luxury residential, commercial and retail properties. 270Gb of data will be available. Very detailed clients informationincluding a DB (addresses, phone numbers, passports/ssns scans etc), confidential documents, contracts projects... And enormous number of accounting files are going to be uploaded.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "phone-numbers",
+      "addresses",
+      "passport-numbers",
+      "government-identifiers",
+      "internal-documents",
+      "legal-documents"
+    ]
   },
   "screenshots": [],
   "sources": [

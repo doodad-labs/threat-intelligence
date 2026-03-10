@@ -17,7 +17,9 @@
   "extortion": {
     "description": "As a result of our operation, we have discovered the following concerning data:1. Unanonymized customer datasets intended for AI training.2. Full source code of programs from the Git repository, including code for driverless systems, GPT models, and others.3. A substantial amount of internal information, including contracts, customer personal data, project costs, and project documentation.4. Backup copies of employee email accounts containing customer correspondence.",
     "claimed_data_types": [
-      "personal-data"
+      "legal-documents",
+      "personal-data",
+      "email-addresses"
     ]
   },
   "screenshots": [

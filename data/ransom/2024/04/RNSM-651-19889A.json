@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19889A",
+  "type": "ransomware-incident",
+  "title": "uhcsr.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "uhcsr.com",
+    "domain": "uhcsr.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "uhcsr.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3169db13c00a6e453dea68320ae35799.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dwhjc3iuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-07-27 13:16:00.000000",
+    "disclosedDate": "2024-04-19 11:28:37.692276"
+  }
+}

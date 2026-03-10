@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19EE5A",
+  "type": "ransomware-incident",
+  "title": "unitedregional.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "unitedregional.org",
+    "domain": "unitedregional.org",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "unitedregional.org",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f417166e5a4c29b140e9075c2afc5de5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dw5pdgvkcmvnaw9uywwub3jnqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-06-21 20:14:00.000000",
+    "disclosedDate": "2024-04-19 11:50:01.612616"
+  }
+}

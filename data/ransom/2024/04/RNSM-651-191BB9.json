@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-651-191BB9",
+  "type": "ransomware-incident",
+  "title": "riteaid.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "riteaid.com",
+    "domain": "riteaid.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "riteaid.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6066d7ab1ce8ee84aacba28dd469bc4b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/cml0zwfpzc5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/rite-aid-confirms-data-breach-after-june-ransomware-attack/",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-01-02 04:02:00.000000",
+    "disclosedDate": "2024-04-19 11:56:06.834598"
+  }
+}

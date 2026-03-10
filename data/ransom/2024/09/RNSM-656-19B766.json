@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-19B766",
+  "type": "ransomware-incident",
+  "title": "efile.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "efile.com",
+    "domain": "efile.com",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "eFile.com offers free or low-cost tax preparation and e-filing for federal and state returns. Compare eFile.com with other services, get free tax support from Taxperts, and use tax calculators and tools.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/2e3a9ae38bd443400b37e38793fc545f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zwzpbguuy29tqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-01-21 00:00:00.000000",
+    "disclosedDate": "2024-09-19 04:11:37.162314"
+  }
+}

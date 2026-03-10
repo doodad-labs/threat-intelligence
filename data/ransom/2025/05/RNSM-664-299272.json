@@ -16,7 +16,12 @@
   "extortion": {
     "data_size_bytes": 10000000000,
     "description": "AGME Automated Assembly Solutions design and manufacture special purpose machines that best meet the automatic assembly needs of different industries.We are going to upload about 10 GB of corporate data. Lot of employee personal information (DOB, passport id, addresses, phones, emails, and so on), projects info, financial data, client data, contracts and agreements, confidential documents, NDAs, etc.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "addresses",
+      "passport-numbers",
+      "personal-data"
+    ]
   },
   "screenshots": [],
   "sources": [

@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-651-19E62F",
+  "type": "ransomware-incident",
+  "title": "esteelauder.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "esteelauder.com",
+    "domain": "esteelauder.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "esteelauder.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/375db99cc38ae0ff27c11313189db3b0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zxn0zwvsyxvkzxiuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2023/07-19-2023-024305426",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-06-17 00:10:00.000000",
+    "disclosedDate": "2024-04-19 12:08:33.990434"
+  }
+}

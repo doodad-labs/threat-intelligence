@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19BEA0",
+  "type": "ransomware-incident",
+  "title": "chuckecheese.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "chuckecheese.com",
+    "domain": "chuckecheese.com",
+    "country": "US",
+    "sector": "Hospitality and Tourism"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "chuckecheese.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6b68685cccf6c50df2544d2ff159d0e6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2h1y2tly2hlzxnllmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-08-22 13:51:00.000000",
+    "disclosedDate": "2024-04-19 12:18:25.757097"
+  }
+}

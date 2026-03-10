@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-192F8B",
+  "type": "ransomware-incident",
+  "title": "grace.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "grace.com",
+    "domain": "grace.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "grace.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6eca1eaf33d1c4336ef18b442c9a26b4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/z3jhy2uuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-08-04 19:04:00.000000",
+    "disclosedDate": "2024-04-19 12:05:57.690279"
+  }
+}

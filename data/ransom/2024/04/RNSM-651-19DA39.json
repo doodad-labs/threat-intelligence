@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19DA39",
+  "type": "ransomware-incident",
+  "title": "brault.us ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "brault.us",
+    "domain": "brault.us",
+    "country": "US",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "brault.us",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e3dcb32efa875551c12cc2885e7520af.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjhdwx0lnvzqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-06-07 02:33:00.000000",
+    "disclosedDate": "2024-04-19 11:41:02.476237"
+  }
+}

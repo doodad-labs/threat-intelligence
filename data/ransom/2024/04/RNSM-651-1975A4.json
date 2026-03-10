@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-1975A4",
+  "type": "ransomware-incident",
+  "title": "tgidirect.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tgidirect.com",
+    "domain": "tgidirect.com",
+    "country": "",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "tgidirect.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a9dd935bb82a1043306ebd77976ae602.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgdpzglyzwn0lmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-03-27 09:29:00.000000",
+    "disclosedDate": "2024-04-19 11:38:35.263929"
+  }
+}

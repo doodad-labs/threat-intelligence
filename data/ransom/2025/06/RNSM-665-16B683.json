@@ -16,7 +16,11 @@
   "extortion": {
     "data_size_bytes": 3000000000,
     "description": "Tufton Capital Management is an independently owned wealth management and investment advisory firm serving high net worth individuals, families and institutions.We are going to upload about 3GB of corporate data. Numerous docswith client personal information as DOB, phone, address, emails are inside. Employee passports, driver licenses and other information can be found as well. Contracts, agreements and so on.",
-    "claimed_data_types": []
+    "claimed_data_types": [
+      "internal-documents",
+      "email-addresses",
+      "personal-data"
+    ]
   },
   "screenshots": [],
   "sources": [

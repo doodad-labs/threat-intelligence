@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-190E94",
+  "type": "ransomware-incident",
+  "title": "tjx.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tjx.com",
+    "domain": "tjx.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "tjx.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/49ced519b0b00aded7f503a30fb502dc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dgp4lmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-02-21 21:20:00.000000",
+    "disclosedDate": "2024-04-19 12:32:35.495486"
+  }
+}

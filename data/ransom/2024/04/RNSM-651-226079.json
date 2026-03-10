@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-226079",
+  "type": "ransomware-incident",
+  "title": "Ruwac Industrial Vacuums ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Ruwac Industrial Vacuums",
+    "domain": "ruwac.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomexx",
+    "name": "ransomexx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 7790000000,
+    "description": "Ruwac Industrial Vacuums is a leading manufacturer of industrial vacuum cleaners and vacuum systems designed for specialized cleaning applications in various industries. Leaked data size: 7.79GB.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/91c5a5093d298f40dc894ead2076481f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/unv3ywmgsw5kdxn0cmlhbcbwywn1dw1zqhjhbnnvbwv4ea==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-12-06 18:43:00.000000",
+    "disclosedDate": "2024-04-22 12:51:47.828586"
+  }
+}

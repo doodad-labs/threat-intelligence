@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-194BFA",
+  "type": "ransomware-incident",
+  "title": "cytomx.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cytomx.com",
+    "domain": "cytomx.com",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "cytomx.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/caeed51a429efcb6b50104158efc3bdb.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y3l0b214lmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-12-15 13:55:00.000000",
+    "disclosedDate": "2024-04-19 12:01:23.581581"
+  }
+}

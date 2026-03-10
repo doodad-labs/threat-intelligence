@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-656-153C4E",
+  "type": "ransomware-incident",
+  "title": "nfcaa.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "nfcaa.org",
+    "domain": "nfcaa.org",
+    "country": "US",
+    "sector": "Government"
+  },
+  "actor": {
+    "id": "lockbit3",
+    "name": "lockbit3",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "UTILITY ASSISTANCE. The Northeast Florida Community Action Agency, Inc. (NFCAA) is taking steps to maintain the health and safety of our customers, our employees, and our communities. All appointments and applications must be completed online or by m...",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/76275d625a86e013b726f1b0501b428b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/bmzjyweub3jnqgxvy2tiaxqz",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2022-02-04 00:00:00.000000",
+    "disclosedDate": "2024-09-15 17:03:46.818984"
+  }
+}

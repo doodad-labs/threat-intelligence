@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-197901",
+  "type": "ransomware-incident",
+  "title": "wsp.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wsp.com",
+    "domain": "wsp.com",
+    "country": "FR",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "wsp.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9a3d1fbf60e1ed6faf45006ee5053735.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d3nwlmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-04-16 21:40:00.000000",
+    "disclosedDate": "2024-04-19 12:17:24.657106"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19F395",
+  "type": "ransomware-incident",
+  "title": "discovery.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "discovery.com",
+    "domain": "discovery.com",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "discovery.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3b13236f753af6ea8a10b1d5a7b94b7c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zglzy292zxj5lmnvbubkaxnwb3nzzxnzb3i=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-12-25 13:10:00.000000",
+    "disclosedDate": "2024-04-19 12:03:24.001325"
+  }
+}

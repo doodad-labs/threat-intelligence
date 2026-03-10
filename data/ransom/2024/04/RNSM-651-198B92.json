@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-198B92",
+  "type": "ransomware-incident",
+  "title": "emerson.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "emerson.com",
+    "domain": "emerson.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "emerson.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/99d2798c14f260c0a0d6a67ea6db5c7c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zw1lcnnvbi5jb21azglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-12-22 01:12:00.000000",
+    "disclosedDate": "2024-04-19 11:36:38.586332"
+  }
+}

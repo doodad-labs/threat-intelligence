@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-19C91C",
+  "type": "ransomware-incident",
+  "title": "convergeone.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "convergeone.com",
+    "domain": "convergeone.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "convergeone.com",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c492ae62a53595c212849afbb0492e14.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y29udmvyz2vvbmuuy29tqgrpc3bvc3nlc3nvcg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-10-07 20:29:00.000000",
+    "disclosedDate": "2024-04-19 12:12:21.884899"
+  }
+}

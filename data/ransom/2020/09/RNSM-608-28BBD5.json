@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-608-28BBD5",
+  "type": "ransomware-incident",
+  "title": "CMA CGM (french carrier, container line) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CMA CGM (french carrier, container line)",
+    "domain": "cma-cgm.fr",
+    "country": "FR",
+    "sector": "Transportation Systems"
+  },
+  "actor": {
+    "id": "ragnarlocker",
+    "name": "ragnarlocker",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q01bienhtsaoznjlbmnoignhcnjpzxisignvbnrhaw5lcibsaw5lkubyywduyxjsb2nrzxi=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2020-09-28 00:00:00.000000",
+    "disclosedDate": "2020-09-28 00:00:00.000000"
+  }
+}

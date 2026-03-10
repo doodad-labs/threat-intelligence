@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-651-22E67E",
+  "type": "ransomware-incident",
+  "title": "United Carton Industries Company ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "United Carton Industries Company",
+    "domain": "ucic.com.sa",
+    "country": "SA",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "ransomexx",
+    "name": "ransomexx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 26370000000,
+    "description": "United Carton Industries Company (UCIC) is a leading packaging solutions provider based in Saudi Arabia Leaked data size: 26.37GB.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/3f4860ebb674cfc3ac2406be255ed2ae.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vw5pdgvkienhcnrvbibjbmr1c3ryawvzienvbxbhbnlacmfuc29tzxh4",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-09-20 18:29:00.000000",
+    "disclosedDate": "2024-04-22 12:53:16.625198"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-651-1991FE",
+  "type": "ransomware-incident",
+  "title": "chevronfcu.org ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "chevronfcu.org",
+    "domain": "chevronfcu.org",
+    "country": "US",
+    "sector": "Financial"
+  },
+  "actor": {
+    "id": "dispossessor",
+    "name": "dispossessor",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "chevronfcu.org",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/72a8ec1efdbe43b929b9f9b111aa0b13.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/y2hldnjvbmzjds5vcmdazglzcg9zc2vzc29y",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2021-11-26 05:41:00.000000",
+    "disclosedDate": "2024-04-19 12:22:39.911947"
+  }
+}
