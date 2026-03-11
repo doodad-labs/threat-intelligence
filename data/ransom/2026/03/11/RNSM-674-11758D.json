@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-11758D",
+  "type": "ransomware-incident",
+  "title": "Priderock Capital Partners ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Priderock Capital Partners",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 110000000000,
+    "description": "Priderock Capital Partners is a private multi-family asset management and development firm. Priderock's principals have over 100 years of experience in acquiring, developing, financing, managing and renovating apartment communities across the continental U.S.We will upload 110gb of corporate data soon. Employee files (passport numbers, DL number, scanned w9 and i9 forms and other personal information), financials, clients and partners files, lots of contracts and agreements, reports and violation docs so on.",
+    "claimed_data_types": [
+      "internal-documents",
+      "drivers-licence-data",
+      "tax-documents",
+      "employment-eligibility-documents"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhjpzgvyb2nrienhcgl0ywwgugfydg5lcnnaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-11 00:00:00.000000",
+    "disclosedDate": "2026-03-11 15:31:30.612318"
+  }
+}

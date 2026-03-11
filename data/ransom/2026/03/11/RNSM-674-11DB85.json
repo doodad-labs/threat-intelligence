@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-11DB85",
+  "type": "ransomware-incident",
+  "title": "Peak Toolworks ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Peak Toolworks",
+    "domain": "peaktoolworks.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Peak Toolworks is a North American company specializing in the design, manufacture, and servicing of high-quality cutting tools. Their product portfolio includes carbide saws, routers, insert tools, and diamond tooling used across a variety of industries, from woodworking and metalworking to plastics and composites. They have multiple locations throughout the U.S. and Canada.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8497d1003da857a51f8a8d5af47aa02f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvhaybub29sd29ya3nad29ybgrszwfrcw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-11 13:03:07.000000",
+    "disclosedDate": "2026-03-11 14:42:08.037599"
+  }
+}
