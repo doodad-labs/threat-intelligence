@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-674-1102E6",
+  "type": "ransomware-incident",
+  "title": "hazeldenes.com.au ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "hazeldenes.com.au",
+    "domain": "hazeldenes.com.au",
+    "country": "AU",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hazeldenes is a family-owned chicken farm that has been supplying high-quality Australian chicken since 1938.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c76dbf45391d075cacb168b20535ec99.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/agf6zwxkzw5lcy5jb20uyxvazhjhz29uzm9yy2u=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-02-23/cyber-attack-takes-major-chicken-processor-hazeldenes-offline/106376184",
+      "title": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-11 11:20:40.622326",
+    "disclosedDate": "2026-03-11 12:39:55.374047"
+  }
+}
