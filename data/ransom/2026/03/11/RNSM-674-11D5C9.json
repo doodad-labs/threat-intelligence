@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-674-11D5C9",
+  "type": "ransomware-incident",
+  "title": "shlomo bit ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "shlomo bit",
+    "domain": "shlomo-bit.co.il",
+    "country": "IL"
+  },
+  "actor": {
+    "id": "killsec",
+    "name": "killsec",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Price ??? Disclosures 0/1",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2hsb21vigjpdebrawxsc2vj",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-11 06:05:14.627978",
+    "disclosedDate": "2026-03-11 06:05:16.371608"
+  }
+}
