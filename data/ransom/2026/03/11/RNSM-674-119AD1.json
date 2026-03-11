@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-119AD1",
+  "type": "ransomware-incident",
+  "title": "arimex importadora ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "arimex importadora",
+    "domain": "gamaitaly.com",
+    "country": "BR"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6750d4296408cecec2f6c4c241aa3dea.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjpbwv4ieltcg9ydgfkb3jhqhfpbglu",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-11 22:17:36.578135",
+    "disclosedDate": "2026-03-11 22:17:52.410155"
+  }
+}

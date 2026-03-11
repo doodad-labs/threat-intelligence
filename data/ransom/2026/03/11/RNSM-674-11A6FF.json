@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-11A6FF",
+  "type": "ransomware-incident",
+  "title": "fortress systems ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "fortress systems",
+    "domain": "fortressresistors.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c805fbf905266c8419d6b36f2590b9ed.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rm9ydhjlc3mgu3lzdgvtc0bxawxpbg==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-11 22:16:57.358618",
+    "disclosedDate": "2026-03-11 22:17:14.314796"
+  }
+}
