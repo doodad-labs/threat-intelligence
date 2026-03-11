@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-674-115919",
+  "type": "ransomware-incident",
+  "title": "seclore.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "seclore.com",
+    "domain": "seclore.com",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1300000000000,
+    "description": "At Seclore, we believe that cybersecurity should revolve around what matters most—your data. Traditional security perimeters are no longer enough in today’s hyp... - TOTAL QUANTITY 1.3 TB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/39d6aad6df696dc42365d05ce38041d9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c2vjbg9yzs5jb21azw1iyxjnbw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-11 18:01:47.323907",
+    "disclosedDate": "2026-03-11 18:37:58.816200"
+  }
+}
