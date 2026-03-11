@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-11D615",
+  "type": "ransomware-incident",
+  "title": "lacoste ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "lacoste",
+    "domain": "lacoste.com",
+    "country": "FR",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Lacoste is a high-end apparel company founded in 1933 by René Lacoste and André Gillier. The French company is recognized for its green crocodile logo. Lacoste sells clothing, footwear, eyewear, leather goods, perfumes, towels, and watches. It pioneered the concept of the ‘brand identity logo’ with its crocodile embroidered on the outside of apparel items. Known for their luxury sportswear, their polo shirt remains an iconic product.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d15cf992ce126b5c66a7ab4a4b44337f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tgfjb3n0zubjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-11 20:07:41.740521",
+    "disclosedDate": "2026-03-11 20:07:58.366901"
+  }
+}
