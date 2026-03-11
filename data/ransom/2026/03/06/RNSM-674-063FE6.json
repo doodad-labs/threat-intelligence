@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-674-063FE6",
+  "type": "ransomware-incident",
+  "title": "cfgi management, llc. ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "cfgi management, llc.",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "shinyhunters",
+    "name": "shinyhunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Over 800k records containing PII and other internal corporate data have been compromised. This is a final warning to reach out by 09 Mar 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 06 Mar 2026 | Warning: FINAL WARNING",
+    "claimed_data_types": [
+      "internal-documents",
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0zhssbnyw5hz2vtzw50lcbmtemuqhnoaw55ahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-06 03:47:28.888668",
+    "disclosedDate": "2026-03-06 03:47:31.065245"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-674-115880",
+  "type": "ransomware-incident",
+  "title": "d3 embedded ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "d3 embedded",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 415000000000,
+    "description": "D3 Embedded is a U.S.-based company specializing in the development of end-to-end solutions for performance-critical embedded systems, integrating sensors, connectivity, embedded processing, and AI. Their product offerings include camera modules, radar sensors, and various boards and cards designed for applications in robotics and autonomous machines.We will upload 415gb of corporate data soon. Lots of projects andrelated documents, agreements, licenses and so on.",
+    "claimed_data_types": [
+      "internal-documents"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rdmgrw1izwrkzwraywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-11 00:00:00.000000",
+    "disclosedDate": "2026-03-11 16:59:34.288707"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-674-1143BE",
+  "type": "ransomware-incident",
+  "title": "robinson nursery ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "robinson nursery",
+    "country": "US",
+    "sector": "Agriculture and Food Production"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Robinson Nursery sells wholesale bare root trees & shrubs as wellas container trees. The company offers over 300 different varieties of shade trees, ornamental trees and shrubs. The company growplants that are hardy for zones 3 through 9. As a licensed grower of many named cultivars the company is able to offer a great selection of some of the most asked for varieties of trees and shrubs.We will upload corporate data soon. Employee files (scanned passports, DLs, SSNs and so on), financials, clients and partners files, contracts and agreements, projects, recipes and so on.",
+    "claimed_data_types": [
+      "internal-documents",
+      "drivers-licence-data",
+      "government-identifiers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/um9iaw5zb24gtnvyc2vyeubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-11 00:00:00.000000",
+    "disclosedDate": "2026-03-11 15:31:26.774165"
+  }
+}

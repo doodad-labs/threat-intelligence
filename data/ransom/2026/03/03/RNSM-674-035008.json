@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-035008",
+  "type": "ransomware-incident",
+  "title": "hersher law ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "hersher law",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Law Offices of Eric Hershler, APC, in Los Angeles, focuses exclusively on personal injury cases.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c441ff77d080022b17733d109200bfd7.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sgvyc2hlcibmyxdaaw5jcmfuc29t",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-03 10:10:00.000000",
+    "disclosedDate": "2026-03-03 22:41:22.892918"
+  }
+}

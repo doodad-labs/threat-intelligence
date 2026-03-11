@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-1065D5",
+  "type": "ransomware-incident",
+  "title": "paass logistik ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "paass logistik",
+    "country": "DE",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 26000000000,
+    "description": "Paass Logistik is a transportation/trucking/railroad company based out of Köln, Germany.We will upload 26gb of corporate data soon. Employee files (passports DLs), detailed financials, clients' files, contracts and agreements (DHL and others), NDAs and so on.",
+    "claimed_data_types": [
+      "internal-documents",
+      "drivers-licence-data",
+      "legal-documents"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugfhc3mgtg9naxn0awtaywtpcme=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-10 00:00:00.000000",
+    "disclosedDate": "2026-03-10 15:51:00.391410"
+  }
+}

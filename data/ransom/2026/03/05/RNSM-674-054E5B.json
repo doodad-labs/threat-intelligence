@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-054E5B",
+  "type": "ransomware-incident",
+  "title": "applied products ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "applied products",
+    "country": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Applied Products, Inc. is a leading supplier of high-performance,pressure-sensitive adhesives for various OEM industries such as HVAC, construction, automotive, and appliance manufacturing.We will upload corporate data soon. Employee passports, DLs, projects, confidential agreements, clients docs, NDAs, etc.",
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "employee-records",
+      "legal-documents"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxbwbgllzcbqcm9kdwn0c0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-05 00:00:00.000000",
+    "disclosedDate": "2026-03-05 16:19:22.003870"
+  }
+}

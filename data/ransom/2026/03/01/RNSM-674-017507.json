@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-674-017507",
+  "type": "ransomware-incident",
+  "title": "eni energy ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "eni energy",
+    "country": "IT",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "lapsus$",
+    "name": "lapsus$",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Eni Energy is an Italian multinational oil and gas company headquartered in Rome. Founded in 1953, the firm is considered one of the global supermajors in the oil industry. It operates in 66 countries worldwide, and its activities span oil and gas exploration, production, and refining, as well as electricity and chemical production. Environmental sustainability is a critical focus area, with significant investments into renewable energy sources.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw5pievuzxjneubsyxbzdxmk",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-01 10:20:34.449461",
+    "disclosedDate": "2026-03-01 10:20:41.983780"
+  }
+}

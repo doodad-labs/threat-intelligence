@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-674-10706B",
+  "type": "ransomware-incident",
+  "title": "exhibit network ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "exhibit network",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "From the company's headquarters in Houston, Exhibit Network handles all the details involved in your custom trade show display, logistics, and show services, allowing you to focus on the big picture. The company offers extensive expertise at competitive prices.We will upload almost 50gb of corporate data soon. Employee files(passports and some other scanned documents), financials, clients' files, contracts and agreements, NDAs and so on.",
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxhoawjpdcbozxr3b3jrqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-10 00:00:00.000000",
+    "disclosedDate": "2026-03-10 14:41:11.637673"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-674-061BA8",
+  "type": "ransomware-incident",
+  "title": "wag funktion design ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wag funktion design",
+    "country": "DE"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "W.AG Funktion   Design GmbH specializes in the production of customized high-quality cases that act as brand ambassadors for various industries.We will upload 50gb of corporate data soon. Employee personal documents (German passports, medical information and other docs), projects, contracts and agreements, NDAs, etc.",
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0fhiez1bmt0aw9uierlc2lnbkbha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-06 00:00:00.000000",
+    "disclosedDate": "2026-03-06 13:03:04.619050"
+  }
+}
