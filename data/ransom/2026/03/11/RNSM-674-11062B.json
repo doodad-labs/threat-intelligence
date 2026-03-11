@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-674-11062B",
+  "type": "ransomware-incident",
+  "title": "CFTC Métallurgie ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "CFTC Métallurgie",
+    "domain": "cftc-metallurgie.com",
+    "country": "FR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "- Customer Contacts- Internal Documents",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q0zuqybnw6l0ywxsdxjnawvabmlnahrzcglyzq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-09 00:00:00.000000",
+    "disclosedDate": "2026-03-11 16:20:34.813920"
+  }
+}

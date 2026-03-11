@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-674-119E04",
+  "type": "ransomware-incident",
+  "title": "ubm.hu ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "ubm.hu",
+    "domain": "ubm.hu",
+    "country": "HU",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 300000000000,
+    "description": "The UBM Group is a leading Hungarian agricultural company, founded in 1996, specializing in the production of compound feed, the trading of feed ingredients (gr... - 300 GB (sensitive data including recipes, documents, contracts, databases) \rHungarian language documents will be transl...",
+    "claimed_data_types": [
+      "legal-documents"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e204ed09061438290e832f1a964e892b.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dwjtlmh1qgvtymfyz28=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-11 14:13:13.873725",
+    "disclosedDate": "2026-03-11 15:38:25.005148"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-674-11576E",
+  "type": "ransomware-incident",
+  "title": "Big Brothers Big Sisters ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "Big Brothers Big Sisters",
+    "domain": "bbbs.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "- Students List- Background Check Records- Internal Documents",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmlniejyb3rozxjziejpzybtaxn0zxjzqg5pz2h0c3bpcmu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-05 00:00:00.000000",
+    "disclosedDate": "2026-03-11 16:21:22.876702"
+  }
+}
