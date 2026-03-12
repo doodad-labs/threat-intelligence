@@ -1,0 +1,36 @@
+{
+  "id": "RNSM-674-1292A5",
+  "type": "ransomware-incident",
+  "title": "mh soluciones ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "mh soluciones",
+    "country": "MX"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 85000000000,
+    "description": "mh SOLUCIONES specializes in outsourcing support and management processes, helping clients enhance performance while ensuring transparency and better cost control. The company offers tailored solutions for maintenance and installation businesses, allowing clients to focus on their core operations.We will upload 85gb of corporate data soon. Lots of employee scanned docs (passports, DLs and so on), project docs (hazardous wastes management, government contracts), agreements, client information.",
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twggu29sdwnpb25lc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-12 00:00:00.000000",
+    "disclosedDate": "2026-03-12 14:17:18.789021"
+  }
+}
