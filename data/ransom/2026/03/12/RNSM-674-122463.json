@@ -1,0 +1,34 @@
+{
+  "id": "RNSM-674-122463",
+  "type": "ransomware-incident",
+  "title": "aura group, inc ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aura group, inc",
+    "country": "US"
+  },
+  "actor": {
+    "id": "shinyhunters",
+    "name": "shinyhunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Over 2M records containing PII and other internal corporate data have been compromised. This is a final warning to reach out by 14 Mar 2026 before we leak along with several annoying (digital) problems that'll come your way. Make the right decision, don't be the next headline. | Updated: 12 Mar 2026 | Warning: FINAL WARNING",
+    "claimed_data_types": [
+      "internal-documents",
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxvyysbhcm91ccwgsw5jqhnoaw55ahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-12 00:04:14.511130",
+    "disclosedDate": "2026-03-12 00:04:16.724981"
+  }
+}
