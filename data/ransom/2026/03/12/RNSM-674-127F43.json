@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-674-127F43",
+  "type": "ransomware-incident",
+  "title": "nixval it infrastructure ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "nixval it infrastructure",
+    "domain": "nixval.com",
+    "country": "ES",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data is not available now.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tklyvkfmieluieluznjhc3rydwn0dxjlqg5pz2h0c3bpcmu=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-04 00:00:00.000000",
+    "disclosedDate": "2026-03-12 01:25:20.745979"
+  }
+}
