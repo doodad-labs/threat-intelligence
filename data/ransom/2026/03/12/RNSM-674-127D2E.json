@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-674-127D2E",
+  "type": "ransomware-incident",
+  "title": "financial brokerage ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "financial brokerage",
+    "country": "",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Financial Brokerage Inc. collaborates with top insurance carriersto provide a variety of financial products including Life Insurance, Fixed Annuities, Long Term Care, Disability Insurance, and Medicare Supplement plans. The company targets insurance agents and brokers looking to enhance their product offerings and client services.We will upload corporate data soon. Employee personal documents, detailed personal information of hundreds clients and companies, confidential financial and other docs of their clients, etc.",
+    "claimed_data_types": [
+      "internal-documents",
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rmluyw5jawfsiejyb2tlcmfnzubha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-12 00:00:00.000000",
+    "disclosedDate": "2026-03-12 16:49:57.645770"
+  }
+}

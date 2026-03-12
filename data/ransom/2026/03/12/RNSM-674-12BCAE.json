@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-12BCAE",
+  "type": "ransomware-incident",
+  "title": "flad.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "flad.com",
+    "domain": "flad.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "chaos",
+    "name": "chaos",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 2200000000000,
+    "description": "We are announcing a major security breach and data exfiltration from Flad Architects, a leading national firm specializing in high-stakes science and technology infrastructure.Total volume of exfiltrated data: Over 2.2 TBThe leaked archive includes critical and sensitive information across the f…",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/6e6a1bae8328f49ef98983144ccbc4da.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/zmxhzc5jb21ay2hhb3m=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-12 16:52:14.112193",
+    "disclosedDate": "2026-03-12 16:52:29.959172"
+  }
+}
