@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-674-12FADB",
+  "type": "ransomware-incident",
+  "title": "england hockey ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "england hockey",
+    "domain": "englandhockey.co.uk",
+    "country": "GB",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "ailock",
+    "name": "AiLock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "England Hockey is the national governing body responsible for the management and development of hockey in England, catering to both grassroots and elite levels.The organization offers a range of services including competitions, events, coaching, and officiating programs.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rw5nbgfuzcbib2nrzxlaqwlmb2nr",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-12 08:41:32.706454",
+    "disclosedDate": "2026-03-12 08:41:35.002157"
+  }
+}
