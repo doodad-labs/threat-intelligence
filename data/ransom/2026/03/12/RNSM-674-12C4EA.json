@@ -1,0 +1,32 @@
+{
+  "id": "RNSM-674-12C4EA",
+  "type": "ransomware-incident",
+  "title": "giaroli s.a.s ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "giaroli s.a.s",
+    "domain": "giaroli.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data is not available now.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2lhcm9sasbtlkeuu0buawdodhnwaxjl",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-11 00:00:00.000000",
+    "disclosedDate": "2026-03-12 14:58:27.374349"
+  }
+}

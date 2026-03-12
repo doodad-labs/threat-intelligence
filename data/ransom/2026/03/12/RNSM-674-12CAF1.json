@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-674-12CAF1",
+  "type": "ransomware-incident",
+  "title": "extreme trailers ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "extreme trailers",
+    "country": "GB",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 15000000000,
+    "description": "Extreme Trailers, LLC is located in Dover, Ohio and is a leader in innovative design and high-quality manufacturing of equipment for the flatbed trailer market. Established in 2016 in Dover, Ohio, the company manufactures a diverse range of products, including: an innovative, patent-pending design trademarked as the X-Lite flatbed trailer, aluminum drop deck trailers, aluminum and customdesigns.We will upload 15gb of corporate data soon. Lots of employee scanned docs (passports, DLs, SSNs, w9, i9 forms, medical informationfor a few dozens of people), project docs contracts and agreements, a bit of client information and so on.",
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "government-identifiers",
+      "tax-documents",
+      "employment-eligibility-documents"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rxh0cmvtzsbucmfpbgvyc0bha2lyyq==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-12 00:00:00.000000",
+    "disclosedDate": "2026-03-12 15:17:07.355036"
+  }
+}
