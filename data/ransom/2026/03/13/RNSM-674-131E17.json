@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-131E17",
+  "type": "ransomware-incident",
+  "title": "tamir hayman ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tamir hayman",
+    "country": "IL"
+  },
+  "actor": {
+    "id": "handala",
+    "name": "handala",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Hey Tamir, Still feeling safe behind those fancy titles? Former chief of Aman, and now the proud executive director of Israel’s national security institutes, yet you couldn’t even secure your own mailbox! What a joke. Tonight, reality hit you harder than any intelligence briefing ever could. Consider all your “top secret” correspondence exposed: 50,000 emails,…",
+    "claimed_data_types": [
+      "email-addresses"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/134410cf42162e40cd1cae7571f346b2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgftaxigsgf5bwfuqghhbmrhbge=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-13 18:40:06.032769",
+    "disclosedDate": "2026-03-13 18:40:23.642862"
+  }
+}

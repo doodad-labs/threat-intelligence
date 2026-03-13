@@ -1,0 +1,40 @@
+{
+  "id": "RNSM-674-139E36",
+  "type": "ransomware-incident",
+  "title": "kla laboratories ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kla laboratories",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "anubis",
+    "name": "anubis",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "How a single data breach exposed contracts, credentials, and critical infrastructure details.",
+    "claimed_data_types": [
+      "passwords",
+      "legal-documents"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5d20d6fb5a0aecbff0471320b68e5aed.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s0xbiexhym9yyxrvcmllc0bhbnviaxm=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-13 18:31:44.381808",
+    "disclosedDate": "2026-03-13 18:32:20.322474"
+  }
+}
