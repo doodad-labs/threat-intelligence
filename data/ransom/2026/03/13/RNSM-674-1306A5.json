@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-1306A5",
+  "type": "ransomware-incident",
+  "title": "africa insurance ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "africa insurance",
+    "domain": "africainsurance.com",
+    "country": "ET",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Lion of Africa Insurance Company Ltd is a company that operates in the Insurance industry. It employs 100to249 people and has 10Mto25M of revenue. The company is headquartered in Sandton, South Africa.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/ea041dd73d22108543b31b17be7829bc.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qwzyawnhieluc3vyyw5jzubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-06 18:57:11.476000",
+    "disclosedDate": "2026-03-13 07:05:16.239588"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-13B200",
+  "type": "ransomware-incident",
+  "title": "keller polska ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "keller polska",
+    "domain": "kellerpolska.pl",
+    "country": "PL",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Keller Polska, operating for over 20 years, is a leader in the geotechnical market in Poland and this part of Europe. We carry out both small local projects and the largest and most important for the economy. As one of the Keller Group companies, we also have the financial capabilities, know-how, skills and global reach to handle the most demanding projects.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e6bc49f5792daa65103200800d1c6a0f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2vsbgvyifbvbhnryubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-06 18:53:58.486000",
+    "disclosedDate": "2026-03-13 07:05:31.359684"
+  }
+}
