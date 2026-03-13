@@ -1,0 +1,35 @@
+{
+  "id": "RNSM-674-131288",
+  "type": "ransomware-incident",
+  "title": "stokes ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "stokes",
+    "country": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 23000000000,
+    "description": "Stokes Inc. is Canadas leading tableware, kitchenware and home décor store. Based in Montreal, we are a privately owned and operated company with two brands at the heart of our success: Stokes and thinkkitchen. Now operating more than 100 stores in Canada, as well as running an ever-growing online presence, we employ more than 1,000 associates and are constantly expanding our horizons.We will upload 23gb of corporate data soon. Employee personal information (phones, addresses, personal bank statements and other information), confidential files, financials, clients information,contracts and agreements, etc.",
+    "claimed_data_types": [
+      "internal-documents",
+      "addresses"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3rva2vzqgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-13 00:00:00.000000",
+    "disclosedDate": "2026-03-13 15:33:16.646599"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-133E2E",
+  "type": "ransomware-incident",
+  "title": "wills point chevrolet ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "wills point chevrolet",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Wills Point Chevrolet is a dealership located in Wills Point, Texas, serving clients from Forney, Mineola, and Terrell. They offera wide selection of new and pre-owned Chevrolet vehicles, including electric models, along with financing options and certified service.We will upload corporate data soon. Lots of scanned personal employee docs (passports, Dls, w9 forms, bank statements and other docs), financials, various agreements and so on.",
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "tax-documents"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lsbhmgug9pbnqgq2hldnjvbgv0qgfraxjh",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-13 00:00:00.000000",
+    "disclosedDate": "2026-03-13 15:33:11.044276"
+  }
+}
