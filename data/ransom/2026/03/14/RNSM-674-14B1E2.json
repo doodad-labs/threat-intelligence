@@ -1,0 +1,39 @@
+{
+  "id": "RNSM-674-14B1E2",
+  "type": "ransomware-incident",
+  "title": "westport.com ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "westport.com",
+    "domain": "westport.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "embargo",
+    "name": "embargo",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 1800000000000,
+    "description": "We connect synergistic technologies to power a cleaner tomorrow. As a leading supplier of affordable, alternative fuel, low-emissions transportation technologie... - TOTAL QUANTITY 1.8 TB",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/736277b805c27a3db8a11c4d818a95e8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/d2vzdhbvcnquy29tqgvtymfyz28=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-14 18:54:50.133919",
+    "disclosedDate": "2026-03-14 20:00:38.925879"
+  }
+}
