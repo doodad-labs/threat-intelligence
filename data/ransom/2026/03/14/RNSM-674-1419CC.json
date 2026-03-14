@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-1419CC",
+  "type": "ransomware-incident",
+  "title": "communicate uk ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "communicate uk",
+    "domain": "communicateuk.co.uk",
+    "country": "GB",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "beast",
+    "name": "beast",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Communicate UK is a customer-focused security company based in the southeast of England, specializing in the installation, maintenance, and support of security systems including burglar alarms, CCTV, fire alarms, access control, and gate automation. Their products cater to a wide range of clients, including domestic households, retail establishments, licensed venues, and various commercial and industrial sectors. With over 25 years of experience, they provide tailored security solutions designed to protect premises, valuables, and employees, ensuring 24/7 monitoring and peace of mind. The company also emphasizes customer service, offering dedicated account management and 24-hour support",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/dc41c153b7d06e2727e130279af44d79.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29tbxvuawnhdgugvutaymvhc3q=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-03 00:00:00.000000",
+    "disclosedDate": "2026-03-14 12:29:07.046297"
+  }
+}

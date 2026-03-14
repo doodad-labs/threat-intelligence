@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-140136",
+  "type": "ransomware-incident",
+  "title": "trinity catholic high school ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "trinity catholic high school",
+    "domain": "trinitycatholichs.org",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "beast",
+    "name": "beast",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Trinity Catholic High School offers a full array of co-curricular activities and sports programs. Our athletic programs include football, cheerleading, cross country, golf, swimming, tennis, weight lifting, basketball, volleyball, baseball, bowling, girls flag football, softball, lacrosse and track and field. Our State Championships include: football, women's soccer, baseball, wrestling and track.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/22894cef0661d549cccf15b019fdff36.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhjpbml0esbdyxrob2xpyybiawdoifnjag9vbebizwfzda==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-01 00:00:00.000000",
+    "disclosedDate": "2026-03-14 12:31:01.734719"
+  }
+}
