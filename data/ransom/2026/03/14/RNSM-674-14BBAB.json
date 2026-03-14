@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-14BBAB",
+  "type": "ransomware-incident",
+  "title": "indrub.com ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "indrub.com",
+    "domain": "indrub.com",
+    "country": "IN"
+  },
+  "actor": {
+    "id": "lynx",
+    "name": "lynx",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Industrial Rubber Supply is a leading manufacturer and supplier of custom-molded, die cut, and industrial specialty items, serving industries such as industrial, agricultural, automotive, recreational, and transportation manufacturing. Established in 1974, the company operates from a 104,000 square-foot facility in Winnipeg, employing 85 people in the design, engineering, fabrication, and manufacturing of various products including cellular, industrial, and acoustical items. They also provide a range of services including custom die cutting, water jet cutting, and engineering and design, utilizing state-of-the-art equipment and the latest technologies. With extensive experience and a commitment to quality service, Industrial Rubber Supply has established itself as an industry leader",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1b45a38214c2dd080f910c090dfca08e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/aw5kcnvilmnvbubsew54",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-12 08:10:23.619000",
+    "disclosedDate": "2026-03-14 16:12:36.324429"
+  }
+}
