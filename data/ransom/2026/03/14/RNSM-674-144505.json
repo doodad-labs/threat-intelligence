@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-144505",
+  "type": "ransomware-incident",
+  "title": "tyler media ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "tyler media",
+    "country": "US",
+    "sector": "Telecommunication"
+  },
+  "actor": {
+    "id": "payload",
+    "name": "payload",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Tyler Media is a comprehensive media company in Oklahoma, offering a variety of services that include radio, television, and outdoor advertising. With several radio stations and partnerships with prominent television networks, they cater to a diverse audience, showcasing both English and Spanish content. Their key clients range from local businesses to larger organizations seeking effective marketing solutions and brand awareness.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e094ce72d281b22eb88cb0d7e8468d7e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vhlszxigtwvkawfacgf5bg9hza==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-14 20:36:57.474319",
+    "disclosedDate": "2026-03-14 20:37:13.718313"
+  }
+}

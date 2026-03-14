@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-1428DD",
+  "type": "ransomware-incident",
+  "title": "in.sa.cor ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "in.sa.cor",
+    "domain": "sa.cor",
+    "country": "US"
+  },
+  "actor": {
+    "id": "payload",
+    "name": "payload",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "InSaCor specializes in a wide range of gas-related products and sanitary solutions, including gas regulators, fittings, and various types of plumbing fixtures. Their offerings include high-quality materials for both residential and commercial applications, catering to clients in the construction and maintenance sectors.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d246229f4df4fba7e09e1bb6af008184.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/sw4uu2euq29yqhbhewxvywq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-14 20:38:30.871573",
+    "disclosedDate": "2026-03-14 20:38:47.453037"
+  }
+}

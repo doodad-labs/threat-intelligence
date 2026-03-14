@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-140390",
+  "type": "ransomware-incident",
+  "title": "easy servizi ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "easy servizi",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "payload",
+    "name": "payload",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Easy Servizi is an Italian company that provides technical and operational services for utility network operators (gas, electricity, and water), including meter installation and replacement, network support, and customer data management. It operates as a contractor for energy and water companies rather than as a direct service provider to consumers.",
+    "claimed_data_types": [
+      "customer-records"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1da54bb33d6f31348e219eea87c782e8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwfzesbtzxj2axppqhbhewxvywq=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-14 20:37:52.761006",
+    "disclosedDate": "2026-03-14 20:38:08.745587"
+  }
+}
