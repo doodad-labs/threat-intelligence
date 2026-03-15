@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-15E1B5",
+  "type": "ransomware-incident",
+  "title": "dolby laboratories - sample ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "dolby laboratories - sample",
+    "domain": "dolby.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Dolby Laboratories, Inc. is an American company specializing in audio noise reduction and audio encoding/compression technologies. Known for its Dolby Noise-Reduction System, Dolby Surround, and Dolby Digital tech, it provides innovative solutions for cinemas, home theaters, PCs, mobile devices, and games. The company was founded by Ray Dolby in 1965 and is headquartered in San Francisco, California.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/fa3e6edaf20b98cc5701755b4a42ca22.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rg9synkgtgfib3jhdg9yawvzic0gu2ftcgxlqgnvaw5iyxnly2fydgvs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-15 02:09:26.879519",
+    "disclosedDate": "2026-03-15 02:09:45.075894"
+  }
+}

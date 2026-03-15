@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-152B8E",
+  "type": "ransomware-incident",
+  "title": "augenomics ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "augenomics",
+    "domain": "autogenomics.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] \"Augenomics\" is a pioneering healthcare technology company. It uses Artificial Intelligence (AI) and genomics to transform how diseases are diagnosed and managed. Its advanced predictive models disentangle complex bio-information, enabling personalized therapeutic strategies and improving patient outcomes.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bf08bce0d9b5ce18645bc4ee9519744c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxvnzw5vbwljc0bjb2luymfzzwnhcnrlba==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-15 02:08:44.347249",
+    "disclosedDate": "2026-03-15 02:08:59.098622"
+  }
+}

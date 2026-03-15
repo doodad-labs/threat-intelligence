@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-154313",
+  "type": "ransomware-incident",
+  "title": "novogene ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "novogene",
+    "country": "CN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Novogene is a leading provider of genomic services and solutions with cutting edge NGS and bioinformatics expertise. The company specializes in genomic data mining to better understand diseases and improve health. Founded in 2011, it has offices in China, the U.S, the UK, and Singapore. Novogene offers services in areas like scientific research, agriculture, pharmaceuticals, and healthcare.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cbb0bdc2a6048ed2d732838200769a7a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm92b2dlbmvay29pbmjhc2vjyxj0zww=",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-15 02:07:06.494446",
+    "disclosedDate": "2026-03-15 02:07:23.930457"
+  }
+}

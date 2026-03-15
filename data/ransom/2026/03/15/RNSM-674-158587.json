@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-158587",
+  "type": "ransomware-incident",
+  "title": "geno bank ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "geno bank",
+    "country": "DE",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] GenoBank.io is a company that provides a secure platform for DNA data storage and transfer, prioritizing privacy and user control. Their blockchain-based system aims to build trust among customers while enabling them to access personalized medical, ancestry, or lifestyle recommendations.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8635d90b070a8af39e44b1fca09b01e5.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r2vubybcyw5rqgnvaw5iyxnly2fydgvs",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-15 02:07:45.497408",
+    "disclosedDate": "2026-03-15 02:08:02.178185"
+  }
+}
