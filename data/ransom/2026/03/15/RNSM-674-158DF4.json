@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-158DF4",
+  "type": "ransomware-incident",
+  "title": "aura group, inc. (aura.com) ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "aura group, inc. (aura.com)",
+    "domain": "aura.com",
+    "country": "US",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "shinyhunters",
+    "name": "shinyhunters",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 12000000000,
+    "description": "Over 2M records containing PII and other internal corporate data have been compromised. The company failed to reach an agreement with us despite all the chances and offers we made. They don't care. | Size: 12GB (compressed) | Updated: 15 Mar 2026 | SHA256: 0d5bf85c7865b023266adc95a7449dd1bff6b208b4634976441ce5ee650894d0",
+    "claimed_data_types": [
+      "internal-documents",
+      "personal-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxvyysbhcm91ccwgsw5jliaoyxvyys5jb20pqhnoaw55ahvudgvycw==",
+      "title": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-15 09:23:46.469010",
+    "disclosedDate": "2026-03-15 09:23:48.419799"
+  }
+}
