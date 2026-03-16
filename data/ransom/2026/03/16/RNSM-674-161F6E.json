@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-161F6E",
+  "type": "ransomware-incident",
+  "title": "tax & accounting plus ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "tax & accounting plus",
+    "country": "",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 85000000000,
+    "description": "Tax & Accounting Plus, Inc. offers a range of personal and professional tax and accounting services with a focus on a low-pressureapproach. The firm prides itself on its high client-retention rate and the quality of its services. They provide various resources, including financial calculators and tax-related guides, to assist clients.We will upload 85gb of corporate data soon. Great amount of clients' and employees personal documents (scanned passports, DLs, SSNs, medical records and so on), contracts and agreements, detailedfinancials, NDAs, partners files and so on.",
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "government-identifiers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgf4icygqwnjb3vudgluzybqbhvzqgfraxjh",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-16 00:00:00.000000",
+    "disclosedDate": "2026-03-16 15:54:04.421826"
+  }
+}

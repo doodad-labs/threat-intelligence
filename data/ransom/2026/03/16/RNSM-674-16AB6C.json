@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-16AB6C",
+  "type": "ransomware-incident",
+  "title": "biogel ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "biogel",
+    "domain": "biogel.ch",
+    "country": "SE",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7b375abfc01a4a455160e468e5991e17.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qmlvz2vsqhfpbglu",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-16 09:14:47.634320",
+    "disclosedDate": "2026-03-16 09:15:14.489888"
+  }
+}

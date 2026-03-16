@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-16EDBF",
+  "type": "ransomware-incident",
+  "title": "bcn medical ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "bcn medical",
+    "domain": "bcnmedical.com",
+    "country": "ES",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "bcnmedical.com zoominfo.com/c/bcn-medical/375204700 BCN Medical is a Colombian pharmaceutical distributor based in Bogotá . Founded in 1999, the company distributes medications, supplements, and medical devices. It was acquired by Faes Farma in a merger and acquisition deal.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qknoie1lzgljywxadghlz2vudgxlbwvu",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-16 10:55:56.000000",
+    "disclosedDate": "2026-03-16 12:25:44.495790"
+  }
+}

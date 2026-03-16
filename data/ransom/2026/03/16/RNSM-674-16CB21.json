@@ -1,0 +1,43 @@
+{
+  "id": "RNSM-674-16CB21",
+  "type": "ransomware-incident",
+  "title": "caribbean medical center ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "caribbean medical center",
+    "domain": "caribbeanmedicalcenter.com",
+    "country": "PR",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "www.caribbeanmedicalcenter.com https://www.zoominfo.com/c/caribbean-medical-center/402918703 Hospital Caribbean Medical Center provides emergency services and inpatient care, catering to pediatric, adult, and geriatric patients. The emergency room operates 24/7, ensuring continuous medical coverage tailored to patient needs. The facility offers a range of specialized services, including internal medicine, infectious diseases, cardiology, radiology, obstetrics and gynecology, pediatrics, and surgery. With a commitment to exceptional medical care, the center emphasizes quality and patient satisfaction. Last chance before full data disclosure.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fyawjizwfuie1lzgljywwgq2vudgvyqhrozwdlbnrszw1lbg==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    },
+    {
+      "url": "https://www.metro.pr/noticias/2026/03/06/caribbean-medical-center-en-fajardo-sufrio-ataque-cibernetico/",
+      "source": "Press Release - Ransomware Live",
+      "type": "press"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-16 13:14:38.000000",
+    "disclosedDate": "2026-03-16 13:51:39.836417"
+  }
+}
