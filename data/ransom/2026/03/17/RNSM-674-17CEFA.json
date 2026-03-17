@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-17CEFA",
+  "type": "ransomware-incident",
+  "title": "briwaycarriers.com ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "briwaycarriers.com",
+    "domain": "briwaycarriers.com",
+    "country": "CA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Ontario-based transportation company specializing in specialized freight, including a dedicated glass division and agricultural services. They offer global supply chain …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/631b2a1e5e96b059403b20c5632fe476.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ynjpd2f5y2fycmllcnmuy29tqhnhzmvwyxk=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-17 20:20:51.120105",
+    "disclosedDate": "2026-03-17 20:21:03.550588"
+  }
+}
