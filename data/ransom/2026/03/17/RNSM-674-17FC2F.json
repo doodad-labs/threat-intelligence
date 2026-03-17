@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-17FC2F",
+  "type": "ransomware-incident",
+  "title": "thenavigatorcompany.com ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "thenavigatorcompany.com",
+    "domain": "thenavigatorcompany.com",
+    "country": "PT",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "safepay",
+    "name": "safepay",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Is a major Portuguese producer of forestry, pulp, paper, tissue, and sustainable packaging solutions, recognized as Europe's largest manufacturer of …",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/99842929bd0178ca153909c0661f7233.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dghlbmf2awdhdg9yy29tcgfues5jb21ac2fmzxbheq==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-17 20:19:35.045248",
+    "disclosedDate": "2026-03-17 20:19:50.373129"
+  }
+}
