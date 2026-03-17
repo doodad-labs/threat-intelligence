@@ -1,0 +1,33 @@
+{
+  "id": "RNSM-674-17312E",
+  "type": "ransomware-incident",
+  "title": "solutions extreme technology ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "solutions extreme technology",
+    "domain": "solutionsextreme.com",
+    "country": "CA",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "ailock",
+    "name": "AiLock",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Solutions Extreme is an IT services company that provides cloud computing, managed services, and business continuity solutions to help businesses maintain reliable operations and protect against data loss.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u29sdxrpb25ziev4dhjlbwugvgvjag5vbg9neubbauxvy2s=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-17 13:44:49.805229",
+    "disclosedDate": "2026-03-17 13:44:53.176392"
+  }
+}
