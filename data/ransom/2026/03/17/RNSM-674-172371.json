@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-172371",
+  "type": "ransomware-incident",
+  "title": "teco ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "teco",
+    "domain": "teco.com",
+    "country": "TW",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Teco HVAC, LLC is a full-service HVAC and plumbing company serving the Baltimore-Washington and Northern Virginia areas. They are dedicated to providing high-quality service and customer satisfaction, specializing in heating, cooling, and plumbing solutions. The company emphasizes quick and reliable service, ensuring that clients receive prompt assistance for their HVAC and plumbing needs. With a commitment to integrity, quality, and trust, Teco HVAC has been a trusted provider in the region since 2002.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a815d9823a1b7f936bc95454d834d9ff.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvjb0bzaw5vymk=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-17 17:59:41.199000",
+    "disclosedDate": "2026-03-17 18:51:46.948946"
+  }
+}
