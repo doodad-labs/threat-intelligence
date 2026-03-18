@@ -1,0 +1,313 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "cve",
+        "nvd-cve"
+      ]
+    },
+    "status": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "metrics": {
+      "type": "object",
+      "properties": {
+        "cvssV40": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "source": {
+                "type": "string"
+              },
+              "type": {
+                "type": "string",
+                "enum": [
+                  "Secondary",
+                  "Primary"
+                ]
+              }
+            },
+            "required": [
+              "source",
+              "type"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "cvssV31": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "source": {
+                "type": "string"
+              },
+              "impactScore": {
+                "type": "number"
+              },
+              "type": {
+                "type": "string",
+                "enum": [
+                  "Secondary",
+                  "Primary"
+                ]
+              }
+            },
+            "required": [
+              "source",
+              "impactScore",
+              "type"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "cvssV30": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "source": {
+                "type": "string"
+              },
+              "impactScore": {
+                "type": "number"
+              },
+              "type": {
+                "type": "string",
+                "enum": [
+                  "Secondary",
+                  "Primary"
+                ]
+              }
+            },
+            "required": [
+              "source",
+              "impactScore",
+              "type"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "cvssV2": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "source": {
+                "type": "string"
+              },
+              "type": {
+                "type": "string",
+                "enum": [
+                  "Secondary",
+                  "Primary"
+                ]
+              }
+            },
+            "required": [
+              "source",
+              "type"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "weaknesses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "source",
+          "type"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "url": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "press",
+              "feed"
+            ]
+          }
+        },
+        "required": [
+          "url",
+          "source",
+          "type"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "affectedProducts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "vendor": {
+            "type": "string"
+          },
+          "product": {
+            "type": "string"
+          },
+          "ecosystem": {
+            "type": "string"
+          },
+          "platform": {
+            "type": "string"
+          },
+          "packageType": {
+            "type": "string"
+          },
+          "cpe": {
+            "type": "string"
+          },
+          "purl": {
+            "type": "string"
+          },
+          "repositoryUrl": {
+            "type": "string"
+          },
+          "packageUrl": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "affectedVersions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "versionType": {
+                  "type": "string",
+                  "enum": [
+                    "semver",
+                    "pep440",
+                    "generic"
+                  ]
+                },
+                "introduced": {
+                  "type": "string"
+                },
+                "lessThan": {
+                  "type": "string"
+                },
+                "lessThanOrEqual": {
+                  "type": "string"
+                },
+                "greaterThan": {
+                  "type": "string"
+                },
+                "greaterThanOrEqual": {
+                  "type": "string"
+                },
+                "raw": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "fixedVersions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "evidence": {
+            "type": "object",
+            "properties": {
+              "descriptionMatches": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "referenceUrls": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            },
+            "additionalProperties": false
+          },
+          "confidence": {
+            "type": "string",
+            "enum": [
+              "low",
+              "medium",
+              "high"
+            ]
+          }
+        },
+        "required": [
+          "product"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "timeline": {
+      "type": "object",
+      "properties": {
+        "publishedDate": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "publishedDate"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "id",
+    "type",
+    "status",
+    "metrics",
+    "sources",
+    "timeline"
+  ],
+  "additionalProperties": false,
+  "definitions": {}
+}
