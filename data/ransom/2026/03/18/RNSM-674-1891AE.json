@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-1891AE",
+  "type": "ransomware-incident",
+  "title": "pyrénées ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "pyrénées",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 263000000000,
+    "description": "Grans Magatzems Pyrénées Andorra offers a wide range of high-quality products and services, including food, fashion, sports, and technology. Their offerings encompass gourmet food, online shopping, and various dining options, as well as travel agency services and financial solutions.We will upload 263gb of corporate data soon. Employee passports and DLs, HR forms, financials, client information, lots of contracts and agreements, NDAs, and a lot of other interesting files.",
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "employee-records",
+      "drivers-licence-data",
+      "customer-records"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uhlyw6luw6llc0bha2lyyq==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-18 00:00:00.000000",
+    "disclosedDate": "2026-03-18 12:50:49.475515"
+  }
+}
