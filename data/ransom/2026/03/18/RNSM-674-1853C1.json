@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-1853C1",
+  "type": "ransomware-incident",
+  "title": "economia ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "economia",
+    "domain": "economia.cz",
+    "country": "CZ"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "economia.cz zoominfo.com/c/economia-as/426681440 Economia is a leading Czech media house founded in 1990, publishing prestigious economic and professional periodicals. The company publishes Hospodářské noviny daily and Ekonom weekly. With approximately 500 to 1,000 employees, Economia reaches 66 percent of Czech business owners and top management, positioning itself as a symbol of free journalism and valuable content. The media house focuses on digital transformation while maintaining high-quality print publications, serving decision-makers and opinion leaders across the country.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwnvbm9tawfadghlz2vudgxlbwvu",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-18 08:16:56.000000",
+    "disclosedDate": "2026-03-18 09:31:55.479755"
+  }
+}
