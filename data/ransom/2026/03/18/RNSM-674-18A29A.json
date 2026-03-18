@@ -1,0 +1,41 @@
+{
+  "id": "RNSM-674-18A29A",
+  "type": "ransomware-incident",
+  "title": "conrad capital management ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "conrad capital management",
+    "domain": "conradcapital.com",
+    "country": "US",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "(including customers personal information and financial data) Conrad Capital Management (CCM) is an independent Registered Investment Advisory firm that provides personalized financial advice and investment counseling to individual and institutional investors across the United States. Established in 1998 by Donald E. Conrad, the firm specializes in complex financial services, including fixed income portfolio management, alternative investments, retirement planning, and customized portfolio management strategies. CCM's fiduciary duty ensures that they prioritize the best interests of their clients, fostering deep personal relationships through ongoing interactions. With a focus on risk management, CCM is committed to helping clients achieve their financial goals as soon as possible.",
+    "claimed_data_types": [
+      "financial-data",
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/5342a1b8642009d9af248ce49c457d17.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29ucmfkienhcgl0ywwgtwfuywdlbwvudebkcmfnb25mb3jjzq==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-18 16:18:28.818874",
+    "disclosedDate": "2026-03-18 17:37:25.314750"
+  }
+}
