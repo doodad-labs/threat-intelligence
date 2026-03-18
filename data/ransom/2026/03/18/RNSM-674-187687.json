@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-187687",
+  "type": "ransomware-incident",
+  "title": "construction equipment parts ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "construction equipment parts",
+    "domain": "ceparts.com",
+    "country": "",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Construction Equipment Parts, LLC is a dismantler specializing in heavy equipment parts for various brands, including wheel loaders, excavators, and articulated haulers. They provide a broad selection of new, used, rebuilt, and aftermarket parts tailored to clients who prioritize economic and environmental considerations. With over 200,000 parts available for shipping and expert sales support, they cater to all heavy equipment part needs. The company serves a diverse clientele in the construction industry, ensuring access to reliable equipment components",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/684ccf43ab9d078d067d512f610f6e56.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q29uc3rydwn0aw9uievxdwlwbwvudcbqyxj0c0bkcmfnb25mb3jjzq==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-18 19:13:27.638712",
+    "disclosedDate": "2026-03-18 20:38:44.791657"
+  }
+}
