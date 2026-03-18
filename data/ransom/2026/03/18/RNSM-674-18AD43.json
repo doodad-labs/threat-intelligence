@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-18AD43",
+  "type": "ransomware-incident",
+  "title": "summa energy ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "summa energy",
+    "domain": "summaenergy.com",
+    "country": "US",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "sinobi",
+    "name": "sinobi",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Summa Energy Fuel Services specializes in providing 24/7 on-site fueling solutions, including tank sales and leasing, bulk fueling, and emergency fueling services. They cater to various industries such as transportation, logistics, aviation, and infrastructure, offering customized solutions to meet diverse business needs. The company is dedicated to optimizing fuel delivery and pricing, ensuring timely service and cost savings for their clients. With a strong focus on customer satisfaction and innovative practices, Summa Energy is recognized as a trusted partner for reliable fuel management.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/074b8288ac4f9773e0ddf9398469880f.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u3vtbwegrw5lcmd5qhnpbm9iaq==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-17 18:03:54.483000",
+    "disclosedDate": "2026-03-18 00:53:25.022878"
+  }
+}
