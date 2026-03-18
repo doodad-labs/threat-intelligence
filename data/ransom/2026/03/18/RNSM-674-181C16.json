@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-181C16",
+  "type": "ransomware-incident",
+  "title": "rainbow technology ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rainbow technology",
+    "country": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Rainbow Technology specializes in providing a wide range of products and services tailored for the utility and industrial markets,including safety items and specialty products. Their offerings include adhesives, sealants, cleaning supplies, personal protection equipment, and tools, aimed at delivering superior performance and value for money.We will upload corporate data soon. Employee passports and DLs and other information, HR files, financials, client information, credit card information, contracts and agreements, and so on.",
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "employee-records",
+      "customer-records"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umfpbmjvdybuzwnobm9sb2d5qgfraxjh",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-18 00:00:00.000000",
+    "disclosedDate": "2026-03-18 14:19:47.228979"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "RNSM-674-18F610",
+  "type": "ransomware-incident",
+  "title": "arca service ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "arca service",
+    "domain": "arcaservice.it",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c8be9a354da0e598ed77c061b76ad5c8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qxjjysbtzxj2awnlqhfpbglu",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-18 15:03:08.660478",
+    "disclosedDate": "2026-03-18 15:03:31.082998"
+  }
+}

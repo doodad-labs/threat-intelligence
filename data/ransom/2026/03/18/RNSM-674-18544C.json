@@ -1,0 +1,38 @@
+{
+  "id": "RNSM-674-18544C",
+  "type": "ransomware-incident",
+  "title": "btx global logistics ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "btx global logistics",
+    "domain": "btxglobal.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b61a0b919887965669a446e44e2b0198.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qlryiedsb2jhbcbmb2dpc3rpy3nacwlsaw4=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-18 15:04:36.973990",
+    "disclosedDate": "2026-03-18 15:04:57.987636"
+  }
+}
