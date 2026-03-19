@@ -38,11 +38,170 @@
                   "Secondary",
                   "Primary"
                 ]
+              },
+              "cvssData": {
+                "type": "object",
+                "properties": {
+                  "version": {
+                    "type": "string"
+                  },
+                  "vectorString": {
+                    "type": "string"
+                  },
+                  "baseScore": {
+                    "type": "number"
+                  },
+                  "baseSeverity": {
+                    "type": "string",
+                    "enum": [
+                      "HIGH",
+                      "MEDIUM",
+                      "LOW",
+                      "NONE"
+                    ]
+                  },
+                  "attackVector": {
+                    "type": "string"
+                  },
+                  "attackComplexity": {
+                    "type": "string"
+                  },
+                  "attackRequirements": {
+                    "type": "string"
+                  },
+                  "privilegesRequired": {
+                    "type": "string"
+                  },
+                  "userInteraction": {
+                    "type": "string"
+                  },
+                  "vulnConfidentialityImpact": {
+                    "type": "string"
+                  },
+                  "vulnIntegrityImpact": {
+                    "type": "string"
+                  },
+                  "vulnAvailabilityImpact": {
+                    "type": "string"
+                  },
+                  "subConfidentialityImpact": {
+                    "type": "string"
+                  },
+                  "subIntegrityImpact": {
+                    "type": "string"
+                  },
+                  "subAvailabilityImpact": {
+                    "type": "string"
+                  },
+                  "exploitMaturity": {
+                    "type": "string"
+                  },
+                  "confidentialityRequirement": {
+                    "type": "string"
+                  },
+                  "integrityRequirement": {
+                    "type": "string"
+                  },
+                  "availabilityRequirement": {
+                    "type": "string"
+                  },
+                  "modifiedAttackVector": {
+                    "type": "string"
+                  },
+                  "modifiedAttackComplexity": {
+                    "type": "string"
+                  },
+                  "modifiedAttackRequirements": {
+                    "type": "string"
+                  },
+                  "modifiedPrivilegesRequired": {
+                    "type": "string"
+                  },
+                  "modifiedUserInteraction": {
+                    "type": "string"
+                  },
+                  "modifiedVulnConfidentialityImpact": {
+                    "type": "string"
+                  },
+                  "modifiedVulnIntegrityImpact": {
+                    "type": "string"
+                  },
+                  "modifiedVulnAvailabilityImpact": {
+                    "type": "string"
+                  },
+                  "modifiedSubConfidentialityImpact": {
+                    "type": "string"
+                  },
+                  "modifiedSubIntegrityImpact": {
+                    "type": "string"
+                  },
+                  "modifiedSubAvailabilityImpact": {
+                    "type": "string"
+                  },
+                  "Safety": {
+                    "type": "string"
+                  },
+                  "Automatable": {
+                    "type": "string"
+                  },
+                  "Recovery": {
+                    "type": "string"
+                  },
+                  "valueDensity": {
+                    "type": "string"
+                  },
+                  "vulnerabilityResponseEffort": {
+                    "type": "string"
+                  },
+                  "providerUrgency": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "version",
+                  "vectorString",
+                  "baseScore",
+                  "baseSeverity",
+                  "attackVector",
+                  "attackComplexity",
+                  "attackRequirements",
+                  "privilegesRequired",
+                  "userInteraction",
+                  "vulnConfidentialityImpact",
+                  "vulnIntegrityImpact",
+                  "vulnAvailabilityImpact",
+                  "subConfidentialityImpact",
+                  "subIntegrityImpact",
+                  "subAvailabilityImpact",
+                  "exploitMaturity",
+                  "confidentialityRequirement",
+                  "integrityRequirement",
+                  "availabilityRequirement",
+                  "modifiedAttackVector",
+                  "modifiedAttackComplexity",
+                  "modifiedAttackRequirements",
+                  "modifiedPrivilegesRequired",
+                  "modifiedUserInteraction",
+                  "modifiedVulnConfidentialityImpact",
+                  "modifiedVulnIntegrityImpact",
+                  "modifiedVulnAvailabilityImpact",
+                  "modifiedSubConfidentialityImpact",
+                  "modifiedSubIntegrityImpact",
+                  "modifiedSubAvailabilityImpact",
+                  "Safety",
+                  "Automatable",
+                  "Recovery",
+                  "valueDensity",
+                  "vulnerabilityResponseEffort",
+                  "providerUrgency"
+                ],
+                "additionalProperties": false
               }
             },
             "required": [
               "source",
-              "type"
+              "type",
+              "cvssData"
             ],
             "additionalProperties": false
           }
@@ -55,21 +214,88 @@
               "source": {
                 "type": "string"
               },
-              "impactScore": {
-                "type": "number"
-              },
               "type": {
                 "type": "string",
                 "enum": [
                   "Secondary",
                   "Primary"
                 ]
+              },
+              "cvssData": {
+                "type": "object",
+                "properties": {
+                  "version": {
+                    "type": "string"
+                  },
+                  "vectorString": {
+                    "type": "string"
+                  },
+                  "baseScore": {
+                    "type": "number"
+                  },
+                  "baseSeverity": {
+                    "type": "string",
+                    "enum": [
+                      "HIGH",
+                      "MEDIUM",
+                      "LOW",
+                      "NONE"
+                    ]
+                  },
+                  "attackVector": {
+                    "type": "string"
+                  },
+                  "attackComplexity": {
+                    "type": "string"
+                  },
+                  "privilegesRequired": {
+                    "type": "string"
+                  },
+                  "userInteraction": {
+                    "type": "string"
+                  },
+                  "scope": {
+                    "type": "string"
+                  },
+                  "confidentialityImpact": {
+                    "type": "string"
+                  },
+                  "integrityImpact": {
+                    "type": "string"
+                  },
+                  "availabilityImpact": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "version",
+                  "vectorString",
+                  "baseScore",
+                  "baseSeverity",
+                  "attackVector",
+                  "attackComplexity",
+                  "privilegesRequired",
+                  "userInteraction",
+                  "scope",
+                  "confidentialityImpact",
+                  "integrityImpact",
+                  "availabilityImpact"
+                ],
+                "additionalProperties": false
+              },
+              "exploitabilityScore": {
+                "type": "number"
+              },
+              "impactScore": {
+                "type": "number"
               }
             },
             "required": [
               "source",
-              "impactScore",
-              "type"
+              "type",
+              "cvssData",
+              "exploitabilityScore",
+              "impactScore"
             ],
             "additionalProperties": false
           }
@@ -82,21 +308,88 @@
               "source": {
                 "type": "string"
               },
-              "impactScore": {
-                "type": "number"
-              },
               "type": {
                 "type": "string",
                 "enum": [
                   "Secondary",
                   "Primary"
                 ]
+              },
+              "cvssData": {
+                "type": "object",
+                "properties": {
+                  "version": {
+                    "type": "string"
+                  },
+                  "vectorString": {
+                    "type": "string"
+                  },
+                  "baseScore": {
+                    "type": "number"
+                  },
+                  "baseSeverity": {
+                    "type": "string",
+                    "enum": [
+                      "HIGH",
+                      "MEDIUM",
+                      "LOW",
+                      "NONE"
+                    ]
+                  },
+                  "attackVector": {
+                    "type": "string"
+                  },
+                  "attackComplexity": {
+                    "type": "string"
+                  },
+                  "privilegesRequired": {
+                    "type": "string"
+                  },
+                  "userInteraction": {
+                    "type": "string"
+                  },
+                  "scope": {
+                    "type": "string"
+                  },
+                  "confidentialityImpact": {
+                    "type": "string"
+                  },
+                  "integrityImpact": {
+                    "type": "string"
+                  },
+                  "availabilityImpact": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "version",
+                  "vectorString",
+                  "baseScore",
+                  "baseSeverity",
+                  "attackVector",
+                  "attackComplexity",
+                  "privilegesRequired",
+                  "userInteraction",
+                  "scope",
+                  "confidentialityImpact",
+                  "integrityImpact",
+                  "availabilityImpact"
+                ],
+                "additionalProperties": false
+              },
+              "exploitabilityScore": {
+                "type": "number"
+              },
+              "impactScore": {
+                "type": "number"
               }
             },
             "required": [
               "source",
-              "impactScore",
-              "type"
+              "type",
+              "cvssData",
+              "exploitabilityScore",
+              "impactScore"
             ],
             "additionalProperties": false
           }
@@ -115,11 +408,100 @@
                   "Secondary",
                   "Primary"
                 ]
+              },
+              "cvssData": {
+                "type": "object",
+                "properties": {
+                  "version": {
+                    "type": "string"
+                  },
+                  "vectorString": {
+                    "type": "string"
+                  },
+                  "baseScore": {
+                    "type": "number"
+                  },
+                  "accessVector": {
+                    "type": "string"
+                  },
+                  "accessComplexity": {
+                    "type": "string",
+                    "enum": [
+                      "HIGH",
+                      "MEDIUM",
+                      "LOW",
+                      "NONE"
+                    ]
+                  },
+                  "authentication": {
+                    "type": "string"
+                  },
+                  "confidentialityImpact": {
+                    "type": "string"
+                  },
+                  "integrityImpact": {
+                    "type": "string"
+                  },
+                  "availabilityImpact": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "version",
+                  "vectorString",
+                  "baseScore",
+                  "accessVector",
+                  "accessComplexity",
+                  "authentication",
+                  "confidentialityImpact",
+                  "integrityImpact",
+                  "availabilityImpact"
+                ],
+                "additionalProperties": false
+              },
+              "baseSeverity": {
+                "type": "string",
+                "enum": [
+                  "HIGH",
+                  "MEDIUM",
+                  "LOW",
+                  "NONE"
+                ]
+              },
+              "exploitabilityScore": {
+                "type": "number"
+              },
+              "impactScore": {
+                "type": "number"
+              },
+              "acInsufInfo": {
+                "type": "boolean"
+              },
+              "obtainAllPrivilege": {
+                "type": "boolean"
+              },
+              "obtainUserPrivilege": {
+                "type": "boolean"
+              },
+              "obtainOtherPrivilege": {
+                "type": "boolean"
+              },
+              "userInteractionRequired": {
+                "type": "boolean"
               }
             },
             "required": [
               "source",
-              "type"
+              "type",
+              "cvssData",
+              "baseSeverity",
+              "exploitabilityScore",
+              "impactScore",
+              "acInsufInfo",
+              "obtainAllPrivilege",
+              "obtainUserPrivilege",
+              "obtainOtherPrivilege",
+              "userInteractionRequired"
             ],
             "additionalProperties": false
           }
