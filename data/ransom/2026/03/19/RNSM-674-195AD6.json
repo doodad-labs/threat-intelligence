@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-195AD6",
+  "type": "ransomware-incident",
+  "title": "career adventures ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "career adventures",
+    "country": "",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 8000000000,
+    "description": "Career Adventures, Inc is a leading employment agency in Shreveport and Bossier City, Louisiana, specializing in temporary and full-time staffing solutions for start-up manufacturing facilities. With over 30 years of experience, they provide tailored programs that enhance employee performance and reduce turnover.We will upload 8gb of corporate data soon. Employee personal information (passports, DLs and so on), lots of HR data, financials, a bit of client data, projects, NDA, etc.",
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fyzwvyiefkdmvudhvyzxnaywtpcme=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-19 00:00:00.000000",
+    "disclosedDate": "2026-03-19 15:24:19.410595"
+  }
+}
