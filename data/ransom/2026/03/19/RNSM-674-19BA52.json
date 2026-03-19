@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-19BA52",
+  "type": "ransomware-incident",
+  "title": "mercedes-benz of arlington ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "mercedes-benz of arlington",
+    "domain": "justmercedes.com",
+    "country": "US",
+    "sector": "Consumer Services"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Mercedes-Benz of Arlington is a premier dealership specializing in new and pre-owned Mercedes-Benz vehicles, offering a wide selection of luxury cars, SUVs, and convertibles. The dealership provides exceptional customer service and a seamless buying experience for clients in the Arlington and greater Washington, DC area. They also offer financing options, vehicle servicing, and genuine parts to ensure customer satisfaction. With decades of experience, the knowledgeable staff is dedicated to helping clients find their ideal vehicle.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7183c74b5596528b0b9956450d09b258.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twvyy2vkzxmtqmvueibvzibbcmxpbmd0b25azhjhz29uzm9yy2u=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-19 22:08:16.367046",
+    "disclosedDate": "2026-03-19 23:00:54.084293"
+  }
+}
