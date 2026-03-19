@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-195BF0",
+  "type": "ransomware-incident",
+  "title": "enensys technologies ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "enensys technologies",
+    "domain": "enensys.com",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "nitrogen",
+    "name": "nitrogen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "One of the leaders in video stream optimization, security, and content monetization. Offers advanced solutions for efficient video delivery across all digital ecosystems.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9555435747d08fa266575c980456586c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ru5ftlnzuybuzwnobm9sb2dpzxnabml0cm9nzw4=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-19 16:07:38.193275",
+    "disclosedDate": "2026-03-19 16:08:08.184722"
+  }
+}
