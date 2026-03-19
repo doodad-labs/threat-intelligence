@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-198474",
+  "type": "ransomware-incident",
+  "title": "notaría 89 ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "notaría 89",
+    "country": "MX"
+  },
+  "actor": {
+    "id": "payload",
+    "name": "payload",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Notaría 89 – Edomex, located in the State of Mexico, offers specialized legal services for various real estate transactions and contracts. Under the leadership of Licenciado Luis Octavio Hermoso y Colín, the notary public provides services such as the granting of powers, purchase contracts, real estate mortgages, and the constitution of societies. The notary public also handles testaments and other notarial services, ensuring all legal requirements are met for property transfers and other legal matters.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/beb322961c243d3c3ca57ae3974387a3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tm90yxldrwegodlacgf5bg9hza==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-19 21:04:34.593655",
+    "disclosedDate": "2026-03-19 21:04:56.957439"
+  }
+}
