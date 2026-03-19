@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-19D66B",
+  "type": "ransomware-incident",
+  "title": "petra industries ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "petra industries",
+    "domain": "petra.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Petra Industries is a leading wholesale distributor of consumer electronics, custom installation products, mobile audio/video accessories, and appliance connection supplies. Founded in 1985, it is based in Edmond, Oklahoma. Petra's goal is to provide the best ordering process, the best customer service, and the best delivery system to customers nationwide.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cdd5efd4eeb43671e876d3b2e3db4901.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugv0cmegsw5kdxn0cmllc0bjb2luymfzzwnhcnrlba==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-19 12:55:31.395929",
+    "disclosedDate": "2026-03-19 12:55:51.719629"
+  }
+}

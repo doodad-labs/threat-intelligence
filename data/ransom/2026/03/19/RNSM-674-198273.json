@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-198273",
+  "type": "ransomware-incident",
+  "title": "cerio ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "cerio",
+    "domain": "cerio.io",
+    "country": "TW"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "cerio.io  zoominfo.com/c/rockport-networks-inc/1330256755 Cerio is an accelerated computing platform focused on next-generation data center infrastructure for AI workloads . The company specialises in disaggregated infrastructure — decoupling compute, memory, and storage resources beyond a single PCIe domain to enable elastic capacity and optimized data movement at scale . Their approach aims to eliminate the \"capacity trap\" of traditional tightly integrated systems, making AI infrastructure more agile and efficient",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2vyaw9adghlz2vudgxlbwvu",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-19 11:41:54.000000",
+    "disclosedDate": "2026-03-19 13:50:57.743612"
+  }
+}

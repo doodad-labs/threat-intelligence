@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-19B109",
+  "type": "ransomware-incident",
+  "title": "airports.com.na ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "airports.com.na",
+    "domain": "airports.com.na",
+    "country": "NA",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Namibia Airports Company founded in 1999 and headquartered in Khomas, Namibia, is a service provider in airport operations and management.\r Employees: 200\r Revenue: $21.5 Million\r Industry: Federal \r Phone Number: +264 612955000",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ywlycg9ydhmuy29tlm5hqgluy3jhbnnvbq==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-19 05:36:00.000000",
+    "disclosedDate": "2026-03-19 13:06:03.866231"
+  }
+}

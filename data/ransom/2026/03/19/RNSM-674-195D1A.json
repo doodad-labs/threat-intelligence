@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-195D1A",
+  "type": "ransomware-incident",
+  "title": "pc soft france ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "pc soft france",
+    "domain": "pcsoft.fr",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] PC SOFT FRANCE is a French software company established in 1984. It specializes in software development tools for Windows, Web, Mobile, Android, iOS, Java, .NET and all databases. It's best known for creating the WINDEV, WEBDEV and WINDEV Mobile software solutions - all designed for rapid application development (RAD).",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b85420596eecf1f8b6d11726c11fd24c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/uemgu09gvcbgukfoq0vay29pbmjhc2vjyxj0zww=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-19 12:58:54.148100",
+    "disclosedDate": "2026-03-19 12:59:11.000202"
+  }
+}
