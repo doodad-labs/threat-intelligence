@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-196DF3",
+  "type": "ransomware-incident",
+  "title": "tecnocad group ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "tecnocad group",
+    "domain": "tecnocadpgroup.com",
+    "country": "IT",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "coinbasecartel",
+    "name": "coinbasecartel",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Tecnocad Group is an Italian company that specializes in providing advanced engineering services. The company offers expertise in the fields of automotive design and development, including interior and exterior styling, chassis and body development, and industrial design. They work closely with manufacturing industries and are known for their commitment to use of innovative technologies and quality assurance in project delivery.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4bb8f1e94a9e4bf663859e20dea1df4c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vgvjbm9jywqgr3jvdxbay29pbmjhc2vjyxj0zww=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-19 17:55:23.426008",
+    "disclosedDate": "2026-03-19 17:55:41.021724"
+  }
+}

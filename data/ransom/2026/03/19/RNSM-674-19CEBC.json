@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-19CEBC",
+  "type": "ransomware-incident",
+  "title": "angus-young associates ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "angus-young associates",
+    "country": "GB"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 50000000000,
+    "description": "Angus-Young is a full-service architectural, landscape architecture, engineering, and interior design firm that offers high-quality design solutions, construction documentation, bid management, and construction services. With over 60 years of experience, the firm collaborates on a diverse range of project types, ensuring informed decisions and integrated designs.We will upload 50gb of corporate data soon. Employee personal information (w9 forms, docs scans), HR data, financials, a bit of client data, contracts and agreements, projects, etc.",
+    "claimed_data_types": [
+      "internal-documents",
+      "tax-documents"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qw5ndxmtww91bmcgqxnzb2npyxrlc0bha2lyyq==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-19 00:00:00.000000",
+    "disclosedDate": "2026-03-19 16:49:08.660700"
+  }
+}

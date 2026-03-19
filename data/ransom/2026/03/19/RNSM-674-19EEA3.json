@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-19EEA3",
+  "type": "ransomware-incident",
+  "title": "vatractor.com ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "vatractor.com",
+    "domain": "vatractor.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Virginia Maryland Tractor specializes in John Deere equipment,  offering a wide selection of new and used machinery, financing options, parts, and service.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a0b606d12f74178955d3434d97c3dac2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/dmf0cmfjdg9ylmnvbubkcmfnb25mb3jjzq==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-19 16:49:28.954981",
+    "disclosedDate": "2026-03-19 16:55:12.018659"
+  }
+}
