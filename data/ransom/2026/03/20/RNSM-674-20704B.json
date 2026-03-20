@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-20704B",
+  "type": "ransomware-incident",
+  "title": "virtualexpo group ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "virtualexpo group",
+    "domain": "virtual-expo.com",
+    "country": "FR",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/789e81004d73a17b52612052d4431d03.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vmlydhvhbev4cg8gr3jvdxbacwlsaw4=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-20 13:20:01.406023",
+    "disclosedDate": "2026-03-20 13:20:24.688891"
+  }
+}
