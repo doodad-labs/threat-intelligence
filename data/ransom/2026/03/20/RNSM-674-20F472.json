@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-20F472",
+  "type": "ransomware-incident",
+  "title": "motorpal ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "motorpal",
+    "country": "CZ",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 31000000000,
+    "description": "MOTORPAL, a. s. is a prominent manufacturer of injection systems for diesel engines, established in 1946. The company specializes in producing a range of products including injection pumps, injectors, and spare parts, as well as providing sales and service support.We will upload 31gb of corporate data soon. Employee personal information (addresses, phones, scanned documents and so on), detailed HR data, financials, partners files, contracts, projects, and so on.",
+    "claimed_data_types": [
+      "internal-documents",
+      "addresses"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/tw90b3jwywxaywtpcme=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-20 00:00:00.000000",
+    "disclosedDate": "2026-03-20 12:31:11.160966"
+  }
+}
