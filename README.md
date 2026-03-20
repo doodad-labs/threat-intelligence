@@ -9,7 +9,7 @@ This repository provides an open-access threat intelligence feed that is free to
 
 ID | Name | Location | Schema | Last Updated
 -- | ---- | -------- | ------ | ------------
-CVE | CVE Records | [`data/cve`](./data/cve) | [`schema/cve.schema.json`](https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/cve.schema.json) | `2026-03-20 11:22:39`
+CVE | CVE Records | [`data/cve`](./data/cve) | [`schema/cve.schema.json`](https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/cve.schema.json) | `2026-03-20 13:03:56`
 RANSOM | Ransomware Reports  | [`data/ransom`](./data/ransom) | [`schema/ransom.schema.json`](https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json) | `2026-03-20 12:43:45`
 
 ## Disclaimer
