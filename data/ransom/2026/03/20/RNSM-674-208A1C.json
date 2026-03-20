@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-208A1C",
+  "type": "ransomware-incident",
+  "title": "pearce services ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "pearce services",
+    "domain": "pearce-services.com",
+    "country": "US",
+    "sector": "Business Services"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Pearce Services is a provider of mission-critical services maintaining and repairing infrastructure for telecommunications, renewable energy, and electric vehicle (EV) charging networks. It offers specialized services including design, installation, maintenance, repair, and replacement solutions. The firm caters to blue-chip companies across the US, rendering services to help prolong the lifecycle of their infrastructure, promote network efficiency and reliability.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/7e8249293d593118f0386ca0d24ce3c0.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/ugvhcmnlifnlcnzpy2vzqhdvcmxkbgvha3m=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-20 09:27:15.000000",
+    "disclosedDate": "2026-03-20 10:35:42.472146"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-209708",
+  "type": "ransomware-incident",
+  "title": "town of blacksburg ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "town of blacksburg",
+    "domain": "blacksburg.gov",
+    "country": "US",
+    "sector": "Public Sector"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] The Town of Blacksburg is not a company but a municipal government body. It oversees community affairs in Blacksburg, Virginia, a town known for hosting the Virginia Polytechnic Institute (Virginia Tech). Its responsibilities include managing local services, maintaining public infrastructures, and implementing community welfare actions and improvements.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/bfe589868e431d0099cf31dbfb5c3c3e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vg93bibvzibcbgfja3nidxjnqhdvcmxkbgvha3m=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-20 09:26:43.000000",
+    "disclosedDate": "2026-03-20 10:36:26.328571"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-202591",
+  "type": "ransomware-incident",
+  "title": "winmate inc. ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "winmate inc.",
+    "domain": "winmate.com",
+    "country": "TW",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Winmate Inc. is a Taiwan-based technology company established in 1996. It specializes in industrial display technology and solutions, with a product line that includes rugged tablets, panel PCs, displays, and embedded automation devices. Known for its innovative, high-performance hardware, Winmate's products are used in a wide variety of industries, including maritime, medical, military, and transportation.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/b91fef72e4f0ed49ccafdb273b3c5db3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v2lubwf0zsbjbmmuqhdvcmxkbgvha3m=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-20 09:00:13.000000",
+    "disclosedDate": "2026-03-20 10:39:39.442898"
+  }
+}
