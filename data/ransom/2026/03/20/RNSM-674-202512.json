@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-202512",
+  "type": "ransomware-incident",
+  "title": "inp schweiz ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "inp schweiz",
+    "country": "CH"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 9000000000,
+    "description": "INP Schweiz AG partners with leading companies in the energy generation and transmission sector, providing comprehensive engineering services that include concept development, planning, commissioning, and testing.We will upload 9gb of corporate data soon. Employee personal information (passports, DLs and os on), HR files, financials, client files, contracts with Siemens and others, etc.",
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "employee-records"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/su5qifnjahdlaxpaywtpcme=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-20 00:00:00.000000",
+    "disclosedDate": "2026-03-20 15:25:53.416893"
+  }
+}

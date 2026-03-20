@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-207F3B",
+  "type": "ransomware-incident",
+  "title": "savvy hawk ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "savvy hawk",
+    "country": ""
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 941000000000,
+    "description": "Savvy Hawk is a Miami-based IT service provider that specializes in business-focused communication solutions for small to enterprise-level clients. They offer services such as custom cloud solutions, data backup and recovery, and VoIP telephone services, all designed to enhance productivity and business continuity.We will upload 941gb of corporate data soon. Detailed employee personal information (passports, DLs, SSNs, medical records and so on), HR files, client's credit cards and other information, financials, contracts and agreements, etc.",
+    "claimed_data_types": [
+      "internal-documents",
+      "passport-numbers",
+      "drivers-licence-data",
+      "government-identifiers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2f2dnkgsgf3a0bha2lyyq==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-20 00:00:00.000000",
+    "disclosedDate": "2026-03-20 15:25:49.120669"
+  }
+}
