@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-20A708",
+  "type": "ransomware-incident",
+  "title": "wal consultant ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "wal consultant",
+    "domain": "walconsultant.com",
+    "country": ""
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c34ea34f692a8714e55dc97f4685b115.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/v0fmienvbnn1bhrhbnracwlsaw4=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-20 20:33:51.605664",
+    "disclosedDate": "2026-03-20 20:34:17.525996"
+  }
+}
