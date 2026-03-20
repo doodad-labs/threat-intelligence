@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-20DE0F",
+  "type": "ransomware-incident",
+  "title": "sopower.com ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "sopower.com",
+    "domain": "sopower.com",
+    "country": "JP",
+    "sector": "Energy"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "industrial electrical service provider located in Baton Rouge, LA. Founded in 1994, it specializes in electrical testing, commissioning, maintenance, switchgear, transformers, and substation services, serving as a trusted ally for power infrastructure",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/e25247dccfbf147ebd16e10f4f15e3e3.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/c29wb3dlci5jb21azhjhz29uzm9yy2u=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-20 14:10:44.522816",
+    "disclosedDate": "2026-03-20 15:38:28.750717"
+  }
+}

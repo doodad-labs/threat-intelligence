@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-20A35F",
+  "type": "ransomware-incident",
+  "title": "agencavi srl ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "agencavi srl",
+    "domain": "agencavi.com",
+    "country": "IT"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d355c408e3a3a67a2ad3b3a7319f6ce6.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/qudftknbvkkgu1jmqhfpbglu",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-20 00:00:00.000000",
+    "disclosedDate": "2026-03-20 16:04:42.405706"
+  }
+}
