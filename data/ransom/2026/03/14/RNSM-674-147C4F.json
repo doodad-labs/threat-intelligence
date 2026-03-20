@@ -2,13 +2,13 @@
   "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
   "id": "RNSM-674-147C4F",
   "type": "ransomware-incident",
-  "title": "meena health ransomware incident",
+  "title": "nextcapitaltrust ransomware incident",
   "confidence": "low",
   "victim": {
-    "name": "meena health",
+    "name": "nextcapitaltrust",
     "domain": "example.com",
     "country": "",
-    "sector": "Healthcare"
+    "sector": "Financial Services"
   },
   "actor": {
     "id": "killsec",
@@ -22,15 +22,13 @@
   "screenshots": [],
   "sources": [
     {
-      "url": "https://www.ransomware.live/id/bwvlbmegagvhbhroqgtpbgxzzwm=",
+      "url": "https://www.ransomware.live/id/tmv4denhcgl0ywxucnvzdebrawxsc2vj",
       "source": "Ransomware Live",
       "type": "feed"
     }
   ],
   "timeline": {
-    "attackedDate": "2026-03-14 06:39:43.722845",
-    "disclosedDate": "2026-03-14 06:39:45.082510"
-  }
-}:39:37.798754"
+    "attackedDate": "2026-03-14 06:39:36.457587",
+    "disclosedDate": "2026-03-14 06:39:37.798754"
   }
 }
