@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-20CFEA",
+  "type": "ransomware-incident",
+  "title": "edifice design + architecture ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "edifice design + architecture",
+    "domain": "edificedna.com",
+    "country": "US",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "We shape our buildings, and afterward our buildings shape us - Winston Churchill At Edifice, we believe architecture and design have a unique physical, spiritual, and psychological relationship with our lives. Whether we recognize it or not, design and the buildings we live in, shape our experiences and impact each of us in every aspect of our lives. Innovation and the built environment affect how we live, work, worship and sleep. We believe design and architecture can embrace and provide a unique canvas for our lives, which happens in and around them. As the architect Peter Zumthor said, architecture is a sensitive container for the rhythm of footsteps on the floor, for the concentration of work, for the silence of sleep. We believe excellent design and architecture can complement, accentuate, and highlight the best in the world around us, lifting our environments, building our community, and shaping us into something better. We believe buildings have the potential to EDIFY us and weall deserve to be edified. We believe this is our role, as architects and designers, to EDIFY individuals by crafting environments that inspire, and bring peace and beauty.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/49c746dbf6e4af3b8cb1426d42f2f99e.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwrpzmljzsbezxnpz24gkybbcmnoaxrly3r1cmvazhjhz29uzm9yy2u=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-19 18:56:56.121538",
+    "disclosedDate": "2026-03-20 20:07:39.357507"
+  }
+}

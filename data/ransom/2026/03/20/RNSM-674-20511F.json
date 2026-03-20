@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-20511F",
+  "type": "ransomware-incident",
+  "title": "the farese group ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "the farese group",
+    "domain": "faresegroup.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "dragonforce",
+    "name": "dragonforce",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "The Farese Group specializes in retirement income planning, investment management, and financial planning, focusing on the distribution phase of retirement. With nearly two decades of experience, they provide strategic game plans to help clients spend their savings wisely and intentionally. They offer complimentary workshops to address common retirement questions and concerns for those in or nearing retirement. The firm values client relationships and shows appreciation through various location-based events throughout the year",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/f932e5fa5c4b72f9fd9ad2a4713a8c1c.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/vghliezhcmvzzsbhcm91cebkcmfnb25mb3jjzq==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-19 18:59:21.281415",
+    "disclosedDate": "2026-03-20 20:06:45.228931"
+  }
+}
