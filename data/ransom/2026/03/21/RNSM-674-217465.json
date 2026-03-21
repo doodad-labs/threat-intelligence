@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-217465",
+  "type": "ransomware-incident",
+  "title": "grupo coril ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "grupo coril",
+    "domain": "grupocoril.com",
+    "country": "PE",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/cc7528d96162588a00a51581edc7aea9.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3j1cg8gq29yawxacwlsaw4=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-21 20:16:51.153421",
+    "disclosedDate": "2026-03-21 20:17:14.029224"
+  }
+}
