@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-217EBA",
+  "type": "ransomware-incident",
+  "title": "millerfoto ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "millerfoto",
+    "domain": "millerfoto.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/33c62d30a45755c97333fa053c000fbe.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twlsbgvyzm90b0bxawxpbg==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-21 16:32:55.568464",
+    "disclosedDate": "2026-03-21 16:33:14.898062"
+  }
+}
