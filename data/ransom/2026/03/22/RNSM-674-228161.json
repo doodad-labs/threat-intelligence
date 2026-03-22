@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-228161",
+  "type": "ransomware-incident",
+  "title": "elite limousine plus ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "elite limousine plus",
+    "domain": "eliteny.com",
+    "country": "US",
+    "sector": "Transportation/Logistics"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4b8cdc94735e3c62798a0c0a0689e460.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rwxpdgugtgltb3vzaw5lifbsdxnacwlsaw4=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-22 18:07:44.012214",
+    "disclosedDate": "2026-03-22 18:08:04.875502"
+  }
+}

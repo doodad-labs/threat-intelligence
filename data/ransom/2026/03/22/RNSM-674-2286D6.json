@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-2286D6",
+  "type": "ransomware-incident",
+  "title": "npower technologies ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "npower technologies",
+    "domain": "npowertech.com",
+    "country": "IN",
+    "sector": "Technology"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/c64cd90561b327216ad4b63d47e13c22.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/blbvd2vyifrly2hub2xvz2llc0bxawxpbg==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-22 18:08:27.384184",
+    "disclosedDate": "2026-03-22 18:08:45.971640"
+  }
+}
