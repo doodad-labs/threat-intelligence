@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-225B42",
+  "type": "ransomware-incident",
+  "title": "cannavative group ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "cannavative group",
+    "domain": "cannavativegroup.com",
+    "country": "US"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "- QuickBook Files- METRC DB-Employeement & Clients Documents",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/q2fubmf2yxrpdmugr3jvdxbabmlnahrzcglyzq==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-13 00:00:00.000000",
+    "disclosedDate": "2026-03-22 15:01:05.252925"
+  }
+}

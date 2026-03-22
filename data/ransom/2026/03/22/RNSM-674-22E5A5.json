@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-22E5A5",
+  "type": "ransomware-incident",
+  "title": "**o**d* *h**a*y ***v***s ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "**o**d* *h**a*y ***v***s",
+    "country": "",
+    "sector": "Healthcare"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data is not available now.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/kipvkipkkiaqacoqysp5icoqknyqkipzqg5pz2h0c3bpcmu=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-21 00:00:00.000000",
+    "disclosedDate": "2026-03-22 14:59:49.227947"
+  }
+}

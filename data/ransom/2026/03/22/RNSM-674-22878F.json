@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-22878F",
+  "type": "ransomware-incident",
+  "title": "semenya furumele consulting engineers ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "semenya furumele consulting engineers",
+    "domain": "sfce.co.za",
+    "country": "ZA",
+    "sector": "Construction"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data is not available now.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u2vtzw55ysbgdxj1bwvszsbdb25zdwx0aw5nievuz2luzwvyc0buawdodhnwaxjl",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-16 00:00:00.000000",
+    "disclosedDate": "2026-03-22 15:00:15.652523"
+  }
+}
