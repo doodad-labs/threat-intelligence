@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-22ACDC",
+  "type": "ransomware-incident",
+  "title": "marc dorcel ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "marc dorcel",
+    "domain": "dorcel.com",
+    "country": "FR"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/1306573ffb8c403b451f008e03279c4a.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfyyybeb3jjzwxacwlsaw4=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-22 16:33:21.868980",
+    "disclosedDate": "2026-03-22 16:33:40.599807"
+  }
+}
