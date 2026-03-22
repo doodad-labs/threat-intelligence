@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-22B777",
+  "type": "ransomware-incident",
+  "title": "southwire ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "southwire",
+    "domain": "southwire.com",
+    "country": "US",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "qilin",
+    "name": "qilin",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "N/A",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/d3030a0e40a68489753359c1cf9d54c4.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/u291dgh3axjlqhfpbglu",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-22 19:33:32.198351",
+    "disclosedDate": "2026-03-22 19:33:48.254576"
+  }
+}
