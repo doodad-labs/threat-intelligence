@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-2347B2",
+  "type": "ransomware-incident",
+  "title": "marion military institute ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "marion military institute",
+    "domain": "marionmilitary.edu",
+    "country": "US",
+    "sector": "Education"
+  },
+  "actor": {
+    "id": "worldleaks",
+    "name": "worldleaks",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "[AI generated] Marion Military Institute (MMI), located in Marion, Alabama, is a two-year public military junior college. It is one of the five US military junior colleges that offer a direct commission into the US Army after a two-year course of study. Aside from military science and leadership education, MMI also offers a wide range of academic courses. Founded in 1842, it's the oldest military junior college in the United States.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/9935474ad0f2605a853132995f847213.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/twfyaw9uie1pbgl0yxj5ieluc3rpdhv0zub3b3jszgxlywtz",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-23 13:17:42.000000",
+    "disclosedDate": "2026-03-23 14:44:53.201112"
+  }
+}

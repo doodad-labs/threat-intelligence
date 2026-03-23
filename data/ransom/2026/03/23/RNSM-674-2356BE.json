@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-2356BE",
+  "type": "ransomware-incident",
+  "title": "omikenshi ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "omikenshi",
+    "domain": "omikenshi.co.jp",
+    "country": "JP",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "omikenshi.co.jp zoominfo.com/c/omikenshi-co-ltd/372144961 Omikenshi specializes in the production of textiles, including cotton and yarn, as well as advanced processing technologies. The company also offers a range of lifestyle products, cosmetics, and software development services. Their intended clients include businesses seeking office supplies and electronic catalogs. Additionally, Omikenshi is committed to environmental sustainability and actively engages in eco-friendly practices",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/t21pa2vuc2hpqhrozwdlbnrszw1lbg==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-23 09:38:22.000000",
+    "disclosedDate": "2026-03-23 14:37:17.743292"
+  }
+}

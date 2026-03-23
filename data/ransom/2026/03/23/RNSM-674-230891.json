@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-230891",
+  "type": "ransomware-incident",
+  "title": "delta ducon engenharia ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "delta ducon engenharia",
+    "domain": "deltaducon.com.br",
+    "country": "BR"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "deltaducon.com.br zoominfo.com/c/delta-ducon-engenharia/372415810 Delta Ducon is a company with over 25 years of experience in environmental systems and technologies, specializing in air emission control, dust removal processes, gas washing and treatment, and water treatment. They offer a comprehensive range of equipment and solutions, including pneumatic transport and handling technologies. Their products cater to various sectors such as metallurgy, chemical, pharmaceutical, food, and construction industries. Delta Ducon prioritizes environmental sustainability and provides complete systems with guaranteed performance",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/rgvsdgegrhvjb24grw5nzw5oyxjpyub0agvnzw50bgvtzw4=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-23 09:36:20.000000",
+    "disclosedDate": "2026-03-23 14:40:07.389580"
+  }
+}

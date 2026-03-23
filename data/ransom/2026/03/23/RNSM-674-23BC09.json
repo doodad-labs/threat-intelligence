@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-23BC09",
+  "type": "ransomware-incident",
+  "title": "grupo tawa ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "grupo tawa",
+    "domain": "grupotawa.com",
+    "country": "PE"
+  },
+  "actor": {
+    "id": "thegentlemen",
+    "name": "thegentlemen",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "grupotawa.com zoominfo.com/c/grupo-tawa/459512890 Grupo Tawa is a business group operating in Peru and Chile, dedicated to providing comprehensive business solutions that allow clients to focus on their core competencies. With over 18 years of experience, they offer expertise in personnel solutions, process outsourcing, cleaning, maintenance, and commercial management. The group serves more than 2,500 clients and employs over 15,000 individuals annually. Their commitment to excellence positions them as a reliable partner for companies across various industries",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/8c47959c80ef37fb0095eb6ecb94c7a8.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/r3j1cg8gvgf3yub0agvnzw50bgvtzw4=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-23 09:37:17.000000",
+    "disclosedDate": "2026-03-23 14:38:42.886743"
+  }
+}
