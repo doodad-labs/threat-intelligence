@@ -538,6 +538,29 @@
         "additionalProperties": false
       }
     },
+    "exploits": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "description": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          },
+          "lang": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "description",
+          "source",
+          "lang"
+        ],
+        "additionalProperties": false
+      }
+    },
     "sources": {
       "type": "array",
       "items": {
@@ -620,6 +643,9 @@
                   ]
                 },
                 "introduced": {
+                  "type": "string"
+                },
+                "version": {
                   "type": "string"
                 },
                 "lessThan": {
