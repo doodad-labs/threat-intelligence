@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-232941",
+  "type": "ransomware-incident",
+  "title": "**l**a* & ***c** **n*n**** i**e*t**** *l* ransomware incident",
+  "confidence": "low",
+  "victim": {
+    "name": "**l**a* & ***c** **n*n**** i**e*t**** *l*",
+    "country": "",
+    "sector": "Financial Services"
+  },
+  "actor": {
+    "id": "nightspire",
+    "name": "nightspire",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "description": "Data is not available now.",
+    "claimed_data_types": []
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/kipskiphkiamicoqkmmqkiaqkm4qbioqkiogssoqzsp0kioqkiaqtcpabmlnahrzcglyzq==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-23 00:00:00.000000",
+    "disclosedDate": "2026-03-23 06:15:15.062987"
+  }
+}
