@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-230C09",
+  "type": "ransomware-incident",
+  "title": "rioja motor ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "rioja motor",
+    "country": "ES"
+  },
+  "actor": {
+    "id": "akira",
+    "name": "akira",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 17000000000,
+    "description": "Riojamotor specializes in the sale of new and used vehicles, including brands such as Volkswagen, Audi, Seat, Skoda, and Cupra. They offer financing options and vehicle appraisal services, catering to clients looking for both personal and commercial vehicles.We will upload 17gb of corporate data soon. Employee personal information (passports, IDs, address, emails and so on), medical information, client personal docs, financials, lots of projects, correspondence, etc.",
+    "claimed_data_types": [
+      "internal-documents",
+      "email-addresses",
+      "passport-numbers"
+    ]
+  },
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/umlvamegtw90b3jaywtpcme=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-23 00:00:00.000000",
+    "disclosedDate": "2026-03-23 16:40:33.292323"
+  }
+}
