@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-231E6B",
+  "type": "ransomware-incident",
+  "title": "jdv products ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "jdv products",
+    "country": "US"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 700000000000,
+    "description": "JDV Products, Inc. specializes in providing a wide range of tools and equipment for wire wrapping, including wire wrap guns, wrap tools, and wire handling solutions.\r The company also features a selection of gas-powered tools and fiber optic tools, ensuring comprehensive support for electrical projects.\r \r We have 700GB of data at our disposal, in a week we will publish everything.",
+    "claimed_data_types": []
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/4f506f41637201c89ab090ad5bb41226.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/skrwifbyb2r1y3rzqgluy3jhbnnvbq==",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-23 01:00:00.000000",
+    "disclosedDate": "2026-03-23 01:01:20.657283"
+  }
+}
