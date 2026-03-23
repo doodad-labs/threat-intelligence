@@ -18,6 +18,12 @@
     "status": {
       "type": "string"
     },
+    "kev": {
+      "type": "boolean"
+    },
+    "epss": {
+      "type": "number"
+    },
     "description": {
       "type": "string"
     },
@@ -557,6 +563,12 @@
           "type"
         ],
         "additionalProperties": false
+      }
+    },
+    "cpes": {
+      "type": "array",
+      "items": {
+        "type": "string"
       }
     },
     "affectedProducts": {
