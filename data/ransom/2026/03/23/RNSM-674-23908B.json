@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/ransom.schema.json",
+  "id": "RNSM-674-23908B",
+  "type": "ransomware-incident",
+  "title": "kiswire ransomware incident",
+  "confidence": "medium",
+  "victim": {
+    "name": "kiswire",
+    "country": "KR",
+    "sector": "Manufacturing"
+  },
+  "actor": {
+    "id": "incransom",
+    "name": "incransom",
+    "confidence": "medium"
+  },
+  "extortion": {
+    "data_size_bytes": 128000000000,
+    "description": "Kiswire Ltd.\r 37 Gurak-ro 141beon-gil\r Suyeong-gu\r Busan, 48212\r South Korea\r www.kiswire.com \r \r is a prominent player in the specialty steel wire industry, headquartered in Busan, South Korea. Founded in 1945, the company has established itself as a global leader, manufacturing a wide range of steel wire products for various sectors, including automotive, construction, energy, and electronics. Kiswire exports its products to over 80 countries and maintains a significant production capacity of approximately 1.2 million tons annually.\r \r \r Leaked data: 128 GB (137,688,514,560 bytes)\r              118,019 Files, 22,024 Folders\r \r Special data: technologies, information about manufactured products, control of technological processes and tests, product assembly schemes, material specifications, drawings, product tests, logistics, financial indicators, complete information about employees including complete personal data, photographs, gender and skin color, etc., corporate information and more.\r \r Status of data: confidental",
+    "claimed_data_types": [
+      "personal-data"
+    ]
+  },
+  "screenshots": [
+    {
+      "url": "https://images.ransomware.live/victims/a381f1b96e7eb4c3531361489c5c82b2.png",
+      "source": "Ransomware Live"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ransomware.live/id/s2lzd2lyzubpbmnyyw5zb20=",
+      "source": "Ransomware Live",
+      "type": "feed"
+    }
+  ],
+  "timeline": {
+    "attackedDate": "2026-03-23 21:30:00.000000",
+    "disclosedDate": "2026-03-23 23:00:44.172653"
+  }
+}
