@@ -148,10 +148,14 @@
         },
         "disclosedDate": {
           "type": "string"
+        },
+        "lastModifiedDate": {
+          "type": "string"
         }
       },
       "required": [
-        "disclosedDate"
+        "disclosedDate",
+        "lastModifiedDate"
       ],
       "additionalProperties": false
     }

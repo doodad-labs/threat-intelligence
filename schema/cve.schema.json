@@ -711,10 +711,14 @@
       "properties": {
         "publishedDate": {
           "type": "string"
+        },
+        "lastModifiedDate": {
+          "type": "string"
         }
       },
       "required": [
-        "publishedDate"
+        "publishedDate",
+        "lastModifiedDate"
       ],
       "additionalProperties": false
     }
