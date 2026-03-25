@@ -543,9 +543,6 @@
       "items": {
         "type": "object",
         "properties": {
-          "id": {
-            "type": "string"
-          },
           "exploit": {
             "type": "string"
           },
@@ -578,7 +575,6 @@
           }
         },
         "required": [
-          "id",
           "exploit",
           "author",
           "type",
