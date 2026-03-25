@@ -11,7 +11,7 @@ The goal of the project is to provide a simple, transparent, and machine-consuma
 
 ID | Name | Location | Schema | Last Updated
 -- | ---- | -------- | ------ | ------------
-CVE | CVE Records | [`data/cve`](./data/cve) | [`schema/cve.schema.json`](https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/cve.schema.json) | `2026-03-25 18:01:30`
+CVE | CVE Records | [`data/cve`](./data/cve) | [`schema/cve.schema.json`](https://raw.githubusercontent.com/doodad-labs/threat-intelligence/refs/heads/main/schema/cve.schema.json) | `2026-03-25 19:10:21`
 
 ## Disclaimer
 
