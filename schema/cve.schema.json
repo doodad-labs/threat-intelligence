@@ -520,20 +520,36 @@
       "items": {
         "type": "object",
         "properties": {
-          "id": {
-            "type": "string"
-          },
           "source": {
             "type": "string"
           },
           "type": {
             "type": "string"
+          },
+          "description": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "lang": {
+                  "type": "string"
+                },
+                "value": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "lang",
+                "value"
+              ],
+              "additionalProperties": false
+            }
           }
         },
         "required": [
-          "id",
           "source",
-          "type"
+          "type",
+          "description"
         ],
         "additionalProperties": false
       }
