@@ -21,7 +21,7 @@ Some entries may reference or include proof-of-concept or exploitation code. Suc
 
 If you believe that personal, organisational, or other sensitive information has been referenced improperly, please open an issue or contact the maintainers so the matter can be reviewed and addressed promptly.
 
-## Sources
+## Sources and Feeders
 
 This feed builds upon the work of several external researchers, organisations, and platforms that collect and publish security intelligence.
 
