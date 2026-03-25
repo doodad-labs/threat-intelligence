@@ -543,20 +543,48 @@
       "items": {
         "type": "object",
         "properties": {
+          "id": {
+            "type": "string"
+          },
+          "exploit": {
+            "type": "string"
+          },
+          "author": {
+            "type": "string"
+          },
           "description": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "platform": {
+            "type": "string"
+          },
+          "verified": {
+            "type": "boolean"
+          },
+          "screenshotUrl": {
+            "type": "string"
+          },
+          "applicationUrl": {
             "type": "string"
           },
           "source": {
             "type": "string"
           },
-          "lang": {
+          "publishedDate": {
             "type": "string"
           }
         },
         "required": [
-          "description",
+          "id",
+          "exploit",
+          "author",
+          "type",
+          "verified",
           "source",
-          "lang"
+          "publishedDate"
         ],
         "additionalProperties": false
       }
