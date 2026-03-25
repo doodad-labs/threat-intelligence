@@ -757,5 +757,6 @@
     "timeline"
   ],
   "additionalProperties": false,
+  "description": "Canonical CVE record emitted by the aggregation pipeline.\n\nThe shape mirrors the JSON documents written to `out/data/cve` and later consumed by downstream indexing and publication steps.",
   "definitions": {}
 }
