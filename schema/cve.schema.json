@@ -515,6 +515,15 @@
       },
       "additionalProperties": false
     },
+    "requiredAction": {
+      "type": "string"
+    },
+    "cwes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
     "weaknesses": {
       "type": "array",
       "items": {
@@ -652,12 +661,6 @@
             "type": "string"
           },
           "packageType": {
-            "type": "string"
-          },
-          "cpe": {
-            "type": "string"
-          },
-          "purl": {
             "type": "string"
           },
           "repositoryUrl": {
