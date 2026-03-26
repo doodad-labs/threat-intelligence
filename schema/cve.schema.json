@@ -3,29 +3,36 @@
   "type": "object",
   "properties": {
     "schemaVersion": {
-      "type": "string"
+      "type": "string",
+      "description": "Canonical schema URL describing this document shape."
     },
     "id": {
-      "type": "string"
+      "type": "string",
+      "description": "CVE identifier, for example `CVE-2026-12345`."
     },
     "type": {
       "type": "string",
       "enum": [
         "cve",
         "nvd-cve"
-      ]
+      ],
+      "description": "Record family emitted by the pipeline."
     },
     "status": {
-      "type": "string"
+      "type": "string",
+      "description": "Upstream vulnerability lifecycle status."
     },
     "kev": {
-      "type": "boolean"
+      "type": "boolean",
+      "description": "Whether the CVE appears in CISA's Known Exploited Vulnerabilities list."
     },
     "epss": {
-      "type": "number"
+      "type": "number",
+      "description": "EPSS probability when supplied by an enrichment source."
     },
     "description": {
-      "type": "string"
+      "type": "string",
+      "description": "Preferred human-readable vulnerability summary."
     },
     "metrics": {
       "type": "object",
@@ -210,7 +217,8 @@
               "cvssData"
             ],
             "additionalProperties": false
-          }
+          },
+          "description": "CVSS v4 metric sets, usually from NVD."
         },
         "cvssV31": {
           "type": "array",
@@ -304,7 +312,8 @@
               "impactScore"
             ],
             "additionalProperties": false
-          }
+          },
+          "description": "CVSS v3.1 metric sets."
         },
         "cvssV30": {
           "type": "array",
@@ -398,7 +407,8 @@
               "impactScore"
             ],
             "additionalProperties": false
-          }
+          },
+          "description": "CVSS v3.0 metric sets."
         },
         "cvssV2": {
           "type": "array",
@@ -510,19 +520,23 @@
               "userInteractionRequired"
             ],
             "additionalProperties": false
-          }
+          },
+          "description": "Legacy CVSS v2 metric sets retained for older disclosures."
         }
       },
-      "additionalProperties": false
+      "additionalProperties": false,
+      "description": "Normalized scoring data copied from NVD metrics."
     },
     "requiredAction": {
-      "type": "string"
+      "type": "string",
+      "description": "Vendor remediation guidance, typically sourced from CISA KEV."
     },
     "cwes": {
       "type": "array",
       "items": {
         "type": "string"
-      }
+      },
+      "description": "Normalized CWE identifiers attached to the record."
     },
     "weaknesses": {
       "type": "array",
@@ -561,7 +575,8 @@
           "description"
         ],
         "additionalProperties": false
-      }
+      },
+      "description": "Free-form weakness descriptions that accompany the normalized CWE codes."
     },
     "exploits": {
       "type": "array",
@@ -569,34 +584,44 @@
         "type": "object",
         "properties": {
           "exploit": {
-            "type": "string"
+            "type": "string",
+            "description": "Relative output path to the stored exploit artifact."
           },
           "author": {
-            "type": "string"
+            "type": "string",
+            "description": "Author credited by the upstream exploit source."
           },
           "description": {
-            "type": "string"
+            "type": "string",
+            "description": "Human-readable exploit title or summary."
           },
           "type": {
-            "type": "string"
+            "type": "string",
+            "description": "Exploit category from the upstream source."
           },
           "platform": {
-            "type": "string"
+            "type": "string",
+            "description": "Optional platform or target family."
           },
           "verified": {
-            "type": "boolean"
+            "type": "boolean",
+            "description": "Whether the exploit source marked the entry as verified."
           },
           "screenshotUrl": {
-            "type": "string"
+            "type": "string",
+            "description": "Screenshot preview URL when available."
           },
           "applicationUrl": {
-            "type": "string"
+            "type": "string",
+            "description": "Optional vendor or application landing page."
           },
           "source": {
-            "type": "string"
+            "type": "string",
+            "description": "Canonical upstream source URL."
           },
           "publishedDate": {
-            "type": "string"
+            "type": "string",
+            "description": "Publication date reported by the exploit source."
           }
         },
         "required": [
@@ -608,7 +633,8 @@
           "publishedDate"
         ],
         "additionalProperties": false
-      }
+      },
+      "description": "Local or remote exploit artifacts associated with the CVE."
     },
     "sources": {
       "type": "array",
@@ -616,17 +642,20 @@
         "type": "object",
         "properties": {
           "url": {
-            "type": "string"
+            "type": "string",
+            "description": "Canonical normalized URL."
           },
           "source": {
-            "type": "string"
+            "type": "string",
+            "description": "Human-readable source label."
           },
           "type": {
             "type": "string",
             "enum": [
               "press",
               "feed"
-            ]
+            ],
+            "description": "Whether the URL came from a feed or editorial source."
           }
         },
         "required": [
@@ -635,13 +664,15 @@
           "type"
         ],
         "additionalProperties": false
-      }
+      },
+      "description": "References used as provenance and supporting evidence for the CVE."
     },
     "cpes": {
       "type": "array",
       "items": {
         "type": "string"
-      }
+      },
+      "description": "Optional CPE identifiers collected during enrichment."
     },
     "affectedProducts": {
       "type": "array",
@@ -649,28 +680,36 @@
         "type": "object",
         "properties": {
           "vendor": {
-            "type": "string"
+            "type": "string",
+            "description": "Normalized vendor or project identifier."
           },
           "product": {
-            "type": "string"
+            "type": "string",
+            "description": "Product name as emitted in the normalized record."
           },
           "ecosystem": {
-            "type": "string"
+            "type": "string",
+            "description": "Package ecosystem, such as npm or PyPI, when known."
           },
           "platform": {
-            "type": "string"
+            "type": "string",
+            "description": "Platform family when the product is platform-specific."
           },
           "packageType": {
-            "type": "string"
+            "type": "string",
+            "description": "Package artifact type when the product is extensible content."
           },
           "repositoryUrl": {
-            "type": "string"
+            "type": "string",
+            "description": "Canonical source repository URL."
           },
           "packageUrl": {
-            "type": "string"
+            "type": "string",
+            "description": "Package registry URL."
           },
           "url": {
-            "type": "string"
+            "type": "string",
+            "description": "Best general-purpose product URL when no stronger URL exists."
           },
           "affectedVersions": {
             "type": "array",
@@ -683,38 +722,48 @@
                     "semver",
                     "pep440",
                     "generic"
-                  ]
+                  ],
+                  "description": "Version comparison scheme used for the range."
                 },
                 "introduced": {
-                  "type": "string"
+                  "type": "string",
+                  "description": "Earliest introduced version when known."
                 },
                 "version": {
-                  "type": "string"
+                  "type": "string",
+                  "description": "Exact vulnerable version when the advisory names a single release."
                 },
                 "lessThan": {
-                  "type": "string"
+                  "type": "string",
+                  "description": "Exclusive upper bound."
                 },
                 "lessThanOrEqual": {
-                  "type": "string"
+                  "type": "string",
+                  "description": "Inclusive upper bound."
                 },
                 "greaterThan": {
-                  "type": "string"
+                  "type": "string",
+                  "description": "Exclusive lower bound."
                 },
                 "greaterThanOrEqual": {
-                  "type": "string"
+                  "type": "string",
+                  "description": "Inclusive lower bound."
                 },
                 "raw": {
-                  "type": "string"
+                  "type": "string",
+                  "description": "Raw advisory text used to infer this range."
                 }
               },
               "additionalProperties": false
-            }
+            },
+            "description": "Version ranges believed to be affected by the vulnerability."
           },
           "fixedVersions": {
             "type": "array",
             "items": {
               "type": "string"
-            }
+            },
+            "description": "Known fixed versions gathered during enrichment."
           },
           "evidence": {
             "type": "object",
@@ -723,16 +772,19 @@
                 "type": "array",
                 "items": {
                   "type": "string"
-                }
+                },
+                "description": "Relevant snippets extracted from the CVE description."
               },
               "referenceUrls": {
                 "type": "array",
                 "items": {
                   "type": "string"
-                }
+                },
+                "description": "Supporting reference URLs."
               }
             },
-            "additionalProperties": false
+            "additionalProperties": false,
+            "description": "Signals used to justify the affected-product inference."
           },
           "confidence": {
             "type": "string",
@@ -740,30 +792,35 @@
               "low",
               "medium",
               "high"
-            ]
+            ],
+            "description": "Confidence score for the inferred product match."
           }
         },
         "required": [
           "product"
         ],
         "additionalProperties": false
-      }
+      },
+      "description": "Best-effort product metadata inferred from references and vendor advisories."
     },
     "timeline": {
       "type": "object",
       "properties": {
         "publishedDate": {
-          "type": "string"
+          "type": "string",
+          "description": "Original publication timestamp for the CVE."
         },
         "lastModifiedDate": {
-          "type": "string"
+          "type": "string",
+          "description": "Timestamp when this normalized record was last written."
         }
       },
       "required": [
         "publishedDate",
         "lastModifiedDate"
       ],
-      "additionalProperties": false
+      "additionalProperties": false,
+      "description": "Key timestamps associated with publication and local processing."
     }
   },
   "required": [
