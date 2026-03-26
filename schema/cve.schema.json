@@ -34,6 +34,13 @@
       "type": "string",
       "description": "Preferred human-readable vulnerability summary."
     },
+    "information": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Additional information about the CVE."
+    },
     "metrics": {
       "type": "object",
       "properties": {
