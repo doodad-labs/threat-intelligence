@@ -11,7 +11,7 @@ The goal of the project is to provide a simple, transparent, and machine-consuma
 
 ID | Name | Location | Schema | Index | Last Updated
 -- | ---- | -------- | ------ | ----- | ------------
-CVE | CVE Records | [`data/cve`](./data/cve) | [`schema/cve.schema.json`](./schema/cve.schema.json) | [`indexes/cve.index.json`](./indexes/cve.index.json) | `2026-05-06 02:55:39`
+CVE | CVE Records | [`data/cve`](./data/cve) | [`schema/cve.schema.json`](./schema/cve.schema.json) | [`indexes/cve.index.json`](./indexes/cve.index.json) | `2026-05-06 06:07:18`
 
 ## Disclaimer
 
